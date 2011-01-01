@@ -1,0 +1,89 @@
+#!/usr/bin/env bash
+# Daily re-export + publish of cfi.co main-site articles. Re-exports every
+# published article; commits each NEW / CHANGED / WITHDRAWN article individually
+# with today's date and an honest message (content-changed vs metadata-only),
+# refreshes the manifest, then pushes. This is what proves over time that
+# articles aren't silently modified: every change is a dated, public, diffable commit.
+set -euo pipefail
+
+REPO="$(cd "$(dirname "$0")/.." && pwd)"
+cd "$REPO"
+OWNER=cfi-co
+GHREPO=articles
+LOG=/var/log/cfi-articles-archive-sync.log
+WP=/var/customers/webs/marten/cfi.co
+# Array, not a string: the values contain spaces and MUST NOT word-split.
+# (A bare `git $ID` makes git read a name word as a subcommand and aborts.)
+ID=(-c user.name="CFI.co Articles Archive" -c user.email="articles-archive@cfi.co")
+
+# Append once to the log. Do NOT also echo to stderr: cron already redirects
+# stdout+stderr to $LOG, so a tee+>&2 doubled every line.
+log() { printf '[%s] %s\n' "$(date -u +%FT%TZ)" "$*" >>"$LOG"; }
+
+# Single-instance lock.
+exec 9>/var/lock/cfi-articles-archive-sync.lock
+flock -n 9 || { log "another sync running, skip"; exit 0; }
+
+log "sync start"
+
+# 1. Re-export live data (overwrites articles/; identical files = no diff).
+php8.2 /usr/local/bin/wp eval-file scripts/export.php --allow-root --path="$WP" >/dev/null
+
+git add -A articles
+
+mapfile -t CHANGED < <(git diff --cached --name-only -- articles \
+                       | sed -E 's/\.(md|json)$//' | sort -u)
+
+if [ "${#CHANGED[@]}" -eq 0 ]; then
+  log "no article changes"
+else
+  log "${#CHANGED[@]} article(s) changed"
+  for stem in "${CHANGED[@]}"; do
+    md="$stem.md"; js="$stem.json"
+    year="$(basename "$(dirname "$stem")")"
+    id="$(basename "$stem" | grep -oE '^[0-9]+')"
+
+    if git cat-file -e "HEAD:$js" 2>/dev/null; then in_head=1; else in_head=0; fi
+    if [ -f "$js" ]; then on_disk=1; else on_disk=0; fi
+
+    if   [ $on_disk -eq 1 ] && [ $in_head -eq 0 ]; then
+      title="$(php8.2 -r '$j=json_decode(file_get_contents($argv[1]),true);echo $j["title"];' "$js")"
+      msg="Add article #$id: $title ($year)"
+    elif [ $on_disk -eq 0 ] && [ $in_head -eq 1 ]; then
+      title="$(git show "HEAD:$js" | php8.2 -r '$j=json_decode(stream_get_contents(STDIN),true);echo $j["title"];')"
+      msg="Withdraw article #$id: $title ($year) — no longer published"
+    else
+      oldh="$(git show "HEAD:$js" | php8.2 -r '$j=json_decode(stream_get_contents(STDIN),true);echo $j["content_sha256"];')"
+      newh="$(php8.2 -r '$j=json_decode(file_get_contents($argv[1]),true);echo $j["content_sha256"];' "$js")"
+      title="$(php8.2 -r '$j=json_decode(file_get_contents($argv[1]),true);echo $j["title"];' "$js")"
+      if [ "$oldh" != "$newh" ]; then
+        msg="Update article #$id: $title — CONTENT CHANGED"
+      else
+        msg="Update article #$id: $title — metadata only (content unchanged)"
+      fi
+    fi
+    git "${ID[@]}" commit -q --no-verify -m "$msg" -- "$md" "$js"
+    log "  $msg"
+  done
+fi
+
+# 2. Refresh whole-tree manifest if anything moved. (Paths are newline-safe:
+#    slugs are sanitised; -r avoids the empty-input -> hash-stdin trap.)
+git ls-files | grep -vxF 'MANIFEST.sha256' | xargs -r -d '\n' sha256sum > MANIFEST.sha256
+if ! git diff --quiet -- MANIFEST.sha256; then
+  git add MANIFEST.sha256
+  git "${ID[@]}" commit -q --no-verify -m "Refresh SHA-256 manifest ($(date -u +%F))"
+fi
+
+# 3. Push. (git push is a no-op if already up to date.)
+APP_ENV="${AWARDS_APP_ENV:-/root/.config/cfi-articles-archive/app.env}"
+APP_PEM="$(grep -E '^PEM=' "$APP_ENV" 2>/dev/null | cut -d= -f2-)"
+if [ ! -r "$APP_ENV" ] || ! grep -qE '^APP_ID=[0-9]+' "$APP_ENV" \
+   || [ -z "$APP_PEM" ] || [ ! -r "$APP_PEM" ]; then
+  log "GitHub App not configured yet — local commits ready, push skipped"
+  log "sync done"; exit 0
+fi
+TOKEN="$(AWARDS_APP_ENV="$APP_ENV" php8.2 scripts/gh-app-token.php)" || { log "token mint FAILED"; exit 1; }
+git push -q "https://x-access-token:${TOKEN}@github.com/${OWNER}/${GHREPO}.git" HEAD:main
+log "pushed"
+log "sync done"
