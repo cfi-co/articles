@@ -1,0 +1,32 @@
+---
+id: 157
+title: "Bank of America Merrill Lynch on Egypt: First Hurdle Passed, More On the Way"
+award_year: 2011
+published: 2011-12-04 14:09:02
+published_gmt: 2011-12-04 14:09:02
+author: "CFI.co Editorial"
+url: "https://cfi.co/middleeast/2011/12/bank-of-america-merrill-lynch-on-egypt-first-hurdle-passed-more-on-the-way/"
+categories: ["Middle East"]
+content_sha256: aae9c5d5607d2ffa2e31ddc8af948cd5521ea297b78771c2abc1be99e4055b4f
+canonical: 157-bank-of-america-merrill-lynch-on-egypt-first-hurdle-passed-more-on-the-way.json
+---
+
+# Bank of America Merrill Lynch on Egypt: First Hurdle Passed, More On the Way
+
+> Verbatim archived copy. Canonical machine record: `157-bank-of-america-merrill-lynch-on-egypt-first-hurdle-passed-more-on-the-way.json`.
+
+<a href="http://capitalfinanceint.com/news/wp-content/uploads/2011/12/voting.jpg"><img class="alignright size-medium wp-image-514" title="voting" src="http://capitalfinanceint.com/news/wp-content/uploads/2011/12/voting-300x199.jpg" alt="" width="300" height="199" /></a>The successful holding of elections should help defuse tensions in the short-term, but the transition process remains long, complex and fraught with challenges, particularly revolving around the new Constitution and the SCAF's powers. These points were reinforced by the recent conference call we have held. While political clarity seems unlikely at least until mid-2Q12, this uncertainty weighs down on the economy and adds to the pressure on EGP and rates, in our view.
+
+<strong>Elections should offer breathing space</strong>
+
+Elections should help offer an exit out of the deadlock seen last week when protest resumed in Tahrir Square. The high election turnout, a first in Egypt, is likely a reflection of the greater confidence people have in the electoral process. While radical factions in Tahrir Square may have boycotted elections, most activists seem to believe in a dual track (participation in the electoral process, street protests to pressure SCAF).
+
+<strong>Four main alliances squaring off in elections</strong>
+
+Four main alliances (two Islamist and two secular) and a few other smaller ones are squaring off in the elections. The four main alliances are: 1) the Democratic Alliance (led mainly by the Muslim Brotherhood's Freedom and Justice Party, other Salafist parties or the Wafd party breaking off the ranks to contest separately); 2) the Islamist Alliance (led by Salafist group Al Nour Party and al-Gama'a al-Islamiyya's Building and Development Party); 3) the Egypt Bloc (led by the Free Egyptians Party founded by billionaire Naguib Sawiris. While the alliance was originally formed as a coalition of 14 liberal and leftist political parties, it has fragmented and there are but two other parties included: the Social Democratic Party, and al-Tagammu); and, 4) the Competing the Revolution Alliance (largely made up of former members of the Egypt Bloc and comprising the Revolutionary Youth Coalition among a group of other youth, socialist, liberal or moderate Islamist parties). Last, the fragmentation of the main alliances cited above led to several unaffiliated or non-aligned parties, the most significant of which include the Wafd party and parties of ex-NDP figures.
+
+<strong>Islamists reportedly take an early lead</strong>
+
+While preliminary results are to be announced today, the local press reports that the Muslim Brotherhood (MB) are likely to win at least 40% of the parliamentary seats in the first phase of elections. The main surprise is the rise of the Salafist movement, which is reportedly in second place or disputing it to the secular Egypt Bloc in several districts. None of the NDP remnant parties seem to have done particularly well so far in spite of the late approval of the Treason Law. It is too early to say whether the MB would engage in an alliance with Salafist or secular parties, though pragmatism would likely command an alliance with the latter, if needed.
+
+Source: GEMs Daily - London Edition, 1 December 2011
