@@ -1,0 +1,56 @@
+---
+id: 209
+title: "U.S. Trade Deficit and Consumer Sentiment Rise"
+award_year: 2012
+published: 2012-02-06 14:31:04
+published_gmt: 2012-02-06 14:31:04
+author: "CFI.co Editorial"
+url: "https://cfi.co/finance/2012/02/u-s-trade-deficit-and-consumer-sentiment-rise/"
+categories: ["Finance", "North America"]
+content_sha256: a32f2f6b4c5aaf159d822c15183d833261172d6e2b4b3702738e3f1403c9921b
+canonical: 209-u-s-trade-deficit-and-consumer-sentiment-rise.json
+---
+
+# U.S. Trade Deficit and Consumer Sentiment Rise
+
+> Verbatim archived copy. Canonical machine record: `209-u-s-trade-deficit-and-consumer-sentiment-rise.json`.
+
+<a href="http://capitalfinanceint.com/news/wp-content/uploads/2012/02/us-port.jpg"><img class="alignright size-medium wp-image-572" title="us-port" src="http://capitalfinanceint.com/news/wp-content/uploads/2012/02/us-port-300x219.jpg" alt="" width="300" height="219" /></a>The United States trade deficit widened in November to its largest point in five months, prompting some economists to slightly rein in growth expectations for the fourth quarter.
+
+A separate survey released on Friday showed that consumer sentiment hit an eight-month high in early January as Americans grew more optimistic about job prospects.
+
+The Thomson Reuters/University of Michigan preliminary January reading on its overall index of consumer sentiment rose to 74 from 69.9 in December for the fifth month of gains and the highest level since May 2011.
+
+The report topped expectations of 71.5 and contrasted with December’s weaker-than-expected retail sales reported on Thursday.
+
+“This shows even though the retail sales number this week was disappointing, there could be a little more underlying strength,” said Kathy Lien, director of research at GFT Forex in Jersey City. “I’d be wary of looking at this as a shift in long-term confidence, but I’d look at this as good news today.”
+
+Commerce Department data showed that the trade gap was $47.8 billion in November, exceeding analysts’ forecast of a $45 billion deficit.
+
+“The trade balance deteriorated pretty significantly, and it could shave a few tenths of a percent off our expectation for fourth quarter,” said Russell Price, senior economist at Ameriprise Financial.
+
+JPMorgan Chase said gross domestic product growth for the fourth quarter was now tracking closer to 3 percent than the company’s forecast of 3.5 percent.
+
+A wider deficit shows that more goods and services bought by American businesses and consumers were produced outside the country, subtracting from gross domestic product.
+
+“The external outlook does not bode well for U.S. exports, as a deceleration in global growth will coincide with a stronger U.S. dollar due to lingering financial concerns regarding Europe’s sovereign debt turbulences,” wrote Martin Schwerdtfeger, a senior economist at the TD Bank Group, in a note.
+
+A dip in import prices showed that inflation pressures were still muted, giving the Federal Reserve wiggle room as it holds benchmark interest rates at ultralow levels.
+
+Import prices were down 0.1 percent in December after a 0.8 percent gain in November as oil prices fell, in line with economists’ expectations.
+
+Economic growth in the final quarter of 2011 is likely to have accelerated from the third quarter’s 1.8 percent rate, with many economists expecting an annualized rise of around 3 percent.
+
+Consumer spending, once a crucial pillar of the economy, remains lackluster and sensitive to shocks.
+
+Although some Federal Reserve officials have said further steps may be needed to stimulate the economy, no action is expected at the next Fed policy meeting at the end of the month.
+
+Thirty-four percent of consumers polled in the confidence survey said they had heard of recent job gains, a record high in the survey’s history and well above the 21 percent recorded in December.
+
+“The data suggest a stronger consumer spending outlook, rising to about a 2.1 percent gain in 2012,” Richard Curtin, the survey director, said in a statement.
+
+But consumers still lacked confidence in government economic policies, with the majority rating them unfavorably for the sixth consecutive month.
+
+Americans also remained dour on their personal finances, with just 24 percent expecting their finances to improve in January, compared with 25 percent last month.
+
+The survey’s barometer of current economic conditions rose to the highest level since February at 82.6, from 79.6, while its gauge of consumer expectations rose to 68.4 from 63.6.
