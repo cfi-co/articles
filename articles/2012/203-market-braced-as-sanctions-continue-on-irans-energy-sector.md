@@ -1,0 +1,42 @@
+---
+id: 203
+title: "Market Braced as Sanctions Continue on Iran's Energy Sector"
+award_year: 2012
+published: 2012-03-06 14:27:54
+published_gmt: 2012-03-06 14:27:54
+author: "CFI.co Editorial"
+url: "https://cfi.co/europe/2012/03/market-braced-as-sanctions-continue-on-irans-energy-sector/"
+categories: ["Europe", "Middle East", "North America", "Oil &amp; Mining"]
+content_sha256: bed3e3ef9a6acd6cafbc80c96e04ce2413d82dcdf29756894ad0a18fbd330ce2
+canonical: 203-market-braced-as-sanctions-continue-on-irans-energy-sector.json
+---
+
+# Market Braced as Sanctions Continue on Iran's Energy Sector
+
+> Verbatim archived copy. Canonical machine record: `203-market-braced-as-sanctions-continue-on-irans-energy-sector.json`.
+
+<a href="http://capitalfinanceint.com/news/wp-content/uploads/2012/03/iran-oil.jpg"><img class="alignright size-medium wp-image-550" title="iran-oil" src="http://capitalfinanceint.com/news/wp-content/uploads/2012/03/iran-oil-300x188.jpg" alt="" width="300" height="188" /></a>Iran's oil sector has been targeted by fresh sanctions from the US, while the EU is in talks over what extra restrictions it will place on the country's economy. A number of sanctions have targeted Iran's energy sector, prompting analysts to ask what impact restrictions could have on the oil market.
+
+The Obama administration announced sanctions last month, which included declaring the Iranian banking system a threat. Iran's oil export business is conducted through its central bank, which acts as an intermediary between the national oil company and customers.
+
+By making the central bank a threat the US could now put sanctions on any company or government dealing with it. However Iran could find ways around this. "Sanctions on Iran's central bank would make oil payments increasingly difficult but, given the critical importance of the sector, and the keen interests from customers, I am sure a way will always be found to make payments; perhaps barter transactions," Robin Mills, head of consulting at Manaar Energy Consulting tells AMEinfo.com.
+
+The sanctions have been placed on Iran in an attempt to pressure the country over its nuclear enrichment programme. A recent UN report suggested that Iran is attempting to build a nuclear bomb and "credible intelligence" suggests this process "may be ongoing". Iran has denied the claims, saying its nuclear programme is peaceful.
+<h3>Iran warns of global price hikes</h3>
+Seyed Emad Hosseini, rapporteur of the Iranian Parliament's Energy Commission, told the Fars News Agency recently: "The oil producing countries are normally thinking of stabilising the market, while sanctions on Iran's oil, gas and petrochemical industries would be synonymous with a disruption in the world market, which in turn would push up crude prices."
+
+Hosseini has also stated that its economy would not be negatively affected by any sanctions as it has unofficially been under sanctions for a long time already and has "overcome all problems throughout these years and achieved eye-catching growth." And that is a view upheld by oil industry experts.
+
+"Iran has been rather inflexible in dealing with the financial sanctions so far - but that could change if things become critical. Iran has been under formal and informal sanctions of various kinds for many years, and so its economy is rather self-sufficient. Many of Iran's economic problems are due to its own mismanagement rather than sanctions," says Mills.
+
+On a macro-economic level, this week an Iranian Foreign Ministry spokesman claimed that Western sanctions on the country's ability to export oil will result in prices more than doubling. "As soon as such an issue is raised seriously the oil price would soar to above $250 a barrel," Ramin Mehmanparast told the reformist daily Sharq.
+
+However, such a rise seems unlikely. "The current sanctions are putting some upward pressure on prices. But the more significant effect will be shuffling around supplies and hence changing the relative pricing of different grades. Long-term effects depend on whether there is any military conflict, with highly uncertain effects. Assuming there is no conflict, sanctions increase long-term prices by hampering the Iranian oil industry," explains Mills.
+<h3>Iran exports 2.2m barrels per day</h3>
+Iran currently exports 2.2 million barrels per day. Should that figure be taken off the world market, the effects would be disastrous. However, this remains unlikely, with the destinations of exports changing a far more conceivable scenario. The EU may look to Iraq's Kirkuk crude or to reroute Saudi exports in order to make up its shortfall.
+
+Iran's oil industry is facing another threat. A number of explosions have been reported recently at its energy facilities. Some of these have been blamed on covert attacks from the West and Israel, but there is also an issue of poor and ageing equipment being used.
+
+"Some recent explosions may have been sabotage, including the pipeline accidents. But much of Iran's oil infrastructure is old and badly maintained. This is partly due to sanctions but, again, more caused by underinvestment," reveals Mills.
+
+The EU is reportedly to announce its decision on sanctions in January and its foreign policy chief Catherina Ashton has said an oil embargo is still "being debated". However the impact of an EU import ban would be limited without the support of China, India, Japan or South Korea. China alone imports more oil from Iran and the four countries account for almost 60% of its oil exports. It is thought unlikely that any of these nations will join in the import ban.
