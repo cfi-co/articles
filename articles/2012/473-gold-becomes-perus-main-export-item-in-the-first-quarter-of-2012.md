@@ -1,0 +1,31 @@
+---
+id: 473
+title: "Gold Becomes Peru’s Main Export Item in the First Quarter of 2012"
+award_year: 2012
+published: 2012-05-11 11:56:40
+published_gmt: 2012-05-11 10:56:40
+author: "CFI.co Editorial"
+url: "https://cfi.co/finance/2012/05/gold-becomes-perus-main-export-item-in-the-first-quarter-of-2012/"
+categories: ["Finance", "Latin America", "Oil &amp; Mining"]
+content_sha256: 9018f8365c931aa088816ae9d5a5c5fea7d1cb74b22dd08c478bbcc43a18d689
+canonical: 473-gold-becomes-perus-main-export-item-in-the-first-quarter-of-2012.json
+---
+
+# Gold Becomes Peru’s Main Export Item in the First Quarter of 2012
+
+> Verbatim archived copy. Canonical machine record: `473-gold-becomes-perus-main-export-item-in-the-first-quarter-of-2012.json`.
+
+<a href="http://capitalfinanceint.com/news/wp-content/uploads/2012/05/gold.jpg"><img class="alignright size-medium wp-image-474" title="gold" src="http://capitalfinanceint.com/news/wp-content/uploads/2012/05/gold-300x225.jpg" alt="" width="300" height="225" /></a>Peruvian gold sales totalled 2.57 billion dollars in the first quarter of this year, making the commodity the country’s top export, the National Mining, Petroleum and Energy Society, SNMPE, announced.
+
+Total exports of gold soared 30% last year reaching 10.1bn dollars.
+
+Gold accounted for 23% of Peru’s total exports of 11.38 billion dollars during the January-March 2012 period, SNMPE gold committee chairman Jose Morales Dasso said in a statement. Peru’s mining industry posted exports of 6.64 billion in the first quarter, with gold accounting for 39% of the total.
+
+“With these results, gold has become the principal Peruvian export product and this performance is explained by the marked rise in the price of the precious metal on international markets. Gold exports soared 30% to 10.1 billion dollars in 2011, generating 2.3 billion dollars more than in the prior year. Peruvian gold is exported to 14 markets, including Switzerland, Canada and the United States", Morales said.
+
+Mining projects have sparked numerous conflicts in Peru. The Conga gold and copper mining project, for example, has been rejected by the majority of residents of the northern region of Cajamarca.
+
+The Yanacocha mining company, South America’s No. 1 gold producer, plans to invest 4.8bn dollars in Conga, but the government has set new conditions to reduce the project’s environmental impact and secure water reserves.
+
+The company will have to accept the conditions if it wants to move forward with the project, officials said.
+While the gold price remains high there is plenty of room for compromise.
