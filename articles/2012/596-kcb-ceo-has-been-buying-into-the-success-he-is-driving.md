@@ -1,0 +1,30 @@
+---
+id: 596
+title: "KCB CEO Has Been Buying Into the Success He Is Driving"
+award_year: 2012
+published: 2012-05-21 16:20:11
+published_gmt: 2012-05-21 15:20:11
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2012/05/kcb-ceo-has-been-buying-into-the-success-he-is-driving/"
+categories: ["Africa", "Banking"]
+content_sha256: 7e4f1939afaea57afa392b515c3b311fd805ef2504b47c25031e0615dece2456
+canonical: 596-kcb-ceo-has-been-buying-into-the-success-he-is-driving.json
+---
+
+# KCB CEO Has Been Buying Into the Success He Is Driving
+
+> Verbatim archived copy. Canonical machine record: `596-kcb-ceo-has-been-buying-into-the-success-he-is-driving.json`.
+
+[caption id="attachment_597" align="alignright" width="300"]<a href="http://cfi.co/wp-content/uploads/2012/05/martin-oduor-optieno.jpg"><img class="wp-image-597 size-medium" title="martin-oduor-optieno" src="https://cfi.co/wp-content/uploads/2012/05/martin-oduor-optieno-300x233.jpg" alt="" width="300" height="233" /></a> KCB CEO Martin Oduor-Otieno[/caption]
+
+The chief executive of KCB Group has bought KCB shares in a demonstration of his confidence in the company he leads.
+
+KCB’s annual report shows chief executive Martin Oduor-Otieno bought shares last year.
+
+Mr Oduor-Otieno has been the CEO of KCB Group since 2007 acquired 509,180 shares now valued at Sh12 million, analysts regard this insider buys as symbolic.
+
+“Few people are better placed to evaluate a company’s prospects than those who actually run it, which is why many investors regard directors’ share dealings as a key indicator of future prospects,” said an analysts at Kestrel Capital who sought anonymity.
+
+It’s not clear whether Mr Oduor-Otieno bought the shares through the open market at Nairobi Securities Exchange (NSE) or via KCB’s Employee Share Option Scheme (ESOP) through which staff acquired shares worth Sh18. 4 million at Sh18.62 a piece, according to the bank’s 2011 annual report. Since then shares have risen to Sh23.75.
+
+KCB’s net profit rose 36.7 per cent to Sh2.4 billion in quarter one while Equity’s increased 13.3 per cent to Sh2.6 billion, making it Kenya’s most profitable lender and highlighting the importance of regional operations. KCB looks poised to become Kenya’s most profitable lender.
