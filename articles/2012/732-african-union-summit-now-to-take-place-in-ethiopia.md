@@ -1,0 +1,35 @@
+---
+id: 732
+title: "African Union Summit Now to Take Place in Ethiopia"
+award_year: 2012
+published: 2012-06-12 10:54:14
+published_gmt: 2012-06-12 09:54:14
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2012/06/african-union-summit-now-to-take-place-in-ethiopia/"
+categories: ["Africa"]
+content_sha256: e4911ba6288862cbbd94fdb4fb2251317009a315c8e0345a6dffbc9d356db409
+canonical: 732-african-union-summit-now-to-take-place-in-ethiopia.json
+---
+
+# African Union Summit Now to Take Place in Ethiopia
+
+> Verbatim archived copy. Canonical machine record: `732-african-union-summit-now-to-take-place-in-ethiopia.json`.
+
+[caption id="attachment_733" align="alignright" width="225" caption="Addis Ababa, Capital of Ethiopia"]<a href="http://capitalfinanceint.com/news/wp-content/uploads/2012/06/addis-ababa-ethiopia.jpg"><img class="size-full wp-image-733" title="addis-ababa-ethiopia" src="http://capitalfinanceint.com/news/wp-content/uploads/2012/06/addis-ababa-ethiopia.jpg" alt="" width="225" height="255" /></a>[/caption]
+<p style="text-align: justify;"><strong>The African Union summit has been moved to the Ethiopian capital after Malawi refused to host the gathering.</strong></p>
+<p style="text-align: justify;">Malawi has blocked the attendance of Sudan's President Omar Hassan al-Bashir, who is wanted by the International Criminal Court (ICC). The July meeting will now take place in Addis Ababa.</p>
+<p style="text-align: justify;">The AU's Ferdinand Montcho has accused the ICC of interfering in African affairs.</p>
+<p style="text-align: justify;">Malawi said it did not want Mr Bashir to attend because he is wanted for genocide and war crimes in Darfur.</p>
+<p style="text-align: justify;">However he denies the charges, saying they are politically motivated.</p>
+<p style="text-align: justify;">Member states of the ICC - which include Malawi - have a duty to arrest indictees.</p>
+<p style="text-align: justify;">"Following the withdrawal of... Malawi to host the 19th AU summit meetings... and after consultations among member states, it has been decided that the 19th summit will be held at the African Union headquarters in Addis Ababa, Ethiopia, on the same dates," the AU said in a statement.</p>
+<p style="text-align: justify;">It had asked for the arrest warrant to be deferred and urged Malawi to allow Mr Bashir to attend.</p>
+<p style="text-align: justify;">Mr Montcho told the AFP news agency: "This matter of ICC, for me it is nonsense. Every time we want to have a summit they start disturbing us.</p>
+<p style="text-align: justify;">"Why should they not let us hold our meeting [without] this cinema, this theatre, this play?"</p>
+<p style="text-align: justify;"><strong>Donor relations</strong></p>
+<p style="text-align: justify;">The ICC's chief prosecutor has called for aid cuts to countries that fail to detain the Sudanese president.</p>
+<p style="text-align: justify;">Malawi's President Joyce Banda has said welcoming Mr Bashir to Malawi risked damaging relations with donors.</p>
+<p style="text-align: justify;">Malawi recognises the ICC and is keen to ensure that the foreign aid flows that had been restricted after donors accused her predecessor, President Bingu wa Mutharika, of political repression. The former leader died in office in April.</p>
+<p style="text-align: justify;">Sudan asked the AU to move the meeting to its headquarters in Addis Ababa after Malawi said Mr Bashir would not be welcome.</p>
+<p style="text-align: justify;">Mr al-Bashir, who has been indicted for genocide and crimes against humanity, will see the decision to hold the summit as a diplomatic coup.</p>
+<p style="text-align: justify;">Mr Bashir was the first head of state to be indicted by the ICC.</p>
