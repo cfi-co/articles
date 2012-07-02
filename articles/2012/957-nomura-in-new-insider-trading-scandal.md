@@ -1,0 +1,21 @@
+---
+id: 957
+title: "Nomura in New Insider Trading Scandal"
+award_year: 2012
+published: 2012-07-02 15:54:38
+published_gmt: 2012-07-02 14:54:38
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2012/07/nomura-in-new-insider-trading-scandal/"
+categories: ["Asia Pacific", "Finance"]
+content_sha256: 73f8abf6f41e16184047dbc90ed55dafb0317558c547a96377a1458cf01ec1f0
+canonical: 957-nomura-in-new-insider-trading-scandal.json
+---
+
+# Nomura in New Insider Trading Scandal
+
+> Verbatim archived copy. Canonical machine record: `957-nomura-in-new-insider-trading-scandal.json`.
+
+<p style="text-align: justify;"><a href="http://capitalfinanceint.com/news/wp-content/uploads/2012/07/nomura-1.jpg"><img class="alignleft size-full wp-image-958" title="nomura-1" src="http://capitalfinanceint.com/news/wp-content/uploads/2012/07/nomura-1.jpg" alt="" width="284" height="177" /></a>Nomura is facing a new insider trading scandal. Nomura Holdings admitted to sweeping breaches of safeguards on confidential client information and will slash top executives' pay and shut an equity sales desk as Japan's largest brokerage seeks to resolve a damaging insider trading probe.</p>
+<p style="text-align: justify;">Nomura said CEO Kenichi Watanabe's pay would be halved for six months to take responsibility for the brokerage's third insider trading scandal since he took charge four years ago. In the year to end-March, 59-year-old Watanabe was paid US $1.6 million, including options.</p>
+<p style="text-align: justify;">Nomura has 27,000 employees and is Japans largest asset manager with US$ one trillion from private clients alone.</p>
+<p style="text-align: justify;">Nomura reported profits of $141 million for the 12 months fiscal year ending March 31<sup>st</sup>, 2012. This was a better result than in 2009 when the company lost $7.1 Billion. Nomura has $29 billion in shareholders equity. Nomura’s shares pay a current dividend yield of 2%.</p>
