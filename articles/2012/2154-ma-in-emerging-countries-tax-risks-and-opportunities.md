@@ -1,0 +1,58 @@
+---
+id: 2154
+title: "M&A in Emerging Countries – Tax Risks and Opportunities"
+award_year: 2012
+published: 2012-09-10 10:51:28
+published_gmt: 2012-09-10 09:51:28
+author: "CFI.co Editorial"
+url: "https://cfi.co/banking/2012/09/ma-in-emerging-countries-tax-risks-and-opportunities/"
+categories: ["Banking", "Finance", "Latin America"]
+content_sha256: 94cbbeff1b3a8febfd06830b59f040d9fb9007abe0872508d540cc638178d8e8
+canonical: 2154-ma-in-emerging-countries-tax-risks-and-opportunities.json
+---
+
+# M&A in Emerging Countries – Tax Risks and Opportunities
+
+> Verbatim archived copy. Canonical machine record: `2154-ma-in-emerging-countries-tax-risks-and-opportunities.json`.
+
+<h3 style="text-align: justify;"><strong>The Importance of Taxes in M&amp;A Processes</strong></h3>
+[caption id="attachment_2157" align="alignright" width="300"]<a href="https://cfi.co/wp-content/uploads/2012/09/puertomadero.jpg"><img class="size-medium wp-image-2157" title="puertomadero" src="https://cfi.co/wp-content/uploads/2012/09/puertomadero-300x190.jpg" alt="" width="300" height="190" /></a> Puerto Madero, Buenos Aires[/caption]
+<p style="text-align: justify;"><strong>Companies are focusing more and more on the tax aspects of M&amp;A. This focus is partly because tax authorities are scrutinizing transactions more closely than ever before. But this increase concentration is also due to the drive toensurethat deals deliver the value they promise, as company boards examine transactions in more detail. </strong></p>
+<p style="text-align: justify;">This is particularly important in emerging markets, where even companies with years of experience doing deals in these regions of the world face unfamiliar legal and regulatory challenges, of which, tax is one of the biggest.  Uncertainty is one of the main characteristics of emerging countries, and it should be managed by familiarizing with the local environment, not just the local tax law, practice and procedure but also the reasoning behind it.</p>
+<p style="text-align: justify;">A global M&amp;A tax survey report recently prepared by Ernst &amp; Young shows that companies continue to seek value from transactions in a wider range of tax areas than ever before. Accordingly, mentioned survey also concludes that more than half of the tax directors questioned said that when planning a transaction, they reviewed the tax effectiveness not just of matters requiring immediate attention to get the deal done, but also of other aspects of their company´s operations that could be affected by the transaction – areas such as tax-effective supply chain planning, intangible assets, indirect taxes,</p>
+<p style="text-align: justify;">Also, the M&amp;A tax survey report shows that fifty-seven percent (57%) of tax directors surveyed said that their companies place more importance on tax issues as part of the deal processes compared to three (3) years ago.  Half of these said their companies placed significantly more importance on tax – a figure that has nearly doubled since 2010. There has also been a material increase in the percentage of tax directors who say that tax is a primary component of transaction value for their companies.</p>
+<p style="text-align: justify;">Some of the causes that increased the importance of the tax analysis in M&amp;A processes are the following:</p>
+
+<ul style="text-align: justify;">
+ 	<li>Increasing focus on tax efficiency to reduce the cost of deals or improve the return from deals;</li>
+ 	<li>Increasing complexity of tax legislation affecting deals;</li>
+ 	<li>Increasing scrutiny of deals by the board of directors;</li>
+ 	<li>Increasing scrutiny of deals by tax authorities;</li>
+ 	<li>Increasing scrutiny of deals by shareholders</li>
+</ul>
+<h3 style="text-align: justify;"><strong>Dealing With Taxes in Emerging Countries</strong></h3>
+<p style="text-align: justify;">More and more capital is flowing into emerging markets through M&amp;A. Such investments offer companies opportunities to expand into new markets and to make their supply chains more efficient. Yet risks remain, particularly around tax.</p>
+<p style="text-align: justify;">Many multinational companies had done a deal in at least one of the BRIC countries (Brazil, Russia, India and China) during the past three years. Outside the BRIC countries, the M&amp;A survey report, identified evolving M&amp;A interest in a number of other emerging countries or regions, including Indonesia and Southeast Asia, South Africa, Nigeria, <strong>Argentina</strong>, Chile, Colombia and Peru.</p>
+<p style="text-align: justify;">Emerging markets may be a focus of corporate M&amp;A, but even companies with years of experience doing deals in these regions of the world face unfamiliar conditions, particularly legal and regulatory ones. Unsurprisingly, a main challenge is tax. Principal challenges when entering a transaction in emerging countries are the following:</p>
+
+<ul style="text-align: justify;">
+ 	<li>Uncertainty of how tax legislation and practice will be applied to the particular transaction steps;</li>
+ 	<li>Risks that the tax system or tax incentives will change, affecting projected tax costs;</li>
+ 	<li>Currency and tax issues in relation to repatriating income flows;</li>
+ 	<li>Risk of inheriting pre-transaction tax liabilities;</li>
+ 	<li>Retrospective changes to tax legislation or its interpretation;</li>
+ 	<li>Limited case law and the unpredictability and duration of the litigation process.</li>
+</ul>
+<p style="text-align: justify;">Consequently, an awareness of the potential tax risks in emerging markets is essential. But investors also need a thorough understanding of the tax environment in the particular market where they are investing. There is no substitute for localexpertisein navigating the tax uncertainties that can erode the value of a deal.</p>
+
+<h3 style="text-align: justify;"><strong>The Importance of Adopting Proper Tax Planning – The Tax Impact of Acquisitions and Investors “Exit Strategy”</strong></h3>
+<p style="text-align: justify;">Apart from the tax risks related to a potential investment in emerging markets, the investor and specially investor’s tax advisors should assess all aspects to draw up a proper tax planning related to the structure to be adopted when acquiring an investment or exiting it.</p>
+<p style="text-align: justify;">Aspects like the decision to carry out the acquisition through a share deal or an asset deal shall influence not only the clauses to be negotiated so as to limit successor´s responsibilities of the tax contingencies that the buyer might eventually bear but also the tax costs of the acquisition, the tax impact in the future distribution of dividends, the generation of intangible assets which may not be deducted due to legal restrictions, and the matters associated with the foreign exchange market and foreign trade for the incoming and outgoing foreign currency, among others.</p>
+<p style="text-align: justify;">The exit strategy is a also fundamental aspect to evaluate right from the very moment of planning the structure of the acquisition. Thus, the investor should weigh whether by adopting a structure of purchase that implies, for example, a tax saving in the purchase or a limitation on the tax contingencies that the buyer will bear, the tax impact derived from the sale will eventually be significantly larger than the advantages or benefits obtained when purchased.</p>
+<p style="text-align: justify;">In conclusion, the matters mentioned above disclose the recent growing importance of tax matters as an essential risk factor to consider by the investor planning to acquire businesses in emerging markets. Besides, tax issues become relevant as part of the strategic planning tools that the investor should take into account when acquiring, running or eventually exiting a business.</p>
+
+<h3 style="text-align: justify;">About the Author</h3>
+<p style="text-align: justify;"><a href="https://cfi.co/wp-content/uploads/2012/09/sergio-caveggia.jpg"><img class="alignleft size-full wp-image-2162" title="sergio-caveggia" src="https://cfi.co/wp-content/uploads/2012/09/sergio-caveggia.jpg" alt="" width="80" height="96" /></a><strong>Sergio Caveggia</strong> is a Tax Partner currently in charge of the Transaction Tax Area in Argentina. He joined the tax division of Ernst &amp; Young in 1994, and has over 18 years experience in dealing with tax-related matters.
+He has served numerous clients in a variety of industries. He has developed strong expertise in international taxation and mergers and acquisitions matters, structures for inbound and outbound investments, buy side, sell side and restructuring services within the Transaction Tax area. Moreover, he has been involved in practically all Buy-side and Sell-Side due diligence analysis in our firm in the last 10 years.
+He is a Certified Public Accountant, graduated from University of Belgrano in Argentina, he also obtained his Tax Specialist’s Degree at the University of Belgrano. He is also a member of the Professional Council of Economic Sciences of Buenos Aires and the Argentine Fiscal Association.</p>
+<p style="text-align: justify;"><a href="http://capitalfinanceint.com/news/wp-content/uploads/2012/05/ey.jpg"><img class="aligncenter size-full wp-image-247" title="ey" src="http://capitalfinanceint.com/news/wp-content/uploads/2012/05/ey.jpg" alt="" width="250" height="56" /></a></p>
