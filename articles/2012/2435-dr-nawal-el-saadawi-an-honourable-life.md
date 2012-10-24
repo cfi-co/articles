@@ -1,0 +1,28 @@
+---
+id: 2435
+title: "Dr. Nawal El Saadawi - An Honourable Life"
+award_year: 2012
+published: 2012-10-24 08:08:29
+published_gmt: 2012-10-24 07:08:29
+author: "CFI.co Editorial"
+url: "https://cfi.co/editors-picks/2012/10/dr-nawal-el-saadawi-an-honourable-life/"
+categories: []
+content_sha256: 426683b0331db5531e9113ba4b919cfef2997b016f697f67f384e91ff6760f8e
+canonical: 2435-dr-nawal-el-saadawi-an-honourable-life.json
+---
+
+# Dr. Nawal El Saadawi - An Honourable Life
+
+> Verbatim archived copy. Canonical machine record: `2435-dr-nawal-el-saadawi-an-honourable-life.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright  wp-image-2436" title="nes" src="https://cfi.co/wp-content/uploads/2012/10/nes.jpg" alt="" width="258" height="205" />Like so many of our other heroes, Dr Saadawi has seen the inside of a prison cell because of her views. She was incarcerated in 1981 after helping to publish the feminist magazine <em>Confrontation. </em>The opinions expressed conflicted with those of the late President Anwar Sadat, her views were considered dangerous and Dr Saadawi was not released until shortly after the President’s death.</strong></p>
+<p style="text-align: justify;">Her books have been banned in Egypt and she has been exiled more than once for her calls for equality and the recognition of women’s rights.</p>
+<p style="text-align: justify;">A qualified medical practitioner, Dr Saadawi was fired from her position as Egypt’s Director General for Public Health after her book ‘Woman and Sex’ appeared in 1972. The Egyptian branch of her ‘Arab Women’s Solidarity association’ was declared illegal in 1991.</p>
+
+<blockquote>
+<h3>“Now I had learnt that honour required large sums of money to protect it, but that large sums of money could not be obtained without losing one's honour.  This was an infernal circle whirling round and round, dragging me up and down with it.”</h3>
+</blockquote>
+<p style="text-align: justify;">Because of the power of her writing and the discomfort caused to those with closed minds, she has found her name on death lists, been forced to flee the country and there have been calls for her to lose her Egyptian nationality.</p>
+<p style="text-align: justify;">Dr. Saadawi’s work has been published in more than 30 languages and she has been hailed as ‘One of the Greatest Minds of the 20<sup>th</sup> Century’.</p>
+<p style="text-align: justify;">Her example shows clearly that if the voices and talents of women are ignored the capacity and output of a country is reduced by more than half.</p>
+<p style="text-align: justify;">The value of the body of work produced by Dr. Saadawi means that she is an inspiration to people not only in the Middle East but in all communities of the world. We have much to learn from her including an understanding of the connection between oppressive cultural practices and some physical and psychological problems experienced by women.</p>
