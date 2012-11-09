@@ -1,0 +1,30 @@
+---
+id: 2535
+title: "Balancing Act in Tunisia"
+award_year: 2012
+published: 2012-11-09 22:12:39
+published_gmt: 2012-11-09 22:12:39
+author: "CFI.co Editorial"
+url: "https://cfi.co/editors-picks/2012/11/balancing-act-in-tunisia/"
+categories: []
+content_sha256: b2cd0b1db23e72ca595e55a9f43e720c8dbafb6fe5cf37f3a687ab804a4d5db7
+canonical: 2535-balancing-act-in-tunisia.json
+---
+
+# Balancing Act in Tunisia
+
+> Verbatim archived copy. Canonical machine record: `2535-balancing-act-in-tunisia.json`.
+
+[caption id="attachment_2537" align="alignright" width="226"]<img class="size-full wp-image-2537" title="tun-pres" src="https://cfi.co/wp-content/uploads/2012/11/tun-pres.jpg" alt="" width="226" height="226" /> Mr. Moncef Marzouki, Tunisian President[/caption]
+<p style="text-align: justify;"><strong>In 2011, popular protests in Tunisia rid the country of Zine al-Abidine Ben Ali and towards year end Moucef Marzouki was installed as president of his country. These events provided clear inspiration for the Arab Spring.</strong></p>
+<p style="text-align: justify;">Mr Marzouki had been a powerful focus of opposition to former president Ben Ali and, perhaps unsurprisingly, found himself in a jail cell soon after making an election challenge.</p>
+<p style="text-align: justify;">The Islamic Ennahda party became the dominant force in Tunisia after the election last year and President Marzouki is seen as bringing balance to the political system.  The election of Marzouki occurred as a result of a power-sharing agreement between Ennahda and two smaller secular parties.</p>
+<p style="text-align: justify;">Mr. Marzouki has pointed out that the Arab revolutions remain fundamentally about social justice and democracy – not about religion or establishing Shariah law.</p>
+<p style="text-align: justify;">He has also said that extremists advocating violence are a very small minority in Tunisia and are extremely unpopular among the religious as well as the secular. He believes that the strength and importance of extremists groups have been exaggerated by the media:</p>
+
+<blockquote>
+<h3>"The democratisation of Tunisia, Egypt and other countries has allowed a number of extremists free riders into the political system.  But it has also definitively refuted the myth that democracy and Islam are incompatible."</h3>
+</blockquote>
+<p style="text-align: justify;">‘But that image is a distorted fantasy; it does not represent any sociological or political reality. Arguing that the groups who have recently staged violent demonstrations represent the entire Arab population is as absurd as claiming that white supremacist groups represent the American people or that the Norwegian right-wing mass murderer Anders Behring Breivik is representative of Europeans.’</p>
+<p style="text-align: justify;">What matters most to his people, according to their president, is ‘building new democratic institutions; creating jobs and halting the exodus of Tunisian boat people seeking a better life in Europe.’</p>
+<p style="text-align: justify;">The President has brought great hope to the hearts of his people and is working hard to stabilise the institutions in his country. He has refused to accept the view that Muslims cannot be allowed a democratic voice and truly free enterprise.</p>
