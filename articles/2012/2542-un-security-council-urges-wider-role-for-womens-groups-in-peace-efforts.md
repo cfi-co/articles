@@ -1,0 +1,30 @@
+---
+id: 2542
+title: "UN Security Council Urges Wider Role for Women’s Groups in Peace Efforts"
+award_year: 2012
+published: 2012-11-13 16:43:21
+published_gmt: 2012-11-13 16:43:21
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2012/11/un-security-council-urges-wider-role-for-womens-groups-in-peace-efforts/"
+categories: ["Africa", "Asia Pacific", "Europe", "Latin America", "Middle East", "North America"]
+content_sha256: f459a2a228b732fb983aa5bc877d4c9be5bebb5a487c8051eb4256cd85176f80
+canonical: 2542-un-security-council-urges-wider-role-for-womens-groups-in-peace-efforts.json
+---
+
+# UN Security Council Urges Wider Role for Women’s Groups in Peace Efforts
+
+> Verbatim archived copy. Canonical machine record: `2542-un-security-council-urges-wider-role-for-womens-groups-in-peace-efforts.json`.
+
+<p style="text-align: justify;"><strong>The Security Council has called on the international community to give women’s civil society organizations a prominent role in the negotiation, planning and implementation of peace processes and post-conflict development programmes.</strong></p>
+
+
+[caption id="attachment_2543" align="aligncenter" width="545"]<img class=" wp-image-2543   " title="sec-council" src="https://cfi.co/wp-content/uploads/2012/11/sec-council.jpg" alt="" width="545" height="363" /> The Security Council. UN Photo/JC McIlwaine[/caption]
+<p style="text-align: justify;">“The Security Council takes note of the important role that civil society, including women’s organizations, can play in the prevention and resolution of armed conflict, peacebuilding and post-conflict situations,” Ambassador Gert Rosenthal of Guatemala, which held the rotating Council presidency for October, said in a statement read out on behalf of the 15-member body on Wednesday.</p>
+<p style="text-align: justify;">The statement was prepared for an open debate on the subject of women and peace and security scheduled for Monday, 29 October, which was expected to include briefings from the head of the United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women), Michelle Bachelet, and the head of the UN Department of Peacekeeping Operations, Hervé Ladsous.</p>
+<p style="text-align: justify;">Monday’s meeting, as were all meetings at UN Headquarters in New York, was cancelled because of the extreme weather that developed in the wake of Hurricane Sandy, which prompted the closure of the world body’s office for an unprecedented three straight days.</p>
+<p style="text-align: justify;">Meeting briefly on Wednesday in the wake of the storm, the Council endorsed the Secretary-General’s call for a stronger commitment to address challenges to women’s participation in all levels of peacemaking, and encouraged international and regional organizations, Member States and UN envoys to promote the active engagement of women’s organizations in all stages of peacemaking and peacebuilding.</p>
+<p style="text-align: justify;">It also underlined the primary role of national governments in empowering women in conflict situations, and welcomed the role of UN-Women in coordinating programmes for women and girls throughout the UN system.</p>
+<p style="text-align: justify;">In addition, it welcomed the role of gender advisers in assisting the capacity-building activities of civil society organizations and governments and providing training and awareness-raising on gender issues for peacekeepers.</p>
+<p style="text-align: justify;">The Council reiterated its call to deploy women protection advisers in peacekeeping missions, stressing the need to ensure that gains made in women’s protection and empowerment must be sustained during mission draw-downs and transitions.</p>
+<p style="text-align: justify;">It was in 2000 that the Council first gave prominence to this topic, adopting resolution 1325, in which it called for action to reverse the egregious and inhumane treatment of women and girls during conflicts, the denial of their human rights and their exclusion from decision-making in situations of armed conflict, in peacemaking and peacebuilding.</p>
+<p style="text-align: justify;"><em>Source: <a href="http://www.un.org/apps/news/story.asp?NewsID=43401&amp;Cr=security+council&amp;Cr1=women#.UKJ0kofLTgc" target="_blank">UN</a>, Novembr 2, 2012</em></p>
