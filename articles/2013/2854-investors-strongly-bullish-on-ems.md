@@ -1,0 +1,20 @@
+---
+id: 2854
+title: "Investors Strongly Bullish on EMs"
+award_year: 2013
+published: 2013-01-08 10:58:15
+published_gmt: 2013-01-08 10:58:15
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2013/01/investors-strongly-bullish-on-ems/"
+categories: ["Asia Pacific", "Europe", "North America"]
+content_sha256: 8a7c081dae9473ea5428e841812b2c5f2bcae737bbcb29953efb8dbdadd7566f
+canonical: 2854-investors-strongly-bullish-on-ems.json
+---
+
+# Investors Strongly Bullish on EMs
+
+> Verbatim archived copy. Canonical machine record: `2854-investors-strongly-bullish-on-ems.json`.
+
+<p style="text-align: justify;"><img class="alignright size-thumbnail wp-image-2855" alt="" src="https://cfi.co/wp-content/uploads/2013/01/charging-bull-150x150.jpg" width="150" height="150" /><strong>A December, 2012 Society Generale monthly survey covering 52 customers throughout Asia, Europe and the United States suggests that investors are strongly medium-term bullish on emerging markets.</strong></p>
+<p style="text-align: justify;">The confidence shown by around 90 per cent of the 30 real money investors (pension funds etc.) plus 22 hedge funds polled represented an all-time high since the survey was launched in February last year. Uncertainty regarding the fiscal cliff led to a less bullish sentiment for the short term.</p>
+<p style="text-align: justify;">There were still more customers who felt they were under-invested (that their risk position should be raised if they were to be aligned with their sentiment) compared with November.</p>
