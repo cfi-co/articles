@@ -1,0 +1,52 @@
+---
+id: 2920
+title: "Asia in 2013: Grounds for Optimism, but Challenges Ahead"
+award_year: 2013
+published: 2013-01-21 10:43:02
+published_gmt: 2013-01-21 10:43:02
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2013/01/asia-in-2013-grounds-for-optimism-but-challenges-ahead/"
+categories: ["Asia Pacific"]
+content_sha256: c370d47062c3b2193ad48dff41c20feb7b092db3c7de41d14b656bbf94cfb66d
+canonical: 2920-asia-in-2013-grounds-for-optimism-but-challenges-ahead.json
+---
+
+# Asia in 2013: Grounds for Optimism, but Challenges Ahead
+
+> Verbatim archived copy. Canonical machine record: `2920-asia-in-2013-grounds-for-optimism-but-challenges-ahead.json`.
+
+<p style="text-align: justify;">By <strong>Anoop Singh</strong> <em>Director, IMF Asia and Pacific Department</em></p>
+<p style="text-align: justify;"><strong><img class="alignright  wp-image-2923" alt="" src="https://cfi.co/wp-content/uploads/2013/01/china.jpg" width="210" height="140" />After a subdued economic performance in emerging Asia in 2012, growth in the region is set to pick up gradually in 2013 helped by external demand and accommodative monetary policy.</strong></p>
+<p style="text-align: justify;">At about 5½ per cent, Asia’s growth in 2012 is estimated to have been about ½ percentage point below 2011, although the region still expanded about 2 percentage points faster than the global average.</p>
+<p style="text-align: justify;">Weaker external demand was the main factor, but China’s efforts to engineer a soft landing and supply constraints in India also weighed on Asian economies.</p>
+<p style="text-align: justify;">However, recent activity indicators suggest economic momentum is stabilising. A modest growth pickup to about 6 per cent in 2013 would result mostly from strengthening external demand, with accommodative monetary stances across the region also playing a role.</p>
+
+<h3 style="text-align: justify;">A Shift of Focus to Regional Risks</h3>
+<p style="text-align: justify;">External risks for Asia remain considerable, especially those emanating from a further escalation of the euro area crisis. In the event of a severe global slowdown, falling external demand would exert a powerful drag on Asia’s most open economies, including through the second-round impact of lower investment and employment in export oriented sectors.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">"A complicating factor is rapid population ageing, which will exert a drag on growth in many high- and middle-income countries alike, from Japan to China, and also poses new fiscal challenges."</h3>
+</blockquote>
+<p style="text-align: justify;">However, if European policymakers fully deliver on their commitments and a major fiscal contraction is avoided in the United States, growth in Asia might surprise on the upside, especially as monetary conditions in advanced economies are projected to remain accommodative.</p>
+<p style="text-align: justify;">In fact the resumption of capital inflows since mid-2012 has already helped fuel record levels of corporate and sovereign bond issuance in many parts of Asia and, together with robust bank credit growth, played an important role in supporting resilient domestic demand.</p>
+<p style="text-align: justify;">But as global tail risks appear to recede, risks and challenges from within the region to Asia’s growth come more clearly into focus. The slowdown in 2012 is a powerful reminder that the high rates of growth Asia has been accustomed to during most of the first decade of this century cannot be taken for granted.</p>
+<p style="text-align: justify;">In fact, many economies in emerging Asia have now reached a development stage that in principle exposes them to the risk of falling into a “middle-income trap.” Historically, the odds of a sustained growth slowdown have been 1/7 for a fast-growing middle-income country versus 1/11 for frontier: that is low-income economies in the region.</p>
+<p style="text-align: justify;">A complicating factor is rapid population ageing, which will exert a drag on growth in many high- and middle-income countries alike, from Japan to China, and also poses new fiscal challenges. And even where demographic trends are more favourable, such as in India and many of Asia’s low-income economies, making growth more inclusive and broad based remains a major challenge.</p>
+
+<h3 style="text-align: justify;">Navigating Risks, Sustaining Growth</h3>
+<p style="text-align: justify;">Calibrating the appropriate near-term support for growth without fanning inflationary and financial stability risks is the key near-term challenge for policymakers in the region.</p>
+<p style="text-align: justify;">Central banks kept or brought down policy rates to low levels in 2012. Against the backdrop of uncertain growth prospects and generally low and stable inflation, this accommodative stance is broadly appropriate.</p>
+<p style="text-align: justify;">Should activity fail to pick up as expected, there remains sufficient space to ease monetary policy further. But the need and scope for monetary policy action differs substantially across economies, mainly reflecting different exposures to growth and inflation risks, and risks to financial stability from past stimulus.</p>
+<p style="text-align: justify;">In addition, macro-prudential measures will have to play an important role where credit growth remains too rapid and could pose problems for financial stability, especially if accompanied by persistently strong capital inflows.</p>
+
+<h3 style="text-align: justify;">Appropriate Fiscal Consolidation</h3>
+<p style="text-align: justify;">Country circumstances will also determine the appropriate pace of fiscal consolidation. Higher structural deficits than before the crisis imply the need to rebuild fiscal space in many Asian economies, and welcome improvements in fiscal balances across most of the region are expected for 2013.</p>
+<p style="text-align: justify;">If growth were to disappoint going forward, automatic stabilisers––that is, automatic tax revenue declines and spending increases that dampen the impact of the shock––should be the first line of defence. However, in part reflecting a narrow tax base and lack of social safety nets, automatic stabilisers are small in many regional economies, which would prevent them from cushioning the blow of a sharp downturn. This calls for contingency plans for discretionary spending, especially in countries with more fiscal space.</p>
+
+<h3 style="text-align: justify;">Medium-Term, Inclusive Growth</h3>
+<p style="text-align: justify;">To sustain economic growth over the medium term and make growth more inclusive, a diverse policy agenda will be required in different parts of Asia, ranging from economic rebalancing to strengthening the sources of private sector–led investment, to reforms in goods and labour markets, and meeting the opportunities and challenges from rapid demographic change.</p>
+<p style="text-align: justify;">Strengthening fiscal policy frameworks can also play an important role in reprioritising spending and mobilising adequate revenue in support of new sources and more inclusive growth. And coordinated and collective action by Asian policymakers will also help, in particular by pursuing on-going initiatives to maintain and deepen strong regional trade integration.</p>
+
+<h3 style="text-align: justify;">Asia and the IMF: Working Together</h3>
+<p style="text-align: justify;">The IMF–World Bank Annual Meetings in Tokyo in 2012, the largest ever Meetings, showcased how Asia and the IMF can successfully work together in meeting the above challenges for the benefit of the Asia region and the world.</p>
+<p style="text-align: justify;">Going forward our cooperation is set to strengthen further in 2013 and beyond, not least thanks to governance reforms giving the region a greater voice in the Fund. We also look forward to closer cooperation with new regional surveillance frameworks, and strengthening our engagement through technical assistance, including for members embarking on a new reform agenda such as Myanmar.</p>
