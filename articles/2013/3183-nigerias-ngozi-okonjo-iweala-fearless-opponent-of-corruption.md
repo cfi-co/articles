@@ -1,0 +1,22 @@
+---
+id: 3183
+title: "Nigeria's Ngozi Okonjo-Iweala: Fearless Opponent of Corruption"
+award_year: 2013
+published: 2013-03-05 16:53:28
+published_gmt: 2013-03-05 16:53:28
+author: "CFI.co Editorial"
+url: "https://cfi.co/editors-picks/2013/03/nigerias-ngozi-okonjo-iweala-fearless-opponent-of-corruption/"
+categories: []
+content_sha256: e8208d6294964aa58a6248c39afdf2589e5884f0ed2d57e7acf61ee0743b16dd
+canonical: 3183-nigerias-ngozi-okonjo-iweala-fearless-opponent-of-corruption.json
+---
+
+# Nigeria's Ngozi Okonjo-Iweala: Fearless Opponent of Corruption
+
+> Verbatim archived copy. Canonical machine record: `3183-nigerias-ngozi-okonjo-iweala-fearless-opponent-of-corruption.json`.
+
+[caption id="attachment_3184" align="alignright" width="285"]<img class=" wp-image-3184" alt="n-o-i" src="https://cfi.co/wp-content/uploads/2013/03/n-o-i.jpg" width="285" height="203" /> <strong>Ngozi Okonjo-Iweala, Minister of Finance, Nigeria</strong>[/caption]
+<p style="text-align: justify;"><strong>When Dr. Okonjo-Iweala departed the World Bank in 2011 to become Nigeria’s finance minister, she was managing director and second in charge. It was no surprise that in the following year her name appeared on a short-list for the WB presidency. She didn’t get the job but it is widely considered that she was by far the best candidate. At CFI.co we believe that the World Bank’s loss was Nigeria’s gain.</strong></p>
+<p style="text-align: justify;">Okonjo-Iweala had also been finance minister (2003 – 2006) in an earlier administration. These were very different times and her crowning glory was in securing an $18 billion debt write-off from Nigeria’s creditors. She also ensured Nigeria’s first sovereign debt rating which resulted in significant foreign investment in the country.</p>
+<p style="text-align: justify;">Nigeria is now experiencing strong economic growth and her challenge is to see that the distribution of its benefits is fair. Income inequality would hinder sustainable growth but CFI.co believes that this strong leader is in the right place at the right time. She is a fearless opponent of corruption in all its forms.</p>
+<p style="text-align: justify;">Ngozi Okonjo-Iweala is a world renowned economist but more than this a role model for all talented and ambitious women in Nigeria and throughout the continent of Africa. We also believe she has much more to offer the world.</p>
