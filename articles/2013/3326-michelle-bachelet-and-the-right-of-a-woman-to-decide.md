@@ -1,0 +1,26 @@
+---
+id: 3326
+title: "Michelle Bachelet and the Right of a Woman to Decide"
+award_year: 2013
+published: 2013-03-14 19:20:57
+published_gmt: 2013-03-14 19:20:57
+author: "CFI.co Editorial"
+url: "https://cfi.co/editors-picks/2013/03/michelle-bachelet-and-the-right-of-a-woman-to-decide/"
+categories: []
+content_sha256: 90946cc03d6edc36cf3826ad0c1b716ff5df2f1ea586bc1e46706b25262211c2
+canonical: 3326-michelle-bachelet-and-the-right-of-a-woman-to-decide.json
+---
+
+# Michelle Bachelet and the Right of a Woman to Decide
+
+> Verbatim archived copy. Canonical machine record: `3326-michelle-bachelet-and-the-right-of-a-woman-to-decide.json`.
+
+[caption id="attachment_3327" align="alignright" width="300"]<img class=" wp-image-3327 size-medium" src="https://cfi.co/wp-content/uploads/2013/03/Michelle-Bachelet-300x261.jpg" alt="" width="300" height="261" /> Michelle Bachelet, Former President, Chile[/caption]
+<p style="text-align: justify;"><span style="color: #000000;">When Chile’s government was ousted by Augusto Pinochet in 1973, Michelle Bachelet’s father (a supporter of the deposed Salvador Allende) was arrested, tortured in prison and died in custody at the age of 51. Security forces later arrested Bachelet herself, then a 23-year-old medical student, jailing her at Villa Grimaldi, a house of horrors which she has never described in any detail. It has been reported that she would encourage the other prisoners to sing in order to keep hold of their sanity and cared for women raped by the guards.</span></p>
+<p style="text-align: justify;"><span style="color: #000000;">Michelle Bachelet was the first female defence minister of Chile and then the first female president (2006-10) of this South American country. She is currently head of UN Women, the high profile United Nations organisation dedicated to gender equality and female empowerment. Among others, U.S. Secretary of State Hillary Clinton urged Bachelet to accept the post.</span></p>
+
+<blockquote>
+<h3 style="text-align: justify;">"The world's increasing population leads to poverty and scarcity of resources. This is due in part because women are denied access to contraception and education about family planning, which would counteract these problems. That the right of a woman to decide if and when and how many children she wants to have is still up for debate is a sign of the work that still lies ahead of us."</h3>
+</blockquote>
+<p style="text-align: justify;"><span style="color: #000000;">Her presidential election campaign in 2005 addressed poverty, called for a reform of the pension system and the improved rights of women and indigenous communities. This platform supported a continuation of Chile’s free-market policies and demanded improved social benefit programmes.</span></p>
+<p style="text-align: justify;"><span style="color: #000000;">As president she insisted on equal representation of women in her cabinet. Her fiscal policies ensured that Chile was not overly affected by the global economic crisis and she left office as one of the most popular presidents of all time.</span></p>
