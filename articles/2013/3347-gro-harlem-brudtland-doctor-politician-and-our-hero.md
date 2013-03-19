@@ -1,0 +1,27 @@
+---
+id: 3347
+title: "Gro Harlem Brudtland: Doctor, Politician and Our Hero"
+award_year: 2013
+published: 2013-03-19 15:56:57
+published_gmt: 2013-03-19 15:56:57
+author: "CFI.co Editorial"
+url: "https://cfi.co/editors-picks/2013/03/gro-harlem-brudtland-doctor-politician-and-our-hero/"
+categories: []
+content_sha256: 6d6c59a57ea0c9fba0641cf2825986655adfcc3dc892cd7f231dcdbca6389db5
+canonical: 3347-gro-harlem-brudtland-doctor-politician-and-our-hero.json
+---
+
+# Gro Harlem Brudtland: Doctor, Politician and Our Hero
+
+> Verbatim archived copy. Canonical machine record: `3347-gro-harlem-brudtland-doctor-politician-and-our-hero.json`.
+
+[caption id="attachment_3349" align="alignright" width="169"]<img class="size-full wp-image-3349" alt="Dr. Gro Harlem Brudtland, Norwegian Politician" src="https://cfi.co/wp-content/uploads/2013/03/Brudtland.jpg" width="169" height="152" /> <strong>Dr. Gro Harlem Brudtland, Norwegian Politician</strong>[/caption]
+<p style="text-align: justify;"><strong>Born in 1939 to an Oslo family in which politics and medicine were part and parcel of daily life, Dr. Gro Harlem Brundtland, has been Director General of the World Health Organisation for the past fourteen years. Prime minister of Norway for much of the 1980s and 90s, she was the first female to take up this role and, at 42 years, the youngest ever to be appointed.</strong></p>
+<p style="text-align: justify;">Her father, a doctor specialising in rehabilitation medicine was also a member of the Norwegian Labour Party and for a time minister of Defence. The family encouraged Brundtland to join the party when she was seven years old and convinced her that women can expect to achieve as much in life as men. Her husband, Arne Olaf, a political opponent who has a prominent role in the country’s conservative party is also an expert in international relations. According to Bruntland, ‘this makes for interesting breakfast debates.’</p>
+<p style="text-align: justify;">After graduating from medical school in 1963, Bruntland received a Master of Public Health from Harvard University. Her career then concentrated on paediatrics. In 1983, she set up the World Commission on Environment and Development, chairing the convention which coined the term ‘sustainable development’.</p>
+
+<blockquote>
+<h3>"There is a very close connection between being a doctor and a politician. The doctor tries to prevent illness, but treats it if it comes. It's exactly the same as what you try to do as a politician, but with regard to society."</h3>
+</blockquote>
+<p style="text-align: justify;">Upon joining the WHO, Brundtland's championed key programmes including "Roll Back Malaria", "Tobacco Free Initiative", “Stop TB Project” and the development of an AIDS vaccine. Work began on a sustainable health finance system to help nations provide the necessary financial support to combat disease.</p>
+<p style="text-align: justify;">She has confronted the disease of global poverty saying, ‘The WHO has to drive home the message that poverty remains the biggest source of ill health – and that ill health in turn breeds poverty. We need to present the evidence and develop the language to demonstrate that the right investments in health for all – but especially to children and women – means investing in a strong economy.’</p>
