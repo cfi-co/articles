@@ -1,0 +1,28 @@
+---
+id: 3361
+title: "Dr Mahathir Bin Mohamad says: \"Face up to the New Economic Reality\""
+award_year: 2013
+published: 2013-03-20 12:29:58
+published_gmt: 2013-03-20 12:29:58
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2013/03/dr-mahathir-bin-mohamad-says-face-up-to-the-new-economic-reality/"
+categories: ["Asia Pacific"]
+content_sha256: a69db910e0cd595e9ab139aa54bc590b605299daaab2ee0dbe8e6cc78cf995a7
+canonical: 3361-dr-mahathir-bin-mohamad-says-face-up-to-the-new-economic-reality.json
+---
+
+# Dr Mahathir Bin Mohamad says: "Face up to the New Economic Reality"
+
+> Verbatim archived copy. Canonical machine record: `3361-dr-mahathir-bin-mohamad-says-face-up-to-the-new-economic-reality.json`.
+
+[caption id="attachment_3362" align="alignright" width="139"]<img class="size-full wp-image-3362" alt="Dr Mahathir Bin Mohamad, Former PM of Malaysia" src="https://cfi.co/wp-content/uploads/2013/03/mahathir.jpg" width="139" height="176" /> <strong>Dr Mahathir Bin Mohamad, Former PM of Malaysia</strong>[/caption]
+<p style="text-align: justify;"><strong>Dr Mohamad, an active man despite his 86 years, tends to lecture Europe on money matters. As a national developer of proven ability and great success we are inclined to at least listen. Our Hero from Malaysia has certainly done his bit to help world economies converge.</strong></p>
+<p style="text-align: justify;">This resolute and accomplished Malaysian politician served as prime minister from 1981 to 2003 and masterminded the country's transition from a sleepy former colony to a highly successful industrialised state. He has been active in politics since the end of World War II, a member of the United Malays Organisation (UMNO) since 1946 and in 1964 became a member of parliament.</p>
+<p style="text-align: justify;">Mathir Mohamad was kicked out of UMNO for espousing ethnic Malay nationalism in 1969 but soon re-joined the party after the appointment of a new PM. Much of the New Economic Policy adopted by the government two years later drew on his ideas. Clearly the economic condition of Malays had to be addressed given the way in which the ethnic Chinese community were dominating the local economy.</p>
+<p style="text-align: justify;">In 1981, following a series of distinguished senior ministerial roles, Mahathir became president of UMNO and the fourth prime minister of Malaysia – the first commoner to hold that office. His long term in government brought stability to Malaysia and the opportunity to follow policies that would encourage strong economic growth. He brought in tax reforms, reduced tariffs and privatised state-owned enterprises - always keeping the door open for foreign investment.</p>
+
+<blockquote>
+<h3>"The Malays are spiritually inclined, tolerant and easy-going. The non-Malays, and especially the Chinese, are materialistic, aggressive and have an appetite for work. For equality to come about, it is necessary that these strikingly contrasting races adjust to each other."</h3>
+</blockquote>
+<p style="text-align: justify;">Mahathir’s approach to the ethnic question in Malaysia was to increase prosperity for all and the New Development Policy (1991) embodied this vision. In the process manufacturing industries thrived and Malaysia became one of the most important economies in the region; the lifestyle of ordinary Malaysians was utterly transformed.</p>
+<p style="text-align: justify;">According to Mahathir Mohamad, the message for Europe is simple: it must face up to the new economic reality. In a recent BBC interview, he noted that, ‘In Asia we live within our means. So when we are poor, we live as poor people. I think that is a lesson that Europe can learn from Asia. You refuse to acknowledge you have lost money and therefore you are poor. And you can't remedy that by printing money. Money is not something you just print. It must be backed by something, either a good economy or gold. The West must restructure their economies to become less dependent on the financial sector."</p>
