@@ -1,0 +1,31 @@
+---
+id: 3467
+title: "Technological Innovation Must Power Economic Growth in Africa"
+award_year: 2013
+published: 2013-04-01 18:02:54
+published_gmt: 2013-04-01 18:02:54
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2013/04/technological-innovation-must-power-economic-growth-in-africa/"
+categories: ["Africa", "Middle East", "Sustainability", "Technology"]
+content_sha256: 2cf16d3e1829fd60e809492d2b38683fd202d72b850b4a4ff5e2f2355120812d
+canonical: 3467-technological-innovation-must-power-economic-growth-in-africa.json
+---
+
+# Technological Innovation Must Power Economic Growth in Africa
+
+> Verbatim archived copy. Canonical machine record: `3467-technological-innovation-must-power-economic-growth-in-africa.json`.
+
+[caption id="attachment_3469" align="alignright" width="213"]<img class="size-full wp-image-3469" alt="Francis Gurry, DG of WIPO" src="https://cfi.co/wp-content/uploads/2013/04/francis-gurry.jpg" width="213" height="229" /> <strong>Francis Gurry, DG of WIPO</strong>[/caption]
+<p style="text-align: justify;"><strong>Technology, science and innovation play a key role in the development of Africa, United Nations officials stressed today, calling on policymakers to redouble their efforts to support this field and form partnerships that harness its power.</strong></p>
+<p style="text-align: justify;">During a March 2013 meeting with more than 20 African ministers in Dar Es Salaam, Tanzania, the Director General of the World Intellectual Property Organization (WIPO), Francis Gurry, said policymakers had “a unique opportunity to define the key role that science, technology and innovation can play in achieving the development goals of the African continent.”</p>
+<p style="text-align: justify;">The UN Under-Secretary-General for Economic and Social Affairs, Wu Hongbo, underlined the link between technology and economic growth, and noted that technological progress can be used to achieve the anti-poverty targets known as the Millennium Development Goals (MDGs) by their 2015 deadline.</p>
+<p style="text-align: justify;">Green technologies can help facilitate access to energy, while innovations in the health sector can enhance service delivery. In addition, innovation in agricultural productivity can ensure food security to growing populations.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“Innovation is the essence of our modern society. Without harnessing its power, we will not be able to create healthy, educated or inclusive societies.”</h3>
+<p style="text-align: right;"><strong>- Francis Gurry</strong></p>
+</blockquote>
+<p style="text-align: justify;">“With a fast approaching MDG deadline and transition to a post-2015 development era, innovation is a very timely topic,” Mr. Wu said. “Innovation is needed to meet our common development goals, it is important in the final push for the MDGs and in unleashing the potential for sustainable development.”</p>
+<p style="text-align: justify;">The President of the UN Economic and Social Council (ECOSOC), Néstor Osorio, said the African continent in particular holds a great and unexploited potential that with innovation could foster job creation and the development of cultural industries, leading to increased economic growth.</p>
+<p style="text-align: justify;">“Innovation is the essence of our modern society. Without harnessing its power, we will not be able to create healthy, educated or inclusive societies,” he said. “Greater efforts are needed to build partnerships among government, private sector, civil society, academia, philanthropic organizations and the international community, to promote and spread innovation for sustainable development in Africa,” he added.</p>
+<p style="text-align: justify;">The meeting was held in preparation for ECOSOC’s Annual Ministerial Review, which will take place in Geneva at the beginning of July.</p>
