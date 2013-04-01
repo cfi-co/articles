@@ -1,0 +1,33 @@
+---
+id: 3445
+title: "Big Crowds Witnessed at Cityscape Egypt"
+award_year: 2013
+published: 2013-04-01 17:54:42
+published_gmt: 2013-04-01 17:54:42
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2013/04/big-crowds-witnessed-at-cityscape-egypt/"
+categories: ["Africa", "Middle East", "Projects"]
+content_sha256: 2f69baac3eb9d8a09899ea7222529697347011b54cdfc3294cfcd113e2eef470
+canonical: 3445-big-crowds-witnessed-at-cityscape-egypt.json
+---
+
+# Big Crowds Witnessed at Cityscape Egypt
+
+> Verbatim archived copy. Canonical machine record: `3445-big-crowds-witnessed-at-cityscape-egypt.json`.
+
+[caption id="attachment_3458" align="alignright" width="300"]<img class="size-medium wp-image-3458" alt="cityscape egypt 2013 2" src="https://cfi.co/wp-content/uploads/2013/04/cityscape-egypt-2013-2-300x165.jpg" width="300" height="165" /> <strong>H.E. Dr. TarikWafik</strong>, Minister of Housing and Urban Communities and <strong>H.E. Dr. Osama Kamal</strong>, Cairo Governor.[/caption]
+
+<strong>CAIRO – Cityscape Egypt has once again delivered a strong turnout of serious home buyers and investors packing the exhibition halls over the past three days. </strong>
+<p style="text-align: justify;">Mr. Ashraf El Gharib, Marketing and Sales Director of Rooya Group speaking on the third day of the exhibition said “we are enjoying high traffic and great audience, who are serious buyers going into details.”</p>
+<p style="text-align: justify;">Many visitors commented that they weren't aware of the showcased projects before visiting Cityscape Egypt. The exhibition provides them with a platform to evaluate the various projects on showcase, connecting all of Egypt’s leading developers with potential home buyers under one roof.</p>
+<p style="text-align: justify;">“I find Cityscape Egypt to be the place that contains all alternatives for anything I need. It’s been very nice this year,” said Ranya, an interior designer visiting Cityscape Egypt.</p>
+<p style="text-align: justify;">“I am attending Cityscape Egypt for the first time, I decided to come to explore the new ideas and opportunities in the real estate market and what’s new to be offered at the exhibition in Egypt and it’s proved to be a useful experience. It’s been awesome,” said Yehia, a private business owner and visitor at Cityscape Egypt.</p>
+
+<blockquote>
+<h3 style="text-align: justify;"><strong>“We are certainly witnessing a high turn out this year especially during weekend days.”</strong></h3>
+</blockquote>
+<p style="text-align: justify;">“We are certainly witnessing a high turn out this year especially during weekend days,” said Mr. Chris Speller, Commercial Director for Informa Exhibitions.</p>
+<p style="text-align: justify;">“The strong attendance sends a positive message to investors around the globe and proves that the real estate industry will revive quickly in Egypt amid anticipation of an increase in business in the ever-changing real estate marketplace,” added Mr. Speller.</p>
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-3455" alt="cityscape egypt 2013" src="https://cfi.co/wp-content/uploads/2013/04/cityscape-egypt-2013.jpg" width="453" height="296" /></p>
+<p style="text-align: justify;">Several announcements were made alongside Cityscape Egypt by exhibitors, including SODIC releasing its EGP 1.8 billion sales figures over 2012. Moreover, SECON signed agreements with Hill International and EHAF Consulting Engineers to manage its “SECON Nile Towers” project.  Hyde Park Developments also held a press conference detailing the company’s participation in Cityscape Egypt with its New Cairo development Garden Heights.</p>
+<p style="text-align: justify;">Cityscape Egypt will return Cairo from 20<sup>th</sup> to the 23<sup>rd</sup> of March 2014 and showcase even more real estate projects from Egypt and all over the world. For more information on the next edition of Cityscape Egypt visit <a href="http://www.cityscapeegypt.com/">www.cityscapeegypt.com</a>.</p>
