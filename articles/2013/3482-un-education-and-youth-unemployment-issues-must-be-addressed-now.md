@@ -1,0 +1,29 @@
+---
+id: 3482
+title: "UN: Education and Youth Unemployment Issues Must be Addressed Now"
+award_year: 2013
+published: 2013-04-02 09:15:56
+published_gmt: 2013-04-02 08:15:56
+author: "CFI.co Editorial"
+url: "https://cfi.co/sustainability/2013/04/un-education-and-youth-unemployment-issues-must-be-addressed-now/"
+categories: ["Sustainability"]
+content_sha256: d0bdd32adaa8ca7287a0d76def27a11580fdd28d1b4fc40ad1070a7ddc3b5018
+canonical: 3482-un-education-and-youth-unemployment-issues-must-be-addressed-now.json
+---
+
+# UN: Education and Youth Unemployment Issues Must be Addressed Now
+
+> Verbatim archived copy. Canonical machine record: `3482-un-education-and-youth-unemployment-issues-must-be-addressed-now.json`.
+
+[caption id="attachment_3484" align="alignright" width="232"]<img class="size-full wp-image-3484" alt="Ban Ki-moon" src="https://cfi.co/wp-content/uploads/2013/04/Ban-Ki-moon.jpg" width="232" height="173" /> <strong>Ban Ki-moon, UN Secretary-General</strong>[/caption]
+<p style="text-align: justify;"><strong>The process of establishing a post-2015 development agenda must include youth input and participation to reflect the issues that concern them, UN Secretary-General Ban Ki-moon’s Envoy on Youth stressed in late March.</strong></p>
+<p style="text-align: justify;">“We are at a crossroads. With 1,000 days left to meet the Millennium Development Goals (MDGs), we are discussing and trying to set the new priorities for the post-2015 development agenda,” said Ahmad Alhendawi, referring to the eight anti-poverty targets with specific objectives on poverty alleviation, education, gender equality, child and maternal health, environmental stability, HIV/AIDS reduction, and a ‘Global Partnership for Development.’</p>
+<p style="text-align: justify;">“This is definitely an opportunity where young people can participate in setting the agenda, and then own this agenda by being equal partners in its implementation and evaluation,” he told reporters in New York via satellite from Dakar, Senegal, where he is attending the World Education Forum.</p>
+<p style="text-align: justify;">Mr. Alhendawi stressed that with 1.2 billion young people globally – the largest ever population of young people – issues such as education and unemployment need to be addressed by policymakers.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“Youth unemployment figures are daunting,” he said. “Some 425 million jobs need to be created in the next 15 years, and the situation so far is not promising.”</h3>
+</blockquote>
+<p style="text-align: justify;">Mr. Alhendawi said that during his mandate he would not only work with different UN agencies to enhance their programmes on youth, but he would also be a messenger between the world body and young people and would promote the creation of structured mechanisms for youth participation at a national, regional and international level.</p>
+<p style="text-align: justify;">“This is a two-way communication,” he said. “This includes carrying the voices and messages of young people back to the Organization and opening channels of communication between youth and the United Nations.”</p>
+<p style="text-align: justify;">He added that he would also work with marginalized youth, including women and girls, to involve them in development processes, and give them access to information, as well as advocate for a stronger, youth-friendly development agenda.</p>
