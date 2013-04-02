@@ -1,0 +1,25 @@
+---
+id: 3474
+title: "Chancellor Merkel: Saviour of Europe?"
+award_year: 2013
+published: 2013-04-02 08:51:25
+published_gmt: 2013-04-02 08:51:25
+author: "CFI.co Editorial"
+url: "https://cfi.co/europe/2013/04/chancellor-merkel-saviour-of-europe/"
+categories: ["Europe"]
+content_sha256: d502ada599668b9713302ab0d08d7cf7f5c405d0c3ff304b607419f6629dad37
+canonical: 3474-chancellor-merkel-saviour-of-europe.json
+---
+
+# Chancellor Merkel: Saviour of Europe?
+
+> Verbatim archived copy. Canonical machine record: `3474-chancellor-merkel-saviour-of-europe.json`.
+
+[caption id="attachment_3475" align="alignright" width="139"]<img class=" wp-image-3475  " alt="Angela Merkel, German Chancellor" src="https://cfi.co/wp-content/uploads/2013/04/angela-merkel.jpg" width="139" height="120" /> <strong>Angela Merkel, German Chancellor</strong>[/caption]
+<p style="text-align: justify;"><strong>Angela Merkel entered politics in 1989 with fall of the Berlin Wall.</strong> When she narrowly defeated Gerhard Shroder in the 2005 election, she became the first former citizen of the GDR to lead reunited Germany and the first woman to head the country since it was established in 1871. Germany is the largest country in the world to be led by a woman and the Chancellor and head of the Christian Democratic Union is also leader of the European Union in all but name. CFI.co is not ranking the politically powerful women be in this feature but few would deny that Merkel would take first place in any such list. It has even been suggested that she is the most important world leader of either gender.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">"It has even been suggested that she is the most important world leader of either gender."</h3>
+</blockquote>
+<p style="text-align: justify;">Merkel may one day be recognised as the saviour of Europe for backing the European Central Bank’s plan to buy back government bonds from distressed nations despite opposition from the Bundesbank. She is a strong and resolute woman who is often compared to Margaret Thatcher and has been called the Iron Frau. The past few years of Merkel’s leadership in Germany and support to the EU has been a balancing act of extreme skill and perseverance and things could so easily have gone very badly wrong.</p>
+<p style="text-align: justify;">A worthy successor to Helmut Koln, it may be that Angela Merkel will also be recognised as an outstanding visionary - albeit in very different times.</p>
