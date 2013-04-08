@@ -1,0 +1,23 @@
+---
+id: 3584
+title: "Countdown to the 2013 Global Diaspora Forum"
+award_year: 2013
+published: 2013-04-08 17:11:59
+published_gmt: 2013-04-08 17:11:59
+author: "CFI.co Editorial"
+url: "https://cfi.co/northamerica/2013/04/countdown-to-the-2013-global-diaspora-forum/"
+categories: ["North America", "Projects"]
+content_sha256: c79d0bb331589c08c94e769d0cc27e21562e58b8d0c1186efb43ede2c7bb767b
+canonical: 3584-countdown-to-the-2013-global-diaspora-forum.json
+---
+
+# Countdown to the 2013 Global Diaspora Forum
+
+> Verbatim archived copy. Canonical machine record: `3584-countdown-to-the-2013-global-diaspora-forum.json`.
+
+<p style="text-align: justify;" align="center"><strong><img class="alignright  wp-image-3587" alt="idea" src="https://cfi.co/wp-content/uploads/2013/04/idea.jpg" width="84" height="87" />Following the unparalleled momentum and success of the 2011 and 2012 conferences, the third annual Global Diaspora Forum (GDF) is truly going global this year with simultaneously streamed events from around across the world.</strong> Join leaders in business, technology, investment and trade, government, and other prominent members of global diaspora communities as they uncover new ways of collaborating around innovation, technology and youth-focused engagements. Find out about all of the latest Global Diaspora Forum news by following us on Twitter (<a href="https://twitter.com/DiasporaIdea" target="_blank">@DiasporaIdea</a>,<strong> </strong><a href="https://twitter.com/search/realtime?q=%232013GDF&amp;src=hash" target="_blank">#2013GDF</a>)  and click here to download the <a href="http://diasporaalliance.org/wp-content/uploads/2013/02/GDF2013-Save-the-Date-FINAL-03032013.pdf" target="_blank">save the date announcement</a>.<strong></strong></p>
+<p style="text-align: justify;" align="center">The signature 2013 Global Diaspora Forum in <a href="http://diasporaalliance.org/featured/global-diaspora-forum/#dc">Washington, DC</a> will officially open on <strong>Monday, May 13, 2013 </strong>at USAID and continue on <strong>Tuesday, May 14, 2013 </strong>at the U.S. Department of State. Multi-city satellite GDF conferences will begin on Friday, May 10th in <a href="http://diasporaalliance.org/featured/global-diaspora-forum/#la">Los Angeles, California</a> and continue on May 14-15th in <a href="http://diasporaalliance.org/featured/global-diaspora-forum/#dublin">Dublin, Ireland</a> and <a href="http://diasporaalliance.org/featured/global-diaspora-forum/#silicon-valley">Silicon Valley, California</a>. Hundreds of others have registered to hold grassroots  Diasporas@ “unconference” to inspire and connect a generation of young diasporans.</p>
+<p style="text-align: center;" align="center"><a href="http://diasporaalliance.org/featured/global-diaspora-forum/" target="_blank"><img class="aligncenter size-full wp-image-3585" alt="gdf" src="https://cfi.co/wp-content/uploads/2013/04/gdf.jpg" width="818" height="262" /></a></p>
+<p style="text-align: justify;" align="center">Invitations to and reservations for the Global Diaspora Forum in Los Angeles, Dublin, and Silicon Valley can be requested through the individual reservation systems for each relevant forum. All 2013 GDF and Diasporas@ events, including the “unconference” events, held outside of the U.S. Department of State and U.S. Agency for International Development premises are independently hosted by third party organizers under the auspices of IdEA, but are not organized, funded or operated by the U.S. Department of State or the U.S. Agency for International Development. All views and opinions expressed in these forums and events are the views of individuals and do not necessary reflect the views of the U.S. Government, IdEA, or the independent event organizers.</p>
+<p style="text-align: justify;" align="center">If you have questions about this year’s Global Diaspora Forum or would like to host your own satellite event, please contact us at <a href="mailto:info@diasporaalliance.org">info@diasporaalliance.org</a>.</p>
+<p style="text-align: center;" align="center"><a href="http://www.usaid.gov/" target="_blank"><img class="aligncenter  wp-image-3592" alt="usaid" src="https://cfi.co/wp-content/uploads/2013/04/usaid.jpg" width="672" height="210" /></a></p>
