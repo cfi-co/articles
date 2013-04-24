@@ -1,0 +1,27 @@
+---
+id: 3727
+title: "UN Expects Subdued Asia-Pacific Growth in 2013"
+award_year: 2013
+published: 2013-04-24 09:53:43
+published_gmt: 2013-04-24 08:53:43
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2013/04/un-expects-subdued-asia-pacific-growth-in-2013/"
+categories: ["Asia Pacific", "Finance", "Sustainability"]
+content_sha256: 11fff1dd5989c7e0fe328e3eba7d9fae0a9e4a2e5fb1d0156e5cf4fd67843584
+canonical: 3727-un-expects-subdued-asia-pacific-growth-in-2013.json
+---
+
+# UN Expects Subdued Asia-Pacific Growth in 2013
+
+> Verbatim archived copy. Canonical machine record: `3727-un-expects-subdued-asia-pacific-growth-in-2013.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright  wp-image-3729" alt="escap" src="https://cfi.co/wp-content/uploads/2013/04/escap.png" width="179" height="179" />Growth in Asia-Pacific remains subdued due to the impact of persistent weaknesses and uncertainties in the developed economies, the United Nations reported last week, urging Governments to implement macroeconomic policies that focus more on inclusivity and sustainable development.</strong></p>
+<p style="text-align: justify;">The report, the Economic and Social Survey of Asia and the Pacific 2013: Forward-looking macroeconomic policies for inclusive and sustainable development, argues that macroeconomic policies can play a vital role in reorienting the region towards a more inclusive and sustainable growth path – a high priority of its post-2015 development agenda.</p>
+<p style="text-align: justify;">The Survey cautioned, however, that “much lower growth compared to recent years could become a new normal for many regional economies if present economic trends were to continue,” and this could cause an estimated economic output loss of about $1.3 trillion by the end of 2017.</p>
+<p style="text-align: justify;">According to the report, the flagship publication of the UN Economic and Social Commission for Asia and the Pacific (ESCAP), the growth rate of the region’s developing economies is projected to rise to 6 per cent in 2013 from 5.6 per cent last year, but compared to 7 per cent in 2011.</p>
+<p style="text-align: justify;">“The global economic conditions remain challenging for the region. Since the beginning of 2013, we have witnessed some measurable improvement in global financial markets, however we have not seen robust improvement in the real economy,” Pingfan Hong, Chief of the Global Economic Monitoring Unit at the UN Department of Economic and Social Affairs (DESA), told journalists in New York.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">The survey estimated that since the onset of the global financial crises in 2008, GDP for the region had lost about 3 per cent if compared with the trend growth of the region before the crises, a loss of roughly $870 billion in output.</h3>
+</blockquote>
+<p style="text-align: justify;">“The 2013 Survey reminds us that this is no time for complacency, as the need for a more inclusive and sustainable pattern of economic and social development continues to be critical,” UN Under-Secretary-General and Executive Secretary of ESCAP, Noeleen Heyzer, said in her preface to the Survey.</p>
