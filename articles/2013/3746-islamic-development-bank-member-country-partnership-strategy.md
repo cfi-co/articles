@@ -1,0 +1,25 @@
+---
+id: 3746
+title: "Islamic Development Bank: Member Country Partnership Strategy"
+award_year: 2013
+published: 2013-04-26 08:15:49
+published_gmt: 2013-04-26 08:15:49
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2013/04/islamic-development-bank-member-country-partnership-strategy/"
+categories: ["Asia Pacific", "Finance", "Middle East"]
+content_sha256: 78a98905534651d0c1d16fb4a9e005be6d1085b3606aa4deb347714a7b5f62db
+canonical: 3746-islamic-development-bank-member-country-partnership-strategy.json
+---
+
+# Islamic Development Bank: Member Country Partnership Strategy
+
+> Verbatim archived copy. Canonical machine record: `3746-islamic-development-bank-member-country-partnership-strategy.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright  wp-image-3747" alt="idb" src="https://cfi.co/wp-content/uploads/2013/04/idb-286x300.jpg" width="200" height="210" />The Member Country Partnership Strategy (MCPS), introduced in 2010 as an outcome of the Islamic Development Bank Reform Agenda, is a tool to mainstream the newly adopted post-reform business model of the IDB Group.</strong> This new business model embodies three operating principles of pro-activeness (reaching out to clients instead of waiting to be approached), inclusiveness (seeking the support and cooperation of all stakeholders) and prioritization (allocating available resources to the most urgent and priority needs of member countries). It is thus a strategy document that guides the operations of the IDB Group in its member countries over the medium-term (3-5 years) clearly specifying comparative advantage and niche areas for the IDB Group (IDB, ITFC, ICD, ICIEC and IRTI) as well as financing instruments and role play. The MCPS also endeavours to promote mutually beneficial partnerships among member countries such as transfer of technology, cross-border investments, trade exchanges and sharing of country experiences, etc., which are collectively known as “Reverse Linkages” (RL).</p>
+<p style="text-align: justify;">As an IDB Group undertaking, the MCPS is intended to enhance Group synergy and development results by aligning member country priorities with the IDB Group Vision 2020 and capacity. In addition, the MCPS provides the IDB Group a platform for structured dialogue with member countries and other stakeholders with a view to having an “inclusive” country strategy. Through these consultations, the MCPS enables the IDB to forge strategic partnerships and other joint initiatives with many development partners.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">"The MCPS also endeavours to promote mutually beneficial partnerships among member countries such as transfer of technology, cross-border investments, trade exchanges and sharing of country experiences."</h3>
+</blockquote>
+<p style="text-align: justify;">The MCPS preparation follows a two steps process. It starts with the formulation of a concept note asserting the importance of the MCPS framework in articulating member country needs; diagnosing member country’s development situation and future aspirations; gauging these against Government’s development strategies and plans; assessing the lessons learnt from IDB’s own experience; suggesting possible support areas for future intervention by the IDB Group, etc. The second step in the process is field visit for consultations with an array of stakeholders including the government, civil society, private sector and development partners, etc., and subsequent preparation of the strategy.</p>
+<p style="text-align: justify;">So far, the IDB has prepared nine MCPS on Turkey, Indonesia, Mali, Uganda, Mauritania, Pakistan, Kazakhstan, Senegal, and Morocco. Ten others are under preparation.</p>
