@@ -1,0 +1,27 @@
+---
+id: 3772
+title: "Saudi Aramco PhD Student Wins MIT Research Award"
+award_year: 2013
+published: 2013-04-30 11:09:37
+published_gmt: 2013-04-30 11:09:37
+author: "CFI.co Editorial"
+url: "https://cfi.co/northamerica/2013/04/saudi-aramco-phd-student-wins-mit-research-award/"
+categories: ["North America", "Oil &amp; Mining"]
+content_sha256: 5463c8438063939fb303bcb62abdf7827124d9da0b5f40b49cf5890249cd969a
+canonical: 3772-saudi-aramco-phd-student-wins-mit-research-award.json
+---
+
+# Saudi Aramco PhD Student Wins MIT Research Award
+
+> Verbatim archived copy. Canonical machine record: `3772-saudi-aramco-phd-student-wins-mit-research-award.json`.
+
+[caption id="attachment_3773" align="alignright" width="300"]<img class="  wp-image-3773 size-medium" src="https://cfi.co/wp-content/uploads/2013/04/mit-300x228.jpg" alt="" width="300" height="228" /> MIT[/caption]
+<p style="text-align: justify;"><strong>Zeid Al Ghareeb, a Saudi Aramco sponsored student pursuing a Ph.D. in Petroleum Engineering at the Massachusetts Institute of Technology (MIT), has been awarded a Seed Fund grant of $150,000 for doctoral research from the MIT Energy Initiative (MITEI).</strong></p>
+<p style="text-align: justify;">The proposed research was endorsed by founding and sustaining members of MITEI, including Saudi Aramco, BP, Shell, Schlumberger and Chevron, among many others.</p>
+<p style="text-align: justify;">Al Ghareeb was recognized for his research titled “Optimum Decision Making in Reservoir Management Using Reduced-Order Models.” Al Ghareeb’s research focuses on broadening the application of oil reservoir simulation for decision making in light of geological, operational and financial uncertainties using fast, physics-based reduced-order models. The award will help in tackling real world problems.</p>
+<p style="text-align: justify;">Incorporating operational and financial models with geologic models throughout the decision-making framework is not common, according to Al Ghareeb, and will require collaboration with energy economists, engineers and geologists.</p>
+
+
+[caption id="attachment_3777" align="alignleft" width="201"]<img class="size-full wp-image-3777" src="https://cfi.co/wp-content/uploads/2013/04/zalghareeb.jpeg" alt="Zeid Alghareeb" width="201" height="201" /> <strong>Zeid Al Ghareeb</strong>[/caption]
+<p style="text-align: justify;">This multidisciplinary approach to reservoir simulation and management is expected to include seminars and summits through MITEI to address this challenge and emphasize the effect of coupling these models in the reservoir optimization and decision-making process. The goal is to make this process educational to engineers and scientists, and attractive to energy economists.</p>
+<p style="text-align: justify;">A recent memorandum of understanding between Saudi Aramco and MIT will help expand the partnership between the school and the company, and includes research encompassing renewable energy, energy efficiency, energy economics, CO2 management and conversion, desalination, advanced materials and a range of hydrocarbon production areas, such as computational reservoir modeling and simulation, geophysics and unconventional gas.</p>
