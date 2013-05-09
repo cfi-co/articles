@@ -1,0 +1,19 @@
+---
+id: 3876
+title: "Strategy & Entrepreneurship from Alice Guilhon"
+award_year: 2013
+published: 2013-05-09 10:08:27
+published_gmt: 2013-05-09 10:08:27
+author: "CFI.co Editorial"
+url: "https://cfi.co/europe/2013/05/strategy-entrepreneurship-from-alice-guilhon/"
+categories: ["Europe"]
+content_sha256: ac2ac292855c0b488df5473dd20ada04cd7a7f7d7516eff4d914f6667d3ff6c9
+canonical: 3876-strategy-entrepreneurship-from-alice-guilhon.json
+---
+
+# Strategy & Entrepreneurship from Alice Guilhon
+
+> Verbatim archived copy. Canonical machine record: `3876-strategy-entrepreneurship-from-alice-guilhon.json`.
+
+[caption id="attachment_3878" align="alignright" width="205"]<img class="size-full wp-image-3878" alt="Alice Guilhon" src="https://cfi.co/wp-content/uploads/2013/05/Alice-Guilhon.jpg" width="205" height="183" /> <strong>Alice Guilhon</strong>[/caption]
+<p style="text-align: justify;"><strong>Prof. Alice Guilhon is the dean of Skema the new business school created through the merger of Lille School of Management and Ceram, in Sophia Antipolis, France.</strong> Under her leadership Skema has opened campuses on two techno-parks, one in China (Suzhou) and the other in the United States (Raleigh, North Carolina). She is practising what she preaches as a professor of strategy and entrepreneurship. With the globalisation of education the strategy of merging is a clear way forward meeting the demand from students for truly international education and Skema has firmly established itself as a brand in the business education market place. Under Prof. Guilhion Skema is taking shape not only as new educational force in Europe but on the global stage too. This charismatic dean has set a benchmark on how business education can globalise but - just as importantly - she recognises that there is limit to how large even an international school can become and still remain coherent. While many others have been discussing how to internationalise, Prof Guilhion has reached the implementation stage.</p>
