@@ -1,0 +1,26 @@
+---
+id: 3929
+title: "Betsy Kawamura and Empowering NK Refugees"
+award_year: 2013
+published: 2013-05-16 10:37:25
+published_gmt: 2013-05-16 10:37:25
+author: "CFI.co Editorial"
+url: "https://cfi.co/editors-picks/2013/05/betsy-kawamura-and-empowering-nk-refugees/"
+categories: []
+content_sha256: 45f2963aaef7ce1359b9c7d25e3d9e8a848e6cd090ed54101710e212689a7a6d
+canonical: 3929-betsy-kawamura-and-empowering-nk-refugees.json
+---
+
+# Betsy Kawamura and Empowering NK Refugees
+
+> Verbatim archived copy. Canonical machine record: `3929-betsy-kawamura-and-empowering-nk-refugees.json`.
+
+<img class="size-full wp-image-2757 alignright" alt="Betsy Kawamura" src="https://cfi.co/wp-content/uploads/2012/12/bk2.jpg" width="176" height="189" />
+<p style="text-align: justify;"><strong>Human rights activist Betsy Kawamura, founder and director of Womer4NonViolence, works relentlessly to provide a platform for survivors of gender-based violence and others who are unable to find a voice in the wilderness of despair. She draws on insights from the trauma of her early life to bring hope and opportunity to other victims.</strong></p>
+<p style="text-align: justify;">Betsy was twelve years old and living in Okinawa when she was befriended by a middle-aged Caucasian man whom she considered to be an ‘authority figure’. This man sexually abused her on several occasions and spoke openly and without remorse about his violence to young girls including his own daughter. These encounters came to an end only when her family moved home but the associated pain and suffering was to continue. This resulted in a major psychotic breakdown and the loss of her ability to read for a period in adult life despite having been one of the smartest in her class and earning an MBA at an American university. Betsy became homeless and lived on the streets. It was at this desperately low point that she realised that trauma survivors need strong political and socio-economical support to prevail over past miseries.</p>
+
+<blockquote>
+<h3>"My anguish ended when my family left Okinawa after this man had paid me $5 during our last encounter for my ‘services’."</h3>
+</blockquote>
+<p style="text-align: justify;">Much later, when Betsy had had resumed her professional career, she came to know in detail of the suffering of some women and children in North Korea and the difficulties they face as refugees. She has devoted much of the past dozen years of her life to helping these survivors and was instrumental in the making of a short film <i>‘Under a Different Sky’</i> which tells the story of a North Korean woman now living in the north of England who was a victim of human trafficking.</p>
+<p style="text-align: justify;">Betsy doesn’t rest for one moment and is now working on her ‘Voice of Free North Korea’ project which seeks to empower 500 refugees living in Britain by training them in modern communication skills. We have no doubt that Betsy will open important channels for these survivors – and our hope in that some of these voices will be as eloquent as her own.</p>
