@@ -1,0 +1,32 @@
+---
+id: 3952
+title: "Nigeria’s Economy Grows by 6.6%"
+award_year: 2013
+published: 2013-05-17 12:03:23
+published_gmt: 2013-05-17 12:03:23
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2013/05/nigerias-economy-grows-by-6-6/"
+categories: ["Africa", "Sustainability"]
+content_sha256: 96d4da4d6886bf025703fd017a8a619b53ea9be85e6f156d9c53d0560de7a02b
+canonical: 3952-nigerias-economy-grows-by-6-6.json
+---
+
+# Nigeria’s Economy Grows by 6.6%
+
+> Verbatim archived copy. Canonical machine record: `3952-nigerias-economy-grows-by-6-6.json`.
+
+[caption id="attachment_3960" align="alignright" width="300"]<img class="  wp-image-3960 size-medium" src="https://cfi.co/wp-content/uploads/2013/05/lagos-300x222.jpg" alt="" width="300" height="222" /> Lagos, Nigeria[/caption]
+<p style="text-align: justify;"><strong>At a time when Europe’s growth is stalling and in recession, Nigeria’s economic output is continuing to motor away. However, this growth comes at the cost of inflation which is also running high at 9% per annum and for food even higher at 11%.</strong></p>
+<p style="text-align: justify;">Abuja reports that the Nigerian economy, measured by the Real Gross Domestic Product (GDP), grew by 6.56 per cent in the first quarter of 2013 as against 6.34 per cent in the corresponding quarter of 2012.</p>
+<p style="text-align: justify;">Dr Yemi Kale, the Statistician-General of the Federation, said in a statement in Abuja on Thursday that the Consumer Price Index (CPI) rose by 9.1 per cent in April as against 8.6 per cent recorded in March 2013.</p>
+<p style="text-align: justify;">“This is the fourth consecutive month of single digit year-on-year rates being recorded, and the first time this has occurred since the movement to the new CPI base period,’’ Kale said.</p>
+<p style="text-align: justify;">The statement said that relative to March, the rise in the headline index could be primarily attributed to higher price levels of food products due to the effect of declining inventories.</p>
+<p style="text-align: justify;">“At this time in the planting season, what are sold are foods which were harvested late last year and the limited supplies of these with a relatively stable demand, pushes prices higher.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“As a result of substantially higher price levels last year, the implications are that the year-on-year changes for this year are likely to be lower,’’ it said.</h3>
+</blockquote>
+<p style="text-align: justify;">The statement said the National Bureau of statistics observed generally slower rises in monthly prices since 2013.</p>
+<p style="text-align: justify;">“This may be connected to more prudent fiscal measures together with aggressive stance of monetary policy.’’</p>
+<p style="text-align: justify;">It said that the largest contributors to the increase in the food index in April were bread and cereals, potatoes, yams and other tubers and vegetables.</p>
+<p style="text-align: justify;">The statement said that the average annual rate of rise of the food index for the 12-month period ending April 2013 was 10.8 per cent when compared with the same period in 2012.</p>
