@@ -1,0 +1,25 @@
+---
+id: 4204
+title: "Chen Lihua: It's a Natural Thing to Give"
+award_year: 2013
+published: 2013-05-28 16:42:11
+published_gmt: 2013-05-28 16:42:11
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2013/05/chen-lihua-its-a-natural-thing-to-give/"
+categories: ["Asia Pacific"]
+content_sha256: 150e77e91ab1d1d72218f573c71ec21c9c756dcd9998c424136d63a949c75e33
+canonical: 4204-chen-lihua-its-a-natural-thing-to-give.json
+---
+
+# Chen Lihua: It's a Natural Thing to Give
+
+> Verbatim archived copy. Canonical machine record: `4204-chen-lihua-its-a-natural-thing-to-give.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-medium wp-image-4214" alt="" src="https://cfi.co/wp-content/uploads/2013/05/Chen-Lihua-300x252.jpg" width="300" height="252" />China’s Chen Lihua, now in her early 70s, has a net worth of well over one billion dollars. This wealth comes from the Fu Wah International Group which she established to undertake residential housing projects. By all accounts she is a humble and focused philanthropist with a desire to share her love of her country with people around the globe.</strong></p>
+<p style="text-align: justify;">Coming from a poor family, Lihua finished her education at the high school level and travelled to Hong Kong in the 1980s to polish her business skills. She returned home to set up Fuw Wah and has never looked back.</p>
+<p style="text-align: justify;">Chen Lihua has invested 200 million RMB in her China Red Sandalwood Museum which is spread over 100,000 square metres in Beijing. It is a monumental achievement and she has gifted sandalwood artwork to museums throughout the world.</p>
+
+<blockquote>
+<h3>“I should be responsible for everybody around me. It is only a natural thing to give money to those most in need.”</h3>
+</blockquote>
+<p style="text-align: justify;">She doesn’t keep accounts but donates massive amounts for disaster and poverty relief and education of the needy.</p>
