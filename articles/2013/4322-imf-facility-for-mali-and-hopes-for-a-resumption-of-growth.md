@@ -1,0 +1,29 @@
+---
+id: 4322
+title: "IMF Facility for Mali: And Hopes for a Resumption of Growth"
+award_year: 2013
+published: 2013-06-11 08:17:36
+published_gmt: 2013-06-11 07:17:36
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2013/06/imf-facility-for-mali-and-hopes-for-a-resumption-of-growth/"
+categories: ["Africa", "Finance"]
+content_sha256: d750944581f30677fb78e2334e8ca5817b2e51d8c063d5dd362de11e194f0bcc
+canonical: 4322-imf-facility-for-mali-and-hopes-for-a-resumption-of-growth.json
+---
+
+# IMF Facility for Mali: And Hopes for a Resumption of Growth
+
+> Verbatim archived copy. Canonical machine record: `4322-imf-facility-for-mali-and-hopes-for-a-resumption-of-growth.json`.
+
+[caption id="attachment_4323" align="alignright" width="259"]<img class="size-full wp-image-4323" src="https://cfi.co/wp-content/uploads/2013/06/Min-Zhu.jpg" alt="Min Zhu" width="259" height="194" /> <strong>Min Zhu</strong>[/caption]
+<p style="text-align: justify;"><strong>The Executive Board of the International Monetary Fund (<a href="https://cfi.co/organisations/imf/">IMF</a>) approved a disbursement of an amount equivalent to SDR 10 million (about US$15.1 million) for Mali under the Rapid Credit Facility (RCF). The disbursement will help the authorities meet their urgent balance-of-payments need, and support their economic program in 2013 and re-engagement with donors during the transition toward a new elected government.</strong></p>
+<p style="text-align: justify;">The RCF provides rapid concessional financial assistance with limited conditionality to low-income countries facing an urgent balance of payments need.</p>
+<p style="text-align: justify;">Following the Executive Board’s discussion of Mali, Mr. Min Zhu, Deputy Managing Director and Acting Chair, stated:</p>
+<p style="text-align: justify;">“Mali’s economy is emerging from a recession caused by the security and political crisis in 2012. The adoption of the road map toward presidential and parliamentary elections in July, the restoration of government control over the full territory with the help of foreign military intervention, and the return of donor support are helping set the stage for a resumption of growth. However, the economic situation remains fragile and fraught with risks.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">"Strengthening public financial management is essential for sustained economic and fiscal stability."</h3>
+</blockquote>
+<p style="text-align: justify;">“The Malian authorities deserve praise for their skillful management of the economy under very difficult circumstances. The government’s fiscal prudence has helped maintain broad economic stability. With the announcement of significant international financial support for Mali at the recent donor conference in Brussels, the challenge will be to ensure effective deployment of these additional resources in line with the country’s near and medium-term priorities of peace consolidation and development.</p>
+<p style="text-align: justify;">“Strengthening public financial management is essential for sustained economic and fiscal stability. The steps taken to strengthen cooperation and information exchange between the tax, customs, and procurement administrations will help improve tax auditing and bolster tax revenue over time. The clearance of all outstanding external and domestic arrears by year-end will support the recovery. Going forward, enhanced expenditure controls and cash management will be necessary to avoid the reemergence of payment arrears.</p>
+<p style="text-align: justify;">“The ongoing energy sector reform is expected to alleviate the fiscal burden, and boost growth and poverty reduction. The authorities need to secure public support for the reform through open and transparent communications and targeted measures to protect the poor.”</p>
