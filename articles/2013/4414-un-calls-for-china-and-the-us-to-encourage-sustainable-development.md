@@ -1,0 +1,31 @@
+---
+id: 4414
+title: "UN calls for China and the US to Encourage Sustainable Development"
+award_year: 2013
+published: 2013-06-20 09:11:02
+published_gmt: 2013-06-20 09:11:02
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2013/06/un-calls-for-china-and-the-us-to-encourage-sustainable-development/"
+categories: ["Asia Pacific", "North America", "Sustainability"]
+content_sha256: 0028cd72596e1d57f8a15b08f4d8be5b1c3e8a549b0e37677aa7a7143ef93721
+canonical: 4414-un-calls-for-china-and-the-us-to-encourage-sustainable-development.json
+---
+
+# UN calls for China and the US to Encourage Sustainable Development
+
+> Verbatim archived copy. Canonical machine record: `4414-un-calls-for-china-and-the-us-to-encourage-sustainable-development.json`.
+
+[caption id="attachment_4415" align="alignright" width="259"]<img class="size-full wp-image-4415" alt="Ban Ki-moon" src="https://cfi.co/wp-content/uploads/2013/06/Ban-Ki-moon.jpg" width="259" height="195" /> <strong>Ban Ki-moon</strong>[/caption]
+<p style="text-align: justify;"><strong>Secretary-General Ban Ki-moon has  appealed to Chinese and United States-based companies to boost their efforts to achieve sustainable development and prosperity through partnerships, stressing their impact in developing countries.</strong></p>
+<p style="text-align: justify;">“US and Chinese companies can and must ensure that business activity is sustainable and responsible – that it upholds the highest standards of business ethics,” Mr. Ban said at the Hong Kong-US Business Council Dialogue in New York.</p>
+<p style="text-align: justify;">“I am convinced that principles and profits can go hand-in-hand. Business success requires delivering long-term value – not just financially, but also socially, environmentally and ethically.”</p>
+<p style="text-align: justify;">Mr. Ban underlined that Governments alone cannot tackle global development challenges but instead need partnerships with the private sector to make a significant impact. He added that the contribution from the private sector will be even more vital to mobilize the resources, technology and innovation required to achieve as the deadline for the Millennium Development Goals (MDGs) approaches and the post-2015 agenda is set in place.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“Today, our challenge remains clear and urgent: cut greenhouse gas emissions; increase efficiency, rely more on clean energy and provide sustainable energy for all; and reach a global legal climate agreement by 2015,” Mr. Ban said.</h3>
+</blockquote>
+<p style="text-align: justify;">He commended US and Chinese companies that have committed to the principles set by the UN Global Compact, and urged them to ensure that they “uphold responsible practices in their strategies, in their supply chains, and in the communities where they operate. Their presence can make a tremendous difference.”</p>
+<p style="text-align: justify;">Each company that signs on with the UN Global Compact agrees to embrace, support and enact, within their sphere of influence, a set of 10 principles in the areas of human rights, labour standards, the environment and anti-corruption.</p>
+<p style="text-align: justify;">Mr. Ban pointed to China’s strong presence in Africa as “an enormous opportunity for growth on the continent,” and called on investors to use their collective influence to help spread commitment for sustainable change.</p>
+<p style="text-align: justify;">In particular, he said tackling climate change must be a priority for the private sector, and encouraged US and Chinese companies to engage in the Caring for Climate initiative for business, through which companies can put forward innovations on energy efficiency, renewable energy and finance.</p>
+<p style="text-align: justify;">“There should be no more denial, no more deferring action, no more avoiding the tough decisions, no more hoping that a technological silver bullet will save us,” Mr. Ban said. “The private sector will have a central role to play in unlocking clean energy investments.”</p>
