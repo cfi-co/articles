@@ -1,0 +1,31 @@
+---
+id: 4441
+title: "UN: Management of Natural Resources for a Peaceful Afghanistan"
+award_year: 2013
+published: 2013-06-25 10:28:27
+published_gmt: 2013-06-25 09:28:27
+author: "CFI.co Editorial"
+url: "https://cfi.co/middleeast/2013/06/un-management-of-natural-resources-for-a-peaceful-afghanistan/"
+categories: ["Middle East", "Sustainability"]
+content_sha256: 6c0d6a2a613c4652ac17d57dbbcc06910f8d7fcce05f6e52191d89e4156d6ec0
+canonical: 4441-un-management-of-natural-resources-for-a-peaceful-afghanistan.json
+---
+
+# UN: Management of Natural Resources for a Peaceful Afghanistan
+
+> Verbatim archived copy. Canonical machine record: `4441-un-management-of-natural-resources-for-a-peaceful-afghanistan.json`.
+
+[caption id="attachment_4442" align="alignright" width="243"]<img class="size-full wp-image-4442" src="https://cfi.co/wp-content/uploads/2013/06/Mark-Bowden.jpg" alt="Mark Bowden" width="243" height="208" /> <strong> Mark Bowden</strong>[/caption]
+<p style="text-align: justify;"><strong>Sustainable and equitable management of Afghanistan’s natural resources such as land, water, forests and minerals can contribute to peacebuilding in the country, according to a United Nations report released on June 24<sup>th</sup>.</strong></p>
+<p style="text-align: justify;">The report, Natural Resource Management and Peacebuilding in Afghanistan, describes how the UN and the international community can assist the Afghan Government to improve the management of natural resources in a way that contributes to peace and development on a national scale.</p>
+<p style="text-align: justify;">“Effective management of natural resources will help build peace in Afghanistan, and therefore development work and investment in all natural resource sectors must be managed carefully,” said the Deputy Special Representative of the Secretary-General with the UN Assistance Mission in Afghanistan (UNAMA), Mark Bowden.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“Disputes in Afghanistan over natural resources can aggravate existing ethnic, political and regional divisions,” he added.</h3>
+</blockquote>
+<p style="text-align: justify;">The study, which was funded by the European Union (<a href="https://cfi.co/organisations/eu/">EU</a>), also aims to encourage international organizations to introduce mechanisms into their projects to ensure that they do not inadvertently exacerbate conflict over natural resources.</p>
+<p style="text-align: justify;">Up to 80 per cent of Afghans are directly dependent on natural resources for income and sustenance, and 60 per cent of the population obtain their livelihoods from agriculture, making equitable management of these resources particularly relevant in the country.</p>
+<p style="text-align: justify;">Natural resources contribute to underlying tension and conflict in Afghanistan as powerful groups try to gain control over access to irrigation water for downstream provinces, communities compete over land, illegal trade of forest timber and gemstones is widespread, and corruption is rampant.</p>
+<p style="text-align: justify;">“The issue in post-conflict countries is how to make natural resources a blessing that reinforces stability and not a curse that drives conflict,” said Nicholas Haysom, a Deputy Special Representative of the Secretary-General in Afghanistan.</p>
+<p style="text-align: justify;">The report notes that the international community can help improve the management of natural resources in Afghanistan by building capacity to help implement management structures and laws relating to natural resources, supporting community-level dispute resolution processes, improving data collection to enable early warning alerts when risks are detected, providing funding for conflict resolution that takes an environmental approach, and making environmental assessments a standard component of all development projects.</p>
+<p style="text-align: justify;">Led by the UN Environment Programme (UNEP), the report was developed in close collaboration with the Natural Resources Contact Group of the UN in Afghanistan and produced at the request of the UN Country Team, in partnership with the EU-UN Global Partnership on Land, Natural Resources and Conflict.</p>
