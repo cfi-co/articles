@@ -1,0 +1,28 @@
+---
+id: 4703
+title: "CFI.co Meets Chief Andrew Oziri Emeri"
+award_year: 2013
+published: 2013-06-30 14:30:42
+published_gmt: 2013-06-30 13:30:42
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2013/06/cfi-co-meets-chief-andrew-oziri-emeri/"
+categories: ["Africa", "Corporate Leaders"]
+content_sha256: 46c64d712ea0bdc330304d10c66ccdd308efa835b29b21a6d1627e01e77c57d4
+canonical: 4703-cfi-co-meets-chief-andrew-oziri-emeri.json
+---
+
+# CFI.co Meets Chief Andrew Oziri Emeri
+
+> Verbatim archived copy. Canonical machine record: `4703-cfi-co-meets-chief-andrew-oziri-emeri.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright  wp-image-4706" alt="chief" src="https://cfi.co/wp-content/uploads/2013/07/chief.jpg" width="117" height="170" />Chief Andrew Oziri Emeri, (or OZ as he is popularly known) was born on 27<sup>th</sup> June, 1960 to the families of Mr. &amp; Mrs. Emeri O. Alexander aka (Alexander De Great) of Umunede Kingdom in Ika North East Local Government Area of Delta State.</strong></p>
+<p style="text-align: justify;">He is the Chairman/CEO of Ozma Nigeria Company Limited and DreamWorks Eng. &amp; Const. Ltd., Precious Fortune Int’l Ltd., a seasoned manager and strategist.</p>
+<p style="text-align: justify;">Chief Emeri attended the then Pilgrim Baptist Primary School, Umunede, where his leadership quality was first spotted and, without compromise, he was selected as the general monitor of the school. He proceeded to Ede Grammar School Umunede where he sat for his West African Examination Council (WAEC).</p>
+<p style="text-align: justify;">In search for greener pastures, Chief Emeri left for Lagos in 1980 joining Willisco Aerospace &amp; Industrial Radiography Training School where he obtained ASNT level ll on three methods i.e. in Radiographic Film Interpretation (RI), Ultrasonic Testing (UT), Magnetic Particle Inspection (MPI) and Dye Penetrant Testing (PT), respectively.</p>
+<p style="text-align: justify;">He left Willisco in 1989 as a Radiographic Supervisor to join Overseas Technical Services (OTC) as a Radiation Protection Supervisor (RPS), as a result of hard work, honesty, dedication to work and sincerity, he was promoted to the position of Non- Destructive Testing (NDT) Manager, a position he held until he decided to establish his company, Ozma Nigeria Company Limited in 1994.</p>
+<p style="text-align: justify;">Holding a Masters in Crime Management from Delta State University, Abraka, Bachelors in Business Management from Abia State University, Uturu and an OND (equivalent), Chief Emeri is a member of the Obi in Council (the highest ruling body of the Royal palace) in Umunede Kingdom.</p>
+<p style="text-align: justify;">He is also a member of the Nigerian Institute of Welding (NIW), Institute of Strategic Management (ISM) where he is the Chairman of the Warri District of the Institute and the Secretary to the Delta State Chapter, American Society for Non- Destructive Testing, amongst others.</p>
+<p style="text-align: justify;">This leader has attended several seminars and exhibitions relating to Oil and Gas, including: OTC 2012 &amp; 2013, Nigeria Oil &amp; Gas Exhibition 2012, Institute of Strategic Management Master class in London, 18<sup>th</sup> World Conference on Non- Destructive Testing in Durban- South Africa.</p>
+<p style="text-align: justify;">A God-fearing man, philanthropist and team leader, he is a very industrious individual who is always ready to embrace the newest of techniques/ technologies.</p>
+<p style="text-align: justify;">The Chief is a business leader to reckon with, an employer of labour, and helper and shield to many. An achiever, a man with whom there is no impossibility ‘because there must always be a way out’.</p>
+<p style="text-align: justify;">Chief Andrew Oziri Emeri is married to someone he describes as ‘the most wonderful woman on earth, Mrs. Franca Emeri’, and they are blessed with two lovely children.</p>
