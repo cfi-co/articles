@@ -1,0 +1,31 @@
+---
+id: 4520
+title: "Military Takeover in Egypt: UN Appeals for Restraint"
+award_year: 2013
+published: 2013-07-04 10:31:15
+published_gmt: 2013-07-04 09:31:15
+author: "CFI.co Editorial"
+url: "https://cfi.co/middleeast/2013/07/military-takeover-in-egypt-un-appeals-for-restraint/"
+categories: ["Middle East"]
+content_sha256: 2d11d6144a3c630415b159795da352330111c69a8857c0d6a46ec56d056f8c97
+canonical: 4520-military-takeover-in-egypt-un-appeals-for-restraint.json
+---
+
+# Military Takeover in Egypt: UN Appeals for Restraint
+
+> Verbatim archived copy. Canonical machine record: `4520-military-takeover-in-egypt-un-appeals-for-restraint.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-full wp-image-4521" alt="egyptprotests" src="https://cfi.co/wp-content/uploads/2013/07/egyptprotests.jpg" width="258" height="147" />With Egypt's transition at “another delicate juncture,” United Nations Secretary-General Ban Ki-moon reiterated on Wednesday 3<sup>rd</sup> July his appeals for non-violence and restraint, urging an inclusive approach to overcome the current "deep difficulties" and address the concerns of all Egyptians.</strong></p>
+<p style="text-align: justify;">“The Secretary-General is following closely and with continuing concern the fast-moving developments in Egypt. He continues to stand with the aspirations of the Egyptian people,” said a statement issued by a spokesperson for the UN chief.</p>
+<p style="text-align: justify;">In the wake of massive protests – both for and against Egypt's current Government – Mr. Ban noted the delicate nature of the situation following the army's announcement that it is suspending the Constitution and appointing the head of the constitutional court as interim head of state – “decisions that have not been accepted by President [Mohamed] Morsy”.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“Preservation of fundamental rights, including freedom of speech and assembly remain of vital importance.”</h3>
+</blockquote>
+<p style="text-align: justify;">Egypt has been undergoing a halting democratic transition following the toppling of President Hosni Mubarak two years ago in the wake of mass protests similar to those seen in other parts of the Middle East and North Africa as part of the “Arab Spring.”</p>
+<p style="text-align: justify;">Demonstrations have been taking place in Cairo and other cities across the country in recent days, with protesters reportedly calling for President Morsy's resignation. Media reports noted on Monday that Egypt's army had given the country's rival parties 48 hours to resolve the political crisis.</p>
+<p style="text-align: justify;">“At this moment of continued high tension and uncertainty in the country, the Secretary-General reiterates his appeals for calm, non-violence, dialogue and restraint,” the statement said, adding that an inclusive approach is essential to addressing the needs and concerns of all Egyptians.</p>
+<p style="text-align: justify;">“Preservation of fundamental rights, including freedom of speech and assembly remain of vital importance.”</p>
+<p style="text-align: justify;">Mr. Ban said that in their protests, many Egyptians have voiced deep frustrations and legitimate concerns. At the same time, military interference in the affairs of any State is of concern.</p>
+<p style="text-align: justify;">“Therefore, it will be crucial to quickly reinforce civilian rule in accordance with principles of democracy,” he says in the statement.</p>
+<p style="text-align: justify;">“The world is watching closely the next steps with the hope that Egyptians will remain on a peaceful course, overcome the deep difficulties they are facing today, and find the needed common ground to move forward in a transition for which so many fought so courageously,” the statement concludes.</p>
