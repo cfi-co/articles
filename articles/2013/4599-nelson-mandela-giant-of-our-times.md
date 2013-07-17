@@ -1,0 +1,26 @@
+---
+id: 4599
+title: "Nelson Mandela: Giant of Our Times"
+award_year: 2013
+published: 2013-07-17 09:34:59
+published_gmt: 2013-07-17 08:34:59
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2013/07/nelson-mandela-giant-of-our-times/"
+categories: ["Africa"]
+content_sha256: 0ce2a83aad7d773996e43bf293af10d2c652c13e050bf6c8b9a344e6c693fbcd
+canonical: 4599-nelson-mandela-giant-of-our-times.json
+---
+
+# Nelson Mandela: Giant of Our Times
+
+> Verbatim archived copy. Canonical machine record: `4599-nelson-mandela-giant-of-our-times.json`.
+
+<p style="text-align: justify;"><strong> <img class="alignright  wp-image-4600" alt="Nelson Mandela" src="https://cfi.co/wp-content/uploads/2013/07/Nelson-Mandela.jpg" width="128" height="112" />UN Secretary-General Ban Ki-moon’s message for Nelson Mandela International Day, 18 July:</strong></p>
+<p style="text-align: justify;">This year’s commemoration of Nelson Mandela International Day comes at a moment of deep reflection on the life and work of Madiba, as the universally revered leader remains in the hospital. As we extend our best wishes to President Mandela on his ninety-fifth birthday, let us also give tangible meaning to our feelings of concern by taking action on behalf of others.</p>
+<p style="text-align: justify;">Nelson Mandela gave 67 years of his life to the struggle for human rights and social justice. In marking this Day, the United Nations is joining the Mandela Foundation in asking people around the world to devote at least 67 minutes of their time on 18 July to community service.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">"The heart of Nelson Mandela International Day is good works for people and the planet."</h3>
+</blockquote>
+<p style="text-align: justify;">The heart of Nelson Mandela International Day is good works for people and the planet. Its theme ‑ “take action, inspire change” ‑ is meant to mobilize the human family to do more to build a peaceful, sustainable and equitable world. This is the best tribute we can pay to an extraordinary man who embodies the highest values of humanity.</p>
+<p style="text-align: justify;">At this difficult time, our thoughts and prayers are with Mr. Mandela, his family and with all the people of South Africa. We are united in admiration for a giant of our times.</p>
