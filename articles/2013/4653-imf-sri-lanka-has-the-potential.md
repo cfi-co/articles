@@ -1,0 +1,20 @@
+---
+id: 4653
+title: "IMF: Sri Lanka Has the Potential"
+award_year: 2013
+published: 2013-07-26 11:10:40
+published_gmt: 2013-07-26 10:10:40
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2013/07/imf-sri-lanka-has-the-potential/"
+categories: ["Asia Pacific", "Finance"]
+content_sha256: 24ee39a7be3d327a9632e01c4f5e336b3ad2604d903d54b5f0142336e1131992
+canonical: 4653-imf-sri-lanka-has-the-potential.json
+---
+
+# IMF: Sri Lanka Has the Potential
+
+> Verbatim archived copy. Canonical machine record: `4653-imf-sri-lanka-has-the-potential.json`.
+
+[caption id="attachment_4654" align="alignright" width="225"]<img class="size-full wp-image-4654" alt="Anoop Singh" src="https://cfi.co/wp-content/uploads/2013/07/Anoop-Singh.jpg" width="225" height="225" /> <strong>Anoop Singh</strong>[/caption]
+<p style="text-align: justify;"><strong>On July 9, Anoop Singh, Director of the IMF’s Asia Pacific Department, delivered the keynote speech at the inauguration of the 2013 Sri Lanka Economic Summit, held in Colombo. The event was sponsored by the Ceylon Chamber of Commerce and had the theme of “Rebalancing the Economy.”</strong></p>
+<p style="text-align: justify;">Mr. Singh’s presentation, entitled “Asia in the 21st Century: The Potential for Sri Lanka,” started by noting the growing importance of Asia in the global economy. It went on to discuss research findings, from the Commission on Growth and Development as well as from others, on the common factors shared by countries that have managed to sustain rapid growth over an extended period. Drawing lessons for Sri Lanka, Mr. Singh emphasized the importance of maintaining macroeconomic stability, boosting trade and FDI, raising savings and investment, and accelerating productivity growth. He also stressed the need to improve education and health, and to improve labor force participation rates, especially among women. Mr. Singh concluded by noting that Sri Lanka has the potential to raise the key drivers of sustained growth and substantially narrow the income gap with other emerging market economies.</p>
