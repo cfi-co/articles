@@ -1,0 +1,25 @@
+---
+id: 4747
+title: "The Spotlight on David Beckham"
+award_year: 2013
+published: 2013-08-01 09:21:16
+published_gmt: 2013-08-01 08:21:16
+author: "CFI.co Editorial"
+url: "https://cfi.co/europe/2013/08/the-spotlight-on-david-beckham/"
+categories: ["Europe"]
+content_sha256: 72cf54b8e4e5cb5e84a17efd095930940b937d653fa71c677afc96d5b5ffd435
+canonical: 4747-the-spotlight-on-david-beckham.json
+---
+
+# The Spotlight on David Beckham
+
+> Verbatim archived copy. Canonical machine record: `4747-the-spotlight-on-david-beckham.json`.
+
+<p style="text-align: justify;"><img class="alignright  wp-image-4748" alt="David Beckham" src="https://cfi.co/wp-content/uploads/2013/08/David-Beckham.jpg" width="149" height="112" /><strong>One of the best known faces on the planet, David Beckham, 38 years old, became an Image Ambassador for Chinese Football after his twenty year playing career came to an end last season.</strong> The League in China is known for its corruption and Beckham for his sense of fair play and so some good should certainly come out of the partnership. Visiting China in late June, he was photographed at a children’s hospital and his personal appearance in Shanghai caused a stampede with seven people injured.</p>
+<p style="text-align: justify;">In his glory days, Beckham was the world’s best paid player (taking into account sponsorship income) spending time at clubs including Manchester United, Real Madrid, Milan, Los Angeles Galaxy and Paris St-Germain and representing his country in international matches. However, as Sir Alex Ferguson pointed out in 2007, ‘He is such a big celebrity that football is only a small part.’</p>
+
+<blockquote>
+<h3>“The spotlight will always be on me, but it`s something I`m learning to live with as the years go by”.</h3>
+</blockquote>
+<p style="text-align: justify;">Married to Victoria, fashion designer and former girl group singer, Beckham is a style icon and has been voted the UK’s most influential man under 40 years. He received an OBE ten years ago and has since 2005 has been a UNICEF Goodwill Ambassador focusing on sports for development. He is a patron of Elton John’s Aids Foundation and other HIV and children’s charities and clearly loves working with young people.</p>
+<p style="text-align: justify;">I we are looking to the world of football for a role model then David Beckham would seem to be a sane and obvious choice. He becomes our sporting Hero for the Summer issue.</p>
