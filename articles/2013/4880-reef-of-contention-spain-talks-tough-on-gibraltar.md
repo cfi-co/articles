@@ -1,0 +1,34 @@
+---
+id: 4880
+title: "Reef of Contention: Spain Talks Tough on Gibraltar"
+award_year: 2013
+published: 2013-08-05 10:14:48
+published_gmt: 2013-08-05 09:14:48
+author: "CFI.co Editorial"
+url: "https://cfi.co/europe/2013/08/reef-of-contention-spain-talks-tough-on-gibraltar/"
+categories: ["Europe"]
+content_sha256: 2a3392915654b61f51443656906f4771b91e4ab4564fd38409a562e63976d83c
+canonical: 4880-reef-of-contention-spain-talks-tough-on-gibraltar.json
+---
+
+# Reef of Contention: Spain Talks Tough on Gibraltar
+
+> Verbatim archived copy. Canonical machine record: `4880-reef-of-contention-spain-talks-tough-on-gibraltar.json`.
+
+[caption id="attachment_4881" align="alignright" width="270"]<img class=" wp-image-4881 " alt="Gibraltar" src="https://cfi.co/wp-content/uploads/2013/08/Gibraltar.jpg" width="270" height="200" /> <strong>Gibraltar</strong>[/caption]
+<p style="text-align: justify;"><strong>The Spanish government is taking a cue from Argentina: Whenever beset by apparently insurmountable problems and tanking approval ratings, find some external issue in order to rally the nation around the flag.</strong></p>
+<p style="text-align: justify;">In times of domestic troubles, successive Argentine governments have found comfort and solace in the territorial dispute over the Falkland Islands. Taken off the backburner, it is sure to rouse the national spirit and draw attention away from more pressing matters.</p>
+<p style="text-align: justify;">With the economy stuck on hold and a corruption scandal getting perilously close to the prime minister’s office, the government of Spain could do with a national feel-good issue. As it happens, Gibraltar has come to the rescue.</p>
+<p style="text-align: justify;">From Madrid, Foreign Affairs Minister José García-Margallo on Sunday gave voice to Spain’s newly-found national indignation, warning the British that “the party is over”. The minister then duly proceeded to enumerate and explain the many nasty measures his government is cooking up to make life on The Rock exceedingly disagreeable.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">"From Madrid, Foreign Affairs Minister José García-Margallo on Sunday gave voice to Spain’s newly-found national indignation, warning the British that “the party is over”."</h3>
+</blockquote>
+<p style="text-align: justify;">This apparently needs doing since the Spanish seem upset over a few concrete blocks that were dumped into the sea from Gibraltar fishing vessels. These blocks are to form an artificial reef that in time may boost local fish stocks. However Spanish fishermen from across the bay complain that the reef might come to hinder navigation.</p>
+<p style="text-align: justify;">As always most attentive to its citizens complaints, the Spanish government promptly embarked on a campaign to express its annoyance. Previously relaxed border controls were ramped up resulting in monumental traffic jams on both sides of the crossing. People leaving or entering Gibraltar were made to suffer delays of up to seven hours in the searing heat while Spanish border guards leisurely checked their documents and belongings.</p>
+<p style="text-align: justify;">And this is just the beginning. Foreign Affairs Minister García-Margallo warned that Spain may impose a tax of up to €50 for anyone crossing the border into or out of Gibraltar. The proceeds of this tax would go toward defraying the added costs imposed on Spanish fishermen by the reef of contention.</p>
+<p style="text-align: justify;">Spain also mulls rerouting Gibraltar’s internet traffic, forcing online gaming companies operating from the British territory to use Spanish servers which in turn would bring them under Madrid’s unforgiving tax regime.</p>
+<p style="text-align: justify;">Other measures being considered are closing Spanish airspace to flights bound to, or departing from, Gibraltar Airport and subjecting the 6,000 or so Gibraltar residents that own property in Spain to a rigorous tax audit.</p>
+<p style="text-align: justify;">Meanwhile the Foreign Office in London voiced its “concern” over the hard-line attitude adopted by the Spanish government and is looking “further into the matter”.</p>
+<p style="text-align: justify;">Previous Spanish governments had adopted a much more conciliatory stance on Gibraltar, an attitude now vociferously denounced by Minister García-Margallo as “misguided”. However it is quite unclear what the Spanish now aim to accomplish with their act. A transfer of sovereignty is out of the question as few - if any - Gibraltar voters are inclined to approve a change in status.</p>
+<p style="text-align: justify;">Other than drawing attention away from pressing domestic issues – of which there are plenty – it is hard to gauge Minister García-Margallo’s true intentions. Perhaps there are none and this is just a case of a mid-summer flaring up of emotions. A bit more self-control and restraint might be called for.</p>
