@@ -1,0 +1,18 @@
+---
+id: 4894
+title: "Sheri McCoy: The Avon Lady"
+award_year: 2013
+published: 2013-08-06 09:01:49
+published_gmt: 2013-08-06 08:01:49
+author: "CFI.co Editorial"
+url: "https://cfi.co/northamerica/2013/08/sheri-mccoy-the-avon-lady/"
+categories: ["North America"]
+content_sha256: 73dbae555de644c4775da6ae03284a368de37de49c7538c32905d90caf544c65
+canonical: 4894-sheri-mccoy-the-avon-lady.json
+---
+
+# Sheri McCoy: The Avon Lady
+
+> Verbatim archived copy. Canonical machine record: `4894-sheri-mccoy-the-avon-lady.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-full wp-image-4901" alt="Sheri McCoy" src="https://cfi.co/wp-content/uploads/2013/08/Sheri-McCoy.jpg" width="183" height="275" />Sheri McCoy is one of the relatively few global business leaders to have risen through the ranks of a major multinational.</strong> Having been overlooked in the search for a CEO at Johnson &amp; Johnson, where she had risen to the position of vice-chairman during her 30 year career, she has taken on that role at Avon. It may be fair to say that Johnson &amp; Johnson’s loss has been Avon’s gain. McCoy did not take over the leadership of Avon at the easiest of times: the company’s financial reputation was at a low ebb following the SEC probe into bribery charges and the business model was under pressure in key markets. Avon needed a new leader and in McCoy they not only have someone whose personal value set is an excellent match with that of the company but at chief executive that also brings to bear the ability to identify  and exploit new opportunities and focus on the bottom line. Given Avon’s first quarter 2013 results there would appear to be good reason for the  optimistic view that a successful new chapter in Avon’s long history is about to open. We wish Sheri McCoy and Avon well as the Company continues to empower women across the globe.</p>
