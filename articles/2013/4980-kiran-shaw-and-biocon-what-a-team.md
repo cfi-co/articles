@@ -1,0 +1,18 @@
+---
+id: 4980
+title: "Kiran Shaw and Biocon: What a Team"
+award_year: 2013
+published: 2013-08-13 09:27:32
+published_gmt: 2013-08-13 08:27:32
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2013/08/kiran-shaw-and-biocon-what-a-team/"
+categories: ["Asia Pacific", "Corporate Leaders"]
+content_sha256: 701bacb8e06e49953969be1a635e7fd5de7c9d88b163b69ae8f121034e9190f7
+canonical: 4980-kiran-shaw-and-biocon-what-a-team.json
+---
+
+# Kiran Shaw and Biocon: What a Team
+
+> Verbatim archived copy. Canonical machine record: `4980-kiran-shaw-and-biocon-what-a-team.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-full wp-image-4985" alt="Kiran Shaw" src="https://cfi.co/wp-content/uploads/2013/08/Kiran-Shaw1.jpg" width="239" height="195" />Kiran Mazumdar Shaw is the founder and managing director of Biocon which is one of Asia’s leading biotech enterprises.</strong> Shaw’s success can be explained in part by the low expectations many male managers had of a woman’s ability to fulfil certain roles in the 70s and 80s. Her upbringing was such that she was strongly encouraged to believe that she could do anything her brothers could do. Unfortunately she found that the estimation of others was rather different. After graduating in Zoology from Bangalore University she went on to post graduate studies at Melbourne University with a view to becoming a brewmaster. Probably because of her sex, Shaw was unable to get the sort of employment she considered appropriate. As a result she used her scientific and brewing skills to found Biocon. Working from a garage in Bangalore with very limited starting capital she started manufacturing plant enzymes. Shaw may have had no formal scientific training but her business acumen was instinctive, a combination of an intuitive understanding of risk and team building expertise. And what a team she has managed to build over the past 30 years. Biocon has become one of the world’s leading pharmaceutical companies driven by Shaw’s belief in fair play and innovation. Shaw believes in putting something back into society and has not only used her wealth philanthropically but has also given generously of her expertise. For a young girl bought up by a professional family that instilled in her a sense of fair play and the belief that anything is possible, she has certainly answered those who rejected her and must have delighted her proud parents.</p>
