@@ -1,0 +1,30 @@
+---
+id: 5000
+title: "Corruption as the Scourge of Development: The Case of Venezuela"
+award_year: 2013
+published: 2013-08-14 10:50:51
+published_gmt: 2013-08-14 09:50:51
+author: "CFI.co Editorial"
+url: "https://cfi.co/finance/2013/08/corruption-as-the-scourge-of-development-the-case-of-venezuela/"
+categories: ["Finance", "Latin America"]
+content_sha256: 166913ea2c24c1469c55e1d1c5444be9dd03f7ec9fc8f3561c54f455b6bbe374
+canonical: 5000-corruption-as-the-scourge-of-development-the-case-of-venezuela.json
+---
+
+# Corruption as the Scourge of Development: The Case of Venezuela
+
+> Verbatim archived copy. Canonical machine record: `5000-corruption-as-the-scourge-of-development-the-case-of-venezuela.json`.
+
+[caption id="attachment_5002" align="alignright" width="299"]<img class="size-full wp-image-5002" alt="Corrupt: Radwan Sabbagh" src="https://cfi.co/wp-content/uploads/2013/08/Radwan-Sabbagh.jpg" width="299" height="169" /> <strong>Corrupt: Radwan Sabbagh</strong>[/caption]
+<p style="text-align: justify;"><strong>Corruption is the scourge of development. From outright stealing and cooking the books to kickbacks and price-fixing; corruption permeates some societies, stifles their growth and denies untold millions a measure of prosperity.</strong></p>
+<p style="text-align: justify;">A case in point is Venezuela where billions of dollars have yet again gone missing. Leaked documents from an investigation by the military intelligence agency (DGIM) reveal gross misconduct at the state-owned mining company Ferrominera whose director Radwan Sabbagh, now under lock and key, siphoned off some 1.2 billion dollars. Some of his closest associates were also arrested.</p>
+<p style="text-align: justify;">The investigation into the misconduct at Ferrominera got off to a rocky start when the colonel sent to uncover the truth was found to have made tens of millions of dollars blackmailing the company’s management.</p>
+<p style="text-align: justify;">Venezuelan president Nicolás Maduro has vowed to tackle his country’s issues with corruption. He has a big job ahead of him. The corruption at Ferrominera is but the top of the proverbial iceberg. Things are even worse at foreign-exchange regular Cadivi.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">"Venezuelan president Nicolás Maduro has vowed to tackle his country’s issues with corruption."</h3>
+</blockquote>
+<p style="text-align: justify;">According to Central Bank Governor Edmée Betancourt fraudulent foreign trade transactions account for annual losses of between 15 and 20 billion dollars. This money is mostly lost through fake imports. Cadivi releases dollars at the official exchange rate of 6.3 bolívars to trading companies which then promptly sell those dollars on the back market for up to five times as much.</p>
+<p style="text-align: justify;">Venezuela ranks at the bottom of the annual Transparency Index that tracks corruption in 178 countries. In fact even notoriously shady places such as Zimbabwe and Haiti conduct their official business in a more honest and straightforward manner than Venezuela does.</p>
+<p style="text-align: justify;">Meanwhile suffer the poor. While the World Bank found that between 1998 and 2009 more than a quarter of Venezuela’s population was lifted out of poverty, results could have been even more impressive but for the constant drain of money from state coffers through dishonesty.</p>
+<p style="text-align: justify;">Poverty reduction schemes are now mostly under-funded and subject to monetary erosion with an inflation running at well over 39% annually. Political analysts fear that any increase, however modest, in poverty levels might unleash social unrest which in turn could undermine the government’s capabilities of forcing through the change that is needed to steer Venezuela away from the abyss it is now getting uncomfortably close to.</p>
