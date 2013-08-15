@@ -1,0 +1,18 @@
+---
+id: 5012
+title: "Alison Cooper Calls for Realistic and Intelligent Targets"
+award_year: 2013
+published: 2013-08-15 09:46:59
+published_gmt: 2013-08-15 08:46:59
+author: "CFI.co Editorial"
+url: "https://cfi.co/europe/2013/08/alison-cooper-calls-for-realistic-and-intelligent-targets/"
+categories: ["Europe"]
+content_sha256: f0eb318084d5d014ac0d8d001c12aedaf901e8073dc4fd959a4a4871a53a57d9
+canonical: 5012-alison-cooper-calls-for-realistic-and-intelligent-targets.json
+---
+
+# Alison Cooper Calls for Realistic and Intelligent Targets
+
+> Verbatim archived copy. Canonical machine record: `5012-alison-cooper-calls-for-realistic-and-intelligent-targets.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-full wp-image-5018" alt="Alison Cooper" src="https://cfi.co/wp-content/uploads/2013/08/Alison-Cooper.jpg" width="224" height="162" />Alison Cooper is the CEO of Imperial Tobacco and her track record since taking up this office in 2010 has clearly demonstrated her leadership skills.</strong> She is carefully manoeuvring the company through the challenges the tobacco industry faces while maximising profits and diversifying into an FMCG business. After graduating in Mathematics, Cooper worked for Deloitte Haskins &amp; Sells (now part of PwC), joining Imperial in 1999. We thought it fitting to include Cooper not only for her leadership skills but for her forthright views on the proposed quotas for female board member representation. Cooper said during a recent Bloomberg interview, “I am not someone who supports quotas because quotas are around the demand side of the equation and you need to look at the supply side. And quick fixes on the supply side are not necessarily quality fixes. I don’t like to think we’re a commodity.” We are inclined to agree with Cooper. If the achievements of Alison Cooper’s peers in our list of 10 female businesses are anything to go by, helping to facilitate women’s rise through the ranks to build up organisations can only add to the talent pool. The more talented individuals we have - be they men or women - that can fulfil their full business potential, the greater the opportunities for employment and sustainable growth. Maybe policy makers should be making greater efforts to achieve this; the economic benefits of ensuring that more talented women are able make the kind of contributions of Cooper and her peers here have achieved should not be underestimated. So let’s forget about quotas and look for realistic and intelligent targets.</p>
