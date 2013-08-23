@@ -1,0 +1,42 @@
+---
+id: 5079
+title: "Connecting a Country: Iraq Gears Up for a Telecoms Leap"
+award_year: 2013
+published: 2013-08-23 10:23:05
+published_gmt: 2013-08-23 09:23:05
+author: "CFI.co Editorial"
+url: "https://cfi.co/middleeast/2013/08/connecting-a-country-iraq-gears-up-for-a-telecoms-leap/"
+categories: ["Middle East", "Technology"]
+content_sha256: deab42f39ad97c6c44f2469e520d1b564f46cd03481e8c9c3eb9865c0137363b
+canonical: 5079-connecting-a-country-iraq-gears-up-for-a-telecoms-leap.json
+---
+
+# Connecting a Country: Iraq Gears Up for a Telecoms Leap
+
+> Verbatim archived copy. Canonical machine record: `5079-connecting-a-country-iraq-gears-up-for-a-telecoms-leap.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright  wp-image-5080" alt="telecoms" src="https://cfi.co/wp-content/uploads/2013/08/telecoms.jpg" width="133" height="88" />In Iraq the budding telecom sector is to spearhead the country’s drive to full economic recovery. The Baghdad government has adopted a series of policies to encourage the sector’s growth through innovation and the early adoption of new technologies. The aim is not just to provide better telecom services to the oil and gas industry, but also to create a more competitive environment for both the fixed line and broadband sectors where growth of late has been rather muted.</strong></p>
+<p style="text-align: justify;">In early October, stakeholders in the Iraqi telecom industry will gather in Istanbul, Turkey, for the 8<sup>th</sup> Annual Iraq Telecoms Conference. The event is supported by the Iraqi and Kurdistan Ministries of Communication and by the Iraq Communications Commission, the industry’s regulator.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">"But, once these issues are addressed there is no reason for the country not becoming a major local telecom player."</h3>
+</blockquote>
+<p style="text-align: justify;">One of the challenges facing the sector is its current inability to cash in on the rising demand for mobile data services. Though some 4G services were introduced over the summer, the wait is on for the auction of the more ubiquitous 3G licenses scheduled for the end of 2013. Over the first quarter, the mobile segment of the telecom market recorded a 12.5% year-on-year growth, up from 7.1% in 2012.</p>
+<p style="text-align: justify;">However, the country’s two top mobile providers – Zain Iraq and Asiacell – registered slightly lower average revenue per user (ARPU) and blame this on the saturation of their data networks which currently use older GSM (2G) technology. Kurdish mobile operator Mobitel, the only one with a functioning 3G network, still struggles with interconnection problems that often deny its users access to the wider telecom grid.</p>
+
+
+[caption id="attachment_5086" align="alignleft" width="160"]<img class=" wp-image-5086 " alt="Jose Salame" src="https://cfi.co/wp-content/uploads/2013/08/Jose-Salame.png" width="160" height="172" /> <strong>Jose Salame</strong>[/caption]
+<p style="text-align: justify;">The limited availability of broadband services offers an opportunity to satellite operators such as Telenor. The company is scheduled to launch its Thor 7 satellite next year. “At the Iraq Telecoms conference, we will be showcasing our newest Ka-band satellite which offers high bandwidth accessed through a small antenna and affordable hardware,” says Telenor sales manager Jose Salame.</p>
+<p style="text-align: justify;">Telenor expects its HTS (High Throughput Satellite) Thor 7 bird to be particularly well-suited for markets in the Middle East and North Africa: “Though our focus is on serving offshore oil and gas sites, Thor 7 also offers plenty of scope for land-based customers such as ISPs and government agencies that need speed and bandwidth.”</p>
+<p style="text-align: justify;">Mr Salame sees some challenges ahead as the Iraqi government attempts to transform the country into a data hub for the Middle East: “For this to happen, a reliable telecom infrastructure needs to be put in place. Also, all parts of Iraq need to enjoy a minimum level of security. But, once these issues are addressed there is no reason for the country not becoming a major local telecom player.”</p>
+<p style="text-align: justify;">Meanwhile Asiacell, part of Qatar Telecom Qtel, is riding high on the tail of its successful IPO at the Iraq Stock Exchange last February. Asiacell’s fully subscribed IPO raised some $1.2 billion for the company which made it the biggest initial share sale in the Middle East since Saudi Arabian Mining Company went public in 2008. With its war chest filled to the brim, the company is now exceedingly well-poised to claim a significant chunk of the 3G spectrum when the bidding starts later this year.</p>
+<p style="text-align: justify;">The Iraqi mobile market is a particularly promising one when 3G comes into play. At barely 6%, fixed line broadband penetration is the lowest in the region. With no significant improvement expected before 2017, mobile network operators have an excellent opportunity to cash in on the pent-up local demand for Internet access and services.</p>
+<p style="text-align: justify;">Telenor sees its Thor 7 satellite as part of the solution and hopes that the bird’s launch next year coincides perfectly with Iraq’s first 3G networks becoming operational. Mr Salame emphasizes that his company has been active in Iraq for the past eight years: “Iraq is a great country to invest with plenty of opportunities across a range of telecom sectors. Also, the government is not sparing any effort to attract and accommodate both local and foreign investors who may help it develop the telecom industry.”</p>
+<p style="text-align: justify;">The upcoming Iraq Telecoms Conference in Istanbul – unfolding between October 7 and 9 – is an essential element of the Baghdad government’s drive toward the modernization and further expansion of one of the most promising sectors of the Iraqi economy.</p>
+<em>For more information please contact:</em>
+<strong><em>Jerome Golding</em></strong>
+<em>Marketing Administrator</em>
+<em>CWC Group Ltd, Regent House, 16-18 Lombard Road, London, SW11 3RB, United Kingdom</em>
+<em>Tel: +44 20 7978 0020</em>
+<em>Email: <a href="mailto:jgolding@thecwcgroup.com" target="_blank">jgolding@thecwcgroup.com</a></em>
+<em>Website: <a href="http://www.Iraqtelecoms.com" target="_blank">www.Iraqtelecoms.com</a></em>
