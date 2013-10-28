@@ -1,0 +1,28 @@
+---
+id: 5619
+title: "Shazia Bashir: Reaching Out with Integrity - Banking on Society"
+award_year: 2013
+published: 2013-10-28 10:24:23
+published_gmt: 2013-10-28 10:24:23
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2013/10/shazia-bashir-reaching-out-with-integrity-banking-on-society/"
+categories: ["Asia Pacific", "Banking"]
+content_sha256: 9186d36007169951a483f59e697837692601f76e480735438c7383492da12c23
+canonical: 5619-shazia-bashir-reaching-out-with-integrity-banking-on-society.json
+---
+
+# Shazia Bashir: Reaching Out with Integrity - Banking on Society
+
+> Verbatim archived copy. Canonical machine record: `5619-shazia-bashir-reaching-out-with-integrity-banking-on-society.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-full wp-image-5620" alt="Shazia-Bashir" src="https://cfi.co/wp-content/uploads/2013/10/Shazia-Bashir.jpg" width="356" height="285" />Contrary to popular perception, it is never quite easy for children of successful entrepreneurs to make their own mark in the business they were born into. Few actually achieve this. Shazia Bashir is one of those select few. She belongs to a new generation of financiers that is now making its mark on investment banking in Pakistan. Shazia Bashir aims to bring higher levels of both compassion and integrity to her business.</strong></p>
+<p style="text-align: justify;">The Escorts Group of companies was founded by Mr Bashir Ahmed, a family member. Given her background, Ms Bashir’s academic success is perhaps unsurprising culminating as it did with an MBA from a US college. However, it may well be that the greatest gift of Shazia’s upbringing was the sense of integrity which was instilled from an early age.</p>
+<p style="text-align: justify;">Ms Bashir has been involved with the family business since 1996. She developed her leadership skills and business acumen to the point where she was able to take over management of the investment banking division of Escorts Group in 2010. At this time, the company was still recovering from the effects of the 2008 global financial crisis.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">"Under her leadership, the Escorts Group is working to open up investment opportunities to many Pakistanis who are generally considered to be un-bankable by more traditional financial institutions."</h3>
+</blockquote>
+<p style="text-align: justify;">Ms Bashir has skillfully re-balanced the bank while building a dynamic and empowered management team to plot a return to profitability through a strengthening of the fundamentals. All of this is what we should expect from effective leadership.</p>
+<p style="text-align: justify;">What sets Ms Bashir apart from many of her peers is the direction in which she has now steered her bank. Ms Bashir is identifying and developing a range of opportunities that would not generally be considered traditional territory for a relatively small investment bank.</p>
+<p style="text-align: justify;">Under her leadership, the Escorts Group is working to open up investment opportunities to many Pakistanis who are generally considered to be un-bankable by more traditional financial institutions. She is also finding ways to provide money transfer services at a fraction of current costs. There is no doubt that Ms Bashir is driven by the bottom line as much as the next banker is. However, she also has an eye for the society as a whole and seems genuinely willing and able to provide services that not only generate a healthy profit but also help fight societal ills.</p>
+<p style="text-align: justify;">It will be particularly interesting to see what Escorts Group will achieve over the coming years. Ms Bashir is disarmingly modest about the future prospects of her enterprising bank. That notwithstanding, it would appear that the no-nonsense approach to the bottom line and her well-developed sense of corporate responsibility make Escorts Investment Bank a company to watch. The bank will be reaching out to many Pakistanis in an attempt to assist them in their quest to join the swelling ranks of the country’s middle classes.</p>
