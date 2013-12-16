@@ -1,0 +1,34 @@
+---
+id: 6242
+title: "Sir David Frost: Well Done Frostie! Playing Nice in the Quest for the Truth"
+award_year: 2013
+published: 2013-12-16 16:13:53
+published_gmt: 2013-12-16 16:13:53
+author: "CFI.co Editorial"
+url: "https://cfi.co/europe/2013/12/sir-david-frost-well-done-frostie-playing-nice-in-the-quest-for-the-truth/"
+categories: ["Europe"]
+content_sha256: 34d451f0d2ea5c1653180ace2165a987fa289e05a19a1eddf09e413dfd5063f4
+canonical: 6242-sir-david-frost-well-done-frostie-playing-nice-in-the-quest-for-the-truth.json
+---
+
+# Sir David Frost: Well Done Frostie! Playing Nice in the Quest for the Truth
+
+> Verbatim archived copy. Canonical machine record: `6242-sir-david-frost-well-done-frostie-playing-nice-in-the-quest-for-the-truth.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright  wp-image-6243" alt="Sir David Frost" src="https://cfi.co/wp-content/uploads/2013/12/Sir-David-Frost.jpg" width="179" height="179" />Earlier this year, Sir David Frost suffered a heart attack while aboard the QE2 and passed away, aged 74. He had been hired as a speaker on the cruise ship and was, at the time of his death, busy planning several other projects including an interview with British premier David Cameron.</strong></p>
+<p style="text-align: justify;">That was the satirist that was. Well, perhaps not a satirist of a calibre comparable to Swift, Orwell or Voltaire and also not a satirist for very long. Sir David Frost was part of the satirical movement of early 1960s Britain, and went on to become one of the most successful and entertaining television personalities of the country. He also earned a strong reputation in the United States.</p>
+<p style="text-align: justify;">Sir David Frost, an English graduate, edited Cambridge student publications Varsity and The Granta and was secretary of Footlights – the university’s drama club. He had a knack for being in the right place at the right time. He was also a contemporary of many of the satire-boom heroes to arrive on the scene, including Peter Cook who was to become publisher of Private Eye.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“On the surface, the television interview is a simple format - two people sitting across from one another having a conversation. But underneath it is often a power struggle - a battle for the psychological advantage.”</h3>
+</blockquote>
+<p style="text-align: justify;">In 1962, TV producer Ned Sherrin hired Frost to head up the That Was the Week That Was team. This programme was to have a profound impact on young people as well as on the not-so-young. Audiences, perhaps for the first time, were seeing establishment figures ridiculed and held to account by some very sharp minds.</p>
+<p style="text-align: justify;">Around this time Peter Cook – described by Stephen Fry as “the funniest man who ever drew breath” – took issue with Frost over some material and promptly branded him “the bubonic plagiarist”.</p>
+<p style="text-align: justify;">Sir David was an ambitious man and took no pains hiding this fact. He also was a man of great charm and kindness.</p>
+<p style="text-align: justify;">In 1967, tough interviewing on The Frost Programme resulted in wide criticism. Some perceived the show as “trial by television”. The outcry was provoked by Frost’s merciless on-air handling of international swindler Emil Savundra who had caused untold misery to policy holders duped by his fraudulent insurance company.</p>
+<p style="text-align: justify;">In short order, David Frost made mincemeat of the hapless Mr Savundra with his persistently aggressive style of questioning that, at the time, was a novelty on British television. A perhaps slightly over-excited member of the audience called out “Well done, Frostie!” at the close of the show and so put almost everyone’s feelings into words.</p>
+<p style="text-align: justify;">By the late 1960s, Sir David Frost was working in the film industry and appearing three times a week on American television. His most enduring legacy may be the ground-breaking series of interviews with Richard Nixon. After some prodding and suffering the full assault of Sir David’s vast armoury of interviewing techniques, the former president succumbed and offered the American people an apology for the Watergate Affair.</p>
+<p style="text-align: justify;">Again, critics grumbled. This time, their ire was directed at Sir David’s use of “chequebook journalism”. Indeed, the disgraced former US president was handsomely rewarded for the interviews but there is no doubt that Sir David got his money’s worth and viewers a show of historical importance.</p>
+<p style="text-align: justify;">Always busy and on the lookout for an opportunity or challenge, Sir David Frost was part of a group of entrepreneurs that launched a UK breakfast television channel in the 1980s. He also hosted a Sunday interview programme for most of the next decade.</p>
+<p style="text-align: justify;">More recently (1997-2008), he amused himself by presenting Through the Keyhole – a programme in which a celebrity home is visited for clues to its owner’s personality. From 2006 up to last year, Sir David presented Frost over the World for the Al Jazeera news network.</p>
+<p style="text-align: justify;">Sir David Frost was considered unrivalled at prying the truth out of just about anyone. Speaking to the London Daily Telegraph upon hearing of Sir David’s death, British Liberal Democrat Member of Parliament Sir Menzies Campbell noted that, “His scrupulous and disarming politeness concealed a vice-like mind. Sir David could do you over without you realising it until it was too late. He was a peerless broadcaster.”</p>
