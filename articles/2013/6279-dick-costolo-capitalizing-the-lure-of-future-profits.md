@@ -1,0 +1,29 @@
+---
+id: 6279
+title: "Dick Costolo: Capitalizing the Lure of Future Profits"
+award_year: 2013
+published: 2013-12-19 17:34:42
+published_gmt: 2013-12-19 17:34:42
+author: "CFI.co Editorial"
+url: "https://cfi.co/editors-picks/2013/12/dick-costolo-capitalizing-the-lure-of-future-profits/"
+categories: []
+content_sha256: 6e909131027832c634a45546e0bf337e9ab285dd84b3e93797b9137411607d4f
+canonical: 6279-dick-costolo-capitalizing-the-lure-of-future-profits.json
+---
+
+# Dick Costolo: Capitalizing the Lure of Future Profits
+
+> Verbatim archived copy. Canonical machine record: `6279-dick-costolo-capitalizing-the-lure-of-future-profits.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-full wp-image-6280" alt="Dick Costolo" src="https://cfi.co/wp-content/uploads/2013/12/Dick-Costolo.jpg" width="231" height="158" />You have got to be doing something right if your losses surge to almost $65 million, while your corporation’s stock shoots up 73% on the first day of trading. Perhaps it’s all a joke, albeit a rather expensive one; after all, in a former life Twitter CEO Dick Costolo used to earn a living as a stand-up comedian.</strong></p>
+<p style="text-align: justify;">Mr Costolo’s avidly followed tweets attest to the presence of a funny bone or two. Upon joining the company as COO, in September 2009, he set his agenda in a tweet: “First Task: Undermine CEO, Consolidate Power.” He then went on to do just that. In 2010, Mr Costolo replaced his boss Evan Williams who had taken up paternity leave. Mr Williams’ temporary absence turned into a permanent one.</p>
+<p style="text-align: justify;">Notwithstanding some rather questionable fundamentals, of which an uncertain earning model is but one; Mr Costolo exceeded all expectations when he took Twitter public. The company’s IPO (Initial Public Offering) was a resounding success and raised $2.1bn in new capital. Twitter’s current market value stands north of $22bn.
+The Twitter debut on the New York Stock Exchange (NYSE) contrasts sharply with the botched IPO of its social media competitor Facebook whose stock took a nosedive after launch and has only recently recovered. Early on, Mr Costolo had decided to give the Twitter IPO as low a profile as possible. The roadshow preceding the stock’s launch was a distinctly muted affair. Also, the stock was conservatively priced at $26 and, in yet another attempt to create some distance from Facebook, was offered not on the tech-heavy NASDAQ exchange but on the much more staid NYSE.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">"Mr Costolo’s strategy paid off handsomely with Twitter cashing in over double the one billion dollars it expected to raise."</h3>
+</blockquote>
+<p style="text-align: justify;">Mr Costolo’s strategy paid off handsomely with Twitter cashing in over double the one billion dollars it expected to raise. Trading at around $42 in mid-November, market analysts are beginning to wonder out loud how long Twitter can keep up the hype and hoopla that followed its successful IPO. Though boasting well over 200 million users, who collectively send some half billion tweets around the globe each day, Twitter so far remains unprofitable.</p>
+<p style="text-align: justify;">The company does rather poorly in collecting user data when compared to social media giants as Facebook en LinkedIn. Earning models based on ‘promoted tweets’ and plain online ads have so far failed to produce a profit, or even the promise of one. The company has now set its sight on reaching the one billion users mark but failed to indicate how it would attain that goal.</p>
+<p style="text-align: justify;">Still, having almost a quarter billion users is nothing to sneer at. Twitter has a few things going for it that Facebook lacks: It is easily adaptable to the not-so-smart-phones prevalent in emerging markets; new users need navigate only a minimal amount of hurdles to join; and, the service doesn’t claim vast amounts of time from those who wish to propagate their thoughts. Twitter is nimble while Facebook is everything but.</p>
+<p style="text-align: justify;">Self-deprecating Twitter CEO Dick Costolo is uniquely equipped to make the most of these advantages and steer his company toward lasting profitability. At least the market seems to think so.</p>
