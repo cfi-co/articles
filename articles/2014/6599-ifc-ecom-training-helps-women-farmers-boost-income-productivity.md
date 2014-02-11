@@ -1,0 +1,30 @@
+---
+id: 6599
+title: "IFC, ECOM Training Helps Women Farmers Boost Income, Productivity"
+award_year: 2014
+published: 2014-02-11 11:26:51
+published_gmt: 2014-02-11 11:26:51
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2014/02/ifc-ecom-training-helps-women-farmers-boost-income-productivity/"
+categories: ["Asia Pacific", "Projects", "Sustainability"]
+content_sha256: 74a77ad7b4fe6d41f630dcffd9b202f90548f9656fee5c729d9de91482d35df3
+canonical: 6599-ifc-ecom-training-helps-women-farmers-boost-income-productivity.json
+---
+
+# IFC, ECOM Training Helps Women Farmers Boost Income, Productivity
+
+> Verbatim archived copy. Canonical machine record: `6599-ifc-ecom-training-helps-women-farmers-boost-income-productivity.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright  wp-image-6600" alt="IFCindviet" src="https://cfi.co/wp-content/uploads/2014/02/IFCindviet.jpg" width="172" height="168" />Women make up 80 percent of coffee farmers in North Sumatra of Indonesia and 50 percent in Lam Dong of Vietnam. The coffee beans that they grow can change their families’ lives. IFC’s partnership with global coffee trader ECOM Agroindustrial has been teaching these female entrepreneurs farming techniques that boost productivity and family incomes.</strong></p>
+<p style="text-align: justify;">IFC and ECOM have employed women trainers and sought out volunteers to engage leaders from unions and farmers’ associations. The training schedules accommodate the needs of students and IFC is also providing a simple financial management tool to help these women manage household income and farm expenditures.</p>
+<p style="text-align: justify;">“The training has not only taught me about good farming practices, but also about financial management,” said Mrs. Susanti, a coffee farmer in North Sumatra. She has been receiving training for the last three years. “Now, I can better manage my family and farming expenses. I have three grown children and they all go to college. It’s all because of coffee farming.”</p>
+
+<h3 style="text-align: justify;">Supporting Women in Agribusiness is Good for Business</h3>
+<p style="text-align: justify;">As a result of IFC and ECOM’s work, the percentage of Indonesian women who received agricultural training in North Sumatra jumped to 27 percent – about 1,600 women – from 4 percent in 2009. In Lam Dong, the percentage of Vietnamese women farmers more than doubled to 25 percent, or more than 2,300 women, from 12 percent in 2010.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“The training has not only taught me about good farming practices, but also about financial management.”</h3>
+</blockquote>
+<p style="text-align: justify;">“This initiative makes us realize that providing women with the right agricultural practices can help us improve crop yield and the quality of the beans,” said Amran Sinaga, head of the Agriculture Office of North Sumatra’s Simalungun district.</p>
+<p style="text-align: justify;">In Indonesia, an IFC survey found that the productivity of farmers training groups comprising both men and women rose 102 percent.</p>
+<p style="text-align: justify;">“Empowering women in key sectors such as agribusiness has been one of IFC’s strategic focus areas,” said Sérgio Pimenta, IFC Director for East Asia and the Pacific. “When women farmers have better access to technical training, they will adopt good agricultural practices, improve their productivity and manage their household incomes better.”</p>
