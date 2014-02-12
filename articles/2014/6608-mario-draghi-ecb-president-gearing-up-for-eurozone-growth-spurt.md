@@ -1,0 +1,22 @@
+---
+id: 6608
+title: "Mario Draghi: ECB President Gearing Up for Eurozone Growth Spurt"
+award_year: 2014
+published: 2014-02-12 11:49:46
+published_gmt: 2014-02-12 11:49:46
+author: "CFI.co Editorial"
+url: "https://cfi.co/banking/2014/02/mario-draghi-ecb-president-gearing-up-for-eurozone-growth-spurt/"
+categories: ["Banking"]
+content_sha256: feb28f1c97163f152471c9dddf3b47e43ba9775a925b62339277adda2f81f38d
+canonical: 6608-mario-draghi-ecb-president-gearing-up-for-eurozone-growth-spurt.json
+---
+
+# Mario Draghi: ECB President Gearing Up for Eurozone Growth Spurt
+
+> Verbatim archived copy. Canonical machine record: `6608-mario-draghi-ecb-president-gearing-up-for-eurozone-growth-spurt.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-full wp-image-6609" alt="Mario-Draghi" src="https://cfi.co/wp-content/uploads/2014/02/Mario-Draghi.jpg" width="206" height="187" />Italian banker Mario Draghi entertains no doubts at all: Pessimist, sceptics, naysayers and assorted worrywarts severely underestimate the resolve extant – political and otherwise – to forge the euro into a resounding success. Then again, the president of the European Central Bank (ECB) can ill afford any misgivings regarding the common currency he deftly manages. The euro is now shared by 17 countries whose combined GDP of about $14tn make the Eurozone the world’s largest currency area. Estonia was the latest country to adopt the euro (in 2011) while Latvia is set to become the 18th member of the Eurozone as of next year.</strong></p>
+<p style="text-align: justify;">Since taking over stewardship at the ECB, early November 2011, ‘Super Mario’ has dealt with the fallout from the 2008 financial meltdown which devastated the economies of the Eurozone’s weaker members. Upon assuming the ECB presidency, Mr Draghi had to first swiftly undo the two rather unfortunate interest rate hikes his predecessor had pushed through. He then proceeded to inject $640bn into the Eurozone economies in an attempt to take the edge of the downturn. This was followed by a second, and even larger, Long-Term Refinancing Operation (LTRO) which disbursed well over $700bn through more than 800 banks.</p>
+<p style="text-align: justify;">Though Italian and equipped with a PhD in Economics from the Massachusetts Institute of Technology, Mario Draghi was widely considered “the most German of candidates” in the weeks of hectic political wrangling leading up to his nomination for the ECB top-job. Though his stint at US investment bank Goldman Sachs at one point threatened to derail his candidacy, the almost unanimous praise Mr Draghi received in his role as Governor of the Bank of Italy ultimately carried the day. It also helped that both the French and German governments supported his appointment.</p>
+<p style="text-align: justify;">Despite frequent criticism hurled at the lacklustre economic performance of the Eurozone economies, Mr Draghi remains convinced that the euro’s fundamentals are rock solid as opposed to those of the world’s other leading currency – something never spoken out loud and only hinted at in the most veiled of terms. The ECB president regularly points to the current account surplus of $248bn (1.9% of Eurozone GDP) enjoyed by the euro area as proof of the currency’s soundness.</p>
+<p style="text-align: justify;">In order to foster economic growth Draghi’s ECB has kept interest rates low even though the shearing another 25 basis points of its benchmark interest rate which now stands at a record low of 0.25%. Super Mario seems to be gearing up for a growth spurt.</p>
