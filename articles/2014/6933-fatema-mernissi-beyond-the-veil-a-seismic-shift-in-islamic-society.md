@@ -1,0 +1,29 @@
+---
+id: 6933
+title: "Fatema Mernissi: Beyond the Veil - A Seismic Shift in Islamic Society"
+award_year: 2014
+published: 2014-04-08 13:39:45
+published_gmt: 2014-04-08 12:39:45
+author: "CFI.co Editorial"
+url: "https://cfi.co/middleeast/2014/04/fatema-mernissi-beyond-the-veil-a-seismic-shift-in-islamic-society/"
+categories: ["Middle East"]
+content_sha256: f1ca43f76106630e801eb4695238ac16132ec09122ee9827df1d8afb651d48c5
+canonical: 6933-fatema-mernissi-beyond-the-veil-a-seismic-shift-in-islamic-society.json
+---
+
+# Fatema Mernissi: Beyond the Veil - A Seismic Shift in Islamic Society
+
+> Verbatim archived copy. Canonical machine record: `6933-fatema-mernissi-beyond-the-veil-a-seismic-shift-in-islamic-society.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright  wp-image-6934" alt="fm" src="https://cfi.co/wp-content/uploads/2014/04/fm.jpg" width="197" height="194" />An Islamic feminist may seem a contradiction in terms, but Fatema Mernissi is anything but. This Moroccan author and sociologist has made it her life’s work to question the alleged sayings of Muhammad that for some still justify the subordination of women in the Muslim world. It is the discrepancy between these hadiths – sayings attributed to the prophet – and the texts of the Qur’an that fascinate Mrs Mernissi most.</strong></p>
+<p style="text-align: justify;">In fact, nothing in the Qur’an would seem to indicate that women should be confined to a subservient role in society. From this parting point, Mrs Mernissi attempts to reconcile traditional Islamic faith with progressive feminism. In fact, she argues that faith and female empowerment are not at all incompatible.</p>
+<p style="text-align: justify;">In her historical research on the role of women in Islamic societies, Mrs Mernissi found that in early Muslim culture women enjoyed equality with their male counterparts in areas such as property rights and spiritual exercise. In The Veil and the Male Elite: A Feminist Interpretation of Islam (1988), Mrs Mernissi profiles the religion’s influential women who today mostly reside in near-oblivion. In Forgotten Queens of Islam (1990), she portrays the life of no less than 15 female Islamic rulers who preceded Benazir Bhutto as heads of government.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“Arab audiences are almost universally enthralled by strong, eloquent women showing off their professional prowess on television.”</h3>
+</blockquote>
+<p style="text-align: justify;">According to Mrs Mernissi, the distorted gender dynamics prevalent in most of today’s Islamic societies are caused by a refusal to adapt traditional Muslim structures to modern times. However, she sees much reason for optimism as women across the Muslim world slowly reassert their role, using technology to do so. Women are dominant on the 200 or so satellite television channels that have sprung up in Islamic countries and beam views to global audiences. The Internet has opened windows on the wider world as well, facilitating the free exchange of ideas, experiences and initiatives.</p>
+<p style="text-align: justify;">Mrs Mernissi regrets the emphasis Western societies place on the veil and other traditional garments often considered to be depriving women of their freedom. This fixation, she argues, stops Western societies from fully appreciating the revolution taking place in the Islamic world. Mrs Mernissi sees a “mind-blowing civilizational shift” unfolding that brings the sexes closer together in a meaningful dialogue.</p>
+<p style="text-align: justify;">A case in point is personified by Mai Al-Khalifa, an anchor lady at the Al Jazeera television network who commands near universal respect. Whenever Mrs Al-Khalifa comes on the screen, people gathered at cafes, eateries and shops grow quiet to listen attentively to what she has to say. “Coming from a society in which belly dancers were the only women to be seen on screen, this is a monumental change,” says Mrs Mernissi, emphasising that Mrs Al-Khalifa is by no means an exception: “Arab audiences are almost universally enthralled by strong, eloquent women showing off their professional prowess on television.”</p>
+<p style="text-align: justify;">Mrs Mernissi boldly takes this reasoning to a level beyond. She argues that the increasing space women have carved out for themselves in Islamic society actually encourages men to engage in a struggle for liberation against oppressive, authoritarian censorship. As such, power becomes disconnected from sex and a new world – full of possibilities – opens up.</p>
+<p style="text-align: justify;">The much-maligned veil is today but an outward expression of a faith in search of a new course: It is largely unimportant. Mrs Mernissi now draws attention to more relevant developments in Islamic society that are mostly hidden from view because of our collective obsession with an outmoded garment.</p>
