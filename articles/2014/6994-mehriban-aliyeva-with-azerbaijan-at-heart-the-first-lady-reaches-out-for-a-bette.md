@@ -1,0 +1,27 @@
+---
+id: 6994
+title: "Mehriban Aliyeva - With Azerbaijan at Heart: the First Lady Reaches Out For a Better World"
+award_year: 2014
+published: 2014-04-16 12:02:16
+published_gmt: 2014-04-16 11:02:16
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2014/04/mehriban-aliyeva-with-azerbaijan-at-heart-the-first-lady-reaches-out-for-a-better-world/"
+categories: ["Asia Pacific"]
+content_sha256: cd8ccf72a7efb0f02ab7213511a588f85b2a14804e68ba1f8c9f744de8b64602
+canonical: 6994-mehriban-aliyeva-with-azerbaijan-at-heart-the-first-lady-reaches-out-for-a-bette.json
+---
+
+# Mehriban Aliyeva - With Azerbaijan at Heart: the First Lady Reaches Out For a Better World
+
+> Verbatim archived copy. Canonical machine record: `6994-mehriban-aliyeva-with-azerbaijan-at-heart-the-first-lady-reaches-out-for-a-bette.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright  wp-image-6995" alt="Mehriban Aliyeva CFI" src="https://cfi.co/wp-content/uploads/2014/04/Mehriban-Aliyeva-CFI.jpg" width="149" height="132" />When Azerbaijan first lady Mehriban Aliyeva travels internationally, minds, people and hearts come together – East and West meet – and good deeds spring out.</strong></p>
+<p style="text-align: justify;">Mehriban Aliyeva symbolises tireless outreach to women and children. She aims to change the world for the better as she travels her country and further afield as a UNESCO goodwill ambassador and president of the Heydar Aliyev Foundation that is engaged in countless projects aimed at furthering education and healthcare and promoting and protecting the country’s cultural heritage.</p>
+<p style="text-align: justify;">According to Mrs Aliyeva, the well-endowed foundation pursues “broad and multi-sided” goals that also include environmental care. In Baku, the foundation seeks to bring nature and culture together with a new museum of modern art at the centre of a sprawling development that also includes white sandy beaches, a walkway over the Caspian Sea and a skyscraper designed by US architect Frank Gehry who masterminded such iconic buildings as the Bilbao Guggenheim and the Cinémathèque Française in Paris.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“She has placed Azerbaijan as a beacon of dialogue between civilizations and a focus for religious tolerance.”</h3>
+</blockquote>
+<p style="text-align: justify;">Recently, the Heydar Aliyev Foundation unveiled ambitious plans for the funding of social projects aimed at disadvantaged children in Hungary, Romania and other countries of Eastern Europe. In France, the Azerbaijani first lady was awarded the Légion d’Honneur in 2010 by then president Nicolas Sarkozy in recognition of her “outstanding service and loyalty”. Mrs Aliyeva was instrumental in arranging her foundation’s support for renovation projects at the Louvre, Versailles Palace and Strasbourg Cathedral.</p>
+<p style="text-align: justify;">Mrs Aliyeva is particularly active in support of educational programmes. In Azerbaijan, her foundation now builds and maintains more schools than the government. The foundation has also financed the construction of new hospitals, clinics and retirement homes.</p>
+<p style="text-align: justify;">Mrs Aliyeva works tirelessly at promoting social inclusion and interfaith dialogue. By focusing on core Azerbaijani values and encouraging the preservation of the country’s rich and colourful heritage, Mrs Aliyeva seeks to strengthen her nation as a regional power for good. Stunning and glamorous yet humble and media-shy, she prefers to let her good deeds do the talking.</p>
