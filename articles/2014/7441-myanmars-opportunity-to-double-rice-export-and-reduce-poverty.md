@@ -1,0 +1,33 @@
+---
+id: 7441
+title: "Myanmar’s Opportunity to Double Rice Export and Reduce Poverty"
+award_year: 2014
+published: 2014-06-13 09:00:09
+published_gmt: 2014-06-13 08:00:09
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2014/06/myanmars-opportunity-to-double-rice-export-and-reduce-poverty/"
+categories: ["Asia Pacific", "Projects", "Sustainability"]
+content_sha256: 302aec83c374ffefb85f3ce5dc2469e6fb3d0bfb76a8cdd38d393edd1070dd57
+canonical: 7441-myanmars-opportunity-to-double-rice-export-and-reduce-poverty.json
+---
+
+# Myanmar’s Opportunity to Double Rice Export and Reduce Poverty
+
+> Verbatim archived copy. Canonical machine record: `7441-myanmars-opportunity-to-double-rice-export-and-reduce-poverty.json`.
+
+<p style="text-align: justify;"><strong>New Report Advises Myanmar to Rethink its Rice Export Strategy to Expand Rice Production and Help Farmers Improve their Livelihoods.</strong></p>
+<p style="text-align: justify;"><img class="alignright size-full wp-image-7442" src="https://cfi.co/wp-content/uploads/2014/06/rice.jpg" alt="rice" width="230" height="201" />Myanmar has the potential to more than double its rice exports by diversifying and increasing rice production, opening its rice milling sector to direct foreign investments, and reducing export procedure costs, and thereby helping many rural poor to escape poverty, according to a new report, <span style="text-decoration: underline;"><a style="color: #850000;" href="http://www.worldbank.org/en/country/myanmar/publication/myanmar-capitalizing-on-rice-export-opportunities">Myanmar: Capitalizing on Rice Export Opportunities</a></span>, produced by the World Bank and the Livelihoods and Food Security Trust Fund (LIFT) of Myanmar.</p>
+<p style="text-align: justify;">Improving agricultural productivity and promoting rice exports are top priorities for the Government of Myanmar. Despite its plan to export four million tons of rice by 2020, the actual annual rice export has reached only 1.3 million tons over the past years.</p>
+<p style="text-align: justify;">The current rice export strategy favors the production of low quality rice, which is largely sold to Africa and China. Consequently, farmers have earned minimal profits and agribusinesses have skipped necessary investments. The situation is worsening as the global demand for low quality broken rice is shrinking.</p>
+<p style="text-align: justify;">“This is now a government call to capitalize on rice export opportunities and secure sufficient incomes to smallholder farmers,” said Kanthan Shankar, the World Bank’s Country Manager for Myanmar. “Rice production is a source of livelihoods for about 70% of the population. Higher and more profitable rice export improves farm incomes and food security of the rural poor. Increasing rice exports will spur momentum for inclusive growth and poverty reduction in Myanmar for the next decade.”</p>
+
+<blockquote>
+<h3 style="text-align: justify;">"Improving infrastructure and reducing export procedure costs would also boost Myanmar’s export competitiveness."</h3>
+</blockquote>
+<p style="text-align: justify;">There are good market prospects to accommodate more diversified rice exports from Myanmar over the next 10-15 years, particularly in the European Union and Asian countries, earn higher incomes, and diversify risks along different markets. The obstacles in hitting these marks are low productivity and poor rice quality at the farm level, undercapitalized and inefficient rice mills, and costly export infrastructure and procedures.</p>
+<p style="text-align: justify;">Opening the rice mills to direct foreign investments is, according to the report, a vital step to take to increase quality and volumes of rice export.</p>
+<p style="text-align: justify;">Improving infrastructure and reducing export procedure costs would also boost Myanmar’s export competitiveness.</p>
+<p style="text-align: justify;">More efficient mills and lower exporting/trading costs would trigger changes at farm level, helping to raise agricultural productivity and change farm practices, including the choice of rice varieties, required to match the evolving demands of importers</p>
+<p style="text-align: justify;">Conducive agricultural policy is also important to modernize Myanmar rice value chain.</p>
+<p style="text-align: justify;">“A policy environment conducive to supporting this refocus of the rice export sector is essential if anything is to change,” said Andrew Kirkwood, LIFT’s Fund Director. “Much of the policy change can be introduced without cost to public finances. In short, consistent economic policies without anti-export bias, alongside the current Government effort to improve farmer access to finance, will offer high rates of return for Myanmar rice exports, for its farmers and for the rural poor”.</p>
+<p style="text-align: justify;"><em>Copyright © World Bank</em></p>
