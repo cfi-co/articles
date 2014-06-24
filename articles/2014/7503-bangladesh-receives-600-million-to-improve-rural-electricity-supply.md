@@ -1,0 +1,31 @@
+---
+id: 7503
+title: "Bangladesh Receives $600 Million to Improve Rural Electricity Supply"
+award_year: 2014
+published: 2014-06-24 09:41:02
+published_gmt: 2014-06-24 08:41:02
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2014/06/bangladesh-receives-600-million-to-improve-rural-electricity-supply/"
+categories: ["Asia Pacific", "Projects", "Sustainability"]
+content_sha256: 994b89643880fd518c3330ad8e0ff2fc5ec809775af8ba7e278d26475190137f
+canonical: 7503-bangladesh-receives-600-million-to-improve-rural-electricity-supply.json
+---
+
+# Bangladesh Receives $600 Million to Improve Rural Electricity Supply
+
+> Verbatim archived copy. Canonical machine record: `7503-bangladesh-receives-600-million-to-improve-rural-electricity-supply.json`.
+
+[caption id="attachment_7505" align="alignright" width="166"]<img class=" wp-image-7505" src="https://cfi.co/wp-content/uploads/2014/06/d.jpg" alt="Dhaka" width="166" height="146" /> <strong>Dhaka</strong>[/caption]
+<p style="text-align: justify;"><strong>The Government of Bangladesh today signed a $600 million credit to improve the quality of electricity supply for 25 million people in the rural areas of the eastern part of Bangladesh.</strong></p>
+<p style="text-align: justify;">The credit for the <a style="color: #850000;" href="http://www.worldbank.org/projects//bangladesh-rural-electricity-transmission-distribution-project?lang=en" target="_blank" rel="noopener">Rural Electricity Transmission and Distribution Project (T&amp;D)</a> is from the International Development Association (IDA), the World Bank Group’s soft loan arm. The project will support construction of new lines and new substations, while upgrading existing lines in the rural areas of Dhaka, Chittagong and Sylhet divisions, to reduce system losses and enhance the capacity of the rural electricity network in Bangladesh.</p>
+<p style="text-align: justify;">“Only 42% of the rural population currently has access to electricity in Bangladesh, leaving about 13 million rural households without electricity,” said Christine E. Kimes, Acting Head, World Bank Bangladesh. “Access to energy promotes economic growth and prosperity and has a positive impact on income, expenditure and education. By improving efficiency of the system so that more electricity can reach rural areas, the project will contribute towards increasing economic activity and reducing poverty in the rural areas of Bangladesh.”</p>
+<p style="text-align: justify;">The project will reduce technical losses in the rural grid electricity system and will make available more energy to consumers, thus improving the quality of supply for 25 million people in rural Bangladesh. It will contribute to increasing the capacity of the transmission and rural distribution system to supply and distribute additional power to rural consumers as additional generation becomes available.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“Only 42% of the rural population currently has access to electricity in Bangladesh, leaving about 13 million rural households without electricity.”</h3>
+<p style="text-align: right;"><strong>- Christine E. Kimes, Acting Head, World Bank Bangladesh</strong></p>
+</blockquote>
+<p style="text-align: justify;">“The Government of Bangladesh has a vision of providing universal access to electricity and we welcome this project that will strengthen the rural network and improve the efficiency of the power system,” said Mohammad Mejbahuddin, Secretary, Economic Relations Division, Government of Bangladesh. “By helping more rural people access electricity, the project will contribute to increased income and growth opportunities for millions in the rural areas yet to get access to electricity.”</p>
+<p style="text-align: justify;">The rural electrification program of Bangladesh is recognized globally as one of the most successful programs in the world.  However, over the years the transmission and distribution network has become overstretched.  This project will provide support for upgrading the network as well as strengthening the institutional capacity of the rural electricity service delivery. The project will be implemented by the Bangladesh Rural Electrification Board (BREB) and the Power Grid Company of Bangladesh (PGCB).</p>
+<p style="text-align: justify;">Mejbahuddin and Kimes signed on behalf of the Government of Bangladesh and the World Bank respectively at the Economic Relations Division premises.</p>
+<p style="text-align: justify;">The IDA credit has 40 years to maturity, including a 10-year grace period; and carries a service charge of 0.75 percent.</p>
