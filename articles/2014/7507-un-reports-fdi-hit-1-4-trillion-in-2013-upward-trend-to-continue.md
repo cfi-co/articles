@@ -1,0 +1,30 @@
+---
+id: 7507
+title: "UN Reports FDI Hit $1.4 Trillion in 2013, Upward Trend to Continue"
+award_year: 2014
+published: 2014-06-25 10:40:21
+published_gmt: 2014-06-25 09:40:21
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2014/06/un-reports-fdi-hit-1-4-trillion-in-2013-upward-trend-to-continue/"
+categories: ["Africa", "Asia Pacific", "Finance", "Latin America", "Middle East", "North America", "Sustainability"]
+content_sha256: 6965396e84f7ed1c6a5200fc107f862ed41b08b25dde8e2460932f1b69224b70
+canonical: 7507-un-reports-fdi-hit-1-4-trillion-in-2013-upward-trend-to-continue.json
+---
+
+# UN Reports FDI Hit $1.4 Trillion in 2013, Upward Trend to Continue
+
+> Verbatim archived copy. Canonical machine record: `7507-un-reports-fdi-hit-1-4-trillion-in-2013-upward-trend-to-continue.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright  wp-image-7508" src="https://cfi.co/wp-content/uploads/2014/06/bkm.jpg" alt="bkm" width="144" height="118" />Global foreign direct investment is up and expected to rise over the next three years, driven mainly by stronger economies in developed countries, according to a new United Nations report which highlights the key role that transnational corporations and foreign investment could play in accelerating progress on sustainable development.</strong></p>
+<p style="text-align: justify;">According to the ‘<a style="color: #005689;" href="http://unctad.org/en/PublicationsLibrary/wir2014_en.pdf" target="_blank" rel="noopener">World Investment Report 2014</a>,’ produced by the Geneva-based UN Conference on Trade and Development (<a style="color: #005689;" href="http://www.unctad.org/Templates/Startpage.asp?intItemID=2068&amp;lang=1">UNCTAD</a>), foreign direct investment (FDI) rose 9 per cent in 2013 to $1.45 trillion.</p>
+<p style="text-align: justify;">“UNCTAD projects that FDI flows could rise to $1.6 trillion in 2014, $1.7 trillion in 2015 and $1.8 trillion in 2016,” the UN agency reported.</p>
+<p style="text-align: justify;">The predicted rise in FDI would be mainly driven by investments in developed economies as their economic recovery strengthens, but fragility in some emerging markets and risks related to policy uncertainty and regional conflict could derail the gains, said UNCTAD.</p>
+<p style="text-align: justify;">In addition, direct investment to developing economies is expected to remain high. Developing countries and transition economies constitute half of the top 20 economies ranked by FDI inflows, which includes China, Chile, Colombia and India.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“UNCTAD projects that FDI flows could rise to $1.6 trillion in 2014, $1.7 trillion in 2015 and $1.8 trillion in 2016.”</h3>
+</blockquote>
+<p style="text-align: justify;">Of the total FDI, about 39 per cent was to developed countries, while a new high of $778 billion – or 54 per cent – was reported to developing economies. The top destination remains China and the Asian region, which attracted more than $420 billion in foreign investment last year.</p>
+<p style="text-align: justify;">This overall growth demonstrates the “great potential of international investment, along with other financial resources, to help reach the goals of a post-2015 agenda,” <a style="color: #005689;" href="http://www.un.org/sg/" target="_blank" rel="noopener">Secretary-General</a> Ban Ki-moon said in the preface of the report, referring to the development targets that will follow after 2015, the deadline to reach the anti-poverty targets known as the Millennium Development Goals (<a style="color: #005689;" href="http://www.un.org/millenniumgoals/">MDGs</a>).</p>
+<p style="text-align: justify;">Highlighting the importance of transnational corporations, Mr. Ban added that this year’s report offers an action plan for galvanizing the role of businesses in achieving the future sustainable development goals, as well as enhancing the private sector’s positive economic, social and environmental impacts.</p>
+<p style="text-align: justify;">These aims will have significant resource implications. Global investment needs are around $5 trillion to $7 trillion per year, according to UNCTAD, the majority of which is in developing countries and includes mainly basic infrastructure, such as roads, water and sanitation, as well as agriculture and rural development, climate change mitigation and adaptation, health and education.</p>
