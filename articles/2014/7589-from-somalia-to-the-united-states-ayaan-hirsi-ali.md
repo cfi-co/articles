@@ -1,0 +1,23 @@
+---
+id: 7589
+title: "From Somalia to the United States - Ayaan Hirsi Ali"
+award_year: 2014
+published: 2014-07-09 11:25:31
+published_gmt: 2014-07-09 10:25:31
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2014/07/from-somalia-to-the-united-states-ayaan-hirsi-ali/"
+categories: ["Africa", "Europe", "North America"]
+content_sha256: 584604dac3c13cfb3d46de55648dd5d25653b8602e768a2359e240ee68f920b6
+canonical: 7589-from-somalia-to-the-united-states-ayaan-hirsi-ali.json
+---
+
+# From Somalia to the United States - Ayaan Hirsi Ali
+
+> Verbatim archived copy. Canonical machine record: `7589-from-somalia-to-the-united-states-ayaan-hirsi-ali.json`.
+
+<h3 style="text-align: justify;">The Big Questions of Our Time</h3>
+<p style="text-align: justify;"><img class="alignright  wp-image-7590" src="https://cfi.co/wp-content/uploads/2014/07/aha.jpg" alt="aha" width="146" height="192" />Barely twenty years ago, Ayaan Hirsi Ali aged 23 at the time, arrived in The Netherlands to apply for political asylum and eager to make her mark on a society she considered both “surprisingly compassionate and efficient.” Coming from war-torn Somalia, the events leading up to her arrival in The Netherlands remain murky. Ms Hirsi Ali spent some time in the refugee camps on the Somali-Kenyan border tracing lost family members before arriving in Germany and crossing over into The Netherlands.</p>
+<p style="text-align: justify;">She was granted asylum in a remarkably short time. After holding down a few odd jobs while getting to grips with the Dutch language and attending evening classes, she enrolled in Leiden University political science. She obtained her master’s degree in 2000. While at university, Ms Hirsi Ali got involved with politics, becoming first a fellow at the Wiardi Beckman Foundation – the think tank of the centre-left Labour Party – and later joining the centre-right People’s Party for Freedom and Democracy (VVD). In 2003, Ms Hirsi Ali was awarded a prominent place on the VVD electoral roll and promptly landed in parliament where she went on to gain notoriety as a fierce opponent of religious bigotry.</p>
+<p style="text-align: justify;">During her studies, Ms Hirsi Ali had renounced Islam to become an atheist. She primarily objected to the perceived inequality of the sexes in Islam. However, her high profile and status as the darling of both the right and the left also brought renewed interest in her past. Holes started to appear in her life’s story as told to Dutch immigration officials. She had provided them with false information on her real name, her age and her travels before arrival in The Netherlands.</p>
+<p style="text-align: justify;">The ensuing controversy ended with a full-blown parliamentary debate. Considering her extraordinary contributions to public debate, all major political parties supported a motion asking Minister for Integration Rita Verdonk to consider the “special circumstances” in Ms Hirsi Ali’s case and waive any sanctions. The minister reluctantly granted the request.</p>
+<p style="text-align: justify;">Ms Hirsi Ali’s brief but impressive political career in The Netherlands was destroyed by the affair. In 2006 she moved to the United States and a position at the American Enterprise Institute for Public Policy Research in Washington DC. She has authored four books on her own life and journey, and on gender issues. She is the founder of the AHA Foundation, an American non-profit organisation dedicated to the defence of women’s rights.</p>
