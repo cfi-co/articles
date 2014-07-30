@@ -1,0 +1,30 @@
+---
+id: 7723
+title: "Magatte Wade: An African Serial Entrepreneur with a Heart"
+award_year: 2014
+published: 2014-07-30 11:18:29
+published_gmt: 2014-07-30 10:18:29
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2014/07/magatte-wade-an-african-serial-entrepreneur-with-a-heart/"
+categories: ["Africa", "North America"]
+content_sha256: c31d476246c258e4d38a1efecffab098a5e463c506e1df299e31e9a2edc370b5
+canonical: 7723-magatte-wade-an-african-serial-entrepreneur-with-a-heart.json
+---
+
+# Magatte Wade: An African Serial Entrepreneur with a Heart
+
+> Verbatim archived copy. Canonical machine record: `7723-magatte-wade-an-african-serial-entrepreneur-with-a-heart.json`.
+
+<p style="text-align: justify;"><strong> <img class="alignright  wp-image-7724" src="https://cfi.co/wp-content/uploads/2014/07/mw.jpg" alt="mw" width="164" height="193" />She’s none too serious, loves joking around and utterly fails to get the point of forced sex. Meet Magatte Wade, a young outspoken entrepreneur from Senegal and one of the up-and-coming power women from an awakening continent. The Davos World Economic Forum named her a Young Global Leader. She is a regularly invited speaker at Harvard, Yale, Cornell, Brown and Columbia where she fills auditoria to capacity with students and faculty eager to hear het take on the African Renaissance.</strong></p>
+<p style="text-align: justify;">Mrs Wade is a serial entrepreneur with something of a Midas touch. Her first business venture, Adina World Beat Beverages, introduced a soft drink based on traditional Senegalese recipes to the US market and raised $30m of venture capital almost effortlessly. The drink latched on to the budding whole foods, slow food and organic food movements and immediately captured a significant market share of a growing demographic.</p>
+<p style="text-align: justify;">However, unhappy with the steady dilution and downplaying of the company’s African roots, Mrs Wade left the company in 2009 to focus on a new venture: Tiossan, a company manufacturing and marketing luxury skin-care products again based on indigenous Senegalese recipes. Tiossan offers a consumer experience based on what Mrs Wade calls contemporary African styling. She steers clear of “pity marketing” or stereotypical safari branding.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“Mrs Wade is a serial entrepreneur with something of a Midas touch.”</h3>
+</blockquote>
+<p style="text-align: justify;">She is now also very careful in selecting outside investors who must agree to follow Mrs Wade’s lead on ensuring that Tiossan remains first and foremost a company rooted in both African culture and values. Half of any profits made is destined to be invested in Africa where Mrs Wade is building innovative schools that aim to unleash the creative powers of a new generation. It is also her declared intention to relocate the manufacturing of all Tiossan products to Senegal as soon as the company has gained enough traction worldwide.</p>
+<p style="text-align: justify;">Mrs Wade is not at all reluctant to use her star-like status in the US to lash out at the government of Senegal and the restrictive policies it pursues that shackle local business and condemn the country to poverty. “The Senegalese are a very entrepreneurial people. However, they are actively discouraged from deploying their business acumen by senseless policies. Senegal is one of the most difficult countries anywhere to start a company.</p>
+<p style="text-align: justify;">The country’s labour laws make it almost impossible to fire someone. If I can’t fire anyone, I can’t hire anyone.”</p>
+<p style="text-align: justify;">This is not to say that Mrs Wade is the African Donald Trump who seems to derive pleasure from sending employees home in tatters. To the contrary, Mrs Wade argues that US business has a lot to learn from the more human touch African entrepreneurs often display when it comes to human resources. “The geek culture of Silicon Valley may be admirable across many dimensions but at times does seem out of touch with human needs and human dignity.”</p>
+<p style="text-align: justify;">Mrs Wade believes that technology does not offer an answer to all questions: “While most useful, it often overlooks the importance of the human connection and mutual respect.”</p>
+<p style="text-align: justify;">As Tiossan takes flight, Mrs Wade aims to prove that a company can attain success, growth and solid profits while run on a more compassionate footing. That should be a most welcome contribution to business economics.</p>
