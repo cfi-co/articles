@@ -1,0 +1,52 @@
+---
+id: 7772
+title: "World Bank Policies Include Screening for Climate Risks"
+award_year: 2014
+published: 2014-08-07 11:45:57
+published_gmt: 2014-08-07 10:45:57
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2014/08/world-bank-policies-include-screening-for-climate-risks/"
+categories: ["Africa", "Asia Pacific", "Europe", "Sustainability", "Technology"]
+content_sha256: c0f8222c46957c6e6d80842b5cd7f255fb71c081e80d1ce7287a9971fc505cd1
+canonical: 7772-world-bank-policies-include-screening-for-climate-risks.json
+---
+
+# World Bank Policies Include Screening for Climate Risks
+
+> Verbatim archived copy. Canonical machine record: `7772-world-bank-policies-include-screening-for-climate-risks.json`.
+
+<ul>
+	<li><strong>The World Bank Group has made a priority of helping countries adapt to and mitigate the risks of climate change, and it is increasingly viewing its lending through a climate lens.</strong></li>
+	<li><strong>Over the past few years, it has started implementing climate and disaster risk screening requirements for projects and country partnership frameworks, along with tools to help carry out the assessments.</strong></li>
+	<li><strong>It is also expanding its accounting for greenhouse gas emissions within its portfolio and projects.</strong></li>
+</ul>
+[caption id="attachment_7773" align="alignright" width="241"]<img class=" wp-image-7773" src="https://cfi.co/wp-content/uploads/2014/08/wb3.jpg" alt="Curt Carnemark/World Bank" width="241" height="177" /> <em>Curt Carnemark/World Bank</em>[/caption]
+<p style="text-align: justify;"><strong>Over the past year, nearly a quarter of the World Bank Group’s lending supported projects that also helped countries address the drivers of climate change and adapt to climate risks. Solar power in countries including Chile and China, energy efficiency in regions like the Balkan states, and climate-smart agriculture in countries including Kenya and Malawi are just a few of the examples.</strong><i></i></p>
+<p style="text-align: justify;">As scientific understanding of the threats posed by climate change has grown, the World Bank Group has made a higher priority of helping countries adapt to and mitigate the risks of climate change, and it is increasingly viewing its lending through a climate lens.<b></b></p>
+<p style="text-align: justify;">That work starts with a foundation of risk screening, greenhouse gas accounting, and analysis.</p>
+
+<h3 style="text-align: justify;"><b>Risk Screening</b></h3>
+<p style="text-align: justify;">The World Bank screens operations and country strategies for climate change and disaster risks under several existing requirements.</p>
+<p style="text-align: justify;">Starting this fiscal year, new country partnership frameworks, which are used by World Bank management and the Board for guiding the World Bank Group’s country programs and gauging their effectiveness, are also expected to address climate change and disaster risks as appropriate for each country. That includes assessing how policies, programs, and projects could be affected by short- and long-term climate change and disaster risks; accounting for the impact of projects on the global climate through greenhouse gas emissions and short-lived climate pollutants; and addressing risks from fossil fuel price volatility and climate-related regulations.</p>
+<p style="text-align: justify;">For the 82 countries funded through the International Development Association (IDA), the Bank’s fund for the most vulnerable, climate change and disaster risks draw additional attention. Many of these countries have been hit hard by water shortages, extreme weather and other climate impacts in recent years.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">"Climate change is a fundamental threat to development within our lifetimes, and the cost of addressing it is rising. We know that if we don’t confront climate change, we won’t end poverty and the poorest and most vulnerable will suffer the most. That is why we have made it a priority for action."</h3>
+<p style="text-align: right;">- <strong>Rachel Kyte</strong>, World Bank Group Vice President &amp; Special Envoy, Climate Change</p>
+</blockquote>
+<p style="text-align: justify;">All IDA operations are now screened for short- and long-term climate change and disaster risks, and resilience measures are integrated as appropriate. Also, all <a style="color: #850000;" href="http://www.worldbank.org/ida/papers/IDA17_Replenishment/IDA17+Summary+of+Conclusions+and+Recommendations.pdf#Page=3" target="_blank" rel="noopener">country partnership frameworks through IDA</a> (pdf) will incorporate climate and disaster risk considerations into the analysis of development challenges and priorities, and, when countries agree, in the content of programs and results frameworks. A new set of climate and disaster risk <a style="color: #850000;" href="http://blogs.worldbank.org/climatechange/new-climate-and-disaster-risk-screening-tools-world-bank-projects">screening tools</a> is helping to guide project and country teams to identify potential risks in proposed projects and strategies.</p>
+<p style="text-align: justify;">World Bank economists are also developing indicators to help countries further measure climate and disaster risk resilience.</p>
+
+<h3 style="text-align: justify;"><b>Greenhouse Gas Accounting</b></h3>
+<p style="text-align: justify;">To better understand and measure its greenhouse gas "footprint," the World Bank Group is also expanding accounting for greenhouse gas emissions within its portfolio and projects.</p>
+<p style="text-align: justify;">The <a style="color: #850000;" href="http://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/CB_Home/Measuring+Reporting/" target="_blank" rel="noopener">International Finance Corporation</a> (IFC), the World Bank Group’s private sector arm, began gross greenhouse gas accounting for direct investments in 2009 and greenhouse gas accounting for all mitigation activities in 2011. The World Bank now accounts for emissions from energy, forestry, and agriculture projects where it has agreed methodologies, and it is working on adding water, urban development, and transport over the coming year. The World Bank Group has harmonized the overall <a style="color: #850000;" href="http://www.worldbank.org/content/dam/Worldbank/document/IFI_Framework_for_Harmonized_Approach%20to_Greenhouse_Gas_Accounting.pdf" target="_blank" rel="noopener">approach to greenhouse gas estimation</a> (pdf) for mitigation projects with other multilateral development banks and international financial institutions and continues to work to harmonize approaches at the project level.</p>
+
+<h3 style="text-align: justify;"><b>Analysis</b></h3>
+<p style="text-align: justify;">The World Bank Group also has been conducting analytical work on the risks of climate change and benefits of action to help guide its work.</p>
+<p style="text-align: justify;">A series of studies, led by the World Bank-commissioned <a style="color: #850000;" href="http://www.worldbank.org/en/topic/climatechange/publication/turn-down-the-heat-climate-extremes-regional-impacts-resilience"><i>Turn Down the Heat</i> series</a>, has drawn attention to the risks developing countries face in a world even 2 degrees Celsius warmer than pre-industrial times and the urgency for action. Other studies have looked at the risks from <a style="color: #850000;" href="http://www.worldbank.org/en/news/feature/2013/11/18/disaster-climate-resilience-in-a-changing-world">weather-related disasters and the need for resilience</a>, and the impact of reducing <a style="color: #850000;" href="http://www.worldbank.org/en/news/feature/2013/11/03/protecting-snow-ice-critical-for-development-climate">short-lived climate pollutants</a> on the world's ice and snow regions, and the <a style="color: #850000;" href="http://www.worldbank.org/en/news/feature/2014/06/23/study-adds-up-benefits-climate-smart-development-lives-jobs-gdp">benefits of climate-smart policies</a>.</p>
+<p style="text-align: justify;">World Bank economists have also been exploring ways to design and assess development projects and policies to ensure they have strong positive effects on communities and economies and minimal impact on the environment and climate. In policies, that work includes improving urban planning, climate-smart agriculture, low-carbon growth, renewable energy, and energy efficiency, and removing fossil fuel subsidies, among other focal areas.</p>
+
+<h3 style="text-align: justify;"><b>Structure</b><b><i></i></b></h3>
+<p style="text-align: justify;">This increasing understanding has led the World Bank Group to be increasingly vocal about the risks of climate change and the need for action, and its work and structure are reflecting that concern.</p>
+<p style="text-align: justify;">The principle of sustainability is now integrated into the World Bank Group’s goals of ending poverty and increasing shared prosperity, and in January, a new World Bank Group vice presidency for climate change was also created, combining the International Bank for Reconstruction and Development, IDA, and IFC to address climate change under the leadership of Group Vice President and Special Envoy for Climate Change<a style="color: #850000;" href="http://www.worldbank.org/en/about/people/vp-rachel-kyte">Rachel Kyte</a>.</p>
+<p style="text-align: justify;">“Climate change is a fundamental threat to development within our lifetimes, and the cost of addressing it is rising,” Kyte said. “We know that if we don’t confront climate change, we won’t end poverty and the poorest and most vulnerable will suffer the most. That is why we have made it a priority for action.”</p>
