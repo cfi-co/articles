@@ -1,0 +1,30 @@
+---
+id: 7784
+title: "Mikkelson Brothers: Doing Good through a Chance Meeting"
+award_year: 2014
+published: 2014-08-11 10:07:19
+published_gmt: 2014-08-11 09:07:19
+author: "CFI.co Editorial"
+url: "https://cfi.co/editors-picks/2014/08/mikkelson-brothers-doing-good-through-a-chance-meeting/"
+categories: ["Europe", "Lifestyle"]
+content_sha256: 7fc35bb29c6fdf46c44ca6f2756e44e235ebbbf1d6312e7d8c27beea904a054c
+canonical: 7784-mikkelson-brothers-doing-good-through-a-chance-meeting.json
+---
+
+# Mikkelson Brothers: Doing Good through a Chance Meeting
+
+> Verbatim archived copy. Canonical machine record: `7784-mikkelson-brothers-doing-good-through-a-chance-meeting.json`.
+
+<p style="text-align: justify;"><strong> <img class="alignright wp-image-7787" src="https://cfi.co/wp-content/uploads/2014/08/mb.jpg" alt="mb" width="220" height="191" />Danes David and Christopher Mikkelson are solid heroes for the humble and conscientious work they have done in establishing Refugees United (REFUNITE) in 2008. This organisation helps family members search online for refugees in order to connect and communicate with them.</strong></p>
+<p style="text-align: justify;">The REFUNITE website is stark, very much to the point and offers anonymous and free-of-charge services. What could be more important than bridging the gap between a displaced individual and a loved one? This is a search engine that delivers hope.</p>
+<p style="text-align: justify;">The Mikkelsons estimate that there are 43 million displaced individuals globally. A large percentage of these displaced folks have lost contact with the very people they so desperately need to alleviate their suffering.</p>
+<p style="text-align: justify;">The Mikkelsons set up REFUNITE after experiencing first-hand the almost insurmountable difficulties they encountered when trying to reunite Mansour, a boy from Afghanistan, with his long-lost parents and siblings. The obstacles they faced at the time were so overwhelming that the brothers realised something radical had to be done to smoothen this path. Happily, one of Mansour’s brothers was eventually traced and the two were reunited in Moscow after six hard and long years apart.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“In a pioneering way, the innovators of Refugees United have used modern technology to alleviate the terrible pain that separation from, and uncertainty about, family members bring.”</h3>
+<p style="text-align: right;"><strong>- Morten Kjærum - Director of Fundamental Rights Agency</strong></p>
+</blockquote>
+<p style="text-align: justify;">The well-known actor Mads Mikkelen is a goodwill ambassador for REFUNITE and acts as its public face. Given his fame throughout Denmark, Mads is able to draw maximum attention to the plight of refugees and the people left behind, worrying and searching.</p>
+<p style="text-align: justify;">Visitors to the REFUNITE website are encouraged to spread the word - especially through the social networking sites. There is also an opportunity to make an online donation to this good cause. The organisation is completely independent, with headquarters in Copenhagen and an office in Nairobi that acts as a hub for activities in East Africa and elsewhere.</p>
+<p style="text-align: justify;">The Mikkelsons were members of the Clinton Global Initiative (2010/11) and have received accolades from Monocle and Daz magazines. Major broadcasters such as the BBC, CNN and CNBC have reported on REFUNITE’s activities. Their good work has drawn the attention of publications such as The Guardian, Der Spiegel and Newsweek. These news outlets reported very little about the founding brothers themselves and instead concentrated on the search efforts and the tools offered to friends and family of displaced persons.</p>
+<p style="text-align: justify;">The unassuming style of David and Christopher Mikkelson is both remarkable and appropriate. They stumbled into this undertaking quite by accident after meeting a bewildered young Afghan boy who had somehow found his way to Denmark. The Mikkelsons knew that they had to do something to help – not just the boy but the countless others just like him. They merely did what they had to and ended up making a profound difference in the lives of a great many people. That is the stuff heroes are made of.</p>
