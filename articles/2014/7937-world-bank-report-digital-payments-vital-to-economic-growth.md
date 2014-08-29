@@ -1,0 +1,42 @@
+---
+id: 7937
+title: "World Bank Report: Digital Payments Vital To Economic Growth"
+award_year: 2014
+published: 2014-08-29 11:08:45
+published_gmt: 2014-08-29 10:08:45
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2014/08/world-bank-report-digital-payments-vital-to-economic-growth/"
+categories: ["Africa", "Finance", "Projects", "Technology"]
+content_sha256: 1b5744635f555d7ac081c5569347be9411ab1e6fbf6a4debb47ea12be5a106e6
+canonical: 7937-world-bank-report-digital-payments-vital-to-economic-growth.json
+---
+
+# World Bank Report: Digital Payments Vital To Economic Growth
+
+> Verbatim archived copy. Canonical machine record: `7937-world-bank-report-digital-payments-vital-to-economic-growth.json`.
+
+<p style="text-align: justify;"><i><strong>Gates Foundation</strong> and <strong>Better Than Cash Alliance</strong> urge governments to embrace digital financial services, offers concrete action steps. </i></p>
+<p style="text-align: justify;"><strong><img class="alignright size-full wp-image-7941" src="https://cfi.co/wp-content/uploads/2014/08/p1.jpg" alt="p" width="216" height="233" />Integrating digital payments into the economies of emerging and developing nations addresses crucial issues of broad economic growth and individual financial empowerment, according to a new report by the World Bank Development Research Group.</strong></p>
+<p style="text-align: justify;">The report examines, for the first time, growing evidence from around the world about how digital payments offer immediate benefits for both senders and receivers in developing economies, as well as the ability of such payments to increase citizen access to affordable financial tools.</p>
+<p style="text-align: justify;">The report also highlights how digital payments help increase the financial independence of women by moving them from the limitations of a cash-only economy and connecting them with the financial mainstream.</p>
+<p style="text-align: justify;">Furthermore, the report concludes that the establishment of digital payments for remittances instead of cash is of enormous benefit to poor people in emerging markets and also contributes to financial development.  This could also help address concerns about the transparency and traceability of remittances.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“Digital financial services lower the cost and increase the security of sending, paying and receiving money. The resulting increase in financial inclusion is also vital to women’s empowerment.”</h3>
+</blockquote>
+<p style="text-align: justify;">“The benefits of digital payments go well beyond the convenience many people in developed economies associate with the technology,” said Dr. Leora Klapper, Lead Economist at the World Bank Development Research Group. “Digital financial services lower the cost and increase the security of sending, paying and receiving money. The resulting increase in financial inclusion is also vital to women’s empowerment.”</p>
+<p style="text-align: justify;">The Better than Cash Alliance and the Bill &amp; Melinda Gates Foundation—which funded the study in support of the G20 Global Partnership for Financial Inclusion—emphasized the clear link between digital payments and the goals of G20 governments means that action should be swift and purposeful. The two organizations are urging governments, when they meet in November 2014 at the G20 Brisbane Summit, to discuss how they can embrace a broad-based digital financial system as a path to growth, greater participation of women in the economy, and greater access to payments, including remittances.</p>
+<p style="text-align: justify;">"Governments have to take the lead and drive digital financial development forward,” said Geoffrey Lamb, Chief Economic and Policy Advisor to the Co-Chairs and CEO of the Bill &amp; Melinda Gates Foundation. “The evidence shows that private sector firms will innovate and citizens will quickly learn to use and appreciate digital payments.  But we need governments to establish the vision, the digital platforms and the regulatory assurance to pull the hundreds of millions of currently excluded people into full participation in the modern economy."</p>
+<p style="text-align: justify;">“Governments have the authority to be prime movers on so much of what is needed to advance digital financial development,” “With the private sector as a valuable partner, governments must lead to encourage progress in areas such as regulatory reform, driving electronic payroll payments and digitizing social benefit disbursements.”</p>
+<p style="text-align: justify;">The report presents an action plan for governments to adopt to realize the benefits of digital payments. Specific calls to action include:</p>
+
+<ol>
+	<li style="text-align: justify;">Digitize government payments and receipts, including social transfers. This creates a foundation upon which the private sector can build, including for person-to-person payments, such as international and domestic remittances.</li>
+	<li style="text-align: justify;">Engage actively on the regulatory agenda. Governments need to encourage regulators to enable digital financial services by fostering competition, ensuring consumer education and fostering business model innovation.</li>
+	<li style="text-align: justify;">Convene public and private sectors to create a basic technical payment platform infrastructure, across which providers can compete on product development. Public and private sectors can converge around a payments platform, and enable innovation and competition in additional financial services.</li>
+	<li style="text-align: justify;">Create an enabling environment that fosters private-sector innovation. Governments need to offer a clear vision and tangible incentives in order to ensure that the private sector is an effective, competitive, transparent, and efficient partner.</li>
+	<li style="text-align: justify;">Recognize the role of remittance providers in offering a digital entry point to formal financial services for senders and receivers. Instead of remittances being cashed out, remittances sent to a bank account, e-wallet, or smart card, for example, can go into accounts that support safe saving and also increase transparency and traceability.</li>
+</ol>
+<p style="text-align: justify;">“We recognize that while the opportunities of digital payments abound, getting there takes work,” said Dr. Ruth Goodwin-Groen, Managing Director of the Better Than Cash Alliance. “Yet digitizing payments is achievable when a government articulates a clear vision, leads by example and provides the right incentives for the private sector to do what they do best: innovate, develop infrastructure and create products designed to succeed in the marketplace.”</p>
+<p style="text-align: justify;">The report and its implications will be discussed at the G20 Global Partnership for Financial Inclusion forum on September 1 in Perth, Australia.</p>
+<p style="text-align: justify;">The full World Bank study as well as the key findings and recommendations by the Gates Foundation and Better Than Cash Alliance can be found <a style="color: #850000;" href="http://www.gatesfoundation.org/~/media/GFO/Documents/What%20We%20Do/G20%20Report_Final.pdf" target="_blank">here</a>. <a href="http://www.worldbank.org/en/news/press-release/2014/08/28/world-bank-report-digital-payments-economic-growth" target="_blank"><em>Source</em></a></p>
