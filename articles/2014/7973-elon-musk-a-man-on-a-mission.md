@@ -1,0 +1,25 @@
+---
+id: 7973
+title: "Elon Musk: A Man on a Mission"
+award_year: 2014
+published: 2014-09-05 11:35:15
+published_gmt: 2014-09-05 10:35:15
+author: "CFI.co Editorial"
+url: "https://cfi.co/editors-picks/2014/09/elon-musk-a-man-on-a-mission/"
+categories: ["North America", "Technology"]
+content_sha256: a2de23c13b8a36d98e5c8a9a237f97ae954de37cfc7faae514f1f34171f40a93
+canonical: 7973-elon-musk-a-man-on-a-mission.json
+---
+
+# Elon Musk: A Man on a Mission
+
+> Verbatim archived copy. Canonical machine record: `7973-elon-musk-a-man-on-a-mission.json`.
+
+<p style="text-align: justify;"><strong> <img class="alignright size-full wp-image-7979" src="https://cfi.co/wp-content/uploads/2014/09/em.jpg" alt="em" width="186" height="186" />Philanthropist, self-made multibillionaire, technological genius and indeed a dreamer: The list goes on. These are some of the marks and traits that best describe Elon Musk. According to Forbes Magazine, the 39-year Mr Musk has a net worth of $9.3bn.</strong></p>
+<p style="text-align: justify;">Elon Musk is the co-founder of multibillion dollar companies such as PayPal, SpaceX, and Tesla Motors. The latter two also stand testimony to both his altruistic spirit and his thirst for innovation.</p>
+<p style="text-align: justify;">With Tesla, Mr Musk created a completely new technological platform for electric cars spearheading a greener era of transport by designing vehicles that drive almost solely on non-fossils such as solar and electrical power. Far ahead of other electric car alternatives, Mr Musk could have easily patented his technological breakthroughs, however he deliberately chose not to so that the whole industry might benefit and usher in a new era of mobility together.</p>
+<p style="text-align: justify;">Though ethically correct, the decision was not a wise one from a business perspective. Any larger corporation with resources to match its size could easily wipe Tesla off the market in an afternoon or so. The decision does confirm that Mr Musk is motivated not just by money and the process of multiplying it.</p>
+<p style="text-align: justify;">Mr Musk has taken one step in the direction of non-fossil powered mobility but that does not satisfy his curiosity or quench his thirst for innovation. His dreams and aspirations stretch far beyond what can be achieved on our tiny blue planet. This is what drove Mr Musk to create SpaceX – a company with the modest goal of enabling humans to live and inhabit other planets, or more specifically Mars.</p>
+<p style="text-align: justify;">Since its birth in 2002, the company has erected several historical milestones. In 2008, it became the first private company to successfully reach orbit with the spacecraft Falcon 1. Two years later, the spacecraft Dragon was the first privately-owned vehicle to dock at the international space station (ISS), delivering a cargo of supplies. SpaceX signed a $1.6bn contract with NASA to send a dozen shipments to the ISS.</p>
+<p style="text-align: justify;">The company recently signed yet another deal with NASA. This $440m contract calls for modifications to be made to Dragon so that it can safely ferry crews to and from the space station. SpaceX is now in the final stages of creating the world’s most powerful rocket. The magnitude of the technological breakthroughs SpaceX is nothing short of dazzling. Even more impressive is the fact that the company’s CEO is also its chief designer: Mr Musk does not only know how to make money in vast quantities, he has a vision to match.</p>
+<p style="text-align: justify;">Asked why he invests so much time, money, and effort in breaking down yesterday’s walls, he simply says: ‘’I can either watch it happen, or be a part of it’’. He went for the latter option.</p>
