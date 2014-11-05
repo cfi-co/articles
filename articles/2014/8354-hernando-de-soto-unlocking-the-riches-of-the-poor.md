@@ -1,0 +1,30 @@
+---
+id: 8354
+title: "Hernando de Soto: Unlocking the Riches of the Poor"
+award_year: 2014
+published: 2014-11-05 11:20:03
+published_gmt: 2014-11-05 11:20:03
+author: "CFI.co Editorial"
+url: "https://cfi.co/latinamerica/2014/11/hernando-de-soto-unlocking-the-riches-of-the-poor/"
+categories: ["Latin America"]
+content_sha256: 2f50d10be74b4bc646bab82d83e423af155ad8bee079674a421f4a6f11f73438
+canonical: 8354-hernando-de-soto-unlocking-the-riches-of-the-poor.json
+---
+
+# Hernando de Soto: Unlocking the Riches of the Poor
+
+> Verbatim archived copy. Canonical machine record: `8354-hernando-de-soto-unlocking-the-riches-of-the-poor.json`.
+
+<p style="text-align: justify;"><strong> <img class="alignright  wp-image-8355" src="https://cfi.co/wp-content/uploads/2014/11/hds.jpg" alt="" width="239" height="220" />Most of the world’s poor may be slightly less destitute than it appears. However, officialdom often unwittingly conspires to keep the modest wealth of the poor – a shack, a building plot, a sewing machine, or marketable skills – locked up by red tape.</strong></p>
+<p style="text-align: justify;">Peruvian economist Hernando de Soto (73), president of the Institute for Liberty and Democracy (ILD) in Lima and a disciple of Milton Friedman of the Chicago School of Economics, convincingly argues that welcoming the poor into the formal economy by doing away with excessive legislation offers a fast track to increased prosperity for all.</p>
+<p style="text-align: justify;">In Peru, the ILD helped rewrite legislation aimed at greatly simplifying the registration process of property and businesses thus enabling over 1.2 million families to obtain title deeds to their homes. Close to 400,000 small businesses, previously part of the underground economy, were legalised as well. By drastically reducing the red tape involved in obtaining business licenses, the Peruvian authorities succeeded in shortening the time it takes to register a company from over 40 days to barely 24 hours.</p>
+<p style="text-align: justify;">Mr De Soto’s novel approach to combatting poverty is even credited with administrating a fatal blow to the Shining Path guerrilla movement through the legalisation of the smallholdings of coca farmers. This deprived the Maoist revolutionaries of safe havens and recruits.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">"Former US president Bill Clinton called him ‘the world’s greatest living economist’, while former United Nations secretary-general Kofi Annan concluded that Hernando de Soto is ‘absolutely right’ in rethinking the path of economic development."</h3>
+</blockquote>
+<p style="text-align: justify;">The success of Mr Soto’s policy initiatives has since been noted by the World Bank and other multilateral institutions. It has been calculated that worldwide at least $10 trillion in assets belonging to poor people remain excluded from the formal economy and therefore do not enjoy the full protection of the law. Mr De Soto argues that extending legal protection to the owners of these excluded assets gives them powerful tools with which to build a more prosperous future.</p>
+<p style="text-align: justify;">The Institute for Liberty and Democracy has now assisted 23 countries with proposals to open their economies to the excluded. “A modern market economy cannot function properly when a large group of entrepreneurs remains confined to the margins.” Mr De Soto strongly believes that economic inclusiveness also strengthens democracy: “When voters become stakeholders in a nation’s destiny, they will also start paying more attention to the quality of governance.”</p>
+<p style="text-align: justify;">Mr De Soto has received lavish praise for his research on the mechanism of upward mobility. Former US president Bill Clinton called him “the world’s greatest living economist”, while former United Nations secretary-general Kofi Annan concluded that Hernando de Soto is “absolutely right” in rethinking the path of economic development.</p>
+<p style="text-align: justify;">Critics have drawn attention to De Soto’s heavy reliance on neo-liberal policies that have at times been proven disastrous when applied to emerging markets. RG Rossini and JJ Thomas of the London School of Economics have questioned the validity of De Soto’s statistical data and suspect their Peruvian colleague has grossly overstated the amount of wealth locked away in the informal economy.</p>
+<p style="text-align: justify;">Still, in Peru and elsewhere, Mr De Soto’s approach did result in millions of people gaining access to credit and banking, the courts, subsidies, and other business services. Countless others went from being just plain destitute to become home- or landowners. With his common-sense policy recipes, Mr De Soto has delivered rays of hope and official recognition to people formerly outside the scope of economic life.</p>
