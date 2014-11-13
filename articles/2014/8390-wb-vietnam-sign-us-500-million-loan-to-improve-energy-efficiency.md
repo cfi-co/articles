@@ -1,0 +1,28 @@
+---
+id: 8390
+title: "WB, Vietnam Sign US$ 500 Million Loan to Improve Energy Efficiency"
+award_year: 2014
+published: 2014-11-13 12:35:54
+published_gmt: 2014-11-13 12:35:54
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2014/11/wb-vietnam-sign-us-500-million-loan-to-improve-energy-efficiency/"
+categories: ["Asia Pacific", "Projects", "Sustainability"]
+content_sha256: 3aa9957b2b944ab23be0d7d2c0612a1317a73df8f413bb5437b3f527638c0446
+canonical: 8390-wb-vietnam-sign-us-500-million-loan-to-improve-energy-efficiency.json
+---
+
+# WB, Vietnam Sign US$ 500 Million Loan to Improve Energy Efficiency
+
+> Verbatim archived copy. Canonical machine record: `8390-wb-vietnam-sign-us-500-million-loan-to-improve-energy-efficiency.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-full wp-image-8391" src="https://cfi.co/wp-content/uploads/2014/11/ac.jpg" alt="" width="217" height="163" /></strong>Hanoi, November, 2014 – The State Bank of Vietnam and the World Bank today signed a US$ 500 million loan for a US$ 731.25 million operation in support of Vietnam’s energy sector. The investment will fund construction of over 1,000 kilometers of transmission lines and implement Smart Grid technologies to improve reliability and quality of electricity supply.</p>
+<p style="text-align: justify;">“Improving energy efficiency is critical for Vietnam’s ability to meet energy demand to power growth and maintain improvements in welfare.” said Victoria Kwakwa, Country Director for  the World Bank in Vietnam. “Energy efficiency improvements are also important for reducing Vietnam’s rapidly growing greenhouse gas emissions and contributing to climate change mitigation.”</p>
+<p style="text-align: justify;">The loan supports a Transmission Efficiency Project, which is expected to improve the capacity, efficiency and reliability of electricity transmission in areas that are key to the country’s economic development, including the Greater Hanoi Area, the Greater Ho Chi Minh City Area, the Mekong Delta, and the Central Region.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“Energy efficiency improvements are also important for reducing Vietnam’s rapidly growing greenhouse gas emissions and contributing to climate change mitigation.”</h3>
+</blockquote>
+<p style="text-align: justify;">It will finance transmission lines and substations, constituting about 15 percent of the expected need for transmission network expansion by 2020. The project targets key investment needs in major economic development areas where transmission overloads are already present or are expected in the very near term.</p>
+<p style="text-align: justify;">In addition, the project will support Smart Grid technologies for monitoring, control, and protection equipment to improve reliability and reduce electricity outages, and help build the capacity of the National Power Transmission Company by supporting its operational and financial independence, as part of a plan to pilot a competitive energy wholesale market by 2015.</p>
+<p style="text-align: justify;">The total financing requirement of the project is estimated at US$731.25 million, of which US$500 million will be funded by the International Bank for Reconstruction and Development, the World Bank Group’s lending arm for middle-income countries. The remaining US$231.25 million will be financed by the National Power Transmission Company, Electricity of Vietnam. <em><a href="http://www.worldbank.org/en/news/press-release/2014/11/12/wb-vietnam-sign-500-million-loan-to-improve-energy-efficiency" target="_blank" rel="noopener">Source</a></em></p>
+<p style="text-align: justify;">For more information, please visit <a href="http://www.worldbank.org/vn" target="_blank" rel="noopener">www.worldbank.org/vn</a></p>
