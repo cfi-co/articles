@@ -1,0 +1,30 @@
+---
+id: 8422
+title: "Joanna Lumley: Nepal’s National Treasure"
+award_year: 2014
+published: 2014-11-21 11:57:13
+published_gmt: 2014-11-21 11:57:13
+author: "CFI.co Editorial"
+url: "https://cfi.co/europe/2014/11/joanna-lumley-nepals-national-treasure/"
+categories: ["Europe", "Lifestyle"]
+content_sha256: 887b27ca3b298073ef9d743fd3b87a496e8045012eaf885c3c8f458efb979eae
+canonical: 8422-joanna-lumley-nepals-national-treasure.json
+---
+
+# Joanna Lumley: Nepal’s National Treasure
+
+> Verbatim archived copy. Canonical machine record: `8422-joanna-lumley-nepals-national-treasure.json`.
+
+<p style="text-align: justify;"><strong> <img class="alignright  wp-image-8423" src="https://cfi.co/wp-content/uploads/2014/11/jl.jpg" alt="" width="184" height="181" />Considered a “national treasure” in Nepal for her support of the Gurkha Justice Campaign, Joanna Lumley has few if any qualms when it comes to using her fame to promote good causes. As a high-profile activist, she backs Survival International in its quest to protect the right of indigenous tribal people and Compassion in World Farming, an animal welfare organisation that opposes factory farming and the export of live animals.</strong></p>
+<p style="text-align: justify;">Best known for her commanding presence on the silver screen – most recently opposite Leonardo DiCaprio in Martin Scorsese’s drama of high finance The Wolf of Wall Street – Mrs Lumley has over time become somewhat of a Jill-of-all-trades.</p>
+<p style="text-align: justify;">She is currently the driving force behind the 367-metre long Garden Bridge which is to span the River Thames near Temple Station, London. Mrs Lumley conceived the project in 1998. It calls for a wide pedestrian bridge lined with trees and is to feature a number of gardens. Though the cost has risen to over £170m – with £30m pledged by Mayor Boris Johnson and another £30m promised by HM Treasury – Mrs Lumley fully expects the unique bridge to be completed by 2018. It is already slated to become yet another London tourist attraction.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“Having one of Britain’s most recognised voices, Mrs Lumley also established a successful parallel career as a voice-over artist and narrator.”</h3>
+</blockquote>
+<p style="text-align: justify;">Throughout her acting career, Mrs Lumley mostly portrayed upper class characters. Aided by her distinctive voice, she made Purdey – a deceitfully charming spy working for British intelligence in The New Avengers (1976-77) – into a household name. With Nadine Garner, she starred in the 1994 television drama A Class Act playing the part of a classy lady down on her luck.</p>
+<p style="text-align: justify;">More recently, Mrs Lumley has turned her attention to documentaries, travelling up the Nile from the Mediterranean Sea to its source in Rwanda, visiting the sites of classical Greece, and searching for Noah’s Ark across three continents.
+Having one of Britain’s most recognised voices, Mrs Lumley also established a successful parallel career as a voice-over artist and narrator.</p>
+<p style="text-align: justify;">Mrs Lumley was born in Srinagar in the princely state of Kashmir and Jammu, then part of British India. Her father served as a major with the 6th Gurkha Rifles. In 1947, after India gained independence, the family moved to Kent, England. At age sixteen, Joanna Lumley applied for a spot at the Royal Academy of Dramatic Art but was turned down. She became a model instead.</p>
+<p style="text-align: justify;">Even lacking a drama school degree, Joanna Lumley managed to break into acting landing her first role in 1966 on the Bruce Forsyth Show. Three years later she already appeared as a Bond girl in On Her Majesty’s Secret Service.</p>
+<p style="text-align: justify;">After a distinguished acting career spanning four decades, Mrs Lumley today dedicates a fair chunk of her time to charity and political action. She supports the fledgling Green Party of England and Wales in its attempts to gain a seat in parliament and is an advocate of the exiled government of Tibet. Mrs Lumley is a patron of multiple charities and is deemed to be one of the 100 most influential women in the United Kingdom by the BBC Radio 4 programme Woman’s Hour.</p>
