@@ -1,0 +1,34 @@
+---
+id: 8461
+title: "Nearly 500,000 New Residence Visas Issued in Dubai in First Half of 2014, Indicating Flourishing Business for Real Estate"
+award_year: 2014
+published: 2014-12-01 10:30:56
+published_gmt: 2014-12-01 10:30:56
+author: "CFI.co Editorial"
+url: "https://cfi.co/middleeast/2014/12/nearly-500000-new-residence-visas-issued-in-dubai-in-first-half-of-2014-indicating-flourishing-business-for-real-estate/"
+categories: ["Middle East", "Projects"]
+content_sha256: 731d5599586da7e4cfa92a9ecb9a5e634fe43e15a0f1a74c47b5073d66d6ef19
+canonical: 8461-nearly-500000-new-residence-visas-issued-in-dubai-in-first-half-of-2014-indicati.json
+---
+
+# Nearly 500,000 New Residence Visas Issued in Dubai in First Half of 2014, Indicating Flourishing Business for Real Estate
+
+> Verbatim archived copy. Canonical machine record: `8461-nearly-500000-new-residence-visas-issued-in-dubai-in-first-half-of-2014-indicati.json`.
+
+[caption id="attachment_8464" align="alignright" width="212"]<img class="size-full wp-image-8464" src="https://cfi.co/wp-content/uploads/2014/12/d.jpg" alt="Dubai" width="212" height="187" /> Dubai[/caption]
+<p style="text-align: justify;"><strong>Exhibitors upbeat on growth graph of UAE property sector, based on factual demand from first renters, buyers and investors. </strong></p>
+<p style="text-align: justify;">A total of 17,289 real estate transactions worth AED 37.5 billion were conducted in the first half of 2014, according to figures released by Dubai Land Department (DLD) and quoted by the organisers of The International Property Show 2015. The leading show attributes this remarkable movement in the property market to the booming population of the UAE, which mainly drives the demand for property units.</p>
+<p style="text-align: justify;">In 2014, according to official statistics, 478,451 new residence visas were issued in Dubai in the first half of the year. Josine Heijmans, Exhibition Director, Strategic Marketing &amp; Exhibitions, organizers of The International Property Show 2015, says that UAE’s rising population will ensure strong demand for properties in the foreseeable future. She added that the real estate sector growth is driven by concrete demand from residents (first-time buyers and renters) as much as investors.</p>
+<p style="text-align: justify;">Heijmans said there was high optimism among exhibitors, most of whom are real estate developers, for the prospects of the real estate sector and higher demand in coming years, and added that the show was positioned as an ideal platform for showcasing units for retail customers over three days.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">"Meticulous planning and strong infrastructure make Dubai a preferred property market, with easy connectivity between business locations and residential communities."</h3>
+</blockquote>
+<p style="text-align: justify;">Rents in Dubai have been generating higher yields for investors and owners, especially over the past two years. More money is being injected in the construction sector in different areas of the Emirate.</p>
+<p style="text-align: justify;">Heijmans added: “The show will witness the biggest participation in terms of number of companies and we expect big investments deals to be signed on the exhibition floor.”</p>
+<p style="text-align: justify;">The International Property Show 2015 is a unique show that allows even end users to buy units directly from exhibitors. It is also supported by several government entities, which gives greater confidence to buyers. Exhibitors look at the show as an ideal platform to establish partnerships, expand operations, and adopt latest global practices in the real estate and property relevant sectors.</p>
+<p style="text-align: justify;">Meticulous planning and strong infrastructure make Dubai a preferred property market, with easy connectivity between business locations and residential communities. When investors look up for potential hotspots, they find several interesting options for investment across the emirate.</p>
+<p style="text-align: justify;">“We are seeing a huge interest from both exhibitors as well as investors aiming to visit the show, months ahead of the actual event. This is very promising and demonstrates the growing stature of the exhibition.”</p>
+<p style="text-align: justify;">UAE’s leading property portal Bayut.com was announced the official online property portal partner of The International Property Show. Bayut.com helps residents, property seekers and investors stay informed and make calculated decisions about real estate. Haider Khan, CEO Bayut.com, said: “We are delighted to be the official media partner of The International Property Show and we are confident that the event will be very significant for the UAE property sector.”</p>
+<p style="text-align: justify;">The International Property Show was launched by Strategic Marketing &amp; Exhibitions more than a decade ago. It is organized at the end of the first quarter each year, when companies and investors are clear about the potential for the growth of their operations and have a better understanding of their investment budgets.</p>
+<p style="text-align: justify;">Heijmans said: “The commercial, residential, office and retail segments represents the majority of overall exhibitors at The International Property Show 2015. Exhibitors are upbeat about the growth of the local sector, especially in residential, office and retail segments.”</p>
