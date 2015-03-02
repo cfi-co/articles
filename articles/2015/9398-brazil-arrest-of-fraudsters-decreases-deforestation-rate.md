@@ -1,0 +1,30 @@
+---
+id: 9398
+title: "Brazil: Arrest of Fraudsters Decreases Deforestation Rate"
+award_year: 2015
+published: 2015-03-02 11:53:56
+published_gmt: 2015-03-02 11:53:56
+author: "CFI.co Editorial"
+url: "https://cfi.co/latinamerica/2015/03/brazil-arrest-of-fraudsters-decreases-deforestation-rate/"
+categories: ["Latin America", "Sustainability"]
+content_sha256: ab4c7fbc3316caad3f88cd34f8bd412d245677e28a1187ef8bbdb59b7e3b6784
+canonical: 9398-brazil-arrest-of-fraudsters-decreases-deforestation-rate.json
+---
+
+# Brazil: Arrest of Fraudsters Decreases Deforestation Rate
+
+> Verbatim archived copy. Canonical machine record: `9398-brazil-arrest-of-fraudsters-decreases-deforestation-rate.json`.
+
+[caption id="attachment_9399" align="alignright" width="281"]<img class="wp-image-9399" src="https://cfi.co/wp-content/uploads/2015/03/deforestation.jpg" alt="" width="281" height="174" /> Deforestation[/caption]
+<p style="text-align: justify;"><strong>One man can make a difference. Since Brazilian authorities in August 2014 issued an arrest warrant and forced Ezequiel Antônio Castanha into hiding, deforestation rates along the northern stretch of the BR-163 highway have decreased by as much as 65%. Over the weekend, Mr Castanha’s life on the lam came to an end with his arrest in Novo Progresso, an Amazonia frontier town.</strong></p>
+<p style="text-align: justify;">Mr Castanha was taken into custody with a number of his business partners and associates. The arrests are the culmination of Operation Chestnut (Operação Castanheira) – a six-month old coordinated effort of the environmental protection agency IBAMA (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis), federal police, tax authorities, and the public prosecutor’s office. The initiative aims to identify, detain, and prosecute land speculators who deal in forged title deeds and illegally harvested timber.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“The numbers are staggering. Never before have we uncovered fraud on such large scale with publically-owned land.”</h3>
+</blockquote>
+<p style="text-align: justify;">A preliminary investigation by the public prosecutor’s office estimates that Mr Castanha and his associates may have been responsible for up to €170 million in environmental damages: “The numbers are staggering. Never before have we uncovered fraud on such large scale with publically-owned land,” says district attorney Daniel Azeredo.</p>
+<p style="text-align: justify;">Using forged title deeds, Mr Castanha subdivided large areas of the Amazonian rainforest from which hardwood trees were culled for sale to local lumber mills. The remaining forest was subsequently slashed and burned resulting in rangeland ready for sale to ranchers and investors. The land sales were usually channelled through unregistered real estate companies which would fold and disappear after a few deals had been made.</p>
+<p style="text-align: justify;">Mr Castanha’s lawyer dismisses the allegations and insists his client is a “remarkably successful businessman” who fell victim to accusations motivated by envy.</p>
+<p style="text-align: justify;">Dubbed the “King of Deforestation” by the media, Mr Castanha on Monday was denied bail. The court considered the flight risk too great and expressed its concern over the likelihood of Mr Castanha continuing his environmentally damaging practices noting that the accused seems oblivious to the irreparable damage he has wrought.</p>
+<p style="text-align: justify;">Over the first six months of 2014 close to 5,000 square kilometres of virgin rainforest was lost to deforestation in Brazil. Around a fifth of this destruction took place along the northern tranche of the BR-163 highway where Mr Castanha was operating.</p>
+<p style="text-align: justify;">The only partially paved highway is one of Brazil’s most important longitudinal corridors connecting Tenente Portela in Rio Grande do Sul to Santarém, a port on southern bank of the Amazon River, in Pará State. The road traverses both the Pantanal tropical wetlands and the Amazon rainforest over a distance of 3,462 kilometres.</p>
