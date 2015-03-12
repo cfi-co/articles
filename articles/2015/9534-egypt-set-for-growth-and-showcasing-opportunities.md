@@ -1,0 +1,32 @@
+---
+id: 9534
+title: "Egypt: Set for Growth and Showcasing Opportunities"
+award_year: 2015
+published: 2015-03-12 17:04:16
+published_gmt: 2015-03-12 17:04:16
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2015/03/egypt-set-for-growth-and-showcasing-opportunities/"
+categories: ["Asia Pacific", "Banking", "Finance", "Middle East", "Oil &amp; Mining"]
+content_sha256: 37b7c7d5cf9b06ed0cf54b9342ab4467719c5d643692fb26accdb20dcc791f2f
+canonical: 9534-egypt-set-for-growth-and-showcasing-opportunities.json
+---
+
+# Egypt: Set for Growth and Showcasing Opportunities
+
+> Verbatim archived copy. Canonical machine record: `9534-egypt-set-for-growth-and-showcasing-opportunities.json`.
+
+[caption id="attachment_9535" align="alignright" width="377"]<img class=" wp-image-9535" src="https://cfi.co/wp-content/uploads/2015/03/cairo.jpg" alt="Egypt: Cairo" width="377" height="217" /> Egypt: Cairo[/caption]
+<p style="text-align: justify;"><strong>As the most populous Arab country with over 88 million inhabitants, Egypt has a definitive edge over most other emerging economies: a robust domestic market that allows for economies of scale. That – and the country’s privileged geographic position at the crossroads between Africa, Europe, and Asia – make for a heady mix of promise and opportunity.</strong></p>
+<p style="text-align: justify;">Now that political stability has returned and economic reforms implemented, Egypt is poised for a significant growth spurt. A series of high-profile infrastructure projects are underway, such as the widening and deepening of the Suez Canal to allow for a two-way flow of marine traffic. A new logistics hub is also being developed to support the increased capacity of the waterway.</p>
+<p style="text-align: justify;">Private investment is picking up as well and last year amounted to over $4bn. Last December, British Petroleum announced a $12bn mammoth five-year project to double the supply of natural gas to the domestic market. Meanwhile, Swiss food processor Nestlé announced the building of a $138m facility to supply foodstuffs and health products to the local market. Kellog’s moved in as well and acquired a majority stake in Bisco Misr, the country’s premier industrial bakery concern and a producer of snacks, biscuits, and other baked goods.</p>
+
+<blockquote>
+<h3 style="text-align: justify;">“The enhancements we realised at Bisco Misr were successful in growing the company’s domestic market, but we also saw enormous potential to increase exports and expand the company internationally.”</h3>
+<p style="text-align: right;">- <strong>Mohamed Younes</strong>, Chairman, Concord</p>
+</blockquote>
+<p style="text-align: justify;">Kellog’s paid slightly over $123m a controlling share in Bisco Misr, a former state-owned company privatised in 1998 when its shares were floated on both the Cairo and Alexandria stock exchanges. Seven years later, in 2005, the Concord International Investment Group managed to acquire a 56.2% stake in Bisco Misr and proceeded to upgrade and expand the company’s plants and operations with investments totalling $35m.</p>
+<p style="text-align: justify;">“The enhancements we realised at Bisco Misr were successful in growing the company’s domestic market, but we also saw enormous potential to increase exports and expand the company internationally,” says Concord Chairman Mohamed Younes: “With the new government and improvements to the Egyptian quality of life, Kellogg’s is now well positioned to help this great Egyptian company grow at home and abroad.”</p>
+<p style="text-align: justify;">The success story of Bisco Misr is by no means exceptional: Coca Cola and PepsiCo have also expanded their footprint in Egypt as have many other major corporations. To harness Egypt’s newfound economic prowess, the government of President Abdel-Fattah El-Sisi has organised an international conference to showcase both its accomplishments to date and the many opportunities open to investors.</p>
+<p style="text-align: justify;">The three-day Egypt Economic Development Conference is kicking off this Friday in Sharm El-Sheikh with over a thousand investors, public officials, policymakers, and thought leaders in attendance. The goal of the event is to attract in excess of $15bn in investment to well over sixty select projects.</p>
+<p style="text-align: justify;">The moment to act seems well chosen: the pace of economic growth is picking up with GDP set to swell by four percent this year and an average of seven percent annually over the next four years. The conference also aims to bury the country’s image as a place of turmoil. Egypt is now firmly set on a growth path that seeks to satisfy the aspirations of its population.</p>
+<p style="text-align: justify;">The El-Sisi Administration has already pushed through a number of reforms that increase the country’s appeal to foreign investors. Additional reforms are being prepared to ensure the fiscal stability necessary to underwrite sustained economic progress.</p>
