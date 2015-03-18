@@ -1,0 +1,31 @@
+---
+id: 9556
+title: "Containers on Rail: China’s Next Big Opportunity in Supply-Chain Logistics"
+award_year: 2015
+published: 2015-03-18 13:49:22
+published_gmt: 2015-03-18 13:49:22
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2015/03/containers-on-rail-chinas-next-big-opportunity-in-supply-chain-logistics/"
+categories: ["Asia Pacific"]
+content_sha256: 7294b1a19d76985b52217688bbd7697e95f8d48e83d7bb64dfb63023671378ff
+canonical: 9556-containers-on-rail-chinas-next-big-opportunity-in-supply-chain-logistics.json
+---
+
+# Containers on Rail: China’s Next Big Opportunity in Supply-Chain Logistics
+
+> Verbatim archived copy. Canonical machine record: `9556-containers-on-rail-chinas-next-big-opportunity-in-supply-chain-logistics.json`.
+
+<p style="text-align: justify;"><strong><img class="size-full wp-image-9557 alignright" src="https://cfi.co/wp-content/uploads/2015/03/rail.jpg" alt="rail" width="320" height="157" />The transportation of containers by rail could grow substantially in China, especially if the nation continues adopting the kind of operating practices and regulatory reforms that have boosted the development of the North American rail network, according to a new World Bank research paper.</strong></p>
+<p style="text-align: justify;">Those measures include the ability of rail operators to tailor service offerings including pricing, routing and delivery time to client needs, as well as “mainstreaming” of specialization in the value chain, allowing rail operators to focus on the things they are good at, according to the paper, <a href="http://documents.worldbank.org/curated/en/2015/03/24161031/customer-driven-rail-intermodal-logistics-unlocking-new-source-value-china" target="_blank" rel="noopener">Customer-driven Rail Intermodal Logistics: Unlocking a New Source of Value for China</a>.</p>
+<p style="text-align: justify;">“A more intense use of rail as part of the country’s containerized freight delivery logistics system could be a game-changer for Chinese manufacturers and consumers alike, as we have seen in North America,” said Luis Blancas, a World Bank Senior Transport Specialist and lead author of the paper. “That’s because more and more manufacturing has moved to China’s western provinces, which increases the distance of international and domestic shipments. At the same time, China’s highways are becoming more congested, making it difficult to deliver goods and get value-for-money in trucking services.”</p>
+
+<blockquote>
+<h3>“A more intense use of rail as part of the country’s containerized freight delivery logistics system could be a game-changer for Chinese manufacturers and consumers alike, as we have seen in North America.”</h3>
+<p style="text-align: right;">- <strong>Luis Blancas</strong>, a World Bank Senior Transport Specialist</p>
+</blockquote>
+<p style="text-align: justify;">Since 1998, freight container traffic in China has grown faster than the rate of economic growth. While container traffic on trucks and ships has increased, the use of trains for part of the journey – which is known as rail intermodal logistics – decreased in the same period. A 2013 study found that only 1.3 percent of container traffic through China’s ports involved trains, with 85 percent of all containers entering or leaving the ports on trucks and the rest on ships.</p>
+<p style="text-align: justify;">Faced with similar challenges, the United States partially deregulated a stagnated rail transport industry unable to innovate in response to growing demand. By eliminating government-regulated tariffs to promote competition and freeing rail carriers to design their networks and collaborate with other transport service providers in the supply chain, regulatory reform in the U.S. rail transport sector empowered rail operators to become critical players in international and domestic supply chains.</p>
+<p style="text-align: justify;">That experience resonates in China, because North America shares many of China’s economic geography features, and many of the supply chains served by rail intermodal in the U.S. originate in China.</p>
+<p style="text-align: justify;">China Railway Corporation, China’s national rail operator, began reforms in 2013 to improve operational efficiency and customer service, with more flexibility in setting rates and offering services based on market forces of supply and demand.</p>
+<p style="text-align: justify;">Such initial reforms can pave the way for the broader adoption of some of the approaches that helped make North America a world leader in rail container transport, according to the paper.</p>
+<p style="text-align: justify;">This paper is part of the China Transport Note Series produced by the World Bank to share experience about the transformation of the Chinese transport sector. The World Bank has supported numerous freight and passenger railway development projects in China. <em><a href="http://www.worldbank.org/en/news/press-release/2015/03/18/containers-on-rail-china-next-big-opportunity-in-supply-chain-logistics" target="_blank" rel="noopener">Source</a></em></p>
