@@ -1,0 +1,26 @@
+---
+id: 10050
+title: "Ma Yansong: The Modular Rhythms of Human Experience"
+award_year: 2015
+published: 2015-06-23 13:47:54
+published_gmt: 2015-06-23 12:47:54
+author: "CFI.co Editorial"
+url: "https://cfi.co/editors-picks/2015/06/ma-yansong-the-modular-rhythms-of-human-experience/"
+categories: []
+content_sha256: ea9dc0a83e66febd88e8a785b8f6e5286216694c34d40ee5b368a244a3aada34
+canonical: 10050-ma-yansong-the-modular-rhythms-of-human-experience.json
+---
+
+# Ma Yansong: The Modular Rhythms of Human Experience
+
+> Verbatim archived copy. Canonical machine record: `10050-ma-yansong-the-modular-rhythms-of-human-experience.json`.
+
+[caption id="attachment_10051" align="alignright" width="210"]<img class="size-full wp-image-10051" src="https://cfi.co/wp-content/uploads/2015/06/b.jpg" alt="Urban Forest. Courtesy MAD Architects." width="210" height="423" /> Urban Forest. <em>Courtesy MAD Architects.</em>[/caption]
+<p style="text-align: justify;"><strong>“This guy should not be allowed to practice architecture.” Just one reaction, not atypical, to the biophilic designs of Chinese architect Ma Yansong whose work tends to evoke strong feelings. Seeking a novel – and radical – approach to the nature-versus-civilisation debate raging amongst architects since the dawn of time, Ma Yansong unfailingly comes up with structures that link people to their surroundings in atmospheric ways – reaching high to touch deep.</strong></p>
+<p style="text-align: justify;">Founder of MAD Architects, Mr Yansong draws his inspiration mostly from the exquisitely detailed shan shui ink paintings. The style first arose in the 5th century during the Lui Song Dynasty (420-479) and allows artists to depict nature as embellished by their own imagination while adhering to a basic set of rules on composition, colour, and elements. However, Mr Yansong prefers not to get embroiled with the much more rigorous prescriptions of the feng shui harmonisation model which is sometimes considered an extension of shan shui.</p>
+<p style="text-align: justify;">Offering a contemporary interpretation of the timeless eastern spirit, MAD Architects designs spaces that, while appearing futuristic, are rooted in China’s past. The studio was founded in 2004 and gained worldwide recognition – or notoriety – two year later with the winning design for a pair of residential towers in Toronto. The resulting Absolute Towers – affectionately dubbed the Marilyn Monroe Towers by local residents – parallel the fluidity of life’s natural contours.</p>
+<p style="text-align: justify;">MAD Architects went on to conclude major projects that redefined cityscapes. In Harbin, the studio designed both the China Wood Sculpture Museum and Culture Island, an urban park with an opera house and cultural centre set amidst the wetlands bordering the city.</p>
+<p style="text-align: justify;">In 2011, the firm caused quite a sensation with its design for the Ordos Museum, an amorphous building seen as a bold statement that aims to subvert the orderly and strictly geometric master plan at the root of the new city erected on the shifting sands of the Gobi Desert of Inner Mongolia.</p>
+<p style="text-align: justify;">Mr Yansong makes no secret of his dislike of everything mass-produced: “Much of today’s architecture is served up as a consumer product and lacks in spirit. It is almost disposable. Use once, and then throw away. I much prefer timeless designs that move and inspire people, and make them feel and think.”</p>
+<p style="text-align: justify;">Born in Beijing, in 1975, Mr Yansong graduated from the University of Civil Engineering and Architecture where he now holds a professorship. He obtained a Master’s Degree in Architecture from Yale University. Mr Yansong insists that new technology is, though useful, not the answer to the trials faced by architects as they attempt to erase the boundaries between their designs and nature.</p>
+<p style="text-align: justify;">According to Mr Yansong, this dichotomy is perhaps best addressed by downplaying green architecture’s dependence of space-age materials, automation, and gadgets: “It is time to stop confusing new architecture with new technology. The two are not interchangeable.” For Mr Yansong, buildings must, above all else, awaken a desire towards nature: “the sun, wind, and sky that echo the modular rhythms of the human experience.”</p>
