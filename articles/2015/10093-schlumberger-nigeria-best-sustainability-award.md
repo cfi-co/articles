@@ -1,0 +1,21 @@
+---
+id: 10093
+title: "<br>Schlumberger Nigeria: Best Sustainability Award"
+award_year: 2015
+published: 2015-06-30 16:53:28
+published_gmt: 2015-06-30 15:53:28
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/"
+categories: []
+content_sha256: a6c6916905acd5d1a770e888d74ee11677025062ceae79d8dc7d7abe5af8219d
+canonical: 10093-schlumberger-nigeria-best-sustainability-award.json
+---
+
+# <br>Schlumberger Nigeria: Best Sustainability Award
+
+> Verbatim archived copy. Canonical machine record: `10093-schlumberger-nigeria-best-sustainability-award.json`.
+
+<p style="text-align: justify;"><strong>In over forty countries, oilfield services company Schlumberger is actively engaged in promoting science, technology, engineering, and math (STEM) education through its SEED (Schlumberger Excellence in Education Development) programme. The company is fully committed to share its corporate culture which prioritises science and learning.</strong></p>
+<p style="text-align: justify;">SEED is the embodiment of this passion. The programme counts on the volunteer work of hundreds of educators to reach students and engage them in global challenges such as climate change, energy, and water which may be addressed by science.</p>
+<p style="text-align: justify;">In Nigeria, SEED has collaborated with over 34 schools and the Nigerian Academy of Science to promote science education. Participating schools work on research projects aimed at igniting a passion for science in students.</p>
+<p style="text-align: justify;">The CFI.co Judging Panel considers SEED an exemplary initiative and applauds Schlumberger for its sustained commitment to STEM education. As production processes become ever more complex, demand for engineers and scientists are expected to increase by leaps and bounds over the next few decades. A technology company par excellence, Schlumberger seems to not just recognise this need, but address it in a hands-on manner as well. The CFI.co Judges unanimously decided to hand Schlumberger Nigeria for the second consecutive year its Best Sustainability Award.</p>
