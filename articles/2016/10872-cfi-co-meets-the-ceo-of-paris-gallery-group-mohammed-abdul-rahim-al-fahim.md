@@ -1,0 +1,35 @@
+---
+id: 10872
+title: "CFI.co Meets the CEO of Paris Gallery Group: Mohammed Abdul Rahim Al Fahim"
+award_year: 2016
+published: 2016-01-21 16:24:04
+published_gmt: 2016-01-21 16:24:04
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-paris-gallery-group-mohammed-abdul-rahim-al-fahim/"
+categories: ["Corporate Leaders"]
+content_sha256: 0e773974544ae758f99b4f3f14f7460cf2b6fc5eeb6a2b866640f9c35cceae3b
+canonical: 10872-cfi-co-meets-the-ceo-of-paris-gallery-group-mohammed-abdul-rahim-al-fahim.json
+---
+
+# CFI.co Meets the CEO of Paris Gallery Group: Mohammed Abdul Rahim Al Fahim
+
+> Verbatim archived copy. Canonical machine record: `10872-cfi-co-meets-the-ceo-of-paris-gallery-group-mohammed-abdul-rahim-al-fahim.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright  wp-image-10873" src="https://cfi.co/wp-content/uploads/2016/01/Mohammed-Abdul-Rahim-Al-Fahim.jpg" alt="Mohammed Abdul Rahim Al Fahim" width="322" height="199" />Named the most powerful entrepreneur in the Arab World’s retail sector for a second year running, Mohammed Abdul Rahim Al Fahim is CEO of the Paris Gallery Group of companies and a member of the Al Fahim family – the founders and owners of the conglomerate that now operates a network of retail stores and distribution channels throughout the UAE and the GCC countries. Mr Al Fahim joined the family business in 1996 soon after graduating from the University of Kentucky, US, when he moved to the Kingdom of Saudi Arabia (KSA).</strong></p>
+<p style="text-align: justify;">He played an active role in developing the group’s overall strategic plans, helping it take its first steps into the luxury retail sector. He was instrumental in restructuring the management and rewriting company policies resulting in high employee satisfaction levels. In his ten-year stint in KSA, he held various senior leadership positions in supply chain management. He helped establish the company’s Saudi Arabian businesses by spearheading various initiatives and campaigns resulting in record growth. He is credited with having increased company foothold in the market and building brand value.</p>
+<p style="text-align: justify;">Since his appointment as group CEO in 2006, Mr Al Fahim has successfully brought about important and far-reaching reforms in the organisation. He re-established a healthy bottom line. Anticipating high growth in business, Mr Al Fahim increased the number of stores, drove up profits, and expanded the workforce. He also took the plunge into further improving corporate governance standards. This brought about profound changes in policies, structures, and processes.</p>
+<p style="text-align: justify;">The many awards Paris Gallery has received since then not only proved that the company was on the right track, but also recognised Mr Al Fahim’s strong leadership and his remarkable foresight. Mr Al Fahim advocates corporate governance which promotes innovation, supports creative thinking, and nurtures the creative spirit of employees. He avidly shares his experiences and expertise on the subject at business forums nationwide. Now settled in Dubai, he’s a family man that loves reading, socializing, and playing soccer.</p>
+
+<h3 style="text-align: justify;">In Words</h3>
+<p style="text-align: justify;"><em>“Regardless of the economic climate, our strategy has always been to remain focused on consumers because they hold the key to our success. Being customer-centric is all about understanding the customer’s needs and desires, and finding innovative ways to deliver great products and provide an outstanding, experience in our stores.”</em></p>
+<p style="text-align: justify;"><em>“What we have achieved in the last nine years would not have been possible if it weren’t for a visionary leadership and a team of high-performing individuals who were quick to recognize, understand and accept the transformational changes that were being made in the organisational structure to best achieve company goals.”</em></p>
+<p style="text-align: justify;"><em>“The main ingredient for a successful and harmoniously workforce is transparency, because by being totally transparent you make sure everyone has the right information at the right time to make the right decisions.”</em></p>
+<p style="text-align: justify;"><em>“Technology is in the driver’s seat. As consumers becoming increasingly tech savvy, it opens up additional channels of communication. Not only will a customer be able to purchase a product with ease anytime, anywhere, but they will also be able to make educated choices before purchasing a product.”</em></p>
+
+<h3 style="text-align: justify;">In Action</h3>
+<ul>
+	<li style="text-align: justify;">Paris Gallery, under the leadership of Mohammed Abdul Rahim Al Fahim, has evolved into a dynamic and diverse enterprise with a growing portfolio of iconic brands reaching consumers across the region through its retail, franchising and distribution channels.</li>
+	<li style="text-align: justify;">Over the past nine years, Paris Gallery’s shareholders have enjoyed steadily increasing annual returns. 2011 was the most successful year in Paris Gallery’s almost two-decade-long history of retail and distribution, with revenues crossing the 1$ billion mark. The steep growth curve of 2011 continued into 2015 with steadily growing profit margins.</li>
+	<li style="text-align: justify;"><strong>2015</strong> Mr Mohammed Abdul Rahim Al Fahim was awarded the Degree of Honorary Doctorate from the American Institute of Education Development for his distinguished work in voluntary youth activities, and he was awarded the ‘Best Business Leader’ Award at the 2015 MENAA Awards and Paris Gallery was awarded the MENAA ‘Customer Delight’ Award. Also, earlier this month, Paris Gallery’s loyalty program Luxury Club was declared the winner of the ‘Service Olympian 2015 Customer Experience Award’ in the ‘Customer Loyalty Program’ category.</li>
+	<li style="text-align: justify;"><strong>2014</strong> Paris Gallery was awarded the ‘Best Luxury Retail Brand, Middle East’ Award and the Best Company for Leadership (Luxury Retail, Middle East). In addition to Enterprise Agility Achiever in the Retail Sector.</li>
+</ul>
