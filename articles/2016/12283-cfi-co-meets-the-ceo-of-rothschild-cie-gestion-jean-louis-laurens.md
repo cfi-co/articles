@@ -1,0 +1,26 @@
+---
+id: 12283
+title: "CFI.co Meets the CEO of Rothschild & Cie Gestion: Jean-Louis Laurens"
+award_year: 2016
+published: 2016-03-09 10:17:45
+published_gmt: 2016-03-09 10:17:45
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2016/03/cfi-co-meets-the-ceo-of-rothschild-cie-gestion-jean-louis-laurens/"
+categories: ["Corporate Leaders"]
+content_sha256: b5589573d66af74e9a5e86a841d10ccaf4993eb3af2ad37b37a261c53eda49cb
+canonical: 12283-cfi-co-meets-the-ceo-of-rothschild-cie-gestion-jean-louis-laurens.json
+---
+
+# CFI.co Meets the CEO of Rothschild & Cie Gestion: Jean-Louis Laurens
+
+> Verbatim archived copy. Canonical machine record: `12283-cfi-co-meets-the-ceo-of-rothschild-cie-gestion-jean-louis-laurens.json`.
+
+[caption id="attachment_12284" align="alignright" width="281"]<img class=" wp-image-12284" src="https://cfi.co/wp-content/uploads/2018/02/Jean-Louis-Laurens-300x189.jpg" alt="" width="281" height="177" /> <strong>CEO:</strong> Jean-Louis Laurens[/caption]
+<p style="text-align: justify;"><strong>Displaying a strong preference for the pursuit of returns over long investment cycles, Rothschild &amp; Cie Gestion, one of France’s leading conviction-based asset managers, offers institutional investors, independent financial advisors, and external distributors a full suite of services extending across equities, fixed-income instruments, bonds, and other asset classes. The Paris-based firm, fully-owned by Rothschild &amp; Cie Banque, also maintains office in New York and London.</strong></p>
+<p style="text-align: justify;">“Rothschild &amp; Cie Gestion is at heart a multi-specialist firm that concentrates on three distinct areas closely related to the in-house core competencies honed to excellence over time,” explains Jean-Louis Laurens (61), CEO and global head of Asset Management, and managing partner.</p>
+<p style="text-align: justify;">Mr Laurens emphasises that Rothschild &amp; Cie Gestion does not aim to be a jack of all trades. Rather, he argues, the firm is careful to operate on the basis of its strengths: “We are an active manager in European assets and, as such, prefer to adhere to long-term strategies as opposed to tactical investing. The firm also obtains solid results as a smart beta manager, extracting returns from systemic biases and perceived market inefficiencies. This, moreover, allows for prudent risk management. Our third area of expertise entails innovation and open architecture. In particular, the fund of funds business has proven quite successful.”</p>
+<p style="text-align: justify;">With a long history, strong values, and time-honoured principles, Rothschild &amp; Cie Gestion remains committed to expunging volatility from its portfolio: “An asset manager should reflect the principles it lives by. We aim to be a safe haven in a dangerous world. Asset management is as much about the preservation of capital as it is about growing capital. It is with this in mind that our firm attaches great importance to risk mitigation which also includes incorporating non-financial criteria into the decision-making process.”</p>
+<p style="text-align: justify;">Rothschild &amp; Cie Gestion is a pioneer in recognising sustainability parameters as key to long-term profitability and was an early adopter of the Principles for Responsible Investment as defined by the United Nations Environment Programme’s Finance Initiative (UNEP-FI). “We are keen to include environmental, social, and governance [ESG] criteria in all our investment processes and, indeed, have been at the forefront of this development. As such, we recognise that clients may have their individual requirements for, say, decreasing their carbon footprint. At Rothschild &amp; Cie Gestion we are able, and eager, to help investors attain their ESG goals.”</p>
+<p style="text-align: justify;">The firm currently manages, or guides, around €52bn in funds. “We are, of course, specialist managers serving a, admittedly sizeable, niche by combining the pursuit of high alpha and smart beta with a high-conviction approach which, ultimately, means that we have a distinctive view of the market and are quite flexible in the way we create our portfolios.”</p>
+<p style="text-align: justify;">Mr Laurens unveils that his firm is currently considering ways to increase its presence in the United States with the full support of Rothschild &amp; Cie Banque. The firm already has a dynamic team working in New York and is considering bolstering its US footprint. “There is a strong demand for innovation, but one delivered with excellence. We already have a strong client base of institutional investors, third party distributors, and major banks. We have also established strategic partnerships such as with Pacific Life, a California-based insurance company.”</p>
+<p style="text-align: justify;">In the end, it is differentiation – in both approach and results – that counts in the asset management industry. With an impeccable track record as impeccable as its pedigree, Rothschild &amp; Cie Gestion has managed to transcend the universe of ready-made stock-in-trades to offer a mix of investment products and vehicles that do not merely respect client specifications but adjusts to individual constraints and objectives.</p>
