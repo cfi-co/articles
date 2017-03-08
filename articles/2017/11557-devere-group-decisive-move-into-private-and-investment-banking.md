@@ -1,0 +1,31 @@
+---
+id: 11557
+title: "DeVere Group: Decisive Move Into Private and Investment Banking"
+award_year: 2017
+published: 2017-03-08 12:33:12
+published_gmt: 2017-03-08 12:33:12
+author: "CFI.co Editorial"
+url: "https://cfi.co/banking/2017/03/devere-group-decisive-move-into-private-and-investment-banking/"
+categories: ["Banking", "Europe", "Finance"]
+content_sha256: 2c313aad2169d59791154b55921102d599eb82fad8f8238101b5655c3e5779d1
+canonical: 11557-devere-group-decisive-move-into-private-and-investment-banking.json
+---
+
+# DeVere Group: Decisive Move Into Private and Investment Banking
+
+> Verbatim archived copy. Canonical machine record: `11557-devere-group-decisive-move-into-private-and-investment-banking.json`.
+
+[caption id="attachment_11558" align="alignright" width="321"]<img class="size-full wp-image-11558" src="https://cfi.co/wp-content/uploads/2017/03/NigelGreen.jpg" alt="" width="321" height="176" /> Nigel Green[/caption]
+<p style="text-align: justify;"><strong>One of the world’s largest financial consultancy services providers has moved into banking. Late last year, deVere Group acquired the St Lucia branch of Arton Bank in order to gain a foothold in private banking, and earlier this month the company announced it received an investment bank licence in Mauritius.</strong></p>
+<p style="text-align: justify;">According to deVere Group CEO Nigel Green the development is a “critical next step” in the organisation’s evolution: “It will allow us to significantly further expand our offering to clients. It also enables us to create financial products that are specifically designed to meet the requirements of expatriates and international investors who have been our main market in the advisory sector for almost a decade and a half.”</p>
+<p style="text-align: justify;">The group expects its to launch its Mauritius investment bank in a matter of weeks. Mr Green said that Mauritius had been at the top of his list as a platform for banking operations: “Mauritius has a robust international reputation which is based on good governance, pro-business policies, legal expertise, and an educated English and French-speaking population.”</p>
+
+<blockquote>
+<h3 style="text-align: justify;">"The launch of our private bank is triggered by a growing demand from clients who are increasingly seeking asset and capital protection, as well as growth, together with financial privacy."</h3>
+<p style="text-align: right;"><strong>- Nigel Green</strong></p>
+</blockquote>
+<p style="text-align: justify;">The twin developments in St Lucia and Mauritius add a number of dimensions to deVere group’s already comprehensive set of services: “The launch of our private bank is triggered by a growing demand from clients who are increasingly seeking asset and capital protection, as well as growth, together with financial privacy. This, combined with our investment bank licence, and of course our well-established global advisory business, means that deVere Group is truly able to meet the ever-evolving demands of our clients at every stage of their lives.”</p>
+<p style="text-align: justify;">Set up in 2002, deVere Group is focussed on providing premier financial consultancy services to expat professionals and global investors. The company now boasts over 80,000 clients in more than one hundred countries with in excess of $10bn under advisement. Focused on building, maintaining, and expanding long-term relationships with its clients, deVere Group has established a solid reputation for offering dependable advice within a bespoke strategic framework that is attuned to individual clients’ profiles.</p>
+<p style="text-align: justify;">“We were not satisfied with being just a world-class international advisory organisation and constantly seek to develop and grow our business in line with client demand. The launch of our private bank in January further demonstrates deVere Group’s status as a leader in the global financial community. The investment banking licence, I believe, cements it.”</p>
+<p style="text-align: justify;">Mr Green has taken the lead in the ongoing fight against the FATCA (Foreign Account Tax Compliance Act of 2010) legislation in the US which has wreaked havoc on the global financial system with its highly ineffective, burdensome, and onerous obligations. The campaign to repeal FACTA has gone into overdrive since the new administration took charge in Washington, earlier this year. DeVere Group is confident that it can help convince President Trump to scrap the entire act – or, at least, its most offending paragraphs.</p>
+<p style="text-align: justify;">“I am extremely pleased with the amount of high level and high profile support for the campaign to repeal FATCA. A delegation of our Washington DC-based campaign spent last week in the US capital garnering support. They took part in presentations on FATCA to two influential assemblies of tax activist groups that are helping to shape the tax package that will be passed by the US Congress this year,” said Mr Green.</p>
