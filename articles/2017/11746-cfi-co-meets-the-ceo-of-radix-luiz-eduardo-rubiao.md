@@ -1,0 +1,23 @@
+---
+id: 11746
+title: "CFI.co Meets the CEO of Radix: Luiz Eduardo Rubião"
+award_year: 2017
+published: 2017-08-03 15:48:27
+published_gmt: 2017-08-03 14:48:27
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-of-radix-luiz-eduardo-rubiao/"
+categories: ["Corporate Leaders"]
+content_sha256: 0d1dcea48c6dd0f0e04176d27e46e9828349c8b01651723cd7a85636c655411a
+canonical: 11746-cfi-co-meets-the-ceo-of-radix-luiz-eduardo-rubiao.json
+---
+
+# CFI.co Meets the CEO of Radix: Luiz Eduardo Rubião
+
+> Verbatim archived copy. Canonical machine record: `11746-cfi-co-meets-the-ceo-of-radix-luiz-eduardo-rubiao.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-medium wp-image-11747" src="https://cfi.co/wp-content/uploads/2017/08/LuizEduardoRubiao-300x186.jpg" alt="" width="300" height="186" />Radix CEO Luiz Eduardo Rubião thinks innovation. In 2010, along with seven partners, he founded Radix, a company founded on the conviction that it is possible to develop technology in Brazil, while adding expertise in engineering, automation, and software development to deliver a customised solution precisely tailored to individual client needs and requirements.</strong></p>
+<p style="text-align: justify;">In 2013, as the company responded to needs of clients with global operations, Mr Rubião took the first step towards reaching an international market by opening an office in Houston, Texas. “Our diversified portfolio and the breadth of the framework represented are a few of Radix’s differentiators. After all, combining engineering with software isn’t very common in the American market. US companies are often specialised in either engineering or software. What makes the Radix solution unique, is combining the two while adding expertise in automation,” explains the CEO.</p>
+<p style="text-align: justify;">The decision to open an office in the United States has proven right and timely for the company. Radix has seen good results stemming from the move. As the company expands globally, Mr Rubião is also taking the first steps towards consolidating an office in Canada. Another very real possibility is the opening of one or more offices in Europe. “These ideas are being analysed, and we see that, as business grows, there are plenty opportunities beyond the oil and gas industry.”</p>
+<p style="text-align: justify;">When asked about Radix’s differential for global growth, the answer was straightforward: a diverse portfolio. For Mr Rubião, the moment to believe and invest in digital revolution is now. “Since its foundation, Radix has been assisting companies from all sectors of the economy, analysing each case individually, understanding each customer’s specific needs and developing projects ranging from traditional engineering to the development of software that optimises processes and allows access to real-time information for speeding up decision-making processes.”</p>
+<p style="text-align: justify;">In addition to managing the business, Mr Rubião has succeeded in creating a good place to work. Radix has received a number of accolades from the Great Place to Work Institute (GPTW). The company has placed in the Best Company to Work for in Rio de Janeiro, Brazil, and Latin America. The survey is conducted by the company’s own 500+ employees. During his career, the CEO has managed organisations that claimed a grand total of 31 titles such as best companies to work for – where 35% of those were first place, and 77% were in the top 3.</p>
+<p style="text-align: justify;">The company has always displayed a commitment to ethical business practices. In 2016, Radix was placed in the Pro-Ethics list, a recognition presented by the government agency (Ministry of Transparency and Supervision in Brazil). “At Radix we always practice compliance, but it 2015 we decided to create a compliance programme and put into practice what was already the norm. We have always had policies to raise employee awareness about compliance in minor, every day actions. These eventually reflect in major decisions and negotiations,” said the CEO.</p>
