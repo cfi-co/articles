@@ -1,0 +1,32 @@
+---
+id: 11800
+title: "CFI.co Meets the CEO and Partner of ABANA Enterprises Group Co: Abdullah M Ben Jebreen"
+award_year: 2017
+published: 2017-08-31 13:39:22
+published_gmt: 2017-08-31 12:39:22
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-and-partner-of-abana-enterprises-group-co-abdullah-m-ben-jebreen/"
+categories: ["Corporate Leaders"]
+content_sha256: ad24b9e5a61704a4ba5277e2d5f36c8b28aa4c43bc3d7364249f2d2d89fa9656
+canonical: 11800-cfi-co-meets-the-ceo-and-partner-of-abana-enterprises-group-co-abdullah-m-ben-je.json
+---
+
+# CFI.co Meets the CEO and Partner of ABANA Enterprises Group Co: Abdullah M Ben Jebreen
+
+> Verbatim archived copy. Canonical machine record: `11800-cfi-co-meets-the-ceo-and-partner-of-abana-enterprises-group-co-abdullah-m-ben-je.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-medium wp-image-11801" src="https://cfi.co/wp-content/uploads/2017/08/Abdullah-M-Ben-Jebreen-300x155.jpg" alt="" width="300" height="155" />Abdullah M Ben Jebreen is the CEO and Partner of ABANA Enterprises Group Co. Mr Jebreen holds a Master in Business Administration degree from Whitworth University, USA.</strong></p>
+<p style="text-align: justify;">Mr Jebreen is one of the founding members of ABANA and has almost forty years of experience in business management. He has engineered ABANA’s success from a simple contracting company four decades ago to a full-fledged end-to-end managed services provider in the Kingdom of Saudi Arabia. His vision for ABANA is to be the most trusted and dependable business partner for organisations in the Kingdom. He has anchored ABANA’s business model around providing total solutions to address clients requirements.</p>
+<p style="text-align: justify;">CFI.co met with Mr Jebreen and asked to share some of his business insights.</p>
+<p style="text-align: justify;"><strong>What excites you about the business you now lead?</strong>
+The banking sector is one of the most prominent sectors of the economy. It requires continuous adaptation to new technologies and is being managed by some of the top professionals in the industry. It is exciting to work with a sector that is open and adaptable to change, and being able to provide solutions and services for banks branches and alternative delivery channels.</p>
+<p style="text-align: justify;"><strong>What is special about the management style at your organisation?</strong>
+We are focused, customer-driven, flexible, and open to changes in business requirements. We value the quality of our services.</p>
+<p style="text-align: justify;">How would you characterise short to mid-term prospects for your company?
+The short-term outlook for our business is stable with a potential for good growth due to the adaptation of businesses and organisations to the Kingdom’s 2030 Vision. The banking sector will always be quick to react to any opportunity for growth and to changes in the economy. This, in turn, opens business opportunities for us.</p>
+<p style="text-align: justify;"><strong>What are your personal and business strengths?</strong>
+I’d like to think that other see me as a strategist who pursues a clear vision with an approach that is adjusted as the economic scenery changes over time. We work closely with our clients with a win-win approach all the time and are committed to maintain quality management processes. As an employer, ABANA aims to empower people to reach their full potential.</p>
+<p style="text-align: justify;"><strong>What to your mind makes for good corporate leadership in your particular indu</strong>stry?
+A strong commitment to produce, time and again, the deliverables as agreed with clients. Quality is very important as are devising strategies, establishing clear KPIs, and ensuring that it all translates to satisfactory results.</p>
+<p style="text-align: justify;"><strong>What are your goals for the short-term for your business and the industry as a whole?</strong>
+We hope that the regulators will apply similar quality standards to all service providers in the Kingdom and that there will be a systematic way of ensuring everyone’s compliance.</p>
