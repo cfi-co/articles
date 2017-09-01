@@ -1,0 +1,31 @@
+---
+id: 11842
+title: "CFI.co Meets the Vice President and Managing Director of CCL Secure: Bernhard Imbach"
+award_year: 2017
+published: 2017-09-01 12:46:25
+published_gmt: 2017-09-01 11:46:25
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-vice-president-and-managing-director-of-ccl-secure-bernhard-imbach/"
+categories: ["Corporate Leaders"]
+content_sha256: 655d464bc8ce67769a5b7900ed8f9e37a6f81a9b366b9ef8d76815dce9eb162c
+canonical: 11842-cfi-co-meets-the-vice-president-and-managing-director-of-ccl-secure-bernhard-imb.json
+---
+
+# CFI.co Meets the Vice President and Managing Director of CCL Secure: Bernhard Imbach
+
+> Verbatim archived copy. Canonical machine record: `11842-cfi-co-meets-the-vice-president-and-managing-director-of-ccl-secure-bernhard-imb.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-full wp-image-11843" src="https://cfi.co/wp-content/uploads/2017/09/Bernhard-Imbach.jpg" alt="" width="230" height="285" />Bernhard Imbach has experienced almost every aspect of the banknote industry throughout his successful career over the last 35 years. Starting on the shop floor and working up to senior management; designing banknotes by hand to using computer-based technology; and printing on paper to printing on polymer substrate – just some of the journeys on which Mr Imbach has embarked.</strong></p>
+<p style="text-align: justify;">Now, he leads the team at CCL Secure that manufactures the world’s most sophisticated banknote substrate: Guardian&#x2122;. It is currently issued on 80 denominations in 24 countries and impressively outperforms paper-cotton and coated-paper banknotes in security, durability, cleanliness, and eco-friendliness.</p>
+<p style="text-align: justify;">Mr Imbach started his career on the floor at Swiss banknote printer Orell Füssli. As a young man, he was at first overwhelmed by the millions of Swiss Francs’ worth of notes that he saw every day, however, he quickly transitioned from seeing it as money to a product that had to be delivered efficiently and to a high standard of quality.</p>
+<p style="text-align: justify;">“Back in 1982, everything was based on your manual skill set. Computer-driven printing equipment simply did not exist; banknotes were produced by hand drawings. Whereas today, almost everything is done with technology.”</p>
+<p style="text-align: justify;">“These developments have brought many new advantages and opportunities to the industry, though I am grateful for having experienced both worlds. It has given me a deep understanding of how we’ve gotten to where we are today, as well as a platform for where we can go tomorrow,” said Mr Imbach.</p>
+<p style="text-align: justify;">He spent 25 years at Orell Füssli which included holding the positions of chief operations manager and a member of the executive team. He saw the company go from printing banknotes solely on paper, to introducing polymer in 2003 to expand the company’s capability and market.</p>
+<p style="text-align: justify;">While he understands and champions the advantages of new technology, he places the highest value on people.</p>
+<p style="text-align: justify;">Mr Imbach worked at Note Printing Australia from 2007 to 2014 as CEO. One of his greatest takeaways that he brought to CCL Secure from this time was the notion that a company’s greatest assets are its employees.</p>
+<p style="text-align: justify;">“Without dedicated and passionate employees, I believe it is impossible to be successful. With this philosophy, I was able to build Note Printing Australia into a world-class quality printer. At CCL Secure, we have a workforce culture that is collaborative, accountable, and committed to innovation, and our people are the reason we’ve had continued success,” he said.</p>
+<p style="text-align: justify;">CCL Secure is able to provide its central bank and printer customers with effective end-to-end solutions thanks to its many staff members, like Mr Imbach, that have worked in those companies themselves.</p>
+<p style="text-align: justify;">Knowing what he knows now, Mr Imbach said the advice he would give to his apprentice self is to “remain focused on quality, continue to develop your passion and always push the boundaries.”</p>
+<p style="text-align: justify;">Fitting advice given that pushing boundaries is what CCL Secure was founded on almost thirty years ago when it introduced the world’s first polymer banknote in Australia. Ever since, CCL Secure has been a partner to many of the world’s leading central banks that have adopted Guardian&#x2122; and provided them with support, advice and solutions taken from the experience of more than fifty billion banknotes issued on Guardian&#x2122; substrate.</p>
+<p style="text-align: justify;">While Mr Imbach did not divulge the intricate details of CCL Secure’s future plans, he did reveal there will be some very exciting and innovative upcoming features that will revolutionise the world of banknotes once more. i</p>
+<p style="text-align: justify;">Bernhard Imbach is vice-president and managing-director of CCL Secure, the manufacturer of the world’s most sophisticated banknote substrate Guardian&#x2122;. With more than three decades of industry experience, Mr Imbach was previously CEO of Note Printing Australia and held senior roles at Orell Füssli Security Printing.</p>
