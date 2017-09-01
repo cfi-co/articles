@@ -1,0 +1,26 @@
+---
+id: 11857
+title: "Luc van Hecke - CEO of AmsterdamGold Group"
+award_year: 2017
+published: 2017-09-01 14:57:23
+published_gmt: 2017-09-01 13:57:23
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2017/09/luc-van-hecke-ceo-of-amsterdamgold-group/"
+categories: ["Corporate Leaders"]
+content_sha256: 6a108a4006f4c9220b2cafe3bf6acc99a0f930ebe90e1414f35ec31a8aad2196
+canonical: 11857-luc-van-hecke-ceo-of-amsterdamgold-group.json
+---
+
+# Luc van Hecke - CEO of AmsterdamGold Group
+
+> Verbatim archived copy. Canonical machine record: `11857-luc-van-hecke-ceo-of-amsterdamgold-group.json`.
+
+[caption id="attachment_11858" align="alignright" width="300"]<img class="wp-image-11858 size-medium" src="https://cfi.co/wp-content/uploads/2017/09/Luc-van-Hecke-300x187.jpg" alt="Luc van Hecke - CEO of AmsterdamGold Group" width="300" height="187" /> Luc van Hecke - CEO of AmsterdamGold Group[/caption]
+<p style="text-align: justify;"><strong>The board of the AmsterdamGold Group consists of Chief Executive Officer <span style="text-decoration: underline;"><a href="https://www.youtube.com/watch?v=lvR-eqw7dvs">Luc van Hecke</a></span> and Chief Financial Officer Jeroen Kamphuis. Both joined the board in early 2012. Back then, it was a turbulent time in the development of the cluster of precious metals trading companies that formed the base of AmsterdamGold Group. The different branches of the group had experienced rapid growth in the aftermath of the subprime mortgage crisis but – up to that point) – lacked the knowhow and talent to build on this success.</strong></p>
+<p style="text-align: justify;">In the years prior to the credit crunch, banks all over Western Europe closed down their precious metals departments. This left space for AmsterdamGold Group to become the largest precious metal retailer in the Benelux countries in just a couple of years. Physically trading precious metals, however, had been in decline for many years before this resurgence – experience was hard to come by. In addition, the risk management expertise of large volume trading was lacking, as well as the knowledge of modern methods of customer relations, finance, and compliance.</p>
+<p style="text-align: justify;">Messrs Kamphuis and Van Hecke were brought in from other companies to remedy this lack of available experience. Luc Van Hecke spent over four years with BinckBank, working his way up from senior trade professional to head of the trading desk. In the latter role, he managed the largest trading desk in The Netherlands, overseeing eighty traders and a daily trading volume exceeding €4.5bn. Mr Kamphuis previously worked at EY, Shell, and Heineken, managing finance, compliance, and business control for these companies and a few others in Europe.</p>
+
+<h3>Luc van Hecke</h3>
+<p style="text-align: justify;">After assuming his position on the board, Mr Van Hecke worked to reduce costs, improve margins/trading, restructure the organisation, and improve the operational efficiency of AmsterdamGold. Meanwhile, Mr Kamphuis focused on legal affairs, reporting (IFRS), compliance, treasury, and risk management. The board, previously consisting of four members, was reduced by Mr Van Hecke to only two members.</p>
+<p style="text-align: justify;">The board was not the only thing to be restructured under the tenure of Messrs Van Hecke and Kamphuis: some parts of the company were merged and less interesting business units sold. Mostly, this was needed to focus on the core business of trading precious metals and their storage. A curious side-track of precious metals trading is the collectible element. Although this can be charming, it should never take precedent over cost efficiency and offering customers investment opportunities at the lowest possible price. Mr Van Hecke managed to separate these activities in a sustainable and profitable way.</p>
+<p style="text-align: justify;">Overall, the relocation of expertise within the corporate structure showed the most significant improvements. Mr Van Hecke understands that in order for a company to best serve its clients, a cohesive and knowledgeable management team is of paramount importance. He finds it incredibly rewarding to build and nurture effective leadership. AmsterdamGold Group achieved high levels of success during a time when risk management and cost effectiveness were of made priorities. Luc Van Hecke delivers a strong <span style="text-decoration: underline;"><a href="https://cfi.co/awards/europe/2017/amsterdamgold-group-best-precious-metals-investment-advisory-team-europe-2017/">product</a></span> to his clients and does so in an ethical manner.</p>
