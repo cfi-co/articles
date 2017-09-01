@@ -1,0 +1,26 @@
+---
+id: 11830
+title: "CFI.co Meets the President of The Stock Exchange of Thailand: Kesara Manchusree"
+award_year: 2017
+published: 2017-09-01 12:35:24
+published_gmt: 2017-09-01 11:35:24
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-president-of-the-stock-exchange-of-thailand-kesara-manchusree/"
+categories: ["Corporate Leaders"]
+content_sha256: 03ee18858fa14ff4189f119bb1b64f9e7c37a4792fe9d5ffaddec462ccdca751
+canonical: 11830-cfi-co-meets-the-president-of-the-stock-exchange-of-thailand-kesara-manchusree.json
+---
+
+# CFI.co Meets the President of The Stock Exchange of Thailand: Kesara Manchusree
+
+> Verbatim archived copy. Canonical machine record: `11830-cfi-co-meets-the-president-of-the-stock-exchange-of-thailand-kesara-manchusree.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-full wp-image-11831" src="https://cfi.co/wp-content/uploads/2017/09/Kesara-Manchusree.jpg" alt="" width="302" height="231" />Kesara Manchusree became president of the Stock Exchange of Thailand in June 2014. She gave herself the task of developing the exchange on all fronts, especially in terms of boosting sustainability for the benefit of all stakeholders. Her belief is that a strong capital market will contribute to a strong national economy, resulting in the well-being of the entire nation.</strong></p>
+<p style="text-align: justify;">Over the past three years, Ms Manchusree has been devoted to introducing and creating efficient new asset classes through a variety of products and services for the Stock Exchange of Thailand, Thailand Futures Exchange PCL (TFEX), and Thailand Clearing House Co (TCH), whilst incorporating technology and innovation to improve work operations and services. She has also placed emphasis on world-class infrastructure to facilitate stakeholders, including the T+2 clearing and settlement cycle that will be adopted in March 2018.</p>
+<p style="text-align: justify;">Ms Manchusree has also set her sights on further harnessing new technology to render IT stability for all stakeholders and building awareness on environmental, social, and governance (ESG) standards amongst listed companies, with the goal of increasing inclusion in the Dow Jones Sustainability Indices (DJSI) and firmly establishing sustainable development in Thai society. Eventually, these achievements will raise SET’s attractiveness, allowing it to become the most appealing fund-raising destination in the region and maintain its position as the most liquid exchange.</p>
+<p style="text-align: justify;">Ms Manchusree is driven and motivated by her enthusiasm for development and betterment. During a 30-year-long career, her work has covered practically all sectors of the financial services industry. Prior to becoming SET president, she was in charge of marketing, derivatives, and market development at the exchange. Her achievements have included the setting up of TFEX (Thailand Futures Exchange), which today ranks second in the ASEAN region, and developing the Thai bond market. Ms Manchusree’s visionary and analytical abilities have enabled her to create many financial products and instruments for SET, including the social impact platform for social enterprises and the start-ups platform.</p>
+<p style="text-align: justify;">Ms Manchusree’s leading role in creating something new in both the Thai capital market and the wider society has been widely acknowledged. Her enthusiasm has gone beyond the capital market arena: she has been actively involved in SET activities to promote financial literacy and a nationwide savings campaign. She has also helped extend knowledge on business development and management to more than 1,500 start-ups and SMEs across Thailand. Her continued support for various universities has been widely lauded. In 2016, she was made honorary member of Thammasat University Council Committee and director of the university’s Faculty of Economics.</p>
+<p style="text-align: justify;">On the regional and international fronts, SET has continued to be an integral part in supporting the development of ASEAN exchanges and in strengthening the sustainability of Thailand’s capital market and member exchanges.</p>
+<p style="text-align: justify;">“The achievements reflect the strength of the Thai capital market, paving the way for future sustainable growth. A strong capital market contributes to a strong national economy, resulting in the well-being of the entire nation. We aim to grow together under the vision of making capital markets ‘work’ for everyone,” Ms Manchusree said.</p>
+<p style="text-align: justify;">Ms Manchusree won the Outstanding Women Award 2016 from the National Council of Women of Thailand under the Royal Patronage of Her Majesty the Queen, and an Outstanding Women Leaders for Green Growth Awards 2016 from the Federation of Business and Professional Women Under the Royal Patronage of Her Majesty the Queen in recognition of her leadership and achievements in developing SET at regional and international levels.</p>
+<p style="text-align: justify;">In 2016, the SET president was, for the first time, elected to the board of directors of the World Federation of Exchanges (WFE) of which SET has been a member since 1990.</p>
