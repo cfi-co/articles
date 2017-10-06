@@ -1,0 +1,22 @@
+---
+id: 11941
+title: "CFI.co Meets the Co-Founding Partner and MD of Ioannides Demetriou LLC: Pambos Ioannides"
+award_year: 2017
+published: 2017-10-06 11:10:58
+published_gmt: 2017-10-06 10:10:58
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-co-founding-partner-and-md-of-ioannides-demetriou-llc-pambos-ioannides/"
+categories: ["Corporate Leaders"]
+content_sha256: 6754558e4a2cca2a1b4e1b50c24198ecc5d4352b65567a2cf62aabc46b3ce5f7
+canonical: 11941-cfi-co-meets-the-co-founding-partner-and-md-of-ioannides-demetriou-llc-pambos-io.json
+---
+
+# CFI.co Meets the Co-Founding Partner and MD of Ioannides Demetriou LLC: Pambos Ioannides
+
+> Verbatim archived copy. Canonical machine record: `11941-cfi-co-meets-the-co-founding-partner-and-md-of-ioannides-demetriou-llc-pambos-io.json`.
+
+<img class="alignright size-medium wp-image-11942" src="https://cfi.co/wp-content/uploads/2017/10/Pambos-Ioannides-221x300.jpg" alt="" width="221" height="300" />
+<p style="text-align: justify;"><strong>Pambos Ioannides is a co-founding partner and managing director of Ioannides Demetriou LLC. Mr Ioannides has wide experience in all fields of commercial law, offering his expertise to major corporate clients, both local and international. He acts as legal advisor to semi-governmental organisations, banks, the Cyprus Stock Exchange, and construction and engineering companies. Mr Ioannides has also assisted insurance, oil, and shipping companies in addition to businesses in the hospitality sector, trading houses, amongst others.</strong></p>
+<p style="text-align: justify;">Mr Ioannides acts as leading counsel in major local and international commercial transactions, as well as in major court and arbitration cases. He also acts as an arbitrator in international and local disputes. Furthermore, he advises international corporations and investors in the use of Cyprus corporate vehicles and investment opportunities.</p>
+<p style="text-align: justify;">Mr Ioannides’ expertise includes the drafting of a wide range of documents, e.g. statutory instruments pertaining to the structuring, administration, and operation of semi-governmental organisations such as the Cyprus Stock Exchange, the Cyprus Agricultural Payments Organisation, the Cyprus Ports Authority, and the Central Bank of Cyprus. He is also recognized for his expertise in drawing up contract documentation in international transactions; tender and contract documents and studies for major infrastructure projects, including, inter alia, the ports and airports of Cyprus, tourist and development projects, shopping centres; and mergers and takeovers of banking, insurance, tourism, and other businesses. Mr Ioannides boasts considerable experience in the design and execution of the legal underpinnings of joint ventures at national and cross-border levels; syndicated loans and other banking, financing, and securities documentation; listings on the stock exchange; and assorted corporate documentation.</p>
+<p style="text-align: justify;">Mr Ioannides is a member of the board of directors of public and private companies. He is also the author of a number of publications on Cyprus corporate and business law, such as Cyprus Corporate and Trust Law, Partnership Law of Cyprus, Directors Liabilities in Respect of Prospectus, and Cyprus Enterprises. He has given many lectures in seminars, both in Cyprus and abroad, on public law and corporate and business law. He is an examiner for the Association of Chartered Certified Accountants (corporate and business law).</p>
