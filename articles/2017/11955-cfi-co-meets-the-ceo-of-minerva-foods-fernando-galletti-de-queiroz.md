@@ -1,0 +1,31 @@
+---
+id: 11955
+title: "CFI.co Meets the CEO of Minerva Foods: Fernando Galletti de Queiroz"
+award_year: 2017
+published: 2017-10-09 13:42:01
+published_gmt: 2017-10-09 12:42:01
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-ceo-of-minerva-foods-fernando-galletti-de-queiroz/"
+categories: ["Corporate Leaders"]
+content_sha256: 2c1766588e8f8efee54059ca2f39d734d2ecc46e1989a05f2cd4dc93ca152f2b
+canonical: 11955-cfi-co-meets-the-ceo-of-minerva-foods-fernando-galletti-de-queiroz.json
+---
+
+# CFI.co Meets the CEO of Minerva Foods: Fernando Galletti de Queiroz
+
+> Verbatim archived copy. Canonical machine record: `11955-cfi-co-meets-the-ceo-of-minerva-foods-fernando-galletti-de-queiroz.json`.
+
+<img class="alignright size-full wp-image-11957" src="https://cfi.co/wp-content/uploads/2017/10/Fernando-Galletti-de-Queiroz.jpg" alt="" width="207" height="181" />
+<p style="text-align: justify;"><strong>Chief executive officer of Minerva Foods since 2007, Fernando Galletti de Queiroz joined the business in 1992 serving as its chief commercial officer and in a number of other key positions. Before joining the company, he worked at Cargill Agrícola and Cotia Trading. Mr Galleti holds a Bachelor's degree in Business Administration from the Escola de Administração de Empresas de São Paulo of that Fundação Getúlio Vargas (FGV). He details his management styles and views on sustainability.</strong></p>
+<p style="text-align: justify;">“Minerva Foods' business is strategically driven, based on three pillars: focus, discipline, and consistency. This concept allows the company to achieve positive results over the years, with operational and financial indicators that attest to the increasing efficiency of operations. In the global market, for example, we recently consolidated our global structures and our international offices, with greater commercial focus and started to generate more volume of third-party products, through their own trading in Uruguay and Australia, as well as working to develop efficient distribution channels.”</p>
+<p style="text-align: justify;">“In the international meat market, our business strategy also allows the company to seize opportunities, such as the slowdown in Australian exports, which help to expand South America's access to new markets – an effect that should contribute to new trade openings by South American countries and increase the region's participation in the global market.”</p>
+<p style="text-align: justify;">How do ESG parameters and sustainability principles affect the way your processing plants are run?
+“Sustainability and supply chain management are core strategies for Minerva Foods, especially when dealing with cattle raising in sensible biomes. Minerva Foods is a signatory on public commitments to develop sustainable livestock farming, adopting strict criteria from the start to the end of the production chain, starting with the purchase of cattle. All acquisitions are only made after checking the cattle's origin, in compliance with the requirements stipulated under the social, environmental and labour aspects.”</p>
+<p style="text-align: justify;">“Therefore, Minerva products are associated neither with child/forced labour practices and embargoed areas nor with illegally deforested areas in the Amazon biome and encroachment on indigenous lands, conservations units, and environmental protection areas in Brazil.”</p>
+<p style="text-align: justify;">“Recently, Minerva is pioneering geospatial monitoring on the Chaco biome, for its operations in Paraguay. Guided by International Finance Corporation performance standards, Minerva started classifying its suppliers in the Chaco Region according to environmental criteria.”</p>
+<p style="text-align: justify;">“Moreover, all company operations – processing, packaging, storage, distribution, publicity, product labelling, and food safety standards – are subject to extensive regulation and supervision by local and foreign authorities. Environmental KPIs are also constantly monitored seeking better usage performance on critical industrial supplies, such as water.</p>
+<p style="text-align: justify;">What are the mid to long-term challenges faced by your business?
+“The main challenge of our business is to meet the demands of the global population by providing high quality food. In the beef market, the challenge is to provide high quality animal protein to people around the world, produced in a sustainable way and with respect to the demands of consumers in terms of taste and food safety.”
+“This challenge is further evidenced by population growth and increasing purchasing power of people in various regions of the world, which increases the demand for beef compared to other animal proteins. And the Minerva is already prepared for this scenario by the adoption of a strategy of geographical diversification of production in South America, a region that has many natural advantages to produce agricultural commodities and that has been growing in terms of production and efficiency, with the potential to grow even more.”</p>
+<p style="text-align: justify;">What is the single most important requirement to become a global business?
+“An important requirement to act globally is the ability to meet the demands of the entire supply chain. In the beef market, supply chain involves important steps, ranging from the purchase to attend market requirements, to supplying high quality, sustainably produced and food-safe beef to consumers in more than one hundred countries. In all these stages, the company must be able to meet the demands of all its stakeholders with the maximum operational and commercial efficiencies.”</p>
