@@ -1,0 +1,50 @@
+---
+id: 9420
+title: "The Gonzo Papers Anthology"
+award_year: 2018
+published: 2018-03-02 14:43:03
+published_gmt: 2018-03-02 14:43:03
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/the-editors-list/2018/03/the-gonzo-papers-anthology/"
+categories: []
+content_sha256: ba19a728fb09ab5fa30fae1915f9cd4635074d066651af84edcb61fb3c644b79
+canonical: 9420-the-gonzo-papers-anthology.json
+---
+
+# The Gonzo Papers Anthology
+
+> Verbatim archived copy. Canonical machine record: `9420-the-gonzo-papers-anthology.json`.
+
+<blockquote>
+<p style="text-align: justify;"><em>“Absolute truth is a very rare and dangerous commodity in the context of professional journalism.”</em></p>
+</blockquote>
+<p style="text-align: justify;"><img class="alignright size-full wp-image-9421" src="https://cfi.co/wp-content/uploads/2015/03/g.jpg" alt="g" width="348" height="529" />For a meticulous dissection of the latter part of the 20<sup>th</sup> century, without undue embellishment or unwarranted literary liberties, The Gonzo Papers Anthology may be hard to beat. The emphasis is decidedly on beat: Hunter S Thompson (1937-2005) would have been the first to acknowledge his debt to Jack Kerouac and his beat generation of adventurous free souls. Without the inspiration offered – and example set – by On the Road and Big Sur, Hunter S Thompson would probably not have moved far beyond the fringes of the literary establishment.</p>
+<p style="text-align: justify;">As it happened, Hunter S Thompson would come to redefine journalism, infusing a generation of reporters brought up with the AP Stylebook – as revered as it is boring – with some much-needed literary flair. After all, if Victorian times could produce a Charles Dickens, and the fin-de-siècle a Jack London; why would contemporary reporting be solely entrusted to newspaper hacks?</p>
+<p style="text-align: justify;">With a little help from Tom Wolfe – who coined the term New Journalism – Truman Capote (<em>In Cold Blood</em>), Joan Didion (<em>Slouching towards Jerusalem</em>), and Norman Mailer (<em>Miami and the Siege of Chicago</em>), Hunter S Thompson painstakingly examined the people and politics of his time in books and regular contributions to Rolling Stone Magazine of all-the-news-that-fits fame.</p>
+<p style="text-align: justify;">The many highlights of Mr Thompson’s vast oeuvre are presented in the four volumes of The Gonzo Papers Anthology. Gonzo refers to the irreverent journalistic style Mr Thompson developed including first-person narrative and partisanship. The anthology shows Mr Thompson as a budding stringer for local papers and as he savours his first taste of fame with the publication in 1967 of Hell’s Angels: The Strange and Terrible Saga of the Outlaw Motorcycle Gangs for which he lived and rode with the bikers during a year.</p>
+<p style="text-align: justify;">The Gonzo Papers Anthology also contains sections of Mr Thompson’s landmark Fear and Loathing in Las Vegas: A Savage Journey into the Heart of the American Dream – his most remembered work which mercilessly exposes the utter failure of the 1960s counterculture movement. The fourth volume of The Gonzo Papers encompasses Mr Thompson’s later work – a collection of rather haphazard submissions to Rolling Stone on the 1992 presidential campaign (Bush – Clinton – Perot).</p>
+<p style="text-align: justify;">Jann Wenner, publisher of Rolling Stone, is quoted in a 2008 documentary on Thompson’s life saying that after a trip to Africa in 1974, “Hunter just couldn’t write. He just couldn’t piece it together.”</p>
+<p style="text-align: justify;">Mr Thompson went to Kinshasa in then-Zaire to cover the now legendary World Heavyweight Championship fight between George Foreman and Muhammad Ali – a clash that went down history as The Rumble in the Jungle. However, instead of chasing the scoop, Hunter S Thompson spent his time in Kinshasa cooped up in a hotel room, severely intoxicated.</p>
+<p style="text-align: justify;">This episode is, if anything, typical in as much that its protagonist was never inclined to follow the beaten path, convention, or indeed authority, however benevolent or soft its nature. His (honourable) discharge papers from the Air Force – which he left an Airman First Class in 1958 after three rather challenging years – conclude: “In summary, this airman, although talented, will not be guided by policy.”</p>
+<p style="text-align: justify;">Though not at his best in the latter stages of his writing career, Mr Thompson remains quite peerless an astute observer of his era. Lucky, perhaps, to be caught out on the fault lines of a paradigm shift in societal attitudes, Hunter S Thompson made the most of it across all available dimensions: “I hate to advocate drugs, alcohol, violence, or insanity to anyone, but they've always worked for me.”</p>
+
+<table>
+<tbody>
+<tr>
+<td width="56"><em>Title</em></td>
+<td width="510"><strong>The Gonzo Papers Anthology</strong></td>
+</tr>
+<tr>
+<td width="56"><em>Author</em></td>
+<td width="510">Hunter S Thompson</td>
+</tr>
+<tr>
+<td width="56"><em>ISBN</em></td>
+<td width="510">978-0-330-51073-8</td>
+</tr>
+<tr>
+<td width="56"><em>link</em></td>
+<td width="510">http://www.amazon.com/gp/search?index=books&amp;field-isbn=9780330510738</td>
+</tr>
+</tbody>
+</table>
