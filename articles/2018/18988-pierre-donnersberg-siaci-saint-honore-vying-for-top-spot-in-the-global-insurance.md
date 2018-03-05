@@ -1,0 +1,30 @@
+---
+id: 18988
+title: "SIACI Saint Honore's Pierre Donnersberg: Vying for a Top Spot in the Global Insurance Market"
+award_year: 2018
+published: 2018-03-05 17:07:01
+published_gmt: 2018-03-05 17:07:01
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2018/03/pierre-donnersberg-siaci-saint-honore-vying-for-top-spot-in-the-global-insurance-market/"
+categories: ["Corporate"]
+content_sha256: e1d6f66f15b784199ca017cd62cae8775539a5f2a0980759d22c7a9c65d49380
+canonical: 18988-pierre-donnersberg-siaci-saint-honore-vying-for-top-spot-in-the-global-insurance.json
+---
+
+# SIACI Saint Honore's Pierre Donnersberg: Vying for a Top Spot in the Global Insurance Market
+
+> Verbatim archived copy. Canonical machine record: `18988-pierre-donnersberg-siaci-saint-honore-vying-for-top-spot-in-the-global-insurance.json`.
+
+[caption id="attachment_18989" align="alignright" width="300"]<img class="wp-image-18989 size-medium" title="Pierre Donnersberg, Chairman, SIACI Saint Honore" src="https://cfi.co/wp-content/uploads/2021/03/SIACI-Saint-Honores-Chairman-Pierre-Donnerbserg-300x295.jpg" alt="Pierre Donnersberg, Chairman, SIACI Saint Honore" width="300" height="295" /> <strong>SIACI Saint Honore's Chairman:</strong> Pierre Donnersberg[/caption]
+<p style="text-align: justify;"><strong>SIACI Saint Honore Group is one of the leading providers of brokerage and consulting services in the French insurance market, supporting large and mid-cap companies in the management of their property and personal insurance risks in France and around the world. The group designs and develops customised solutions for its corporate clients in property and casualty, marine and cargo, employee benefits, retirement, HR strategy, and total rewards. The group also has a notable presence in international mobility through its main affiliate, MSH International.</strong></p>
+<p style="text-align: justify;">The company services cover the entire value chain from risk management consulting to the management of insurance plans. The firm currently has more than 2,500 employees worldwide, insures 2.5 million individuals, and reported a turnover of €350 million in 2017.</p>
+<p style="text-align: justify;"><span style="text-decoration: underline;"><a href="https://www.s2hgroup.com/" target="_blank" rel="noopener noreferrer">SIACI Saint Honore</a></span> offers its clients 360° coverage of their risks by offering global solutions and insurance packages to internationally-mobile individuals, expatriates, and employees as well as to large industrial risks.</p>
+<p style="text-align: justify;">In <a href="https://cfi.co/category/europe/">Europe</a>, SIACI Saint Honore maintains operations in France, Luxembourg, Switzerland, and Germany. Elsewhere, it is present in Canada, United Arab Emirates, Saudi Arabia, Singapore, and China. A lot of its business focuses on expatriates and internationally-mobile employees. As a result, one of its current challenges is to develop property and casualty, and marine solutions in these countries.</p>
+<p style="text-align: justify;">The company is growing rapidly in each of its markets. This growth is supported by a continued dedication to excellence in the delivery of services - an exciting challenge for its teams. To meet this challenge - one which is both human and technological – all the requirements are being met to acquire new skills and invest in innovation.</p>
+
+<h3>SIACI Saint Honore's Chairman: Pierre Donnersberg</h3>
+<p style="text-align: justify;">“Our ambition, to become a global player and the European leader in our sector, is sustained by strongly-held values which are shared by our teams all over the world. Our added value lies in the excellence of our teams, forged through impeccable technical ability, availability at all times, and real entrepreneurial enthusiasm. We have made the quality of working life and the involvement of our employees into the drivers of our success. This has been made possible by a human resources policy which cares about the performance and well-being of each and every one of our staff members,” says Pierre Donnersberg, chairman of the SIACI Saint Honore Group.</p>
+<p style="text-align: justify;">The group’s expansion globally, and across all of its markets, is built on talented men and women who are recognised experts in their fields. Every day, they assist thousands of companies in the protection of their human capital and the coverage of their risks. SIACI Saint Honore will continue to invest heavily to guarantee a world-class quality of service and to earn and keep the trust of our 3,500 corporate clients.</p>
+<p style="text-align: justify;">To ensure sustainable and strong growth, SIACI Saint Honore strives to develop a culture of excellence at all levels of its business. The group is dedicated to the creation of value for its clients, employees, partners, and shareholders. Through trust and affinity, it builds a personalised relationship with each of its clients and offers services and solutions tailored to suit their needs. With the enthusiasm of its employees and their role as shareholders, the group creates the human and material conditions required to be available and attentive to the needs of its clients at all times. Since its beginnings, the group has placed independence at the core of its organisation to defend the clients’ interests and safeguard their economic and social performance in all circumstances. This culture of innovation is rooted in the company’s DNA and helps the company to anticipate changes in markets and risks, and to find solutions which guarantee the security and development of its clients. This culture of excellence is above all a state of mind.</p>
+[gallery columns="2" size="large" link="file" ids="18990,18991"]
+<p style="text-align: justify;"><em>Photo credit: <a href="http://www.adriendaste.com/" target="_blank" rel="noopener noreferrer">Adrien Daste</a></em></p>
