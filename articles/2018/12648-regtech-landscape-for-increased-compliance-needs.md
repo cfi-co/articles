@@ -1,0 +1,44 @@
+---
+id: 12648
+title: "RegTech Landscape for Increased Compliance Needs"
+award_year: 2018
+published: 2018-06-20 14:02:54
+published_gmt: 2018-06-20 13:02:54
+author: "CFI.co Editorial"
+url: "https://cfi.co/technology/2018/06/regtech-landscape-for-increased-compliance-needs/"
+categories: ["Technology"]
+content_sha256: 510199e47658cf94578a42f5e17cbcd543a48ba33484722efca034e3aa0180c1
+canonical: 12648-regtech-landscape-for-increased-compliance-needs.json
+---
+
+# RegTech Landscape for Increased Compliance Needs
+
+> Verbatim archived copy. Canonical machine record: `12648-regtech-landscape-for-increased-compliance-needs.json`.
+
+<p style="text-align: justify;"><strong>Regtech solutions seemed to offer the solution to financial institutions' (FIs) compliance woes when they first came to prominence around 24 months ago, gaining support from regulators and investors alike.</strong></p>
+<p style="text-align: justify;">However, many of the companies offering these solutions haven't scaled as might have been expected from the initial hype, and have failed to follow the trajectory of firms in other segments of fintech.</p>
+<p style="text-align: justify;">This unexpected inertia in the regtech industry is likely to resolve over the next 12-18 months as other factors come into play that shift FIs' approach to regtech solutions, and as the companies offering them evolve. External factors driving this change include regulatory support of regtech solutions, and consultancies offering more help to FIs wanting to sift through solutions. Startups offering regtech solutions will also play a part by partnering with each other, forming industry organizations, and taking advantage of new opportunities.</p>
+
+
+[caption id="attachment_12649" align="aligncenter" width="531"]<img class="size-full wp-image-12649" src="https://cfi.co/wp-content/uploads/2018/06/RegTech-graph.jpg" alt="" width="531" height="347" /> Growth in the Number of Firms in Each RegTech Segment, 2010-2018.[/caption]
+<p style="text-align: justify;">This report from <a href="http://www.businessinsider.com/intelligence/bi-intelligence-fintech-and-payments-research-bundle?IR=T&amp;utm_source=businessinsider&amp;utm_medium=report_teaser&amp;utm_term=report_teaser_subscription_text_link_ai-in-banking-and-payments-report-2018-2&amp;utm_content=subscription_report_teaser_text_link_5&amp;utm_campaign=report_teaser_subscription_link&amp;vertical=fintech">Business Insider Intelligence</a>, Business Insider's premium research service, provides a brief overview of the current global financial regulatory compliance landscape, and the regtech industry's position within it. It then details the major drivers that will shift the dial on FIs' adoption of regtech over the next 12-18 months, as well as those that will propel startups offering regtech solutions to new heights. Finally, it outlines what impact these drivers will have, and gives insight into what the global regtech industry will look like by 2020.</p>
+<p style="text-align: justify;"><strong><em>Here are some of the key takeaways:</em></strong></p>
+
+<ul style="text-align: justify;">
+ 	<li>Regulatory compliance is still a significant issue faced by global FIs. In 2018 alone, EU regulations MiFID II and PSD2 have come into effect, bringing with them huge handbooks and gigantic reporting requirements.</li>
+ 	<li>Regtech startups boast solutions that can ease FIs' compliance burden — but they are struggling to scale.</li>
+ 	<li>Some changes expected to drive greater adoption of these solutions in the next 12 to 18 months are: the ongoing evolution of startups' business models, increasing numbers of partnerships, regulators' promotion of regtech, changing attitudes to the segment among FIs, and consultancies helping to facilitate adoption.</li>
+ 	<li>FIs will actively be using solutions from regtech startups by 2020, and startups will be collaborating in an organized fashion with each other and with FIs. Global regulators will have adopted regtech themselves, while continuing to act as advocates for the industry.</li>
+</ul>
+<div style="text-align: justify;"><em>This is a preview of a research report from <a href="http://www.businessinsider.com/research">Business Insider Intelligence</a>, Business Insider's premium research service. To learn more about Business Insider Intelligence, <a href="http://www.businessinsider.com/intelligence/bi-intelligence-fintech-and-payments-research-bundle?IR=T&amp;utm_source=businessinsider&amp;utm_medium=report_teaser&amp;utm_term=report_teaser_subscription_text_link_regtech-revisited-report-2018-4&amp;utm_content=subscription_report_teaser_text_link_5&amp;utm_campaign=report_teaser_subscription_link&amp;vertical=fintech">click here</a>.</em></div>
+<div style="text-align: justify;"></div>
+<div id="piano-inline" style="text-align: justify;"><strong><em>In full, the report:</em></strong></div>
+<div data-piano-inline-content-wrapper="">
+<ul>
+ 	<li style="text-align: justify;">Reviews the major changes expected to hit the regtech segment in the next 12 to 18 months.</li>
+ 	<li style="text-align: justify;">Examines the drivers behind these changes, and how the proliferation of regtech will improve compliance for FIs.</li>
+ 	<li style="text-align: justify;">Provides our view on what the future of the regtech industry looks like through 2020.</li>
+</ul>
+By <a href="http://www.businessinsider.com/author/sarah-kocianski" target="_blank" rel="noopener">Sarah Kocianski</a>. <a href="http://www.businessinsider.com/regtech-revisited-report-2018-4?IR=T">Source</a>
+
+</div>
