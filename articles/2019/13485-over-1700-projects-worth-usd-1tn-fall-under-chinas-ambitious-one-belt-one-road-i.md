@@ -1,0 +1,25 @@
+---
+id: 13485
+title: "Over 1,700 Projects Worth USD 1tn Fall Under China’s Ambitious One Belt, One Road Initiative (OBOR)"
+award_year: 2019
+published: 2019-04-02 15:18:23
+published_gmt: 2019-04-02 14:18:23
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2019/04/over-1700-projects-worth-usd-1tn-fall-under-chinas-ambitious-one-belt-one-road-initiative-obor/"
+categories: ["Asia Pacific", "Middle East", "Projects"]
+content_sha256: 6e7776c05a873b88e1e374ce58f55c15e63cb9aaee8c8c9727fee2c971d29cb6
+canonical: 13485-over-1700-projects-worth-usd-1tn-fall-under-chinas-ambitious-one-belt-one-road-i.json
+---
+
+# Over 1,700 Projects Worth USD 1tn Fall Under China’s Ambitious One Belt, One Road Initiative (OBOR)
+
+> Verbatim archived copy. Canonical machine record: `13485-over-1700-projects-worth-usd-1tn-fall-under-chinas-ambitious-one-belt-one-road-i.json`.
+
+<em>Annual Investment Meeting 2019 to host AIM-OBOR Forum</em>
+
+<img class="aligncenter size-full wp-image-13486" src="https://cfi.co/wp-content/uploads/2019/04/AIM1.jpg" alt="" width="1728" height="924" />
+<p style="text-align: justify;">With more than 1,700 projects worth USD 1 trillion, China’s ambitious One Belt, One Road Initiative aims to positively impact 4.4 billion people, or 65 percent of the world’s population that equals to about 40 percent of the global gross domestic product (GDP). Spanning across to 70 countries across Asia, Europe, Africa, and Oceania, the One Belt, One Road Initiative has been allocated over $340bn in construction contracts secured by Chinese companies.</p>
+<p style="text-align: justify;">These statistics were released in conjunction with the upcoming Annual Investment Meeting which will be held from 8th to 10th April in Dubai focusing on ‘Mapping the Future of FDI: Enriching World Economies through Digital Globalization. ’This year, the forum will put a spotlight on China’s ambitious One Belt, One Road Initiative through a full-day special forum, which will be held on the second day of the event. It will provide participating high-ranking Chinese officials with an international platform to present the plans for the One Belt, One Road Initiative and to strengthen investor confidence on the same. In addition, the workshop will brief the business community worldwide with various investment opportunities running around the mega project.</p>
+<p style="text-align: justify;">“The Belt and Road Initiative will pave the way for a stronger trade ties within Asia, the Middle East, and Europe. Targeted to be completed by 2049, the landmark project will bring about inclusive growth, spur unprecedented development, and enhance cooperation, trade, and investment worldwide. AIM is founded based on these objectives too, thereby prompting us at the organizing committee to host this special event this year to keep with our commitment to highlight investment opportunities around the world under the support of respective governments,” said Dawood Al Shezawi, CEO of Annual Investment Organizing Committee.</p>
+<p style="text-align: justify;">During the forum, renowned keynote speakers will tackle various fundamental aspects of the project. There will be four sessions which will focus on infrastructure development, new technologies, renewable energy, and agriculture and food security.</p>
+<p style="text-align: justify;">While One Belt One Road Initiative will be a key topic at the upcoming Annual Investment Meeting, the premier international foreign direct investment (FDI)-focused platform will also offer high-ranking policy makers, business leaders, regional and international investors, successful entrepreneurs, leading academics, and celebrated financial experts an opportunity to discuss best practices and economic issues of global importance.</p>
