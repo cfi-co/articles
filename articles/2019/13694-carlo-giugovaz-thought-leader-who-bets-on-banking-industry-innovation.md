@@ -1,0 +1,26 @@
+---
+id: 13694
+title: "Carlo Giugovaz: Thought-Leader Who Bets on Banking Industry Innovation"
+award_year: 2019
+published: 2019-06-27 16:42:24
+published_gmt: 2019-06-27 15:42:24
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2019/06/carlo-giugovaz-thought-leader-who-bets-on-banking-industry-innovation/"
+categories: ["CFI.co Meets", "Corporate Leaders"]
+content_sha256: cd48dc674c979023c6393013319b29550230985fee566a0834cebf289e18ed77
+canonical: 13694-carlo-giugovaz-thought-leader-who-bets-on-banking-industry-innovation.json
+---
+
+# Carlo Giugovaz: Thought-Leader Who Bets on Banking Industry Innovation
+
+> Verbatim archived copy. Canonical machine record: `13694-carlo-giugovaz-thought-leader-who-bets-on-banking-industry-innovation.json`.
+
+[caption id="attachment_13695" align="alignright" width="480"]<img class="wp-image-13695" title="Carlo Giugovaz" src="https://cfi.co/wp-content/uploads/2019/06/Carlo-Giugovaz.jpg" alt="Carlo Giugovaz" width="480" height="304" /> <strong>CEO:</strong> Carlo Giugovaz[/caption]
+<p style="text-align: justify;"><strong>Among the pioneers of the digital banking age and one of most recognised innovator and FinTech thought leaders in Europe.</strong></p>
+<p style="text-align: justify;">He has more than 35 years’ experience in banking industry and started out on a new path – that of entrepreneur – by founding <a href="https://supernovaelabs.com/en/" target="_blank" rel="noopener">Supernovae Labs</a>, a business accelerator for fintech start-ups and financial institutions.</p>
+<p style="text-align: justify;">Over the first years, Giugovaz has contributed to many high-profile companies, including PwC, where he held the position of senior auditor and senior consultant for more than eight years. He also worked as engagement manager during a five-year-stint with McKinsey &amp; Company and as <a href="https://ec.europa.eu/inea/en/horizon-2020/projects/h2020-transport/green-vehicles/esprit" target="_blank" rel="noopener">Esprit Projects Commissioner</a> for the European Commission in Brussels.</p>
+<p style="text-align: justify;">Then came the banking appointments to Intesa San Paolo (individual marketing manager and strategic marketing manager), and <a href="https://cfi.co/menu/corporate/2021/01/unicredit-driving-social-change-through-banking/">UniCredit</a>, where for more than 16 years he held positions including head of retail in the Central Region of Italy, head of UniCredit Direct Bank and head of multichannel banking (Italy and Central Eastern Europe).</p>
+<p style="text-align: justify;">Since 2017 Carlo Giugovaz has been hired by Efma as the Italy and Switzerland country manager, as director of the Fintech and innovation Council and as senior advisor for Efma Advisory Services. His position in Efma dovetails with his on-going vision of Digital, Innovation and Banking Transformation, as well as with his influential and mediation capabilities.</p>
+<p style="text-align: justify;">Giugovaz is now the CEO of Supernovae Labs, leading an international team serving some of most innovative Italian banks by choosing the best fintech ideas and solutions in the market to seize new business opportunities and close digital gaps. In three years, Supernovae Labs has created a selective portfolio of more than 110 fintech brand new solutions ranging from AI, big data, open banking platforms, to digital empowerment, data monetization, instant lending and deposits.</p>
+<p style="text-align: justify;">He has a passion for doing business. His distinctive strength is a blend of competences – strategy, marketing and sales, technology, finance and organization – seasoned in years of challenging projects and managerial positions. Over the course of his international journey, he has learned how to leverage technologies to respond to customers’ specific needs and acquired an in-depth digital know-how of banking industry.</p>
+<p style="text-align: justify;">Carlo Giugovaz is a leader who takes care in every aspect of his role, from problem solving, to commitment to success and people-management, from creative thinking, customer experience to calculating risks and impacts. He has spoken on a wide range of retail, banking and open innovation issues at global events and at MBA (Bocconi, Politecnico di Milano, Bologna Business school) devising a clear vision about forthcoming banking scenario and how to successfully compete within it.</p>
