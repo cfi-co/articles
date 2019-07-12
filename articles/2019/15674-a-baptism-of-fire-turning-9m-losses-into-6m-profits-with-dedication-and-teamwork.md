@@ -1,0 +1,29 @@
+---
+id: 15674
+title: "A Baptism of Fire: Turning £9m Losses Into £6m Profits With Dedication and Teamwork"
+award_year: 2019
+published: 2019-07-12 13:17:54
+published_gmt: 2019-07-12 12:17:54
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2019/07/a-baptism-of-fire-turning-9m-losses-into-6m-profits-with-dedication-and-teamwork/"
+categories: ["Corporate Leaders"]
+content_sha256: 2a215b530a579466751430790e184a4c825a6161dbbe92c5268d2b6b5a5c13ba
+canonical: 15674-a-baptism-of-fire-turning-9m-losses-into-6m-profits-with-dedication-and-teamwork.json
+---
+
+# A Baptism of Fire: Turning £9m Losses Into £6m Profits With Dedication and Teamwork
+
+> Verbatim archived copy. Canonical machine record: `15674-a-baptism-of-fire-turning-9m-losses-into-6m-profits-with-dedication-and-teamwork.json`.
+
+[caption id="attachment_15675" align="alignright" width="300"]<img class="size-medium wp-image-15675" src="https://cfi.co/wp-content/uploads/2020/06/Managing-Director-Caoilionn-Hurley-300x254.jpg" alt="Managing Director Caoilionn Hurley" width="300" height="254" /> <strong>Managing Director:</strong> Caoilionn Hurley[/caption]
+<p style="text-align: justify;"><strong>Co-op Legal Services managing director <a href="https://cfi.co/menu/corporate/2021/08/caoilionn-hurley-listener-learner-thinker-chief-secrets-of-an-md/">Caoilionn Hurley</a> joined the firm in 2014 and took on her new leading role in December last year — the latest development in her diverse career history.</strong></p>
+<p style="text-align: justify;">Having studied law, followed by a postgraduate degree in business, and then going on to qualify as an accountant, Hurley was selected for roles as chief financial, chief marketing and chief operating officer — as well as leading technology and people teams.</p>
+<p style="text-align: justify;">Her career started with Irish brewing company Guinness; she then moved to computer giant IBM, where she developed an abiding interest in technology. Further career steps included positions with the ExCel Exhibition Centre, Thompsons Solicitors, South Square Chambers and Slater and Gordon.</p>
+<p style="text-align: justify;">Hurley then moved to <a href="https://cfi.co/menu/corporate/2021/08/co-op-legal-services-opportunity-and-optimism-abound-in-the-exciting-legal-services-sector/">Co-op Legal Services</a> to take on a role that was “the perfect blend of opportunities” for her: a commercial role in a business with a powerful brand. Her task was to turn the legal business around following annual losses of £9 million in 2013.</p>
+<p style="text-align: justify;">Hurley led from the front, putting together a highly skilled and capable team of legal and technology experts. Together they reviewed and re-engineered business processes, invested in technology and streamlined service delivery. Their efforts paid off; the Co-op is on-track to deliver a profit of £6 million for 2019.</p>
+<p style="text-align: justify;">A double coup for the team was the acquisition and integration of Collective Legal Solutions in 2016 and Simplify Probate last year — making Co-op Legal Services the UK’s largest probate provider.</p>
+<p style="text-align: justify;">One of Hurley’s key measures of success for the integration of these businesses was retaining almost all the existing team members. Her ethos is “people first”, and she admits to being obsessive about continuous improvement, technology and re-engineering working methods to meet client needs. “Everyone should be heard, everyone has something new to teach me,” is her view.</p>
+<p style="text-align: justify;">This mindset, shared by her leadership team, enables the retention and development of talented individuals and means the business now operates from five UK locations: London, Bristol, Manchester, Sheffield, and Stratford-Upon-Avon.</p>
+<p style="text-align: justify;">“We are a unified and aligned leadership team at Co-op Legal Services,” she says. “Sharing the same values and ambitions as a team makes it very easy to succeed together — we are proud of our track record of success, and we hope to build further on it.”
+Caoilionn Hurley’s team continues to grow, leading a 600-strong workforce. They remain committed to building opportunities and rewarding careers for their teams, while relentlessly delivering expert, best-in-class client service.</p>
+<p style="text-align: justify;">The team recognises that Co-op Legal Services is only as good as the people who turn up every day and commit to working together, supporting each other through change, and delivering excellent service.</p>
