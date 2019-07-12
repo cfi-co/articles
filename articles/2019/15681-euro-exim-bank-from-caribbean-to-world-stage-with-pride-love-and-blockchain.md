@@ -1,0 +1,53 @@
+---
+id: 15681
+title: "Euro Exim Bank: From Caribbean to World Stage, with Pride, Love, and Blockchain"
+award_year: 2019
+published: 2019-07-12 13:31:34
+published_gmt: 2019-07-12 12:31:34
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2019/07/euro-exim-bank-from-caribbean-to-world-stage-with-pride-love-and-blockchain/"
+categories: ["Corporate"]
+content_sha256: fc1b51d22227d6c7837a34d5e7b15658ed02fdf434a67393f64ab0a765597733
+canonical: 15681-euro-exim-bank-from-caribbean-to-world-stage-with-pride-love-and-blockchain.json
+---
+
+# Euro Exim Bank: From Caribbean to World Stage, with Pride, Love, and Blockchain
+
+> Verbatim archived copy. Canonical machine record: `15681-euro-exim-bank-from-caribbean-to-world-stage-with-pride-love-and-blockchain.json`.
+
+<p style="text-align: justify;"><strong>Euro Exim Bank, headquartered in St. Lucia with a representative office in London, is an international financial institution serving corporate businesses around the globe, facilitating trade finance.</strong></p>
+<p style="text-align: justify;">The company has made great strides in implementing blockchain-based technology into its trade finance platform, and has become an active participant with Ripple technology for real-time payments and reduced liquidity requirements.</p>
+<p style="text-align: justify;">It has been expanding its international teams and agent-partner network, and is establishing a representative office in India. The bank is also looking at supporting emerging market opportunities across the African continent, which is experiencing significant trade growth.</p>
+<p style="text-align: justify;"><strong>New Technologies </strong>
+Trade finance, with its multiple documents, extended ecosystem, non-standard and diverse instructions, remains the best current use-case for distributed ledger technology. Euro Exim is on the case, refining its Simplex trade finance platform with underlying blockchain capability.</p>
+<p style="text-align: justify;">From a commercial perspective, key issues for trading nations remain. There are constant changes in regulation and compliance, lack of trust for emerging countries and companies, difficult and costly access to liquidity, and new fintech participants challenging traditional banks.</p>
+<p style="text-align: justify;">Market-focused IT resources and a tech-savvy management team have guided the development of the bank’s platform, supporting smart contracts and increased automation, assisting clients safely and effectively in markets where they were previously excluded or restricted.</p>
+<p style="text-align: justify;"><a href="https://cfi.co/uncategorized/2020/08/trade-finance-at-euro-exim-bank-knowing-what-the-customer-wants-and-delivering/">Euro Exim</a> partnered with Ripple, market leader in digital asset technology and providers of XRP cryptocurrency. The union began with xCurrent real-time payments, then the xRapid service was brought in, in record time.
+The partnership has been beneficial. For many buyers, access to fiat currencies is costly and restrictive. With xRapid a buyer or seller in Africa can pay or receive funds in local currency with lower liquidity requirements. For buyers, local currency is exchanged into the XRP digital asset and remitted to their counterparty — who is paid in local currency. And all in real-time, with full audit and a guarantee of zero rate-change through the transaction, changing the dynamics of trade and providing competitive market inclusion.</p>
+<p style="text-align: justify;">The next step is to investigate the possibility of Ripple message formats to carry complex details of trade instruments, such as Letters of Credit and associated payment instructions, and facilitate guarantee-of-settlement and immutability for financial instructions.</p>
+<p style="text-align: justify;"><strong>Typical Clients </strong>
+Euro Exim clients buy goods from China, India, UAE, Africa, South America, the Caribbean region and the Far East. Its supported deal values range from $100,000 to $5M, with clients importing goods such as garments, plastics, cars, non-perishable foodstuffs and machinery.</p>
+<p style="text-align: justify;"><strong>Due Diligence</strong>
+Risk mitigation and compliance with regulatory obligations remains a priority, and the bank is mindful of constant changes in fianncial crime, sanctions, cyberthreat, PEPs and KYC/AML requirements, along with identity assurance to safeguard all parties in global transactions.</p>
+<p style="text-align: justify;"><strong>Conferences and Associations</strong>
+On the international stage, Euro Exim provides keynote speakers and panellists at major international financial conferences, and thought-leadership articles. Events this year include GTR Conferences and Gulf Trade Finance. Euro Exim is a member of the ICC, and an associate member of the CAB (Caribbean Association of Banks).</p>
+<p style="text-align: justify;">The team
+<strong>Kaushik Punjani</strong>
+<em>CEO &amp; Director</em>
+kaushik.punjani@euroeximbank.com
+Euro Exim CEO and director Kaushik Punjani has a unique understanding of technical and business requirements. He holds a BSc in Chemistry, and Pharmacy qualifications. Punjani has extensive experience in finance, with previous roles covering management and delivery of financial solutions at UK businesses.</p>
+<p style="text-align: justify;">As chairman, Punjani manages the board and regulatory administration, and oversees strategy and liaison with external auditors and regulatory agencies. He is the president of the Rajyapurohit Association of Brahmins UK. He has an active role in charity organisations in the UK and India, supporting the Asian Blind Association in London, and performs at concerts raising money for Great Ormond Street Hospital, a local Downs Syndrome Charity, the Cerebral Palsy Association of St Lucia, and the Montgomery Heights Children’s Foundation in Zimbabwe.</p>
+<p style="text-align: justify;"><strong>Graham Bright</strong>
+<em>Head of Compliance and Operations</em>
+graham.bright@euroeximbank.com
+Graham Bright is head of compliance and operations, an experienced industry professional from a financial services and system-vending background. His extensive career of 35 years (including 20 years at SWIFT), covers industry utilities, regulators and specialist financial institutions in sales, support and consulting. He is a serving UK Justice of the Peace.</p>
+<p style="text-align: justify;">Formerly director of FSI solutions and strategy at storage leader EMC, he was subject matter expert on banking and investment management.</p>
+<p style="text-align: justify;">Prior to that, he was the principal consultant with The Realization Group, and business development manager at Actuare, a FIX/EMX/SWIFT/ISO messaging company for investment managers, corporates and the funds industry.</p>
+<p style="text-align: justify;">He is former managing director at Financial Tradeware Plc, leading integrated portfolio and trading system sales and consultancy requirements for discretionary fund managers and alternative investments markets (hedge and mutual funds).</p>
+<p style="text-align: justify;">Graham is a regular contributor to trade journals including Forbes, American Banker and has published articles in Financial Technology Press, CEO Insight, and The Financial Times. He is a regular panellist and keynote speaker at international trade industry conferences and will be a speaker at GTR in Singapore and TXF in Hong Kong.</p>
+<p style="text-align: justify;"><strong>Georgette Adonis-Roberts</strong>
+<em>International Legal Counsel</em>
+georgette.a@euroeximbank.com
+International Legal Counsel Georgette Adonis-Roberts is responsible for leading legal strategy and structure in the EMEA and Caribbean regions, and providing oversight for the bank’s regulatory, compliance and cross-border functions.</p>
+<p style="text-align: justify;">She is a dual-qualified barrister with experience in the services industry, banking and trade finance sectors. She specialises in drafting legal documents, negotiating terms and conditions, assisting in the progression of commercial transactions and corporate governance. She holds an LL.B (Hons) and has been called to the Bar of England and Wales, and subsequently St Lucia.</p>
+<p style="text-align: justify;">Prior to joining Euro Exim Bank, she worked in private practice in St. Lucia with a cohesive team at Du Boulay Anthony &amp; Co. She is also an Accredited Mediator in Civil and Commercial training and is adept in dispute resolution.</p>
