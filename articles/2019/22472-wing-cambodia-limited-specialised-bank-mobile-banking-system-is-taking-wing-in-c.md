@@ -1,0 +1,28 @@
+---
+id: 22472
+title: "Wing (Cambodia) Limited Specialised Bank: Mobile Banking System is Taking Wing in Cambodia"
+award_year: 2019
+published: 2019-07-27 12:04:58
+published_gmt: 2019-07-27 11:04:58
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2019/07/wing-cambodia-limited-specialised-bank-mobile-banking-system-is-taking-wing-in-cambodia/"
+categories: ["Asia Pacific", "Corporate"]
+content_sha256: a09aa1ac8eb3f073927a14a624081b677a651178222b858b8c101b6581071653
+canonical: 22472-wing-cambodia-limited-specialised-bank-mobile-banking-system-is-taking-wing-in-c.json
+---
+
+# Wing (Cambodia) Limited Specialised Bank: Mobile Banking System is Taking Wing in Cambodia
+
+> Verbatim archived copy. Canonical machine record: `22472-wing-cambodia-limited-specialised-bank-mobile-banking-system-is-taking-wing-in-c.json`.
+
+<p style="text-align: justify;"><strong>In Cambodia, 16.5 percent of the population lives below the national poverty line, and 83 percent of citizens are still unbanked. The result is that critical financial services, such as sending money to relatives, can sometimes be impossible.</strong></p>
+<img class="aligncenter size-large wp-image-22473" src="https://cfi.co/wp-content/uploads/2022/07/Wing-Cambodia-1024x616.jpg" alt="Wing Cambodia" width="900" height="541" />
+<p style="text-align: justify;">Since its launch in 2009, <span style="text-decoration: underline;"><a href="https://cfi.co/menu/corporate/2018/08/wing-cambodia-limited-specialised-bank-bringing-the-unbanked-online/">Wing</a></span> has worked to create a mobile banking ecosystem that is tailored to the needs of the Cambodian people, even in remote areas. It has created a network of more than 6,000 Wing Cash Express (WCX) agents who act as facilitators to the banking process. These agents define the Mobile Financial Services landscape in Cambodia, and through them Wing touches the lives of more than 4.5m customers.</p>
+<p style="text-align: justify;">In 2018, Wing Agents’ revenue increased by 18 percent. Wing believes in diversity, and 60 percent of its WCX agents are women, who are now financially independent and able to take care of their families.</p>
+<p style="text-align: justify;">The company’s goal has been to ease financial access to opportunities for underprivileged sections of the community, allowing them to participate in the country’s economic development.
+Besides providing basic services such as money transfers, bill payments, phone top-ups, and online and offline cash payments, Wing offers outbound money transfer services to the Philippines, Vietnam and Thailand. This has enabled foreigners and migrant workers to make secure transfers in real time using the Wing Money App.</p>
+<p style="text-align: justify;">Wing is the first payment services provider in South East Asia to acquire Mastercard Worldwide Merchant online services. Its Online Mastercard allows both the banked and unbanked to participate in e-commerce, from buying an online game to ordering a book from Amazon. This product, along with Wing’s digital payment system using QR codes, has enabled some 30,000 small enterprises to grow their business.</p>
+<p style="text-align: justify;"><span style="text-decoration: underline;"><a href="https://www.wingmoney.com/">Wing</a></span>’s “physical” Mastercard provides customers with rewards programmes at more than 8,000 points-of-sale in Cambodia, and in 200 other countries.</p>
+<p style="text-align: justify;">In 2018, Wing donated $35,000 to the Garments Manufacturers Association in Cambodia. In collaboration with GoGreen Cambodia, it has mobilised its agent network, staff and customers to volunteer on World Clean-up Day to clear waste build-up in cities.</p>
+<p style="text-align: justify;">CEO Manu Rajan says Wing places great emphasis on outstanding performance to sustain innovative financial solutions. “Financial literacy is the driving force for financial inclusion,” he says, “and Wing has taken up several initiatives to reach out to it customer bases, with special focus to underprivileged sections of the community.</p>
+<p style="text-align: justify;">“We communicate details of our products and services with hands-on demonstrations, and we believe in giving back to the community.”</p>
