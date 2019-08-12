@@ -1,0 +1,24 @@
+---
+id: 15703
+title: "Ronald Gutiérrez — Experience Pays Off for Banco Ganadero CEO"
+award_year: 2019
+published: 2019-08-12 13:44:17
+published_gmt: 2019-08-12 12:44:17
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2019/08/ronald-gutierrez-experience-pays-off-for-banco-ganadero-ceo/"
+categories: ["Corporate Leaders"]
+content_sha256: ff2eb29ffea8c9d94224149306c329c5c171de52018ac3ac7e7b75079f6d7c2c
+canonical: 15703-ronald-gutierrez-experience-pays-off-for-banco-ganadero-ceo.json
+---
+
+# Ronald Gutiérrez — Experience Pays Off for Banco Ganadero CEO
+
+> Verbatim archived copy. Canonical machine record: `15703-ronald-gutierrez-experience-pays-off-for-banco-ganadero-ceo.json`.
+
+[caption id="attachment_15704" align="alignright" width="300"]<img class="wp-image-15704 size-medium" title="J Ronald Gutiérrez López, General Manager " src="https://cfi.co/wp-content/uploads/2020/06/General-Manager-J-Ronald-Gutiérrez-López-300x218.jpg" alt="J Ronald Gutiérrez López, General Manager " width="300" height="218" /> <strong>General Manager:</strong> J Ronald Gutiérrez López[/caption]
+<p style="text-align: justify;"><strong>J Ronald Gutiérrez López is a renowned Bolivian businessman and economist, born in Santa Cruz de la Sierra, Bolivia. </strong></p>
+<p style="text-align: justify;">He has more than 30 years of experience in the banking sector — 16 of them dedicated to leading Banco Ganadero. In February 2003, Gutierrez assumed the position of general manager.</p>
+<p style="text-align: justify;">In 2016, the businessman was elected to preside over the <a href="https://www.asoban.bo/" target="_blank" rel="noopener noreferrer">Association of Private Banks of Bolivia</a> (ASOBAN) in the city of La Paz; he continued in that role until last year. ASOBAN is a non-profit organization comprising the top banks that make up the Bolivian financial structure. Its objective is to propose, design and programme policies to promote the development of financial services.</p>
+<p style="text-align: justify;">J Ronald Gutiérrez López graduated in Economics from the State University of Campinas (Unicamp) in Sao Paulo, Brazil, where he also attained a Masters in Economics. He has a specialty in strategic planning from the University of the North in Illinois, US, and another in senior management from the Incae Business School in Costa Rica and Miami. He has participated in conferences and congresses in Bolivia, the US, Europe and Asia.</p>
+<p style="text-align: justify;">Gutiérrez is described as an optimistic, moderate and simple person — qualities that have contributed to his successful career over the past three decades. Gutiérrez reaffirms his commitment to the sector and promotes education and financial inclusion programmes to contribute to the economic development of the Bolivian population.</p>
+<p style="text-align: justify;">Through ASOBAN, he has worked to better represent an important sector for national development. He has fulfilled a valuable interlocutor role with authorities, and shown the ability to unify a vision that promotes stability and growth.</p>
