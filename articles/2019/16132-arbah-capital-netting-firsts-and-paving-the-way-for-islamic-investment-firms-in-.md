@@ -1,0 +1,39 @@
+---
+id: 16132
+title: "Arbah Capital: Netting ‘Firsts’ and Paving the Way for Islamic Investment firms in KSA"
+award_year: 2019
+published: 2019-10-03 14:28:40
+published_gmt: 2019-10-03 13:28:40
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2019/10/arbah-capital-netting-firsts-and-paving-the-way-for-islamic-investment-firms-in-ksa/"
+categories: ["Corporate"]
+content_sha256: 227d236f904bed6c0ab921008164d10f7e821c16f0df648e88076ad4ab43d53d
+canonical: 16132-arbah-capital-netting-firsts-and-paving-the-way-for-islamic-investment-firms-in-.json
+---
+
+# Arbah Capital: Netting ‘Firsts’ and Paving the Way for Islamic Investment firms in KSA
+
+> Verbatim archived copy. Canonical machine record: `16132-arbah-capital-netting-firsts-and-paving-the-way-for-islamic-investment-firms-in-.json`.
+
+<p style="text-align: justify;"><strong>Arbah Capital is the first Islamic boutique Investment firm, which was established in the Eastern Region of Kingdom of Saudi Arabia.</strong></p>
+
+
+[caption id="attachment_16133" align="aligncenter" width="900"]<img class="size-large wp-image-16133" src="https://cfi.co/wp-content/uploads/2020/07/London-Regent-Crescent-1024x719.jpg" alt="London: Regent Crescent" width="900" height="632" /> <strong>London:</strong> Regent Crescent[/caption]
+<p style="text-align: justify;">It started its business operations in 2008, and was licensed by the Capital Market Authority (CMA) in the KSA as a Closed Saudi Joint Stock firm. It is headquartered in Dammam with a paid-up capital of 220 million Saudi Riyals ($58.7m). The firm prides itself on being fully Shari’ah-compliant.</p>
+<p style="text-align: justify;">Arbah Capital has the complete spectrum of investment services, and has been granted licences to operate in Dealing as Principal, Agent and Underwriter, Managing Investment Funds and Discretionary portfolios, as well as Arranging, Advising and Custody Services. The firm’s principal activities include asset management, real estate investment, private equity and corporate finance, brokerage services, wealth management, custody and advisory services.</p>
+
+<blockquote>
+<h3>"Arbah Capital successfully raised £26.5m mezzanine finance for the development of 18th Century masterpiece, Regent Crescent, in London."</h3>
+</blockquote>
+<p style="text-align: justify;">The firm has steadily grown by acquiring various prime assets and activating new business lines. The firm’s management possesses the set of traits required for any investment firm to accomplish its aim and register persist growth even against all the odds.</p>
+<p style="text-align: justify;">Since establishment Arbah Capital has persistently strengthened all its revenue generating arms. The innovation has remained the continuous process for the firm. Over the years, Arbah Capital has successfully adapted to environmental changes, accepting all challenges with vigour — and effective responses.</p>
+<p style="text-align: justify;">Arbah Capital’s objectives align with the investment needs of clients. The widely accepted “IWM” processes are used by Arbah Capital are holistic, and take into account the investor’s financial viewpoint while adhering to Shariah standards.</p>
+<p style="text-align: justify;">The company is on an ambitious and visionary mission to offer outstanding investment solutions, with strategies tailored for clients and all efforts directed towards impressive risk adjusted returns. It manages goals which are compatible with client profiles and financial ambitions.</p>
+<p style="text-align: justify;">Arbah Capital was one of the first investment firm in the Kingdom of Saudi Arabia to launch an IPO fund, which has outperformed similar funds over the years. It has been recognised as the best IPO fund of 2015 and the best IPO fund over three-year period.</p>
+<p style="text-align: justify;">A Discretionary Portfolio Management service is provided through sophisticated structured mechanism; advanced financial tools and best industry practices ensure that the objectives of investors are met. Arbah Brokerage Services has been one of the most stable revenue contributing segments of the firm, providing global capabilities with the concept of “Access the World from anywhere”.</p>
+
+
+[caption id="attachment_16134" align="aligncenter" width="900"]<img class="wp-image-16134 size-large" src="https://cfi.co/wp-content/uploads/2020/07/The-Sauchiehall-Building-image8-1024x736.jpg" alt="Glasgow: Sauchiehall" width="900" height="647" /> <strong>Glasgow:</strong> Sauchiehall[/caption]
+<p style="text-align: justify;">The real estate investment arm was activated soon after the incorporation of the firm. Arbah Capital initiated exclusive real estate deals, encompassing project acquisitions and development. The real estate investment focus now has global exposure. A recently acquired iconic property, Sauchiehall Glasgow — worth £59.5m — was a milestone achievement. The acquisition is in-line with the firm’s strategy of targeting quality assets to establish broad base of income yielding real estate assets. The Sauchiehall Building is the anchor building in Sauchiehall Street, Glasgow, UK. Sauchiehall Street forms part of the ‘Golden Z’ of the 3 most prime retail streets in Glasgow City Center, and has the largest footfall of 16 million p.a.</p>
+<p style="text-align: justify;">Private Equity and Corporate Finance is relatively a new addition to the firm, but a rapidly growing one. It has made the successful acquisition of state-of-the-art projects and effective fundraising part of the equity package. Arbah Capital successfully raised £26.5m mezzanine finance for the development of 18th Century masterpiece, Regent Crescent, in London. The deal serves as the beginning of new era for Arbah Capital as it is the first ever deal of the firm outside the region. Arbah Capital will be looking forward to expand its footprints as its building block of the growth spree. The required momentum has been gained to further expand our portfolio through similar acquisitions.</p>
+<p style="text-align: justify;">Advisory services is emerging as a vital segment by strengthening the firm’s foothold. It has acted in the capacity of financial advisor to select clients and works with clients as an extension of their management to advise them on complex investments, credit arrangements, profitability analysis, monitoring of portfolios and recommendations on organizational restructuring.</p>
