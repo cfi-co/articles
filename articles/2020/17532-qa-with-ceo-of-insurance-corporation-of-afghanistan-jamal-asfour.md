@@ -1,0 +1,45 @@
+---
+id: 17532
+title: "Q&A with CEO of Insurance Corporation of Afghanistan: Jamal Asfour"
+award_year: 2020
+published: 2020-01-01 13:15:32
+published_gmt: 2020-01-01 13:15:32
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2020/01/qa-with-ceo-of-insurance-corporation-of-afghanistan-jamal-asfour/"
+categories: ["Corporate"]
+content_sha256: c21b4d1d4f8b81b9157fac9daed56b0329328d94043484ebbaa8ab2cc244a9ce
+canonical: 17532-qa-with-ceo-of-insurance-corporation-of-afghanistan-jamal-asfour.json
+---
+
+# Q&A with CEO of Insurance Corporation of Afghanistan: Jamal Asfour
+
+> Verbatim archived copy. Canonical machine record: `17532-qa-with-ceo-of-insurance-corporation-of-afghanistan-jamal-asfour.json`.
+
+[caption id="attachment_17533" align="alignright" width="262"]<img class="size-medium wp-image-17533" src="https://cfi.co/wp-content/uploads/2020/10/CEO-Jamal-Asfour-262x300.jpg" alt="CEO: Jamal Asfour" width="262" height="300" /> <strong>CEO:</strong> Jamal Asfour[/caption]
+<p style="text-align: justify;"><strong>What excited you about your earlier career, and what excites you about the business you now lead?</strong>
+Jamal Asfour: I started my career at Jordan Insurance (JIC) in my home country, Jordan. The interesting aspect of the market was the intense competition. A market player would need to always go for the extra mile in customer servicing standards in order to retain business and grow. This allowed me to learn how to act in the best interests of a client by putting myself in a client’s shoes.</p>
+<p style="text-align: justify;">While I was head of BD and research at JIC, we encountered an interesting investment opportunity in Iraq which led to the establishment of the Asia Insurance Company (with other Iraqi shareholders). The Iraqi market had no compulsory insurances in place so we had to work from scratch. We launched the first medical insurance programme in the country, partnering with leading reinsurer Munich Re.</p>
+<p style="text-align: justify;">The tenure in Iraq was very successful and the company is respected as the leading private insurer in the country.</p>
+<p style="text-align: justify;">Being tagged as the frontier person was not coincidental; I moved to the Insurance Corporation of Afghanistan (ICA) earlier this year. I saw Afghanistan as an interesting country to apply my expertise. It’s quite similar to Iraq in terms of being war-torn.</p>
+<p style="text-align: justify;">The most exciting element when starting in a new market is achievements that come through adopting benchmarking principles. I researched and compared various countries’ economic progress in insurance across continents that had allowed some markets to quadruple in size in short time frames. The GCC market achieved 300 percent growth from 2006 to 2016, attributable to various factors. Those factors will be studied for applicability from several angles, and the right solution will be tailored to suit Afghanistan’s situation.</p>
+<p style="text-align: justify;">InFrontier, a major equity fund (partially owned by CDC Group) invested in ICA, and there are plans to expand geographically — which is aligned with my ambitions.</p>
+<p style="text-align: justify;"><strong>What is special about the management style at your organisation, the team you lead and the workforce?</strong>
+JA: Any organisation’s team members share the same challenge, so I adopt the concept of Peter Drucker (Management by Objectives MBO), starting with the end in mind. We all work as one unit to achieve the desired objective of sustainable and scalable net profitability.</p>
+<p style="text-align: justify;">At ICA, we believe an ‘’open door’’ policy is a must for full transparency and openness with team members so common goals can be effectively achieved.</p>
+<p style="text-align: justify;"><strong>How would you characterise prospects for your industry, and what are the key challenges facing it?</strong>
+JA: Afghanistan is one of the world’s smallest countries in terms of insurance, so the potential is immense. But various challenges exist, especially the political situation — it’s still considered a high conflict zone. Through peace, I believe all sectors will gain. Afghanistan, according to US research, has more than $1tn in untapped resources. Investors are currently reluctant to get involved due to the situation. I believe Afghanistan will have the world’s highest economic growth percentage for several years if the peace deal goes through.</p>
+<p style="text-align: justify;">This will affect all industries, and the Insurance sector could grow at triple-digit rates, at least for a short time. Some legal challenges exist that hinder market growth, and we are advising the government on these, in line with international best practice.</p>
+<p style="text-align: justify;"><strong>What are the personal and business strengths that qualify you as a corporate leader?</strong>
+JA: As Sun Tzu wrote in The Art of War, “In the midst of chaos, there is also opportunity.” That reflects my personality of working in conflict zones. Adopting the various strategies of Sun Tzu in running a business operation proved to be very successful.</p>
+<p style="text-align: justify;">My analytical and financial skills enable me to make decisions more effective through building various risk-management scenarios — using Sun Tzu’s rules of assessment, planning and combat in the market place.</p>
+<p style="text-align: justify;"><strong>What are your short-term hopes for the future of your business, and for the industry as a whole?</strong>
+JA: I look towards seeing more transparency in the insurance industry in Afghanistan, as unfortunately we still do not have market statistics to benchmark ourselves with others, and see how the industry as whole is progressing.</p>
+
+<h3 style="text-align: justify;">A Track Record for Delivering Results</h3>
+<p style="text-align: justify;">ICA chief executive Jamal Asfour joined the company in early 2019, bringing with him more than 14 years of insurance experience from across the MENA region.</p>
+<p style="text-align: justify;">He is a results-orientated CEO with an enviable track record for delivering strategic, technical and operational value. Prior to joining ICA, Asfour headed the business development, planning and research departments at Jordan Insurance Company, a leading Jordanian insurer with branches and interests in the UAE, Kuwait, Saudi Arabia, Iraq and Yemen.</p>
+<p style="text-align: justify;">In 2011, he was appointed CEO of Asia Insurance in Iraq, and led the company to become the country’s largest and most reputable private Insurer. For three consecutive years, Asfour was named as one of the 50 most powerful individuals in the MENA insurance industry.</p>
+<p style="text-align: justify;">Jamal Asfour graduated from the University of Kent in Britain with honours in Accounting and Finance.</p>
+
+<h3 style="text-align: justify;">About ICA</h3>
+<p style="text-align: justify;">The insurance Corporation of Afghanistan (ICA) is the leading &amp; the 1st established (since 2007) insurer in Afghanistan. ICA won the CFI.co Best insurance Company in Afghanistan for the year 2019 in addition to luring the MENA insurance review newcomer of the year award earlier this year. ICA is the preferred local partner of various international insurers which simply solidifies its position as trusted insurance partner that operates according to International best practices. ICA is proud of it's international partnerships with major World Class Reinsurance players in the Lloyds market as well as the likes of Swiss Re &amp; Hannover Re. It places it's reinsurance business through strong ties with leading reinsurance brokers such as Marsh, Aon, Willis and Lockton offering additional peace of mind to it's numerous stakeholders.</p>
