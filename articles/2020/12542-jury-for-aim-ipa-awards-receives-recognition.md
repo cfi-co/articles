@@ -1,0 +1,25 @@
+---
+id: 12542
+title: "Jury for AIM IPA Awards Receives Recognition"
+award_year: 2020
+published: 2020-01-03 13:00:12
+published_gmt: 2020-01-03 13:00:12
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/events/2020/01/jury-for-aim-ipa-awards-receives-recognition/"
+categories: ["Events"]
+content_sha256: e30524a6be209fad340ff6f771ecddde4d3ac0016b832f7198277349bf2696c4
+canonical: 12542-jury-for-aim-ipa-awards-receives-recognition.json
+---
+
+# Jury for AIM IPA Awards Receives Recognition
+
+> Verbatim archived copy. Canonical machine record: `12542-jury-for-aim-ipa-awards-receives-recognition.json`.
+
+<p style="text-align: justify;">The esteemed jury members for the AIM 2018’s Investment Promotion Agency (IPA) awards receives recognition for their kind support when the final winners results are presented at the gala ceremony at the Armani hotel at the The Burj Khalifa (in Dubai on April 9<sup>th</sup>, 2018).</p>
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-12544" src="https://cfi.co/wp-content/uploads/2018/05/AIM2018.jpg" alt="" width="1000" height="541" /></p>
+<p style="text-align: justify;">Jury members include:</p>
+<p style="text-align: justify;">Mr. Jamal Saif Al Jarwan, <em>Secretary General of UAE International Investors Council</em></p>
+<p style="text-align: justify;">Mr. Bostjan Skalar, <em>Executive Director &amp; CEO of WAIPA</em></p>
+<p style="text-align: justify;">Mr. Andreas Dressler, <em>executive from FDI Advisory</em></p>
+<p style="text-align: justify;">Mr. Kai Hammerich, <em>former WAIPA president; now president of KA Foreign Investment Co.</em></p>
+<p style="text-align: justify;">Dr. Douglas van den Berghe, <em>CEO of Investment Consulting Associates (ICA)</em></p>
