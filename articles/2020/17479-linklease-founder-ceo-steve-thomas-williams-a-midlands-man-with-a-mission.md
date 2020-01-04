@@ -1,0 +1,30 @@
+---
+id: 17479
+title: "Linklease Founder & CEO Steve Thomas-Williams: A Midlands Man with a Mission"
+award_year: 2020
+published: 2020-01-04 12:44:14
+published_gmt: 2020-01-04 12:44:14
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2020/01/linklease-founder-ceo-steve-thomas-williams-a-midlands-man-with-a-mission/"
+categories: ["Corporate Leaders"]
+content_sha256: 6e05c9bd4c6bbf4fd52076b986a2f418db949597fea82d94e2f595e8e909bc20
+canonical: 17479-linklease-founder-ceo-steve-thomas-williams-a-midlands-man-with-a-mission.json
+---
+
+# Linklease Founder & CEO Steve Thomas-Williams: A Midlands Man with a Mission
+
+> Verbatim archived copy. Canonical machine record: `17479-linklease-founder-ceo-steve-thomas-williams-a-midlands-man-with-a-mission.json`.
+
+[caption id="attachment_17480" align="alignright" width="300"]<img class="size-medium wp-image-17480" src="https://cfi.co/wp-content/uploads/2020/10/Linklease-Founder-and-CEO-Steve-Thomas-Williams-300x217.jpg" alt="Founder &amp; CEO: Steve Thomas-Williams" width="300" height="217" /> <strong>Founder &amp; CEO:</strong> Steve Thomas-Williams[/caption]
+<p style="text-align: justify;"><strong>Steve Thomas-Williams is not just another copy-paste banker who has followed a well-trodden path to running financial institutions in the Middle East.</strong></p>
+<p style="text-align: justify;">He grew up in the industrial heartland of the UK and left school at 16 to join the local branch of Lloyds Bank. He was raring to get into the business world.</p>
+<p style="text-align: justify;">Fast-forward 16 years to 2004. Having completed almost every role in retail and commercial banking, Thomas-Williams had climbed the ladder to become the COO and board member of Lloyds Bank in Dubai. There he worked with Emaar &amp; Nakheel to pioneer mortgages in the UAE as expat-owned property became available. He completed the first mortgage-backed property sale for an overseas bank.</p>
+<p style="text-align: justify;">Several innovations later (in the fields of credit cards and internet banking), Thomas-Williams saw the region had an appetite for global best-practice — and this was something he understood from his grassroots beginning.</p>
+<p style="text-align: justify;">Over the next four years, he grew the consumer and business banking sector from a single branch to a multi-branch operation spread across the Middle East.</p>
+<p style="text-align: justify;">In 2007, he became CEO of Gulf Finance. He delivered strong results and the company won many awards during his tenure. In 2013, Steve Thomas-Williams was voted one of the Top 50 Influential Brits in the UAE by Arabian Business.</p>
+<p style="text-align: justify;">In 2014 he set up <a href="https://cfi.co/menu/corporate/2021/07/linklease-bridging-the-funding-gap-with-innovation-and-a-good-eye-for-unnoticed-opportunities/">Linklease</a> with his wife Claire — also a senior banking executive — and colleagues Edward Allely, Mathew Kuban and Czes Brodalka.</p>
+<p style="text-align: justify;">The plan was to bridge the gap between the demand for equipment from SMEs in the UAE and the appetite for global investment into asset-backed structures. It’s a plan the players are all well qualified to perform. Linklease has working partnerships with companies such as Oracle, BLME, Aston Martin and Zoomlion to provide leasing solutions across the Middle East.</p>
+<p style="text-align: justify;">The scale of opportunity for equipment-leasing in the UAE and surrounding region is daily motivation the Linklease CEO. On one day he’ll be dealing with a clean energy bio-diesel business, looking at acquiring refining machinery, the next purchasing vital healthcare equipment for a hospital.</p>
+<p style="text-align: justify;">Linklease has a pioneering multi-sector operation in the UAE, with operations now expanding into Saudi Arabia, India and Africa.</p>
+<p style="text-align: justify;">Thomas-Williams is a former director of business development for the British Business Group UAE, and was the contributing editor for a nationally acclaimed book, Sink or Swim. The book explores the lessons learnt from businesses that survived the UAE economic downturn in 2009.</p>
+<p style="text-align: justify;">He’s come a long way from his origins in the industrial Midlands, and is well equipped to deal with the challenges faced by companies growing in the UAE, as the country goes through its own growth revolution.</p>
