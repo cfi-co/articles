@@ -1,0 +1,32 @@
+---
+id: 17435
+title: "SID Bank: Engine of Slovene Economy Maintains Its Green Focus"
+award_year: 2020
+published: 2020-01-05 11:57:02
+published_gmt: 2020-01-05 11:57:02
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2020/01/sid-bank-engine-of-slovene-economy-maintains-its-green-focus/"
+categories: ["Corporate"]
+content_sha256: 59a19de5125b1e7d87f827dc30693d2256011a3db0fdb82646168ee04d0c774b
+canonical: 17435-sid-bank-engine-of-slovene-economy-maintains-its-green-focus.json
+---
+
+# SID Bank: Engine of Slovene Economy Maintains Its Green Focus
+
+> Verbatim archived copy. Canonical machine record: `17435-sid-bank-engine-of-slovene-economy-maintains-its-green-focus.json`.
+
+[caption id="attachment_17436" align="alignright" width="300"]<img class="size-medium wp-image-17436" src="https://cfi.co/wp-content/uploads/2020/10/IMG_5345-foto-Barbara-Zajc-300x200.jpg" alt="President: Sibil Svilan" width="300" height="200" /> <strong>President:</strong> Sibil Svilan[/caption]
+<p style="text-align: justify;"><strong>Slovene Export and Development Bank is a national promotional, development and export bank, as well as an export credit agency.</strong></p>
+<p style="text-align: justify;">According to its mission and mandate, sustainability is one of SID bank’s main objectives. It acts with responsibility towards its stakeholders, as well the shareholder, society and environment. Environmental responsibility is a major challenge for modern society, and SID bank has influenced green and circular economy implementation since 2010 through its financial services.</p>
+<p style="text-align: justify;">SID Bank is owned by the Republic of Slovenia and provides long-term financial services for supplementing financial markets with the emphasis strengthening the Slovenian economy, creating jobs and ensuring sustainable development.</p>
+<p style="text-align: justify;">With the balance sheet of €2.5bn, €420m capital and €12m profit in 2018, SID Bank’s main objective is to fill gaps and intervene in the market by providing commercial banks and insurance companies with financial and insurance instruments such as long-term and other loan facilities such as mezzanine, various risk-sharing schemes and non-marketable insurance and equity financing. It also provides financing within the framework of the Investment Plan for Europe. Financing for developmental, environmental, infrastructural, RDI and other projects is made available to companies of all sizes. This comes either directly or through financial intermediaries (on-lending) with a special focus on SMEs, municipalities, research and educational institutions, and legal entities that qualify as eligible borrowers under several dedicated programmes.</p>
+<p style="text-align: justify;">The new loan programmes financing in 2018 exceeded €400m for 2,200 companies, mainly SMEs.</p>
+<p style="text-align: justify;">The provision of modern financial services and tailor-made solutions with favourable conditions is motivated by SID Bank’s moto, “Ideas beyond frontiers”. It relies on its funding instruments and conditions, close co-operation with other national and multilateral development financial institutions, ministries, state-owned funds and other stakeholders. Particular attention is paid to the proper qualitative risk assessment of all projects which ensures adequate funding conditions.
+This includes environmentally friendly support for society and production by means of Green Bond issuance in 2018, through which SID Bank intends to provide €75m for environmental protection, renewable energy sources, energy and material efficiency as well as environmentally friendly products and services in the next three years.</p>
+<p style="text-align: justify;">Financing for projects entailing the energy-efficient reconstruction of public buildings and sustainable urban development projects contributes to energy efficiency across all sectors. Its support of the revitalisation of urban brownfields was enabled by ESIF funds, with SID Bank acting as the Fund-of-Funds manager.</p>
+<p style="text-align: justify;">Appropriate financing and insurance services allow exporters risk mitigation and facilitate stable expansion in foreign markets.</p>
+<p style="text-align: justify;">SID Bank’s ability to provide coverage for projects with mid- to long-term maturity — not covered by commercial banks and insurance companies — supports the internationalisation of Slovenian companies. As the national export credit agency acting on behalf of the Republic of Slovenia, SID Bank provides export credit and investment insurance, reducing the risks incurred by Slovenian companies operating in foreign markets. SID Bank also provides insurance to commercial banks and reinsurance to insurance companies. SID Bank Group has insured and financed international commercial transactions of Slovenian companies for €1bn and covered 20 percent of Slovenian export in more than 100 countries.</p>
+<img class="aligncenter size-large wp-image-17437" src="https://cfi.co/wp-content/uploads/2020/10/IMG_6637-foto-Barbara-Zajc-1024x557.jpg" alt="SID Bank Team" width="900" height="490" />
+<h3 style="text-align: justify;">Corporate Social Responsibility</h3>
+<p style="text-align: justify;">As an initiator of the circular economy concept in Slovenia, the bank wants to see it implemented in practice. It formed its own methodology for evaluating the potential of companies for circular transformation.</p>
+<p style="text-align: justify;">The “Five Balance Sheets” business assessment is a comprehensive framework for evaluating businesses by considering environmental and social effects. The assessment of companies is valued and placed in interest rate policy to enable favourable financing for circular economy projects. of These companies generally have sustainable long-term business models and enable swift achievement of environmental, social and economic goals.</p>
