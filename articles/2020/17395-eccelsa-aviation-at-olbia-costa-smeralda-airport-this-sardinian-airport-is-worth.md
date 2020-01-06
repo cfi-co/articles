@@ -1,0 +1,33 @@
+---
+id: 17395
+title: "Eccelsa Aviation at Olbia Costa Smeralda Airport: — This  Sardinian Airport is Worth a Visit"
+award_year: 2020
+published: 2020-01-06 10:55:34
+published_gmt: 2020-01-06 10:55:34
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2020/01/eccelsa-aviation-at-olbia-costa-smeralda-airport-this-sardinian-airport-is-worth-a-visit/"
+categories: ["Corporate"]
+content_sha256: c1123361495f54c7ba6c210b15539333c345d063c9d72fc33d1b93d8c1025eac
+canonical: 17395-eccelsa-aviation-at-olbia-costa-smeralda-airport-this-sardinian-airport-is-worth.json
+---
+
+# Eccelsa Aviation at Olbia Costa Smeralda Airport: — This  Sardinian Airport is Worth a Visit
+
+> Verbatim archived copy. Canonical machine record: `17395-eccelsa-aviation-at-olbia-costa-smeralda-airport-this-sardinian-airport-is-worth.json`.
+
+<p style="text-align: justify;"><strong>The Olbia Costa Smeralda airport in Sardinia offers Eccelsa Aviation passengers a golden welcome to the famous Costa Smeralda.</strong></p>
+<img class="aligncenter wp-image-17396 size-full" title="Eccelsa Aviation, Olbia Costa Smeralda Airport" src="https://cfi.co/wp-content/uploads/2020/10/Olbia-Costa-Smeralda-Airport.jpg" alt="Eccelsa Aviation, Olbia Costa Smeralda Airport" width="881" height="411" />
+<p style="text-align: justify;">The airport caters to more 11,000 private jets winging into one of the world’s most beautiful stretches of coastline — and Eccelsa Aviation is the only certified FBO (fixed base operator) on the site.</p>
+<p style="text-align: justify;">Eccelsa’s leading-edge air terminal is a symphony in glass and steel, with a finish in beautiful local granite. It lies at the heart of Costa Smeralda, allowing passengers to easily reach it from anywhere on the island by car (or by helicopter, for the adventurous, impatient or well-heeled).</p>
+<p style="text-align: justify;">Looking at the black-and-white photos dating from the early 1960s, it’s clear that the designers of Costa Smeralda possessed a visionary capacity, as well as the ability to turn dreams into reality.</p>
+<p style="text-align: justify;">Eccelsa embraces its role of combining professionalism with a touch of charm to deal with a constant flow of discerning clients, and is controlled by the airport management company <a href="https://www.geasar.it/en" target="_blank" rel="noopener noreferrer">Geasar SpA</a>.</p>
+<p style="text-align: justify;">A customer-centric approach and a proactive problem-solving attitude empower the 45-strong professional team, led by general manager Francesco Cossu.</p>
+<p style="text-align: justify;">“We train hard and strive on a daily basis to meet new heights of service standards,” he says. “In the service industry, service is the key word.</p>
+<p style="text-align: justify;">“Our mission is to make sure that customers leave our premises happy and satisfied. Tourists are the real asset, not only for Eccelsa and the airport, but also for the entire territory”. Cossu has the passion and energy to tackle all requests to the Eccelsa Aviation operational desks.</p>
+<p style="text-align: justify;">The 4,000-square-metre terminal includes luxury brand outlets and companies offering exclusive services to <a href="https://cfi.co/africa/2020/11/how-the-super-rich-will-be-spending-their-money-as-wealth-trends-fluctuate/">high-net-worth individuals</a>. There is de Grisogono jewellery, Maori Yachts, high-end sunglasses, as well as selected delicacies and fine wines from Sardinia and the Italian mainland.</p>
+<p style="text-align: justify;">The terminal hosts the San Marino Aircraft Registry and the New Jet International and Bombardier sales offices. It features a formidable outer wing that allows guests to enter and exit the terminal directly from their aircraft. (In the “worst case” scenario, passengers will be ferried between terminal and aircraft in a sleek Audi automobile.</p>
+<p style="text-align: justify;">July and August are the busiest months for Costa Smeralda, with 3,000 to 4,000 arrivals and departures each month. The giant wing provides shelter even to large aircraft such as B737s, A319s and A320s.</p>
+<p style="text-align: justify;">Privacy, security and comfort are the star qualities of Eccelsa Aviation. The operation runs smooth and slick thanks to the Eccelsa team. The terminal’s concierge service can even organise activities — from horse trekking and private aircraft hire to limousine and sports car rentals and yacht charters.</p>
+<p style="text-align: justify;">Through its sister company Cortesa, Eccelsa also provides first-class in-flight catering, offering a menu of 120 dishes — from simple sandwiches to exotic lobster dishes — all complemented by fine wines.</p>
+<p style="text-align: justify;">The terminal has a coffee shop and bar, open all day for snacks, local dishes and drinks to occupy and satisfy those waiting for flights.</p>
+<p style="text-align: justify;"><a href="https://cfi.co/menu/lifestyle-menu/2022/05/eccelsa-aviation-preferred-access-to-costa-smeralda-you-are-entering-a-genuine-vip-zone/">Eccelsa Aviation</a> also offers line maintenance services and the option to shelter aircraft in the modern hangars for the duration of the owners’ stay in Olbia.</p>
