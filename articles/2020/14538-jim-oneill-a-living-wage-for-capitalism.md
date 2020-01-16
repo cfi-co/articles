@@ -1,0 +1,37 @@
+---
+id: 14538
+title: "Jim O’Neill: A Living Wage for Capitalism"
+award_year: 2020
+published: 2020-01-16 12:27:55
+published_gmt: 2020-01-16 12:27:55
+author: "CFI.co Editorial"
+url: "https://cfi.co/finance/2020/01/jim-oneill-a-living-wage-for-capitalism/"
+categories: ["Finance", "North America"]
+content_sha256: 384c9e6f6595f99391843cacb3289f57026eb36d19f97c04404c68c154fa2bb9
+canonical: 14538-jim-oneill-a-living-wage-for-capitalism.json
+---
+
+# Jim O’Neill: A Living Wage for Capitalism
+
+> Verbatim archived copy. Canonical machine record: `14538-jim-oneill-a-living-wage-for-capitalism.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-medium wp-image-14539" src="https://cfi.co/wp-content/uploads/2020/01/Capitalism-300x200.jpg" alt="Capitalism" width="300" height="200" />At 3.6%, unemployment in the United States remains near its lowest level since the late 1960s. There are even signs that people who had previously dropped out of the labour force are being attracted back into it as employers scour a tight labour market for the marginal employee. Consistent with this news, US Federal Reserve Chair Jay Powell has pointed out that wage gains are finally accruing to lower-paid workers.</strong></p>
+<p style="text-align: justify;">In another nod to lower-paid workers, in July, the US House of Representatives passed a bill to boost the federal minimum wage from $7.25 per hour to $15 per hour (an increase that would be phased in over seven years). But the legislation has no chance of passing the Republican-controlled Senate. Moreover, the Congressional Budget Office estimates that a $15 minimum wage would lead to job losses for 1.3 million lower-paid workers.</p>
+<p style="text-align: justify;">One heard similar objections in the United Kingdom back in the spring of 2016, when then-Prime Minister David Cameron’s government introduced its National Living Wage policy. Yet, over the past three years, there have been no signs of a reversal of employment gains. And in recent months, wage growth has started to pick up after a decade of stagnation, with the Resolution Foundation now predicting that real (inflation-adjusted) average weekly earnings in the UK could exceed their August 2007 peak of £513 ($660).</p>
+
+<blockquote>
+<h3>"Despite strong headline employment figures in the US, the UK, and other Western economies over the past decade, business investment spending has remained stubbornly weak, as have productivity and wage growth."</h3>
+</blockquote>
+<p style="text-align: justify;">While the topic has yet to feature explicitly in the UK election debate, both Labour and the Conservatives are pursuing programs to boost minimum wages further (they also seem to share the goal of increasing infrastructure spending). In late September, Chancellor of the Exchequer Sajid Javid announced that the minimum wage of £8.21 per hour for workers over 25 would be expanded to include all workers over 21. He also promised that by 2024, the minimum wage will have risen to two-thirds of median earnings. Not to be outdone, Labour has vowed to hike the minimum wage to £10 per hour if elected.</p>
+<p style="text-align: justify;">Predictably, these statements from both parties raised eyebrows in business circles, and led to warnings of future job losses. And yet I find myself thinking that a higher minimum wage might deliver benefits beyond what is captured in the traditional economic calculus. Given capitalism’s growing crisis of credibility, business leaders would do well to consider embracing such policies more enthusiastically.</p>
+<p style="text-align: justify;">As I have pointed out before, despite strong headline employment figures in the US, the UK, and other Western economies over the past decade, business investment spending has remained stubbornly weak, as have productivity and wage growth. These trends have coincided with a period of strong corporate profits and macroeconomic conditions that, in theory, should be favorable for investment.</p>
+<p style="text-align: justify;">Indeed, low interest rates, strong profits, and reduced corporate taxation would seem to be a perfect recipe for significantly higher investment spending. But instead, we have witnessed an acute increase in actual and perceived inequality, and a popular backlash against both capitalism and democracy across Western countries. Companies have not responded to the textbook stimuli for investment, either because they don’t see the long-term economic rationale for it, or because they are in less capital-intensive industries and simply do not think that they need any more buildings and equipment. The problem, of course, is that without investment, productivity is not likely to increase. And without productivity growth, there is little reason to expect sustainable wage growth.</p>
+<p style="text-align: justify;">Whatever the reasons for lagging investment, it is clear that public policy has a role to play here. If what we are witnessing is a market failure, it is both reasonable and appropriate for the state to step in and provide the needed investment spending – as both the Tories and Labour are suggesting they will do if they win the UK election.</p>
+
+
+[caption id="attachment_14540" align="alignright" width="224"]<img class="size-medium wp-image-14540" src="https://cfi.co/wp-content/uploads/2020/01/Jim-ONeill-224x300.jpg" alt="Author Jim O'Neill" width="224" height="300" /> <strong>Author:</strong> Jim O'Neill[/caption]
+<p style="text-align: justify;">But policymakers can also change the risk-reward calculus for business, and one way to do that is by significantly increasing the minimum wage. Higher nominal wages for low-paid workers can boost real earnings, increase consumer spending, and help make housing more affordable. And insofar as raising the minimum would increase companies’ wage bill, it would create a stronger incentive to replace labour with capital. That could result in reduced output and higher prices, but it could also lay the foundation for renewed productivity growth.</p>
+<p style="text-align: justify;">In any case, to those who would counter that companies cannot afford to accommodate such a policy-driven change, I would point out that since 2015, aggregate demand has remained strong enough for them to absorb wage increases easily enough. Should such a policy make companies realise that they have a social purpose that is greater than merely boosting next quarter’s earnings, so much the better. i</p>
+
+<h3 style="text-align: justify;">About the Author</h3>
+<p style="text-align: justify;"><strong>Jim O’Neill</strong>, a former chairman of Goldman Sachs Asset Management and a former UK Treasury Minister, is Chair of Chatham House.</p>
