@@ -1,0 +1,76 @@
+---
+id: 17510
+title: "PwC Bermuda: New Tech and Cybercrime Top List of Concerns in Reinsurance Survey"
+award_year: 2020
+published: 2020-01-23 13:04:20
+published_gmt: 2020-01-23 13:04:20
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2020/01/pwc-bermuda-new-tech-and-cybercrime-top-list-of-concerns-in-reinsurance-survey/"
+categories: ["CFI.co Meets", "Corporate", "Corporate Leaders"]
+content_sha256: bb4d96458f11bd288352e3f55c7c236114e707be5317a0aeb593fcd42a30ec10
+canonical: 17510-pwc-bermuda-new-tech-and-cybercrime-top-list-of-concerns-in-reinsurance-survey.json
+---
+
+# PwC Bermuda: New Tech and Cybercrime Top List of Concerns in Reinsurance Survey
+
+> Verbatim archived copy. Canonical machine record: `17510-pwc-bermuda-new-tech-and-cybercrime-top-list-of-concerns-in-reinsurance-survey.json`.
+
+[caption id="attachment_17511" align="alignright" width="300"]<img class="size-medium wp-image-17511" src="https://cfi.co/wp-content/uploads/2020/10/Arthur-_-Wightman-300x200.jpg" alt="Author: Arthur Wightman" width="300" height="200" /> <strong>Author:</strong> Arthur Wightman[/caption]
+
+<strong>The inability to deploy new technologies and the readiness to confront structural change top the list of risks — the banana skins — facing the global reinsurance industry.</strong>
+
+This is according to a biannual risk report by PwC. Entitled Reinsurance Banana Skins 2019, it reveals fears that the industry is grappling with legacy IT systems as new data sources proliferate.
+
+The second-biggest worry is cyber risk, because of the unknown liabilities of underwriting cyber policies, and the threat of cyberattacks against insurance companies that hold valuable data.
+
+Closely linked to these worries, the report notes, is the industry’s concern around change management. This reflects worries about insurance markets being upended by new technologies, and radical shifts in customer expectations.
+
+Technology has opened-up a proliferation of data from new sources — such as sensors and Internet of Things connectivity — while ushering-in ground-breaking advances in risk analytics. The results are revolutionising risk evaluation and prevention.
+
+The big risk for reinsurers was being left behind as the industry transforms, says Arthur Wightman, territory leader of PwC Bermuda, and insurance leader of PwC in the Caribbean. In this scenario, the front-runners recognise that talent and access to data are as important as the systems themselves in navigating change.
+<h3>Potential Vulnerabilities</h3>
+The inclusion of cyber risk so high on the list of banana skins reflects the accumulation of exposures and risk of unforeseen losses in portfolios on one hand, and the potential vulnerabilities within reinsurers’ digitalised operations on the other.
+
+“Successful technological transformation isn’t just a systems issue,” Wightman says. “It demands buy-in and upskilling throughout the organisation. The workforce needs to embrace change and see it as an opportunity.”
+
+The third-biggest concern on the list is climate change — which received its highest-ever score. The reinsurance industry expressed anxiety about the costs of mounting claims from more frequent and more severe natural disasters, and the prospect that some risks could become uninsurable.
+
+<img class="alignright  wp-image-17513" src="https://cfi.co/wp-content/uploads/2020/01/PwC-Bermuda-Top-Ten-Risks.jpg" alt="PwC-Bermuda-Top-Ten-Risks" width="329" height="553" />Rounding-out the top five is regulation risk, up from eighth place two years ago. This is largely due to concerns about a raft of new rules such as the EU General Data Protection Regulation and IFRS 17. The remainder of the top 10 mostly focus on operating risks.
+
+“The impact of climate change is at number three, a new entry in the top 20 and noticeably higher than for the insurance industry as a whole,” the report states. “From floods to wildfires, the frequency of events and the severity of reinsurers’ losses are mounting as once-sporadic events become almost commonplace.
+
+“Even greater risks lie ahead if climate change continues on its current trajectory. Through modelling of the vulnerabilities and their impact, reinsurers have a central role to play in strengthening prevention and resilience worldwide. The industry can also bring hard numbers to the debate over how to tackle this global threat.”
+
+Investment performance, at number six, reflects worries that low yields could encourage insurers to take greater investment risks to improve returns. Doubts were raised at number seven on the list — the industry’s ability to attract and retain talent, particularly in technical areas.
+
+Cost reduction (up two positions to 10) and reputation risk (up five to 13) both reflect the current mood. Political risk is also slightly higher at number nine, with protectionism, populism and trade wars of particular concern for the reinsurance industry.
+
+“Respondents were more sanguine about the macroeconomic environment (11) and interest rates (14), which were down significantly from 2017 — although the survey was taken early in 2019 before concern around current interest rate declined,” the report notes.
+
+In the bottom half of the table, governance risks were generally seen as under control, particularly corporate governance (18) and business practices (15) — although quality of management is more of a concern for the reinsurance industry. The bottom cluster — including social change (18), capital availability (19), and the UKs departure from the EU (20)—are largely unchanged.
+
+The survey also shows the extent to which the reinsurance industry shares risks with the broader insurance community of brokers, life companies, and other respondents.
+
+A key difference is that the reinsurance industry places more emphasis on the threat posed by climate change. The score assigned to this banana skin (3.86) is higher than the score of any other ranked by the non-reinsurance response.
+
+Technology and cyber risk are considered more urgent by the reinsurance industry. Regulation and investment performance are seen as slightly less worrying.
+
+The report also assesses reinsurance respondents on how prepared they feel the industry is to handle the identified risks. On a one-to-five scale (one bad, five good), they gave an average response of 3.17, which is higher than the average 2017response of 3.02. The broader insurance industry gave an average response of 3.11 this year (up from 3.02 in 2017).
+
+“If we look at the top five risks as a whole,” the report notes, “what’s striking is the extent to which they feed into each other — technology is driving change management risks, for example, just as data regulation and cyber threats are heightening technology risks.
+
+“This underlines the importance of looking at today’s fast-evolving risk landscape in the aggregate.”
+<h3>About the Author</h3>
+<strong>Arthur Wightman</strong> leads the Bermuda member firm of PwC International Limited (PwC-I). He is responsible for a leadership team whose job it is to sustain and enhance an inclusive, flexible and high performance culture that enables PwC's professionals to develop the leadership skills required to create lasting value for the companies, communities and broader stakeholders they serve. Arthur also serves on the executive leadership team of the member firms of PwC-I operating across the Caribbean region (Bermuda, Cayman, Barbados, Jamaica, British Virgin Islands, Bahamas and Turks &amp; Caicos).
+
+Arthur is also the Insurance Leader and overall Markets Leader of the member firms of PwC-I operating across the Caribbean region. He leads professionals to accomplish our purpose: to help our clients find solutions to their important problems and to work with them and our other stakeholders to build trust in society. Arthur is focused on helping companies to prepare for profound changes ahead and be equipped to seize opportunity. He has significant experience in serving large, multinational clients in various industries with a focus on Financial Services and specifically, the insurance, banking and asset management sectors. He also delivers services to public sector organisations. Arthur delivers a spectrum of services including audit, assurance, deals and consulting services.
+
+Arthur has extensive experience in delivering value to boards and executive management and has a strong track record in helping organizations to solve complex problems and realize opportunities through his extensive knowledge of issues, trends and challenges that businesses face.
+
+Throughout his career, he has served numerous global financial services clients. His public sector experience includes various Ministries of the Government of Bermuda, the Bermuda Hospitals Board and the America's Cup organisation responsible for delivering the 35th America's Cup. He has experience and relationships with the following regulators: Securities and Exchange Commission, Bermuda Monetary Authority, Financial Conduct Authority, Prudential Regulation Authority, Monetary Authority of Singapore, Swiss Financial Market Supervisory Authority, National Association of Insurance Commissioners and Public Company Accounting Oversight Board.
+
+Arthur is published and quoted in numerous local and international financial publications and is a frequent contributor to industry events. A thought leader, he has authored many PwC global financial services and insurance and reinsurance sector reports. More recently he has published thought leadership on blockchain in financial services and cyber. Arthur also speaks widely on and is a champion for diversity and inclusion in the workforce.
+
+Arthur serves and has served on several Boards of non-profits. He was the recipient of the Queen's Certificate and Badge of Honour in Her Majesty the Queen's New Years Honours, 2018. Arthur is a Fellow of the Institute of Chartered Accountants in England and Wales and member of the Chartered Professional Accountants of Bermuda.
+<h3>About PwC Bermuda</h3>
+PwC Bermuda is the largest professional services firm in Bermuda, specialising in insurance &amp; reinsurance, asset &amp; wealth management, banking, government &amp; public sector and private clients. They are part of a network of firms in 157 countries with more than 276,000 people who are committed to delivering quality in assurance, advisory and tax services. They help organisations and individuals create the value they’re looking for.
