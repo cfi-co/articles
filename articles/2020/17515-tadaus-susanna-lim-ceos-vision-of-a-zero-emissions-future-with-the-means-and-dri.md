@@ -1,0 +1,26 @@
+---
+id: 17515
+title: "Tadau's Susanna Lim: CEO’s Vision of a Zero-emissions Future, with the Means and Drive to Achieve It"
+award_year: 2020
+published: 2020-01-25 13:08:00
+published_gmt: 2020-01-25 13:08:00
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2020/01/tadaus-susanna-lim-ceos-vision-of-a-zero-emissions-future-with-the-means-and-drive-to-achieve-it/"
+categories: ["Asia Pacific", "Corporate", "Corporate Leaders"]
+content_sha256: 62426c5881c5a4de3bbc03b3a774dc564516304dbe5a848b7b7d1a5d4b79adf4
+canonical: 17515-tadaus-susanna-lim-ceos-vision-of-a-zero-emissions-future-with-the-means-and-dri.json
+---
+
+# Tadau's Susanna Lim: CEO’s Vision of a Zero-emissions Future, with the Means and Drive to Achieve It
+
+> Verbatim archived copy. Canonical machine record: `17515-tadaus-susanna-lim-ceos-vision-of-a-zero-emissions-future-with-the-means-and-dri.json`.
+
+[caption id="attachment_17516" align="alignright" width="300"]<img class="wp-image-17516 size-medium" title="Tadau CEO: Susanna Lim" src="https://cfi.co/wp-content/uploads/2020/10/Tadau-CEO-Susanna-Lim-300x219.jpg" alt="Tadau CEO: Susanna Lim" width="300" height="219" /> <strong>Tadau CEO:</strong> Susanna Lim[/caption]
+<p style="text-align: justify;"><strong>Malaysia’s <a href="http://www.tadau.com.my/" target="_blank" rel="noopener noreferrer">Tadau Energy</a> envisions a World without pollution, zero emissions, so that future generations can inherit a healthier planet and clean air. </strong></p>
+<p style="text-align: justify;">Susanna Lim is the founder and — since 2015 — CEO of <a href="https://cfi.co/menu/corporate/2020/01/tadau-energy-set-the-controls-for-the-heart-of-the-sun-ultimate-energy-solution-is-finding-traction/">Tadau Energy Sdn Tsb</a> (TESB). She believes in challenge limits, not limiting challenges, and has focused on strengthening its core business of renewable energy generation. Under her leadership, Tadau Energy forges ahead in the design, construction, commission, operation and maintenance of solar, wind and other sustainable power sources.</p>
+<p style="text-align: justify;">The company is a leader in the field in transforming energy generation through advances in connectivity, rural electrification and efficiency. Susanna Lim aspires to enhance innovation and technology while contributing to the nation’s economy. She is committed to achieving sustainable environmental and community development goals via clean energy and bio-agricultural practices.</p>
+<p style="text-align: justify;">Tadau has received numerous global awards. Hailed by the World Bank for its initiative and innovation, it was the first company in the World to issue a Green Sukuk valued at RM250m ($60m). That earned a coveted “Dark Green” certification from Norway’s Centre for International Climate and Environmental Research (CICERO).</p>
+<p style="text-align: justify;">“As the CEO, I am entrusted with the responsibilities on Tadau Energy’s strategy and other key policy of the company,” Lim says. “We are commited in delivering to all our stakeholders, investing in our employees, dealing ethically with our suppliers, and generating long-term value for shareholders who provide the capital that allows companies to invest, grow and innovate.”</p>
+<p style="text-align: justify;">Prior to her foray into renewable energy, Susanna Lim was managing director and founder of legal firm Susanna &amp; Lau Advocates; she has been a solicitor since 2002.</p>
+<p style="text-align: justify;">In those roles, Lim was responsible for M&amp;A and national development under Public Private Partnership. She graduated with a Bachelor of Law (Hons) from the University of London, and has a certificate of legal practice from the Legal Profession Qualifying Board, Malaysia. She was admitted as an advocate and solicitor of the High Court of Malaya and the High Court of Sabah and Sarawak.</p>
+<p style="text-align: justify;">“I always believe employees are the greatest assets to the company,” she says. “For success, company culture and empathy are very important. We combined global expertise to provide the know-how and technologies, and paired them with top-notch management professionals to achieve our goals.”</p>
