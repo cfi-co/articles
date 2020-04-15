@@ -1,0 +1,39 @@
+---
+id: 14926
+title: "SDG Lab at UN Geneva: Delivering the 2030 Agenda in Decade of Action Will Call for Co-operation and Courage"
+award_year: 2020
+published: 2020-04-15 14:44:43
+published_gmt: 2020-04-15 13:44:43
+author: "CFI.co Editorial"
+url: "https://cfi.co/europe/2020/04/sdg-lab-at-un-geneva-delivering-the-2030-agenda-in-decade-of-action-will-call-for-co-operation-and-courage/"
+categories: ["Europe", "Projects", "Sustainability"]
+content_sha256: 35eece08abfb8b97604e10500b73ca0350dd17bb32dcdeda2e2e5f97089691d2
+canonical: 14926-sdg-lab-at-un-geneva-delivering-the-2030-agenda-in-decade-of-action-will-call-fo.json
+---
+
+# SDG Lab at UN Geneva: Delivering the 2030 Agenda in Decade of Action Will Call for Co-operation and Courage
+
+> Verbatim archived copy. Canonical machine record: `14926-sdg-lab-at-un-geneva-delivering-the-2030-agenda-in-decade-of-action-will-call-fo.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-medium wp-image-14927" src="https://cfi.co/wp-content/uploads/2020/04/UN-SDG-Lab-Building-Bridges-300x200.jpg" alt="UN-SDG-Lab-Building-Bridges" width="300" height="200" />In 2020, to mark its 75th anniversary, the United Nations have initiated UN75, the largest and most inclusive global conversation on how to build a better future.</strong></p>
+<p style="text-align: justify;">The initiative intends to map out what works and what doesn’t within the framework of the 2030 Agenda for Sustainable Development. When calling for global participation in the conversation, UN Secretary-General António Guterres remarked that no country can solve the complex global challenges on its own. Participation is pivotal to shaping the future we want.</p>
+<p style="text-align: justify;">And 2020 will be a year of great importance: there are just 10 years left to achieve the 17 Sustainable Development Goals (SDGs) of the 2030 Agenda.</p>
+<p style="text-align: justify;">The goals, adopted by all countries in 2015, constitute a universal roadmap for the world and represent a shared commitment for people, planet and prosperity. Among its key aims, the 2030 Agenda includes bringing to life a low-carbon, climate-smart economy, ending extreme poverty and hunger, and promoting peace, just societies and gender equality. All of which must be accomplished within the next decade.</p>
+<p style="text-align: justify;">Doing so necessitates concrete action to be taken now to safeguard the progress made over the past five years.</p>
+<p style="text-align: justify;">To deliver on the 2030 Agenda, stakeholders, stretching across sectors, societies and countries, require greater mobilisation — a point made by UN Deputy Secretary-General, Amina J Mohammed, when briefing Member States on the Decade of Action in late 2019. She acknowledged that “game-changing transformation” has yet to occur. Gender inequality, the climate crisis, poverty and hunger, corruption and numerous other obstacles still haunt and hinder us.</p>
+
+<h3 style="text-align: justify;">Unpacking the Decade of Action</h3>
+<p style="text-align: justify;">Under the umbrella of the Decade of Action, the UN has identified three action points: mobilisation, ambition and concrete solutions. Governments and other actors need to showcase good practices and address their failures.
+These three action points resonate with the SDG Lab at UN Geneva, and strike at the chord of the Lab’s DNA. As a relative newcomer in the sustainable development space, the Lab acts by serving as a connector, an amplifier, a question-asker and an innovator.</p>
+
+<h3 style="text-align: justify;">The SDG Lab’s role</h3>
+<p style="text-align: justify;">The SDG Lab leverages the convening power of the UN. It brings together governments, actors from the UN system, civil society, academia and the private sector, and offers a neutral space to advance the SDGs. The role of the Lab is increasingly relevant in disseminating SDG solutions.</p>
+<p style="text-align: justify;">Among the key initiatives that the Lab has spearheaded is its work in connecting the expertise and resources of the finance and development communities. Development finance is taking a new turn. More investors are looking to drive capital for impact, and to integrate social and environmental aspects into their investment processes. Both communities acknowledge that much more can be achieved together than separately.</p>
+<p style="text-align: justify;">New sustainable finance projects have been developed in the Geneva ecosystem. One such project is the “Pipeline Builder” that aims to bridge the need for investment at country level with actors who want to drive more capital for greater impact. Another concept that is being explored is an initiative that would facilitate SDG financing by strategically utilising public and philanthropic capital to incentivise the mobilisation of additional private finance.</p>
+
+<h3 style="text-align: justify;">Bridges for sustainable finance</h3>
+<p style="text-align: justify;"><img class="size-medium wp-image-14928 aligncenter" src="https://cfi.co/wp-content/uploads/2020/04/Decade-of-Action-300x154.jpg" alt="Decade-of-Action" width="300" height="154" />In 2019, the SDG Lab, together with 50 partners, held Switzerland’s first-ever Building Bridges Week (<a href="http://buildingbridgesweek.ch" target="_blank" rel="noopener noreferrer">buildingbridgesweek.ch</a>). The event’s ambition was to help influential financial players gain exposure to sustainable development and insight into impactful investments.</p>
+<p style="text-align: justify;">The Week also tapped into the growing fatigue with the “business as usual” attitude. Many citizens have pressing demands for new investment models aligned with the 2030 Agenda. They want to see their money make a difference, as well as financial returns.</p>
+<p style="text-align: justify;">In the spirit of the Decade of Action, initiatives such as these help to mobilise the SDG actors of international Geneva and beyond, boost ambitions and provide SDG solutions.</p>
+<p style="text-align: justify;">In line with the momentum of UN75, the SDG Lab will continue to do its part to accelerate implementation of the goals.</p>
+<img class="aligncenter size-full wp-image-14929" src="https://cfi.co/wp-content/uploads/2020/04/UN75_blue_E.jpg" alt="" width="500" height="265" />
