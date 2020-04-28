@@ -1,0 +1,25 @@
+---
+id: 15065
+title: "Breakthrough Cancer Treatment Technology Established on All Continents"
+award_year: 2020
+published: 2020-04-28 14:33:03
+published_gmt: 2020-04-28 13:33:03
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2020/04/richard-hausmann-elekta-breakthrough-cancer-treatment-technology/"
+categories: ["CFI.co Meets", "Corporate Leaders"]
+content_sha256: ef0b70350b8ef29933884aa6bad7c165fa99d061fe488e0ad0de8de65a96c825
+canonical: 15065-richard-hausmann-elekta-breakthrough-cancer-treatment-technology.json
+---
+
+# Breakthrough Cancer Treatment Technology Established on All Continents
+
+> Verbatim archived copy. Canonical machine record: `15065-richard-hausmann-elekta-breakthrough-cancer-treatment-technology.json`.
+
+[caption id="attachment_15066" align="alignright" width="300"]<img class="wp-image-15066 size-medium" title="Richard Hausmann" src="https://cfi.co/wp-content/uploads/2020/04/CEO-Dr-Richard-Hausmann-300x200.jpg" alt="Richard Hausmann" width="300" height="200" /> CEO: Richard Hausmann[/caption]
+<p style="text-align: justify;"><strong>Richard Hausmann, PhD, took over as CEO of Elekta in June 2016, and has taken bold steps to introduce paradigm-shifting technologies into radiation oncology.</strong></p>
+<p style="text-align: justify;">Dr. Hausmann was instrumental in the final development, launch and commercial success of <a href="https://www.elekta.com/" target="_blank" rel="noopener noreferrer">Elekta Unity</a>, the world’s first high-field magnetic resonance imaging radiation therapy (MRgRT) system. Elekta Unity devices have since been sold and installed in medical centres around the world following its 2018 certification in the US and Europe.</p>
+<p style="text-align: justify;">“Our ambition is to offer solutions with greater precision to save lives and improve the quality of life of people with cancer. No imaging method is more precise than high field magnetic resonance – that is the basis of our Elekta Unity,” says Hausmann. “By working in close collaboration with our customers we continue to push the boundaries to create a future where all patients, no matter where they live, can benefit from precise and individually tailored radiotherapy treatments.”</p>
+<p style="text-align: justify;">He continued the development and visionary work of a global research consortium to speed up clinical research and establish guidelines on how to best use this new technology.</p>
+<p style="text-align: justify;">Under Hausmann’s leadership, <a href="https://cfi.co/europe/2020/04/real-cutting-edge-in-cancer-care-is-centred-on-radiation-therapy/">Elekta</a> has advanced its position as a leader in the digital health technology that is crucial to improving cancer survival. An example is MOSAIQ Plaza, a patient-centric, integrative ecosystem introduced in 2019. It is designed to manage a connected workflow for every moment of each patient’s journey, enhancing the experience, increasing the effectiveness of care delivery, and reducing physician burnout – a significant and growing challenge.</p>
+<p style="text-align: justify;">Despite the current challenges presented by COVID-19, Dr Hausmann says Elekta is committed to ensuring that business continues so that people can receive the radiation treatment they need, regardless of where in the world they live. “Indeed, our cloud-based and mobile software solutions enable our customers to perform critical tasks even during an essential complete lock down,” he says.</p>
+<p style="text-align: justify;">Richard Hausmann has a doctorate in theoretical nuclear physics from the University of Regensburg and, with almost three decades of global experience in the industry, has a solid track record of bringing clinical innovations to the market. He is known for his insights into customer and patient needs, creativity and strong implementation management with a focus on outcomes.</p>
