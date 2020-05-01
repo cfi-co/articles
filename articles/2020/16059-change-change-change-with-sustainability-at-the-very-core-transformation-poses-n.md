@@ -1,0 +1,56 @@
+---
+id: 16059
+title: "Change, Change, Change: With Sustainability at the Very Core, Transformation Poses No Threat"
+award_year: 2020
+published: 2020-05-01 19:08:49
+published_gmt: 2020-05-01 18:08:49
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2020/05/change-change-change-with-sustainability-at-the-very-core-transformation-poses-no-threat/"
+categories: ["Corporate"]
+content_sha256: 476e262328a280aab364613ae0a269fcff2fde7bd0375233c7ab2caa75f1f06b
+canonical: 16059-change-change-change-with-sustainability-at-the-very-core-transformation-poses-n.json
+---
+
+# Change, Change, Change: With Sustainability at the Very Core, Transformation Poses No Threat
+
+> Verbatim archived copy. Canonical machine record: `16059-change-change-change-with-sustainability-at-the-very-core-transformation-poses-n.json`.
+
+<p style="text-align: justify;"><strong>Business transformation requires a change-management strategy to align the people, processes, and technology initiatives of a company with its vision.</strong></p>
+<img class="aligncenter wp-image-16060 size-large" src="https://cfi.co/wp-content/uploads/2020/07/Max-Myanmar-1024x663.jpg" alt="Max Myanmar" width="900" height="583" />
+<p style="text-align: justify;">Corporate overhauls are ideally undertaken pre-emptively, but in practice it is more commonly a reaction to dynamic and challenging circumstances. With the mission of achieving a tangible improvement in an organisation and its trajectory, transformations are a fundamental and risk-laden “reboot”.</p>
+<p style="text-align: justify;">Such transformations should be bold and rapid. During usual business operations, some employees may find the process frustrating. To achieve a rapid result, management must minimise resistance.</p>
+
+<h3 style="text-align: justify;">Myanmar Reforms</h3>
+<p style="text-align: justify;">Since the re-opening of the Myanmar economy in 2011, the country has undergone significant economic, legislative and political reforms. It has made great strides in the past seven years and the results are commendable. The government is decidedly pro-business and is open to foreign investment.</p>
+<p style="text-align: justify;">To maintain momentum and build investor confidence, a clear and stable legal framework is crucial. A robust Companies Law can instill sound corporate practices that safeguard investors, creditors and other stakeholders – for SMES as well as for multilaterals and conglomerates.</p>
+
+<blockquote>
+<h3>"The group remains committed to the principle of the Universal Declaration of Human Rights and UN’s Global Compact."</h3>
+</blockquote>
+<p style="text-align: justify;">Key law reforms in Myanmar include that foreign investors will be able to own up to 35% of a local company before it is considered a ‘foreign’ company, giving greater scope for international investors to operate in Myanmar. More flexible capital structures and changes to share capital allow companies to raise or reduce capital, with fewer procedural requirements.</p>
+
+<h3 style="text-align: justify;">Max’s Sustainable Culture</h3>
+<p style="text-align: justify;">Max Myanmar Group, incorporated in 1993, has become a font of growth for people, stakeholders – and the country’s economy. Max Myanmar has made measurable progress and has become truly multi-disciplinary. It has an enviable track record in its various fields of work, and a reputation based on integrity and experience.</p>
+<p style="text-align: justify;">The group is strengthening itself as well as building a foundation for responsible business practice in Myanmar. Its aspiration to be a leading national institution has paid off, driving growth for stakeholders, and for the country as a whole. Max Myanmar Group has lived up to its potential and demonstrates the importance of acting responsibly. trates the importance of acting responsibly. Successfully set up Strategic Partnership with foreign partners in the area of logistics, manufacturing and insurance shows how the private sector can follow its lead in a way that is consistent with international best-practice.</p>
+<p style="text-align: justify;">Max Myanmar is committed to excellence in sustainability and corporate governance across each of its business segments: transport, trading, hotels, energy, agriculture, manufacturing, and logistics. Its has happily participated across the group in United Nations Global Compact since 2012, and has contributed to UNGC’s Myanmar network.</p>
+<p style="text-align: justify;">As a national pioneer of corporate sustainability, Max Myanmar proactively conducted an in-depth sustainability assessment of its own operations, with input from international experts. It also organised a sustainability seminar with its stakeholders. Max Myanmar’s engagement with corporate responsibility is one of long standing, and the group solidly upholds its reputation.</p>
+<p style="text-align: justify;">Max Myanmar strives for business success in ways that demonstrate respect and champion ethical values. As a responsible Myanmar organisation, it has always shown compassion and respect for people and planet. Long- and short-term impacts to the environment and community are taken into account in all business decisions.</p>
+<p style="text-align: justify;">The group remains committed to the principle of the Universal Declaration of Human Rights and UN’s Global Compact, the world’s largest corporate citizenship initiative. Max Myanmar aspires to be the first-choice company for employees and stakeholders, and a benchmark for excellence in corporate identity.</p>
+
+<h3 style="text-align: justify;">Initiated, Integrated, Innovated</h3>
+<p style="text-align: justify;">As part of its 2025 Sustainability Goals, Max Myanmar is focusing on Responsible Production for environmental protection, Innovative Application for lifestyles, and Socio-economic Contribution for society.</p>
+<p style="text-align: justify;">To ensure the group-wide spread of this culture, and to communicate the message to subsidiaries, there are three parts of reform process:</p>
+
+<ul style="text-align: justify;">
+ 	<li style="text-align: justify;">Business structure</li>
+ 	<li style="text-align: justify;">Finance structure</li>
+ 	<li style="text-align: justify;">Corporate foundation</li>
+</ul>
+<p style="text-align: justify;">These structures align with the group’s medium- to long-term targets and sustainability initiatives.</p>
+<p style="text-align: justify;">To reform the business structure, Max Myanmar is building trust, worthiness and brand value as a unified group. It aims to raise community awareness and engagement while boosting cost-efficiency through productivity. It encourages confidence in technology through its integrated reporting system, which ensures transparency for shareholders. This is a group that prides itself on delivering innovations and services that advance general wellbeing.</p>
+
+<h3 style="text-align: justify;">Looking Forward</h3>
+<p style="text-align: justify;">Max Myanmar’s strategy is to look for better ways of doing business and achieving market leadership. That means meeting – or exceeding – the expectations of employees, customers and communities. From internal business processes to customer service and community relations, the group’s proactive approach is a crucial factor in ensuring growth for all. Developing an effective management framework for sustainable development requires sound decision-making and solid governance.</p>
+<p style="text-align: justify;">The concept of sustainable development must be integrated into business planning and management systems. Governance is increasingly important, and the corporation and its senior management consider themselves accountable for the direction of business development.</p>
+<p style="text-align: justify;">Max Myanmar recognises that long-term outcomes require the adoption of strategies and activities that meet company and stakeholder needs while protecting and sustaining human and natural resources. Effective production based on sustainable business standards allows the continued improvement of the lives of customers. It also enhances the supply chain’s ability to support sustainability.</p>
+<p style="text-align: justify;">The group strategy is to focus on maximizing sustainable competitiveness in a transparent and responsible manner and to build, promote and maintain the brand image of the group.</p>
