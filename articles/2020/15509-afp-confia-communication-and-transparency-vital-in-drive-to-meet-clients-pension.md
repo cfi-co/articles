@@ -1,0 +1,32 @@
+---
+id: 15509
+title: "AFP Confía: Communication and Transparency Vital in  Drive to meet Clients’ Pension Needs"
+award_year: 2020
+published: 2020-06-01 13:41:29
+published_gmt: 2020-06-01 12:41:29
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2020/06/afp-confia-communication-and-transparency-vital-in-drive-to-meet-clients-pension-needs/"
+categories: ["Corporate Leaders"]
+content_sha256: 43e54e71ab35e2d8a54b0a220ce2f35ac8b8361b1908be0acdda88f5315e93b0
+canonical: 15509-afp-confia-communication-and-transparency-vital-in-drive-to-meet-clients-pension.json
+---
+
+# AFP Confía: Communication and Transparency Vital in  Drive to meet Clients’ Pension Needs
+
+> Verbatim archived copy. Canonical machine record: `15509-afp-confia-communication-and-transparency-vital-in-drive-to-meet-clients-pension.json`.
+
+<p style="text-align: justify;"><strong>AFP Confía, a subsidiary of Atlántida Financial Group, manages the largest private pension funds in Central America and the Caribbean.</strong></p>
+
+
+[caption id="attachment_15510" align="aligncenter" width="769"]<img class="size-full wp-image-15510" src="https://cfi.co/wp-content/uploads/2020/06/AFP1.jpg" alt="Standing left to right Rafael Alejandro Núñez AFP Confía Board Member Enrique Garcia Dubón AFP Confía Board Member Arturo Herman Medrano Inversiones Financieras Atlántida José Walter Bodden AFP Confía Board Member Seated Maria de Lourdes Arévalo President AFP Confía Guillermo Bueso Anduray Inversiones Financieras Atlántida" width="769" height="345" /> <em>Standing left to right</em> <strong>Rafael Alejandro Núñez</strong> AFP Confía Board Member <strong>Enrique Garcia Dubón</strong> AFP Confía Board Member <strong>Arturo Herman Medrano</strong> Inversiones Financieras Atlántida <strong>José Walter Bodden</strong> AFP Confía Board Member <em>Seated</em> <strong>Maria de Lourdes Arévalo </strong>President AFP Confía <strong>Guillermo Bueso</strong> Anduray Inversiones Financieras Atlántida[/caption]
+<p style="text-align: justify;">The El Salvador-based pension fund administrator began its operations in 1998. AFP Confia has been instrumental in shaping El Salvador's pensions system, which constitutes 44 percent of the country's GDP. It manages pension savings and retirement benefits for more than 1.5m employees, retirees, and their families.</p>
+<p style="text-align: justify;">Its commitment to complying with highest standards of corporate governance has been internationally recognised, which translates into more transparency and accountability to shareholders, regulators and – most importantly – clients. Clear, complete and promptly communicated information is essential to adhere to international governance best practices and local regulations.</p>
+<p style="text-align: justify;">AFP Confia has invested time and resources to better serve clients while supporting sustainable growth and development. It responded swiftly to new legislation that opened its portfolio to international diversification, and unlocked fresh digital efficiencies.</p>
+<p style="text-align: justify;">AFP Confia has embarked on a complete digitalisation strategy using data analytics, biometric tech and artificial intelligence.</p>
+<p style="text-align: justify;">The company maintains its lead in the pension fund field by working on the key business indicators, strengthening and incorporating better procedures in every management and risk control area, improving efficiency and implementing initiatives that attract new clients and retain existing ones.</p>
+
+
+[caption id="attachment_15511" align="aligncenter" width="570"]<img class="size-full wp-image-15511" src="https://cfi.co/wp-content/uploads/2020/06/AFP2.jpg" alt="Standing left to right René Hernández Communications and Marketing Director Kelvin Mejía Risk Director Luis Diego Varaona Operations and Technology Director Patricia de Campos Auditor Rafael Castellanos Investment Director Jorge Mejía Commercial Director Ricardo Pineda Financial Director Seated left to right Alicia de Moreira Legal Director Flor Alvarado Business Inteligence Manager Alba de Ibáñez Human Resources Director Lourdes Arévalo President Lilian de Alegría Compliance Officer" width="570" height="319" /> <em>Standing left to right</em> <strong>René Hernández</strong> Communications and Marketing Director <strong>Kelvin Mejía</strong> Risk Director <strong>Luis Diego Varaona</strong> Operations and Technology Director <strong>Patricia de Campos</strong> Auditor <strong>Rafael Castellanos</strong> Investment Director <strong>Jorge Mejía</strong> Commercial Director <strong>Ricardo Pineda</strong> Financial Director <em>Seated left to right</em> <strong>Alicia de Moreira</strong> Legal Director <strong>Flor Alvarado</strong> Business Inteligence Manager <strong>Alba de Ibáñez</strong> Human Resources Director <strong>Lourdes Arévalo</strong> President <strong>Lilian de Alegría</strong> Compliance Officer[/caption]
+<p style="text-align: justify;">These key activities generate economic value for shareholders, and are aligned to the company’s four-pillar strategy: Clients, Leadership, Profitability and Innovation.</p>
+<p style="text-align: justify;">These pillars have allowed the AFP Confia team to achieve continuous innovation. The team is also implementing new communication channels via AI and other cutting-edge technologies to get closer to clients, and remotely resolve their problems.</p>
+<p style="text-align: justify;">AFP Confia’s plan for the future is to continue adapting to market changes, with support from the board, shareholders and key partners. As always, it will be led by its duty to meet clients’ needs and expectations.</p>
