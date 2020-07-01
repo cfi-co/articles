@@ -1,0 +1,60 @@
+---
+id: 15949
+title: "Bermuda Retains Global Relevance in an Era of Change Thanks to its Position, Policies and Legislation"
+award_year: 2020
+published: 2020-07-01 15:31:36
+published_gmt: 2020-07-01 14:31:36
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2020/07/bermuda-retains-global-relevance-in-an-era-of-change-thanks-to-its-position-policies-and-legislation/"
+categories: ["Corporate"]
+content_sha256: 03910033c63a75e2396c20e98c520ebf9289a7ae0ac57d748452ec40b112b226
+canonical: 15949-bermuda-retains-global-relevance-in-an-era-of-change-thanks-to-its-position-poli.json
+---
+
+# Bermuda Retains Global Relevance in an Era of Change Thanks to its Position, Policies and Legislation
+
+> Verbatim archived copy. Canonical machine record: `15949-bermuda-retains-global-relevance-in-an-era-of-change-thanks-to-its-position-poli.json`.
+
+<p style="text-align: justify;"><strong>For decades, global businesses and investors have valued Bermuda for its political stability, robust and transparent regulatory environment, and its efficient capital regime. </strong></p>
+<p style="text-align: justify;">It is underpinned by a 400-year-old English common law legal system, a business-focused culture and sophisticated infrastructure. It also has an enviable geographical location: Bermuda is just 90-minutes from New York and six hours from London. These factors have seen the Island develop into a blue-chip jurisdiction in the world of international commerce and investment.</p>
+
+
+[caption id="attachment_15950" align="aligncenter" width="900"]<img class="size-large wp-image-15950" src="https://cfi.co/wp-content/uploads/2020/07/Bermuda-Royal-Naval-Dockyard-1024x575.jpg" alt="Bermuda: Royal Naval Dockyard" width="900" height="505" /> Bermuda: Royal Naval Dockyard[/caption]
+<p style="text-align: justify;">The nimble, strategic and open-minded approach of the island’s government and regulators has allowed the island to swiftly adapt to the needs of business, maintaining Bermuda’s relevance in an era of fast-paced political, socio-economic and technological change.</p>
+
+<h3 style="text-align: justify;">International Business in Bermuda</h3>
+<p style="text-align: justify;">Bermuda’s growth has been propelled by its cultivation and dominance of the global insurance and re-insurance market. The Bermuda re-insurance market is comprised of over 1,200 insurers, holding total assets in excess of $800bn. Gross premiums written by the Bermuda market in 2019 totaled some $150bn.</p>
+<p style="text-align: justify;">When it comes to re-insurance, Bermuda is top of the class. The island plays an essential role in the global risk-transfer industry.</p>
+• Bermuda is the world’s biggest captive insurance domicile
+• It is the world’s single most important property and catastrophe (P&amp;C) insurance market
+• It is the global leader in the burgeoning Insurance-Linked Securities (ILS) market
+• It enjoys full equivalency with the EU Solvency II regime for EU insurers, and is also one of only three jurisdictions to be granted Reciprocal Status by the National Association of Insurance Commissioners (NAIC) in the US.
+<p style="text-align: justify;">The Bermuda market also has a proud track record of claims management: it has paid out more than $200bn to settle US insured losses over the past two decades.</p>
+<p style="text-align: justify;">While Bermuda’s re-insurance market is the jewel in the island’s crown, the business ecosystem is highly diversified. The island has long been a premier jurisdiction for investment funds, asset managers, family offices, trusts and other private client structures. Bermuda is also a popular domicile for companies listing on major stock exchanges, including the Nasdaq and the HKEX.</p>
+<p style="text-align: justify;">The island is now also rapidly evolving into a global leader in emerging technology sectors, including fintech and insurtech.</p>
+
+<h3 style="text-align: justify;">Fintech in Bermuda</h3>
+<p style="text-align: justify;">In 2018, Bermuda became one of the first countries in the world to pass comprehensive legislation and regulations governing initial coin offerings (ICOs) and digital asset businesses. Modelled on laws already in place for insurance and investment funds in Bermuda, the Companies and Limited Liability Company (Initial Coin Offering) Act 2018 and the Digital Asset Business Act 2018 (DABA) — together with the more recently introduced Digital Asset Issuance Act 2020 — have been developed to attract quality start-up businesses.</p>
+<p style="text-align: justify;">Last summer, Bermuda’s proactive approach in this area caught the attention of the US Securities &amp; Exchange Commission (SEC). SEC commissioner Hester Peirce commented that “Bermuda is one of the only jurisdictions to address the (digital) custody question in detail."</p>
+
+
+[caption id="attachment_15951" align="aligncenter" width="900"]<img class="size-large wp-image-15951" src="https://cfi.co/wp-content/uploads/2020/07/Bermuda-Gibbs-Hill-Lighthouse-1024x575.jpg" alt="Bermuda: Gibbs Hill Lighthouse" width="900" height="505" /> Bermuda: Gibbs Hill Lighthouse[/caption]
+<h3 style="text-align: justify;">Insurtech developments</h3>
+<p style="text-align: justify;">Recent amendments to insurance legislation have paved the way for the island’s independent financial regulator, the Bermuda Monetary Authority (BMA), to create two innovation initiatives: an insurance regulatory sandbox and an innovation hub. The purpose here is to facilitate and promote the development of technological innovation in the insurance sector.</p>
+<p style="text-align: justify;">The regulatory sandbox creates a live environment where new technologies can be tested by a licensed insurer or insurance intermediary to a limited number of clients in a controlled way.</p>
+<p style="text-align: justify;">The innovation hub is open to other industry participants who want to receive regulatory guidance on standards and expectations related to new insurance technologies; it can be used by companies that ultimately intend to apply to gain access to the regulatory sandbox once their concept is sufficiently developed.</p>
+<p style="text-align: justify;">Participation has several benefits, one of the most valuable being the insight provided by the BMA from the outset. It provides real-time feedback on regulatory compliance, which ultimately facilitates speed to market for these tech developers.</p>
+
+<h3 style="text-align: justify;">Global Compliance Leader</h3>
+<p style="text-align: justify;">With regulatory scrutiny on the rise across the world, the Bermuda Government, the BMA, and the Registrar of Companies (ROC) work hard to ensure the country remains at the forefront of regulatory and legislative developments.</p>
+<p style="text-align: justify;">In January and February 2020, there have already been two stand-out achievements.</p>
+<p style="text-align: justify;">In January, Bermuda was recognised as a global leader in the fight against financial crime by the Caribbean Financial Action Task Force’s (CFATF) mutual evaluation report (MER), which was subject to stringent review prior to approval by the global standards setting body, the Financial Action Task Force (FATF). Of the approximately 100 MERs published by the FATF up to January 31, 2020, Bermuda ranks first overall against the technical compliance requirements, and is one of only two jurisdictions (the other being the UK) with an assessed high level of effectiveness in relation to its risk assessment and domestic coordination mechanisms.</p>
+<p style="text-align: justify;">In February, Bermuda was placed on the EU’s white list of fully co-operative tax jurisdictions after implementing legislation to address EU requirements around economic substance, specifically in the area of collective investment funds.</p>
+<p style="text-align: justify;">These developments represent no small feat. They serve not only to reinforce the island’s globally respected reputation, but also continue to give Bermuda a competitive edge over other jurisdictions.</p>
+
+
+[caption id="attachment_15952" align="aligncenter" width="900"]<img class="size-large wp-image-15952" src="https://cfi.co/wp-content/uploads/2020/07/Bermuda-City-of-Hamilton-1024x575.jpg" alt="Bermuda: City of Hamilton" width="900" height="505" /> Bermuda: City of Hamilton[/caption]
+<h3 style="text-align: justify;">Business Development</h3>
+<p style="text-align: justify;">Helping to support established sectors and develop emerging industries is the <strong><span style="text-decoration: underline;"><a href="https://cfi.co/corporate-leaders/2020/07/proud-to-be-part-of-bermuda-top-team-members-of-the-bda/">Bermuda Business Development Agency (BDA)</a></span></strong>, an independent public-private unit established in 2013.</p>
+<p style="text-align: justify;">The agency serves to safeguard and enhance Bermuda’s world-leading business platform. It also offers a concierge service that acts as a single point of contact for new business, streamlining everything from networking with industry leaders to immigration applications and purchasing real estate.</p>
+<p style="text-align: justify;">The BDA directly connects prospective investors and international businesses with its network of contacts in industry, the government and the regulators, as well as professional service providers.</p>
