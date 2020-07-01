@@ -1,0 +1,34 @@
+---
+id: 15916
+title: "Fidelity by Name and United by Nature: A Company That Is ‘There’ For Its Clients"
+award_year: 2020
+published: 2020-07-01 14:03:22
+published_gmt: 2020-07-01 13:03:22
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2020/07/bilal-adhami-ceo-fidelity-united-a-company-that-is-there-for-its-clients/"
+categories: ["Corporate", "Corporate Leaders"]
+content_sha256: ea93caa32a5d01f008552cfaa35833011d4f223ce510d7010c98800ea9e10906
+canonical: 15916-bilal-adhami-ceo-fidelity-united-a-company-that-is-there-for-its-clients.json
+---
+
+# Fidelity by Name and United by Nature: A Company That Is ‘There’ For Its Clients
+
+> Verbatim archived copy. Canonical machine record: `15916-bilal-adhami-ceo-fidelity-united-a-company-that-is-there-for-its-clients.json`.
+
+[caption id="attachment_15917" align="alignright" width="300"]<img class="wp-image-15917 size-medium" title="CEO: Bilal Adhami" src="https://cfi.co/wp-content/uploads/2020/07/CEO-Bilal-Adhami-300x206.jpg" alt="CEO: Bilal Adhami" width="300" height="206" /> <strong>CEO:</strong> Bilal Adhami[/caption]
+<p style="text-align: justify;"><strong>No matter how complex the risk, <a href="https://fidelityunited.ae/" target="_blank" rel="noopener noreferrer">UAE’s insurance company Fidelity United</a> is there to provide best-in-class solutions and unified brand experience.</strong></p>
+<p style="text-align: justify;">It begins by listening to corporate and individual clients’ needs and responding with tailored solutions. The firm has been recognised by partners and associates for its exceptional customer service and product development.</p>
+<p style="text-align: justify;">This underscores Fidelity United’s leading role in the UAE market. Served by a passionate and skilled team, the company takes pride in reflecting its core values of transparency and responsibility.</p>
+<p style="text-align: justify;">With the slogan “#BeConfident” taken to heart by all within Fidelity United, there is company wide commitment to achieving superior and sustainable profitable growth. It adopts effective risk management practices and always operates in an ethical and professional manner.</p>
+<p style="text-align: justify;">The Fidelity United business model empowers stakeholders, optimises company performance and innovation, and capitalises on the passion, knowledge and expertise of its employees.</p>
+<p style="text-align: justify;">CEO Bilal Adhami is a seasoned insurance professional with over 25 years of experience in the Middle East region and beyond. He joined the company as CEO in 2018, and his direction for Fidelity United brought in major transformation of digitalisation, in line with his vision of broker empowerment.</p>
+<p style="text-align: justify;">Through his expertise of defining, directing, and expanding insurance operations, the company underwent a restructure in underwriting, operations, distribution and other channels. It works diligently and uncovers new ways to drive profitability and increase market share.</p>
+<p style="text-align: justify;">This has marked a positive swing in financial results for Fidelity United. Adhami’s strategic and hands-on leadership has improved the performance of organisations, teams, and P&amp;L (top and bottom lines), despite industry challenges.</p>
+<p style="text-align: justify;">Bilal Adhami began his insurance career at the ground level with AXA Insurance, and advanced to a variety of roles with multinational players such as AIG, where he held the roles of Regional Personal Lines Manager, COO of AIG Egypt, and Managing Director of AIG Saudi Arabia. He was also Head of International Business, Inward Facultative Reinsurance, and Commercial Lines for Oman Insurance.</p>
+<p style="text-align: justify;">Fidelity United believes that the success of a company is impacted by the sustainability and lasting relationships it has with its partners and clients.</p>
+<p style="text-align: justify;">The evolution of Fidelity United’s strategy two years ago within the Broker Management Unit comes from a carefully laid three-pillar platform.</p>
+<p style="text-align: justify;">The first pillar is the implementation of digitalisation and creating a roadmap to design its user-friendly online portals, tools and resources. As an insurance company, developing the broker relationships in line with digitalisation was a priority. “We now have successfully empowered our partners with online tools and broker portals,” said Bilal Adhami, “allowing them to gain access to our products, benefits and issue policies, with the ease of digital tools.”</p>
+<p style="text-align: justify;">The portals enable the brokers to issue policies through a secure payment gateway, making for spontaneous client service. “The portals were designed keeping insights and gaining feedback from our brokers,” Adhami explained.</p>
+<p style="text-align: justify;">The second pillar entails the services of professionals in the Broker Relationship Unit, known as Market Underwriters, who extend support to Fidelity United's partners. They are equipped with market and technical skills and enabled with specialised underwriting authorities to close deals brought in by brokers.</p>
+<p style="text-align: justify;">The third pillar constitutes of an in-house operations team, the backbone of the business, whose members are aligned with the company vision of customer-centricity. The groundwork is carried out to ensure a seamless, smooth and structure of service to the Fidelity United's brokers in record time.</p>
+<p style="text-align: justify;">“Fidelity United’s award for <a href="https://cfi.co/awards/middle-east/2020/fidelity-united-best-insurance-broker-services-platform-gcc-2020/">Best Insurance Broker Services Platform - GCC 2020</a> symbolises one of the milestones achieved during our transformation over the past two years,” says Adhami. “Another would be the successful implementation of our robust business continuity plan that has been a result of the agility of our business model, and the dedicated support towards our brokers to ensure zero defect and business as usual, no matter the circumstances.</p>
