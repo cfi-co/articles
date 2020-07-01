@@ -1,0 +1,48 @@
+---
+id: 15877
+title: "EY on COVID-19 Pandemic: An Opportunity for Reinvention of Family Enterprises"
+award_year: 2020
+published: 2020-07-01 09:49:50
+published_gmt: 2020-07-01 08:49:50
+author: "CFI.co Editorial"
+url: "https://cfi.co/finance/2020/07/ey-on-covid-19-pandemic-an-opportunity-for-reinvention-of-family-enterprises/"
+categories: ["Finance", "Latin America"]
+content_sha256: 5f3a5dca36159ccd629ec52488c6b939f73fd73365a418f5d004265810ba4188
+canonical: 15877-ey-on-covid-19-pandemic-an-opportunity-for-reinvention-of-family-enterprises.json
+---
+
+# EY on COVID-19 Pandemic: An Opportunity for Reinvention of Family Enterprises
+
+> Verbatim archived copy. Canonical machine record: `15877-ey-on-covid-19-pandemic-an-opportunity-for-reinvention-of-family-enterprises.json`.
+
+<p style="text-align: justify;"><strong><img class="size-medium wp-image-15878 alignright" src="https://cfi.co/wp-content/uploads/2020/07/EY-300x164.jpg" alt="EY" width="300" height="164" />Family businesses and SMEs face great challenges, as well as personal and financial losses, in these turbulent times. </strong></p>
+<p style="text-align: justify;">On the flip side of the coin, the COVID-19 pandemic can also be seen as an opportunity to rethink business models and working practices. Family businesses values and special characteristics that distinguish them from other enterprises. Cohesion during the crisis is vital to sustaining what the family has built. They can emerge stronger — both as families and as organisations.</p>
+<p style="text-align: justify;">Research shows that 70 percent of family businesses fail to last through the third generation. But in Argentina, these enterprises have for many years supported a large part of the local economy.</p>
+<p style="text-align: justify;">From the point of view of relationships, this crisis is changing roles. Older family members had to stay at home to protect themselves and younger ones have had to take over the company obligations. Some, who used to undertake other ventures, are returning to seek a place at the core of the business.</p>
+<p style="text-align: justify;">This can cause strain, but with an effort to communicate and work together, family bonds and business can remain strong. Virtual meetings are an option to regularly discuss day-to-day challenges along with family-related issues.</p>
+<p style="text-align: justify;">This crisis could be the moment to evaluate the transition to the next generation. Do current family leaders need to remain longer than planned to steward the family business? Or should they make room for fresh ideas and untapped energy? The pandemic is an opportunity to teach future generations about core values and principles. It should be considered to what extent transition plans need to be put in motion, or on standby.</p>
+<p style="text-align: justify;">In the field of technology and communications, family enterprises were already undergoing certain changes related to digital and technological functions. However, they are now facing an unexpected situation that is forcing them to speed up the processes.</p>
+<p style="text-align: justify;">The crisis can also be an opportunity for family businesses to plan for sustained future development. This could be seen as an opportunity to review governance structures and policies. Sometimes, there is a logical resistance to planning for business families, which may even come from the family members themselves with the motive of not hurting anyone's feelings. But actions that might have seemed radical before quickly become insufficient to meet the current challenges.</p>
+<p style="text-align: justify;">It is a great opportunity to consider the protection of the family: to revisit any policies that have set in place, the shareholders agreements, the corporate structure, the existence of pacts regarding family employment.</p>
+<p style="text-align: justify;">The family can start thinking about the creation of formal documents to govern the relationships or create a single Family Office. The partnership with trusted advisors is important at this point.</p>
+<p style="text-align: justify;">Last but not least, founders may find an opportunity to revisit the strategy for the company, and how will the enterprise prioritises the needs of stakeholders. Recent surveys indicate that companies have reduced or shifted operating expenses to preserve cash, have cut dividends (or plan to), or are raising cash through new debt or equity.</p>
+<p style="text-align: justify;">Amid the strain of COVID-19, it’s wise to challenge business as usual and rethink company’s offerings. By transforming products into services, companies can better satisfy shifting customer demands.</p>
+<p style="text-align: justify;">To avoid higher purchasing costs, customers are trending away from product ownership and more toward services bought as and when needed.</p>
+<p style="text-align: justify;">Over 90 percent of technology companies are embracing subscription or consumption business models. In automotive, customers now have the option to subscribe to a car brand, providing them access to various models from that original equipment manufacturer rather than putting thousands of dollars toward a car at one time. Even in agriculture, farmers can now use livestock health tracking devices without purchasing them outright.</p>
+<p style="text-align: justify;">Although many companies have started moving toward subscription models, only 55 percent of them believe that they are ready for that transition.
+Everything stems from the family business strategy if they consider adapting this approach. There are certain crucial areas of consideration: the business strategy, the go-to-market approach, the technology enablement, and the accounting and finance challenges.</p>
+<p style="text-align: justify;">Our recent experience in assisting family offices shows that, in inflexion moments as the one we are current undergoing, a holistic approach aimed at overseeing these different aspects and consequences. A careful analysis of the legal, tax and labor consequences of changes in the operating and business models is a key priority.</p>
+<p style="text-align: justify;">Families and family enterprises are resilient. Multi-generational family enterprises have faced difficult times in the past and, by working together, family-owned businesses will overcome the COVID-19 pandemic as well.</p>
+<p style="text-align: justify;">The last six months have forced them to step outside the comfort zone and consider unusual solutions. Each family needs to find its own response to the new reality after COVID-19. If the family enterprises focus on what they know, who they are, and the type of family business and values they want to preserve, the pandemic will certainly be a transformative opportunity.</p>
+
+<h3 style="text-align: justify;">About the Authors</h3>
+[caption id="attachment_15880" align="aligncenter" width="269"]<img class="size-full wp-image-15880" src="https://cfi.co/wp-content/uploads/2020/07/Sergio-Caveggia.jpg" alt="Sergio Caveggia" width="269" height="374" /> <strong>Author:</strong> Sergio Caveggia[/caption]
+<p style="text-align: justify;"><strong>Sergio Caveggia</strong> is a tax partner currently in charge of Transaction Tax area in Argentina. He joined EY Argentina in 1994 and has developed expertise over 24 years in international taxation and merger and acquisition matters. Sergio is also focus on servicing clients in the Private Client Services (PCS) area. He is highly experienced in inbound and outbound investments, buy side, sell side and restructuring services within the Transaction Tax area.</p>
+<p style="text-align: justify;">Sergio has served in a variety of industries and has also been involved in many due diligence procedures performed in the past 20 years. He has given lectures in national universities and is a frequent speaker in tax seminars. He has also written several articles dealing with Argentina tax issues.</p>
+<p style="text-align: justify;">He is a Certified Public Accountant who graduated from University of Belgrano in Argentina. He obtained his Tax Specialist’s Degree at the University of Belgrano and has a postgraduate certificate in Business and Management from Universidad Catolica Argentina (UCA). He is also member of the Professional Council of Economic Sciences of Buenos Aires and the Argentina Fiscal Association.</p>
+
+
+[caption id="attachment_15881" align="aligncenter" width="268"]<img class="size-full wp-image-15881" src="https://cfi.co/wp-content/uploads/2020/07/Jimena-Rocio-Garcia.jpg" alt="Jimena Rocio Garcia" width="268" height="354" /> <strong>Author:</strong> Jimena Rocío García[/caption]
+<p style="text-align: justify;"><strong>Jimena Garcia</strong> is a Manager currently working in the International Tax and Transaction Services (ITTS) and Private Client Services (PCS) areas in Argentina. She joined the firm in 2014.</p>
+<p style="text-align: justify;">She has extensive experience in social security &amp; labor law buy-side and sell-side due diligence services in numerous companies in different industries. She also participated in the coordination of many cross-border engagements, dealing with foreign labor and social security legislation matters on each transaction. Jimena participates in numerous seminars related to payroll taxes and labor law matters.</p>
+<p style="text-align: justify;">Jimena is a Lawyer graduated in 2010 from UNLAM (Universidad de La Matanza). She is enrolled in the Bar Association of the City of Buenos Aires.</p>
