@@ -1,0 +1,30 @@
+---
+id: 16598
+title: "UBX: Exponential Opportunities for Businesses and People through Digital Transformation"
+award_year: 2020
+published: 2020-08-14 12:31:31
+published_gmt: 2020-08-14 11:31:31
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2020/08/ubx-philippines-exponential-opportunities-for-businesses-and-people-through-digital-transformation/"
+categories: ["Corporate", "Corporate Leaders"]
+content_sha256: 9db13f67496d9de2e417a58eee493cd9a363345d5cd83694c54aaec9f24141d6
+canonical: 16598-ubx-philippines-exponential-opportunities-for-businesses-and-people-through-digi.json
+---
+
+# UBX: Exponential Opportunities for Businesses and People through Digital Transformation
+
+> Verbatim archived copy. Canonical machine record: `16598-ubx-philippines-exponential-opportunities-for-businesses-and-people-through-digi.json`.
+
+[caption id="attachment_16599" align="alignright" width="300"]<img class="size-medium wp-image-16599" src="https://cfi.co/wp-content/uploads/2020/08/President-and-CEO-of-UBX-Philippines-John-Januszczak-300x253.jpg" alt="President and CEO of UBX Philippines: John Januszczak" width="300" height="253" /> <strong>President and CEO of UBX Philippines:</strong> John Januszczak[/caption]
+<p style="text-align: justify;"><strong>In 2018, two years after taking the bold step to digital transformation, <a href="https://cfi.co/asia-pacific/2023/07/tech-up-transition-for-union-bank-of-the-philippines/">Union Bank of the Philippines</a> (UnionBank) spun off its fintech and corporate venture capital arm: UBX.</strong></p>
+<p style="text-align: justify;"><a href="https://www.ubx.ph/" target="_blank" rel="noopener noreferrer">UBX</a> Philippines is predicated on a future where financial services are invisible, seamlessly embedded into the experiences and activities that truly matter to businesses and people. It leverages compelling ecosystems and data to explore new possibilities — making financial services more instinctive and accessible.</p>
+<p style="text-align: justify;">The company continues to build and invest in open platforms, as well as in technologies that allow others to innovate, adding value whether they collaborate or compete. The impact of financial inclusion can unlock the potential of businesses and people.</p>
+<p style="text-align: justify;">The first year of UBX has seen the commercial launch of four ventures, namely i2i, Sentro, Bux and SeekCap — with more than 60,000 clients on-board. The digital platforms of UBX have provided its clients much needed access to technology, and have created marketplaces that would otherwise have been impossible during the Covid pandemic.</p>
+<p style="text-align: justify;">i2i was created to bring digital transformation to unbanked and remote communities. UBX has partnered with the Rural Bankers Association of the Philippines (RBAP) and has expanded to include thrift and savings banks, co-operatives and non-banking financial institutions such as remittance centres to make digital fund transfers possible.</p>
+<p style="text-align: justify;">A mobile ATM service has also been made available for basic transactions such as cash withdrawal and balance inquiry. It is now recognised as the largest financial network in the Philippines.</p>
+<p style="text-align: justify;">SeekCap was created to support the MSMEs (micro, small, and medium enterprises) that make up the majority of businesses in the Philippines. It is a unique digital platform that includes lenders such as Progressive Bank, UnionBank, EON SME Credit Card, and Esquire Financing Inc. SeekCap can offer companies legitimate sources of credit without the inconvenience of a traditional loan application.</p>
+<p style="text-align: justify;">To support online vendors, UBX developed Bux and Sentro. Bux is an end-to-end payment gateway for e-commerce that can be directly embedded onto the seller’s platform for a seamless transition from the product page. Sentro, on the other hand, is a straightforward online shop builder. It creates an instant e-commerce ready website for budding virtual entrepreneurs.</p>
+<p style="text-align: justify;">Sentro protects both seller and buyer from fraudulent transactions, and can facilitate the logistics and delivery of products. In addition to Bux and Unionbank, other payment venues for Sentro transactions can be accessed through 7-11 branches or via Dragonpay.</p>
+<p style="text-align: justify;">i2i, SeekCap, Bux and Sentro have furnished businesses and clients with the vital tools to ride out the coronavirus crisis. UBX has exceeded all expectations, and has been recognised by several industry awards.</p>
+<p style="text-align: justify;">For UBX, financial inclusion means opening its doors to any company wanting to venture into the fintech area. QLab, a one-stop-shop for web, mobile, and platforms design and development, is UBX’s technology service consultancy provider. It co-creates solutions for businesses, powered by a team equipped with full-stack development capabilities and end-to-end and services.</p>
+<p style="text-align: justify;">UBX will continue to have the first-mover advantage in the fintech industry by offering products and services that use innovative digital platforms and technologies.</p>
