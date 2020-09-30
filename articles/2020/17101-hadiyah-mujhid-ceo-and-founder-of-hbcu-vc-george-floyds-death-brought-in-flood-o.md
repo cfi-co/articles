@@ -1,0 +1,30 @@
+---
+id: 17101
+title: "Hadiyah Mujhid,  CEO and founder of HBCU.vc: George Floyd’s Death Brought in Flood of VC Offers for Black Founders in US"
+award_year: 2020
+published: 2020-09-30 13:06:12
+published_gmt: 2020-09-30 12:06:12
+author: "CFI.co Editorial"
+url: "https://cfi.co/editors-picks/2020/09/hadiyah-mujhid-ceo-and-founder-of-hbcu-vc-george-floyds-death-brought-in-flood-of-vc-offers-for-black-founders-in-us/"
+categories: []
+content_sha256: a6ebfdf2161f323cb52048df2b4294eebe00a9610dde80f8854cfdab517ae0d1
+canonical: 17101-hadiyah-mujhid-ceo-and-founder-of-hbcu-vc-george-floyds-death-brought-in-flood-o.json
+---
+
+# Hadiyah Mujhid,  CEO and founder of HBCU.vc: George Floyd’s Death Brought in Flood of VC Offers for Black Founders in US
+
+> Verbatim archived copy. Canonical machine record: `17101-hadiyah-mujhid-ceo-and-founder-of-hbcu-vc-george-floyds-death-brought-in-flood-o.json`.
+
+[caption id="attachment_17102" align="alignright" width="300"]<img class="size-medium wp-image-17102" src="https://cfi.co/wp-content/uploads/2020/09/Hadiyah-Mujhid-300x169.jpg" alt="Hadiyah Mujhid" width="300" height="169" /> <strong>CEO and founder of HBCU.vc:</strong> Hadiyah Mujhid[/caption]
+<p style="text-align: justify;"><strong>Hadiyah Mujhid is CEO and founder of <span style="text-decoration: underline;"><a href="https://www.hbcu.vc/" target="_blank" rel="noopener noreferrer">HBCU.vc</a></span>, a not-for-profit organisation that helps African American and Hispanic students become technology entrepreneurs and access venture capital.</strong></p>
+<p style="text-align: justify;">The acronym — Historically Black Colleges and Universities — nails literal and figurative colours to the mast. HBCU.vc came to life because Mujhid had recognised a lack of opportunities for black entrepreneurs seeking venture capital funding.</p>
+<p style="text-align: justify;">The year 2019 was a big one for HBCU.vc, and its budget increased from $200,000 to $500,000. The team doubled to six full-timers and three part-timers, but things started to fall apart as the world went into lockdown. Mujhid even met with her colleagues to forewarn them of a probable shutdown because of a lack of funds.</p>
+<p style="text-align: justify;">George Floyd’s death changed all that.</p>
+<p style="text-align: justify;">Since his murder there has been a sudden rush of VCs eager to invest in black founders. Mujhid asks, “Why did it take this tragedy to bring them in?” The short-term future of HBCU.vc is now assured and there is a growing group of donors. The hope is that the trend will endure, and the support turn out to be meaningful and substantial.</p>
+<p style="text-align: justify;">Mujhid’s passion is to create economic opportunities for her community, and she is driven by natural curiosity and a love of problem-solving. Her motto is “stay curious and keep learning, whatever your age and situation”. She has spoken at conferences and has been featured in Black Enterprise, Crunchbase and Entrepreneur Magazine.</p>
+<p style="text-align: justify;">The problem facing black entrepreneurs in the US is that investors place funds in their own networks and recipients do the same. They are predominately white, and this can result in people of colour being locked-out. Not much more than one percent of VC-backed companies have black founders. Blacks are generally poorly represented, even in “go-ahead” companies such as Google, Facebook, and Twitter. Mujhid points out: “So many organisations cite diversity as a core value but fail to understand that the composition of their decision room works against this.”</p>
+<p style="text-align: justify;">HBCU.vc students can be paired with a VC mentor, internships are possible, and they can act as investors in their own college communities. A one-year HBCU.vc programme helps them to identify investment opportunities, conduct research, and make real funding decisions. Mujhid does not expect applicants to have any experience in VC or start-ups, but rather a natural curiosity and passion to learn about the tech industry. In 2019, HBCU.vc launched a partnership with TechStars to offer start-up weekends for HBCUs.</p>
+<p style="text-align: justify;">Mujhid earned her first degree (in computer sciences) from the University of Maryland East Shore, which historically is a place of learning for black students. She went on to study for her MBA at Drexel.</p>
+<p style="text-align: justify;">Lockheed Marten offered her a job as a software engineer upon graduation, and she spent 10 years working on aerospace projects. Although coming from a low-income family, she often describes herself as privileged — essentially for being able to follow her interests. Lockheed was not a purpose-driven career choice — that would come later — but she got her start after an interview with a fellow African American, which was a rather unusual situation for both parties.</p>
+<p style="text-align: justify;">After a few pay cheques and the accumulated savings of a frugal lifestyle, Mujhid was able to finance the purchase of a home and over the years ended up with a further three rental properties. After Lockheed she cashed out and moved to the West Coast — and the rest is history, or at least her story.</p>
+<p style="text-align: justify;">Many white VCs pay lip service to the needs of future black entrepreneurs. Hadiyah Mujhid and HBCU.vc are expecting much more.</p>
