@@ -1,0 +1,28 @@
+---
+id: 17589
+title: "Michael Skinner: A Company Leader Driven to Change the Lives of Millions"
+award_year: 2020
+published: 2020-10-26 15:04:40
+published_gmt: 2020-10-26 15:04:40
+author: "CFI.co Editorial"
+url: "https://cfi.co/northamerica/2020/10/michael-skinner-a-company-leader-driven-to-change-the-lives-of-millions/"
+categories: ["Corporate Leaders", "North America"]
+content_sha256: 5b20584e9e7c20d3842dc76bfc023a159b443c5fe9745811d423b26b229261fa
+canonical: 17589-michael-skinner-a-company-leader-driven-to-change-the-lives-of-millions.json
+---
+
+# Michael Skinner: A Company Leader Driven to Change the Lives of Millions
+
+> Verbatim archived copy. Canonical machine record: `17589-michael-skinner-a-company-leader-driven-to-change-the-lives-of-millions.json`.
+
+[caption id="attachment_17590" align="alignright" width="300"]<img class="size-medium wp-image-17590" src="https://cfi.co/wp-content/uploads/2020/10/Michael-Skinner-300x233.jpg" alt="Rainmaker Worldwide CEO: Michael Skinner" width="300" height="233" /> <strong>Rainmaker Worldwide CEO:</strong> Michael Skinner[/caption]
+<p style="text-align: justify;"><strong>Rainmaker Worldwide is disrupting traditional responses to our planet’s growing water crisis, and the man driving the company vision is CEO Michael Skinner.</strong></p>
+<p style="text-align: justify;"><a href="https://cfi.co/technology/2020/10/rainmaker-revolutionary-water-supply-solutions-that-are-needed-now-more-than-ever/">Rainmaker’s commitment to economical, turnkey and sustainable water solutions</a> is widely recognised across the global water industry, and Skinner’s is a respected voice within the cleantech, tech start-up and water technology arenas.</p>
+<p style="text-align: justify;">He previously held the position of Chief Strategy Officer, where he was instrumental in building Rainmaker’s international distribution channel. Skinner became Chief Executive Officer in January and brought with him great energy and momentum as Rainmaker entered its next phase of growth.</p>
+<p style="text-align: justify;">In the course of 2020, Skinner has achieved many accomplishments, building a strengthened executive and advisory team, acquiring strong investor relationships and leading <a href="https://rainmakerww.com/" target="_blank" rel="noopener noreferrer">Rainmaker</a> (OTC: RAKR) into a merger agreement with Sphere 3D (NASDAQ: ANY) expected to close by the end of the year. Perhaps his most significant achievement to date has been transitioning the company from a product-sales focus to becoming a WaaS provider. After completing this strategic shift, Rainmaker has secured major WaaS contracts across continents providing clean water for a competitive per-litre cost, eliminating large CAPEX and regulatory obstacles previously borne by the customer.</p>
+<p style="text-align: justify;">This merger opens up tremendous growth opportunities for Rainmaker and its shareholders. With additional access to capital markets and funds to grow the organisation and expand equipment production capacity, Rainmaker can accelerate the volume of WaaS agreements that it can secure and fulfil.</p>
+<p style="text-align: justify;">“Rainmaker is building significant business momentum as potential customers come to understand the economic and social benefits of our WaaS offering, versus traditional and expensive water delivery options,” he said.</p>
+<p style="text-align: justify;">“Our upcoming merger with Sphere 3D is intended to give us the access to the capital necessary to fund anticipated rapid growth. As we work toward closing the merger, this advance will enable us to avoid any interruptions in our marketing and production efforts.”</p>
+<p style="text-align: justify;">Skinner brought invaluable leadership experience of the water and technology industries to the Rainmaker table. He has been CEO of the Innovation Cluster in the Canadian region of Peterborough Kawartha, recognised as one of the best regions in the country for Innovative Water Technology Start-ups by Water Canada. He chairs the Advisory Board of the Centre for Advancement of Water and Wastewater Technologies (CAWT), an internationally recognised research institution.</p>
+<p style="text-align: justify;">Rainmaker’s determination to alleviate water stress through affordable and sustainable solutions has deepened as regions experiencing water scarcity have been hit by Covid-19. “Over three billion people lack access to handwashing facilities,” Skinner said. “If communities do not have clean water available, it is extremely difficult to protect against the pandemic. Despite the new challenges COVID-19 has posed, Rainmaker continues to move our innovation forward to make a considerable difference in the lives of millions.”</p>
+<p style="text-align: justify;"><em>To learn more, visit </em><span style="text-decoration: underline;"><a href="https://rainmakerww.com/" target="_blank" rel="noopener noreferrer"><em>rainmakerww.com</em></a></span></p>
