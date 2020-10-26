@@ -1,0 +1,29 @@
+---
+id: 16046
+title: "Toronto Finance International: Toronto Takes Its Place at the Head Table of North American Finance"
+award_year: 2020
+published: 2020-10-26 15:59:39
+published_gmt: 2020-10-26 15:59:39
+author: "CFI.co Editorial"
+url: "https://cfi.co/banking/2020/10/toronto-finance-international-toronto-takes-its-place-at-the-head-table-of-north-american-finance/"
+categories: ["Banking", "Corporate", "Corporate Leaders", "North America"]
+content_sha256: 21dd405e5096ac1c686e394f6e01283bd47162fa7b22464ace63c311e5cc64d6
+canonical: 16046-toronto-finance-international-toronto-takes-its-place-at-the-head-table-of-north.json
+---
+
+# Toronto Finance International: Toronto Takes Its Place at the Head Table of North American Finance
+
+> Verbatim archived copy. Canonical machine record: `16046-toronto-finance-international-toronto-takes-its-place-at-the-head-table-of-north.json`.
+
+[caption id="attachment_16047" align="alignright" width="300"]<img class="wp-image-16047 size-medium" title="President and CEO of Toronto Finance International: Jennifer Reynolds" src="https://cfi.co/wp-content/uploads/2020/07/President-and-CEO-Jennifer-Reynolds-300x216.jpg" alt="President and CEO of Toronto Finance International: Jennifer Reynolds" width="300" height="216" /> <strong>President and CEO:</strong> Jennifer Reynolds[/caption]
+<p style="text-align: justify;"><strong>Toronto is North America’s second-largest financial centre, and is fast becoming a destination of choice for companies looking to establish a presence in North America. </strong></p>
+<p style="text-align: justify;">The city is well positioned to capitalise on its world-class talent in financial services and technology, as it is situated in the continent’s third-ranked tech cluster.</p>
+<p style="text-align: justify;"><a href="https://tfi.ca/" target="_blank" rel="noopener noreferrer">Toronto Finance International (TFI)</a> is a public-private partnership between Canada’s largest financial services institutions and the government. It champions the city, the country, and the possibilities both offer.</p>
+<p style="text-align: justify;">“Our mission is to drive the growth and competitiveness of the Canadian financial sector and establish Toronto’s prominence as a leading international financial centre,” says Jennifer Reynolds, President and CEO of TFI. “Half of Canada’s outward foreign direct investment is from the financial services sector, and it boasts the second-fastest growing source of services exports. The sector is an increasingly important part of Canada’s global economic footprint.”</p>
+<p style="text-align: justify;">Over the past 10 years, Toronto has shown the fastest growth rate for employment in the North American financial services industry. In 2018, the city ranked third globally for the proportion of employment within the financial services sector.</p>
+<p style="text-align: justify;">This growth has been complemented by the development of the region’s innovation ecosystem. From 2010 to 2018, Toronto had the world’s highest growth rate for FinTech investment. Financial services is the largest contributor to Toronto’s GDP, and a key pillar to the Canadian economy.</p>
+<p style="text-align: justify;">Canada’s three largest life and health insurers rank among the world’s top 15, and the country’s pension funds are ranked third globally by assets. The Canadian pension funds are well known and highly regarded by international investors.</p>
+<p style="text-align: justify;">“We have a welcoming culture that attracts talent from across the globe and our economy thrives on our diversity of talent and people from a wide variety of backgrounds,” says Reynolds. “In 2019, we welcomed over 340,000 immigrants to Canada, the highest number in more than a century. We hope to continue this momentum of attracting top talent to Toronto.”</p>
+<p style="text-align: justify;">Reynolds joined TFI in 2017 and her 20-year career in the financial services industry has included senior roles in investment banking, venture capital, and global risk management. Prior to joining TFI, she was the President and CEO of <a href="https://wcm.ca/" target="_blank" rel="noopener noreferrer">Women in Capital Markets (WCM)</a>, Canada’s largest industry association and advocacy group for women in the financial sector.</p>
+<p style="text-align: justify;">The Toronto native graduated with a Bachelor of Arts with a double major in Economics and Political Science from McGill University, from where she also received her MBA. She is also a graduate of the Harvard Business School Women's Leadership programme.</p>
+<p style="text-align: justify;">In addition to her role leading Toronto Finance International, Reynolds is a director on the boards of Citibank Canada, the Canada Development Investment Corporation (CDEV), and the Women’s College Hospital Foundation. In 2015 and 2017, she was named a Women's Executive Network (WXN) Canada's Most Powerful Women: Top 100 Award Winner.</p>
