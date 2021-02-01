@@ -1,0 +1,28 @@
+---
+id: 18568
+title: "Professor Robert Anthony, Anthony & Cie: A Specialist in Many Fields with a Passion for All Things Financial and Family Office"
+award_year: 2021
+published: 2021-02-01 17:24:15
+published_gmt: 2021-02-01 17:24:15
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/cfi-co-meets/2021/02/professor-robert-anthony-anthony-cie-a-specialist-in-many-fields-with-a-passion-for-all-things-financial-and-family-office/"
+categories: ["CFI.co Meets"]
+content_sha256: 001ff8352d6b9e4e90d3ede90554238e16a0085a96c251c8af116b886da4b0a2
+canonical: 18568-professor-robert-anthony-anthony-cie-a-specialist-in-many-fields-with-a-passion-.json
+---
+
+# Professor Robert Anthony, Anthony & Cie: A Specialist in Many Fields with a Passion for All Things Financial and Family Office
+
+> Verbatim archived copy. Canonical machine record: `18568-professor-robert-anthony-anthony-cie-a-specialist-in-many-fields-with-a-passion-.json`.
+
+[caption id="attachment_18569" align="alignright" width="300"]<img class="size-medium wp-image-18569" src="https://cfi.co/wp-content/uploads/2021/02/Principal-Partner-Professor-Robert-Anthony-300x221.jpg" alt="Principal Partner: Professor Robert Anthony" width="300" height="221" /> <strong>Principal Partner:</strong> Professor Robert Anthony[/caption]
+<p style="text-align: justify;"><strong>Anthony &amp; Cie is a multi-family office which orchestrates financial, legal, real estate and tax advice in France.</strong></p>
+<p style="text-align: justify;">Robert Anthony is the principal partner at Anthony &amp; Cie, which was established in 1978 and is currently based on the French Riviera. He is an independent member of Geneva Group International (GGI), a British Chartered Certified Accountant and a Certified Financial Planner (France).</p>
+<p style="text-align: justify;">As an international family office, Anthony &amp; Cie manages cross-border strategies for international clients. It is currently active in Europe, Latin America and Africa, thanks to the global alliance of independent professional firms, GGI. It mainly brings its expertise to private individuals and professionals in France.</p>
+Robert Anthony was formerly Professor of International Tax Law at the Thomas Jefferson School of Law in San Diego, California. He has been a member of the board of Sophia Business Angels for several years.
+<p style="text-align: justify;">As an independent member of GGI, he chaired a practice group of private equity and international wealth management for four years.</p>
+Robert Anthony is a member of several associations: ACCA (Association of Chartered Certified Accountants), CNCGP (Chambre Nationale des Conseils en Gestion de Patrimoine), CGPC (Conseil en Gestion de Patrimoine Certifié).
+<p style="text-align: justify;">Over the years, he has submitted articles to various international journals, and authored a book, International Fiscal Strategy, published by Monitor Press in London.</p>
+<p style="text-align: justify;">He regularly speaks at international summits and conferences as an expert in tax and family offices. Robert Anthony’s expertise and in-depth knowledge is constantly in demand, and he has delivered lectures at conferences and gatherings around the world.</p>
+In the past, Robert Anthony has been editor of Europe for Tax Analysts and a member of the committee at the <a href="http://www.iod.com/" target="_blank" rel="noopener noreferrer">Institute of Directors</a> (Monaco branch). He has been an honorary magistrate in the UK, and chairman of the Association of Combined Youth Clubs under the Royal Patronage of the Princess Royal in the UK.
+<p style="text-align: justify;">For further information, please visit <a href="https://antco.com/" target="_blank" rel="noopener noreferrer">antco.com</a></p>
