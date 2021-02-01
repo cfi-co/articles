@@ -1,0 +1,33 @@
+---
+id: 18571
+title: "Does Anyone Care About the Environment? Nordea Finance CEO Peter Hupfeld Does, and Always Has"
+award_year: 2021
+published: 2021-02-01 17:26:58
+published_gmt: 2021-02-01 17:26:58
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/cfi-co-meets/2021/02/does-anyone-care-about-the-environment-nordea-finance-ceo-peter-hupfeld-does-and-always-has/"
+categories: ["CFI.co Meets"]
+content_sha256: 0ce55d1e9356e92613a09f1c255cb9a62efa6e1eefd93beef171502c93b51f20
+canonical: 18571-does-anyone-care-about-the-environment-nordea-finance-ceo-peter-hupfeld-does-and.json
+---
+
+# Does Anyone Care About the Environment? Nordea Finance CEO Peter Hupfeld Does, and Always Has
+
+> Verbatim archived copy. Canonical machine record: `18571-does-anyone-care-about-the-environment-nordea-finance-ceo-peter-hupfeld-does-and.json`.
+
+[caption id="attachment_18572" align="alignright" width="300"]<img class="size-medium wp-image-18572" src="https://cfi.co/wp-content/uploads/2021/02/Peter-Hupfeld-300x197.jpg" alt="Nordea Finance CEO: Peter Hupfeld" width="300" height="197" /> <strong>Nordea Finance CEO:</strong> Peter Hupfeld[/caption]
+<p style="text-align: justify;"><strong>When Nordea Finance CEO Peter Hupfeld graduated as an environmental engineer in 1998 he, like many of his fellow students, had big dreams of making a difference. “Then I stepped out into reality, and no one really cared about environmental issues,” he says.</strong></p>
+<p style="text-align: justify;">Hupfeld has a background in management consultancy and held executive positions in a Nordic insurance company before joining the largest finance company in the region, Nordea Finance.</p>
+<p style="text-align: justify;">Since taking on the role in 2015, Hupfeld has driven an ambitious agenda to transform the company into one that is customer-centric, with a Nordic mindset applied to its four local markets. The result has been a steady increase in customer satisfaction scores over the past four years. “I’m really proud of how far we’ve come,” he says, “but we still have work to do.”</p>
+
+<blockquote>
+<h3>“I’m really proud of how far we’ve come,” he says, “but we still have work to do.”</h3>
+</blockquote>
+<p style="text-align: justify;">The finance industry as a whole is noticing a significant shift in customer preferences from ownership towards more sustainable leasing options, and this trend is expected to increase.</p>
+<p style="text-align: justify;">“We were part of the first wave of what we call ‘green financing’ across several of our business lines two years ago,” says Hupfeld. “This trend started with larger items like cars and heavy machinery, and is now flowing into smaller items like electrical bicycles and information and communication technology (ICT) circular economies — making greener solutions accessible to a broader range of people and industries.”</p>
+<p style="text-align: justify;">In addition to his CEO role in Nordea Finance, Hupfeld participates on the board of Leaseurope, a federation bringing together leasing company associations across Europe. “Nordea Finance and the finance industry more broadly have a significant role to play in providing relevant offers for customers and partners looking for more sustainable solutions, and in educating the industries we serve about how they can finance in a greener way.”</p>
+<p style="text-align: justify;">As more and more companies commit to CSR targets, car fleet financing is an area where companies look to reduce their CO2 emissions. “A lot of larger and mid-sized corporates are looking to place CO2 restrictions on company cars,” says Hupfeld. “We do the same in Nordea Group. This is where we can offer greener leasing solutions such as hybrids or purely electrical vehicles.</p>
+<p style="text-align: justify;">“While we can offer greener solutions across the Nordics, local infrastructure and governmental subsidisation also has a big impact on customer preference. In Norway, for example, government subsidies supporting greener options and infrastructure for electric vehicles (Evs) has increased exponentially over recent years. Today, more than half of the new vehicles sold in Norway are EVs.
+“The other Nordic countries have some way to go in comparison, so we need to work closely with our partners, read the trends, try to influence the authorities and go live with products that are locally relevant.”</p>
+<p style="text-align: justify;">In 2020, Hupfeld’s ambitions to make a difference are a little more pragmatic than they were in 1998. “There’s still a gap between the buzz in society where people or corporates have ambitions to support greener options, and the moment they are willing to pay extra for it.</p>
+<p style="text-align: justify;">“Greener financing is one way we can help our customers, partners and society more broadly, to close that gap.”</p>
