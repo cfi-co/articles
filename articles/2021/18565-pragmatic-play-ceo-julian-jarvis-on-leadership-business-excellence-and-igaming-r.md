@@ -1,0 +1,28 @@
+---
+id: 18565
+title: "Pragmatic Play CEO Julian Jarvis: On Leadership, Business Excellence and iGaming Regulatory Trends"
+award_year: 2021
+published: 2021-02-01 15:50:21
+published_gmt: 2021-02-01 15:50:21
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/cfi-co-meets/2021/02/pragmatic-play-ceo-julian-jarvis-on-leadership-business-excellence-and-igaming-regulatory-trends/"
+categories: ["CFI.co Meets"]
+content_sha256: 0da88c6caa76f1abcc6d2171dc8aca7ab7b41d8668df10fe3d9167e228ad6f61
+canonical: 18565-pragmatic-play-ceo-julian-jarvis-on-leadership-business-excellence-and-igaming-r.json
+---
+
+# Pragmatic Play CEO Julian Jarvis: On Leadership, Business Excellence and iGaming Regulatory Trends
+
+> Verbatim archived copy. Canonical machine record: `18565-pragmatic-play-ceo-julian-jarvis-on-leadership-business-excellence-and-igaming-r.json`.
+
+[caption id="attachment_18566" align="alignright" width="300"]<img class="size-medium wp-image-18566" src="https://cfi.co/wp-content/uploads/2021/02/Julian-jarvis-300x221.jpg" alt="CEO at Pragmatic Play: Julian Jarvis" width="300" height="221" /> <strong>CEO at Pragmatic Play:</strong> Julian Jarvis[/caption]
+<p style="text-align: justify;"><strong>Julian Jarvis has over 20 years’ experience working in some of the leading online businesses: America Online and AOL Time Warner, PartyGaming Plc — which he helped take onto the FTSE 100 in 2005.</strong></p>
+<p style="text-align: justify;">Now Jarvis is chief executive of <a href="https://cfi.co/menu/corporate/2021/02/pragmatic-play-the-name-itself-reveals-philosophy-of-igamings-champion/">Pragmatic Play</a>, a fast-growing multi-product content provider to the gaming industry, offering innovative, regulated and mobile-focused products, from bingo and virtual sports to casinos.</p>
+<p style="text-align: justify;">A lawyer by training, Jarvis started out as a barrister in the UK before moving into the world of technology-based businesses. At first, he did that in his capacity as a lawyer, but he moved on to a variety of management roles.</p>
+<p style="text-align: justify;">“Legal and regulatory issues have always played a key role in the types of businesses I am attracted to,” he says. “There have been great opportunities created at the crossroads where new technology meets emerging regulatory environments — and I enjoy the business and legal challenges that arise. Those who cope well with them can create very valuable businesses in a short period of time.”</p>
+<p style="text-align: justify;">Having been at the centre of the dotcom boom with the-then internet giant AOL — and later as a pioneer of responsible and regulated online gambling — Julian Jarvis is familiar with the value of good CSR, and offering trusted digital products and services within an appropriately regulated environment.</p>
+<p style="text-align: justify;">“Online products and services are really all about selling trust,” he says. “Never more so than in the regulated online gambling sector. Increasingly, only brands that pay attention to what customers and regulators are going to need in the future in terms of compliance, privacy and digital experience will be able to build sustainable value over the long term. We work hard at this and I think it pays off.”</p>
+<p style="text-align: justify;">Among his responsibilities to the Pragmatic Play group and its holding company, Jarvis oversees a team of legal and compliance professionals at the forefront of the issues affecting the online gambling markets. “I have an excellent team whose enthusiasm and expertise adds significant value to the organisation,” he says. “We see regulatory compliance as an essential part of our product, not a bolt-on.</p>
+<p style="text-align: justify;">“It also helps to have a product development and sales teams which are, in my view, the best in the industry. The combination fuels our success.”</p>
+<p style="text-align: justify;">Aside from internet businesses and online gambling, Jarvis has been founder of a digital ledger technology business. He has also been involved in <a href="https://www.fsc.gi/dlt" target="_blank" rel="noopener noreferrer">Gibraltar’s DLT ecosystem</a> — another area where new technology meets emerging regulation.</p>
+<p style="text-align: justify;">Julian Jarvis is a qualified non-executive director and a governor of an independent schools’ group — Prior Park Schools — having co-founded a new secondary school in his adopted home of the past 16 years, Prior Park in Gibraltar.</p>
