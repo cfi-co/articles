@@ -1,0 +1,40 @@
+---
+id: 18621
+title: "Kathrein Privatbank: US Election Outcome is a Reason for Fresh Optimism, says Austrian Responsible Investment Specialist"
+award_year: 2021
+published: 2021-02-04 15:30:50
+published_gmt: 2021-02-04 15:30:50
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2021/02/kathrein-privatbank-us-election-outcome-is-a-reason-for-fresh-optimism-says-austrian-responsible-investment-specialist/"
+categories: ["Corporate"]
+content_sha256: 9213d8e735aad196fb3591be53ee0226bbea2cd687d3e2991882815f784e4c45
+canonical: 18621-kathrein-privatbank-us-election-outcome-is-a-reason-for-fresh-optimism-says-aust.json
+---
+
+# Kathrein Privatbank: US Election Outcome is a Reason for Fresh Optimism, says Austrian Responsible Investment Specialist
+
+> Verbatim archived copy. Canonical machine record: `18621-kathrein-privatbank-us-election-outcome-is-a-reason-for-fresh-optimism-says-aust.json`.
+
+<p style="text-align: justify;"><strong>Austrian financial institution Kathrein Privatbank believes that the sustainability mega-trend is still in its infancy, and that more positive performance potential is sequestered there.</strong></p>
+
+
+[caption id="attachment_18622" align="aligncenter" width="900"]<img class="size-large wp-image-18622" src="https://cfi.co/wp-content/uploads/2021/02/Kathrein_0002-1024x684.jpg" alt="From left: Harald P Holzer Member of the Board Wilhelm Celeda Chairman of the Board Stefan Neubauer Member of the Board" width="900" height="601" /> From left: <strong>Harald P Holzer</strong> Member of the Board <strong>Wilhelm Celeda</strong> Chairman of the Board <strong>Stefan Neubauer</strong> Member of the Board[/caption]
+<p style="text-align: justify;">There will be on-going support from the European regulatory authorities — and the bank is heartened by the results of the recent US elections. Joe Biden’s success will, it believes, bring more diplomacy, predictability and stability to American domestic and foreign policy.</p>
+<p style="text-align: justify;">That is good for trade relations with China and Europe, and should help to contain the “protectionist spiral”. Cross-continental co-operation on health via the World Health Organisation — and sustainability, through the Paris Agreement — also stand to benefit.</p>
+<p style="text-align: justify;">A look at the election platform of the US president-elect clearly shows that attention is being paid to the issues of climate change and the phase-out of fossil fuels and electric mobility. Ambitious goals have been set, and there is massive potential for sustainable companies, as implied by the following points:</p>
+
+<ul>
+ 	<li style="text-align: justify;">A far-reaching ban on fracking and methane</li>
+ 	<li style="text-align: justify;">Limits on oil and gas production will be introduced</li>
+ 	<li style="text-align: justify;">By 2035, all new cars sold should emit zero emissions</li>
+ 	<li style="text-align: justify;">By 2050, the entire economy should be carbon-neutral</li>
+ 	<li style="text-align: justify;">A 50 percent reduction of the carbon footprint of all buildings</li>
+ 	<li style="text-align: justify;">Some $400bn earmarked for clean energy research</li>
+ 	<li style="text-align: justify;">Company commitment to publish the financial risks related to the Climate Exposure Finance Statement.</li>
+</ul>
+<p style="text-align: justify;">Another reason for optimism, says Kathrein Privatbank, is that sustainable companies are likely to be granted more favourable financing conditions.</p>
+<p style="text-align: justify;">Kathrein Privatbank has been focusing on the topic of sustainable investment since 2011. Almost 50 percent of the assets it manages are invested according to sustainable guidelines.</p>
+<p style="text-align: justify;">Its range of sustainable funds includes pure equity and bond funds, as well as various mixed funds, certified by external sustainable quality seals such as the Austrian Ecolabel. Kathrein also offers the possibility of customised sustainable asset management. The selection of companies is always based on the evaluation of key company figures and sustainability criteria.</p>
+<p style="text-align: justify;">As much as 70 percent of current energy consumption is still produced from fossil fuels, but there will be a switch to emissions-free energy sources such as nuclear, wind, hydro and solar power. The switch to electromobility is expected to triple the demand for sustainable electricity generation.</p>
+<p style="text-align: justify;">The topic of sustainable investment is receiving a fresh tailwind in the US — the world's largest economy, with the most profitable companies.</p>
+<p style="text-align: justify;">Kathrein Privatbank is constantly developing innovative fund concepts. Since August 2020, a new “North Star” — the Kathrein Sustainable EM Local Currency Bond — has been guiding sustainable funds at Kathrein Privatbank. The concept is to invest in emerging market currencies via bonds issued by multinational development banks to pursue attractive — and responsible — returns.</p>
