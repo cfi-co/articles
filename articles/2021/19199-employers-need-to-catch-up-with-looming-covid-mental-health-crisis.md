@@ -1,0 +1,46 @@
+---
+id: 19199
+title: "Employers Need to ‘Catch Up’ with Looming Covid Mental Health Crisis"
+award_year: 2021
+published: 2021-03-18 11:48:16
+published_gmt: 2021-03-18 11:48:16
+author: "CFI.co Editorial"
+url: "https://cfi.co/c-19/2021/03/employers-need-to-catch-up-with-looming-covid-mental-health-crisis/"
+categories: ["Brave New World", "c-19"]
+content_sha256: 28d29c5227d802cbbbd7ce8982e0acc35fdc4534b7da38a8ac96a3c2ab7e403e
+canonical: 19199-employers-need-to-catch-up-with-looming-covid-mental-health-crisis.json
+---
+
+# Employers Need to ‘Catch Up’ with Looming Covid Mental Health Crisis
+
+> Verbatim archived copy. Canonical machine record: `19199-employers-need-to-catch-up-with-looming-covid-mental-health-crisis.json`.
+
+<strong><img class="alignright wp-image-19200 size-medium" title="Covid Mental Health" src="https://cfi.co/wp-content/uploads/2021/03/Covid-Mental-Health-300x212.jpg" alt="Covid Mental Health" width="300" height="212" />When it comes to workplace wellbeing, there has been a polarised response to the pandemic. A third of UK employees say support has improved, but others say many organisations are falling short.</strong>
+
+Mental ill health costs employers £2.4bn each year, and despite warnings of a looming crisis many have failed to increase support for workers. Of employees canvassed in a recent study by Mental Health First Aid (MHFA), 41 percent said they had less frequent wellbeing check-ins, or none at all, during the pandemic. Slightly more – 43 percent – said their workplace mental health and wellbeing support was unchanged or worse.
+
+MHFA says employers need to increase support, with regular wellbeing checks and activities to stay connected, while ensuring managers have the requisite training and resources.
+
+The research reveals stark differences in the experiences of men and women, and the impact of Covid-19 on their workplace mindset. While 68 percent of women said their workplace confidence had decreased owing to the pandemic, only 31 percent of men felt the same. And 64 percent of women reported an increase in feelings of loneliness or feelings of isolation during this period; the figure was 36 percent for men.
+
+There is a silver lining to the work-from-home model, though. As people juggle work and home life, there have been more insights into colleagues’ lives. Positively, 38 percent of employees say they find easier to bring their “whole self” to work, and be more open with colleagues. That’s double the number of those who found it difficult to do so: 19 percent.
+
+The research coincided with My Whole Self Day in March which was part of the MHFA campaign for workplace culture-change. Backed by business directors and mental health leaders from the Samaritans, Nestle, Bupa UK, UBS and LinkedIn, the Chartered Management Institute and the Federation of Small Businesses, it calls on organisations to empower employees.
+
+The differences in the support people receive for mental health and wellbeing is worrying, says MHFA England CEO Simon Blake. “Covid-19 has increased the need for employers to support the mental health and wellbeing of their staff,” he said. “The pandemic has laid bare pre-existing inequalities – gender, race and economic – and it has exacerbated them. This needs serious attention as we start to rebuild.
+
+“It is encouraging to see some employers doing brilliant work, but this research reveals disparities in how organisations are approaching mental health and wellbeing support. Workplaces are key to creating a society where everyone’s mental health matters, so some employers must play catch-up.
+
+“It is positive to see many people report they feel they can bring more of their ‘whole self’ to work … Employers must build cultures where people have the trust, flexibility, safety and freedom.”
+
+Blake said regular wellbeing check-ins with colleagues were vital “We’re urging all employers to adopt this simple practice,” he added.
+
+Ann Francke, chief executive of the Chartered Management Institute (CMI), said now was the time. “The pandemic showed that the need for empathetic leadership is on the rise – 72 percent of managers told us that wellbeing would be their top priority for 2021.”
+
+There was an opportunity that should not be missed, she added. “We’re at a crucial point for our country and we want to build back better, so let’s use this once-in-a-generation opportunity to change our workplaces to achieve that.
+
+“Flexible working, improved communication and more consultation are things that build trust and productivity, and we should carry those forward.”
+
+Karl Simons, chief health, safety and security officer at Thames Water, said not only physical or psychological issues affected workers. “It’s the environment in which they are placed,” he said. “At Thames Water, we have created a culture of care in which our people feel empowered to speak up any time they require support, so we can be there at that time of need.”
+
+<em>* MHFA England has launched the My Whole Self “MOT” – a free guide to enable people to check in on their mental health. See <span style="text-decoration: underline;"><a href="https://mhfaengland.org/my-whole-self/" target="_blank" rel="noopener noreferrer">mhfaengland.org/my-whole-self/</a></span></em>
