@@ -1,0 +1,34 @@
+---
+id: 19541
+title: "Dr Chitwan Malhotra: Healthcare Hands Meet Across the Waters in Push for Rebuild"
+award_year: 2021
+published: 2021-04-19 13:28:14
+published_gmt: 2021-04-19 12:28:14
+author: "CFI.co Editorial"
+url: "https://cfi.co/editors-picks/2021/04/dr-chitwan-malhotra-healthcare-hands-meet-across-the-waters-in-push-for-rebuild/"
+categories: ["Heroes"]
+content_sha256: 533368245f157a1c075a97764675eb4dd380725dc22303cc9b6615d7f9a171d3
+canonical: 19541-dr-chitwan-malhotra-healthcare-hands-meet-across-the-waters-in-push-for-rebuild.json
+---
+
+# Dr Chitwan Malhotra: Healthcare Hands Meet Across the Waters in Push for Rebuild
+
+> Verbatim archived copy. Canonical machine record: `19541-dr-chitwan-malhotra-healthcare-hands-meet-across-the-waters-in-push-for-rebuild.json`.
+
+[caption id="attachment_19542" align="alignright" width="300"]<img class="wp-image-19542 size-medium" src="https://cfi.co/wp-content/uploads/2021/04/Bill-Gates-and-Dr-Chitwan-Malhotra-300x205.jpg" alt="Bill Gates and Dr Chitwan Malhotra" width="300" height="205" /> Bill Gates and Dr Chitwan Malhotra[/caption]
+<p style="text-align: justify;"><strong>The global pandemic has exposed the flaws and inequalities of the world’s healthcare systems. But doctor Chitwan Malhotra, the executive director of the UNSDG Health Partnership in Geneva, believes it also represents an opportunity to build back better.</strong></p>
+<p style="text-align: justify;">“I believe nothing is unachievable when we all work together,” the SDG expert says.</p>
+<p style="text-align: justify;">Malhotra took up her position two years ago and has served as in an advisory capacity across the gamut of the UN’s Sustainable Development Goals. She has collaborated on a range of initiatives, including global health delivery, urban and rural sanitation, clean drinking water, gender equality, women’s health, non-communicable diseases (NCDs) and mental health in conflict regions.</p>
+<p style="text-align: justify;">“I am from the conflict region of Kashmir and have witnessed the first-hand tragic effects of what limited access to health has on the forcibly (internally or externally) displaced population,” she told APN News. “I have made Universal Health Coverage, health for all, my top priority. If we are to remain true to the principles of the SDGs, and leave no-one behind, we must do a better job of getting health services to refugees and migrants.”</p>
+<p style="text-align: justify;">Malhotra grew up in the Kashmir Valley, a disputed territory between India, Pakistan and China. Now she works to strengthen health diplomacy, foster collaborative partnerships and engage with international thought-leaders and decision-makers.</p>
+<p style="text-align: justify;">As a regular keynote speaker at SDG conferences, Malhotra has crossed paths with some of the world’s most lauded business leaders. She has held discussions on technology, innovations and health with Bill Gates, Satya Nadella (Microsoft CEO) and Mukesh Ambani (Reliance Industries chairman and managing director).</p>
+<p style="text-align: justify;">During the 74th UN General Assembly in New York in 2019, Malhotra was involved in the conceptualisation of the Zimbabwe Presidential Fund. The fund focuses on using IT to build digitally enabled smart primary clinics. The fund is also dedicated to improving access to essential medicines for the most vulnerable population. It aims to strengthen primary healthcare and empower communities to better manage the growing burden of NCDs.</p>
+<p style="text-align: justify;">“In the age of global competitiveness resources, these are opportunities that we cannot afford to miss in Zimbabwe. The proactive efforts by the government have motivated us on this visit, and we are prepared to invest and partner with Zimbabwe with interest in the health sector,” Malhotra told The Herald.</p>
+<p style="text-align: justify;">She pointed to Zimbabwe’s success in tackling the HIV and AIDs epidemic — despite being one of the countries hit hardest. “It has managed to reduce the prevalence of the disease considerably, and is on track in achieving its vision of reducing infections by 2030.”</p>
+<p style="text-align: justify;">Malhotra was proud to work with health ministries from various countries to facilitate the urgent procurement and delivery of medical supplies to protect frontline workers and support health systems during the Covid-19 pandemic. She was instrumental in the landmark deal through IHD Marketplace to supply N95 masks to the US from India, opening a new chapter in bilateral ties between the two countries.</p>
+<p style="text-align: justify;">“At the IHD Marketplace, we stand by the US and other countries in their efforts to respond to demands on the health system resulting from this emergency,” said Malhotra, who also serves as chairperson of the IHD Group.</p>
+<p style="text-align: justify;">Malhotra has received recognition for her continued efforts to further sustainable development around the world. She was awarded the environment award for her contributions to sanitation and clean drinking water initiatives in rural regions of Africa and India. She was honoured by Samira Bawumia, a politician and the Second Lady of Ghana, for her contributions towards good health and wellbeing (SDG#3). She was named by Economic Times as the Global Healthcare Leader of 2020.</p>
+<p style="text-align: justify;">Her work is now focused on international health co-operation, and she leads several health committees and programmes in close collaboration with international partners. In addition to serving as head of the UNSDG Health Partnership in Geneva, Malhotra will oversee the development of the India-Africa health cooperation process. She will also initiate and nurture health cooperation within ASEAN (Association of Southeast Asian Nations) and BRICS (Brazil, Russia, India, China and South Africa) countries.</p>
+More: <span style="text-decoration: underline;"><strong><a href="http://www.therisingeurope.com/ihdlife-donates-ambulance-to-angel-of-hope-foundation-zimbabwe/" target="_blank" rel="noopener noreferrer">IHDLife Donates Ambulance to Angel of Hope Foundation - Zimbabwe</a></strong></span>
+
+https://www.youtube.com/watch?v=_2k0lpdN_LA
