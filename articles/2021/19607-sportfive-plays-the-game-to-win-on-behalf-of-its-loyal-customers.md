@@ -1,0 +1,37 @@
+---
+id: 19607
+title: "SPORTFIVE Plays the Game to Win – On Behalf of Its Loyal Customers"
+award_year: 2021
+published: 2021-05-06 12:34:23
+published_gmt: 2021-05-06 11:34:23
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2021/05/sportfive-plays-the-game-to-win-on-behalf-of-its-loyal-customers/"
+categories: ["Corporate"]
+content_sha256: 52fb3c13b2440d2da70cd8287fbbeb0364f3edadf1aeb9bd3b4a5451c68658ce
+canonical: 19607-sportfive-plays-the-game-to-win-on-behalf-of-its-loyal-customers.json
+---
+
+# SPORTFIVE Plays the Game to Win – On Behalf of Its Loyal Customers
+
+> Verbatim archived copy. Canonical machine record: `19607-sportfive-plays-the-game-to-win-on-behalf-of-its-loyal-customers.json`.
+
+[caption id="attachment_19608" align="alignright" width="300"]<img class="size-medium wp-image-19608" src="https://cfi.co/wp-content/uploads/2021/05/CEO-Stefan-Felsing-300x204.jpg" alt="CEO: Stefan Felsing" width="300" height="204" /> <strong>CEO:</strong> Stefan Felsing[/caption]
+<p style="text-align: justify;"><strong>Global sports business agency SPORTFIVE delivers customer-centric solutions based on trust, transparency, industry experience, global relations, digital data intelligence and innovation. </strong></p>
+<p style="text-align: justify;">SPORTFIVE strategically connects brands, rights-holders, media platforms and fans to create lasting partnerships. With the goal of creating and growing long-term value, the agency leads the sports business into the future with innovative digital solutions. It aims to be “the most progressive and respected partner in sports”.</p>
+<p style="text-align: justify;">SPORTFIVE operates with a global mindset and network of over 1,000 local experts based in 15 countries. It is active in football, golf, e-sports, motorsport, handball, tennis, American football, basketball, ice hockey, and multisport events.</p>
+<p style="text-align: justify;">It provides comprehensive services for brands, rights-holders, media platforms and athletes. Heineken, SAP, BMW and Longines are among the brands that benefit from the agency’s consulting, partnership acquisition and activation services.</p>
+<p style="text-align: justify;">Rights-holders such as the UEFA, DFB, Borussia Dortmund, Riot Games, Atletico Madrid and the LA Lakers rely on the agency’s expertise for marketing partnerships, consulting, partnership sales, hospitality, media sales, international marketing, digital and analytics projects as well as stadium services.</p>
+<p style="text-align: justify;">Some 350 top athletes – among them Phil Mickelson, Jadon Sancho, Christian McCaffrey and Toni Kroos – trust SPORTFIVE for talent representation, digital audience development, partnership sales, merchandising and event management.</p>
+<p style="text-align: justify;">Media platforms such as ESPN, Twitch and ARD work with the agency on consulting matters, rights and content acquisition, broadcast production, and partnership and ad sales.</p>
+<p style="text-align: justify;">The go-ahead agency possesses the biggest network of C-level contacts on brand-side worldwide, and commands the largest salesforce in global sports marketing. It can act as a single partner for any stakeholder along the whole value chain of B2B commercialisation.</p>
+<p style="text-align: justify;">SPORTFIVE is a pioneer in automated sales platforms, virtual ads, fan data, e-sports, digital products and services, influencer management and stadium experience.</p>
+<p style="text-align: justify;">Sports business expert Stefan Felsing chief executive officer and leads a four-person executive committee that operates out of Hamburg, Germany.</p>
+
+<h3 style="text-align: justify;">Exciting Career Dominated by Passion for Sport and Business</h3>
+<p style="text-align: justify;">During his time at SPORTFIVE, Stefan Felsing showed his expertise in the field.</p>
+<p style="text-align: justify;">Felsing studied law in Hamburg and Lausanne, graduating in 1997. He led the sale of the global media rights for the UEFA EURO 2008 and created a dedicated team of experts based in Nyon (Switzerland) to build lasting value for the project.</p>
+<p style="text-align: justify;">In 2008, Felsing left the SPORTFIVE Group and founded UFA Sports with former leading SPORTFIVE managers Robert Müller von Vultejus, Nikolaus von Doetinchem and Karsten Mahlmann.</p>
+<p style="text-align: justify;">At the same time, he was the pro-bono vice-president of the German Tennis Federation, supporting its legal affairs and marketing. In 2015, UFA Sports was acquired by the Lagardère Sports Group and rebranded U! Sports.</p>
+<p style="text-align: justify;">Since that time, the company has been part of the global network of Lagardère Sports and Entertainment, and Felsing was appointed executive vice-president of global media of LSE.</p>
+<p style="text-align: justify;">Stefan Felsing left the company at his own request in 2018 to start his own company specialising in sports business consulting. After successfully advising HIG Capital on the acquisition of LSE, Stefan returned to the agency and was appointed CEO. In 2020 the agency was rebranded to SPORTFIVE.</p>
+<p style="text-align: justify;"><em>For more information please visit <span style="text-decoration: underline;"><a href="https://sportfive.com/">sportfive.com</a></span></em></p>
