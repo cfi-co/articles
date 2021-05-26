@@ -1,0 +1,33 @@
+---
+id: 19742
+title: "Anna Radulovski: ‘Mompreneur’ Shares Struggles and Wins: is This the Next Unicorn in the Making…?"
+award_year: 2021
+published: 2021-05-26 11:22:45
+published_gmt: 2021-05-26 10:22:45
+author: "CFI.co Editorial"
+url: "https://cfi.co/editors-picks/2021/05/anna-radulovski-mompreneur-shares-struggles-and-wins-is-this-the-next-unicorn-in-the-making/"
+categories: ["Heroes"]
+content_sha256: 88cfeec68f5fca09909b67e2e57e9a5b5f2d057a8e7ff724cf18db6af8b853fa
+canonical: 19742-anna-radulovski-mompreneur-shares-struggles-and-wins-is-this-the-next-unicorn-in.json
+---
+
+# Anna Radulovski: ‘Mompreneur’ Shares Struggles and Wins: is This the Next Unicorn in the Making…?
+
+> Verbatim archived copy. Canonical machine record: `19742-anna-radulovski-mompreneur-shares-struggles-and-wins-is-this-the-next-unicorn-in.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-medium wp-image-19743" src="https://cfi.co/wp-content/uploads/2021/05/Anna-Radulovski-300x188.jpg" alt="Anna Radulovski" width="300" height="188" />Anna Radulovski doesn’t just want to make money — she wants to make impacts.</strong></p>
+<p style="text-align: justify;">Born and raised in the Ukraine, Radulovski now calls California home. In a podcast interview focused on empowerment and leadership, Radulovski spoke of her struggles — and triumphs — as a young graduate entering the international work force.</p>
+<p style="text-align: justify;">After moving to Bulgaria and receiving her first pittance of a pay cheque, she set her mind to never again accept “these coins, these peanuts” in exchange her time and talents. Now, she’s pushing the character limits to include all her titles on her LinkedIn profile.</p>
+<p style="text-align: justify;">Radulovski is the founder and CEO of WomenTech, the global network responsible for connecting 100,000 women, minorities and their allies via an annual science and engineering conference. The usual fanfare of the global event was moved online for 2020 and featured an interactive platform with keynote speakers, panel discussions, technical workshops and a tech job fair with face-to-face networking sessions spread over three days.</p>
+<p style="text-align: justify;">“During these hard times, many people are being laid off, losing their jobs; often women are the first ones to be asked to leave for unpaid vacation, and we’d like to help. Our focus is global since gender diversity and diversity in tech is not a regional issue,” Radulovski said in preparation for last year’s event, the main theme of which was “Being Human in Times of Disruption, Technology, and Innovation”.</p>
+<p style="text-align: justify;">The 2021 conference (scheduled for June 7-11) will build upon last year’s virtual success and include live ceremonies and breakout rooms as well as country and chapter leader sessions.</p>
+<p style="text-align: justify;">“In times of social isolation, crisis, and uncertainty it is more important than ever to feel supported by your family or your community. While many of our members are affected by the crisis whether financially or mentally, we see it as important as ever to give our helping hand to get inspired, connect, and find a mentor or career opportunities.”</p>
+<p style="text-align: justify;">Radulovski promotes the benefits of network membership from the WomenTech headquarters in Silicon Valley. The conference has already reached over a million people.</p>
+<p style="text-align: justify;">WomenTech Network has a symbiotic relationship with Coding Girls, Tech Family Ventures, Founder Institute and Tallocate — all of which count Radulovski among their co-founders and current leadership. Each organisation seeks to correct the gender imbalance in the tech industry. Coding Girls focuses on empowerment, education and engagement, while the others range from diversity-focused venture capital and female-founder fellowships to a bias-free, AI-powered hiring platform.</p>
+<p style="text-align: justify;">Like many female founders, Radulovski has experienced the tight-rope balancing act that comes with being a “mompreneur”. She warns women to choose a partner who will support — rather than stifle — their professional ambitions.</p>
+<p style="text-align: justify;">“Some countries and cultures are more open-minded while others are still narrow-minded, believing that women’s place is in the kitchen, looking after children or doing ‘feminine’ jobs,” Radulovski told Youth Time magazine. “On the other hand, we see a few role models in tech, who are excellent engineers, product developers, team leads, VPs, CEOs of tech companies, founders of start-ups.”</p>
+<p style="text-align: justify;">Radulovski is one such role model, lighting the way for future generations. For her tireless efforts, she was aptly named as the “Trailblazer” winner of the 2020 Diversity In Tech Awards.
+There are many hurdles to deal with in a corporate culture that is still widely dominated by men, Radulovski says. “This leads to all kinds of specific challenges, including (but not limited to) limited funding, ‘men’s club’ workplace cultures, a lack of access to growth and resources.”</p>
+<p style="text-align: justify;">But, Radulovski says, women shouldn’t be discouraged — even if the numbers paint a dismal picture. She referenced a top-200 start-up list published by GeekWire last year, which only featured 16 women-led companies. Those figures might sound bleak, but according to Radulovski, they show incremental progress.</p>
+<p style="text-align: justify;">“A woman starting a tech business in a coworking space will, in addition to benefiting from the social atmosphere, feel like part of something that’s big, and growing. These are not wide-open spaces where individuals freelancers are huddled quietly at desks; they’re pleasantly busy, buzzy workplaces where, as corny as it may sound, there’s a sense of success in the air.”</p>
+<p style="text-align: justify;">Sounds like the perfect incubator for the next unicorn.</p>
