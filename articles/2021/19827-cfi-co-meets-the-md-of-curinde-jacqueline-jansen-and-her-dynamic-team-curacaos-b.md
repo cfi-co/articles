@@ -1,0 +1,31 @@
+---
+id: 19827
+title: "CFI.co Meets the MD of Curinde, Jacqueline Jansen, and Her Dynamic Team: Curaçao’s Booming Business Parks are in Safe Hands"
+award_year: 2021
+published: 2021-06-11 11:46:46
+published_gmt: 2021-06-11 10:46:46
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2021/06/cfi-co-meets-the-md-of-curinde-jacqueline-jansen-and-her-dynamic-team-curacaos-booming-business-parks-are-in-safe-hands/"
+categories: ["Corporate"]
+content_sha256: 01a89ef4196c60784805167a1f89cf992d2a98180883a722d85fd292455dd1d6
+canonical: 19827-cfi-co-meets-the-md-of-curinde-jacqueline-jansen-and-her-dynamic-team-curacaos-b.json
+---
+
+# CFI.co Meets the MD of Curinde, Jacqueline Jansen, and Her Dynamic Team: Curaçao’s Booming Business Parks are in Safe Hands
+
+> Verbatim archived copy. Canonical machine record: `19827-cfi-co-meets-the-md-of-curinde-jacqueline-jansen-and-her-dynamic-team-curacaos-b.json`.
+
+[caption id="attachment_19828" align="alignright" width="300"]<img class="size-medium wp-image-19828" src="https://cfi.co/wp-content/uploads/2021/06/Jacqueline-Jansen-300x222.jpg" alt="Managing Director: Jacqueline Jansen" width="300" height="222" /> <strong>Managing Director:</strong> Jacqueline Jansen[/caption]
+<p style="text-align: justify;"><strong>Curinde is the operator and developer of three business parks in Curaçao.</strong></p>
+<p style="text-align: justify;">Jacqueline Jansen was born and raised in Curaçao, and has occupied various positions at Curinde: assistant to the head of finance, and assistant to the managing director on personnel-related issues such as career planning, job evaluation and counselling.</p>
+<p style="text-align: justify;">After just a few months at Curinde, Jansen was appointed head of the finance department in 1989. She stayed in this position until 2012, responsible for preparing the company’s financial planning and budget, financial forecasts, annual reports and managing financial resources. In 2012, Jansen was appointed managing director. She has a clear vision for the company, and works closely with her dedicated team.</p>
+<p style="text-align: justify;">She now carries responsibility for three business parks with a client base of 200 companies.</p>
+<p style="text-align: justify;">One of the major achievements in recent years is how the Curinde team, in cooperation with other stakeholders, handled counterfeit in its business parks. Trainings and seminars created awareness on the topic. Due to Jansen’s experience and respect for intellectual property in the Free Economic Zones, based on laws and regulations in Curaçao, she was invited to participate as speaker and panellist in international conferences organised by the International Anti-counterfeiting Coalition (IACC), the International Trademark Association (INTA) and Interpol.</p>
+<p style="text-align: justify;">Jansen is also a board member of two entities in Curaçao. She is goal-orientated, resolute, and a team player.</p>
+<p style="text-align: justify;">The Team of Curinde consists of dynamic professionals with deep experience in their field. The Investment Promotion &amp; Acquisition department is in charge of attracting and assisting new clients. Once the clients are established, aftercare is provided by the client management department.</p>
+<p style="text-align: justify;">The finance and IT departments and secretaries provide the necessary support for the daily operation of the company. Jansen has the support of Cursecure and Investigations and the P&amp;P Safety Group. Cursecure oversees all security-related matters in Curinde’s business parks and the head office.</p>
+
+
+[caption id="attachment_19829" align="aligncenter" width="900"]<img class="size-large wp-image-19829" src="https://cfi.co/wp-content/uploads/2021/06/Curindes-Team-1024x411.jpg" alt="Curinde's Dynamic Team" width="900" height="361" /> Curinde's Dynamic Team[/caption]
+<p style="text-align: justify;">It provides 24/7 security services. The CEO of Cursecure is a former police officer with broad experience in security issues. With his team, he controls the premises. P&amp;P Safety Group is responsible for keeping Curinde’s business parks safe.</p>
+<p style="text-align: justify;">Business owners want to establish their companies in a safe and secure environment where they can concentrate on doing the job at hand. Security and safety are vital aspects considered in the decision-making process when selecting business locations — and Curinde has this one covered.</p>
