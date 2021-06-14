@@ -1,0 +1,29 @@
+---
+id: 19855
+title: "CFI.co Meets the CEO of Retail Opportunity Investments Corp. (ROIC): Stuart Tanz"
+award_year: 2021
+published: 2021-06-14 15:19:46
+published_gmt: 2021-06-14 14:19:46
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2021/06/cfi-co-meets-the-ceo-of-retail-opportunity-investments-corp-roic-stuart-tanz/"
+categories: ["Corporate"]
+content_sha256: 0e7b89f4003177b53a7683c611a0c41e8b4a70cfa534d49c390991d6d4180a8f
+canonical: 19855-cfi-co-meets-the-ceo-of-retail-opportunity-investments-corp-roic-stuart-tanz.json
+---
+
+# CFI.co Meets the CEO of Retail Opportunity Investments Corp. (ROIC): Stuart Tanz
+
+> Verbatim archived copy. Canonical machine record: `19855-cfi-co-meets-the-ceo-of-retail-opportunity-investments-corp-roic-stuart-tanz.json`.
+
+[caption id="attachment_19810" align="alignright" width="300"]<img class="wp-image-19810 size-medium" title="Stuart Tanz, CEO Retail Opportunity Investments Corp" src="https://cfi.co/wp-content/uploads/2021/06/Stuart-Tanz-300x242.jpg" alt="Stuart Tanz, CEO Retail Opportunity Investments Corp" width="300" height="242" /> CEO: Stuart Tanz[/caption]
+<p style="text-align: justify;"><strong>California-based <a href="https://www.roireit.net/" target="_blank" rel="noopener noreferrer">Retail Opportunity Investments Corp.</a> (ROIC) acquires, owns and manages grocery-anchored, open-air shopping centres on the US West Coast.</strong></p>
+<p style="text-align: justify;">Since starting operations in 2009, ROIC has grown its asset base sevenfold. With a portfolio today totalling some 10 million square feet, ROIC is the largest publicly traded (US Nasdaq) REIT focused on West Coast shopping centres.</p>
+<p style="text-align: justify;">“Over the past 12 years, we have worked carefully and deliberately at amassing a portfolio of grocery-anchored shopping centres diversified across the most sought-after, demographically strong markets spanning the West Coast, from our headquarters in San Diego all the way up to Seattle,” explains CEO Stuart Tanz. “Our West Coast and grocery-anchor focus is what truly sets us apart, and it has been instrumental in our ability to build a quality portfolio.”</p>
+<p style="text-align: justify;">While the retail bricks-and-mortar industry has been hard-hit during the pandemic, ROIC’s portfolio has performed remarkably well. During multiple business shutdowns, all ROIC shopping centres remained open — with many of its key tenants achieving record sales. Tanz credits ROIC’s resiliency to its community-driven focus.</p>
+<p style="text-align: justify;">“By design, we have always focused on leasing our portfolio to essential tenants, most notably supermarkets and drug stores, providing basic household goods and services that are always in need, and our communities have come to depend on, especially in difficult times.”</p>
+<p style="text-align: justify;">For eight years running, ROIC has achieved a best-in-class portfolio lease rate that today is an impressive 97 percent. Tanz attributes the consistent performance to a hands-on approach “Each year we lease approximately double the amount of space that was actually scheduled to expire,” he says, “exemplifying how we proactively work our portfolio. We seek opportunities at every turn to enhance tenancies and increase the intrinsic, long-term value of our centres.”</p>
+<p style="text-align: justify;">As well as being a leader in the US REIT industry, ROIC fosters a corporate culture that cares for employees and tenants — as well as communities and the planet. ROIC’s ESG policies are aligned with the United Nations Guiding Principles on Business and Human Rights, and ROIC supports diversity, equity and inclusion in the workplace. ROIC is actively engaged in enhancing the environmental performance of its portfolio.</p>
+<p style="text-align: justify;">“Since day one, we’ve been committed to running our business responsibly and equitably,” Tanz says. “We are committed to being a leading steward in terms of operating our shopping centres in an environmentally sensitive and sustainable manner. We take great pride in the business that we built, the shopping centres that we own, and the strong relationships that we have fostered in the communities we serve. We all strive to make a difference.”</p>
+<p style="text-align: justify;">As e-commerce continues to grow, leading online retailers are now establishing physical stores to boost overall sales and solve “the last mile delivery conundrum”. Amazon’s acquisition of Whole Foods, a prominent supermarket chain with stores across the US, is a prime example.</p>
+<p style="text-align: justify;">Tanz explains: “These online retailers, like Amazon, understand the value of having a physical presence at key, high-traffic locations. Shopping centres that are located in the heart of densely populated communities, and feature supermarkets that draw daily consumers, are well-suited for meeting their objectives.”</p>
+<p style="text-align: justify;">As a growing number of omni-channel retailers and real estate investors are gravitating towards grocery-anchored centres, Stuart Tanz believes the best is yet to come for ROIC. “As we look ahead, we believe that we are ideally-positioned, with our strong, grocery-anchored portfolio and West Coast leadership position to continue generating consistent growth and building value for many years to come.”</p>
