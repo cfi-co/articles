@@ -1,0 +1,37 @@
+---
+id: 19869
+title: "Investment House: Team Efforts Bring Qatari Company to the Fore, with Rewards, Awards, and Exciting Plans for the Future"
+award_year: 2021
+published: 2021-06-18 10:40:26
+published_gmt: 2021-06-18 09:40:26
+author: "CFI.co Editorial"
+url: "https://cfi.co/middleeast/2021/06/investment-house-team-efforts-bring-qatari-company-to-the-fore-with-rewards-awards-and-exciting-plans-for-the-future/"
+categories: ["Middle East"]
+content_sha256: f5b8a55cfaca049ee99f903f7fb00274324ade618f63dde6305e66e6ec6b352a
+canonical: 19869-investment-house-team-efforts-bring-qatari-company-to-the-fore-with-rewards-awar.json
+---
+
+# Investment House: Team Efforts Bring Qatari Company to the Fore, with Rewards, Awards, and Exciting Plans for the Future
+
+> Verbatim archived copy. Canonical machine record: `19869-investment-house-team-efforts-bring-qatari-company-to-the-fore-with-rewards-awar.json`.
+
+<p style="text-align: justify;"><strong>Qatar-based Investment House recently celebrated its 20ᵗʰ anniversary – with a flurry of awards.</strong></p>
+
+
+[caption id="attachment_19870" align="aligncenter" width="900"]<img class="wp-image-19870 size-large" title="Investment House is based in Doha, Qatar" src="https://cfi.co/wp-content/uploads/2021/06/Doha-Qatar-1024x622.jpg" alt="Investment House is based in Doha, Qatar" width="900" height="547" /> <strong>Qatar:</strong> Doha[/caption]
+<p style="text-align: justify;">The criteria for recognition included financial stability, profitability, continuous growth, assets quality, compliance with regulations and Shariah rules – in addition to a significant increase in customer base.</p>
+<p style="text-align: justify;">Investment House was acquired in late 2018 by a group of Qatari businessmen with a shared vision. The injection of capital and fresh blood went hand-in-hand with the introduction of modern business strategies, allied to opportunities in the Qatari wealth management market.</p>
+<p style="text-align: justify;">It also helped Investment House to overcome market competition. The company provides its clients with investment opportunities that seek to maximise value and minimise risk.</p>
+<p style="text-align: justify;">Investment House chairman and managing director, Mohammed Bin Ahmed Al Suwaidi, said the awards came as the company was contributing to the economic renaissance of the Qatari economy. These efforts were supported by the country’s emir, <a href="https://www.diwan.gov.qa/hh-the-amir?sc_lang=en" target="_blank" rel="noopener noreferrer">His Highness Sheikh Tamim bin Hamad al-Thani</a>.</p>
+<p style="text-align: justify;">Suwaidi pointed out that public recognition was an indicator that the company was on-track to meet its goal of serving its customers, the nation, and society.</p>
+<p style="text-align: justify;">The awards – including two from the CFI.co judging panel – put extra responsibility on the company “to enhance, develop and innovate the business”.</p>
+<p style="text-align: justify;">“We will continue to apply the tactics and strategies which have proved a success since the acquisition of the company in late 2018,” he said.</p>
+
+
+[caption id="attachment_19871" align="aligncenter" width="900"]<img class="wp-image-19871 size-large" title="Investment House Chairman &amp; Managing Director : Mohammed Bin Ahmed Al Suwaidi " src="https://cfi.co/wp-content/uploads/2021/06/Chairman-and-Managing-Director-Mohammed-Bin-Ahmed-Al-Suwaidi-925x1024.jpg" alt="Investment House Chairman &amp; Managing Director : Mohammed Bin Ahmed Al Suwaidi " width="900" height="996" /> <strong>Chairman &amp; Managing Director:</strong> Mohammed Bin Ahmed Al Suwaidi[/caption]
+<p style="text-align: justify;">Yousef Abdullah Al Subeai, CEO, said Investment House demonstrated an efficient team effort, and the value of the company’s investment approach in the fields of asset management and investment banking. “The awards make us proud,” he said. “We’re grateful to our customers, and appreciate their trust in us.” He was happy with the validation of the company's investment solutions “that have succeeded in meeting the individual requirements for lots of customers”.</p>
+<p style="text-align: justify;">Investment House is a provider of comprehensive services related to investment and wealth management, including IPO, M&amp;A, and private equity services, as well as <a href="https://cfi.co/middleeast/2014/04/real-estate-industry-looks-to-qatar-for-opportunities/">real estate investments</a> and financial advisory. Also in the frame are asset management services such as founding and managing funds and investment portfolios, and trading in international markets.</p>
+<p style="text-align: justify;">Investment House provides financial planning for individual and corporate clients through its qualified team of advisors and financial planning managers. They recommend suitable investment products that meet clients’ needs in terms of targeted return, investment period – while considering individual risk tolerance.</p>
+<p style="text-align: justify;">The solutions and services provided by Investment House are designed to guide customers towards profitability over the long term. The team has extensive experience in the investment field, as shown by a successful track record. The team distinguished itself with a range of products and investment solutions offered to the Qatari market since its acquisition in 2018. These have attracted individual and institutional clients and increased AUM by more than 600 percent in the past two years.</p>
+<p style="text-align: justify;">Investment house has developed a range of solutions related to logistics services on maritime transport, where it has acquired 10 vessels. The company has also made strategic alliances to provide investment opportunities in the European real estate sector, particularly in France and Germany.</p>
+<p style="text-align: justify;">In addition, Investment House is braced for the future; it has promising local and international investment solutions planned for the year ahead.</p>
