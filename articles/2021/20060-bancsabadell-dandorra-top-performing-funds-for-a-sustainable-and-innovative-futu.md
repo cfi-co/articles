@@ -1,0 +1,25 @@
+---
+id: 20060
+title: "BancSabadell d’Andorra: Top Performing Funds for a Sustainable and Innovative Future"
+award_year: 2021
+published: 2021-06-27 18:41:45
+published_gmt: 2021-06-27 17:41:45
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2021/06/bancsabadell-dandorra-top-performing-funds-for-a-sustainable-and-innovative-future/"
+categories: ["Corporate"]
+content_sha256: c05e13ffe3c8c2c4531cf8bce72f2c1e5e3615bab698cba60b503dbe5df59691
+canonical: 20060-bancsabadell-dandorra-top-performing-funds-for-a-sustainable-and-innovative-futu.json
+---
+
+# BancSabadell d’Andorra: Top Performing Funds for a Sustainable and Innovative Future
+
+> Verbatim archived copy. Canonical machine record: `20060-bancsabadell-dandorra-top-performing-funds-for-a-sustainable-and-innovative-futu.json`.
+
+[caption id="attachment_20061" align="alignright" width="300"]<img class="wp-image-20061 size-medium" title="Miquel Alabern and Sandra Estebe, BancSabadell d’Andorra" src="https://cfi.co/wp-content/uploads/2021/06/BancSabadell-300x199.jpg" alt="Miquel Alabern and Sandra Estebe, BancSabadell d’Andorra" width="300" height="199" /> Miquel Alabern, chairman, and Sandra Estebe, head of the group's management company.[/caption]
+<p style="text-align: justify;"><strong>The bank’s ability to continuously improve its investment fund offerings is exemplary. And innovation at BancSabadell d’Andorra is always accompanied by rigorous management based on prudence and effective risk control, under the highest ethical and professional standards.</strong></p>
+<p style="text-align: justify;">Launched in 2020, the <a href="https://www.bsandorra.com/cs/Satellite/BSAndorra/BSA-Funds-Sustainable-Future/6000045133132/en/" target="_blank" rel="noopener">BSA Sustainable Future Fund</a> (the first under Andorran law) focuses on investments selected according to Environmental, Social and Governance (ESG) criteria.</p>
+<p style="text-align: justify;">In the same year, BancSabadell d'Andorra also offered retail investors its BSA New Technologies Fund, which achieved a yield of 27.95% in only half a year of operations (from 17 June).</p>
+<p style="text-align: justify;">Finally, in May 2021, the bank brought to market its new BSA Asia Fund, which selects companies and countries across the continent that are expected to perform well over the next five to ten years.</p>
+<p style="text-align: justify;">BancSabadell d'Andorra's asset management company is led by Sandra Estebe and has a very stable and cohesive team with more than 15 years’ experience. It currently manages 549 million euros and, during the past three years, has increased investment funds under management by more than 8%. It markets and manages a wide range of funds and investment companies, which currently include a total of 27 FIMs (13 available to all types of investors and the remainder to the more experienced) and nine SICAVs.</p>
+<p style="text-align: justify;">In recent years, BancSabadell d'Andorra has mainly made sectoral or thematic investments such as those focused on technological development, climate change and socio-demographic change, which anticipate a transformation of society and generate significant investment opportunities. These structural mega trends stand out for their growth potential and allow customers to invest in the long term across geographics and sectors.</p>
+<p style="text-align: justify;">BancSabadell d'Andorra’s asset management company was named as a CFI.co 2021 award winner and declared <a href="https://cfi.co/awards/europe/2021/bancsabadell-dandorra-best-asset-management-solutions-andorra-2021/">Best Asset Management Solutions Andorra</a>.</p>
