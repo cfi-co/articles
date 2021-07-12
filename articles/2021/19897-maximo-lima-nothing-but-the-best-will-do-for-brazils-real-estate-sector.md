@@ -1,0 +1,36 @@
+---
+id: 19897
+title: "Hemisfério Sul Investimentos (HSI) No Compromise: Nothing but the Best Will Do for Pioneers of Brazil’s Real Estate Sector"
+award_year: 2021
+published: 2021-07-12 15:55:19
+published_gmt: 2021-07-12 14:55:19
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2021/07/maximo-lima-nothing-but-the-best-will-do-for-brazils-real-estate-sector/"
+categories: ["Corporate"]
+content_sha256: 35864ee10268a770ae35361ddb89d6d21b1df51fe6610650d9b360a1de9fe7de
+canonical: 19897-maximo-lima-nothing-but-the-best-will-do-for-brazils-real-estate-sector.json
+---
+
+# Hemisfério Sul Investimentos (HSI) No Compromise: Nothing but the Best Will Do for Pioneers of Brazil’s Real Estate Sector
+
+> Verbatim archived copy. Canonical machine record: `19897-maximo-lima-nothing-but-the-best-will-do-for-brazils-real-estate-sector.json`.
+
+<p style="text-align: justify;"><strong><a href="https://cfi.co/menu/corporate/2021/07/hemisferio-sul-investimentos-private-equity-trailblazer-ahead-of-the-curve-and-still-gunning-for-gold/">Hemisfério Sul Investimentos</a> (HSI) nails its colours to the mast on its website with the motto: “<a href="https://www.hsinvest.com/about-hsi/?lang=en" target="_blank" rel="noopener noreferrer">Good enough is not enough</a>.”</strong></p>
+<p style="text-align: justify;">That attitude extends all the way to the top, and its leading management figures accept nothing but 100 percent effort and engagement.</p>
+<p style="text-align: justify;">HSI CEO and CIO Maximo Lima has 25 years of experience in real estate private equity, M&amp;A, structured credit, and management.</p>
+
+
+[caption id="attachment_19898" align="aligncenter" width="419"]<img class="wp-image-19898 size-full" title="CEO &amp; CIO: Maximo Lima" src="https://cfi.co/wp-content/uploads/2021/06/CEO-and-CIO-Maximo-Lima.jpg" alt="CEO &amp; CIO: Maximo Lima" width="419" height="524" /> <strong>CEO &amp; CIO:</strong> Maximo Lima[/caption]
+<p style="text-align: justify;">He studied at the University of Chicago, graduating with a BA in Economics. Lima has been at the helm of HSI since its inception, and is responsible for the company’s strategic planning and real estate investment strategy.</p>
+<p style="text-align: justify;">His network of contacts and deep sector experience have created an impressive career path and a proven track record. He has co-ordinated more than 100 transactions, including the creation of a logistics platform, CLB, and its subsequent sale to GLP. At the time, it was the largest Brazilian real estate transaction ever.</p>
+<p style="text-align: justify;">Maximo Lima began his career in hedge funds in 1997, then joined investment bank Wassertein Perella &amp; Co. He participated in the management buyout of the emerging markets division in 1999.</p>
+<p style="text-align: justify;">He returned to Brazil in 2000, and was given responsibility for structuring the first securitisation operations for Rio Bravo, at the time a new player in Brazilian finance. In 2003, Lima founded the real estate division of GP Investimentos with two partners – the group that became Prosperitas in 2005, and HSI in 2012.</p>
+<p style="text-align: justify;">David Ariaz is CFO and COO at HSI. He brought with him 29 years of experience in corporate management, real estate finance, structuring, and execution.</p>
+
+
+[caption id="attachment_19899" align="aligncenter" width="419"]<img class="wp-image-19899 size-full" title="CFO &amp; COO: David Ariaz" src="https://cfi.co/wp-content/uploads/2021/06/CFO-and-COO-David-Ariaz.jpg" alt="CFO &amp; COO: David Ariaz" width="419" height="524" /> <strong>CFO &amp; COO:</strong> David Ariaz[/caption]
+<p style="text-align: justify;">His education was at UC Berkeley, where – like CEO Lima – he completed a BA in Economics. He also holds an MBA from The Wharton School of the University of Pennsylvania.</p>
+<p style="text-align: justify;">Ariaz joined HSI in 2012, and is responsible for corporate planning, with a focus on finance, fund management, and portfolio companies. He participates on boards of directors and co-ordinates compliance and risk-management for the funds and management company, ultimately signing off on each transaction.</p>
+<p style="text-align: justify;">Ariaz manages relationships with leading banks and co-ordinates all financing transactions. In the credit area, he oversees structuring and helps to customise investment opportunities to suit the borrower’s profile.</p>
+<p style="text-align: justify;">Prior to joining HSI, he structured and originated real estate finance transactions worth more than $356m, and was responsible for developing the largest logistics platform in Brazil at the time. He contributed to the professionalisation of the Brazilian real estate financing market.</p>
+<p style="text-align: justify;">Prior to joining HSI, David Ariaz was a partner and CFO at Bracor Investimentos Imobiliários, and director of structured finance and asset management at Brazilian Capital.</p>
