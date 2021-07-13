@@ -1,0 +1,59 @@
+---
+id: 19902
+title: "Pollen Street Capital: Beyond ESG, and Accelerating Progress by  Adding ‘Caring’ to the Priority List"
+award_year: 2021
+published: 2021-07-13 12:44:45
+published_gmt: 2021-07-13 11:44:45
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2021/07/pollen-street-capital-beyond-esg-and-accelerating-progress-by-adding-caring-to-the-priority-list/"
+categories: ["Corporate"]
+content_sha256: a6d9cd3844c905eeaace0185f9b88984f72134afd5a70215be70ca13ae701d9f
+canonical: 19902-pollen-street-capital-beyond-esg-and-accelerating-progress-by-adding-caring-to-t.json
+---
+
+# Pollen Street Capital: Beyond ESG, and Accelerating Progress by  Adding ‘Caring’ to the Priority List
+
+> Verbatim archived copy. Canonical machine record: `19902-pollen-street-capital-beyond-esg-and-accelerating-progress-by-adding-caring-to-t.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright wp-image-19903 size-medium" title="Pollen Street Capital" src="https://cfi.co/wp-content/uploads/2021/06/Pollen-Street-Capital-300x169.jpg" alt="Pollen Street Capital" width="300" height="169" />Pollen Street Capital believes that its investments and business support have positive impacts for the financial services industry — and society as a whole.</strong></p>
+<p style="text-align: justify;">It is through this lens that Pollen Street assesses opportunities to invest wisely and to help build better businesses, rather than just applying ESG checklists.</p>
+<p style="text-align: justify;">“We were recently bold enough to embed Caring as a core value in our business,” said managing director <a href="https://cfi.co/europe/2021/06/lindsey-mcmurray-co-founder-of-pollen-street-capital-how-capitalising-on-change-can-drive-benefits-for-financial-services-industry/">Lindsey McMurray</a>. “Caring is going the extra mile for your portfolio companies, your investors and ultimately for the wider community. For us it is the driving force of our work.”</p>
+
+<h3 style="text-align: justify;">A Practical Approach to ESG Investing</h3>
+<p style="text-align: justify;">ESG is not so much a movement in the industry as something that has well and truly arrived. For Pollen Street, it’s a core part of the investment process, from identifying ESG risks pre-acquisition to working with portfolio companies' post-acquisition to embed the ESG framework. This drives value creation and allows the monitoring of performance against key criteria.</p>
+<p style="text-align: justify;">“As we see increased focus on ESG in our industry,” says McMurray, “it becomes clear that responsible investment processes and procedures are an essential part of working practices.”</p>
+
+<blockquote>
+<h3>"With the climate lens there is a groundswell, people understand the climate emergency but are unsure of what they can do."</h3>
+</blockquote>
+<p style="text-align: justify;">Alison Collins, director of Pollen Street Capital’s Hub and ESG Committee chair, said the firm’s portfolio companies were at different stages of maturity. “Some have well developed ESG policies, others have no formal policies in place. Some are in the early stages of implementing ESG programmes. We have an opportunity to support them and share learnings from more mature businesses, so portfolio companies do not have to start at square one.</p>
+<p style="text-align: justify;">“We are regularly blown away by the enthusiasm for ESG topics when we meet teams from new additions to the portfolio. The first gap to span is not in demonstrating the importance of ESG as this is invariably already a focus, but in helping the businesses align behind their ‘impact areas.’ Every business is positioned to tackle a specific set of issues.”</p>
+<p style="text-align: justify;">When onboarding a new business, Pollen Street works to map out its Impact Areas, aligning ESG strategy to:</p>
+
+<ul>
+ 	<li style="text-align: justify;">the sub-sector the business operates in</li>
+ 	<li style="text-align: justify;">the customer base</li>
+ 	<li style="text-align: justify;">the strategy</li>
+ 	<li style="text-align: justify;">the skills and expertise of the team.</li>
+</ul>
+<p style="text-align: justify;">“It is important to remember the role that the employee base can have in shaping the ESG direction,” said Collins. “Having employees at all levels championing the ESG agenda supports the values of the business and results in everyone having buy-in to drive projects forward.”</p>
+<p style="text-align: justify;">Pollen Street’s ESG committee is made up of senior sponsors and passionate team members who join the discussion and have a positive impact in setting responsible investment strategy.</p>
+<p style="text-align: justify;">Last year the firm launched its flagship ESG programme, <a href="https://www.pollencap.com/responsible-investing/" target="_blank" rel="noopener noreferrer">Ten Years’ Time</a>, with the goal of making a difference in the world by connecting its expertise with causes and initiatives that reflect its values. Pollen Street works with Blue Ventures, Future First and Big Issue Invest, sharing and using its core asset management skills.</p>
+<p style="text-align: justify;">The firm notes the importance of measuring progress and communicating successes. Pollen Street published its inaugural ESG report last year. “As well as tracking progress, reporting is a fantastic opportunity for firms to share their purpose and bring to life some tangible examples of where their work is having an impact,” says McMurray.</p>
+
+<h3 style="text-align: justify;">Pollen Street Capital: Investing with Impact</h3>
+<p style="text-align: justify;">As well as embedding ESG diligence and monitoring, Pollen Street Capital aims to have a positive impact through its private equity and credit strategies, accelerating progress in financial services and beyond.</p>
+<p style="text-align: justify;">“We believe that a focus on responsible investing can lower risk and enhance financial returns for our funds and underlying investments, while also generating a net benefit for society,” McMurray said.</p>
+<p style="text-align: justify;">One of the areas where a specialist such as Pollen Street can make a difference is in supporting regional growth. With lending businesses Shawbrook and Capitalflow, Pollen Street provides support to SMEs and community development.</p>
+<p style="text-align: justify;">Lindsey McMurray said a number of businesses in its PE portfolio were lending regionally. “Capitalflow addresses rural businesses which otherwise would have limited funding options. In 2019, about 68 percent of Capitalflow’s SME customers were based outside of capital cities.”</p>
+<p style="text-align: justify;">Another of Pollen Street’s portfolio companies, Aryza, offers technology solutions that help financially vulnerable people and improve financial inclusion. During 2019, over a million consumers moved closer to financial rehabilitation and Aryza’s new digital products, My Money Options and DebtSense, are helping businesses to support their customers to resolve their debts more easily.</p>
+<p style="text-align: justify;">“With an overarching view to have a positive impact, we can make sure that lending reaches people who are underserved by traditional providers because they don’t fit the bullseye of very narrow lending practices,” said McMurray.</p>
+<p style="text-align: justify;">Pollen Street’s credit facilities have supported several green energy initiatives, improving the energy efficiency of property stock in the UK. Through focused product financing and installation solutions, the firm has helped:</p>
+
+<ul>
+ 	<li style="text-align: justify;">Over 11,000 households to install a new boiler which increases energy efficiency and reduces energy bills</li>
+ 	<li style="text-align: justify;">Over 9,000 households switch to renewable energy</li>
+ 	<li style="text-align: justify;">Over 5,000 households in the provision of insulation</li>
+</ul>
+<p style="text-align: justify;">“With the climate lens there is a groundswell, people understand the climate emergency but are unsure of what they can do,” McMurray points out. “What we’re doing is lending to real people, giving them the tools to make a real positive impact.</p>
+<p style="text-align: justify;">“When we started investing in financial services, we could see people who perhaps kept this industry at a distance. We saw it as an integral component to enable and drive positive change across much of the economy. It is that wide-reaching influence that means that — as a financial services specialist — Pollen Street Capital can have a positive impact on society through the work that we are passionate about.”</p>
