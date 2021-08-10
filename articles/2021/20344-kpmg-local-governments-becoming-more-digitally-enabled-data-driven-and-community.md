@@ -1,0 +1,40 @@
+---
+id: 20344
+title: "KPMG: Local Governments Becoming More Digitally Enabled, Data-Driven and Community-Focused"
+award_year: 2021
+published: 2021-08-10 11:17:26
+published_gmt: 2021-08-10 10:17:26
+author: "CFI.co Editorial"
+url: "https://cfi.co/middleeast/2021/08/kpmg-local-governments-becoming-more-digitally-enabled-data-driven-and-community-focused/"
+categories: ["Middle East"]
+content_sha256: cfe656dbc39f53bb80c5e70bf7af5a3f901c6077e181d23243ea66eda3751767
+canonical: 20344-kpmg-local-governments-becoming-more-digitally-enabled-data-driven-and-community.json
+---
+
+# KPMG: Local Governments Becoming More Digitally Enabled, Data-Driven and Community-Focused
+
+> Verbatim archived copy. Canonical machine record: `20344-kpmg-local-governments-becoming-more-digitally-enabled-data-driven-and-community.json`.
+
+[caption id="attachment_20345" align="alignright" width="342"]<img class=" wp-image-20345" src="https://cfi.co/wp-content/uploads/2021/08/Ismail-AlAni-683x1024.jpg" alt="Ismail Daham Alani Head of Government and Public Sector KPMG in Saudi Arabia" width="342" height="513" /> <strong>Ismail Daham Alani:</strong> Head of Government and Public Sector, KPMG in Saudi Arabia[/caption]
+<p style="text-align: justify;"><strong>Local government organizations are becoming more digitally enabled, data-driven, agile, and customer-centric, concludes a new and wide-ranging publication of KPMG. Based on research on eight major global economies including Saudi Arabia, “Future of local government - Embracing connectivity and customer centricity” presents key trends that shape local government in today’s hyper-connected reality.</strong></p>
+<p style="text-align: justify;">The publication, which takes from Forrester Consulting research commissioned by KPMG, states that government organizations at the local level – and the cities and rural localities they oversee – now find themselves poised to drive progress for a new era of customer-centric public services.</p>
+<p style="text-align: justify;">The study examines the future of the local government sector from an array of key perspectives to trace the path forward into a bold new reality of predictive capabilities and unprecedented customer centricity.</p>
+<p style="text-align: justify;">Among these trends, the firm lists personalized services for every customer and the redesign of these services through the eyes of the customer.</p>
+<p style="text-align: justify;">In Saudi Arabia, for example, innovative customer-centric applications such as Amana 940, developed by the Ministry of Municipalities, Rural Affairs and Housing (MOMRAH), are transforming public services at the “street level.”</p>
+<p style="text-align: justify;">The Amana 940 app lets concerned residents report to authorities any violations they see that affect or disrupt regular municipal operations in neighborhoods and along roadways. Users can submit a digital photo to local authorities using a convenient phone application for quick follow-up and remedial action by local services. Such application fits the global trend for local governments to strive for citizen-centricity and creating value.</p>
+<p style="text-align: justify;">“Local governments in Saudi Arabia traditionally have different, more granular responsibilities within the government compared with the countries in this study, but in years we have seen an important shift towards the establishment of royal commissions and other highly empowered authorities to elevate work on city planning, community development, and promotion of historic areas,” commented Ismail Daham Alani, Head of Government &amp; Public Sector, at KPMG in Saudi Arabia.</p>
+<p style="text-align: justify;">The study also noted that entities are shaping workplaces to reflect the values of today’s emerging workforce, emphasize to act with a sense of purpose and new levels of agility. One of the new governing entities in Saudi Arabia, the Royal Commission for AlUla (RCU), empowered with developing and governing a historic region in the Kingdom, has taken large steps in this direction.</p>
+<p style="text-align: justify;">RCU’s Hammayah Programme is a social responsibility initiative to encourage community engagement and provides 2,500 employment opportunities for AlUla governorate locals and inspires them to become representatives of the region’s historical heritage. The program is structured such that locals have a say in protecting and promoting the archaeological and heritage sites in AlUla. This empowers them to take ownership over their livelihoods, spread awareness within their community while also promoting AlUla as a tourist destination for regional and global visitors.</p>
+<p style="text-align: justify;">Lastly, the study emphasizes that the path to a greener and more sustainable future can begin with local authorities playing a critical role in driving progress on the environmental, social and government (ESG) front. As part of the Kingdom’s efforts to increase environmental protection and improve general livability in its cities, the $11 billion “Green Riyadh” project was launched.</p>
+<p style="text-align: justify;">The mega project aims to plant 7.5 million trees and develop more than 3,300 new parks and gardens to improve air quality and reduce the average ambient temperature, while increasing the city’s per capita green space. In addition, the Green Riyadh promotes the preservation of natural areas and biodiversity within the city and spread awareness among its constituents about sustainability.</p>
+<p style="text-align: justify;">“A fully connected government organization is important in enabling and supporting the shifting role of the government leadership, ideally extending the government’s arsenal of capabilities, capacity and reach, and ultimately helping to ensure inclusion, prosperity, and resilience,” Alani concluded.</p>
+
+
+[caption id="attachment_20346" align="aligncenter" width="900"]<img class="size-large wp-image-20346" src="https://cfi.co/wp-content/uploads/2021/08/Riyadh-Saudi-Arabia-1024x469.jpg" alt="Riyadh city towers in Saudi Arabia" width="900" height="412" /> Riyadh city towers in Saudi Arabia[/caption]
+<h3><strong>News Highlights</strong></h3>
+<ol>
+ 	<li>KPMG New Report Presents <strong>Key Trends Shaping Local Governments</strong> in a Hyper-Connected Reality.</li>
+ 	<li><strong>Personalized Customer Service</strong> Stands Key Trend.</li>
+ 	<li>Saudi Arabia Transforming Customer Services Through <strong>Amana 940 App</strong>, Developed by Ministry of Municipalities.</li>
+ 	<li>Saudi Royal Commission for <strong>AlUla </strong>(RCU) has Taken Large Steps in this Direction where ‘Hammayah Programme’ is a CSR initiative to Encourage <strong>Community Engagement</strong>.</li>
+</ol>
