@@ -1,0 +1,34 @@
+---
+id: 20710
+title: "Russell Westbrook - The Career and Rewards that Came from a Simple Question: Why Not…?"
+award_year: 2021
+published: 2021-09-22 15:03:24
+published_gmt: 2021-09-22 14:03:24
+author: "CFI.co Editorial"
+url: "https://cfi.co/editors-picks/2021/09/russell-westbrook-the-career-and-rewards-that-came-from-a-simple-question-why-not/"
+categories: ["North America"]
+content_sha256: e80ed61dacd8da9fc0bac16e5451d32415125c73774f622738bcf4687647692c
+canonical: 20710-russell-westbrook-the-career-and-rewards-that-came-from-a-simple-question-why-no.json
+---
+
+# Russell Westbrook - The Career and Rewards that Came from a Simple Question: Why Not…?
+
+> Verbatim archived copy. Canonical machine record: `20710-russell-westbrook-the-career-and-rewards-that-came-from-a-simple-question-why-no.json`.
+
+[caption id="attachment_20711" align="alignright" width="300"]<img class="size-medium wp-image-20711" src="https://cfi.co/wp-content/uploads/2021/09/Russell-Westbrook-300x200.jpg" alt="Russell Westbrook" width="300" height="200" /> Russell Westbrook[/caption]
+<p style="text-align: justify;"><strong>Russell Westbrook may not wear a championship ring — yet — but the NBA star gives a championship performance on and off the courts.</strong></p>
+<p style="text-align: justify;">“I’m not gonna play basketball my whole life,” says the Washington Wizards player. “My legacy is what I do off the floor, how many people I’m able to impact and inspire along my journey.”</p>
+<p style="text-align: justify;">He established Russell Westbrook Enterprises (RWE) to bring all his entrepreneurial ambitions under one roof. The company aims to “positively influence communities by providing products, services, resources and employment opportunities”. Westbrook has perfected the celebrity entrepreneur formula, leveraging his fame and wealth to further his brand and build business alliances.</p>
+<p style="text-align: justify;">Westbrook is setting up for a proactive and profitable retirement, whenever that may come. He establishes business partnerships along hybrid structures involving a combination of endorsement, equity stake and potential investment. He has invested in a Los Angeles car dealership, launched his own clothing line and established a media company.</p>
+<p style="text-align: justify;">Westbrook has executive-produced a documentary series about the 1921 Tulsa Race Massacre to air this spring on the History Channel.</p>
+<p style="text-align: justify;">“I was in Oklahoma for 11 years and kind of grew up in Oklahoma City,” Westbrook shared in an Associated Press interview. “I wanted to understand more about the origins of Oklahoma and Tulsa. I had been going to Tulsa almost every season, and I had a camp in Tulsa. I heard about Black Wall Street but never really dived into it or understood the impact of the people and community.</p>
+<p style="text-align: justify;">“Once I was able to learn the history and dive deeper into it, I was in shock. It’s truly sad what happened to all the business and African Americans and people of colour that had their businesses wiped away.”</p>
+<p style="text-align: justify;">During the 1921 riots, thousands of African Americans were left homeless, and the full number of those killed is still not known. The violence also cost over $1.5m in damage to real estate and $750,000 to personal property — which equates to some $30m in today’s money.</p>
+<p style="text-align: justify;">“Now, more than ever, I want to be able to show how history can affect our future,” he said, “to make sure we understand our history and know that there were people that paved the way and had to struggle, and things were taken away from them. I want to be able to share that with the world, and the significance of Black Wall Street.”</p>
+<p style="text-align: justify;">Westbrook shines a light on past crimes with this series — and hopes to influence future actions through impact investing. He recently made headlines for leading a $63m funding round for Varo Bank, the first “neobank” in the US to be granted national charter status.</p>
+<p style="text-align: justify;">“The banking system has ignored or underserved a large portion of the American population — particularly communities of colour. I’m passionate about making lasting social change and creating a stronger and more inclusive system,” said Westbrook. “I am excited and ready to work with Varo to be a part of an economic revitalisation for those who never had the access they deserved.”</p>
+<p style="text-align: justify;">He credits a long-standing mantra and mindset of “Why Not?” as the key to dealing with adversity and naysayers.</p>
+<p style="text-align: justify;">“It instilled confidence in me to believe. Why not me? Why not be the person to change this? That’s something I try to spread throughout the world, with basketball as my platform. Alongside that, making sure I use it in the community to give back as well.</p>
+<p style="text-align: justify;">“That’s where the Russell Westbrook Why Not? Foundation originated. I wanted to have a positive, strong message to give to people and our youth. To give them a sense of confidence and swagger.”</p>
+<p style="text-align: justify;">One of the foundation’s latest endeavours is to launch a namesake Why Not? Academy in Los Angeles, Westbrook’s hometown. He will use this opportunity to bring educational improvements to underserved communities in the form of curriculum development, after school programmes and job creation. Once the programme is up and running, he would be open to expanding to other cities.</p>
+<p style="text-align: justify;">“Los Angeles was something I wanted to wrap my hands around since I’m from there,” he said. “I wanted to make sure I have resources for inner-city kids, so they have somewhere to go where they can feel they have the resources they need in job creation and even with mental health. And, obviously, having the best education provided for them.”</p>
