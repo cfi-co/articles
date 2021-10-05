@@ -1,0 +1,29 @@
+---
+id: 20769
+title: "Glued to the Box, or Linked to a Laptop? Streaming is Up-ending Entertainment"
+award_year: 2021
+published: 2021-10-05 10:49:38
+published_gmt: 2021-10-05 09:49:38
+author: "CFI.co Editorial"
+url: "https://cfi.co/c-19/2021/10/glued-to-the-box-or-linked-to-a-laptop-streaming-is-up-ending-entertainment/"
+categories: ["Brave New World", "c-19"]
+content_sha256: 36163a32054d7e3dc380c31ccc17508d63715e21269259b4433f9738b41342bf
+canonical: 20769-glued-to-the-box-or-linked-to-a-laptop-streaming-is-up-ending-entertainment.json
+---
+
+# Glued to the Box, or Linked to a Laptop? Streaming is Up-ending Entertainment
+
+> Verbatim archived copy. Canonical machine record: `20769-glued-to-the-box-or-linked-to-a-laptop-streaming-is-up-ending-entertainment.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright wp-image-20770 size-medium" title="on-demand services" src="https://cfi.co/wp-content/uploads/2021/10/streaming-300x200.jpg" alt="on-demand services" width="300" height="200" />Digital consumer habits are reshaping the entertainment industry. A recent report by consulting firm <a href="https://cfi.co/middleeast/2021/08/deloitte-constructing-a-sustainable-future-in-the-middle-east/">Deloitte</a> found that UK residents are now more likely than ever to have multiple subscription-based, on-demand services for film, TV, and video games.</strong></p>
+<p style="text-align: justify;">That shift, and changes in mobility patterns, point to a lasting change in the £1.4tn global entertainment sector.</p>
+<p style="text-align: justify;">Stay-at-home orders affected almost all industries. According to the annual <a href="https://www.motionpictures.org/research-docs/2020-theme-report/" target="_blank" rel="noopener">THEME report by the Motion Picture Association</a>, the combined worth of the world’s theatrical, home, and mobile entertainment sector in 2020 was $80.8bn. An impressive sum, but there was a 72 percent decrease in the global box office.</p>
+<p style="text-align: justify;">Cinemas closed and film production was postponed or cancelled as the digital market shot up by 31 percent, driven by a flood of subscriptions to Netflix, Disney Plus, and Amazon Prime. Combine these stats with findings on consumer habits, and a picture of growth emerges for the streaming industry.</p>
+<p style="text-align: justify;">Over the past two years, on-demand services have increased by 17 percent. Traditionally, over-55s have dominated TV viewing figures, with around five hours spent daily “glued to the box”. This age group may comprise the traditional TV consumer base, but it has seen a 20 percent rise in subscription video on-demand (SVOD) services.</p>
+<p style="text-align: justify;">The major streaming companies have seen massive gains. According to the Deloitte report, 38 percent of UK residents have taken on such a service — and two-thirds of them intend to keep it. There has been a distinct change in consumer demands and preferences: people want to watch what they want, when they want. Adapting to that mindset is a challenge for traditional television companies. How will the networks compete?</p>
+<p style="text-align: justify;">The pandemic has put a hold on many staple productions from smaller production companies. Shows like <em>Strictly Come Dancing </em>resorted to shorter seasons, while <em>The Great British Bake Off </em>created a “bubble” for contestants and staff to ensure adherence to health guidelines. Insurance costs increased, with potential financial setbacks in the event of a Covid outbreak. Streaming sensations like <em>The Mandalorian </em>or <em>The Queen’s Gambit </em>also faced challenges, but the scale of production meant an increased ability to weather the storm of increased costs.</p>
+<p style="text-align: justify;">That situation is likely to endure, so the question becomes: Will consumers continue to value traditional media, or will streaming productions win out?</p>
+<p style="text-align: justify;">There has been a change in mobility patterns, too, as people spend less time commuting or in the office and more time at home. TV producers will need to capitalise on this extra free time, meaning a need for increased production.</p>
+<p style="text-align: justify;">Changes in consumer preference have altered the outlook for many industries. The shift to digital viewing, and the need for increased content, will further empower the streaming juggernaut — and could herald a new age of entertainment media.</p>
+<p style="text-align: justify;"><em>By Yogesh Patel</em></p>
+<p style="text-align: justify;"></p>
