@@ -1,0 +1,34 @@
+---
+id: 21015
+title: "Embracing Change and the Thrill of Challenge: It's All Part of the Business"
+award_year: 2021
+published: 2021-11-09 15:42:56
+published_gmt: 2021-11-09 15:42:56
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2021/11/copernicus-wealth-management-embracing-change/"
+categories: ["Corporate"]
+content_sha256: 82cfc75a514478c5712b09a7e429d3c9b9c58ed200f1b1eb814d2f76a9bb9981
+canonical: 21015-copernicus-wealth-management-embracing-change.json
+---
+
+# Embracing Change and the Thrill of Challenge: It's All Part of the Business
+
+> Verbatim archived copy. Canonical machine record: `21015-copernicus-wealth-management-embracing-change.json`.
+
+[caption id="attachment_21016" align="alignright" width="300"]<img class="wp-image-21016 size-medium" title="Copernicus Wealth Management CEO and Co-Founder: Marco Boldrin" src="https://cfi.co/wp-content/uploads/2021/11/Marco-Boldrin-300x192.jpg" alt="Copernicus Wealth Management CEO and Co-Founder: Marco Boldrin" width="300" height="192" /> <strong>CEO and Co-Founder:</strong> Marco Boldrin[/caption]
+<p style="text-align: justify;"><strong>Change is the only constant — and Marco Boldrin, CEO and co-founder of Lugano-based Copernicus Wealth Management, embraces it. “One of the most thrilling things about business is the challenge of managing change,” he says.</strong></p>
+<p style="text-align: justify;">It’s not enough to react, Boldrin adds. “It’s essential to anticipate it and be an integral part of it. Nowadays it’s not enough to just have a vision — you must execute the objectives and broaden your horizons beyond your own knowledge. But innovation does not mean abandoning one’s cultural roots and traditional values.”</p>
+<p style="text-align: justify;"><a href="https://cfi.co/menu/corporate/2022/09/copernicus-wealth-management-a-winning-recipe-for-remarkable-growth/">Copernicus Wealth Management</a> manages more than CHF3bn ($3.22m), has some 40 staff members, and is in the process of opening an office in Zurich.</p>
+<p style="text-align: justify;">Asked about the starting point of his career, Boldrin reports that this was on the trading floor of Caboto Holding in Milan (now Banca IMI, part of BancaIntesa Group). He began by working on the structured bond desk and later moved to interest-rate derivatives. Then came the move to Lugano, Switzerland, working for the BSI banking group as head of quantitative models in the asset management division, and later as co-ordinator of investment specialists for the Swiss private banking division.</p>
+<p style="text-align: justify;">“I worked on a project which created the wealth management arm of the BSI Group, Patrimony 1873, becoming its partner and deputy CIO. In 2016, with four other partners, we co-founded Copernicus Wealth Management, which is regulated by <a href="https://www.finma.ch/en/" target="_blank" rel="noopener noreferrer">FINMA</a>.”</p>
+<p style="text-align: justify;">Boldrin became its CEO and began a process of development and growth there that has led to partner with the second-largest Swiss bank and one of the leading financial players in the south of Switzerland.</p>
+<p style="text-align: justify;">Asked about lessons learnt, Boldrin says that his career has taught him many lessons — and three of them are prominent. “I’d like to highlight them because they don’t only concern the world of work.</p>
+<p style="text-align: justify;">“Firstly, fairness — not only in business and human relationships, but also in the decision-making process. Secondly, pragmatism: I’m a realist, and I keep my eye on the journey and outcome required.</p>
+<p style="text-align: justify;">“Thirdly, problem-solving: solutions are always readily available, one must analyse, and propose alternatives. To abandon is the extreme solution.”</p>
+<p style="text-align: justify;">Turning to Boldrin’s motivation in the business he leads, he explains that this comes from his entrepreneurial passion — and his responsibilities within the company. “My enthusiasm stems primarily from the fact that I’m a manager, and one of the partners. I believe in our projects, and the results we’re achieving confirm the validity of our vision and business model.”</p>
+<p style="text-align: justify;">Asked about the reasons for this success, he reveals that there is no secret sauce. “I don't have any magic ‘recipes’, but fairness is the basic ingredient to run a successful organisation,” Boldrin believes. “Entrepreneurship is one area on which we focus, and I think this sets us apart.</p>
+<p style="text-align: justify;">“There must be an equilibrium between strategy and corporate culture — it’s essential for the success of a company. Behaviours and stability make the difference. You don't need to do a thousand things — just do one or two things a thousand times.”</p>
+<p style="text-align: justify;">Like most leaders, Boldrin believes in the importance of teamwork. “I know I have the right people, in the right places, using different skillsets. Our processes and rules are clear and well-defined: easy dialogue and discussion and a streamlined, flat, and lean structure that has allowed us to build an excellent relationship of trust between the members of the executive team, along with the motivation to achieve our objectives.”</p>
+<p style="text-align: justify;">What, in Boldrin’s opinion, are the key traits of a good corporate leader? “The ability to listen and give feedback, and the ability to communicate in a transparent and simple way. A good leader must be empathetic.</p>
+<p style="text-align: justify;">“Finally, they must also possess a ‘growth mindset’, because it’s about each individual and their attitude: being able to overcome any constraint, face any challenge. That allows our growth, and the growth of the company. Growth-focused leaders make it their mission to learn new things.”</p>
+<p style="text-align: justify;">Those characteristics do not depend on industry, sector, company size or geography, Boldrin says. “In summary, a good leader must be a good psychologist in the early stages of his or her career — and then become an equally good sociologist.”</p>
