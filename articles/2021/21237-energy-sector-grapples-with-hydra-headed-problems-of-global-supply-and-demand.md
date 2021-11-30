@@ -1,0 +1,28 @@
+---
+id: 21237
+title: "Energy Sector Grapples with Hydra-Headed Problems of Global Supply and Demand"
+award_year: 2021
+published: 2021-11-30 13:15:44
+published_gmt: 2021-11-30 13:15:44
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/energy/2021/11/energy-sector-grapples-with-hydra-headed-problems-of-global-supply-and-demand/"
+categories: ["Brave New World", "Energy", "c-19"]
+content_sha256: ddb6270a4746299e27cc058cab5c1b60967b416b7ca99be6c95fa99cf3584b21
+canonical: 21237-energy-sector-grapples-with-hydra-headed-problems-of-global-supply-and-demand.json
+---
+
+# Energy Sector Grapples with Hydra-Headed Problems of Global Supply and Demand
+
+> Verbatim archived copy. Canonical machine record: `21237-energy-sector-grapples-with-hydra-headed-problems-of-global-supply-and-demand.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright wp-image-21238 size-medium" title="Electricity transmission pylons - energy sector" src="https://cfi.co/wp-content/uploads/2021/11/energy-300x195.jpg" alt="Electricity transmission pylons - energy sector" width="300" height="195" />At the recent COP-26 climate summit in Glasgow, government officials and leaders of international organisations put the spotlight on the energy sector.</strong></p>
+<p style="text-align: justify;">This year marked the first meeting of the <a href="https://www.gov.uk/government/publications/cop26-energy-transition-council-summary-statement" target="_blank" rel="noopener">Energy Transition Council</a>, formed to accelerate the shift to cleaner power sources. The members pledged to double private investment by 2030 and set the target for developed countries to quit coal by 2030 (developing countries get until 2040).</p>
+<p style="text-align: justify;">An energy crisis is ravaging the UK. Supply, as a result of the pandemic, has been slow to bounce back. In the early days of Covid, demand for oil dropped by 20 percent, and prices per barrel collapsed. Brent crude (the international benchmark for Atlantic basin production) dropped from $64.3 to $42 per barrel in 2019. Since then, production shortages have caused fuel scarcity across the UK — and the highest fuel prices on record.</p>
+<p style="text-align: justify;">The rising price of oil is indicative of a wider issue plaguing the UK population. At the time of writing, around 25 energy companies have been forced to close, unable to remain profitable under the price ceiling set by energy regulator Ofgem. Ordinarily, this would be a relatively manageable setback for the sector. But now there is decreased supply from Russia and increased demand from Asia — worsened by the closure of some North Atlantic refineries.</p>
+<p style="text-align: justify;">Residents who lost their energy supplier have switched to the more stable, but more expensive, energy giants. But these conglomerates are hesitant to take on new customers with fuel prices as high as they are.</p>
+<p style="text-align: justify;">Centrica-owned British Gas, based in Windsor, has agreed to take on stranded consumers — but expects compensation. Ofgem has admitted that the price cap will need to be raised again next April. The regulator says that although these companies are expecting a short-term loss, they are acquiring loyal customers. As smaller suppliers prove unable to weather the supply drought, public confidence will shrink. Larger, more durable providers will get a larger userbase — without sacrificing price or profit.</p>
+<p style="text-align: justify;">Crude oil could be just the first of the non-renewable energy sources to take a tumble. Not every UK motorist has been affected. EV users didn’t have to worry about fuel costs, and — according to Volkswagen Financial Services — their numbers will grow. More than a third of British motorists are said to be considering trading in fossil fuel-burning vehicles to “go electric”.</p>
+<p style="text-align: justify;">It’s a shift that can be seen across the globe. An International Energy Agency report indicates that the green energy sector is holding up well. In 2020, renewable energy sources accounted for almost 90 percent of the increase in global power capacity. Driven by growth in China and the US, renewable power capacity has hit a record of almost 200 gigawatts.</p>
+<p style="text-align: justify;"><a href="https://cfi.co/europe/2022/01/ifc-after-glasgow-four-steps-to-keep-us-on-track/">COP26 </a>and the pandemic have shifted the narrative. To the delight of climate activists, green energy is becoming a reality. Consumers are increasingly aware of the impact of their choices, and are seeking out environmentally aware businesses.</p>
+<p style="text-align: justify;">Those that can best match the trend will reap the benefits.</p>
+<em>By Yogesh Patel</em>
