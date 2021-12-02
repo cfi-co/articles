@@ -1,0 +1,46 @@
+---
+id: 21258
+title: "Shelter Afrique: Building Africa — One Roof at a Time"
+award_year: 2021
+published: 2021-12-02 16:04:49
+published_gmt: 2021-12-02 16:04:49
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2021/12/shelter-afrique-building-africa-one-roof-at-a-time/"
+categories: ["Africa", "Corporate"]
+content_sha256: 9fd768e2e0512553ba6066de2b5a887f0c86c447e08fd867a7e92055e204c602
+canonical: 21258-shelter-afrique-building-africa-one-roof-at-a-time.json
+---
+
+# Shelter Afrique: Building Africa — One Roof at a Time
+
+> Verbatim archived copy. Canonical machine record: `21258-shelter-afrique-building-africa-one-roof-at-a-time.json`.
+
+<p style="text-align: justify;"><em>The great continent is facing a shortage of affordable housing — and that’s just one of the developmental challenges being tackled by Shelter Afrique.</em></p>
+<p style="text-align: justify;">Africa’s housing scarcity is at crisis point due to rapid population growth and urbanisation.</p>
+<p style="text-align: justify;">Governments and development partners established Shelter Afrique (also known as The Company for Habitat and Housing in Africa). The Pan-African developmental finance institution has a mandate to support housing and urban development.</p>
+<p style="text-align: justify;">Established in 1982, the company’s primary role is to mobilise financial and technical resources to fund development by helping private and public sector institutions to identify, finance and implement housing and urban infrastructure projects. The UN’s <a href="https://cfi.co/sdg-the-business-case/">Sustainable Development Goal</a> (SDG) 11 — housing for all — serves as a guideline.</p>
+[gallery columns="2" size="large" link="file" ids="21262,21261,21260,21259"]
+<h3 style="text-align: justify;"><strong>Shareholding</strong></h3>
+<p style="text-align: justify;">Shelter Afrique's share capital is held by two groups of shareholders comprising 44 African countries, from Algeria to Zambia, under the Class A category of shareholding, which is open to African States.</p>
+<p style="text-align: justify;">The African Development Bank (AfDB), the African Reinsurance Corporation (Africa-Re), and Fonds de Solidarite Africain fall into the Class B category, created to accommodate Africa-based financial institutions.</p>
+<p style="text-align: justify;">The company is working to expand its shareholding to accommodate non-African investors under Class C.</p>
+
+<h3 style="text-align: justify;"><strong>Shelter Afrique products and services</strong></h3>
+<p style="text-align: justify;">Shelter Afrique offers products and services to support the delivery of affordable housing and commercial real estate. These include project finance to large-scale low-cost housing developers, lines of credit to financial institutions, equity investments and joint ventures, trade finance, and social housing. It also has a Centre of Excellence established to provide research, capacity development and advisory solutions to member states.</p>
+
+<h3 style="text-align: justify;"><strong>Strategic Partnerships </strong></h3>
+<p style="text-align: justify;">Shelter Afrique builds strategic public–private partnerships and smart partnerships to achieve sustainable impact.</p>
+<p style="text-align: justify;">It has entered into strategic partnerships with various governments, private sector players, and non-governmental organisations such as Habitat for Humanity International, UN-Habitat, and Centre for Affordable Housing Finance in Africa. It recently partnered with the government of Cameroon to establish the Industrial Housing Corporation of Cameroon (IHCC). Shelter Afrique is keen to forge partnerships with governments as key partners in the housing sector. The cost of land and infrastructure can sometimes constitute up to 50 percent of the final cost of a housing unit. IHCC is a joint venture with Shelter Afrique (51 percent) and the government (49 percent) through the Ministry of Housing and Urban Development of Cameroon. The government of Cameroon will provide land, off-site infrastructure, and tax incentives. Shelter Afrique will provide financial and consultancy support to ensure the right technical partner is selected to manufacture housing components.</p>
+
+<h3 style="text-align: justify;"><strong>Shelter Afrique funding </strong></h3>
+<p style="text-align: justify;">Shelter Afrique’s activities have been funded primarily from equity resources from shareholders and medium-term borrowings from commercial lenders. Lending partners are made up of international development finance institutions, including the ICD (Islamic Development Agency), AFD (French Development Agency), EIB (European Investment Bank), KfW (German Development Agency), BOAD (the West African Development Agency) and the African Development Bank.</p>
+<p style="text-align: justify;">Other critical strategic partners include the African Union for Housing Finance, the International Union of Housing Finance, the Centre for Affordable Housing Finance in Africa, and UN-Habitat.</p>
+<p style="text-align: justify;">As funding needs increases, Shelter Afrique is exploring funding options, including the development of local capital markets. It is looking to raise an East African bond targeting markets in Kenya, Tanzania, Uganda, and Rwanda.</p>
+
+<h3 style="text-align: justify;"><strong>The Yaoundé Declaration</strong></h3>
+<p style="text-align: justify;">At the close of the<em> </em>40th Annual General Assembly of Shelter Afrique, held in Yaoundé, Cameroon, 44 African Ministers and Heads of Delegation of Ministries agreed to enhance mechanisms for the mass production of decent and low-cost affordable housing. In a communique termed <em>The Yaoundé Declaration,</em> participants resolved to address leadership and governance, policies and legislation, co-ordination, land systems, finance and taxation, capacity building, and adoption of new building technologies.</p>
+
+<h3 style="text-align: justify;"><strong>The 40<sup>th</sup> Anniversary of Shelter Afrique</strong></h3>
+<p style="text-align: justify;">This year, Shelter Afrique marked its 40th anniversary under the theme <a href="https://ceobusinessafrica.com/shelter-afrique-to-hold-its-40th-agm-in-yaounde-cameroon/" target="_blank" rel="noopener"><em>Four Decades of Affordable Housing Policies in Africa: Mapping the Next Forty Years</em></a>, which offered shareholders, the board of directors, and management to consider what happens next against the backdrop of the pandemic.</p>
+<p style="text-align: justify;">The anniversary coincided with Shelter Afrique’s 40<sup>th</sup> AGM, giving it the opportunity to review its strategy on Africa’s housing policy environment to shape policy and plan for the future.</p>
+<p style="text-align: justify;"></p>
