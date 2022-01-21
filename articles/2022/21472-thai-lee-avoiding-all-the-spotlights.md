@@ -1,0 +1,26 @@
+---
+id: 21472
+title: "Thai Lee: Avoiding All the Spotlights"
+award_year: 2022
+published: 2022-01-21 12:14:44
+published_gmt: 2022-01-21 12:14:44
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/heroes/2022/01/thai-lee-avoiding-all-the-spotlights/"
+categories: ["Heroes"]
+content_sha256: bc572519ee3232bc55467c64c68eba8c46a1f4f9d542da2b0e4b9de88775447f
+canonical: 21472-thai-lee-avoiding-all-the-spotlights.json
+---
+
+# Thai Lee: Avoiding All the Spotlights
+
+> Verbatim archived copy. Canonical machine record: `21472-thai-lee-avoiding-all-the-spotlights.json`.
+
+[caption id="attachment_21473" align="alignright" width="300"]<img class="size-medium wp-image-21473" src="https://cfi.co/wp-content/uploads/2022/01/Thai-Lee-300x231.jpg" alt="Thai Lee Thai-born Korean American Businesswoman" width="300" height="231" /> <strong>Thai-born Korean American Businesswoman:</strong> Thai Lee[/caption]
+<p style="text-align: justify;"><strong>You may not have heard of Thai Lee, but Google her name and it becomes clear that news of her — in business circles, at least — swirls high and settles in calm, lofty locations: Forbes, Bloomberg, CRN, Leaders’ League. This Thai-born Korean American entrepreneur is more hurricane than whirlwind, albeit one that approaches with a gentle and self-effacing manner.</strong></p>
+<p style="text-align: justify;">Armed with an MBA from Harvard and an all-comers determination to prove her company’s worth through the tech it provides, Lee co-founded SHI (with Leo KoGuan) in 1989. Lee and her (now ex-) husband bought a software reseller — the SHI predecessor — for less than $1m. The company born of that corporate union and headquartered in Somerset, New Jersey, now has customers in the non-profit, private, and public sectors. And it’s worth $11.1 bn in sales alone.</p>
+<p style="text-align: justify;">Lee may not be a household name, but those in financial and business circles will certainly be aware of her. SHI has around 20,000 customers — including AT&amp;T, Johnson &amp; Johnson, and Boeing. And yet Lee herself remains almost invisible to all but the most inquisitive eye.</p>
+<p style="text-align: justify;">She drives herself to work, one Forbes article remarked, and parks “in the middle of the lot, even when there are spaces open up front… There's no executive assistant at the door keeping interruptions away; she doesn't have one. Lee keeps her own calendar, books her own travel and does her own filing…”</p>
+<p style="text-align: justify;">Thai Lee has stormed through the financial and business ranks to find her name, and her company, in several of those “Top 10 / 20 / 50” rankings, and a rich list or two. She famously (and modestly) attributes her business success to management tactics; she believes in a tenet that Chinese whitegoods giant Haier also cleaves to: empowered employees with the autonomy to deal with customers.</p>
+<p style="text-align: justify;">It seems to have worked — for SHI and Haier — and Lee’s employees and clients have served her well in return: retention in both areas is high.</p>
+<p style="text-align: justify;">Now 62, Lee was born in Bangkok, grew up in South Korea, and moved to the US at high school age. After Harvard, she worked at Procter &amp; Gamble and American Express before co-founding SHI. In 2018, she joined the board of PureTech Health, a bio-pharma company and affiliate of Sonde Health, which develops voice-based diagnostic technology.</p>
+<p style="text-align: justify;">Lee was recently ranked the eighth-richest self-made woman in the US (Forbes, again) with an estimated worth of some $4bn. She is known to donate time and money to educational charities and cancer research societies.</p>
