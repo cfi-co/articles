@@ -1,0 +1,37 @@
+---
+id: 21488
+title: "IFC: After Glasgow, Four Steps to Keep Us On Track"
+award_year: 2022
+published: 2022-01-26 09:39:30
+published_gmt: 2022-01-26 09:39:30
+author: "CFI.co Editorial"
+url: "https://cfi.co/sustainability/2022/01/ifc-after-glasgow-four-steps-to-keep-us-on-track/"
+categories: ["Europe", "Multilaterals", "Projects", "Sustainability"]
+content_sha256: 74a9bbb9fa48096e1800e91a3f04a6333a49d18013139d82212ba63f046b6af4
+canonical: 21488-ifc-after-glasgow-four-steps-to-keep-us-on-track.json
+---
+
+# IFC: After Glasgow, Four Steps to Keep Us On Track
+
+> Verbatim archived copy. Canonical machine record: `21488-ifc-after-glasgow-four-steps-to-keep-us-on-track.json`.
+
+[caption id="attachment_21489" align="alignright" width="300"]<img class="size-medium wp-image-21489" src="https://cfi.co/wp-content/uploads/2022/01/Emmanuel-B-Nyirinkindi-300x169.jpg" alt="Emmanuel B Nyirinkindi" width="300" height="169" /> <strong>Author:</strong> Emmanuel B Nyirinkindi[/caption]
+<p style="text-align: justify;"><strong>The UN Climate Conference in Glasgow saw a flurry of commitments and proposals to limit temperature rises to 1.5°C. While there was concrete headway on several fronts, COP26 also underscored the enormity of the task still ahead. Four clear signposts can continue the momentum and accelerate the critical transition to net zero.</strong></p>
+
+<h3 style="text-align: justify;">First, Access to Energy is a Must</h3>
+<p style="text-align: justify;">Decarbonisation will only be effective if it addresses development needs. Around the world, an estimated 800 million people still live in the dark without access to electricity. While much of the focus is on decarbonising larger middle-income countries, the private sector can provide affordable electricity to energy in-poor countries. This can be done through a combination of grid-based and off-grid renewables. However, many technologies – including solar – still require government subsidies to become viable. One of the solutions is to combine more public and private capital to achieve scale – and make a difference for families and communities, women and youth. This is something the new Global Energy Alliance for People and Planet (GEAPP),which was announced at COP26, will aim to do. We are very happy to be part of this Alliance.</p>
+
+<h3 style="text-align: justify;">Second, the Transition From Coal Needs to Be Fair</h3>
+<p style="text-align: justify;">Many countries pledged in Glasgow to phase out coal. This is critical, and it’s becoming progressively cheaper to replace coal-fired power plants with utility-scale renewable projects. However, jobs and livelihoods will inevitably be lost in the process. The good news is that the transition to renewables will bring about millions of new jobs. It is vital the public and private sectors, together with communities, join forces to ensure workers transfer their skills to low-carbon businesses. As development finance institutions, we need to maximise private sector participation in renewable energy, invest in transmission and distribution, and mobilise private capital for the significant capital expenditures and efficiency improvements needed in that sector.</p>
+
+<h3 style="text-align: justify;">Third, We Need All the Private Capital We Can Mobilise</h3>
+<p style="text-align: justify;">At COP26, 450 insurers, banks, and pension funds representing 40 percent of the world’s financial assets pledged to align their financing with netzero. How do we make sure such finance can be directed to climate projects in the developing world? Building on its recent experience with mobilisation platforms, IFC announced two major initiatives during COP26. One is a $2 billion fund with Amundi – Europe’s largest asset manager – to build the bond market and promote a green recovery in developing countries. The other is a $3 billion portfolio of Paris-aligned loans created with Allianz and the Hong Kong Monetary Authority to scale up climate-responsible financing for private companies in emerging markets. Platforms likes these help minimise risks for investors, and build capacity in local markets to make green, sustainable investments.</p>
+
+<h3 style="text-align: justify;">Fourth, Carbon Markets are Crucial</h3>
+<p style="text-align: justify;">Another key area that’s expected to unlock significant financing for climate mitigation and adaptation is carbon pricing. At COP26, nearly 200 countries finally agreed on the Article 6 rules of the Paris Agreement for international cooperation through carbon markets. Policymakers can play an important role in designing carbon pricing systems that send the right signals to the market and raise money for initiatives like reforestation or research and development. On the other hand, businesses can establish voluntary carbon prices to anticipate new carbon regulations. We need to look at increasing investment opportunities in carbon projects, monetising carbon credits, and establishing and managing carbon facilities for private companies.</p>
+
+<h3 style="text-align: justify;">The Bottom Line</h3>
+<p style="text-align: justify;">Climate change is a threat. But it also presents an opportunity to change course, and is one of the greatest commercial opportunities we may see in our lifetime. Under the World Bank Group’s new Climate Change Action Plan for the next four years, IFC is committed to aligning its operations with the objectives of the Paris Agreement, and taking climate into account in every decision and transaction that it makes. Such actions help countries and private sector clients maximise the impact of climate finance, aiming for measurable improvements in adaptation and resilience, and measurable reductions in greenhouse-gas emissions. This is how IFC will continue creating opportunities for economic growth and transformation in developing countries that will advance a green future.</p>
+
+<h3 style="text-align: justify;">About the Author</h3>
+<p style="text-align: justify;"><strong>Emmanuel B Nyirinkindi</strong> is IFC’s Vice President of Cross-Cutting Solutions. He is responsible for overseeing cross-cutting services globally, including public-private partnerships and corporate finance, global Upstream programs to proactively create new investible opportunities and markets, sustainability and gender solutions, climate, as well as IFC’s Western Europe and Tokyo teams to enhance client and business delivery. His leadership ensures that climate, gender, and E&amp;S best practices are embedded throughout IFC’s operational work.</p>
