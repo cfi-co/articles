@@ -1,0 +1,31 @@
+---
+id: 21613
+title: "Trust is a Vital Part of ‘Success Recipe’ for Pharma Companies"
+award_year: 2022
+published: 2022-03-04 07:34:20
+published_gmt: 2022-03-04 07:34:20
+author: "CFI.co Editorial"
+url: "https://cfi.co/brave-new-world/2022/03/trust-is-a-vital-part-of-success-recipe-for-pharma-companies/"
+categories: ["Brave New World"]
+content_sha256: 3c297a6ae7091be7671cd52dccb11801bef00748b91b4c03c417e400edef840c
+canonical: 21613-trust-is-a-vital-part-of-success-recipe-for-pharma-companies.json
+---
+
+# Trust is a Vital Part of ‘Success Recipe’ for Pharma Companies
+
+> Verbatim archived copy. Canonical machine record: `21613-trust-is-a-vital-part-of-success-recipe-for-pharma-companies.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-medium wp-image-21614" src="https://cfi.co/wp-content/uploads/2022/03/pharmaceuticals-300x200.jpg" alt="pharmaceuticals" width="300" height="200" />German pharmaceutical company BioNTech has debuted a modular medicinal production facility — just one of many recent innovations in the medical sector.</strong></p>
+<p style="text-align: justify;">A significant impact of the past two years has been raised awareness of healthcare as a priority. A report by global consulting firm LEK found that 75 percent of respondents intend to increase spending on health-related purchases and activities as a result of the pandemic.</p>
+<p style="text-align: justify;">A change in public perception has been overdue. Public charity Action on Health and Smoking (ASH) noted, in its 2021 report, that the number of smokers fell from 46 percent of the population in 1974 to just 14 percent in 2019. As health concerns grow in tandem with consumer knowledge, companies have been forced to adapt.</p>
+<p style="text-align: justify;">But awareness is not the only aspect of the health industry that consumers need to consider. Pfizer and Moderna have become household names, and the spotlight is focused on pharmaceutical companies.</p>
+<p style="text-align: justify;">American-Japanese firm Takeda discovered in a 2020 survey that just 38 percent of adults felt they could fully trust big pharma — and 22 percent had no trust at all.</p>
+<p style="text-align: justify;">Medicine manufacturers need to change their relationship with consumers to ensure their survival in a post-pandemic world. Some are already ahead of the curve, and BioNTech is one such firm.</p>
+<p style="text-align: justify;">At a recent conference in Marburg, Germany, the company revealed a new manufacturing method. It can compact the machinery needed to produce vaccines to the size and shape of a shipping container. The units take up less space, are transportable, and can be placed anywhere in the world. With plans to launch the first models in Africa later this year, BioNTech could change healthcare across developing nations by turning the tide on malaria and other treatable diseases.</p>
+<p style="text-align: justify;">The genius behind the idea becomes apparent when one considers what it takes to produce drugs at traditional facilities. Vaccines, for instance, require complex steps in their manufacture. Machines must be maintained at precise operating pressures and temperatures to ensure the correct chemical reactions. These specifications form a sort of secret recipe — one with thousands of complicated steps. The problem lies in transferring these “recipes” to other production facilities. It’s a slow process, and factors as subtle as the weather or the factory’s elevation mean retuning and updating the process each time.</p>
+<p style="text-align: justify;">BioNTech CEO Uğur Sahin hopes the modified shipping containers will speed-up the process, and the provision of aid. The standardised nature of the containers means engineers can replicate the recipe without recalibration. As Sahin puts it: “This is the future of manufacturing — not only for Africa, but worldwide.”</p>
+<p style="text-align: justify;">Another company looking to break into the pharmaceutical space while riding on the back of consumer attention is the Mark Cuban Cost Plus Drug Company (MCCPDC).</p>
+<p style="text-align: justify;">Billionaire Cuban has latched onto the affordable healthcare market by providing a cut-price service in the sometimes-extortionate US market. It offers hundreds of drugs below the price set by many pharmacies — without the requirement for patient insurance.</p>
+<p style="text-align: justify;">MCCPDC charges a 15 percent mark-up and any additional pharmacy fees, yet still manages to undercut the competition. The diabetes drug Metformin retails for $20 for a 30-day supply, but on MCCPDC the price is just $3.90. Imatinib, a drug used to treat leukaemia and other cancers, is available for $17.10 on Cuban’s website. It can cost as much as $2,502 from retail pharmacies.</p>
+<p style="text-align: justify;">The future of medicine hinges on transparency. The mistrust surrounding covid vaccines shines a light on an age-old problem. As consumers become more aware of their medical needs, any company that can supply medicine <em>and</em> trust is well positioned for the future.</p>
+<p style="text-align: justify;"><em>By Yogesh Patel</em></p>
