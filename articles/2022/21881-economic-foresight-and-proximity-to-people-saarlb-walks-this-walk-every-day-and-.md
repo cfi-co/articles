@@ -1,0 +1,29 @@
+---
+id: 21881
+title: "Economic Foresight and Proximity to People: SaarLB Walks this Walk Every Day — and Across Borders"
+award_year: 2022
+published: 2022-05-18 05:45:28
+published_gmt: 2022-05-18 04:45:28
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2022/05/economic-foresight-and-proximity-to-people-saarlb-walks-this-walk-every-day-and-across-borders/"
+categories: ["Corporate"]
+content_sha256: fcccfa698d67b810fee0c8eb8561486ea7696d1cd3a232378f0a09872149ed46
+canonical: 21881-economic-foresight-and-proximity-to-people-saarlb-walks-this-walk-every-day-and-.json
+---
+
+# Economic Foresight and Proximity to People: SaarLB Walks this Walk Every Day — and Across Borders
+
+> Verbatim archived copy. Canonical machine record: `21881-economic-foresight-and-proximity-to-people-saarlb-walks-this-walk-every-day-and-.json`.
+
+<p style="text-align: justify;"><strong>SaarLB is a Franco-German regional bank headquartered in Saarbrücken, the capital of Saarland, close to France.</strong></p>
+
+
+[caption id="attachment_21882" align="aligncenter" width="900"]<img class="size-large wp-image-21882" src="https://cfi.co/wp-content/uploads/2022/05/SaarLB_Bretzger_Eloy-1024x630.jpg" alt="Frank Eloy CSO &amp; Thomas Bretzger CEO" width="900" height="554" /> <strong>Frank Eloy</strong> CSO &amp; <strong>Thomas Bretzger</strong> CEO[/caption]
+<p style="text-align: justify;">From the beginning of its 80-year existence, SaarLB has defined the Franco-German and south-west German markets as an integrated core region from a business strategy perspective.</p>
+<p style="text-align: justify;">To best serve these markets and their customers, the strategic headquarters in Saarbrücken has been supplemented over the years with locations in Koblenz, Mannheim, Trier, Strasbourg, Paris and, as of this year, Lyon. “This geographic network represents an important success factor for the bank, guaranteeing that vital proximity to customers, and the economy,” says Thomas Bretzger, CEO.</p>
+<p style="text-align: justify;">The bank focuses on SME businesses with customers and investors in corporate and real estate sectors, project financing with a focus on renewable energies, institutional customers, the public sector, high-net-worth individuals, municipalities, and private-public partnerships.</p>
+<p style="text-align: justify;">“SaarLB stands for focused financial services with an emphasis on financing products,” says Frank Eloy, CSO. “It pursues an integrated Franco-German business approach with corresponding expertise in both countries. For cross-border customers in particular, this is reflected in the ‘Pôle Franco-Allemand’ network forum, which provides customers with a wide range of the bank’s partners, and their networks.”</p>
+<p style="text-align: justify;">As a public bank, SaarLB has two strong shareholders in Saarland and the Savings Banks Association, which continue to provide unparalleled security. SaarLB is a member of the <a href="https://www.dsgv.de/en/savings-banks-finance-group.html" target="_blank" rel="noopener">Savings Banks Finance Group</a> (<a href="https://www.dsgv.de/sparkassen-finanzgruppe.html" target="_blank" rel="noopener">Sparkassen-Finanzgruppe</a>) and is the largest credit and Pfandbrief institution in Saarland, as well as a member of the Association of German Pfandbrief Banks (vdp).</p>
+<p style="text-align: justify;">Economic foresight and proximity to people are more than just claims SaarLB makes. This message is lived out in daily interactions, and across borders. The bank’s strong approach, in addition to the corporate values, creates the necessary foundation for the appropriate framework.</p>
+<p style="text-align: justify;">“SaarLB was an early adopter in the area of <a href="https://cfi.co/category/sustainability/">sustainability</a>,” says Eloy, “and has been systematically pursuing its strategy since 2014.” The presentable results and successes are documented in an annual SaarLB report. The award of coveted Prime Status (ISS ESG) and the successful placement of a <a href="https://cfi.co/europe/2021/08/green-bonds-how-active-management-aims-to-make-the-most-of-a-dynamic-sector/">Green Bond</a> programme (€150m) underscore the success of this strategic orientation.</p>
+<p style="text-align: justify;">SaarLB had a balance sheet total of €15.15bn at mid-year 2021, when half-yearly figures were published; it employs 516 people. The Franco-German regional bank has earned recognition, including Family-Friendly Company (IHK) and Fair Company (Handelsblatt) seals, several times.</p>
