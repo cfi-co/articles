@@ -1,0 +1,62 @@
+---
+id: 21945
+title: "QIC: Digital Drive, Innovation, a Long History and Regional Expertise"
+award_year: 2022
+published: 2022-05-18 07:31:50
+published_gmt: 2022-05-18 06:31:50
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2022/05/qatar-insurance-company-digital-drive-innovation-a-long-history-and-regional-expertise/"
+categories: ["Corporate"]
+content_sha256: 5ecb941f090388fceee849995ac585c372257b38a01d6691bf8294d6847577ea
+canonical: 21945-qatar-insurance-company-digital-drive-innovation-a-long-history-and-regional-exp.json
+---
+
+# QIC: Digital Drive, Innovation, a Long History and Regional Expertise
+
+> Verbatim archived copy. Canonical machine record: `21945-qatar-insurance-company-digital-drive-innovation-a-long-history-and-regional-exp.json`.
+
+<p style="text-align: justify;"><strong>Qatar Insurance Company is a publicly listed composite insurer with 57 years behind it. </strong></p>
+<img class="aligncenter size-large wp-image-21947" src="https://cfi.co/wp-content/uploads/2022/05/QIC-1-1024x606.jpg" alt="Qatar Insurance Company" width="900" height="533" />
+<p style="text-align: justify;">Since 1964, Qatar Insurance Company has been addressing the needs of the MENA region — and in the past decade, its network has expanded to cover Qatar, UAE, Oman, Kuwait, United Kingdom, Switzerland, Malta, Italy, Singapore, Bermuda, and Gibraltar.</p>
+<p style="text-align: justify;"><a href="https://cfi.co/menu/corporate/2023/01/qic-over-half-a-century-of-service-and-specialisation/">QIC</a> has been a core contributor to the development and diversification of the Qatari economy. It has become the undisputed regional leader in commercial insurance for energy, marine and aviation, property and commercial, medical, and motor fleets. With cover for auto, medical, life, travel, home, and boat, QIC has built a reputation for unrivalled service delivery over the years.</p>
+<p style="text-align: justify;">QIC is rated “A” by S&amp;P and “A (Excellent)” by AM Best, which underscores the group’s financial strength and stability.</p>
+
+<h3 style="text-align: justify;">International Business</h3>
+<p style="text-align: justify;">The group’s international business operates under the banner of QIC Global, and generated over $2.8bn in gross premiums in 2020.</p>
+<p style="text-align: justify;">QIC Global has four major subsidiaries.</p>
+<p style="text-align: justify;"><strong>Qatar Re</strong>
+This global multiline reinsurer writes all major property, casualty and specialty lines of business. Seasoned underwriting and finance professionals in the Qatar Re teams provide clients with technical and business expertise gained across all market sectors.</p>
+<p style="text-align: justify;">With headquarters in Bermuda and offices in Zurich, London and Singapore, Qatar Re is always close to the world’s major reinsurance markets — and the core operations of its clients. Since 2016, Qatar Re has been one of the world’s 50 largest reinsurance companies (Source: AM Best).</p>
+<p style="text-align: justify;"><strong>Antares</strong>
+In 2014, Qatar Insurance Company acquired Antares Holdings Ltd, a specialty insurance and reinsurance group operating from the famed Lloyd’s market in London. QIC is the only Middle Eastern insurance group to own an integrated insurance vehicle in Lloyd’s.
+Antares delivers a global, diversified range of underwriting services in Property, Reinsurance, Casualty, Specialty, and Marine and Aviation. It ensures efficient and effective service for its clients, focusing on quality, security, continuity, and consistency in risk-transfer.</p>
+<p style="text-align: justify;"><strong>QIC Europe Ltd</strong>
+Established in 2014, QIC Europe Ltd (QEL) is the group’s Malta-based, pan European, non-life insurance and reinsurance subsidiary with branch offices in London and Italy.</p>
+<p style="text-align: justify;"><strong>Zenith Insurance and Markerstudy Insurance Company</strong>
+In 2018, Qatar Re acquired Zenith Insurance plc (ZIP) and Markerstudy Insurance Company Ltd (MICL) from UK-based Markerstudy Holdings. The transaction made Qatar Re one of the leading participants in Britain’s motor insurance industry, with a market share of over five percent.</p>
+<img class="aligncenter wp-image-21948 size-large" title="Qatar Insurance Company" src="https://cfi.co/wp-content/uploads/2022/05/QIC-2-1024x682.jpg" alt="Qatar Insurance Company" width="900" height="599" />
+<h3 style="text-align: justify;">Financial Performance</h3>
+<p style="text-align: justify;">QIC has a stable track record of profitability throughout its 57 years of operation. With over $3.5bn in gross written premium in 2020, QIC continued its market-leading position in the MENA region.</p>
+<p style="text-align: justify;">In Q3 2021, QIC posted a net profit of $140m, a 491 percent rise compared to the same period in 2020. The group’s gross written premium increased by four percent to $2.74bn from $2.64bn for the same period in 2020.</p>
+
+<h3 style="text-align: justify;">Qatar Insurance Company Digital Transformation</h3>
+<p style="text-align: justify;">QIC has been at the forefront of this transition for the Middle Eastern insurance industry. It remains focused on enhancing its digital insurance offerings, and introducing innovative, technology-enabled services for ease-of-use.</p>
+
+<h3 style="text-align: justify;">Recent Developments</h3>
+<p style="text-align: justify;">In Q4 2020, QIC carried out a successful initial public offering of its life and medical insurance subsidiary, QLM Life &amp; Medical Insurance Company (QLM). QLM’s share price surged 24 percent on the first day of listing, and the shares have continued to perform well.</p>
+
+<h3 style="text-align: justify;">Anoud Technologies</h3>
+<p style="text-align: justify;">Qatar Insurance Company administers its insurance business through an internally developed end-to-end IT platform called Anoud. This has enabled QIC to lead the digital transformation of the industry in the Middle East — and distinguishes the group from its regional competitors.</p>
+<p style="text-align: justify;">In 2020, QIC established a wholly-owned IT services subsidiary called Anoud Technologies (Anoud Tech). It markets an integrated insurance IT platform called Anoud+ to third-party insurers. Anoud+ provides them with a comprehensive management solution for all programmes.</p>
+
+<h3 style="text-align: justify;">Covid Cover</h3>
+<p style="text-align: justify;">QIC was the first insurance company in Qatar to introduce Covid-19 cover in its travel insurance products. This innovation gave a breath of life to the travel industry and pace-of-mind to travellers to-and-from Qatar and the MENA region. The cover includes medical expenses, hospitalisation, quarantine, and trip cancelation fees.</p>
+
+<h3 style="text-align: justify;">When Group Management has to Drive Profit — and Deal with a Pandemic at the Same Time…</h3>
+<p style="text-align: justify;">In 2021 — another difficult year for a world in the grip of Covid — QIC Group management orchestrated a return to outstanding financial performance.</p>
+<p style="text-align: justify;">The leadership team guided the group so well, and led the revision so successfully, that a net profit of $140m was achieved in Q3 — a 491 percent rise compared to the same period in 2020.</p>
+<p style="text-align: justify;">Under the guidance of the Qatar Insurance Group’s chief executive, <a href="https://cfi.co/menu/corporate/2023/01/innovative-mena-advances-move-insurance-company-to-the-head-of-its-sector/">Salem Khalaf Al-Mannai</a>, a group-wide digital transformation programme took shape.</p>
+<p style="text-align: justify;">“The primary objectives were to improve customer experience, modernise the group’s offerings, and introduce an agile methodology of delivering new and innovative insurance products and services,” Al Mannai says.</p>
+<p style="text-align: justify;">With the interests of existing and potential clients in Qatar and beyond at heart, the management group set to work.</p>
+<p style="text-align: justify;">Along with the constant drive for improvement, there were other pressing matters to address; the group’s response to the <a href="https://cfi.co/category/c-19/">Covid-19 pandemic</a>, for instance. “Our aim in 2020 was to guide the group,” the CEO says, “and offer the safest, and most trusted insurance services to retail and corporate customers.”</p>
+<p style="text-align: justify;">The preparation and consideration paid-off. QIC was able to maintain business continuity and offer unbroken service to its clients and customers, despite the challenges of the pandemic.</p>
