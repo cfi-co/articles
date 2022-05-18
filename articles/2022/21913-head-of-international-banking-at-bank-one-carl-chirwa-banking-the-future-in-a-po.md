@@ -1,0 +1,51 @@
+---
+id: 21913
+title: "Head of International Banking at Bank One Carl Chirwa: Banking the Future in a Post-Covid-19 World"
+award_year: 2022
+published: 2022-05-18 06:20:24
+published_gmt: 2022-05-18 05:20:24
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2022/05/head-of-international-banking-at-bank-one-carl-chirwa-banking-the-future-in-a-post-covid-19-world/"
+categories: ["Corporate"]
+content_sha256: 3ff91b05141df009b0462d3ef8d3120bf5c6db19c38299d8510b121623a95c7e
+canonical: 21913-head-of-international-banking-at-bank-one-carl-chirwa-banking-the-future-in-a-po.json
+---
+
+# Head of International Banking at Bank One Carl Chirwa: Banking the Future in a Post-Covid-19 World
+
+> Verbatim archived copy. Canonical machine record: `21913-head-of-international-banking-at-bank-one-carl-chirwa-banking-the-future-in-a-po.json`.
+
+<p style="text-align: justify;"><strong>“Two years down the line, I can safely assume that most businesses - including banks - have had to tear up meticulously detailed plans and budgets,” says Carl Chirwa, head of international banking at Mauritius-based Bank One. The Covid-19 pandemic has ‘pulled a number’ on every business, government, and individual. As the saying goes: ‘You can plan a pretty picnic but you can’t predict the weather’.”</strong></p>
+
+
+[caption id="attachment_21914" align="aligncenter" width="900"]<img class="size-large wp-image-21914" src="https://cfi.co/wp-content/uploads/2022/05/Head-of-International-Banking-Carl-Chirwa-1024x738.jpg" alt="Head of International Banking: Carl Chirwa" width="900" height="649" /> <strong>Head of International Banking:</strong> Carl Chirwa[/caption]
+<p style="text-align: justify;">Banking was a margins game, he believes. “We were essentially in the business of buying and selling money; we buy low and sell high to make a margin.”</p>
+<p style="text-align: justify;">“I immediately fell in love with banking as a career,” he says — and the “margin principle” remained largely true until the Global Financial Crisis in 2008.</p>
+<p style="text-align: justify;">Jerome Powell, chairman of the Fed, signalled at the onset of the pandemic that US dollar interest rates were likely to remain near zero until around mid-2022 — at which point the Federal Reserve is expected to stop asset purchases.</p>
+<p style="text-align: justify;">Margin compression is the “New Normal” and rates seem set to stay lower for longer. The global lockdowns triggered an economic hiatus that put pressure on banks’ interest-earning assets worldwide. Therefore, a NIM’s dependent banking strategy is no longer sustainable.</p>
+<p style="text-align: justify;">Future-proofed banks have already begun to pivot their focus towards a non-interest-income led revenue model, and are figuring out ways to generate fee-based revenues to sustain earnings.</p>
+<p style="text-align: justify;">“Fees need to be earned and justified,” says Chirwa. “This means solving real problems in real time, for which clients are willing to pay. Banks should try to solve problems, not push products.”</p>
+<p style="text-align: justify;">A fee-led strategy requires digital transformation. Digital transformation requires complete rethink of all internal processes”, he says. “Senior Leaders can no longer afford to delegate to a group of techies holed-up somewhere in an innovation lab that periodically reports to senior management.”</p>
+<p style="text-align: justify;">According to a recent survey by The Wall Street Journal, directors, CEOs, and senior executives consider digital transformation as their number one concern. Yet 70 percent of all such initiatives do not reach their goals.</p>
+<p style="text-align: justify;">“Fundamentally, it’s because most digital technologies provide possibilities for efficiency gains and customer intimacy,” says Chirwa. “But if people lack the right mindset and organisational practices are flawed, DT will simply magnify those flaws.”</p>
+<p style="text-align: justify;">He offers five key thought leadership lessons:</p>
+
+<ul>
+ 	<li style="text-align: justify;">Figure out your business strategy — before investing. Let digital transformation be guided by the broader business strategy.</li>
+ 	<li style="text-align: justify;">Leverage insiders. Rely on staff who have intimate knowledge about what works — and what doesn’t.</li>
+ 	<li style="text-align: justify;">If the goal is to improve customer satisfaction, start with a diagnostic phase with input from customers.</li>
+ 	<li style="text-align: justify;">Recognise employees’ fear of being replaced.</li>
+ 	<li style="text-align: justify;">Emphasise that the process is an opportunity to upskill for the future.</li>
+ 	<li style="text-align: justify;">Traditional hierarchies get in the way. Don’t be afraid to fail; it’s part of the process. Fail fast, fail small, and fail forward.</li>
+</ul>
+<p style="text-align: justify;">A snap survey with Bank One clients revealed six common requirements that clients are willing to pay for.</p>
+<p style="text-align: justify;">They are:</p>
+
+<ul>
+ 	<li style="text-align: justify;"><strong>Digital on-boarding:</strong> A seamless digital customer on-boarding process.</li>
+ 	<li style="text-align: justify;"><strong>Omni-channel user experience:</strong> Digital access to banking services.</li>
+ 	<li style="text-align: justify;"><strong>Cybersecurity:</strong> Resilience here is key to client acquisition and retention.</li>
+ 	<li style="text-align: justify;"><strong>Processing efficiency:</strong> Near real-time processing, tracking and enhanced visibility of cross-border payments.</li>
+ 	<li style="text-align: justify;"><strong>Let price and value</strong> determine the main banker status in a depressed corporate earnings environment.</li>
+ 	<li style="text-align: justify;"><strong>Certainty and risk management:</strong> Corporate treasurers and CFOs require access to relevant real-time tools and insights.</li>
+</ul>
