@@ -1,0 +1,34 @@
+---
+id: 22010
+title: "Jürgen Eichner: Vision of VIA optronics Boss Takes Company on Whirlwind Trajectory"
+award_year: 2022
+published: 2022-05-19 12:44:41
+published_gmt: 2022-05-19 11:44:41
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2022/05/jurgen-eichner-vision-of-via-optronics-boss-takes-company-on-whirlwind-trajectory/"
+categories: ["Corporate"]
+content_sha256: ab0ec7d2604b307e0a49d76e5c54091f66b84da9f26bf1e92fc49c9695414b48
+canonical: 22010-jurgen-eichner-vision-of-via-optronics-boss-takes-company-on-whirlwind-trajector.json
+---
+
+# Jürgen Eichner: Vision of VIA optronics Boss Takes Company on Whirlwind Trajectory
+
+> Verbatim archived copy. Canonical machine record: `22010-jurgen-eichner-vision-of-via-optronics-boss-takes-company-on-whirlwind-trajector.json`.
+
+<p style="text-align: justify;"><strong>When Jürgen Eichner founded VIA optronics in 2005, he already had extensive experience in engineering and sales. That combination of skills has proven invaluable.</strong></p>
+
+
+[caption id="attachment_22011" align="aligncenter" width="900"]<img class="size-large wp-image-22011" src="https://cfi.co/wp-content/uploads/2022/05/CEO-and-Founder-Jurgen-Eichner-1024x684.jpg" alt="CEO &amp; Founder: Jürgen Eichner" width="900" height="601" /> <strong>CEO &amp; Founder:</strong> Jürgen Eichner[/caption]
+<p style="text-align: justify;">Eichner identified a gap in the market and took the bold step of single-handedly setting up VIA optronics. The only assistance he received came from a friend in the sector, who offered him clean room space and seconded two workers to help from time to time. The German government gave him some financial assistance for six months, but other than that he was on his own.</p>
+<p style="text-align: justify;">Nevertheless, in his first year the company had a turnover of €200,000 — which in 2007 increased tenfold to €2m. By 2008, it had quadrupled to €8m. Having achieved such exponential growth in just three years, the company no longer required funding — it needed working capital.</p>
+<p style="text-align: justify;">He succeeded in this by winning contracts with a German-Swiss equipment manufacturer, producing displays for its excavators, and a Bavarian car firm. At the Bavarian car firm, the industrial technology of optical bonding was applied to the automotive sector.
+In 2009, taking advantage of the contacts made throughout his career, Eichner’s company acquired part of White Electronics, establishing a foothold in the North American market.</p>
+<p style="text-align: justify;">Eichner´s leadership landed contracts with Dell and Hewlett Packard, both IT firms interested in tech for their laptops.</p>
+<p style="text-align: justify;">Realising that by now he needed to improve the firm´s supply chain, Eichner opened a production centre in Suzhou, China, and in 2018, acquired a touch sensor supplier in Japan. By 2020, Eichner decided it was time to go public. He supported the initial public offering of VIA optronics to extend the public knowledge of the company. The US, he notes, is a market that engages with its products.</p>
+<p style="text-align: justify;">In 15 years, VIA optronics had grown from a one-man band to a listed entity with 800 employees; Eichner has had to learn to delegate, and reports to shareholders every three months. He sees this as an advantage: valuable feedback from investors exposes him to disparate viewpoints.</p>
+<p style="text-align: justify;">Eichner takes his responsibility as an employer seriously. “We don’t believe in a hire-and-fire system, but in nurturing talent and retaining staff over the long term.” He acknowledges that it has sometimes been difficult to find enough highly-qualified employees, and recognises the value of providing exciting and challenging careers in tight and dependable teams.</p>
+<p style="text-align: justify;">The pandemic has been a double-edged sword for VIA optronics. Production in China ground to a halt for two weeks, but on the other hand, the explosion in home-study and remote working boosted the market.</p>
+<p style="text-align: justify;">Eichner earned a master’s degree in Science in Electronics Engineering from the University of Applied Sciences in Nuremberg. He then embarked on a career as a development engineer at global defence company Diehl, where he rose to become the head of the company´s electronic service centre.</p>
+<p style="text-align: justify;">From 1998 to 2000, he served as business development manager and director of Origin Germany’s professional services group. He then took on the role of head of sales EMEA at White Electronic Design Corporation.</p>
+<p style="text-align: justify;">As Eichner looks to the future and thinks back on his career, he is increasingly conscious of the need to identify and appoint successors able to ensure the continued success of the company.</p>
+<p style="text-align: justify;">His time at the helm of VIA optronics, however, indicates that he still has plenty to contribute himself.</p>
