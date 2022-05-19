@@ -1,0 +1,33 @@
+---
+id: 22013
+title: "VIA optronics AG: Challenged by Optics or Display Issues? VIA’s Got This One Covered"
+award_year: 2022
+published: 2022-05-19 13:04:47
+published_gmt: 2022-05-19 12:04:47
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/innovation-technology/2022/05/via-optronics-ag-challenged-by-optics-or-display-issues-vias-got-this-one-covered/"
+categories: ["Corporate", "Innovation &amp; Technology"]
+content_sha256: fb0bb816c01095e432159e0301bdf6cbf4918b670e250e93e469fa103d7715fa
+canonical: 22013-via-optronics-ag-challenged-by-optics-or-display-issues-vias-got-this-one-covere.json
+---
+
+# VIA optronics AG: Challenged by Optics or Display Issues? VIA’s Got This One Covered
+
+> Verbatim archived copy. Canonical machine record: `22013-via-optronics-ag-challenged-by-optics-or-display-issues-vias-got-this-one-covere.json`.
+
+<p style="text-align: justify;"><strong>Germany’s VIA optronics prides itself on being a one-stop solution provider of interactive display systems and solutions.</strong></p>
+
+
+[caption id="attachment_22014" align="aligncenter" width="900"]<img class="size-large wp-image-22014" src="https://cfi.co/wp-content/uploads/2022/05/VIA-optronics-1024x768.jpg" alt="Demonstrator of an Interactive Display System " width="900" height="675" /> Demonstrator of an Interactive Display System[/caption]
+<p style="text-align: justify;">The company is headquartered in Nuremberg, Germany with production facilities in China and Japan, and further subsidiaries in USA, Taiwan and Philippines. VIA provides technologies for the industrial, and consumer electronics markets, with a particular focus on the automotive sector. The current focus is on the high-growth electric vehicle segment, and VIA works with several manufacturers.</p>
+<p style="text-align: justify;">VIA’s offerings for automotive applications include navigation displays, instrument clusters, rear-seat entertainment and infotainment systems, and interactive display systems. Solutions for industrial applications include displays for “ruggedised” laptops, marine navigational systems and fish finders, agricultural equipment, surround views, digital signage, and interactive conference room displays. Consumer applications include solutions for notebooks, tablets, and all-in-one monitors — in a range of display sizes from one inch (25mm) to over 84 inches (2.13m).</p>
+<p style="text-align: justify;">When it comes to interactive display, VIA combines system design capabilities, interactive displays, software, hardware, and cameras.</p>
+[gallery columns="2" size="medium" link="file" ids="22019,22017,22016,22015"]
+<p style="text-align: justify;">VIA’s customisable tech is well-suited for high-end markets which have specific requirements to overcome technical and optical challenges. Its innovations have successfully surmounted issues such as bright ambient light, vibration and shock, extreme temperatures, and condensation.
+The technology itself is based on VIA’s patented optical bonding process with a proprietary silicon-based material. It provides excellent sunlight readability and slim product design as well as flexible applications on bendable, foldable and curved display surfaces.</p>
+<p style="text-align: justify;">The company partners with Corning , a leading glass manufacturer with its cutting-edge Coldform&#x2122; Technology for curved automotive displays.</p>
+<p style="text-align: justify;">VIA meets the most exacting requirements for design, volume, and proximity manufacturing through its production sites in Germany and China. The agile production capacity allows projects to be moved between the two sites without delay. Manual, semi- and fully automated production lines enable the handling of any project, from specialised, small-batch runs to high-volume production.</p>
+<p style="text-align: justify;">And VIA optronics’ expertise does not stop at optical bonding. It designs, develops, and produces touch sensors at its subsidiary in Japan. The company’s metal-mesh touch-sensor is based on a grid patterned on a transparent film that can be laminated to any type, shape and composition of cover lens material — including curves and plastic. With high conductivity, touch sensors allow active pen- and glove functionality, large size applications, and superior performance. The technology supports flexible, foldable, and curved applications, as well as touch functions in areas beyond the display (in housings, for example).</p>
+<p style="text-align: justify;">VIA optronics also designs and develops cameras with a focus (no pun intended) on the automotive and transport markets. These customisable devices are used for viewing and sensing applications such as driver monitoring, ADAS, mirror replacement, or surround view.</p>
+<p style="text-align: justify;">To round-out the elements of an interactive display system, VIA has the know-how to provide integrated solutions, interfaces and applications such as object recognition.</p>
+<p style="text-align: justify;">Whatever it may be, VIA ensures it’s in the eye of the beholder.</p>
