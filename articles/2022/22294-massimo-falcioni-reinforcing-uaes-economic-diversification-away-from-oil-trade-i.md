@@ -1,0 +1,42 @@
+---
+id: 22294
+title: "Massimo Falcioni: Reinforcing UAE’s Economic Diversification Away from Oil Trade in a Co-operative Way"
+award_year: 2022
+published: 2022-07-06 09:00:19
+published_gmt: 2022-07-06 08:00:19
+author: "CFI.co Editorial"
+url: "https://cfi.co/middleeast/2022/07/massimo-falcioni-reinforcing-uaes-economic-diversification-away-from-oil-trade-in-a-co-operative-way/"
+categories: ["Middle East"]
+content_sha256: 5bb420abcb117234fe38a3c41f76dd48a0f109faab31e4143344412b27341aad
+canonical: 22294-massimo-falcioni-reinforcing-uaes-economic-diversification-away-from-oil-trade-i.json
+---
+
+# Massimo Falcioni: Reinforcing UAE’s Economic Diversification Away from Oil Trade in a Co-operative Way
+
+> Verbatim archived copy. Canonical machine record: `22294-massimo-falcioni-reinforcing-uaes-economic-diversification-away-from-oil-trade-i.json`.
+
+<em>CFI.co speaks with Massimo Falcioni, Chief Executive Officer of UAE Federal export credit company </em><em><a href="https://cfi.co/corporate-leaders/2019/10/etihad-credit-insurance-creating-a-central-role-in-a-changing-economic-landscape/">Etihad Credit Insurance</a>.</em>
+
+[caption id="attachment_22295" align="aligncenter" width="900"]<img class="size-large wp-image-22295" src="https://cfi.co/wp-content/uploads/2022/06/Massimo-Falcioni-1024x759.jpg" alt="Massimo Falcioni" width="900" height="667" /> Massimo Falcioni[/caption]
+<p style="text-align: justify;"><strong>Massimo Falcioni has led <span style="text-decoration: underline;"><a href="https://eci.gov.ae/">Etihad Credit Insurance (ECI)</a></span>, the UAE Federal export credit company, since its launch in 2018 with the mandate to reinforce the country’s economic diversification programmes and support its export and international trade and investment activities.</strong></p>
+<p style="text-align: justify;">ECI has protected cash flows and eased SME access to trade finance, accelerating economic recovery during the post-pandemic era. Support for local business has enabled growth in non-oil trade for exports and re-exports, and the company boasts world-class industrial development.</p>
+<p style="text-align: justify;">ECI was founded to insure those UAE-based companies not associated with oil export and re-export against non-payment. The company protects investments outside the UAE against political risks, and supports corporate bidding for international tenders. It also plays a major role in the UAE’s strategic sector development, such as Industry Revolution 5.0, energy transition, and advanced technology.</p>
+<p style="text-align: justify;">“My leadership inspiration comes from the vision of His Highness Sheikh Mohammed bin Zayed Al Nahyan, president of the UAE,” CEO Massimo Falcioni told us.</p>
+<p style="text-align: justify;">“Brothers and sisters, said Sheikh Mohammed, “further diversifying our economy is a key strategic focus of our plans. It is, therefore, necessary to accelerate economic development efforts to continue building a leading global economy, to enhance our competitiveness, and to achieve the highest global rankings.”</p>
+<p style="text-align: justify;">The close association between export credit agencies (ECAs) has become crucial in the current economic cycle. Co-operation is key to navigating unprecedented challenges to global trade.</p>
+<p style="text-align: justify;">“I see a future of exponential growth for ECI business and organisation,” says Falcioni, “led by a more and more central role for government ECAs to fill the gaps of the private sector in trade credit insurance and the commercial banks’ trade finance accessibility and appetite.”</p>
+<p style="text-align: justify;">ECI has embraced, adopted and executed the UAE government’s legislation for economic reforms. The laws include some 40 amendments and put in place proactive frameworks to drive economic expansion.</p>
+<p style="text-align: justify;">These are also expected to attract more foreign direct investment and support the growth of SMEs to further diversify the economy.</p>
+<p style="text-align: justify;">During the pandemic, ECI helped a UAE manufacturer recover payments from a leading US firm that had filed for bankruptcy and restructuring. The business transactions were insured by Etihad Credit Insurance, ensuring a positive outcome.</p>
+<p style="text-align: justify;">“Our contribution to the growth of the energy and sustainability sector comes in line with the country’s Energy Strategy 2050,” notes Falcioni. The strategy aims to reduce the carbon footprint of power generation by 70 percent.</p>
+<p style="text-align: justify;">The firm has partnered with private and public entities such as Abu Dhabi Future Energy Company (Masdar) to establish political and commercial risk insurance solutions to improve bankability and attract cheaper capital to renewable energy projects.</p>
+<p style="text-align: justify;">The UAE also strives to enhance applications of nuclear technology beyond power generation, such as hydrogen as a clean fuel of the future for industry and transport. ECI has signed an agreement with Korea Trade Insurance Corporation (Ksure), the official export credit agency of South Korea, to boost investments in sustainable green energy.</p>
+<p style="text-align: justify;">“We no longer invest in coal or oil to help us reach carbon neutrality,” says the CEO. “However, we will continue to invest in gas as a transitional fuel.”</p>
+<p style="text-align: justify;">Falcioni believes in adapting to an evolving business environment. “The competence to overcome hurdles with experience and a futuristic vision is essential in being a global business,” he says.</p>
+<p style="text-align: justify;">There are many lessons he has learned from more than 35 years of experience. They include the importance of teamwork, ensuring stakeholder commitment, and communicating the company ambitions and strategy to the board of directors, management and employees. Others are:</p>
+
+<ul>
+ 	<li style="text-align: justify;">Align teams across the organisation of ECI’s customer-based culture</li>
+ 	<li style="text-align: justify;">Provide interactive and engaging education and learning interventions to help teams gain alignment and traction</li>
+ 	<li style="text-align: justify;">Perform ongoing coaching to enhance individual and team competencies.</li>
+</ul>
