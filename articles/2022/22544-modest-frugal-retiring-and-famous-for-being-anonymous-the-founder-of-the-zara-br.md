@@ -1,0 +1,32 @@
+---
+id: 22544
+title: "Modest, Frugal, Retiring, and Famous for Being Anonymous: the Founder of Zara, Amancio Ortega"
+award_year: 2022
+published: 2022-08-01 13:22:02
+published_gmt: 2022-08-01 12:22:02
+author: "CFI.co Editorial"
+url: "https://cfi.co/lifestyle/2022/08/modest-frugal-retiring-and-famous-for-being-anonymous-the-founder-of-the-zara-brand/"
+categories: ["Corporate", "Europe", "Lifestyle"]
+content_sha256: 7ff5a66538809772016781b47050ff41563774a8bf48f97247de3164118ba47f
+canonical: 22544-modest-frugal-retiring-and-famous-for-being-anonymous-the-founder-of-the-zara-br.json
+---
+
+# Modest, Frugal, Retiring, and Famous for Being Anonymous: the Founder of Zara, Amancio Ortega
+
+> Verbatim archived copy. Canonical machine record: `22544-modest-frugal-retiring-and-famous-for-being-anonymous-the-founder-of-the-zara-br.json`.
+
+<p style="text-align: justify;">By TONY LENNOX</p>
+<p style="text-align: justify;">When the famously private Spanish entrepreneur Amancio Ortega finally gave his consent to a biography, he had one simple request: “Don’t just put in the good parts.”</p>
+<p style="text-align: justify;">Ortega, the 86-year-old founder of the Zara fashion brand and the multinational clothing group Inditex, has built a business which has dominated high street fashion for decades. He remains the driving force of his empire, and with a fortune estimated to be in the region of $72.8bn — making him the wealthiest individual in Europe.</p>
+<p style="text-align: justify;">The contrast to his early life is stark. He was born in north-western Spain, the youngest of three children, just as the civil war broke out. His father, an itinerant railway worker, had to travel to find employment, which is why the young Ortega left school at 14 to start work in a shirt-making shop.</p>
+<p style="text-align: justify;">“My ambition was born of poverty,” he once told a journalist. “I still remember that day when a shopkeeper turned my mother away. It didn’t take much for me to realise that every penny counts. I try to be as grounded as possible, and it is not something to brag about. It’s just the way I am.”</p>
+
+
+[caption id="attachment_22546" align="alignright" width="1000"]<img class="wp-image-22546 size-full" title="Zara, Calgary, Canada" src="https://cfi.co/wp-content/uploads/2022/08/ZaraChinookCentre.jpg" alt="Zara, Calgary, Canada" width="1000" height="563" /> The famously private founder of Zara has a business empire with more than 7,300 retail outlets in 94 countries. Photo: <a href="https://commons.wikimedia.org/wiki/File:Zara_Chinook_Centre.jpg" target="_blank" rel="noopener">Rowanlovescars</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank" rel="noopener">CC BY-SA 4.0</a>, via Wikimedia Commons[/caption]
+<p style="text-align: justify;">Despite the trappings of wealth — the yachts, the private jets, the desirable properties around the world — Ortega lives modestly with his second wife, Flora Perez, spending most of his time in a simple apartment overlooking the harbour in A Coruña on Spain’s Atlantic coast. He uses an unremarkable car to take the short drive to the vast Inditex complex in nearby Arteixo.</p>
+<p style="text-align: justify;">In her book, <em>The Man from Zara: The Story of the Genius Behind the Inditex Group</em>, published in 2012, journalist and close friend, Covadonga O’Shea, says that the founder of Zara's desire for anonymity is legendary. She spent many years, she says, trying to persuade him to tell his story. She describes him as “a man lacking in sophistication, with a passion and capacity for work, simplicity, and a vision of the future”. “Because of his passion for anonymity,” she writes, “he has unintentionally become an almost mythical figure in the world of business.” His relaxed management style is influenced by his lack of formal education, say observers. Despite the international nature of the fashion business, Ortega has never learned to speak English. He prefers to communicate in-person rather than electronically, and he listens rather more than he speaks. He eats in the general canteen with his workers, and tends to shun invitations to speak at industry events.</p>
+<p style="text-align: justify;">Having learned to stitch clothing by hand, he set up in business with his first wife, Rosalia Mera, at the relatively late age of 37. They created simple bathrobes in their living room; before long they needed to employ a seamstress.</p>
+<p style="text-align: justify;">In 1975 he opened his first store, Zorba, named after the title character in the 1964 film <em>Zorba the Greek</em>. Following complaints from a nearby restaurant, also named Zorba, Ortega changed the shop’s name to Zara.</p>
+<p style="text-align: justify;">From the beginning, the company’s USP was producing good quality, <a href="https://cfi.co/brave-new-world/2022/03/this-seasons-collection-is-second-hand-and-purchased-online/">fashionable clothing at a low price</a>. Before long, Ortega was opening Zara stores throughout Spain and Portugal. In 1988, he created <a href="https://www.inditex.com/itxcomweb/en/brands" target="_blank" rel="noopener">Inditex, which today operates numerous global fashion brands</a>, including Zara, Pull &amp; Bear, Massimo Dutti, and Bershka, among others. Inditex is now the world’s number one clothing retailer, with more than 7,300 retail outlets in 94 countries, employing 150,000 staff.</p>
+<p style="text-align: justify;">Ortega’s business is still driven by a basic mantra: Give the customers what they want, as quickly as possible. He eschews traditional advertising. The company has practically no marketing budget, relying on reputation and location for sales — though it helps that the Duchess of Cambridge is regularly photographed in Zara creations.</p>
+<p style="text-align: justify;">The founder of Zara still protects his privacy, though. “The only people I want to recognise me in the street are my family, friends and workmates,” he says. “I’m trying to live a quiet life, be just another person, able to go where I want, have a coffee on the terrace, or take a stroll along the promenade without everybody knowing who I am.”</p>
