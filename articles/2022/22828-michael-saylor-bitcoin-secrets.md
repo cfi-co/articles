@@ -1,0 +1,38 @@
+---
+id: 22828
+title: "Michael Saylor: How to Make Money with Bitcoin"
+award_year: 2022
+published: 2022-08-05 10:11:13
+published_gmt: 2022-08-05 09:11:13
+author: "CFI.co Editorial"
+url: "https://cfi.co/finance/2022/08/michael-saylor-bitcoin-secrets/"
+categories: ["Banking", "Banking &amp; Finance", "Finance", "North America"]
+content_sha256: 6b9868f915c2873f1e6342844fa3f9a6c97bf0cfd56dd2437f8c7927d20c8d34
+canonical: 22828-michael-saylor-bitcoin-secrets.json
+---
+
+# Michael Saylor: How to Make Money with Bitcoin
+
+> Verbatim archived copy. Canonical machine record: `22828-michael-saylor-bitcoin-secrets.json`.
+
+<h2 style="text-align: justify;">Michael Saylor: Bitcoin is the family farm. Don’t panic!</h2>
+<p style="text-align: justify;"><em>BY TONY LENNOX</em></p>
+<p style="text-align: justify;">Michael Saylor describes his journey to bitcoin legend status as an accident. “I kind of fell off the turnip truck and hit my head on a pot of gold,” he says.</p>
+
+
+[caption id="attachment_22847" align="alignleft" width="300"]<img class="wp-image-22847 size-medium" title="Michael Saylor, MicroStrategy CEO " src="https://cfi.co/wp-content/uploads/2022/08/Michael-Saylor-image-1000x563-1-300x169.jpg" alt="Michael Saylor, MicroStrategy CEO " width="300" height="169" /> Michael Saylor, MicroStrategy CEO. Photo: <a href="http://www.michael.com" target="_blank" rel="noopener">michael.com</a>[/caption]
+<p style="text-align: justify;">The 57 year old founder and CEO of MicroStrategy, a <a href="https://www.microstrategy.com/en" target="_blank" rel="noopener">business analytics software firm</a> based on the edge of Washington DC, enjoys mid-western farming analogies. Indeed, he often refers to ownership of bitcoin as “the family farm” – something you should never sell.</p>
+<p style="text-align: justify;">He was born in the heart of the mid-west, in the prairie state of Nebraska. His father was a master sergeant in the US air force, so the young Saylor spent his early years in military air bases across the world before the family finally settled in Fairborn, Ohio.</p>
+<p style="text-align: justify;">In his final year at high school in Fairborn he was named “the pupil most likely to succeed” – but succeed at what?  “I wanted to be a rock ‘n’ roll star,” he says. “When I was in college I wanted to be a fighter pilot, but those hopes were dashed. My third idea was to be a professor.”</p>
+<p style="text-align: justify;">His ambition to fly jets, even become an astronaut, were scuppered when he was wrongly diagnosed with a benign heart murmur. At that time he was an MIT student on an air force scholarship, and he gained a double major in aeronautics and astronautics.</p>
+<p style="text-align: justify;">Needing money to pursue his third ambition of a professorship, Saylor got a job building computer simulations for DuPont, the biotechnology giant. When he handed in his resignation in order to go back to MIT his bosses, who’d come to depend on his genius, begged him to stay.</p>
+<p style="text-align: justify;">“I was 24 and living in an apartment with milk crates for bookshelves,” he says. “I didn’t want to stay and be a corporate bureaucrat.” DuPont offered him a pay rise, but Saylor told them he’d rather be the CEO of his own company – so on the promise to complete his DuPont projects, the company helped him set up his own business, MicroStrategy.</p>
+<p style="text-align: justify;">Within a few years Michael Saylor was a billionaire, riding the dot-com bubble. When the bubble burst in the late 1990s his fortunes crashed with it. The company survived, however, and he regained his billionaire status thanks largely to his timely bitcoin investments, personally buying 17,732 bitcoins for $175m.</p>
+<p style="text-align: justify;">Over the following years he gradually steered MicroStrategy’s coffers into bitcoin, and helped trigger the institutional bitcoin boom. In 2020 MicroStrategy’s bitcoin ownership crossed the $1b milestone.</p>
+<p style="text-align: justify;"><a href="https://cfi.co/brave-new-world/2022/05/crash-by-stealth-investors-head-for-the-hills-to-find-a-valley-of-tears/">The cryptocurrency market suffered what observers called a “meltdown” in May, 2022</a>; the start of a “crypto winter”, blamed on macroeconomic and geopolitical turmoil, but Saylor was typically blunt about those who rushed to sell bitcoin.</p>
+<p style="text-align: justify;">In a television interview earlier this year, he said: “Do not sell your bitcoin.” One of his biggest regrets as an investor, he said, was “finding a really good idea and underinvesting in it”.</p>
+<p style="text-align: justify;">He added: “A digital monopoly that changes the world is a good idea. But people panic - and sell. When you do that, you regret it. He urged bitcoin investors to remember the words written by Douglas Adams on the back cover of <em>The Hitchhiker’s Guide to the Galaxy</em> – Don’t Panic. “Bitcoin is something you can trust - across borders, across time, across cultures - and that is such a precious thing,” he said. “It is a paradigm shift, neutral, ethically sound, non-sovereign - a technically secure monetary network which allows no-one to victimise anyone else. It is also functional and progressive.”</p>
+<p style="text-align: justify;">Saylor, who has never married, and lives alone in Vienna, Virginia, has said he may step down as CEO after 30 years leading the business, though will remain executive chairman, and will continue to serve on the <a href="https://bitcoinminingcouncil.com/" target="_blank" rel="noopener">bitcoin mining council</a>, the global forum of bitcoin miners.</p>
+<p style="text-align: justify;">A school friend remembers Michael Saylor as a young man buzzing with ideas, but who was essentially “just a quiet mid-western guy”. He has always been a voracious reader, fascinated by scientific advances that changed the world - the printing press, railways, the telephone, genetics, antibiotics.</p>
+<p style="text-align: justify;">He says: “The impact of all these things changed the paradigms of society. People are capable of accomplishing great things if they set their minds to it. We should not allow ourselves to be hijacked by a small goal or a pedestrian thought.</p>
+<p style="text-align: justify;"></p>
