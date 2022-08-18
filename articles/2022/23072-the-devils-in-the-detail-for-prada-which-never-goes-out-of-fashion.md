@@ -1,0 +1,44 @@
+---
+id: 23072
+title: "The Devil’s in the Detail for Prada, Which Never Goes Out of Fashion"
+award_year: 2022
+published: 2022-08-18 12:42:47
+published_gmt: 2022-08-18 11:42:47
+author: "CFI.co Editorial"
+url: "https://cfi.co/lifestyle/2022/08/the-devils-in-the-detail-for-prada-which-never-goes-out-of-fashion/"
+categories: ["Lifestyle"]
+content_sha256: 79a3dda203ea591c37dae0decd978d3ecf2773c2afe70bef15584445b1e3db6f
+canonical: 23072-the-devils-in-the-detail-for-prada-which-never-goes-out-of-fashion.json
+---
+
+# The Devil’s in the Detail for Prada, Which Never Goes Out of Fashion
+
+> Verbatim archived copy. Canonical machine record: `23072-the-devils-in-the-detail-for-prada-which-never-goes-out-of-fashion.json`.
+
+<p style="text-align: justify;"><em>Sustainability is the new watchword for a brand that’s staked its place in our imaginations and desires.</em></p>
+<img class="aligncenter size-large wp-image-23073" src="https://cfi.co/wp-content/uploads/2022/08/Prada-1024x684.jpg" alt="Prada" width="900" height="601" />
+<p style="text-align: justify;"><strong>For those who grew up in the noughties, the mention of <a href="https://www.prada.com/">Prada</a> may call to mind Anne Hathaway and Meryl Streep, <a href="https://cfi.co/lifestyle/2022/07/living-in-new-york-youre-welcome-but-it-helps-if-youre-wealthy/">New York</a> magazine offices, and iconic makeover scenes.</strong></p>
+<p style="text-align: justify;"><a href="https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_(film)">The Devil Wears Prada</a> is a movie classic that captivated audiences with its depiction of a glamorous but cut-throat world. A clueless “plain Jane” journalist, Andrea Sachs (Hathaway) faces off with #girlboss icon Miranda Priestly (Streep). Demanding, sharp-tongued (and allegedly inspired by real-life Vogue editor Anna Wintour), Priestly subjects Sachs to verbal abuse and submerges her with round-the-clock errands — but the reward for her hard work is a high-fashion makeover, and yes, those thigh-high Chanel boots.</p>
+<p style="text-align: justify;">Prada hasn’t always been at the forefront of fashion; it was founded in 1913 by Mario Prada, and the brand began life as a luxury leather goods firm in Milan’s Galleria Vittorio Emanuele II, Italy’s oldest shopping gallery. It sold bags, trunks, and other travel accessories, and in 1919, Prada became one of the official suppliers to the Italian royal household.</p>
+<p style="text-align: justify;">Its popularity exploded in the 1970s after Mario’s granddaughter Miuccia joined the family business, designing a set of backpacks and tote bags. She studied political science and delivered communist manifestos “wearing Saint Laurent and emeralds” before taking over in 1978.</p>
+<p style="text-align: justify;">Prada debuted on the runway in 1988 and has since created some of the most iconic outfits of the past 30 years. The official Prada ethos is “be drivers of change”, and the brand still aims for the unconventional, the innovative, and the pioneering.</p>
+
+<blockquote>
+<h3>"Under the direction of Miuccia, Prada has even delved into the world of NFTs and the metaverse."</h3>
+</blockquote>
+<p style="text-align: justify;">Prada’s newest focus is sustainability. In 2019, chairman and executive director Carlo Mazzi told Vogue that “sustainability cannot be simply a marketing tool” after becoming the first high-fashion company to sign a green loan — credit given on the understanding that it is to be used for environmentally friendly purposes. The same year, Prada signed the G7 “fashion pact”. The first-of-its-kind initiative aims to reduce greenhouse gases to zero by 2050 — and eliminate single-use plastics and achieve 100 percent renewable energy by 2030.</p>
+<p style="text-align: justify;">Consumer interest in ethically sourced products continues to grow. Web searches for “organic”, “second-hand” and “vegan” increased by 17 percent in 2021. Prada has continued working on its promises to make every aspect of its business more sustainable; such as building eco-friendly “garden factories” in Italy. The buildings have won awards for their commitment to restoring and preserving nature, and all of Prada’s Italian facilities operate with renewable energy.</p>
+<p style="text-align: justify;">There are still two years left on the €50m, five-year sustainability term-loan with the Crédit Agricole Group, and Prada must meet its three sustainability goals in order for interest rates to decrease.</p>
+<p style="text-align: justify;">It seems a far cry from the company’s 2006 Hollywood image. In the classic movie, audiences catch their first glimpse of Meryl Streep’s character carrying a grey Prada purse before they see her face. They know straight away that she is the eponymous “devil”.</p>
+<p style="text-align: justify;">But in 2022, Prada’s image is less exclusive, more inclusive. In 2019, Forbes reported that “93 percent of global consumers expect more of the brands they use to support local, social and environmental issues” and the Italian fashion house has been adept at keeping up with changing demands.</p>
+<p style="text-align: justify;">Prada’s FW22 collection debuted on the runway at Milan Fashion Week this February, with models including Kendall Jenner and Kaia Gerber. The collection featured combinations of grey linen and crushed black satin, sheer mesh skirts, and jackets decorated with faux fur or feathers.
+Models were adorned with pearls worn askew and leather trench coats; strong silhouettes triumphed over daintiness. The modern Prada customer means business, but it’s a far cry from the pencil skirts and tailored pantsuits worn by Streep.</p>
+<p style="text-align: justify;">For men, bold shoulders and turtlenecks dominated the runway. Titled Body of Work and inspired by utilitarian work uniforms, Prada said in a post-show statement that it wanted to create clothes that make people feel important. “The collection celebrates the idea of working — in all different spheres and meanings. It is a practical, everyday thing. But here, you are formally important. You are not casual.”
+Under the direction of Miuccia, Prada has even delved into the world of NFTs and the metaverse. Although the Italian fashion house has historically eschewed collaborations, it has slowly become more amenable to the idea. Perhaps its constantly evolving outlook is driven by Miuccia's rebellious nature.</p>
+<p style="text-align: justify;">In 2019, Prada announced a long-term collaboration with sportswear brand Adidas. In 2020, iconic menswear designer Raf Simons joined Prada as co-creative director, and in May 2022, the firm released a collaboration with artist Cassius Hirst.
+Miuccia is still notoriously picky about who she works with, however, telling Vogue that whenever requests land on her desk “they always seem to be about selling more — about cliches, banality, and not about ideas.”</p>
+<p style="text-align: justify;">With Prada’s SS23 menswear collection recently presented at Milan’s fashion week, and the invitations to its shows delivered on a functional paper coat, Prada continues to innovate and inspire.</p>
+<p style="text-align: justify;">Don’t expect to see florals for spring any time soon.</p>
+
+
+[caption id="attachment_23075" align="aligncenter" width="300"]<img class="size-medium wp-image-23075" src="https://cfi.co/wp-content/uploads/2022/08/Kitty-Wenham-300x213.jpg" alt="Author: Kitty Wenham" width="300" height="213" /> <strong>Author:</strong> Kitty Wenham[/caption]
