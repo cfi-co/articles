@@ -1,0 +1,56 @@
+---
+id: 23186
+title: "First Registrars & Investor Services Limited: Thriving in a Challenging World"
+award_year: 2022
+published: 2022-08-26 07:04:57
+published_gmt: 2022-08-26 06:04:57
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2022/08/first-registrars-investor-services-limited-thriving-in-a-challenging-world/"
+categories: ["Corporate"]
+content_sha256: be24648c693a7fed1ca375ebd6b01ee63f61832be28cfa9214f51eeb8326eac3
+canonical: 23186-first-registrars-investor-services-limited-thriving-in-a-challenging-world.json
+---
+
+# First Registrars & Investor Services Limited: Thriving in a Challenging World
+
+> Verbatim archived copy. Canonical machine record: `23186-first-registrars-investor-services-limited-thriving-in-a-challenging-world.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-medium wp-image-23189" src="https://cfi.co/wp-content/uploads/2022/08/First-Registrars-300x200.jpg" alt="First Registrars &amp; Investor Services Limited" width="300" height="200" />Business, around the world, is no longer “as usual”. With some of the recent challenges, it has become a question of survival of the fittest.</strong></p>
+<p style="text-align: justify;">Rules of the game are changing, too, and terms of engagement are increasingly dynamic. Government bodies are becoming more receptive to change — as private organisations redefine their business models to catch up with new business trends.</p>
+<p style="text-align: justify;">Some may simply respond and adapt; more dynamic organisations will drive these changes to bring about transformation. First Registrars and investor Services Ltd has chosen the latter path.</p>
+<p style="text-align: justify;">Beyond Covid-19 are economic and political developments that have impacted trades, policies and workplace operation.</p>
+<p style="text-align: justify;">Since the divestment of First Bank of Nigeria from the company, First Registrars has continued to evolve in Nigeria’s capital market. Once a unit within the First Bank Group, it started up as a major cost centre. Eventually it became a foremost subsidiary of the bank under its pioneering managing director and CEO, Dr Bayo Olugbemi, FCIB.</p>
+<p style="text-align: justify;">Olugbemi turned around the bank’s fortunes and a cost centre was transformed into a key income generating entity through value creation to its clientele.</p>
+<p style="text-align: justify;">First Registrars and Investor Services offers a range of services in share and bondholders’ data management, and investor-related services such as proxy solicitation, probate management, and company secretariat services. The company is registered as a <a href="https://sec.gov.ng/guidelines-for-registration-as-a-capital-market-operator-cmo/" target="_blank" rel="noopener">capital market operator (CMO)</a> with the <a href="https://sec.gov.ng/" target="_blank" rel="noopener">Securities and Exchange Commission (SEC).</a></p>
+<p style="text-align: justify;">First Registrars is committed to the safekeeping of investors’ records. As at the year 2021, it had close to 2 million shareholder/bondholder records that cut across various industries, and 75 equity and bond accounts.</p>
+
+<h3 style="text-align: justify;">Innovative Solutions</h3>
+<p style="text-align: justify;">First Registrars has remained at the forefront of registrar innovation, and introduced a range of value-adding digital capabilities. Shareholders and client companies can access and manage their share accounts and register of members 24/7 with the First Registrars Online Access.</p>
+<p style="text-align: justify;">The company was a pioneering member of the Electronic Dividend Mandate Management System (EDMMS) for the direct crediting of payments into shareholders/bond-holders bank accounts. It supports financial inclusion through its introduction of the FirstDividend Plus Prepaid Card for unbanked shareholders — the first and only dividend prepaid card within the registrars industry in Nigeria. It has helped to reduce the volume of unclaimed dividends.</p>
+
+<blockquote>
+<h3>"First Registrars and Investor Services offers a range of services in share and bondholders’ data management, and investor-related services such as proxy solicitation, probate management, and company secretariat services."</h3>
+</blockquote>
+<p style="text-align: justify;">First Registrars promotes active shareholder participation at AGMs with the e-voting initiative, electronic voting devices far more accurate than the traditional show of raised hands. The voting system was recently upgraded to include a USSD voting option (*5075#) via mobile that allows those shareholders not physically present to participate. It also keeps investors informed of transactions on their share accounts with its introduction of real-time SMS alerts and other solutions.</p>
+
+<h3 style="text-align: justify;">Diversification Drive</h3>
+<p style="text-align: justify;">In recent years, First Registrars has diversified. It created a strategic business unit with a co-operative administration and management solution. It has distinct features to take co-operative societies to the next digital level. Branded as CLE, it is designed to ease the accounting, administration, and management.</p>
+<p style="text-align: justify;">With CLE, members can apply for loans and monitor savings; it renders paperwork almost obsolete. Co-op administrators can approve or decline loans on-the-go. It has MarketHub functionalities that bring the marketplace to the cooperatives. They can buy discounted goods and services from reliable sources on MarketHub. Other diversification areas include the introduction of company secretariat services, probate administration services, and proxy solicitation services.</p>
+
+<h3 style="text-align: justify;">Stakeholder Values</h3>
+<p style="text-align: justify;">First Registrars understands the diverse needs of stakeholders, from the customers to the clients, suppliers to vendors — and most importantly its “internal customers”: staff and management. Their interests are served to ensure a happy community. The company anticipates their needs and provides solutions tailored to meet, and exceed, them.</p>
+<p style="text-align: justify;">Increasing value for investors and stakeholders is an iron rule for First Registrars. It collaborates with key stakeholders in the capital market to redefine on-boarding processes for investors and increase participation to develop bespoke solutions.</p>
+
+<h3 style="text-align: justify;">Corporate Social Responsibility</h3>
+<p style="text-align: justify;">First Registrars’ social responsibility philosophy has been leveraged to ensure its impact is felt — and positively — within and beyond its immediate operating space. It runs impactful programmes and initiatives, and has maintained a well-defined CSR strategy that has a measurable impact on the lives of many people. The company supports programmes across the country that improve child healthcare, education, the arts, sports, community development, and environmental sustainability.</p>
+<p style="text-align: justify;">“We have over the years maintained our support and partnership with the <a href="https://yorciafrica.org/" target="_blank" rel="noopener">Youth Rescue and Care Initiative (YORCI)</a>, an NGO, to reduce poverty levels and promote responsible behaviour amongst young people,” says CEO and MD <a href="https://cfi.co/menu/corporate/2022/08/bayo-olugbemi-a-prodigy-of-great-repute-creating-a-lasting-legacy/" target="_blank" rel="noopener">Bayo Williams Olugbemi</a>, “by helping them discover, nurture, and ignite their individual potential through exercises, life/leadership skills training, academic endeavours, and mentoring programmes.”</p>
+<p style="text-align: justify;">Results are measured with the help of tailored goal-setting worksheets, presentations, and video clips that expose youths to the benefits of planning and make performance-based evaluations which help prepare them for the future and to be self-reliant.</p>
+
+<h3 style="text-align: justify;">The Future</h3>
+<p style="text-align: justify;">Abraham Lincoln once said: “The best way to predict the future is to create it.” This is a major driver of the firm’s passion, the things it believes in, the values it is committed to. First Registrars is creating its own future by redefining the share registration business in Nigeria.</p>
+<p style="text-align: justify;">It has created an entirely new internal structure in preparation for the future it envisages for the business. “This structure positions us to face and thrive,” says Olugbemi. “Not just amidst the current challenges that we face — it also prepares us for the challenges that may come up in the future. The internal restructuring brings with it an investment in our people, who will eventually drive our business forward.</p>
+<p style="text-align: justify;">“The people are the executors of the long-term strategic plan. We attract and retain the best talents in the industry while on-boarding when necessary.”</p>
+<p style="text-align: justify;">First Registrars has continued its investments in technological infrastructure. One of the key lessons from the pandemic has been a recognition of the power of technology in a digital world. The pandemic provided a learning curve for the company, which is able to identify what works, what does not, and to gather insight as to what will work in the future. The major takeaway is that First Registrars is creating a shift in its business model in the midst of current realities.</p>
+<p style="text-align: justify;">The long-term focus is to work collaboratively with other stakeholders in the industry to create an ecosystem that will make transactions in the capital market seamless for all participants, from the process of on-boarding through the entire lifecycle to the exit of participants. “This we cannot do alone,” says the CEO, “but by collaborative efforts.”</p>
+<p style="text-align: justify;">This consistent approach ensures that the First Registrars brand remains strong and recognisable. Its identity is that of a “go-to” place for all equity holders looking for a premier service experience.</p>
+<p style="text-align: justify;">“We believe that what is ahead of us as an organisation is far greater and better than what is gone. We are building a brand that will be able to stand the test of time, the First Registrars Brand.”</p>
