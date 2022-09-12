@@ -1,0 +1,23 @@
+---
+id: 23422
+title: "Tribute to Her Late Majesty Queen Elizabeth II"
+award_year: 2022
+published: 2022-09-12 13:49:44
+published_gmt: 2022-09-12 12:49:44
+author: "CFI.co Editorial"
+url: "https://cfi.co/europe/2022/09/tribute-to-her-late-majesty-queen-elizabeth-ii/"
+categories: ["Europe"]
+content_sha256: d14b1e9d0908b611b33ad1ea22eafa21379b72c8ec0fd742ee3fdb76da40a96f
+canonical: 23422-tribute-to-her-late-majesty-queen-elizabeth-ii.json
+---
+
+# Tribute to Her Late Majesty Queen Elizabeth II
+
+> Verbatim archived copy. Canonical machine record: `23422-tribute-to-her-late-majesty-queen-elizabeth-ii.json`.
+
+<p style="text-align: justify;"><img class="size-medium wp-image-23424 aligncenter" src="https://cfi.co/wp-content/uploads/2022/09/QEII-bw-215x300.jpg" alt="QE" width="215" height="300" />My Lords, Her Majesty bequeaths to our country and people continuity, certainty and the strengths embedded in the timeless traditions of our constitutional monarchy. She has been our country’s chief and greatest diplomat, smoothing the path for politicians and officials with charm, wisdom, grace and memorable humour. Her Majesty imbued a lifetime of service and deep consideration with unwavering appreciation to her realms and territories, to the countries of the Commonwealth and far beyond, carrying her values, her profound sense of duty and her love.</p>
+<p style="text-align: justify;">As we enter this extended period of mourning heavy with grief, there is, however, a silver lining evident beyond the clouds, the most significant being her heir, our King. I venture with humility that the tribute that we offer to Her Majesty is to thank her for her tireless dedication and to work to ensure that her legacy endures for centuries to come.</p>
+<p style="text-align: justify;">In doing so I pay tribute to the King’s already formidable achievements. His honed skills with well-respected guidance on climate change, organic farming, the built environment and multi-faith issues—often ahead of his time—are always useful and relevant. However, particular attention must be given to assuring the continuity of our United Kingdom by listening and learning, and that the legacy of the Commonwealth evolves and modernises to ensure its continued relevance and place in the world. The King shares that resolve, I believe, by promoting the dignity of all peoples and beliefs, respect for their cultures and heritage, support for those less privileged and dialogue for greater understanding of seemingly intractable problems.</p>
+<p style="text-align: justify;">A new monarch, a new Government, a united people, an appropriate place in the world and the opportunity of a new beginning for a renewed United Kingdom—that is a good place to be. God save the King and the Queen Consort.</p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><a href="https://cfi.co/author/jd/"><strong>Lord Waverley</strong></a></span></p>
+<p style="text-align: center;">Chairman of Capital Finance International</p>
