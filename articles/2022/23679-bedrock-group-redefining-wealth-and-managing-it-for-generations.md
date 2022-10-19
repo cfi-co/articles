@@ -1,0 +1,40 @@
+---
+id: 23679
+title: "Bedrock Group Redefining Wealth — and Managing It for Generations"
+award_year: 2022
+published: 2022-10-19 08:50:23
+published_gmt: 2022-10-19 07:50:23
+author: "CFI.co Editorial"
+url: "https://cfi.co/finance/2022/10/bedrock-group-redefining-wealth-and-managing-it-for-generations/"
+categories: ["Europe", "Finance"]
+content_sha256: 1c25f6e1d1af4cfbe10161017088091c3e20877cf12bac4b8f645e91d6f7c8c6
+canonical: 23679-bedrock-group-redefining-wealth-and-managing-it-for-generations.json
+---
+
+# Bedrock Group Redefining Wealth — and Managing It for Generations
+
+> Verbatim archived copy. Canonical machine record: `23679-bedrock-group-redefining-wealth-and-managing-it-for-generations.json`.
+
+<p style="text-align: justify;"><em>CFI.co learns wealth management secrets from Bedrock Group partners <span style="text-decoration: underline;"><a href="https://cfi.co/menu/corporate/2022/11/strategy-structure-shared-purpose-there-are-rules-to-protecting-family-wealth/">Maurice Ephrati</a></span>, <span style="text-decoration: underline;"><a href="https://cfi.co/menu/corporate/2022/11/shifting-market-drivers-a-moving-target-requires-a-comprehensive-focus/">Ariel Arazi</a></span>, and <span style="text-decoration: underline;"><a href="https://cfi.co/menu/corporate/2022/11/the-world-is-too-complex-to-become-lazy-and-challenges-bring-chances/">David Joory</a></span>.</em></p>
+<p style="text-align: justify;"><strong>The successful management of multi-generational wealth goes beyond investment advice, say the founding partners of <span style="text-decoration: underline;">Bedrock Group</span>.</strong></p>
+
+
+[caption id="attachment_23680" align="aligncenter" width="900"]<img class="wp-image-23680 size-large" src="https://cfi.co/wp-content/uploads/2022/10/Bedrock-Group-1024x632.jpg" alt="David Joory, Maurice Ephrati and Ariel Arazi of Bedrock Group" width="900" height="555" /> David Joory, Maurice Ephrati and Ariel Arazi. <em>Photo: <span style="text-decoration: underline;">AndreyART.ch</span> Photography</em>[/caption]
+<p style="text-align: justify;">“We see key ingredients for wealth protection and successful generational transition as having a long-term strategic approach,” says Maurice Ephrati, “whereby the family is clear on how they want the assets to evolve over the course of the next 10 or 20 years.”</p>
+<p style="text-align: justify;">“There must be a clear shared purpose which defines the family’s commitment as stewards of the wealth, and a clear set of values that reflect the family’s identity and behaviours.”</p>
+<p style="text-align: justify;">“Also needed,” adds Ariel Arazi, “is a solid governance structure, to ensure good decision-making and the right checks and balances. It requires generations to be educated in the family’s wealth and have the competencies to maintain it — and, more importantly, to grow it.” David Joory believes "We should foster a mindset that fights against complacency and focuses on innovation and new ways of contributing towards the family wealth.”</p>
+
+<blockquote>
+<h3>People are attracted to the entrepreneurial spirit that the firm and the partners inspire. “Having this type of environment enables people to create their own path,” says Ephrati, “but also there is a shared sense of direction that creates passion and enthusiasm in the team.”</h3>
+</blockquote>
+<p style="text-align: justify;">Bedrock Group believe that educating the younger generations is crucial. “There are too many cases still where the next generation is thrust into the management of assets and/or a family business that they don't understand, don't want, or feel completely overwhelmed by,” says Joory.</p>
+<p style="text-align: justify;">Ephrati concurs. “A core part of our purpose is to support the next generation with skill development and we do so through candid engagement on a range of matters related to wealth ownership and management.”
+“We know this helps them to shoulder the responsibility in the right way: not as an imposition or a reason for entitlement, but as something to be proud of and to steward.”</p>
+<p style="text-align: justify;">This notion inspired the creation of the Bedrock Community for Future Leaders, which is led by their in-house Family Governance specialist, Maria Villax, and brings together like-minded next gens to connect, learn, and exchange ideas. “We host a series of events throughout the year,” explains Joory, “covering a broad range of topics including investment, family governance, entrepreneurship, leadership, strategic philanthropy, and succession planning.”</p>
+<p style="text-align: justify;">The <a href="https://www.bedrockgroup.com/about/#meet-the-team" target="_blank" rel="noopener">Bedrock team</a> members are passionate about their work. “That’s an innate part of our company culture, and something that is actively encouraged,” says Arazi. “The Partners create an environment and have a leadership style that allows people to identify opportunities through their individual lenses — and pursue them.”</p>
+<p style="text-align: justify;">People are attracted to the entrepreneurial spirit that the firm and the partners inspire. “Having this type of environment enables people to create their own path,” says Ephrati, “but also there is a shared sense of direction, stemming from our purpose, that creates passion and enthusiasm in the team.”</p>
+<p style="text-align: justify;">A focus on the future also means that Bedrock supports team members in engaging with CSR. “We do that in a number of ways,” says Joory. “Illustratively, we facilitate the chance to directly impact the communities local to our offices, by encouraging volunteering. We offer time-off to all staff members to give back to society while working on issues they care about.” From supporting hospices to delivering food parcels, Bedrock team members create a diverse impact in their communities.</p>
+<p style="text-align: justify;">In addition, Bedrock donates a percentage of annual profits to philanthropic causes. Donations are further enhanced by employees via payroll giving; with the company having a matching scheme. It helps to maximise the impact and support for causes that individuals are passionate about.</p>
+<em>For more information regarding our Bedrock Future Leaders events, please reach out to our Head of Family Strategy and Governance, <a href="mailto:maria.villax@bedrockgroup.com">Maria Villax</a>.</em>
+
+<em>We are always on the search for passionate and enthusiastic individuals. If you would be interested in joining our team, please <a href="mailto:Recruitment@bedrockgroup.com">contact us here</a></em>
