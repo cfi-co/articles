@@ -1,0 +1,28 @@
+---
+id: 24288
+title: "Spotlight on Architas CEO Matthieu André"
+award_year: 2023
+published: 2023-01-04 12:27:46
+published_gmt: 2023-01-04 12:27:46
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2023/01/spotlight-on-architas-ceo-matthieu-andre/"
+categories: ["Corporate"]
+content_sha256: ac616d662039520d0aa446b271141f0f5bc8bd8c03f89c308dcbd4ff6f697494
+canonical: 24288-spotlight-on-architas-ceo-matthieu-andre.json
+---
+
+# Spotlight on Architas CEO Matthieu André
+
+> Verbatim archived copy. Canonical machine record: `24288-spotlight-on-architas-ceo-matthieu-andre.json`.
+
+[caption id="attachment_24289" align="alignright" width="300"]<img class="size-medium wp-image-24289" src="https://cfi.co/wp-content/uploads/2023/01/Matthieu-Andre-300x253.webp" alt="Architas CEO Matthieu André" width="300" height="253" /> Architas CEO Matthieu André[/caption]
+<p style="text-align: justify;"><strong>Blending a finance-focused career into general management perfectly prepared Matthieu André to take over as CEO of multi-manager investment firm <span style="text-decoration: underline;"><a href="https://cfi.co/europe/2023/01/specialist-multi-manager-architas-responsible-investing-comes-first/">Architas</a></span> in March 2020.</strong></p>
+<p style="text-align: justify;">André’s career path has seen him work in eight entities and five countries over his 27-year tenure with the AXA Group, of which Architas is a part. He joined in 1995 after graduating from ESLSCA Business School in Paris and spending six years at Ernst &amp; Young as a consultant.</p>
+<p style="text-align: justify;">Since joining AXA, André has held senior leadership positions in Asia, Europe and the US, predominantly focusing on the Life &amp; Savings and Asset Management segments. This breadth of experience gave him a deep understanding of AXA’s global customer base. That, in turn, has allowed him to drive strategic initiatives and identify opportunities to support and best serve the diverse needs of the group’s clients.</p>
+<p style="text-align: justify;">Matthieu André joined Architas with an objective: to transform the business which started with the sale of its UK-regulated entities in 2020. His vision was to build on its global foundations by redefining its strategic position, accelerating transformation, and restructuring Architas to align it with the AXA Group.</p>
+<p style="text-align: justify;">His first focus was on driving and expanding growth across Europe and Asia.</p>
+<p style="text-align: justify;">André and the Architas management committee worked in unison to develop the firm’s investment proposition, focusing on current and emerging client needs. Responsible investing identified as a priority — and a commitment that has become a cornerstone for the development of Architas.</p>
+<p style="text-align: justify;">From ensuring the full integration of ESG factors in the investment process — for all Architas products — to launching dedicated sustainability-focused funds, responsible investing is embedded at the core of the business.</p>
+<p style="text-align: justify;">Matthieu André was at the helm as Architas navigated the global pandemic, and the market volatility that it brought in its wake. The focus was on supporting customers, being present to respond to their needs, and providing reassurance in stressful times.</p>
+<p style="text-align: justify;">The CEO’s attention now turns to the next phase for the development of Architas business, and the opportunity to strengthen asset management activities as growth engines for the AXA Group with the creation of the new business AXA IM Architas within AXA IM. Building on the collaboration between AXA IM and Architas, this new unit will be the unique distribution channel for unit-linked products for AXA’s insurance entities.</p>
+<p style="text-align: justify;">Change, service, responsibility and ambition are constant forces in the ongoing Architas evolution.</p>
