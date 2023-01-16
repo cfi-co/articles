@@ -1,0 +1,35 @@
+---
+id: 24601
+title: "La Trobe Financial: On Top Down Under"
+award_year: 2023
+published: 2023-01-16 17:31:36
+published_gmt: 2023-01-16 17:31:36
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2023/01/la-trobe-financial-on-top-down-under/"
+categories: ["Corporate"]
+content_sha256: 8defae1a57e43a47d7404e8a22ac5bc6e98d16c47139664ee1cb44062936b144
+canonical: 24601-la-trobe-financial-on-top-down-under.json
+---
+
+# La Trobe Financial: On Top Down Under
+
+> Verbatim archived copy. Canonical machine record: `24601-la-trobe-financial-on-top-down-under.json`.
+
+<p style="text-align: justify;"><em>Australia’s leading credit asset manager is committed to retaining and honouring the trust it has won from investors.</em></p>
+
+
+[caption id="attachment_24602" align="aligncenter" width="900"]<img class="size-large wp-image-24602" src="https://cfi.co/wp-content/uploads/2023/01/CIO-Chris-Paton-1024x696.webp" alt="CIO: Chris Paton" width="900" height="612" /> <strong>CIO:</strong> Chris Paton[/caption]
+<p style="text-align: justify;"><strong>With over $15bn in AUM, La Trobe Financial is one of Australia’s foremost credit asset managers, specialising in credit investment solutions and real estate finance.</strong></p>
+<p style="text-align: justify;">The firm has been a proven and trusted partner for institutional investors for seven decades, and operates Australia’s largest retail credit fund for more than 82,000 retail investors.</p>
+<p style="text-align: justify;">La Trobe Financial Chief Executive Officer <a href="https://www.latrobefinancial.com.au/about/leadership/" target="_blank" rel="noopener">Chris Andrews</a> says there have been “plenty of challenges” for investors over the past 20 years: the Global Financial Crisis, wild swings in economic, property, and business cycles, and the more recent COVID pandemic.</p>
+
+<blockquote>
+<h3>"We’ve been refining our investment approach since 1952 and strive, above all things, to be good stewards of our investors’ capital."</h3>
+</blockquote>
+<p style="text-align: justify;">“Throughout all of these challenges,” he says, “we’re proud to have been able to provide our investors with consistent monthly returns.</p>
+<p style="text-align: justify;">“We’ve been refining our investment approach since 1952 and strive, above all things, to be good stewards of our investors’ capital. We’re mindful of the deep reservoir of trust we have built, and will do all we can do preserve that.”</p>
+<p style="text-align: justify;">La Trobe Financial’s Chief Investment Officer, Chris Paton, says that despite a challenging and volatile macro-economic backdrop, “we have been able to demonstrate significant business growth.
+“We have also continued our proud history of delivering low volatility, inflation-responsive monthly income that our investors have come to know and trust.”</p>
+<p style="text-align: justify;"><a href="https://cfi.co/finance/2023/09/la-trobe-financial-seventy-years-of-experience-billions-in-aum-and-multiple-cfi-co-awards/" target="_blank" rel="noopener">La Trobe Financial</a> was established in 1952 and is one of Australia’s oldest credit asset managers, specialising in credit investment solutions and real estate finance.</p>
+<p style="text-align: justify;">The firm has won CFI.co’s Best Investment Management Team (Australia) award for three consecutive years. The programme acknowledges individuals and organisations that have performed strongly throughout the year, and have contributed significantly to the finance sector.</p>
+<p style="text-align: justify;">La Trobe Financial’s strong portfolio performance was listed as a key factor in the win.</p>
