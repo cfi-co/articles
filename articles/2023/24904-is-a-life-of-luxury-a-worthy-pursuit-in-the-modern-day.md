@@ -1,0 +1,27 @@
+---
+id: 24904
+title: "Is a Life of Luxury a Worthy Pursuit in the Modern Day?"
+award_year: 2023
+published: 2023-03-15 14:45:38
+published_gmt: 2023-03-15 14:45:38
+author: "CFI.co Editorial"
+url: "https://cfi.co/lifestyle/2023/03/is-a-life-of-luxury-a-worthy-pursuit-in-the-modern-day/"
+categories: ["Lifestyle"]
+content_sha256: ac64cd1522cf44a493f0985a1d1a55716d4b5c23adfaaebe83b0482e565092d0
+canonical: 24904-is-a-life-of-luxury-a-worthy-pursuit-in-the-modern-day.json
+---
+
+# Is a Life of Luxury a Worthy Pursuit in the Modern Day?
+
+> Verbatim archived copy. Canonical machine record: `24904-is-a-life-of-luxury-a-worthy-pursuit-in-the-modern-day.json`.
+
+<p style="text-align: justify;"><strong>Coco Chanel once said, “Luxury must be comfortable, otherwise it is not luxury.” She also noted: “Some people think luxury is the opposite of poverty. It is not. It is the opposite of vulgarity.”</strong></p>
+<img class="aligncenter size-large wp-image-24905" src="https://cfi.co/wp-content/uploads/2023/03/luxury-1024x682.webp" alt="luxury" width="900" height="599" />
+<p style="text-align: justify;">So, what is luxury? The term is subjective, but it’s generally accepted to mean a condition of abundance, ease, and comfort. We use it as a prefix for everyday items — hotels, cars, homes — and to typify something that the hedonist can aspire to.</p>
+<p style="text-align: justify;">It can mean something with superior performance — a vehicle, a yacht, a watch — or something that generates premium sensations, like fine wines or exquisite art. Generally, luxury is equated with something expensive, available to a select few, and possessing an innate quality against which lesser things may be compared.</p>
+<p style="text-align: justify;">But luxury takes on a slightly different complexion around the world — and perhaps the ancients could have taught us a thing or two about it. The Queen of Sheba, first mentioned in the Hebrew Bible or Tanakh, went on to be an important figure in several traditions and religions. She is believed to have been the wealthy ruler of Saba, and when she visited King Solomon, it was with a caravan of camels bearing gold, jewels, and spices.</p>
+<p style="text-align: justify;">The legendary Egyptian queen Cleopatra lived the ultimate luxury lifestyle before clasping that asp to her bosom. She famously bathed in asses’ milk and travelled the Nile on a sumptuously appointed boat. Not only did she appreciate luxury, she used it to show off her elevated position — and achieve her political goals. Like the Queen of Sheba, she seems to have been happy to flaunt her wealth — once dropping an enormous pearl into a cup of wine and swallowing it (presumably while a doting Mark Antony looked on).</p>
+<p style="text-align: justify;">Another, more recent queen, Marie Antoinette of France, became a virtual synonym for luxurious excess. Following her proxy marriage to King Louis XV, she travelled from Austria to France with an entourage of 57 carriages, 117 footmen and 376 horsemen. She reportedly commissioned over 300 dresses a year and never wore anything twice. She was dedicated to the pursuit of perfection and took great delight in her excessive lifestyle (best summed-up in her famous “Let them eat cake” quote.</p>
+<p style="text-align: justify;">Nowadays, bringing luxury into the everyday is an artform. Life-coaches and gurus encourage living your life as art. Luxury can be as simple as a cup of coffee with an indulgent foam topping, a comfortable down-filled quilt, or a tailored linen shirt. The ring you wear on your finger should fill you with delight, the handbag you carry should be simultaneously elegant and functional.</p>
+<p style="text-align: justify;">Moments of luxury brighten our lives and pierce the banality of ordinary life. And luxury, like most things, changes with the times. The last word goes to American fashion designer Tom Ford: “Time and silence are the most luxurious things today.”</p>
+<em>By Naomi Snelling</em>
