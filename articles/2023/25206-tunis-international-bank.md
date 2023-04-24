@@ -1,0 +1,32 @@
+---
+id: 25206
+title: "This Star of the North African Banking Firmament Remains Relevant, and Ready to Adapt"
+award_year: 2023
+published: 2023-04-24 16:59:03
+published_gmt: 2023-04-24 15:59:03
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2023/04/tunis-international-bank-celebrating-40-years-of-innovation-growth-and-success"
+categories: ["Africa", "Banking"]
+content_sha256: 5e3305c0da08658635ed91005a9669e5000ca8228d39fcbb8f8f5da8e69c71d9
+canonical: 25206-tunis-international-bank.json
+---
+
+# This Star of the North African Banking Firmament Remains Relevant, and Ready to Adapt
+
+> Verbatim archived copy. Canonical machine record: `25206-tunis-international-bank.json`.
+
+<p style="text-align: justify;"><em><strong>Tunis International Bank has seen and celebrated 40 years of innovation, growth and success.</strong></em></p>
+<p style="text-align: justify;">Tunis International Bank (TIB) was established in 1982, as the first banking corporation in Tunisia licensed to deal primarily with non-residents.</p>
+<a href="https://www.tib.com.tn/en" target="_blank" rel="noopener">TIB</a> is a private, non-resident commercial bank. Its main shareholder is Burgan Bank Kuwait, a subsidiary of one of the largest holding companies in the MENA region, Kuwait Projects Company (<a href="https://kipco.com/" target="_blank" rel="noopener">KIPCO</a>).
+
+[caption id="attachment_25280" align="aligncenter" width="900"]<img class="size-large wp-image-25280" src="https://cfi.co/wp-content/uploads/2023/04/TIB-Management-Team-sfw-1024x684.webp" alt="TIB Management Team" width="900" height="601" /> TIB Management Team[/caption]
+<p style="text-align: justify;">TIB’s traditional and natural marketplace has been the Maghreb countries: the western part of North Africa and the Arab world. TIB has played a leading role attracting foreign investment and developing business and partnerships among the Gulf and Mediterranean countries, as well as Western Europe.</p>
+
+
+[caption id="attachment_25209" align="alignright" width="300"]<img class="size-medium wp-image-25209" src="https://cfi.co/wp-content/uploads/2023/04/facade_horizontale_modif-swf-300x223.webp" alt="Tunis International Bank (TIB)" width="300" height="223" /> Tunis: TIB Head Office[/caption]
+<p style="text-align: justify;">The bank provides a comprehensive range of international financial services for corporates, financial institutions, governments and individuals. The offered services include foreign exchange, money market operations, international trade financing, private banking facilities, loan syndications, and commercial and investment banking.</p>
+<p style="text-align: justify;">The range of TIB products and services is continously reviewed, refined, and expanded to meet the customers needs.
+TIB products are continously developped also through the synergies with co-members of the KIPCO group.</p>
+<p style="text-align: justify;">Tunis International Bank (TIB) is internationally and domestically recognised as an innovative institution, and remains dedicated to providing banking services of the highest standards. TIB proactively serves customers with solutions and products which are under constantly revision and individually tailored to meet their evolving needs.</p>
+<p style="text-align: justify;">TIB won widespread acknowledgement for the level of its professional services — including CFI.co’s award for Most Innovative Customer Service Bank (Tunisia) 2022.</p>
+<p style="text-align: justify;"></p>
