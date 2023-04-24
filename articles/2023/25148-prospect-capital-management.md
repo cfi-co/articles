@@ -1,0 +1,42 @@
+---
+id: 25148
+title: "Prospect Capital Management: History of Innovation at Leading Asset Manager"
+award_year: 2023
+published: 2023-04-24 17:15:58
+published_gmt: 2023-04-24 16:15:58
+author: "CFI.co Editorial"
+url: "https://cfi.co/northamerica/2023/04/prospect-capital-management/"
+categories: ["Corporate", "North America"]
+content_sha256: 16cafe0ea85f6f239ac860075f430c658d2c7a19095d77c44ffffbfcefb62765
+canonical: 25148-prospect-capital-management.json
+---
+
+# Prospect Capital Management: History of Innovation at Leading Asset Manager
+
+> Verbatim archived copy. Canonical machine record: `25148-prospect-capital-management.json`.
+
+<p style="text-align: justify;"><strong>For 35 years, Prospect Capital Management, along with its predecessors, has established a history of innovation across its <a href="https://www.prospectcap.com/" target="_blank" rel="noopener">private and public fund management business</a>.</strong></p>
+<p style="text-align: justify;">The firm’s founders launched Prospect with creative ideas, a large network of relationships, a drive to succeed, and the courage to put their savings at risk, with the firm continuing with such attributes today.</p>
+<p style="text-align: justify;">Prospect invests across the <a href="https://cfi.co/countries/united-states-of-america/">United States</a> in diversified portfolios by industry, company, strategy, and situation. The firm’s core investment strategies include middle-market lending, middle-market buyouts, structured credit, and real estate.</p>
+<p style="text-align: justify;"><img class="aligncenter wp-image-25296 size-large" title="Prospect Capital Management, NASDAQ" src="https://cfi.co/wp-content/uploads/2023/04/NASDAQ_pictureprospect.sfw_-1024x682.webp" alt="Prospect Capital Management, NASDAQ" width="900" height="599" /></p>
+<p style="text-align: justify;">Prospect Capital Management focuses on generating value for its investors, portfolio companies, private equity sponsor relationships, and employees through creativity, rigor, perseverance, integrity, and teamwork. Prospect’s objectives include preserving capital by making private credit and private equity investments at reasonable multiples of recurring cash flow, earning attractive current cash yields and long-term capital appreciation, and achieving consistent low-volatility returns.</p>
+<p style="text-align: justify;">The firm has persevered over the course of multiple economic cycles and has developed many industry-leading innovations over its long history, including achieving:</p>
+
+<ul>
+ 	<li style="text-align: justify;">The first and only multi-line business development company (BDC).</li>
+ 	<li style="text-align: justify;">The first non-traded closed end fund focused on investments in collateralized loan obligations (CLOs).</li>
+ 	<li style="text-align: justify;">The first and only BDC with a significant real estate business.</li>
+ 	<li style="text-align: justify;">The first (and in many cases only) BDC to issue medium-term notes, convertible notes, at-the-market issuance programs, non-traded perpetual preferred stock, and traded perpetual preferred stock.</li>
+ 	<li style="text-align: justify;">The first investment grade credit rating for a BDC after the Great Financial Crisis.</li>
+ 	<li style="text-align: justify;">The first and only BDC with five investment grade credit ratings.</li>
+ 	<li style="text-align: justify;">The first BDC acquisition (of Patriot Capital) in December 2009.</li>
+</ul>
+<p style="text-align: justify;">Because of Prospect’s achievement of the above and other results, investors have gravitated to Prospect’s long-term expertise, track record and history of innovation. The firm has grown to over 100 employees and $8.8 bn of regulatory assets under management as of year-end 2022. Prospect Capital Management has invested in nearly 1,000 companies across liquid and private businesses with a network of private equity sponsors, management teams, and market participants that inform its investment process.</p>
+<p style="text-align: justify;">Prospect Capital Management is currently offering two investment opportunities to retail investors:</p>
+
+<ul>
+ 	<li style="text-align: justify;">Preferred Stock in Prospect Capital Corporation, a publicly traded BDC. The preferred stock currently has a 6.5 percent per annum dividend rate paid monthly.</li>
+ 	<li style="text-align: justify;">Common Stock in <a href="https://cfi.co/awards/finance/2023/priority-income-fund-best-clo-closed-end-fund-investor-us-2023/">Priority Income Fund</a>, a closed-end fund. The Common Stock currently has an 11.0 percent per annum dividend rate paid monthly and covered over 150 percent by net investment income.</li>
+ 	<li style="text-align: justify;">Prospect firmly believes there is no greater alignment of interest than for management to invest alongside its shareholders on the same terms. Prospect’s team and employees own approximately $1.1 bn of its funds under management.</li>
+</ul>
+<p style="text-align: justify;">With its experienced team, disciplined investment approach developed over more than three decades, and commitment to transparency and governance, Prospect Capital Management is well-positioned to capitalise on market opportunities ahead.</p>
