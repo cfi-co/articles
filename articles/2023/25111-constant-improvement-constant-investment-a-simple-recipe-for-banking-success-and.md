@@ -1,0 +1,40 @@
+---
+id: 25111
+title: "Constant Improvement, Constant Investment — a Simple Recipe for Banking Success and Recognition"
+award_year: 2023
+published: 2023-04-24 17:14:32
+published_gmt: 2023-04-24 16:14:32
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2023/04/afghanistan-international-bank-aib-constant-improvement-constant-investment"
+categories: ["Banking", "Middle East"]
+content_sha256: cb959fa7db0f071c4c3c9904a5c7d6ea9135acf57483513ad6ead2685b1c4433
+canonical: 25111-constant-improvement-constant-investment-a-simple-recipe-for-banking-success-and.json
+---
+
+# Constant Improvement, Constant Investment — a Simple Recipe for Banking Success and Recognition
+
+> Verbatim archived copy. Canonical machine record: `25111-constant-improvement-constant-investment-a-simple-recipe-for-banking-success-and.json`.
+
+<p style="text-align: justify;"><em><strong>Dedication to good governance and a philosophy of community service have stood Afghanistan International Bank (AIB) in good stead — and led to multiple awards over the years.</strong></em></p>
+<p style="text-align: justify;">Since its launch in 2004, Afghanistan International Bank (AIB) has been proudly providing essential financial services to the local population — while meeting, or exceeding, international governance standards.</p>
+<p style="text-align: justify;">Outstanding governance has led humanitarian agencies to select AIB as fulcrum for the distribution of critical aid.</p>
+<p style="text-align: justify;">In a region where normal operations can be challenging, that focus on governance is vitally important to the bank — and, by extension, to the Afghan economy.</p>
+
+
+[caption id="attachment_25307" align="aligncenter" width="900"]<img class="size-large wp-image-25307" src="https://cfi.co/wp-content/uploads/2023/04/PRA_7434-fin.sfw_-1024x792.webp" alt="CEO: Joesph Carasso Jr" width="900" height="696" /> CEO: Joesph Carasso Jr[/caption]
+<p style="text-align: justify;">This philosophy and the resulting achievements have not gone unnoticed — <a href="https://www.aib.af/AIBPublic/awardsdetail/1" target="_blank" rel="noopener">AIB</a> has won nine consecutive CFI awards, the most recent for Best Corporate Governance (Afghanistan) 2022. That translates to a win for every year that the award has been contested.</p>
+<p style="text-align: justify;">Afghanistan International Bank (AIB)is one of the country’s leading financial institutions for profitability, liquidity and assets, with a well-earned reputation for trustworthiness and a culture of compliance.</p>
+<p style="text-align: justify;">It has consistently supported the Afghan economy and provided banking services throughout the global disruptions of recent years. AIB is the only domestic bank with US Dollar-clearing through a recognised international bank, making it a vital conduit for global financial flows.</p>
+<p style="text-align: justify;">AIB’s strong liquidity position has taken it to an elevated position in the international banking community, and its positive actions have won it the respect of regulators. This status has helped AIB to maintain healthy external business relationships.</p>
+<p style="text-align: justify;">Its focus on risk-management, money-laundering awareness, cybersecurity, financial crime compliance measures and Know-your-Customer (KYC) practices has made AIB an outstanding operation in the region.</p>
+<p style="text-align: justify;">Investment in technology was crucial to that success. AIB’s banking system is hosted on advanced software from Oracle, making it one of the few banks – even in developed nations – to use the latest incarnation of the software.</p>
+
+
+[caption id="attachment_25308" align="alignright" width="300"]<img class="size-medium wp-image-25308" src="https://cfi.co/wp-content/uploads/2023/04/AIB-Headquarters.sfw_-300x200.webp" alt="The Bank's headquarters in Kabul" width="300" height="200" /> The Bank's headquarters in Kabul[/caption]
+<p style="text-align: justify;">Afghanistan International Bank <a href="https://www.aib.af/" target="_blank" rel="noopener">(AIB)</a> has integrated the latest financial crime- compliance management (FCCM) technology — it is currently moving to the most recent version — and its KYC and AML (anti-money laundering) protocols are constantly updated.</p>
+<p style="text-align: justify;">The AIB board closely monitors AML and compliance, meeting monthly to ensure total compliance with the policies and procedures established and approved by external experts.</p>
+<p style="text-align: justify;">AIB’s Learning Management System (LMS) enables all employees to review AML content, and take online tests to keep their compliance knowledge up-to-date.</p>
+<p style="text-align: justify;">On the cybersecurity front, AIB holds the most thorough security certifications of any bank in Afghanistan. The bank makes constant upgrades to its cybersecurity systems to ensure readiness with the latest standards and practices, and to ensure its network is well-defended from unwanted traffic and security breaches.
+An FTI Consulting review in 2022 described AIB as having a “culture of compliance” that had progressed the program from both the perspective of local Afghan requirements and US BSA standards.</p>
+<p style="text-align: justify;">AIB assesses AML and compliance against stringent international standards to ensure excellence. AIB’s compliance operations represent a broad section of the bank’s identity, comprising almost 10 percent of its employees.</p>
+<p style="text-align: justify;">The bank’s strategy is to make continual improvements and investments to ensure AIB remains a positive ambassador for the Afghan banking sector.</p>
