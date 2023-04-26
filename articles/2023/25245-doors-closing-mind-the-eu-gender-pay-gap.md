@@ -1,0 +1,34 @@
+---
+id: 25245
+title: "Doors Closing: Mind the EU Gender Pay Gap"
+award_year: 2023
+published: 2023-04-26 11:12:55
+published_gmt: 2023-04-26 10:12:55
+author: "CFI.co Editorial"
+url: "https://cfi.co/brave-new-world/2023/04/eu-gender-pay-gap/"
+categories: ["Brave New World"]
+content_sha256: 10b048e3d17e6cf68805d9b8a8de8ea05c37330ce17800b95cf6a06a67a33fe6
+canonical: 25245-doors-closing-mind-the-eu-gender-pay-gap.json
+---
+
+# Doors Closing: Mind the EU Gender Pay Gap
+
+> Verbatim archived copy. Canonical machine record: `25245-doors-closing-mind-the-eu-gender-pay-gap.json`.
+
+<h2 style="text-align: justify;">Transparency directive introduced to ensure fair pay between the sexes</h2>
+<p style="text-align: justify;">Women in the EU continue to be paid less on average than their male colleagues and counterparts. Even in the same sector, the discrepancy exists — and most of the time it goes under the radar, because wages are seldom publicly visible.</p>
+<p style="text-align: justify;">This is about to change. The new EU Pay Transparency Directive obliges companies to disclose wage rates to uncover, and then close, the gender pay gap.</p>
+<p style="text-align: justify;"><img class="alignright size-medium wp-image-25247" src="https://cfi.co/wp-content/uploads/2023/04/Equal-Paysfw-300x188.webp" alt="Equal-Pay " width="300" height="188" />On March30, the EU Parliament adopted directives to challenge the inequality. New regulations enforce transparency, and all company salaries must be disclosed to allow workers to compare rates and identify differences.</p>
+<p style="text-align: justify;">In the EU, women earn on average 13 percent less than men per hour. And the pay gap varies greatly from country to country: while it is less than four percent in Slovenia, Romania and Luxembourg, it hits 22 percent in Estonia and Latvia. Austria and Germany aren’t far behind, with 18.9 and 18.1 percent respectively.</p>
+
+<h3 style="text-align: justify;"><strong>Structural Causes</strong></h3>
+<p style="text-align: justify;">Women are more often employed part-time and do unpaid care work; they are also less likely to hold management positions. Female-dominated professions such as nursing are also more poorly paid. But even disregarding these structural causes, the gap remains. In Germany, for example, women in the same industry, with comparable qualifications, earn salaries on average six percent lower.</p>
+<p style="text-align: justify;">From now on, companies with more than 100 employees must disclose salaries, and the pay gap is to be closed with transparency guidelines. All salaries must be disclosed, and any gap of more than five percent must come with a solution for equality.</p>
+<p style="text-align: justify;">The EU Pay Transparency guidelines prohibit recruiters from asking applicants about their current salary. This is enforced to prevent salary discrepancies from arising in the first place. Social partners are to play an increased role in enforcing the guidelines.</p>
+<p style="text-align: justify;">Companies that do not comply will be fined. This, says the chief negotiator of the S&amp;D group, Evelyn Regner, is the only way to ensure compliance.</p>
+
+<h3 style="text-align: justify;"><strong>Transparency is Crucial</strong></h3>
+<p style="text-align: justify;">Regner — a member of the Committee on Women’s Rights and Gender Equality and vice-president of the European Parliament — identifies the crucial importance of transparency. “Without it, it is simply impossible to take action against wage discrimination,” she says. “With the new EU rules, workers, and women in particular, will be better equipped to assert their right to equal pay.”</p>
+<p style="text-align: justify;">According to Regner, all workers will be able to share information about their pay, internally and externally. This means an effective ban on non-disclosure clauses, and ensures that women don’t have to go to court to prove discrimination. The onus is on companies to prove the opposite.</p>
+<p style="text-align: justify;">Wage discrimination is a systematic problem, not an individual one. It should also be tackled systematically.</p>
+<p style="text-align: justify;"></p>
