@@ -1,0 +1,35 @@
+---
+id: 25552
+title: "Turning Passion into a Driving Force is a Sure Route to Business Success"
+award_year: 2023
+published: 2023-06-08 11:44:43
+published_gmt: 2023-06-08 10:44:43
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2023/06/turning-passion-into-a-driving-force-is-a-sure-route-to-business-success/"
+categories: ["Africa"]
+content_sha256: 80ebffa15a87ed8ae52afa85d002c408cb354f6850bac578c3c642f3923d8cbe
+canonical: 25552-turning-passion-into-a-driving-force-is-a-sure-route-to-business-success.json
+---
+
+# Turning Passion into a Driving Force is a Sure Route to Business Success
+
+> Verbatim archived copy. Canonical machine record: `25552-turning-passion-into-a-driving-force-is-a-sure-route-to-business-success.json`.
+
+<h2 style="text-align: justify;"><em>APIP-Guinée MD Diana Kouyaté, mother, entrepreneur, and Guinean patriot, swears by her homeland’s rich potential.</em></h2>
+<p style="text-align: justify;"><strong>Diana Kouyaté has an innate love for her native country, the West African nation of Guinea.</strong></p>
+<p style="text-align: justify;">She grew up in the seaside capital of Conakry, where her father honed the questing scientific minds of generations at <a href="https://uganc.edu.gn/" target="_blank" rel="noopener">Gamal Abdel Nasser</a>, the country’s largest public university. Her mother left her native Russia and followed love to a new country.</p>
+<p style="text-align: justify;">Diana Kouyaté is no stranger to daring decisions, or to following one’s passion. Taking leaps of faith is a particular skill she inherited from her parents.</p>
+
+
+[caption id="attachment_25553" align="aligncenter" width="900"]<img class="wp-image-25553 size-large" title="APIP-Guinée MD: Diana Kouyaté" src="https://cfi.co/wp-content/uploads/2023/06/MD-Diana-Kouyate-1024x613.webp" alt="APIP-Guinée MD: Diana Kouyaté" width="900" height="539" /> <strong>MD:</strong> Diana Kouyaté[/caption]
+<p style="text-align: justify;">After completing high school, she took her first jump in the unknown by moving to Paris for her higher education. After earning a Master's degree in Applied Economics and a Bachelor's in Economics and Management from the University of Paris XII, she held a series of positions in economics studies and project management, mostly in the health sector.</p>
+<p style="text-align: justify;">Some say you can never go home again, and after 15 years establishing a career in France, this could well have been true for Kouyaté. But she heard, and heeded, a call from her roots. “I loved my life and my career in Paris,” she says, “but I wanted more. I wanted my work to be more impactful, and most of all I wanted to help my home country fulfil its potential.”</p>
+<p style="text-align: justify;">Driven by that sentiment, she uprooted her children, her French life and her career to move back to Guinea.</p>
+<p style="text-align: justify;">In a country of opportunities, she quickly found impactful positions. She worked in a delivery unit attached to the Ministry of Agriculture and Livestock, helping to achieve development-friendly policies. She then stepped into the heath sector as managing partner of the Extended Vaccination Programme, under the Ministry of Health.</p>
+<p style="text-align: justify;">Her background in econometrics and her experience in development work and project management made her a perfect fit for the Private Investment Promotion Agency (<a href="https://cfi.co/africa/2023/10/apip-guinee-making-guinea-your-next-investment/">APIP-Guinée</a>). In 2019, Kouyaté was appointed to the position of deputy managing director, and in February 2022 she became the head of the agency.</p>
+<p style="text-align: justify;">“I see my work at APIP at the sum of all my aspirations for impact,” she says. “We focus most of our efforts on two areas. The first is investment attraction and retention, by facilitating procedures for investors and encouraging the adoption of reforms to ease the business climate.” The business registration process now takes less than 72 hours, and is made easier by the customs and tax incentives of the investment code.</p>
+<p style="text-align: justify;">“Our second focus area is centred on entrepreneurs,” the MD says. “We aim to strengthen the competitiveness of local SMEs and facilitate their access to financing through targeted support.” Kouyaté has been gratified by investment successes that the agency has supported; most are joint ventures between Guinean and foreign companies. Successful partnerships like this in the agri-business and mining sectors have been flourishing.</p>
+<p style="text-align: justify;">“Pooling of resources and strengthening our local private sector, while creating profit for international companies, is a win-win,” she adds. “It’s a sure-fire way to ensure the acceleration of our country’s economic development. This is the type of partnership we wish to encourage, which is why we work so hard on making our SMEs more competitive.”</p>
+<p style="text-align: justify;">In her managerial role, Kouyaté makes a point of mentoring her team members — especially the next generation of female leaders. This also applies to agency activities. "I am a woman, and a mother to a young girl,” she says. “I am well aware that even if women have more opportunities today, the glass ceiling remains a reality.</p>
+<p style="text-align: justify;">“It is crucial to boost women in their careers and activities. It is precisely to enable women to overcome this barrier, and flourish, that so many programmes developed at APIP target capacity-building for female entrepreneurs." Kouyaté notes the €15m, five-year programme implemented by APIP, the French Development Agency (AFD) and the <a href="https://cfi.co/organisations/eu/">European Union</a> to boost female entrepreneurship, particularly in rural Guinea.</p>
+<p style="text-align: justify;">“Guinea is a land of opportunities ready to be seized by investors,” she points out. “APIP-Guinée is at their disposal to make ambition a reality.”</p>
