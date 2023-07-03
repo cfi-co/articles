@@ -1,0 +1,67 @@
+---
+id: 25706
+title: "Online Gaming Sector Quick to Appreciate Role of AI to Reduce Risk — and Empower Growth"
+award_year: 2023
+published: 2023-07-03 20:09:33
+published_gmt: 2023-07-03 19:09:33
+author: "CFI.co Editorial"
+url: "https://cfi.co/menu/corporate/2023/07/online-gaming-sector-quick-to-appreciate-role-of-ai-to-reduce-risk-and-empower-growth/"
+categories: ["Corporate"]
+content_sha256: 37b82e1e19234959d301d1a05a6db33e7bad152040f5c8e427f9174d65757be5
+canonical: 25706-online-gaming-sector-quick-to-appreciate-role-of-ai-to-reduce-risk-and-empower-g.json
+---
+
+# Online Gaming Sector Quick to Appreciate Role of AI to Reduce Risk — and Empower Growth
+
+> Verbatim archived copy. Canonical machine record: `25706-online-gaming-sector-quick-to-appreciate-role-of-ai-to-reduce-risk-and-empower-g.json`.
+
+<h3 style="text-align: justify;"><span style="color: #ff0000;"><em>B2B GAMING SERVICES: WINNER <a style="color: #ff0000;" href="https://cfi.co/awards/europe/2023/b2b-gaming-services-best-online-gaming-platform-solutions-europe-2023/">Best Online Gaming Platform Solution Europe 2023</a></em></span></h3>
+<p style="text-align: justify;"><em>Gabriel Chaleplis, founder of B2B GAMING SERVICES, commenting on fostering AI: ‘The plough did not replace the farmer.’</em></p>
+<p style="text-align: justify;"><strong>Artificial intelligence is taking every industry by storm — and online gaming has been right there, ready and waiting.</strong></p>
+
+
+[caption id="attachment_25725" align="alignright" width="217"]<img class="size-medium wp-image-25725" src="https://cfi.co/wp-content/uploads/2023/07/Gabriel2-217x300.webp" alt="Gabriel Chaleplis" width="217" height="300" /> Gabriel Chaleplis[/caption]
+<p style="text-align: justify;">In these fluid times, all industries are experimenting with AI — but Malta based B2B Gaming Services had already charted its own path, and clearly saw the technology’s role as an enabler for growth.</p>
+<p style="text-align: justify;">Since it began operation in the UK in 1997, the company has adopted an agile operational matrix which has differentiated it from competition — and led to some notable achievements over the years.</p>
+<p style="text-align: justify;">That operational matrix is iterative, non-linear, and delivers the objective throughout its lifecycle. The company’s core is centred on values of trust, flexibility, empowerment, and co-operation.</p>
+
+<blockquote>
+<h3>"The challenge is to 'Be the change' in the AI revolution."</h3>
+</blockquote>
+<p style="text-align: justify;">It has realised projects relating to its gaming system, operation and management services, system licensing, software design and development, product installation, and tech support.</p>
+<p style="text-align: justify;">There is an in-depth understanding of gaming as a service, and of the company’s cultural role as a “servant-leader” for the customer. This has brought about a series of innovations across the business.</p>
+<p style="text-align: justify;">Servant leadership is a philosophy built on the awareness that the most effective leaders are those who strive to serve stakeholders — customers, partners, employees, and the community at large — rather than accrue power or assume control.</p>
+<p style="text-align: justify;">B2B Gaming Services has long recognised this approach, which is apparent in the innovations it has introduced.</p>
+
+<h3 style="text-align: justify;">Enhanced Data Security</h3>
+<p style="text-align: justify;">The online betting and gaming customer needs sophisticated protection measures to safeguard play and ensure responsible gambling.</p>
+<p style="text-align: justify;">B2B Gaming Services increased system sensitivity and response to observed and predicted threats. The architecture incorporates direct mechanisms to compile threat information — and eliminate them with a response rate that can be counted in seconds. The architecture also provides active detectors to lessen threat exposure and reciprocate with sustainable loops. Data robots are employed, and a series of shields have been developed to address security at every level.</p>
+<p style="text-align: justify;">That architecture is rapidly progressing towards its “intelligent” future. What this means, in practical terms, is that the system will be able to use great volumes of data history and minimise the need for human intervention to detect risk factors and reduce them to almost zero.</p>
+
+<h3 style="text-align: justify;">Enhanced Customer Protection</h3>
+<p style="text-align: justify;">During the insular social conditions of the pandemic, it was predicted that people would be more likely to expose themselves to irresponsible gaming. The company adopted machine learning to understand customer behaviour, catch signs of addiction, and help customers to self-impose safe limits.</p>
+
+<h3 style="text-align: justify;">Enhanced Gaming Options</h3>
+<p style="text-align: justify;">With betting on many sports events suspended or cancelled due to lockdown measures — and with customer psychology progressively rooted in the market — a new environment was developed.</p>
+<p style="text-align: justify;">B2B Gaming Services relaunched its entire mobile and desktop platform, increased its investments in livestreaming, boosted streaming coverage, released electronic and simulated reality leagues (eSports), improved content suggestions based on big data, and mitigated data-feed disruptions.</p>
+
+<h3 style="text-align: justify;">Enhanced Customer Focus</h3>
+<p style="text-align: justify;">Time and resources were dedicated to further empowering customer experience, with new payment methods, customer verification and CMS Apps, a new design for cash-out and betting slips, and a unique bonus wallet.</p>
+<p style="text-align: justify;">The company tackled major issues of the traditional project management approach (Waterfall) by adopting progressive web app (PWA) technology. B2B Gaming Services launched a PWA to address the fact that 53 percent of mobile visits are abandoned if a site takes longer than three seconds to load.</p>
+<p style="text-align: justify;">The PWA is a website that looks and behaves like a mobile app. Users can add it to the main screen of their smartphones and access it exactly as they would with any other app. There are benefits for connectivity issues, and — most importantly — it combines the advantages of the web and mobile apps for a better and seamless user experience, regardless of platform.</p>
+<p style="text-align: justify;">It uses less data than native mobile apps, and there is no need for customers to find it in the app store. It can navigate to the site on any browser, including Chrome and Safari. It focuses on reliably loading faster, even working offline, and uses fewer data.</p>
+
+<h3 style="text-align: justify;">Novel Portfolio Options</h3>
+<p style="text-align: justify;">To improve cross-selling to sports betting and female customers, the company presented novel portfolio aggregates, customised to customer needs.</p>
+
+<h3 style="text-align: justify;">Reshuffling of Casino Providers</h3>
+<p style="text-align: justify;">To optimise the changing needs of casino customers, B2B Gaming Services reshuffled its partnerships. It prioritised casino providers with expertise in virtual sports offerings, and acquired the best virtual sports offerings.</p>
+
+<h3 style="text-align: justify;">Abandoning Waterfall</h3>
+<p style="text-align: justify;">Pyramid leadership structures and traditional management schemes were recharted. Every role across the organisation transformed to a “servant-leader” model. This satisfied company objectives, and enabled “outside-in” thinking to tackle broader challenges.</p>
+<p style="text-align: justify;">The ultimate value of being agile and understanding the servant-leader role rests on the fact that time alone renders a lot of planning obsolete. By the time the project is ready for delivery, the conditions have altered and the offer no longer matches customer wants.</p>
+<p style="text-align: justify;">B2B Gaming Services sees AI as an opportunity to avert enfeeblement of the industry, and foster empowerment.</p>
+<p style="text-align: justify;">While the Fourth Industrial Revolution technologies, driven by AI, will continue to change the way we work and live, it’s important to remember that the disruptive technology lacks emotional intelligence. AI can work only with inputted data, and its creative process is limited to data received. Nor does AI have soft skills: humans make AI functional.</p>
+<p style="text-align: justify;">According to B2B Gaming Services founder <a href="https://cfi.co/corporate-leaders/2023/07/gabriel-chaleplis-online-gaming-is-here-to-stay/">Gabriel Chaleplis</a>, the challenge is to “be the change” of the AI revolution, and ensure ethical, responsible, and inclusive action. Chaleplis believes that progress is impossible without disruption, and the applicable discipline is that of being agile. AI is understood and utilised as an enabler for growth.</p>
+<p style="text-align: justify;">To illustrate how this approach is being implemented in practice, B2B Gaming Services is helping bettors to access a wealth of information and data usually available only to bookmakers. This will empower them to make informed decisions, using data and analytics to assist their betting strategies. The use of advanced algorithms and machine learning will enable the provision of personalised recommendations and insights to individual users. Most importantly, with responsible gambling features such as self-exclusion and deposit limits embedded in the very foundation of the company, risks will be mitigated.</p>
+<p style="text-align: justify;"><em>B2B GAMING SERVICES (MALTA) LTD is an industry-leading provider of comprehensive platform solutions to sports betting, casino, and games in regulated markets. <a href="https://www.b2bgamingservices.com/" target="_blank" rel="noopener">www.b2bgamingservices.com</a></em></p>
