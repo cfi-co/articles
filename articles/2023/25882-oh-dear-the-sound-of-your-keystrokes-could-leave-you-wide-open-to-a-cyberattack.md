@@ -1,0 +1,33 @@
+---
+id: 25882
+title: "Oh Dear: The Sound of Your Keystrokes Could Leave You Wide-open to a Cyberattack"
+award_year: 2023
+published: 2023-08-09 11:44:50
+published_gmt: 2023-08-09 10:44:50
+author: "CFI.co Editorial"
+url: "https://cfi.co/brave-new-world/2023/08/oh-dear-the-sound-of-your-keystrokes-could-leave-you-wide-open-to-a-cyberattack/"
+categories: ["Brave New World", "Technology"]
+content_sha256: 93a90a3db48b70989cf506f99a0fb331d27754992e58b12d821e9501324c4461
+canonical: 25882-oh-dear-the-sound-of-your-keystrokes-could-leave-you-wide-open-to-a-cyberattack.json
+---
+
+# Oh Dear: The Sound of Your Keystrokes Could Leave You Wide-open to a Cyberattack
+
+> Verbatim archived copy. Canonical machine record: `25882-oh-dear-the-sound-of-your-keystrokes-could-leave-you-wide-open-to-a-cyberattack.json`.
+
+<p style="text-align: left;"><em>A simple video call could open your laptop to hackers, experts warn...</em></p>
+<p style="text-align: left;"><strong>University researchers have created an AI system to decipher words from the sound of typing — with more than 90 percent accuracy.</strong></p>
+<img class="aligncenter size-large wp-image-25883" src="https://cfi.co/wp-content/uploads/2023/08/password-1024x682.webp" alt="password" width="900" height="599" />
+<p style="text-align: left;">That remarkable achievement comes with an obvious downside: it means that just typing your password while chatting over a video platform like Zoom could open the door to a cyberattack.</p>
+<p style="text-align: left;">Industry experts say that as video conferencing tools have grown in use, and devices with built-in microphones become ubiquitous, the threat is real, and rising.</p>
+<p style="text-align: left;">Researchers have created a system that can work out which keys are being pressed on a laptop keyboard, according to a report in <em>The Guardian</em>.</p>
+<p style="text-align: left;">“I can only see the accuracy of such models, and such attacks, increasing,” said Ehsan Toreini, doctor and co-author of the study at the University of Surrey. The research was published as part of the IEEE European Symposium on Security and Privacy Workshops.</p>
+<p style="text-align: left;">Toreini and colleagues used machine learning algorithms to identify pressed keys based on sound alone. It’s an approach that researchers recently deployed on the Enigma cipher device.</p>
+<p style="text-align: left;">The process began by pressing each of 36 keys on a MacBook Pro, including all letters and numbers, 25 times in a row, using different fingers and with varying pressure. The sounds were recorded over a Zoom call and on a smartphone near the laptop.</p>
+<p style="text-align: left;">Suid Adeyanju, CEO of IT firm RiverSafe, said it was “a wake-up call about the true risks” posed by artificial intelligence. “Far too many organisations are rushing to adopt the technology without conducting even the most basic due diligence tests,” he said.</p>
+<p style="text-align: left;">“Over-enthusiastic executives should take note that AI may look like Barbie, but it could turn out to be Oppenheimer if the necessary cyber protections and regulatory procedures aren’t in place.”</p>
+<p style="text-align: left;">While it is not clear which clues the system used to identify specific keystrokes, Joshua Harrison, first author of the study, from Durham University, said proximity of the keys to the edge of the keyboard could be a factor. “This positional information could be the main driver behind the different sounds,” he said.</p>
+<p style="text-align: left;">The system was then tested on other data. It proved accurate 95 percent of the time when the recording was made over a phone call, and 93 percent of the time during a Zoom call.</p>
+<p style="text-align: left;">The study was co-authored by a doctor by from the Royal Holloway, University of London, Maryam Mehrnezhad. The researchers say the work is a proof-of-principle study, and has not been used to crack passwords. But they warn of a need for vigilance, and say using a laptop in public places could present a risk.</p>
+<p style="text-align: left;">The risk of such acoustic “side channel attacks” can be mitigated, experts say, by opting for biometric passwords or activating two-step verification. Failing that, it’s a good idea to use the shift key and create a password using upper and lower cases, numbers, and symbols. “It’s very hard to work out when someone lets go of a shift key,” said Harrison.</p>
+<p style="text-align: left;">Feng Hao, a professor from the University of Warwick, said people shouldn’t type sensitive messages, including passwords, during a Zoom call. “Besides the sound,” he said, “the visual images about the subtle movements of shoulder and wrist can reveal side-channel information about the keys being typed, on the keyboard even though the keyboard is not visible from the camera.”</p>
