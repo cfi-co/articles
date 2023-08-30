@@ -1,0 +1,50 @@
+---
+id: 25951
+title: "Access Granted: Simple Policies in a Complicated Financial Ecosystem"
+award_year: 2023
+published: 2023-08-30 16:17:42
+published_gmt: 2023-08-30 15:17:42
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2023/08/access-bank-uk-simple-policies-complicated-financial-ecosystem/"
+categories: ["Africa", "Banking", "Corporate", "Europe", "Finance"]
+content_sha256: f5fd98cbe440835c6b832e5edb77e7cba2302313fca84ff16460e6be0b924a72
+canonical: 25951-access-bank-uk-simple-policies-complicated-financial-ecosystem.json
+---
+
+# Access Granted: Simple Policies in a Complicated Financial Ecosystem
+
+> Verbatim archived copy. Canonical machine record: `25951-access-bank-uk-simple-policies-complicated-financial-ecosystem.json`.
+
+<h2 style="text-align: justify;"><em>The Access Bank UK is a Nigerian success story that has passed the $100m milestone for three years in a row.</em></h2>
+<p style="text-align: justify;">The Access Bank UK Ltd, a wholly owned subsidiary of the <a href="https://ngxgroup.com/" target="_blank" rel="noopener">Nigerian Stock Exchange</a>-listed Access Bank Plc, is having a boom time.</p>
+<p style="text-align: justify;">Income growth saw the bank pass the $100m milestone — for the third consecutive year — in 2022. It was the first Nigerian Bank in the UK to be appointed as correspondent to the Central Bank of Nigeria, and to undertake infrastructure work on behalf of the Nigerian government. It issues letters of credit on behalf of the Nigerian government and Nigerian National Petroleum Corporation (NNPC).</p>
+
+
+[caption id="attachment_25954" align="alignright" width="350"]<img class="size-full wp-image-25954" src="https://cfi.co/wp-content/uploads/2023/08/AccessBankUKJamieSimmonds-jpg.webp" alt="Jamie Simmonds, Access Bank UK" width="350" height="349" /> CEO &amp; Managing Director: Jamie Simmonds[/caption]
+<p style="text-align: justify;">It also provides trade finance, commercial banking, private banking and asset-management products and services for customers in their dealings with Organisation for Economic Co-operation and Development (OECD) markets and support companies wishing to invest in and trade in African, MENA, and Asian markets.</p>
+<p style="text-align: justify;">In the recently published report and statutory accounts for 2022, the bank demonstrated yet another year of significant all-round growth, achieving and exceeding the targets for all main growth strategies.</p>
+<p style="text-align: justify;">Like its parent, Access Bank is committed to developing a <a href="https://cfi.co/category/sustainability/">sustainable</a> business model. This is reflected in its moderate appetite for risk, its passion for customer service, and a commitment to build long-term relationships by working in partnership with customers.</p>
+<p style="text-align: justify;">It plays a key role in the group’s mission to be “the world’s most respected African bank”. Access doesn’t chase unsustainable yields as a route to growth. Instead, it focuses on building business through the strength of its customer relationships.</p>
+<p style="text-align: justify;">In 2018, the Access Bank became a direct member of the three key UK payment-clearing systems: Bacs (Bankers’ Automated Clearing Services), C&amp;CCC (Cheque and Credit Clearing Company’s Image Clearing System) and Faster Payments. The Access Bank UK’s chief executive officer and managing director, Jamie Simmonds, said it was “a great landmark for us, enabling us to build a sustainable platform with direct entry into the UK payment clearing system”.</p>
+<p style="text-align: justify;">He said this would enable the bank to enhance its level of customer service. “We have a clear commitment there, and we anticipate and respond quickly to market needs with the right technology, products and services,” he said. “Joining the UK payment clearing system is a clear example of meeting the needs of our customers.”</p>
+<p style="text-align: justify;">The Access Bank UK Ltd provides a number of services to support business activities in Africa and around the world. “We were awarded Confirming Bank status by the International Finance Corporation as part of its Global Trade Finance Programme,” said Simmonds, “further strengthening our trade finance capabilities.”</p>
+<p style="text-align: justify;">The commercial banking team offers relationship-based service for corporate and individual customers, with competitive rates, market leading systems, and top-quality service.</p>
+<p style="text-align: justify;">That last point is key: the bank has been built around a passion for excellent service. “We deliver innovative investment solutions to our discerning clients,” said Simmonds, “who value trust, integrity, and accountability as well as investment performance.</p>
+<p style="text-align: justify;">“We take a proactive approach to product and service delivery, and offer unique investment solutions tailored to our customers’ needs by a highly experienced private banking team.”</p>
+
+
+[caption id="attachment_25953" align="aligncenter" width="1000"]<img class="wp-image-25953 size-full" title="Access Bank UK, Dubai" src="https://cfi.co/wp-content/uploads/2023/08/AccessBankUKDubai-jpg.webp" alt="Access Bank UK, Dubai" width="1000" height="563" /> The Access Bank UK Ltd DIFC Branch situated in the iconic Gate Building of Dubai[/caption]
+<p style="text-align: justify;">The Access Bank UK — Dubai Branch offers a broad range of products and services to assist customers in the MENA region with trade and investment needs in Nigeria and Africa. The DIFC Branch is committed to building a long-lasting relationship in the region, in line with the approach that has proven so effective for the Access Bank UK Ltd. “The combination of the Dubai branch and our presence in the UK and Nigeria delivers a wealth of expertise that significantly benefits our customers,” Simmonds points out.</p>
+<p style="text-align: justify;">Access Bank UK Ltd provides employees with ongoing support and development opportunities, reflecting corporate pride in their dedication and professionalism. “We are very proud that Investors in People (IIP) has awarded us platinum status.”</p>
+<p style="text-align: justify;">The bank is led by an experienced team dedicated to delivering superior financial solutions to businesses and individuals. Staff members have worked in international marketplaces, and offer a wealth of knowledge and in-depth experience.</p>
+<p style="text-align: justify;">Entitled <em>Growing Internationally</em>, the statutory accounts report highlights a strong operational performance by the main strategic business units (SBUs), and continued growth and expansion in Africa and the MENA region. Continuing income growth saw the bank pass the $100m milestone — for the third consecutive year — and achieve $131.5m for the year, an increase of 18 percent.</p>
+<p style="text-align: justify;">Trade Finance continued to be the largest SBU, growing overall income by 12 percent to $62.6m, up from $55.8m in 2021. Correspondent banks, excluding the parent, contributed income of $32.6m, representing 17 percent growth over 2021’s $27.8m.</p>
+<p style="text-align: justify;">The commercial banking division showed the largest growth of any of the SBUs, with income reaching $49.7m (against $37.6m in 2021) an increase of 32 percent year-on-year. Leveraging its proven relationship-based model to support customers at a critical point in Nigeria’s post-pandemic economic emergence was a key factor. Asset management showed a significant boost in income to $8.1m, a 62 percent increase on $5m in 2021.</p>
+
+
+[caption id="attachment_25955" align="aligncenter" width="1000"]<img class="wp-image-25955 size-full" title="Access Bank UK, London" src="https://cfi.co/wp-content/uploads/2023/08/AccessBankUKLondon-jpg.webp" alt="Access Bank UK, London" width="1000" height="667" /> The Access Bank UK Limited offices in the heart of the City of London[/caption]
+<p style="text-align: justify;">Jamie Simmonds said of the results: “A difficult global trading environment did not impact on another strong core performance, with the bank increasing operating income to $131.5, the third year in succession that it has passed the important $100m income milestone.</p>
+<p style="text-align: justify;">“We increased operating income in 2022 to $131.5m, a rise of 18 percent on the $111.1m achieved in 2021, despite the negative impact on the Russia-Ukraine conflict on global financial markets, inflation, central bank rates, and commodity training.”</p>
+<p style="text-align: justify;">Chairman and non-executive director Herbert Wigwe added: “Securing the approval of French regulators for the bank to open a regulated branch in France was the highlight of a strong financial and operational performance in 2022.”</p>
+<p style="text-align: justify;">“I offer thanks to our customers for their support, and for entrusting us with their funds which, for the first time, now exceed $1.25bn in terms of customer deposits.’’</p>
+<p style="text-align: justify;">Access Bank is authorised by the Prudential Regulation Authority (PRA) and regulated by the Financial Conduct Authority (FCA) and the PRA. The Access Bank UK Ltd — Dubai Branch, situated in the iconic Gate Building of Dubai International Financial Centre (DIFC), is regulated by the Dubai Financial Services Authority (DFSA).</p>
