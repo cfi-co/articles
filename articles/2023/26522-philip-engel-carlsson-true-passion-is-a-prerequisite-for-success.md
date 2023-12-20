@@ -1,0 +1,36 @@
+---
+id: 26522
+title: "The CEO's message is explicit: True passion is a prerequisite for success in this sector"
+award_year: 2023
+published: 2023-12-20 17:10:36
+published_gmt: 2023-12-20 17:10:36
+author: "CFI.co Editorial"
+url: "https://cfi.co/europe/2023/12/philip-engel-carlsson-true-passion-is-a-prerequisite-for-success/"
+categories: ["Europe", "Finance"]
+content_sha256: a8cf2941cab6354038706bce997980eb48490b034bf4b780e98c76a4edb44229
+canonical: 26522-philip-engel-carlsson-true-passion-is-a-prerequisite-for-success.json
+---
+
+# The CEO's message is explicit: True passion is a prerequisite for success in this sector
+
+> Verbatim archived copy. Canonical machine record: `26522-philip-engel-carlsson-true-passion-is-a-prerequisite-for-success.json`.
+
+<h2 style="text-align: justify;"><em>CFI.co in conversation with PHILIP ENGEL CARLSSON, CEO of alternative fund-management firm Calculo Capital...</em></h2>
+[caption id="attachment_26535" align="alignright" width="350"]<img class="wp-image-26535 size-full" title="Philip Engel Carlsson, CEO, Calculo Capital" src="https://cfi.co/wp-content/uploads/2023/12/CEOCalculoCapitalPhilipEngelCarlsson-jpeg.webp" alt="Philip Engel Carlsson, CEO, Calculo Capital" width="350" height="569" /> CEO: Philip Engel Carlsson[/caption]
+<p style="text-align: justify;">Philip Engel Carlsson's journey into the world of commodities was serendipitous, if not entirely accidental.</p>
+<p style="text-align: justify;">Despite the unusual path to discovering his professional passion and <em>raison d'être</em>, Engel Carlsson quickly developed his talents for uncovering value and opportunity in an intricate and complex world.</p>
+<p style="text-align: justify;">The allure of commodities, with their global benchmarks and regional nuances, became a driving force, injecting each day at the office with a blend of challenge and opportunities.</p>
+<p style="text-align: justify;">He acknowledges the challenges faced by commodity traders lacking the safety net of an index. In a market where alpha is derived directly from market fluctuations, a deep understanding of commodity intricacies is paramount.</p>
+<p style="text-align: justify;"><strong><em>CFI: What excites you about the business world in general?</em></strong></p>
+<p style="text-align: justify;"><strong>PEC: </strong>I ended up in commodities by a coincidence, while working for a Danish investment bank. I fell in love with the product range and the fundamentals of <a href="https://www.investopedia.com/investing/commodities-trading-overview/" target="_blank" rel="noopener">commodity trading</a>. It’s an amazing asset class, with global benchmark price-function while being anchored regionally. This makes for exciting days at the office.</p>
+<p style="text-align: justify;"><strong><em>CFI: What lessons have you carried forward from the early years of your career?</em></strong></p>
+<p style="text-align: justify;"><strong>PEC: </strong>As a commodity trader, getting involved in speculative trading to capture up and down movements, you don’t have an index to hang onto. We truly succeed in deriving alpha from the market.</p>
+<p style="text-align: justify;">While working for a tech-driven bank, and later co-founding a power-trading company, I knew that technology was key. And that great stuff can be archived via automation.</p>
+<p style="text-align: justify;"><strong><em>CFI: What motivates and enthuses you about the business you now lead?</em></strong></p>
+<p style="text-align: justify;"><strong>PEC: </strong>I’ve been able to tailor my career and job around the things that most interest me: technology and commodity markets. I haven’t had to make any compromises. I’ve designed and built the trading technology used to harness opportunities.</p>
+<p style="text-align: justify;">My emphasis is on automation of tasks to derive the best opportunities the market has to offer. This is best done by delivering alpha, low correlation, and keeping potential drawdowns to a minimum.</p>
+<p style="text-align: justify;"><strong><em>CFI: What is special about your organisation’s management style? Can you share any professional secrets?</em></strong></p>
+<p style="text-align: justify;"><strong>PEC: </strong>We don’t need a large team; we’re driven by technology. Calculo people are seasoned professionals with long experiences in their fields — all of which are centred on financial markets. I’m very proud of our team, and its pedigree.</p>
+&nbsp;
+
+<em>Philip Engel Carlsson is CEO of alternative fund-management firm <a href="https://cfi.co/europe/2023/12/calculo-capital-navigating-the-future/">Calculo Capital</a></em>
