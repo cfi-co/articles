@@ -1,0 +1,42 @@
+---
+id: 26618
+title: "Major Tech Boost for Logistics Sector"
+award_year: 2024
+published: 2024-01-24 15:10:34
+published_gmt: 2024-01-24 15:10:34
+author: "CFI.co Editorial"
+url: "https://cfi.co/brave-new-world/2024/01/major-tech-boost-for-logistics-sector/"
+categories: ["Brave New World", "Technology"]
+content_sha256: e639ae7ec2a095bf2b45bc2b3ff154edb447a4ad81835130ce066e88b9c360fa
+canonical: 26618-major-tech-boost-for-logistics-sector.json
+---
+
+# Major Tech Boost for Logistics Sector
+
+> Verbatim archived copy. Canonical machine record: `26618-major-tech-boost-for-logistics-sector.json`.
+
+<p style="text-align: justify;"><em>How 5G technology will keep the supply chain moving...</em></p>
+<p style="text-align: justify;"><strong>PwC predicts that wide-scale development of 5G communication networks will contribute an additional $1.3tn to global GDP by 2030.</strong></p>
+<img class="aligncenter size-full wp-image-26619" src="https://cfi.co/wp-content/uploads/2024/01/5g-jpg.webp" alt="5g" width="800" height="450" />
+<p style="text-align: justify;">With logistics and transport among the primary target sectors for the technology, what are the key benefits it could bring?</p>
+<p style="text-align: justify;">With speeds comparable to home broadband and low latency, 5G is set to revolutionise homes and industries. Logistics has historically struggled with labour shortages, rapid changes in demand, and poor tracking information. And, say experts, 5G could provide the solution to these issues.</p>
+
+<h3 style="text-align: justify;"><strong>Real-time Tracking</strong></h3>
+<p style="text-align: justify;">More advanced than barcodes and RFID tags, which can have problems during scanning, 5G-enabled tracking does a better job. An enabled device doesn’t need to be scanned and can report its location independently and in real time, allowing for more precise tracing.</p>
+<p style="text-align: justify;">It’s possible to track the product right to the shelf it’s stored on, enabling transparent and accurate tracking throughout the supply chain.</p>
+
+<h3 style="text-align: justify;"><strong>Complete Network</strong></h3>
+<p style="text-align: justify;">One of the factors previously holding back the adoption of Internet of Things (IoT) devices has been capacity. A 4G cell tower can only handle around 2,000 devices at a time. Highly populated areas often suffer with performance issues.</p>
+<p style="text-align: justify;">A 5G tower can support far more — up to a million devices at any one time. This boost means businesses will be able to have far more devices on the network. That includes product inventory, delivery vans and lorries, on-site forklifts, and other tools essential to day-to-day operations. Precise planning becomes faster and easier, minimising unscheduled delays and maximising use of available equipment.</p>
+<p style="text-align: justify;">Security is enhanced too, with a reduced risk of goods being lost or stolen.</p>
+
+<h3 style="text-align: justify;"><strong>Comprehensive View</strong></h3>
+<p style="text-align: justify;">It will also be possible to gather more comprehensive information. Where you might previously receive only location information, developments in sensor technology mean that more parameters can be measured.</p>
+<p style="text-align: justify;">Temperature and humidity sensors and live video feeds are just a few possibilities. These sensors will allow logistics companies to guarantee the quality of their service. This is particularly relevant for the transport of perishables such as medicines or chemicals, which require special storage conditions.</p>
+
+<h3 style="text-align: justify;"><strong>Staff Shortages</strong></h3>
+<p style="text-align: justify;">Lastly, the development of 5G-enabled autonomous vehicles could help to tackle skills shortages. With a lack of qualified drivers, others have had to take on extra pressure. This can lead to longer hours on the road, sometimes without proper breaks.</p>
+<p style="text-align: justify;">A 5G vehicle could drive autonomously for certain periods, such as on motorways, giving the driver more time to rest without losing time on the road. It’s even possible that drivers won’t be needed at all. Lorries could be remotely controlled, thanks to low latencies.</p>
+<p style="text-align: justify;">It's clear that 5G isn’t just a gimmick — it can offer real benefits for logistics companies. With improved visibility across all operations, 5G could be the key to a truly robust supply chain.</p>
+<p style="text-align: justify;"><strong>About the Author</strong></p>
+<p style="text-align: justify;"><em>Kristian Torode is director and co-founder of business broadband provider Crystaline.</em></p>
