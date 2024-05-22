@@ -1,0 +1,32 @@
+---
+id: 26823
+title: "Cement Recycling: a Breakthrough for More Sustainable Construction"
+award_year: 2024
+published: 2024-05-22 22:22:45
+published_gmt: 2024-05-22 21:22:45
+author: "CFI.co Editorial"
+url: "https://cfi.co/europe/2024/05/cement-recycling-a-breakthrough-for-more-sustainable-construction/"
+categories: ["CSR", "Europe", "Projects", "Sustainability"]
+content_sha256: ee4b8ba05ca2ab5e3f4c2b4e7b3757faa923a5a17345f5927a74cf968e11312f
+canonical: 26823-cement-recycling-a-breakthrough-for-more-sustainable-construction.json
+---
+
+# Cement Recycling: a Breakthrough for More Sustainable Construction
+
+> Verbatim archived copy. Canonical machine record: `26823-cement-recycling-a-breakthrough-for-more-sustainable-construction.json`.
+
+<p style="text-align: justify;"><em>Reuse and recycle — it makes sense, even in the most basic steps of the building trade…</em></p>
+<p style="text-align: justify;"><strong>The global construction industry is a major contributor to carbon emissions, but it’s facing up to its responsibilities.</strong></p>
+<img class="aligncenter size-large wp-image-26824" src="https://cfi.co/wp-content/uploads/2024/05/Cement-Recycling-1024x583.webp" alt="Cement Recycling" width="900" height="512" />
+<p style="text-align: justify;">Recent British breakthroughs are revolutionising the industry, particularly the innovative solution of cement recycling, a process that aligns with the principles of a circular economy.</p>
+<p style="text-align: justify;">Concrete — to state the obvious — is the world's most widely used construction material. And like so many others, it comes with an environmental cost. Cement production accounts for a staggering eight percent of global carbon dioxide emissions, leaving aside the gathering of gravel, sand and other raw materials. One of them, limestone, is responsible for the serious degradation of natural ecosystems.</p>
+<p style="text-align: justify;">Enter the brainwave of cement recycling — reusing detritus from demolished buildings. The practice drastically cuts the demand for production, curbing greenhouse gas emissions.</p>
+<p style="text-align: justify;">The UK is at the forefront of the innovation, and is pioneering technologies to transform the industry. Carbon dioxide can be captured from waste gases and combined with concrete rubble to create building aggregate. That generates carbon credits and provides a financial incentive — always a good thing for new sustainable practices.</p>
+<p style="text-align: justify;"><strong>Electric Arc Furnaces</strong></p>
+<p style="text-align: justify;">Another UK-led breakthrough is the adaptation of electric arc furnaces (EAFs) to recycle cement. Traditionally used in steelmaking, EAFs are being employed to process concrete rubble, melting scrap metal and recycled concrete. The aggregates are separated, and the recovered paste can be used in new concrete mixes.</p>
+<p style="text-align: justify;">EAFs bring down carbon footprints, as they are more energy-efficient than traditional kilns. Air pollution is lower, too — and as a bonus, EAFs can recover valuable metals from scrap, further promoting a circular economy.</p>
+<p style="text-align: justify;">The furnaces are operationally flexible, allowing for smaller batches of cement to be made, and can churn out other recycled materials.</p>
+<p style="text-align: justify;"><strong>Challenges Ahead…?</strong></p>
+<p style="text-align: justify;">While the potential is immense, challenges to cement recycling exist. The development of standardised quality-control measures and the optimisation of processes are areas that require ongoing R&amp;D.</p>
+<p style="text-align: justify;">But already, things look promising. Environmental awareness is a top priority for corporations, authorities and individuals, and government incentives are driving recycling. The integration of innovative technologies such as these is expected to accelerate the adoption of environmentally friendly processes.</p>
+<p style="text-align: justify;">Cement recycling seems to have a solid future ahead of it.</p>
