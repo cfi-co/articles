@@ -1,0 +1,30 @@
+---
+id: 26827
+title: "To Get Ahead, Get a Head with a Heart"
+award_year: 2024
+published: 2024-05-24 11:16:16
+published_gmt: 2024-05-24 10:16:16
+author: "CFI.co Editorial"
+url: "https://cfi.co/europe/2024/05/to-get-ahead-get-a-head-with-a-heart/"
+categories: ["Europe", "Finance"]
+content_sha256: b9a41d41b8dc07358090778f7308c430739d3a38ecef3a305b278c4112056c54
+canonical: 26827-to-get-ahead-get-a-head-with-a-heart.json
+---
+
+# To Get Ahead, Get a Head with a Heart
+
+> Verbatim archived copy. Canonical machine record: `26827-to-get-ahead-get-a-head-with-a-heart.json`.
+
+<p style="text-align: justify;"><strong>Behind every go-ahead company is a go-ahead personality – and in the case of Square Asset Management, that person is Pedro Coelho.</strong></p>
+
+
+[caption id="attachment_26828" align="aligncenter" width="900"]<img class="size-large wp-image-26828" src="https://cfi.co/wp-content/uploads/2024/05/Pedro-Coelho-1024x633.webp" alt="CEO: Pedro Coelho" width="900" height="556" /> CEO: Pedro Coelho[/caption]
+<p style="text-align: justify;">The CEO and founder of this firm heads a 70-person team dedicated to consistent performance for its clients – with a low-risk/return framework. This aim is pursued through meticulous selection of real estate assets without financial leverage.</p>
+<p style="text-align: justify;">Lisbon-based Coelho is committed to fostering innovation and cultural growth, with a penchant for positivity and high regard for his colleagues. Add to that an unwavering adherence to high standards of values, business ethics, and environmental consciousness and you have the profile of a leader.</p>
+<p style="text-align: justify;">With over 35 years of experience in the financial industry, mainly in real-estate asset management and finance, Coelho earned an accounting degree from ISCAL in 1986. Before Square AM, he held senior positions at ESAF Asset Management and served as Head of Planning at Barclays Bank, Portugal. From 2001 to 2004, he taught the MBA programme at Escola Superior de Actividades Imobiliárias in Portugal.</p>
+<p style="text-align: justify;">The CEO sees challenges, whether in the boardroom or on the volleyball court (where he coaches), as part of life. "As in life,” he says, “sometimes you just have to throw the ball and see where it goes."</p>
+<p style="text-align: justify;">Under his leadership, the firm has gone from zero to €1bn in AUM in open-ended real estate funds – not once, but twice, in separate institutions.</p>
+<p style="text-align: justify;">Square AM focus remains steadfast on client performance, primarily through real estate open-ended funds, while continuously advancing ESG initiatives, positioning the company as a national and regional leader in real estate fund-management.</p>
+<p style="text-align: justify;">Square is anchored in long-term lease contracts, with the absence of financial leverage, and robust risk-control.</p>
+<p style="text-align: justify;">Reflecting on his journey, he says: "I have always been driven by challenges and client returns, so being the CEO of Square AM is a tremendous motivation and an enduring reward."</p>
+<p style="text-align: justify;">Square AM has pledged support for the United Nations Sustainable Development Goals and is a participant of the UN Global Compact Network.</p>
