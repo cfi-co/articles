@@ -1,0 +1,36 @@
+---
+id: 26830
+title: "The Man Driving the Rio Tinto Bus: Meet Jakob Stausholm"
+award_year: 2024
+published: 2024-05-29 11:13:09
+published_gmt: 2024-05-29 10:13:09
+author: "CFI.co Editorial"
+url: "https://cfi.co/sustainability/2024/05/the-man-driving-the-rio-tinto-bus-meet-jakob-stausholm/"
+categories: ["Africa", "CFI.co Meets", "Corporate", "Oil &amp; Mining", "Portraits", "Projects", "Sustainability"]
+content_sha256: 9e27f4eb2c707eeeebe43d87fb15ea4700b659f39b24f75e34841817dae50994
+canonical: 26830-the-man-driving-the-rio-tinto-bus-meet-jakob-stausholm.json
+---
+
+# The Man Driving the Rio Tinto Bus: Meet Jakob Stausholm
+
+> Verbatim archived copy. Canonical machine record: `26830-the-man-driving-the-rio-tinto-bus-meet-jakob-stausholm.json`.
+
+<p style="text-align: justify;"><strong>Rio Tinto chief executive Jakob Stausholm is steering this mining giant as it rolls towards sustainability.</strong></p>
+
+
+[caption id="attachment_26831" align="aligncenter" width="900"]<img class="size-large wp-image-26831" src="https://cfi.co/wp-content/uploads/2024/05/CEO-Jakob-Stausholm-1024x711.webp" alt="" width="900" height="625" /> <strong>CEO:</strong> Jakob Stausholm[/caption]
+<p style="text-align: justify;">Since taking over as CEO in January 2021, Stausholm has led the company through hills and valleys of transition, aiming always for environmental responsibility, social engagement, and sustainable growth. During his tenure, he has rebuilt trust in the industry, cut carbon emissions, and cultivated a more inclusive and ethical company culture.</p>
+<p style="text-align: justify;">Stausholm's appointment came in the aftermath of the Juukan Gorge disaster, in which Rio Tinto destroyed ancient Aboriginal rock dwellings, sparking public outcry and damaging the company's brand. Recognising the gravity of the situation, Stausholm prioritised the re-establishment of confidence with indigenous communities and stakeholders. He launched an open conversation, apologising for the company's blunder and pledging a thorough evaluation of management standards on cultural heritage.</p>
+
+<blockquote>
+<h3>"Stausholm has kept sharp focus on creating an inclusive and ethical workplace. He promotes open communication, diversity and respect at all levels to keep employees — as well as stakeholders and communities — feeling appreciated and empowered."</h3>
+</blockquote>
+<p style="text-align: justify;">Stausholm has had his work cut out to re-establish Rio Tinto's social licence to operate; he advanced by emphasising cultural sensitivity and community participation. He has managed to foster a collaborative relationship with the affected communities.</p>
+<p style="text-align: justify;">Stausholm is an advocate of environmental stewardship, and recognises the importance of addressing the industry's impact. Rio Tinto’s ambitious carbon-reduction targets were established under his leadership, and he is holding onto that goal of reaching net-zero by 2050.</p>
+<p style="text-align: justify;">To minimise environmental damage, the corporation is putting its faith in renewable energy, electrifying its vehicle fleet and researching appropriate technologies. This commitment has been consistent with the worldwide call for climate action — and has established Rio Tinto as a leader in the field.</p>
+<p style="text-align: justify;">Stausholm prioritises operational excellence along with environmental and social considerations. He has launched a review of the company portfolio, divesting non-core assets and investing in initiatives aligned with long-term strategy.
+The CEO aims to improve financial performance and provide shareholders with long-term value by streamlining operations and focusing on high-value projects. He has also emphasised the importance of investment in R&amp;D.</p>
+<p style="text-align: justify;">Stausholm has kept sharp focus on creating an inclusive and ethical workplace. He promotes open communication, diversity and respect at all levels to keep employees — as well as stakeholders and communities — feeling appreciated and empowered. Rio Tinto is becoming a responsible corporate citizen by putting proper value on employee wellbeing and developing an integrity-driven culture.</p>
+<p style="text-align: justify;">The firm has made tremendous progress under Stausholm — but still has problems to confront. The sector operates in a tangled web of stakeholders and regulatory regimes. Balancing environmental stewardship with economic prosperity is an ongoing challenge.</p>
+<p style="text-align: justify;">The industry's unavoidable and direct effect on the environment demands continual attention. Stausholm sees Rio Tinto as a pioneer, contributing to a low-carbon future while keeping eyes on the prize of long-term value for shareholders and communities. His emphasis on trust, carbon cutting, operational excellence and cultural sensitivity has set the organisation on a new path.</p>
+<p style="text-align: justify;">As Rio Tinto navigates the upcoming challenges of the global energy transition, Stausholm's steady hand will be critical to its success, and its contribution to a sustainable future.</p>
