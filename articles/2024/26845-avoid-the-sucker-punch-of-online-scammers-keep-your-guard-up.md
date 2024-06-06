@@ -1,0 +1,59 @@
+---
+id: 26845
+title: "Avoid the Sucker-Punch of Online Scammers — Keep Your Guard Up!"
+award_year: 2024
+published: 2024-06-06 14:16:18
+published_gmt: 2024-06-06 13:16:18
+author: "CFI.co Editorial"
+url: "https://cfi.co/technology/2024/06/avoid-the-sucker-punch-of-online-scammers-keep-your-guard-up/"
+categories: ["Brave New World", "Technology"]
+content_sha256: abd60617ec36141a4a0312c6036f2f640ba094e5cdfaaa164c4c3e5f13fb4ef6
+canonical: 26845-avoid-the-sucker-punch-of-online-scammers-keep-your-guard-up.json
+---
+
+# Avoid the Sucker-Punch of Online Scammers — Keep Your Guard Up!
+
+> Verbatim archived copy. Canonical machine record: `26845-avoid-the-sucker-punch-of-online-scammers-keep-your-guard-up.json`.
+
+<p style="text-align: justify;"><em>Experts reveal how businesses and sellers can spot online payment fraud.</em></p>
+<p style="text-align: justify;"><strong>When it comes to e-commerce, shoppers aren’t the only ones vulnerable to scams. Businesses and sellers are targets, too — so know thy enemy, whoever you are.</strong></p>
+<img class="aligncenter size-large wp-image-26846" src="https://cfi.co/wp-content/uploads/2024/06/online-scams-1024x578.webp" alt="online scams" width="900" height="508" />
+<p style="text-align: justify;">Anyone involved with online sales and purchases should arm themselves as well as possible to avoid falling victim to the multitude of scams out there on the big, bad internet. Find out as much as you can about prevalent scams — and about what to do should your protections fail.</p>
+<p style="text-align: justify;">According to US news organisation Business Wire, there was a 71 percent increase in payment fraud attempts on American firms in 2023. That statistic alone should add weight to the cautions listed here.</p>
+<p style="text-align: justify;">Dennis Pederson, CEO of merchant account processor PayFasto, has compiled a list of common scams that online shoppers, traders or sellers should be aware of.</p>
+
+<h3 style="text-align: justify;"><strong>Phishing Scams </strong></h3>
+<p style="text-align: justify;">Despite the spelling, this involves bait and a hook. Criminals try to trick people into sharing sensitive information, such as credit card details and passwords. They typically do this by sending fake texts or emails which redirect to a phony — but apparently legitimate — third-party website. Just click on the link, and your personal information is suddenly available to bad actors.</p>
+<p style="text-align: justify;">Phishing isn’t only aimed at customers; the privacy and security of businesses and stakeholders are equally open to compromise. Financial and data losses spark fear in the heart of the public, and trust in the company can be lost. A damaged reputation can be as harmful as any actual monetary loss.</p>
+<p style="text-align: justify;">Happily, there are some obvious red flags to look out for, and regular training can help employees to keep their guard up. Unexpected requests for personal information, spelling and grammar errors, unknown senders, and attempts to inject a sense of threat or urgency are all giveaways. Simple rule: avoid clicking any unfamiliar website and never download any unexpected attachments.</p>
+<p style="text-align: justify;">There are less obvious, more devious methods employed, and technical measures can help to reduce the risk: email filtering tools and thorough assessment of third-party communications are a good start. It makes sense to limit access to sensitive data via multi-factor authentication — and to keep digital systems and software defences up-to-date.</p>
+
+<h3 style="text-align: justify;"><strong>Chargeback Fraud </strong></h3>
+<p style="text-align: justify;">Also known as friendly fraud, this is when an apparently legitimate customer makes a credit card purchase and then disputes the charge with their bank. They request a refund, claiming that they did not receive the item or that the payment was unauthorised.</p>
+<p style="text-align: justify;">True fraud, when transactions are made using stolen personal information, is a trickier business. The legitimate cardholder files a chargeback for the unauthorised purchase. These scams can be ruinous to vendors, who must pick up much of the loss should a bank side with the customer.</p>
+<p style="text-align: justify;">Good communication is key to preventing “friendly” fraud. It’s vital that online businesses include merchant names and transaction details in banking apps to avoid confusion. Ensure that email confirmations are promptly sent out after purchases are made.</p>
+<p style="text-align: justify;">Sellers should enable package-tracking and delivery updates to ensure proof that the goods have been received. Good customer service and transparency about any delays can nip problems in the bud. Two-factor authentication for payments, and the verification of any suspiciously large purchases, should be made before shipping.</p>
+
+<h3 style="text-align: justify;"><strong>Send it Back…?</strong></h3>
+<p style="text-align: justify;">Return fraud occurs when a dodgy customer attempts to get a refund by manipulating the seller’s refund policy. This might involve returning a different item than the one received, claiming that it was defective or damaged. This, needless to say, is illegal. But it sometimes works…</p>
+<p style="text-align: justify;">Scammers might even use the ordered items — a high-end camera for use on holiday, or an expensive dress to wear to a wedding — then return them as “unused”, flouting the terms and conditions of the returns policy.</p>
+<p style="text-align: justify;">To lower the chances of this situation, vendors should develop clear, non-negotiable return policies — and abide by them. Items returned in anything other than original condition — including all labels and documentation —  should be flagged, and the refund refused. Strict checks should be implemented: Is it the correct item? Is it in perfect condition? Do delivery tracking records confirm claims that orders were lost? Transactions should be monitored for any unusual or suspicious patterns.</p>
+
+<h3 style="text-align: justify;"><strong>Merchants of Menace</strong></h3>
+<p style="text-align: justify;">Merchant fraud is when scammers pose as genuine businesses to deceive online customers. They might go as far as creating fake websites and online “stores” offering goods at temptingly low prices. They may send out a counterfeit or low-quality product — or none at all. While customers are the direct victims, this can hurt the reputation of legitimate businesses.</p>
+<p style="text-align: justify;">Merchant fraud incurs financial losses and other liabilities. There can be legal consequences if it’s determined that proper prevention measures were not taken. If rates of merchant fraud in a particular industry are high, businesses can be hit by higher processing fees due to perceived risk.</p>
+
+<h3 style="text-align: justify;"><strong>Fighting Back</strong></h3>
+<p style="text-align: justify;">Businesses and sellers can combat all this by taking some basic measures. Ensure that the company name, logo and transaction details appear on bank statements. This goes a long way to distinguishing legitimate purchases from fraudulent ones.</p>
+<p style="text-align: justify;">Clear terms and conditions, secure payment methods and multi-factor authentication remain the best safeguards. It’s good practice to stay abreast of emerging fraud patterns, and to deploy top-notch software protection.</p>
+
+<h3 style="text-align: justify;"><strong>Down to the Wire  </strong></h3>
+<p style="text-align: justify;">Wire transfer fraud involves a fraudster deceiving someone into sending money via bank transfer. They may impersonate known and trusted individuals or organisations. Fake invoices urge prompt payment, often playing on emotions and exploiting the pressure workers may already be under. These scenarios, especially since the emergence of widely accessible AI technology, can be very convincing. In this case, money is transferred instantly — and getting it back can be a real challenge. Sellers should to contact their bank as soon as a problem is flagged — ideally before the transaction has been completed.</p>
+<p style="text-align: justify;">Prevention is better than cure, and as a general rule, it’s a bad idea to send money in an unplanned, unexpected manner. Transactions should always be approved by more than one person, as a failsafe.</p>
+<p style="text-align: justify;">Businesses and employees should avoid sharing private company information, and improving cybersecurity protocols is an effective countermeasure. As always, use strong passwords, closely guard banking details, and enforce multi-factor authentication when logging into a company’s network.</p>
+<p style="text-align: justify;">Sellers, shoppers and employees must remain on their guard, and remind themselves not to ignore any suspicious requests for money. If in doubt, get a second opinion and confirm the validity of a request before fulfilling it.</p>
+
+<ul style="text-align: justify;">
+ 	<li><em>More information: </em></li>
+</ul>
+<p style="text-align: justify;"><span style="text-decoration: underline;"><a href="https://payfasto.com/high-risk-merchant-account/"><em>https://payfasto.com/high-risk-merchant-account/ </em></a></span></p>
