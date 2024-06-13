@@ -1,0 +1,31 @@
+---
+id: 26858
+title: "It’s all about the Employees, says Golomt Bank's Odonbaatar Amarzaya"
+award_year: 2024
+published: 2024-06-13 10:58:35
+published_gmt: 2024-06-13 09:58:35
+author: "CFI.co Editorial"
+url: "https://cfi.co/corporate-leaders/2024/06/its-all-about-the-employees-says-golomt-banks-odonbaatar-amarzaya/"
+categories: ["Corporate Leaders"]
+content_sha256: f045da5e05737bae4a6a1dd0fd789b4730909ec1cf198245487723ef6c89ffb4
+canonical: 26858-its-all-about-the-employees-says-golomt-banks-odonbaatar-amarzaya.json
+---
+
+# It’s all about the Employees, says Golomt Bank's Odonbaatar Amarzaya
+
+> Verbatim archived copy. Canonical machine record: `26858-its-all-about-the-employees-says-golomt-banks-odonbaatar-amarzaya.json`.
+
+<p style="text-align: justify;"><em>Mongolia’s Golomt Bank knows the value of the people it employs — and the citizens that it works for. </em></p>
+<p style="text-align: justify;"><strong>Odonbaatar Amarzaya, deputy CEO of Mongolia’s Golomt Bank, is a man who cares deeply about his country, and his institution’s part in its future.</strong></p>
+
+
+[caption id="attachment_26860" align="aligncenter" width="900"]<img class="size-large wp-image-26860" src="https://cfi.co/wp-content/uploads/2024/06/DCEO-Odonbaatar-1024x806.webp" alt="Deputy CEO of Golomt Bank: Odonbaatar Amarzaya" width="900" height="708" /> <strong>Deputy CEO of Golomt Bank:</strong> Odonbaatar Amarzaya[/caption]
+<p style="text-align: justify;">After nearly three decades of pursuing its mission to deliver cutting-edge banking products and services in Mongolia, Golomt is bringing best practices in digitalisation and sustainability to its corporate and retail customers, as well as its partners.</p>
+<p style="text-align: justify;">Employees are at the heart of the organisation. Golomt started its operations with just four staff, but its growth has been exponential. It’s a thoroughly modern operation, with Generation Z making up 33 percent of the workforce, and the remainder comprised of Gen Y and the millennials. “We listen to the youth and follow a soft policy of human resources in accordance with their characteristics,” says Amarzaya.</p>
+<p style="text-align: justify;">Within the framework of the employee-centric policy, Golomt Bank aims to create an opportunity for long-term and stable growth of the bank by creating an employee-friendly management system based on high professional ethics, honesty, trust, and a responsible collective culture.</p>
+<p style="text-align: justify;">“We have created all the opportunities for our employees to continuously learn and develop,” says Amarzaya. “This will improve their careers, help them to work in teams, share their knowledge, and to be the owners of their professional development.</p>
+<p style="text-align: justify;">“We believe that our organisation can survive for a long time by developing, promoting, and increasing the productivity of our employees.”</p>
+
+<h3 style="text-align: justify;"><strong>Developing Together</strong></h3>
+<p style="text-align: justify;">Golomt Bank received a certificate from the internationally recognised Great Place To Work Institute in 2022 and 2023, becoming the first in the banking and financial sector and the fifth institution in Mongolia to receive the honour.</p>
+<p style="text-align: justify;">“That confirms that our corporate culture is on par with the world’s leading organisations,” says a proud Amarzaya. “This is an indication that our ‘employee-centric' human resources policy, organisational culture, and management are being optimally implemented.”</p>
