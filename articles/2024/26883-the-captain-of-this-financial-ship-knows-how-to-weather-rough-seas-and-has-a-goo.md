@@ -1,0 +1,38 @@
+---
+id: 26883
+title: "Patrick Anderson Knows How to Weather Rough Seas — and Has a Good Crew Behind Him"
+award_year: 2024
+published: 2024-06-27 11:16:39
+published_gmt: 2024-06-27 10:16:39
+author: "CFI.co Editorial"
+url: "https://cfi.co/banking/2024/06/patrick-anderson-knows-how-to-weather-rough-seas-and-has-a-good-crew-behind-him/"
+categories: ["Banking", "Corporate", "Europe"]
+content_sha256: 8101fb8b62fd88200a996dc4a2c1dc00471b6b71f14a6ccfada0accf56193286
+canonical: 26883-the-captain-of-this-financial-ship-knows-how-to-weather-rough-seas-and-has-a-goo.json
+---
+
+# Patrick Anderson Knows How to Weather Rough Seas — and Has a Good Crew Behind Him
+
+> Verbatim archived copy. Canonical machine record: `26883-the-captain-of-this-financial-ship-knows-how-to-weather-rough-seas-and-has-a-goo.json`.
+
+<p style="text-align: justify;"><em>Patrick Anderson, the chief executive of Nordic asset management and financial markets firm <a href="https://cfi.co/banking/2024/06/pioneering-spirit-boldness-and-a-deep-understanding-of-unity/">United Bankers,</a> in conversation with CFI.co.</em></p>
+<p style="text-align: justify;"><strong>United Bankers management team is responsible for the company’s business as a whole. It prepares the corporate strategy and operating principles — and in the hot seat is chief executive officer Patrick Anderson.</strong></p>
+
+
+[caption id="attachment_26884" align="aligncenter" width="900"]<img class="wp-image-26884 size-large" src="https://cfi.co/wp-content/uploads/2024/06/Patrick-Anderson-1024x650.webp" alt="Patrick Anderson" width="900" height="571" /> Patrick Anderson[/caption]
+<p style="text-align: justify;">His main task is to manage and control the business of the Helsinki-based company. As well as implementing United Bankers’ strategy and running the company’s business in accordance with the Limited Liability Companies Act, Anderson has an array of responsibilities — which he embraces.</p>
+<p style="text-align: justify;"><strong><em>CFI.co: What excites you about the business world in general?</em></strong></p>
+<p style="text-align: justify;"><strong>Patrick Anderson:</strong> The competitive global landscape, where the “winner” is the one delivering the best value proposition to its clients.</p>
+<p style="text-align: justify;"><strong><em>What lessons have you learned during your career?</em></strong></p>
+<p style="text-align: justify;">That to have talent isn’t enough. The world is full of brilliant, talented people. The key is to combine that talent with an appetite for hard work — and having a little bit of luck on the way helps, as well.</p>
+<p style="text-align: justify;"><strong><em>What motivates and enthuses you?</em></strong></p>
+<p style="text-align: justify;">We’ve transformed the company into one of the most exciting alternative managers in Northern Europe. What I find exciting is the scaling-up phase we are going through right now.</p>
+<p style="text-align: justify;">Our offering is unique. All our core funds are dedicated towards global solutions, and through them we can make a difference. Those global challenges include climate change, replacing plastics, capturing CO2, and working to solve European energy demand in a sustainable way. Megatrends provide us with tailwinds. We offer our clients the ability to invest sustainably and in a climate-friendly way.</p>
+<p style="text-align: justify;"><strong><em>Can you share any secrets about your organisation’s management style? </em></strong></p>
+<p style="text-align: justify;">We are customer-centric, we have agility and a strong team spirit, combined with a flat and entrepreneurial leadership culture. As the UB team holds more than 60 percent of the equity in the company, we truly are in the same boat, long-term, as our customers, clients, and stakeholders.</p>
+<p style="text-align: justify;"><strong><em>What are the key strengths of the team you lead? </em></strong></p>
+<p style="text-align: justify;">I’m very proud of the team — we’ve been building it for almost 40 years. We have deep expertise in areas such as forestry, forest innovations, real estate, and renewable energy — not forgetting our history with asset management, of course. The team is fully invested in the company and in our funds. Basically, we’re very proud of the Nordic alternatives platform we’ve created.</p>
+<p style="text-align: justify;"><strong><em>What are the key traits of a good corporate leader?</em></strong></p>
+<p style="text-align: justify;">Empathy, modesty, understanding the difference between what you know and what you don’t. Also, being a good listener and having a vision: combining strategic direction with speed and support. It’s very much like being the captain of a ship.</p>
+<p style="text-align: justify;"><strong><em>Do those criteria change when applied to your particular industry?</em></strong></p>
+<p style="text-align: justify;">Although the financial industry is often seen as cold and Darwinian, the same principles apply to many organisations and sectors. Your main asset is your team, and you’re leading them on a journey through good weather and bad. Trust and a shared passion are essential.</p>
