@@ -1,0 +1,42 @@
+---
+id: 26972
+title: "Banco Azteca: Pillar of Financial Inclusion and Innovation in Mexico"
+award_year: 2024
+published: 2024-07-29 10:35:23
+published_gmt: 2024-07-29 09:35:23
+author: "CFI.co Editorial"
+url: "https://cfi.co/banking/2024/07/banco-azteca-pillar-of-financial-inclusion-and-innovation-in-mexico/"
+categories: ["Banking", "North America"]
+content_sha256: b26ab30108d0018ef3666a6674968110734f2e9facc0b259696d98baf0693f90
+canonical: 26972-banco-azteca-pillar-of-financial-inclusion-and-innovation-in-mexico.json
+---
+
+# Banco Azteca: Pillar of Financial Inclusion and Innovation in Mexico
+
+> Verbatim archived copy. Canonical machine record: `26972-banco-azteca-pillar-of-financial-inclusion-and-innovation-in-mexico.json`.
+
+<p style="text-align: justify;"><em>A bank that’s about people, as well as profit…</em></p>
+<p style="text-align: justify;"><strong><a href="https://www.bancoazteca.com.mx/"><span style="text-decoration: underline;">Banco Azteca</span></a>, a key component of Grupo Salinas, has established itself as a major player in Mexico's financial sector.</strong></p>
+
+
+[caption id="attachment_26973" align="aligncenter" width="900"]<img class="size-large wp-image-26973" src="https://cfi.co/wp-content/uploads/2024/07/SUCURSAL-2-1024x683.webp" alt="Banco Azteca" width="900" height="600" /> Banco Azteca[/caption]
+<p style="text-align: justify;">Formed in 2002 with a mission to provide financial services to underserved populations, the bank has played a pivotal role in promoting financial inclusion and economic development across the country.</p>
+<p style="text-align: justify;">Banco Azteca's strategy revolves around accessibility, offering financial products that meet the needs of low-income individuals and small businesses. This approach has resulted in a customer base millions-strong.</p>
+<p style="text-align: justify;">A 2009 World Bank study noted the economic impact of Banco Azteca's rapid expansion. The simultaneous opening of some 800 branches in 2002 led to a 7.6 percent increase in the number of informal business owners. Total employment rose by 1.4 percent, and average income by about seven percent. This immediate access to financial services fostered entrepreneurial activity and boosted local economies.</p>
+
+<h3 style="text-align: justify;"><strong>Digital Expansion</strong></h3>
+<p style="text-align: justify;">Banco Azteca boasts largest private branch network in Mexico — more than 2,000 nationwide. This is complemented by a robust digital strategy. The bank’s mobile app, launched in 2018 has a user-friendly interface and features include applications for loans and investment options.</p>
+<p style="text-align: justify;">Banco Azteca offers financial products aimed at specific segments of the population, such as women and migrants. These include savings accounts, personal loans, and microcredits. The focus on accessible services has been a significant factor in its ability to serve low-income individuals and small businesses.</p>
+
+<h3 style="text-align: justify;"><strong>Financial Education</strong></h3>
+<p style="text-align: justify;">Financial inclusion is linked to financial education. Banco Azteca runs workshops and seminars on financial management, savings, and investment. These programmes have proven crucial in helping customers make informed financial decisions.</p>
+
+<h3 style="text-align: justify;"><strong>Social Responsibility</strong></h3>
+<p style="text-align: justify;">Banco Azteca supports various social initiatives focused on health, education, and environmental sustainability. One example is its sponsorship of the Mexican Olympic Committee. It’s also involved in cultural initiatives under the Art for Everyone (Arte para Todos) banner, sponsoring events like the BADA Art Fair and Design Week Mexico, promoting the arts and supporting local artists.</p>
+<p style="text-align: justify;">The bank has invested in IT and cybersecurity measures and is exploring emerging technologies such as AI for product offerings and operational processes.</p>
+
+<h3 style="text-align: justify;"><strong>Financial Performance</strong></h3>
+<p style="text-align: justify;">Banco Azteca has a strong market position thanks to its efficient business model, with a focus on cost management and revenue diversification. It has achieved significant growth in its loan portfolio, customer deposits, and overall market share.</p>
+<p style="text-align: justify;">The bank plans to expand its digital offerings to enhance customer experience and operational efficiency. Its commitment to financial inclusion aims to reach more underserved communities and introduce products that address emerging customer needs.</p>
+<p style="text-align: justify;">With its extensive branch network, innovative product offerings and digital strategy, Banco Azteca has a crucial role to play for SMEs and individuals.</p>
+<p style="text-align: justify;">Banco Azteca continues to evolve, but remains steadfast in its mission to provide financial inclusion.</p>
