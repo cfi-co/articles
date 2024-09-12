@@ -1,0 +1,40 @@
+---
+id: 27118
+title: "Loita Capital Partners: A Reach as Wide as the African Continent Itself, and Still Roaring with Ambition"
+award_year: 2024
+published: 2024-09-12 13:03:28
+published_gmt: 2024-09-12 12:03:28
+author: "CFI.co Editorial"
+url: "https://cfi.co/africa/2024/09/loita-capital-partners-a-reach-as-wide-as-the-african-continent-itself-and-still-roaring-with-ambition/"
+categories: ["Africa", "Finance"]
+content_sha256: 6f31a7c2b9a06d73d7da41191cd741a7ab9c14a6770a6e5ed1ffd1f17015f093
+canonical: 27118-loita-capital-partners-a-reach-as-wide-as-the-african-continent-itself-and-still.json
+---
+
+# Loita Capital Partners: A Reach as Wide as the African Continent Itself, and Still Roaring with Ambition
+
+> Verbatim archived copy. Canonical machine record: `27118-loita-capital-partners-a-reach-as-wide-as-the-african-continent-itself-and-still.json`.
+
+<p style="text-align: justify;"><em>Pan-African by nature and global in its sense of drive, Loita Capital Partners has garnered a reputation for its pioneering exploits.</em></p>
+<p style="text-align: justify;"><strong><a href="https://cfi.co/awards/africa/2024/loita-capital-partners-pioneer-in-african-financial-markets-indian-ocean-2024/">Loita Capital Partners International</a>, a subsidiary of the Loita Group, is a boutique institution offering pan-African investment banking services.</strong></p>
+<img class="aligncenter size-large wp-image-27119" src="https://cfi.co/wp-content/uploads/2024/09/Loita-1024x701.webp" alt="Loita Capital Partners" width="900" height="616" />
+<p style="text-align: justify;">The group was incorporated in Mauritius in 1992 by four former Citibank officers, all with deep experience of the African continent. Loita, via the group, operates from 300 offices in nine countries: Ghana, Liberia, Malawi, Mauritius, Kenya, South Africa, Uganda, Zambia and Zimbabwe.</p>
+<p style="text-align: justify;">Loita’s strategic lines of business include investments and third-party management services for banks and other financial institutions. It offers structured trade and project finance advisory, capital market debt and equity advisory; as well as asset management and correspondent banking advisory services.</p>
+<p style="text-align: justify;">Thanks to its executives’ expertise and experience, Loita has earned an enviable reputation. It has advised on, structured, and placed transactions in African markets and global financial centres worth more than $9bn.</p>
+<p style="text-align: justify;">The transactions completed include developing a pre-shipment tobacco-export financing facility for the Reserve Bank of Malawi, for the securitisation of trade receivables of non-traditional exporters.</p>
+<p style="text-align: justify;">Also in Malawi, Loita invested in a $35m oil import facility, and performed a similar service — a $50m oil import facility — on behalf of the Reserve Bank of Zimbabwe.</p>
+<p style="text-align: justify;">It has assisted Bindura Nickel with mineral export proceeds, while on the Ivory Coast it provided RASCOM with a $20m long-term note-issuance facility to telecommunications equipment, against member country commitments.</p>
+<p style="text-align: justify;">In Nigeria, it set up a PPP project worth $100m “build-own-operate-transfer” (BOOT) structure for the Rivers State refinery. For the government of Kenya, Loita organised a £25m telecoms equipment financing facility and structured debt notes for the country’s Ministry of Finance. Loita also raised debt capital of more than $500m Million for exports in Zimbabwe, Malawi, and Uganda, using a proprietary structure known as the Structured shipment Financing Facility (SPFF) for the PTA Bank.</p>
+<p style="text-align: justify;">Loita advised on, structured, and pioneered debt capital instruments for banks on the regional stock exchanges of Kenya and Uganda.</p>
+
+<h3 style="text-align: justify;">Other Notable Operations</h3>
+<ul>
+ 	<li style="text-align: justify;"><strong>East African Development Bank:</strong> Advised on, structured, and pioneered the raising of debt capital instruments on the regional exchanges of Kenya, Uganda and Tanzania for the EADB Bank;</li>
+ 	<li style="text-align: justify;"><strong>MTN Rwanda:</strong> Raised the first commercial paper programme in the Rwanda market for MTN’s capital requirements.</li>
+ 	<li style="text-align: justify;"><strong>Sheraton Hotel Nigeria:</strong> Created a $50m medium-term debt restructuring facility.</li>
+ 	<li style="text-align: justify;"><strong>African Potash PLC (a London-listed corporation):</strong> Developed a $50m short-term, revolving fertilizer import facility against COMESA offtake.</li>
+ 	<li style="text-align: justify;"><strong>Bank of Zambia:</strong> A $20m debt-for-debt swap transaction.</li>
+ 	<li style="text-align: justify;"><strong>Zambia Consolidated Copper Mines:</strong> A $20m revolving warehouse and investment discounting facility for the country’s copper-mining company (the only one at the time).</li>
+ 	<li style="text-align: justify;"><strong>Exports Fund of Zambia:</strong> A $100m export fund for SMEs involved in the agriculture and mining value-chains.</li>
+ 	<li style="text-align: justify;"><strong>Liberia:</strong> a $50m notes-discount facility for the National Social Welfare and Securities Corporation.</li>
+</ul>
