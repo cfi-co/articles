@@ -1,0 +1,44 @@
+---
+id: 27248
+title: "Otaviano Canuto: The US Elections Will Have Global Economic Impact"
+award_year: 2024
+published: 2024-11-03 21:11:10
+published_gmt: 2024-11-03 21:11:10
+author: "CFI.co Editorial"
+url: "https://cfi.co/northamerica/2024/11/otaviano-canuto-the-us-elections-will-have-global-economic-impact/"
+categories: ["North America"]
+content_sha256: 526a63981d60c1c4e18a0985166bdf4144d6b2cf14ffa9b713dd09df9d7d53db
+canonical: 27248-otaviano-canuto-the-us-elections-will-have-global-economic-impact.json
+---
+
+# Otaviano Canuto: The US Elections Will Have Global Economic Impact
+
+> Verbatim archived copy. Canonical machine record: `27248-otaviano-canuto-the-us-elections-will-have-global-economic-impact.json`.
+
+<p style="text-align: justify;"><strong>On Tuesday, US voters will decide who will control the White House, the Senate, and the House of Representatives. Kamala Harris, Donald Trump, and their respective parties differ significantly on key economic policies that will affect not only the U.S. but the global economy. Here, we examine the candidates’ positions on trade, tax, energy, and immigration. </strong></p>
+<img class="aligncenter size-large wp-image-27249" src="https://cfi.co/wp-content/uploads/2024/11/US-Elections-2024-1024x621.webp" alt="US Elections 2024" width="900" height="546" />
+<p style="text-align: justify;">In trade, while President Joe Biden’s administration has not championed free trade—maintaining Trump’s tariffs on Chinese imports and recently increasing tariffs selectively—a potential Trump administration would likely be even more protectionist than one led by Harris. Trump has already floated proposals like a 60 percent tariff on all Chinese imports and a universal 10 percent tariff on all imports. While the Biden administration has pursued a ‘de-risking’ approach to reduce reliance on the Chinese economy, citing national security concerns, Trump’s stance suggests a full ‘decoupling’ from China.</p>
+<p style="text-align: justify;">Like many mercantilist policies, there is an underestimation of the negative impacts on both countries involved and on third parties. For example, Trump’s tariffs on Chinese imports led to a reduction in US manufacturing jobs, as found by Federal Reserve economists in 2019. Moreover, US agricultural producers lost market share to Brazilian competitors in China. For countries like Mexico, Vietnam, and Malaysia that benefited as intermediaries during the previous US-China trade war, a full decoupling would likely disrupt these trade links.</p>
+
+
+[caption id="attachment_27250" align="aligncenter" width="900"]<img class="size-large wp-image-27250" src="https://cfi.co/wp-content/uploads/2024/11/Picture1-1024x449.png" alt="Figure 1" width="900" height="395" /> Figure 1[/caption]
+<p style="text-align: justify;">Trump likens trade wars to boxing matches, where rising costs for American consumers due to tariffs are simply part of the toll. Harris, by contrast, has described Trump’s tariff proposals as a tax on US consumers, suggesting that she would be more cautious in adopting additional protectionist measures.</p>
+<p style="text-align: justify;">In the realm of taxation, Trump and Harris have distinct positions. While the 2017 corporate income tax cuts are permanent, individual and estate tax cuts are set to expire at the end of 2025. Trump aims to make these cuts permanent, while Harris seeks to increase taxes on individuals earning more than $400,000. Harris’s campaign has also endorsed Biden’s proposals to raise taxes on the wealthy. Congress’s composition post-election will be crucial in determining the success of these tax plans, as both candidates propose to fund their policies through tax increases: on corporations and the wealthy in Harris’s case, and through import tariffs in Trump’s. However, it’s widely doubted that tariff revenue could offset lost tax income, particularly as fiscal deficits and interest costs grow.</p>
+
+
+[caption id="attachment_27251" align="aligncenter" width="900"]<img class="size-large wp-image-27251" src="https://cfi.co/wp-content/uploads/2024/11/Picture2-1024x576.png" alt="Figure 2" width="900" height="506" /> Figure 2[/caption]
+<p style="text-align: justify;">Energy policy is another area where the two candidates diverge significantly, with implications for the ongoing battle between fossil fuels and renewables. Regardless of the election outcome, US electricity demand is expected to rise, driven in part by the energy-intensive needs of data centres and AI applications. Republicans, led by Trump, support fossil fuels and have pledged to ‘drill and drill.’ Democrats, on the other hand, are committed to scaling up solar, wind, and geothermal projects, with election results likely to influence the pace of the US energy transition and its impact on global energy markets.</p>
+<p style="text-align: justify;">Notably, the prices of industrial metals are fluctuating in response to changing electoral probabilities, as measured by voter polls. Meeting growing energy demands with renewable sources would require more extensive upgrades to the power grid, involving greater use of metals like copper and aluminium, than would fossil fuel-based solutions.</p>
+
+
+[caption id="attachment_27252" align="aligncenter" width="900"]<img class="size-large wp-image-27252" src="https://cfi.co/wp-content/uploads/2024/11/Picture3-1024x576.png" alt="Figure 3" width="900" height="506" /> Figure 3[/caption]
+<p style="text-align: justify;">The outcome of the election is also expected to have a marked effect on US immigration policy. Trump and Harris represent sharply different approaches. Trump has proposed ending birthright citizenship for children of undocumented immigrants and hinted at the forced deportation of illegal immigrants—measures that legal experts argue would be difficult to implement. If Trump wins, expect immigration to decrease, as it did during his first term from 2016 to 2020.</p>
+<p style="text-align: justify;">In contrast, Harris supports policies that provide pathways to citizenship for undocumented immigrants, especially for children. While both candidates advocate for some level of restriction on illegal immigration, Trump’s approach is likely to be more aggressive. Immigration has played an important role in the US labour market; without recent immigration levels, the US would not have outperformed many advanced economies over the past two years. According to the Federal Reserve Bank of Dallas, increased labour supply and demand from immigrants boosted GDP growth. The rise in the foreign-born population has played a key role in the US economy, as illustrated in a recent report.</p>
+<p style="text-align: justify;">For the rest of the world, the differences between the candidates’ trade, tax, energy, and immigration policies carry significant implications. The world is closely monitoring the US electoral process, recognising its potential to influence global economic stability. Those who advocate for a transition to renewable energy and view trade as a positive-sum game may have already chosen their preferred outcome.</p>
+
+
+[caption id="attachment_27253" align="aligncenter" width="900"]<img class="size-large wp-image-27253" src="https://cfi.co/wp-content/uploads/2024/11/Picture4-1024x576.png" alt="Figure 4" width="900" height="506" /> Figure 4[/caption]
+<p style="text-align: justify;"><em>Originally published at <a href="https://www.policycenter.ma/">Policy Center for the New South</a>.</em></p>
+
+<h3 style="text-align: justify;">About the Author</h3>
+<p style="text-align: justify;"><a href="https://cfi.co/author/ocanuto/">Otaviano Canuto</a>, based in Washington, D.C, is a former vice president and a former executive director at the World Bank, a former executive director at the International Monetary Fund, and a former vice president at the Inter-American Development Bank. He is also a former deputy minister for international affairs at Brazil’s Ministry of Finance and a former professor of economics at the University of São Paulo and the University of Campinas, Brazil. Currently, he is a senior fellow at the Policy Center for the New South, a professorial lecturer of international affairs at the Elliott School of International Affairs - George Washington University, a nonresident senior fellow at Brookings Institution, a professor affiliate at UM6P, and principal at Center for Macroeconomics and Development. Otaviano has been a regular columnist for CFI.co for the past 13 years. X: <a href="https://x.com/ocanuto">@ocanuto</a></p>
