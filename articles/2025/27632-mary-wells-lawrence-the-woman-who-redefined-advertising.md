@@ -1,0 +1,58 @@
+---
+id: 27632
+title: "Mary Wells Lawrence: The Woman Who Redefined Advertising"
+award_year: 2025
+published: 2025-03-12 15:14:34
+published_gmt: 2025-03-12 15:14:34
+author: "CFI.co Editorial"
+url: "https://cfi.co/northamerica/2025/03/mary-wells-lawrence-the-woman-who-redefined-advertising/"
+categories: ["Heroes", "North America"]
+content_sha256: 9c88bc1cfef33a50dd595985037deaf565ed9fde932b5e90b21e76e333891b42
+canonical: 27632-mary-wells-lawrence-the-woman-who-redefined-advertising.json
+---
+
+# Mary Wells Lawrence: The Woman Who Redefined Advertising
+
+> Verbatim archived copy. Canonical machine record: `27632-mary-wells-lawrence-the-woman-who-redefined-advertising.json`.
+
+<p style="text-align: justify;"><strong>She shattered the glass ceiling of Madison Avenue, infusing it with bold creativity, glamour, and a fearless sense of innovation. This is the story of Mary Wells Lawrence, the trailblazing visionary behind campaigns like "I &#x2665; NY," who proved that women could redefine the advertising world. </strong></p>
+
+<h3 style="text-align: justify;">A Dramatic Beginning</h3>
+<p style="text-align: justify;">Born Mary Georgene Berg in 1928 in Youngstown, Ohio, Mary Wells Lawrence grew up with a love for storytelling and drama. She earned a degree in theatre from Carnegie Mellon University, honing her skills in creativity and performance—qualities that would later become central to her advertising philosophy. While her initial aspirations were on stage, Lawrence soon realised that advertising offered an even larger platform to captivate audiences.</p>
+<img class="aligncenter size-large wp-image-27633" src="https://cfi.co/wp-content/uploads/2025/03/Mary-Wells-1024x624.jpg" alt="Mary Wells" width="900" height="548" />
+<p style="text-align: justify;">Her entry into advertising was unconventional for the time, with few women occupying leadership roles in the male-dominated industry. Yet, Lawrence’s talent, energy, and ambition quickly set her apart.</p>
+
+<h3 style="text-align: justify;">Early Successes and the Road to Stardom</h3>
+<p style="text-align: justify;">Lawrence’s early career was marked by notable achievements. At McCann Erickson, she created the enduring “Plop, plop, fizz, fizz, oh what a relief it is!” jingle for Alka-Seltzer, which became a cultural touchstone. At Jack Tinker and Partners, she masterminded the “End of the Plain Plane” campaign for Braniff International Airways, transforming the airline’s image with colourful aircraft and designer uniforms that captured the imagination of travellers.</p>
+<p style="text-align: justify;">This campaign epitomised Lawrence’s ability to fuse aesthetics, storytelling, and cultural relevance, a combination that became her hallmark. She saw advertising not as mere promotion but as an opportunity to create experiences that resonated emotionally with audiences.</p>
+
+<h3 style="text-align: justify;">Breaking Barriers with Wells Rich Greene</h3>
+<p style="text-align: justify;">In 1966, Lawrence co-founded Wells Rich Greene, becoming the first woman to lead a major advertising agency. This milestone shattered industry norms and inspired future generations of women to pursue leadership roles in advertising and beyond.</p>
+<p style="text-align: justify;">Under her leadership, Wells Rich Greene quickly became known for its daring creativity and sharp strategic thinking. The agency attracted high-profile clients and delivered campaigns that captured the cultural zeitgeist, blending wit, emotion, and cultural relevance in a way that set new standards for the industry.</p>
+
+<h3 style="text-align: justify;">Iconic Campaigns That Defined an Era</h3>
+<p style="text-align: justify;">Mary Wells Lawrence’s work is immortalised in campaigns that remain etched in advertising history:</p>
+<p style="text-align: justify;"><strong>Alka-Seltzer: “I Can’t Believe I Ate the Whole Thing”</strong>
+This humorous campaign depicted relatable scenarios of overindulgence, using wit to connect with consumers while promoting relief.</p>
+<p style="text-align: justify;"><strong>Benson &amp; Hedges: “Oh, the Disadvantages”</strong>
+With sophistication and charm, this campaign turned the brand’s longer cigarette length into a symbol of elegance, cementing its appeal to a discerning audience.</p>
+<p style="text-align: justify;"><strong>New York State Tourism: “I &#x2665; NY”</strong>
+Arguably her most famous creation, the “I &#x2665; NY” campaign launched in 1977 to revitalise tourism during a time of economic hardship. The simple design—featuring a red heart and bold typography—became a cultural phenomenon, representing not just New York’s spirit but also a timeless expression of love and pride.</p>
+<p style="text-align: justify;">These campaigns weren’t just marketing triumphs; they reflected Lawrence’s ability to connect brands with human emotions, making products and places memorable through storytelling and design.</p>
+
+<h3 style="text-align: justify;">A New Perspective on Advertising</h3>
+<p style="text-align: justify;">What set Mary Wells Lawrence apart was her theatrical sensibility and her deep understanding of cultural trends. She infused her campaigns with a sense of drama, excitement, and glamour, capturing the imagination of audiences in ways that were both innovative and deeply resonant.
+Her campaigns often leveraged celebrity endorsements and pop culture references, bridging the gap between advertising and entertainment. This approach helped brands not only sell products but also establish themselves as integral parts of cultural conversation.</p>
+<p style="text-align: justify;">Lawrence also had a knack for understanding the aspirations of her audience. She championed a vision of advertising that was optimistic, forward-looking, and emotionally engaging. Her ability to inspire confidence in consumers and make them feel connected to brands was a hallmark of her success.</p>
+
+<h3 style="text-align: justify;">A Champion for Inclusion and Social Impact</h3>
+<p style="text-align: justify;">Beyond her creative brilliance, Lawrence was a strong advocate for diversity and inclusion within the advertising industry. She actively recruited women and minorities, opening doors that had long been closed. She used her platform to champion causes like environmental conservation and AIDS awareness, showing that advertising could be a force for social good.</p>
+<p style="text-align: justify;">Her leadership style was marked by charisma, inclusivity, and an unrelenting drive for excellence. She created an environment where creativity flourished, empowering her team to take risks and break boundaries.</p>
+
+<h3 style="text-align: justify;">A Legacy That Endures</h3>
+<p style="text-align: justify;">Mary Wells Lawrence retired from advertising in 1990, but her impact remains profound. She demonstrated that advertising could be more than a business tool—it could be a reflection of culture, a source of inspiration, and a driver of change.</p>
+<p style="text-align: justify;">The principles she championed—bold creativity, emotional connection, and cultural relevance—continue to influence the industry today. Her legacy serves as a reminder that great advertising is not just about selling products; it’s about telling stories that resonate, inspire, and endure.</p>
+
+<h3 style="text-align: justify;">The Woman Who Redefined Madison Avenue</h3>
+<p style="text-align: justify;">Mary Wells Lawrence was more than an advertising executive; she was a cultural pioneer. Her story is one of resilience, innovation, and vision. She proved that women could not only succeed in advertising but could lead it into new and exciting territories.</p>
+<p style="text-align: justify;">Her life’s work reminds us that creativity and human connection are at the heart of great communication. From the enduring simplicity of “I &#x2665; NY” to the groundbreaking campaigns that broke barriers, Mary Wells Lawrence left an indelible mark on the world—and her legacy continues to inspire generations of creative thinkers and dreamers.</p>
