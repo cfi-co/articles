@@ -1,0 +1,44 @@
+---
+id: 28066
+title: "Deem Finance: Driving Financial Inclusion and Digital Transformation in the UAE"
+award_year: 2025
+published: 2025-11-10 14:05:51
+published_gmt: 2025-11-10 14:05:51
+author: "CFI.co Editorial"
+url: "https://cfi.co/finance/2025/11/deem-finance-driving-financial-inclusion-and-digital-transformation-in-the-uae/"
+categories: ["Corporate", "Finance", "Middle East"]
+content_sha256: 2c7b9e5edf4c69233556801016b7ecc5489eb51423da54851942e83ba173a785
+canonical: 28066-deem-finance-driving-financial-inclusion-and-digital-transformation-in-the-uae.json
+---
+
+# Deem Finance: Driving Financial Inclusion and Digital Transformation in the UAE
+
+> Verbatim archived copy. Canonical machine record: `28066-deem-finance-driving-financial-inclusion-and-digital-transformation-in-the-uae.json`.
+
+<p style="text-align: justify;"><strong>Deem Finance has established itself as one of the UAE’s most progressive non-bank financial institutions — redefining inclusion and innovation in a rapidly digitising economy. Guided by a clear purpose to serve the underserved and underbanked, the company is enabling individuals and small businesses to access finance responsibly and sustainably.</strong></p>
+
+<h3 style="text-align: justify;">Empowering the Underserved Through Digital Innovation</h3>
+<p style="text-align: justify;">Founded in 2008–09 and now part of the Gargash Group, Deem Finance has become a driving force for equitable financial access in the UAE. Under the leadership of CEO Chris Taylor, the company has reimagined lending through technology and strategic partnerships, ensuring that those often excluded from traditional finance can participate fully in the digital economy — with confidence and dignity.</p>
+<img class="aligncenter size-full wp-image-28067" src="https://cfi.co/wp-content/uploads/2025/11/Deem-Leading-with-Purpose.jpg" alt="Deem - Leading with Purpose" width="1024" height="674" />
+<p style="text-align: justify;">Digital adoption is accelerating among the very segments once considered “hard to reach.” For Deem, this shift is proof that its partnership-led model is building trust. Through collaborations with fintech innovators, Deem has helped thousands transition from cash dependency to digital engagement — a transformation closely aligned with the UAE’s national goal of becoming a cashless society.</p>
+
+<h3 style="text-align: justify;">Responsible Finance: Liquidity with Dignity</h3>
+<p style="text-align: justify;">One of Deem’s most impactful initiatives is its Earned Wage Access (EWA) programme, developed in partnership with MyZoi. Through this model, Deem acts as a liquidity provider, allowing employees to access a portion of their earned salaries before payday. Crucially, this is not new debt — it is responsible liquidity based on wages already earned, protecting workers from informal lending and high-interest debt traps.</p>
+<p style="text-align: justify;">When the EWA programme launched, 98 percent of users withdrew cash via ATMs. Today, that figure has dropped to just over 50 percent — with a target of zero — illustrating a powerful behavioural shift towards digital payments, remittances, and wallet-based services. As one of the early pioneers in this space, Deem has proven that financial inclusion can be achieved without compromising prudence or sustainability.</p>
+
+<blockquote>
+<h3>“Most of us go about our daily lives never touching cash — why shouldn’t those in lower-income segments or small businesses benefit from the same convenience and trust in digital services?”</h3>
+— <strong>Chris Taylor</strong> CEO, Deem Finance</blockquote>
+<h3 style="text-align: justify;">Supporting Small Businesses and Local Economies</h3>
+<p style="text-align: justify;">Deem’s community impact extends beyond consumers. Through its FMCG embedded finance model, the company provides credit lines to small shopkeepers and restaurant owners to purchase inventory directly from beverage and fast-moving consumer goods suppliers.</p>
+<p style="text-align: justify;">This digital financing model offers SMEs up to 50 days of credit, allowing them to sell goods before payments are due — improving cash flow, enhancing profitability, and reducing reliance on informal borrowing. By empowering small enterprises to manage working capital efficiently, Deem is strengthening the backbone of local economies and advancing digital inclusion at the community level.</p>
+<p style="text-align: justify;">The strategy has earned recognition from both the market and investors. A landmark USD 400m securitisation facility with J.P. Morgan — a first-of-its-kind transaction for a UAE non-bank lender — underscores investor confidence in Deem’s strong governance, disciplined credit culture, and scalable digital model.</p>
+
+<h3 style="text-align: justify;">Building Trust Through Partnerships and Technology</h3>
+<p style="text-align: justify;">Deem’s transformation is built on collaboration. By partnering with leading fintechs and technology providers, the company has accelerated innovation and brought new solutions to market at pace. This partnership-driven approach has enabled Deem to leverage AI, behavioural analytics, and alternative data to extend responsible credit while improving customer experience.</p>
+<p style="text-align: justify;">Internally, the company deploys AI-powered quality monitoring to analyse service calls and ensure customer interactions remain empathetic, compliant, and efficient. This disciplined use of technology builds confidence among both customers and employees, creating a financial institution that is agile, transparent, and inclusive by design.</p>
+
+<h3 style="text-align: justify;">A Purpose-Driven Brand for a Digital Future</h3>
+<p style="text-align: justify;">Deem’s journey is guided as much by its values as by its technology. Every initiative — from nano-loans and wage-access programmes to SME trade financing — reinforces a deep commitment to responsible lending and long-term sustainability. Its strategy embodies a clear brand promise: to empower people with fair, transparent, and accessible financial solutions that improve everyday life.</p>
+<p style="text-align: justify;">As the UAE accelerates its transition toward a cashless, digital-first economy, Deem Finance stands at the forefront — bridging inclusion with innovation, and purpose with performance. Its success story demonstrates that when finance is driven by empathy, integrity, and innovation, it can be both commercially sustainable and socially transformative.</p>
+<p style="text-align: justify;">CFI.co congratulates Deem Finance on its leadership in digital inclusion and responsible lending — a model for how purpose-driven innovation can power sustainable financial ecosystems across emerging markets.</p>
