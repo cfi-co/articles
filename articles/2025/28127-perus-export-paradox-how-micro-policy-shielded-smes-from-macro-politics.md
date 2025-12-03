@@ -1,0 +1,49 @@
+---
+id: 28127
+title: "Peru’s Export Paradox: How Micro-Policy Shielded SMEs from Macro-Politics"
+award_year: 2025
+published: 2025-12-03 10:51:37
+published_gmt: 2025-12-03 10:51:37
+author: "CFI.co Editorial"
+url: "https://cfi.co/finance/2025/12/perus-export-paradox-how-micro-policy-shielded-smes-from-macro-politics/"
+categories: ["Finance", "Latin America"]
+content_sha256: 9cd746553d94a5f53b09adc5f842ccc74b5b31da750fe337de97c969dee4c0b5
+canonical: 28127-perus-export-paradox-how-micro-policy-shielded-smes-from-macro-politics.json
+---
+
+# Peru’s Export Paradox: How Micro-Policy Shielded SMEs from Macro-Politics
+
+> Verbatim archived copy. Canonical machine record: `28127-perus-export-paradox-how-micro-policy-shielded-smes-from-macro-politics.json`.
+
+<p style="text-align: justify;"><strong>While the headlines focused on Peru’s political carousel, a quiet technocratic revolution was taking place in its trade corridors. The result? A resilient class of SME exporters that defied both global protectionism and local instability.</strong></p>
+<img class="aligncenter size-large wp-image-28129" src="https://cfi.co/wp-content/uploads/2025/12/Peru-1024x691.jpg" alt="Peru" width="900" height="607" />
+<p style="text-align: justify;">In the volatile landscape of Latin American economics, Peru has long been the intriguing outlier. Often cited for its "Teflon economy"—where GDP growth seemed impervious to political turmoil—the narrative has shifted in 2025. The real story is no longer just about copper and gold; it is about blueberries, alpaca textiles, and specialty coffee, driven by a legion of Small and Medium Enterprises (SMEs) that have integrated themselves into global value chains with surprising tenacity.</p>
+<p style="text-align: justify;">For the discerning investor or policy-maker, Peru offers a textbook case study on how targeted central government interventions—specifically the PENX 2025 strategic plan—can decouple private sector performance from public sector noise.</p>
+
+<h3 style="text-align: justify;">The Mechanism: Policy as a Stabiliser</h3>
+<p style="text-align: justify;">The core of Peru’s success lies in the decoupling of trade policy from political cycles. While ministries shuffled, the Plan Estratégico Nacional Exportador (PENX 2025) remained the constant north star.</p>
+<p style="text-align: justify;">Three specific policy levers have proven instrumental for SMEs:</p>
+<p style="text-align: justify;"><strong>The Digital Shield (VUCE):</strong> The Single Window for Foreign Trade (VUCE) did more than just digitise paperwork; it democratised access. By reducing transaction costs by roughly 15%, it allowed low-volume exporters—who previously couldn't afford the administrative burden—to enter the market. In 2024, nearly 70% of firms utilising VUCE were SMEs.</p>
+<p style="text-align: justify;"><strong>The 'Drawback' Lifeline:</strong> Perhaps the most debated tool is the simplified duty restitution regime (Drawback). It allows exporters to recover a percentage of the FOB value of their exports if they incorporate imported inputs (like packaging or fertiliser).</p>
+<p style="text-align: justify;">Strategic pivot: In a move to enforce efficiency, the government froze the rate at 3% only until July 2025. From August 2025, this drops to 1%, signaling to SMEs that the era of state subsidy is transitioning to one of competitive self-reliance.</p>
+<p style="text-align: justify;"><strong>Resilience to Protectionism:</strong> When the US imposed a temporary 10% tariff on agricultural goods in April 2025, the sector feared a collapse. However, the diverse web of Free Trade Agreements (22 agreements covering 58 countries) allowed larger SMEs to pivot quickly to Asian and European markets.</p>
+<p style="text-align: justify;">Update: By November 2025, the US had quietly lifted tariffs on key Peruvian perishables (avocados, blueberries) due to domestic supply gaps—a victory for Peru's indispensable position in the off-season food supply chain.</p>
+
+<h3 style="text-align: justify;">The Innovation Nuance: Adaptation Over Invention</h3>
+<p style="text-align: justify;">Is the model perfect? Far from it. The OECD’s 2024 SME Policy Index identifies a glaring "innovation gap." However, this critique requires context. It does not imply a failure to build heavy machinery—an unrealistic goal for a mid-sized economy with a comparative advantage in natural resources. Rather, it highlights a failure in value-addition.</p>
+<p style="text-align: justify;">Peruvian SMEs excel at technology adoption (importing the best equipment) but lag in process adaptation (tailoring that technology to create unique, higher-margin products). They are efficient users of global tools but rarely creators of local IP. This leaves them vulnerable: they compete on price and volume, rather than on the proprietary uniqueness of their goods. The challenge for the next decade is moving from "selling the best fruit" to "selling the best derivative product."</p>
+
+<h3 style="text-align: justify;">The Human Element: Moving Beyond Commodities</h3>
+<p style="text-align: justify;">While mining giants still hold the purse strings of total GDP, SMEs are the heavy lifters of diversification. SMEs now represent roughly 90% of exporting firms and are responsible for 70% of new product introductions.</p>
+<p style="text-align: justify;">Consider Villa Andina, a Cajamarca-based SME. In a region historically dominated by mining conflicts, they aggregated over 500 smallholder families to export organic "goldenberries" (aguaymanto) to Europe. They didn't just sell fruit; they sold a certified, traceable, organic story.</p>
+<p style="text-align: justify;">Or Kero Design, an alpaca knitwear exporter. While Italian cashmere giants dominate luxury, Kero utilised the state-backed "Alpaca del Perú" brand to penetrate the US market with high-fashion, sustainable garments. These firms represent the "missing middle" of the economy—formal, tax-paying, and globally connected.</p>
+
+<h3 style="text-align: justify;">The APEC Connection: The Lima Roadmap</h3>
+<p style="text-align: justify;">The culmination of this decade-long effort was enshrined in the Lima Roadmap, adopted at the APEC 2024 summit. Unlike the lofty, vague declarations often seen at such forums, the Lima Roadmap specifically targets the "transition to the formal economy."</p>
+<p style="text-align: justify;">For Peru, this is existential. With informality hovering near 70%, the roadmap provides a multilateral framework to pull informal micro-enterprises into the export fold via digital literacy and simplified tax regimes. It is not just a document; it is a survival strategy.</p>
+
+<h3 style="text-align: justify;">Bureaucratic Insulation</h3>
+<p style="text-align: justify;">The lesson for emerging markets is clear: You do not need political tranquility to build a robust export sector. You need bureaucratic insulation. By walling off trade facilitation from the daily grind of politics, Peru has built a lifeboat that keeps its SMEs afloat, even when the waters get rough.</p>
+
+```html```
+
