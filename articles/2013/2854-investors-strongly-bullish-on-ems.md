@@ -1,12 +1,21 @@
 ---
 id: 2854
 title: "Investors Strongly Bullish on EMs"
-award_year: 2013
+year: 2013
 published: 2013-01-08 10:58:15
 published_gmt: 2013-01-08 10:58:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/01/investors-strongly-bullish-on-ems/"
 categories: ["Asia Pacific", "Europe", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8a7c081dae9473ea5428e841812b2c5f2bcae737bbcb29953efb8dbdadd7566f
 canonical: 2854-investors-strongly-bullish-on-ems.json
 ---

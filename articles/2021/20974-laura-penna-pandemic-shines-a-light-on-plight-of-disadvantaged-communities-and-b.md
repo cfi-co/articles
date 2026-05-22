@@ -1,12 +1,21 @@
 ---
 id: 20974
 title: "Laura Penna: Pandemic Shines a Light on Plight of Disadvantaged Communities — and Bolsters Social Impact Investment"
-award_year: 2021
+year: 2021
 published: 2021-11-06 16:08:23
 published_gmt: 2021-11-06 16:08:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/laura-penna-pandemic-shines-a-light-on-plight-of-disadvantaged-communities-and-bolsters-social-impact-investment/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 16c046787261350f4585d85d5cbcd5d3657c7ae9e865949a43eb288db0701fb4
 canonical: 20974-laura-penna-pandemic-shines-a-light-on-plight-of-disadvantaged-communities-and-b.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 4530
 title: "Italy: IMF Mission Statement"
-award_year: 2013
+year: 2013
 published: 2013-07-08 13:02:08
 published_gmt: 2013-07-08 12:02:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/07/italy-imf-mission-statement/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 21171f85273e648ac324c44b8eabad0fb247781ec69d24e654dce7d12d551487
 canonical: 4530-italy-imf-mission-statement.json
 ---

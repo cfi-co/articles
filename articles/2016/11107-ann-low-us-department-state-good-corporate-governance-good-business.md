@@ -1,12 +1,21 @@
 ---
 id: 11107
 title: "Ann Low, US Department of State: Good Corporate Governance is Good Business"
-award_year: 2016
+year: 2016
 published: 2016-04-19 15:39:15
 published_gmt: 2016-04-19 14:39:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2016/04/ann-low-us-department-state-good-corporate-governance-good-business/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Legal", "Middle East", "North America", "Oil &amp; Mining", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fde9f23c71eaf3268c8d2bcc80cb448238fff039956cea693b430a468b693132
 canonical: 11107-ann-low-us-department-state-good-corporate-governance-good-business.json
 ---

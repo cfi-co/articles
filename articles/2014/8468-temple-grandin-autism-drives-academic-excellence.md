@@ -1,12 +1,21 @@
 ---
 id: 8468
 title: "Temple Grandin: Autism Drives Academic Excellence"
-award_year: 2014
+year: 2014
 published: 2014-12-02 10:57:36
 published_gmt: 2014-12-02 10:57:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2014/12/temple-grandin-autism-drives-academic-excellence/"
 categories: ["Lifestyle", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fdd23b6fb8763455e673223849e48120afe066da8dfbf557da4a4191b763c968
 canonical: 8468-temple-grandin-autism-drives-academic-excellence.json
 ---

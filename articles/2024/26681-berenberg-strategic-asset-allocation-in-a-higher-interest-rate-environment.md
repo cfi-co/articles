@@ -1,12 +1,21 @@
 ---
 id: 26681
 title: "Berenberg: Strategic Asset Allocation in a Higher Interest Rate Environment"
-award_year: 2024
+year: 2024
 published: 2024-02-19 18:30:54
 published_gmt: 2024-02-19 18:30:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/02/berenberg-strategic-asset-allocation-in-a-higher-interest-rate-environment/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1f0d6c9a47cdd01842801cdae6787ef80400f5c556f6de61a1b2d057f375c517
 canonical: 26681-berenberg-strategic-asset-allocation-in-a-higher-interest-rate-environment.json
 ---

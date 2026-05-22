@@ -1,12 +1,21 @@
 ---
 id: 20398
 title: "Interview with Colin Sharp, C2FO SVP EMEA: Feeding the Engine Room of Economies, Maintaining Diversity, and Ensuring that an Efficient Supply Chain is Rewarded"
-award_year: 2021
+year: 2021
 published: 2021-08-12 16:28:46
 published_gmt: 2021-08-12 15:28:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/interview-with-colin-sharp-c2fo-svp-emea-feeding-the-engine-room-of-economies-maintaining-diversity-and-ensuring-that-an-efficient-supply-chain-is-rewarded/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ad2eac96caa97eedad1a262434b8a871ff87518b74c58079bc91b205121667c3
 canonical: 20398-interview-with-colin-sharp-c2fo-svp-emea-feeding-the-engine-room-of-economies-ma.json
 ---

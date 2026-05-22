@@ -1,12 +1,21 @@
 ---
 id: 7079
 title: "Robert Shiller: Making Sense of the Irrationality of Markets"
-award_year: 2014
+year: 2014
 published: 2014-04-28 09:00:23
 published_gmt: 2014-04-28 08:00:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2014/04/robert-shiller-making-sense-of-the-irrationality-of-markets/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5a1fae2361350440f54b89aecd92fcf13fc6587f649de8f1a5029e33c55f64a1
 canonical: 7079-robert-shiller-making-sense-of-the-irrationality-of-markets.json
 ---

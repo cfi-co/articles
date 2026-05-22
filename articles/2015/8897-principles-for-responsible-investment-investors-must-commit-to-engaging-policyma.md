@@ -1,12 +1,21 @@
 ---
 id: 8897
 title: "Principles for Responsible Investment: Investors Must Commit to Engaging Policymakers"
-award_year: 2015
+year: 2015
 published: 2015-02-06 10:22:59
 published_gmt: 2015-02-06 10:22:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/02/principles-for-responsible-investment-investors-must-commit-to-engaging-policymakers/"
 categories: ["Europe", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 105e2557f79cd5760f13ab79e42370cd67f189160766e8420566c827e04dd344
 canonical: 8897-principles-for-responsible-investment-investors-must-commit-to-engaging-policyma.json
 ---

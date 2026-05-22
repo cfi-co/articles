@@ -1,12 +1,21 @@
 ---
 id: 11857
 title: "Luc van Hecke - CEO of AmsterdamGold Group"
-award_year: 2017
+year: 2017
 published: 2017-09-01 14:57:23
 published_gmt: 2017-09-01 13:57:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/09/luc-van-hecke-ceo-of-amsterdamgold-group/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6a108a4006f4c9220b2cafe3bf6acc99a0f930ebe90e1414f35ec31a8aad2196
 canonical: 11857-luc-van-hecke-ceo-of-amsterdamgold-group.json
 ---

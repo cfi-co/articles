@@ -1,12 +1,21 @@
 ---
 id: 23666
 title: "Africa’s Post-Pandemic Challenges Require Bold and Direct Responses"
-award_year: 2022
+year: 2022
 published: 2022-10-14 10:04:27
 published_gmt: 2022-10-14 09:04:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2022/10/africas-post-pandemic-challenges-require-bold-and-direct-responses/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 880a434c3dd4efd2698d5ef8fb8d39ea87f462e230bce01f2122f3255bd8bdf5
 canonical: 23666-africas-post-pandemic-challenges-require-bold-and-direct-responses.json
 ---

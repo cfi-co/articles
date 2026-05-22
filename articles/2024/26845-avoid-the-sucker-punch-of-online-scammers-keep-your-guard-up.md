@@ -1,12 +1,21 @@
 ---
 id: 26845
 title: "Avoid the Sucker-Punch of Online Scammers — Keep Your Guard Up!"
-award_year: 2024
+year: 2024
 published: 2024-06-06 14:16:18
 published_gmt: 2024-06-06 13:16:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2024/06/avoid-the-sucker-punch-of-online-scammers-keep-your-guard-up/"
 categories: ["Brave New World", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: abd60617ec36141a4a0312c6036f2f640ba094e5cdfaaa164c4c3e5f13fb4ef6
 canonical: 26845-avoid-the-sucker-punch-of-online-scammers-keep-your-guard-up.json
 ---

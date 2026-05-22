@@ -1,12 +1,21 @@
 ---
 id: 9462
 title: "<br>A Touch of Class: Century Properties Group Wins Real Estate Award in the Philippines"
-award_year: 2015
+year: 2015
 published: 2015-02-01 17:00:17
 published_gmt: 2015-02-01 17:00:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bbd444145d7c3de7c90963d5c6ab7846ae4330f5bef2afb19374bcda3fdb88c0
 canonical: 9462-a-touch-of-class-century-properties-group-wins-real-estate-award-in-the-philippi.json
 ---

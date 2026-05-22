@@ -1,12 +1,21 @@
 ---
 id: 18624
 title: "Check Creditworthiness in Seconds: SCHUMANN Has the Tech to Do It"
-award_year: 2021
+year: 2021
 published: 2021-02-04 15:34:58
 published_gmt: 2021-02-04 15:34:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/check-creditworthiness-in-seconds-schumann-has-the-tech-to-do-it/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d009a79ce5db97f9b5c44c09f15fa528de4b34367153a06a9c694ff73957db11
 canonical: 18624-check-creditworthiness-in-seconds-schumann-has-the-tech-to-do-it.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 5242
 title: "Angola: Powering A Booming Economy with Renewables"
-award_year: 2013
+year: 2013
 published: 2013-09-10 15:29:45
 published_gmt: 2013-09-10 14:29:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/09/angola-powering-a-booming-economy-with-renewables/"
 categories: ["Africa", "Oil &amp; Mining", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 861003db3c0addb8f17fe547c2780aa031a366e2a48e66fbdefa300305df6df2
 canonical: 5242-angola-powering-a-booming-economy-with-renewables.json
 ---

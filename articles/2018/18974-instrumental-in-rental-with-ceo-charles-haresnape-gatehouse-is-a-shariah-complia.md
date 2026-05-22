@@ -1,12 +1,21 @@
 ---
 id: 18974
 title: "Instrumental in Rental with CEO Charles Haresnape: Gatehouse is a Shariah-Compliant Bank on the Move"
-award_year: 2018
+year: 2018
 published: 2018-11-04 18:50:04
 published_gmt: 2018-11-04 18:50:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2018/11/instrumental-in-rental-with-ceo-charles-haresnape-gatehouse-is-a-shariah-compliant-bank-on-the-move/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aa7fd1bcd133e0bcce96de9543264eb82266d733f5b3549cb40ac73772fa226c
 canonical: 18974-instrumental-in-rental-with-ceo-charles-haresnape-gatehouse-is-a-shariah-complia.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 121
 title: "BRICS Countries Crystalize Spirit of Practical Cooperation at Delhi Summit"
-award_year: 2011
+year: 2011
 published: 2011-11-04 11:48:11
 published_gmt: 2011-11-04 11:48:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2011/11/brics-countries-crystalize-spirit-of-practical-cooperation-at-delhi-summit/"
 categories: ["Africa", "Asia Pacific", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 973f7b084f86033e66555a768efe45dce85cd2e1337ac2f9e59d4ec20f2af858
 canonical: 121-brics-countries-crystalize-spirit-of-practical-cooperation-at-delhi-summit.json
 ---

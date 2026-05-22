@@ -1,12 +1,21 @@
 ---
 id: 25651
 title: "A Challenger with its Head and Heart in the Cloud has Dropped Latency to Mere Microseconds"
-award_year: 2023
+year: 2023
 published: 2023-06-23 14:11:52
 published_gmt: 2023-06-23 13:11:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2023/06/aquis-exchange-ultra-low-latency-cloud-24-7-matching-engine/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7f553a4fc71cab0c8711e31d5a5444628d3f4702fb13a3a60e984a39ea19d64f
 canonical: 25651-aquis-exchange-ultra-low-latency-cloud-24-7-matching-engine.json
 ---

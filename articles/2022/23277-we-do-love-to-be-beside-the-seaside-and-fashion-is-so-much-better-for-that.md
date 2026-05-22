@@ -1,12 +1,21 @@
 ---
 id: 23277
 title: "We Do Love to be Beside the Seaside, and Fashion is So Much Better For That"
-award_year: 2022
+year: 2022
 published: 2022-09-06 08:14:28
 published_gmt: 2022-09-06 07:14:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2022/09/we-do-love-to-be-beside-the-seaside-and-fashion-is-so-much-better-for-that/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4fed701b780ec624bdfe6dbc5211eb487394a311a9b3b2e905cf25c0833c47a7
 canonical: 23277-we-do-love-to-be-beside-the-seaside-and-fashion-is-so-much-better-for-that.json
 ---

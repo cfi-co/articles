@@ -1,12 +1,21 @@
 ---
 id: 3233
 title: "Hugging Hero is Embracing the World"
-award_year: 2013
+year: 2013
 published: 2013-03-08 13:48:22
 published_gmt: 2013-03-08 13:48:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/03/hugging-hero-is-embracing-the-world/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dd977e077dedb1bb04a3806cb3e3ddd65159b60f9af41c6f5121307d50a9d189
 canonical: 3233-hugging-hero-is-embracing-the-world.json
 ---

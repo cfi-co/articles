@@ -1,12 +1,21 @@
 ---
 id: 6415
 title: "IFC Champions Water Efficiency in China’s Textile Industry"
-award_year: 2014
+year: 2014
 published: 2014-01-29 17:07:52
 published_gmt: 2014-01-29 17:07:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/01/ifc-champions-water-efficiency-in-chinas-textile-industry/"
 categories: ["Asia Pacific", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1411655ff725f52531fc1a60967918c49315923ae3cd13b72b57e1818438e2e4
 canonical: 6415-ifc-champions-water-efficiency-in-chinas-textile-industry.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 25501
 title: "Business Leaders Find Alternatives to Pay Increases in Cost-of-Living Battle"
-award_year: 2023
+year: 2023
 published: 2023-05-23 11:36:04
 published_gmt: 2023-05-23 10:36:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2023/05/business-leaders-find-alternatives-to-pay-increases-in-cost-of-living-battle/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c33f4c7aa8f1ffcf10bee0a2e04a62213f8976efbd1020662980ef2f37f87802
 canonical: 25501-business-leaders-find-alternatives-to-pay-increases-in-cost-of-living-battle.json
 ---

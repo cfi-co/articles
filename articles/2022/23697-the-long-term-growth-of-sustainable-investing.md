@@ -1,12 +1,21 @@
 ---
 id: 23697
 title: "The Long-term Growth of Sustainable Investing"
-award_year: 2022
+year: 2022
 published: 2022-10-31 11:02:19
 published_gmt: 2022-10-31 11:02:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2022/10/the-long-term-growth-of-sustainable-investing/"
 categories: ["Brave New World", "CSR", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 94a8e398f6070cedbc65c2a9816e161f87c745d64285812c20cc3dce0aa67002
 canonical: 23697-the-long-term-growth-of-sustainable-investing.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 23356
 title: "Société Générale Congo: Innovation in Congo Puts Societe Generale in Leadership Position"
-award_year: 2022
+year: 2022
 published: 2022-04-07 16:22:00
 published_gmt: 2022-04-07 15:22:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/04/societe-generale-congo-innovation-in-congo-puts-societe-generale-in-leadership-position/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4edd69e9eddfc45e1505d1d57c969d2ca65e7d01ec1824aa92e2f4a1a3806635
 canonical: 23356-societe-generale-congo-innovation-in-congo-puts-societe-generale-in-leadership-p.json
 ---

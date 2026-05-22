@@ -1,12 +1,21 @@
 ---
 id: 10209
 title: "TD: Making the Environment Part of the Bank’s DNA"
-award_year: 2015
+year: 2015
 published: 2015-08-14 11:38:30
 published_gmt: 2015-08-14 10:38:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2015/08/td-making-the-environment-part-of-the-banks-dna/"
 categories: ["Banking", "CSR", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 38fff6426e9f3b4f2f802f6d4fce87f3a87782de8eaaec6c17dd2bf026fda598
 canonical: 10209-td-making-the-environment-part-of-the-banks-dna.json
 ---

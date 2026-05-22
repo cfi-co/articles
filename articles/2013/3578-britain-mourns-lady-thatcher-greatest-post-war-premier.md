@@ -1,12 +1,21 @@
 ---
 id: 3578
 title: "Britain Mourns Lady Thatcher: Greatest Post-War Premier"
-award_year: 2013
+year: 2013
 published: 2013-04-08 14:05:15
 published_gmt: 2013-04-08 13:05:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/04/britain-mourns-lady-thatcher-greatest-post-war-premier/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b7396c2ea566fed3720bef9303cdd7c9aeb7269d11d2a2eb252d8deaf44ee945
 canonical: 3578-britain-mourns-lady-thatcher-greatest-post-war-premier.json
 ---

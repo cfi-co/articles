@@ -1,12 +1,21 @@
 ---
 id: 26922
 title: "Samarkand: History, Culture, and the Jewel of the ‘New Uzbekistan’"
-award_year: 2024
+year: 2024
 published: 2024-07-19 14:26:27
 published_gmt: 2024-07-19 13:26:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2024/07/samarkand-history-culture-and-the-jewel-of-the-new-uzbekistan/"
 categories: ["Asia Pacific", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 28a764b32899da311365b1f872bc6de05a2e4bd8986ec4745a4037669dd9c35f
 canonical: 26922-samarkand-history-culture-and-the-jewel-of-the-new-uzbekistan.json
 ---

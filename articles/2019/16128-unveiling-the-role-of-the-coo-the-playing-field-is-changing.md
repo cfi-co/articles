@@ -1,12 +1,21 @@
 ---
 id: 16128
 title: "Unveiling the Role of the COO: The Playing Field is Changing"
-award_year: 2019
+year: 2019
 published: 2019-09-03 13:24:02
 published_gmt: 2019-09-03 12:24:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2019/09/unveiling-the-role-of-the-coo-the-playing-field-is-changing/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 54041cf7420c1b592960f391bb9d66cbc4b58bfb729ce99aaecc10abc5e9a44d
 canonical: 16128-unveiling-the-role-of-the-coo-the-playing-field-is-changing.json
 ---

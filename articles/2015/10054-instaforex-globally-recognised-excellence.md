@@ -1,12 +1,21 @@
 ---
 id: 10054
 title: "InstaForex: Globally-Recognised Excellence"
-award_year: 2015
+year: 2015
 published: 2015-06-12 11:52:48
 published_gmt: 2015-06-12 10:52:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2015/06/instaforex-globally-recognised-excellence/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f37d4893f77f2ac3b85719d3559711a14329566a21893dcfa9dc6cfaddaa8908
 canonical: 10054-instaforex-globally-recognised-excellence.json
 ---

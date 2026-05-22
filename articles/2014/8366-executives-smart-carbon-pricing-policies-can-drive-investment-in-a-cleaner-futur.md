@@ -1,12 +1,21 @@
 ---
 id: 8366
 title: "Executives: Smart Carbon Pricing Policies Can Drive Investment in a Cleaner Future"
-award_year: 2014
+year: 2014
 published: 2014-11-10 14:32:56
 published_gmt: 2014-11-10 14:32:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/11/executives-smart-carbon-pricing-policies-can-drive-investment-in-a-cleaner-future/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 58f4e9eb639dc5a57c69ba789715765a173dbc6ce50c083ac3248ad3c26b3f88
 canonical: 8366-executives-smart-carbon-pricing-policies-can-drive-investment-in-a-cleaner-futur.json
 ---

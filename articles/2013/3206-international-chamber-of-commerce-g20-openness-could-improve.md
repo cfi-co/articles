@@ -1,12 +1,21 @@
 ---
 id: 3206
 title: "International Chamber of Commerce: G20 Openness Could Improve"
-award_year: 2013
+year: 2013
 published: 2013-03-07 13:38:10
 published_gmt: 2013-03-07 13:38:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/03/international-chamber-of-commerce-g20-openness-could-improve/"
 categories: ["Africa", "Asia Pacific", "Europe", "Latin America", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ea5b61d8159dc8aa32e7bd0521a4382638571f8e8d7c1d7f4d41f5208b140675
 canonical: 3206-international-chamber-of-commerce-g20-openness-could-improve.json
 ---

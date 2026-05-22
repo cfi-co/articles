@@ -1,12 +1,21 @@
 ---
 id: 25172
 title: "Invest Africa:   Six Reasons to Choose Ghana"
-award_year: 2023
+year: 2023
 published: 2023-04-24 17:21:21
 published_gmt: 2023-04-24 16:21:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2023/04/yofi-grant-gipc-invest-africa"
 categories: ["Africa", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 233311ad320b4b29b2ff8928823612a4b9d142396ff90448181d671bd5189187
 canonical: 25172-yofi-grant.json
 ---

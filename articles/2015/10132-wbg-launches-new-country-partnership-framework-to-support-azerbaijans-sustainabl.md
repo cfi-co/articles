@@ -1,12 +1,21 @@
 ---
 id: 10132
 title: "WGB Launches New Country Partnership Framework to Support Azerbaijan’s Sustainable, Inclusive and Resilient Growth"
-award_year: 2015
+year: 2015
 published: 2015-07-22 12:49:11
 published_gmt: 2015-07-22 11:49:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/07/wbg-launches-new-country-partnership-framework-to-support-azerbaijans-sustainable-inclusive-and-resilient-growth/"
 categories: ["Asia Pacific", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 15fa8c26df7429e1837042e899f43377ff5df0545c2112a113a14190f3af65b7
 canonical: 10132-wbg-launches-new-country-partnership-framework-to-support-azerbaijans-sustainabl.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 11485
 title: "Davos: Growing Awareness of Growing Unease"
-award_year: 2017
+year: 2017
 published: 2017-01-20 13:23:07
 published_gmt: 2017-01-20 13:23:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2017/01/davos-growing-awareness-of-growing-unease/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8005373dfb9f83fa399b2ac61ca2062384ede7c1fad51ee3b74c8e01e62e4c6a
 canonical: 11485-davos-growing-awareness-of-growing-unease.json
 ---

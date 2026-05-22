@@ -1,12 +1,21 @@
 ---
 id: 27785
 title: "NBG Securities: Redefining Investment Services with a Vision for Growth"
-award_year: 2025
+year: 2025
 published: 2025-07-04 13:23:01
 published_gmt: 2025-07-04 12:23:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2025/07/nbg-securities-redefining-investment-services-with-a-vision-for-growth/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b07ba1c2219af396bde8c771522f5c0e6a04a126f2563f7f809c4dac2704a388
 canonical: 27785-nbg-securities-redefining-investment-services-with-a-vision-for-growth.json
 ---

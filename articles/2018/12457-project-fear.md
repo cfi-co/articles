@@ -1,12 +1,21 @@
 ---
 id: 12457
 title: "Project Fear"
-award_year: 2018
+year: 2018
 published: 2018-05-01 13:07:32
 published_gmt: 2018-05-01 12:07:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/brexit-notes/2018/05/project-fear/"
 categories: ["Brexit Notes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4bb92389585eb73541e205db047c0a616467f57641f3623db1c852d50c3824f3
 canonical: 12457-project-fear.json
 ---

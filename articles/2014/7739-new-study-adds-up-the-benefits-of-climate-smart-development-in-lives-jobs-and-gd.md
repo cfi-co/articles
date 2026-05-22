@@ -1,12 +1,21 @@
 ---
 id: 7739
 title: "New Study Adds Up the Benefits of Climate-Smart Development in Lives, Jobs, and GDP"
-award_year: 2014
+year: 2014
 published: 2014-08-04 11:34:51
 published_gmt: 2014-08-04 10:34:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2014/08/new-study-adds-up-the-benefits-of-climate-smart-development-in-lives-jobs-and-gdp/"
 categories: ["Latin America", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bb462a0175671f55f5bba681fbbbd42f04a68818756892280d215dee68739225
 canonical: 7739-new-study-adds-up-the-benefits-of-climate-smart-development-in-lives-jobs-and-gd.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 5060
 title: "Assaulting Freedom to Protect Freedom: UK Government Gets Tough on Press"
-award_year: 2013
+year: 2013
 published: 2013-08-21 11:21:29
 published_gmt: 2013-08-21 10:21:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/08/assaulting-freedom-to-protect-freedom-uk-government-gets-tough-on-press/"
 categories: ["Europe", "Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cc3b26885ca71ea54001b81c37189ed047897869cafcccd0bdb25abac6fe4aef
 canonical: 5060-assaulting-freedom-to-protect-freedom-uk-government-gets-tough-on-press.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 23822
 title: "Mortgages Agreed Within Seconds? This Banker Vaults Digital Frontiers"
-award_year: 2022
+year: 2022
 published: 2022-11-02 09:01:30
 published_gmt: 2022-11-02 09:01:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2022/11/johan-thijs-mortgages-agreed-within-seconds-this-banker-vaults-digital-frontiers/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c55baeffa1465c5b63bec1c0fec567def5bd6c79adeb1ca4077402609d317205
 canonical: 23822-mortgages-agreed-within-seconds-this-banker-vaults-digital-frontiers.json
 ---

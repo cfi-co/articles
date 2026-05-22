@@ -1,12 +1,21 @@
 ---
 id: 15234
 title: "When Even Warren Buffett Is Clueless"
-award_year: 2020
+year: 2020
 published: 2020-05-04 15:47:11
 published_gmt: 2020-05-04 14:47:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/05/when-even-warren-buffett-is-clueless/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 66f21fab27b44cc667839b0deb8435a9f0e64cb7af99edc67d93e48af1c24da2
 canonical: 15234-when-even-warren-buffett-is-clueless.json
 ---

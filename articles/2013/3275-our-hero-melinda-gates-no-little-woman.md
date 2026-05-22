@@ -1,12 +1,21 @@
 ---
 id: 3275
 title: "Our Hero Melinda Gates: No Little Woman"
-award_year: 2013
+year: 2013
 published: 2013-03-13 17:07:21
 published_gmt: 2013-03-13 17:07:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/03/our-hero-melinda-gates-no-little-woman/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ed5e9bdf1d84241a8dcb9ba9b916d036f07cebe8451d632aad8120b4d98e6d13
 canonical: 3275-our-hero-melinda-gates-no-little-woman.json
 ---

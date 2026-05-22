@@ -1,12 +1,21 @@
 ---
 id: 23779
 title: "Thai Life’s Immodest Aim: To be the Best (and Most Sustainable) Company in the Insurance Sector"
-award_year: 2022
+year: 2022
 published: 2022-10-28 14:03:10
 published_gmt: 2022-10-28 13:03:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/10/thai-lifes-immodest-aim-to-be-the-best-and-most-sustainable-company-in-the-insurance-sector/"
 categories: ["Asia Pacific", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5f6186e7047e342fee88ecee898e8530d1ee1d4cc14c17ccc7416a65bae4bee4
 canonical: 23779-thai-lifes-immodest-aim-to-be-the-best-and-most-sustainable-company-in-the-insur.json
 ---

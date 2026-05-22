@@ -1,12 +1,21 @@
 ---
 id: 20543
 title: "Mahendra Singh Dhoni: Captain Cool Meets his Younger Self to Pass on Business Tips"
-award_year: 2021
+year: 2021
 published: 2021-09-07 06:44:43
 published_gmt: 2021-09-07 05:44:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/editors-10/2021/09/mahendra-singh-dhoni-captain-cool-meets-his-younger-self-to-pass-on-business-tips/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a180aeb256e9d1910742168fe044e1f4019a638647fe370abb32c38141ff177d
 canonical: 20543-mahendra-singh-dhoni-captain-cool-meets-his-younger-self-to-pass-on-business-tip.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 19852
 title: "Jamie Smith: Champion of Tech that Keeps Crypto Functioning was Once in the Doubters’ Camp Herself"
-award_year: 2021
+year: 2021
 published: 2021-06-15 15:18:57
 published_gmt: 2021-06-15 14:18:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2021/06/jamie-smith-champion-of-tech-that-keeps-crypto-functioning-was-once-in-the-doubters-camp-herself/"
 categories: ["Innovation &amp; Technology", "North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e037d7ab2f5464f2abaefd998c26653bf466debc607f6e9851ab7ec6b972ea75
 canonical: 19852-jamie-smith-champion-of-tech-that-keeps-crypto-functioning-was-once-in-the-doubt.json
 ---

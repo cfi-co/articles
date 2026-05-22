@@ -1,12 +1,21 @@
 ---
 id: 26794
 title: "Recycling Plastic: Is it Working, and are we Doing Enough…?"
-award_year: 2024
+year: 2024
 published: 2024-05-06 12:02:26
 published_gmt: 2024-05-06 11:02:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2024/05/recycling-plastic-is-it-working-and-are-we-doing-enough/"
 categories: ["Brave New World", "Europe", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2a7d2dd9c9f0cd12ccc2bbd9a97d9c2023137a9a088a1bff8e4951f774d60eac
 canonical: 26794-recycling-plastic-is-it-working-and-are-we-doing-enough.json
 ---

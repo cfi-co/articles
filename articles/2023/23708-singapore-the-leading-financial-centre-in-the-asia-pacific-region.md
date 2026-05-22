@@ -1,12 +1,21 @@
 ---
 id: 23708
 title: "Singapore — the leading financial centre in the Asia-Pacific region"
-award_year: 2023
+year: 2023
 published: 2023-01-04 12:19:18
 published_gmt: 2023-01-04 12:19:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2023/01/singapore-the-leading-financial-centre-in-the-asia-pacific-region/"
 categories: ["Asia Pacific", "Banking &amp; Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 72244bb74754787e5d44c8581207cf34c1a44357cfaf5c582c8175061cb4f622
 canonical: 23708-singapore-the-leading-financial-centre-in-the-asia-pacific-region.json
 ---

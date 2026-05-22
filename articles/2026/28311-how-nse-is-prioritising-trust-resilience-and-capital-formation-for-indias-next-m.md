@@ -1,12 +1,22 @@
 ---
 id: 28311
 title: "Leading The Next Cycle: NSE’s Trust-First Agenda For India’s Capital Markets"
-award_year: 2026
+year: 2026
 published: 2026-03-10 09:00:54
 published_gmt: 2026-03-10 09:00:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2026/02/leading-the-next-cycle-nses-trust-first-agenda-for-indias-capital-markets"
 categories: ["Asia Pacific", "Finance", "Markets"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "NSE"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5ecde860602b7ae734a5be1044f1ec7e0398cb07b07d687680b964661fff563c
 canonical: 28311-how-nse-is-prioritising-trust-resilience-and-capital-formation-for-indias-next-m.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 13568
 title: "Otaviano Canuto, Center for Macroeconomics and Development: China’s Rebalancing Act is Slowly Addressing Sliding Growth Figures"
-award_year: 2019
+year: 2019
 published: 2019-05-14 12:13:50
 published_gmt: 2019-05-14 11:13:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2019/05/otaviano-canuto-center-for-macroeconomics-and-development-chinas-rebalancing-act-is-slowly-addressing-sliding-growth-figures/"
 categories: ["Asia Pacific", "Economics &amp; Convergence", "Finance", "Multilaterals"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 72e79907f6784eee191168d4dd54dfbc67dc389b205deb70e20c35bfc856060a
 canonical: 13568-otaviano-canuto-center-for-macroeconomics-and-development-chinas-rebalancing-act.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 19705
 title: "LGX Hits 1,000 Sustainable Bonds Mark"
-award_year: 2021
+year: 2021
 published: 2021-05-18 16:55:54
 published_gmt: 2021-05-18 15:55:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2021/05/lgx-hits-1000-sustainable-bonds-mark/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 275d41316663f0634b21c0e59c28ff5a297ceba331e78c44cd616666ad47ca0b
 canonical: 19705-lgx-hits-1000-sustainable-bonds-mark.json
 ---

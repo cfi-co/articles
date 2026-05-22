@@ -1,12 +1,21 @@
 ---
 id: 15421
 title: "Recession or Depression: Nadir Has Passed, Recovery Delayed"
-award_year: 2020
+year: 2020
 published: 2020-05-21 15:24:40
 published_gmt: 2020-05-21 14:24:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/05/recession-or-depression-nadir-has-passed-recovery-delayed/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: da9e5cf506acc347c68bee6f59596a1872e49099da7175874213c92691640bb3
 canonical: 15421-recession-or-depression-nadir-has-passed-recovery-delayed.json
 ---

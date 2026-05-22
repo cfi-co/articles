@@ -1,12 +1,21 @@
 ---
 id: 2542
 title: "UN Security Council Urges Wider Role for Women’s Groups in Peace Efforts"
-award_year: 2012
+year: 2012
 published: 2012-11-13 16:43:21
 published_gmt: 2012-11-13 16:43:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/11/un-security-council-urges-wider-role-for-womens-groups-in-peace-efforts/"
 categories: ["Africa", "Asia Pacific", "Europe", "Latin America", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f459a2a228b732fb983aa5bc877d4c9be5bebb5a487c8051eb4256cd85176f80
 canonical: 2542-un-security-council-urges-wider-role-for-womens-groups-in-peace-efforts.json
 ---

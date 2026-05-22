@@ -1,12 +1,21 @@
 ---
 id: 5255
 title: "The War on Tax Evasion: How a Good Pursuit Gets Ugly"
-award_year: 2013
+year: 2013
 published: 2013-09-12 09:54:51
 published_gmt: 2013-09-12 08:54:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/09/the-war-on-tax-evasion-how-a-good-pursuit-gets-ugly/"
 categories: ["Europe", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5df8b25c06cd18b8a74bdb50eb273c5605f91f8936fadfcbd95f73d1cb814ed7
 canonical: 5255-the-war-on-tax-evasion-how-a-good-pursuit-gets-ugly.json
 ---

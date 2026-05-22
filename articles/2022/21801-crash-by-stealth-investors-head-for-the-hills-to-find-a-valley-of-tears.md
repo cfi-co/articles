@@ -1,12 +1,21 @@
 ---
 id: 21801
 title: "Crash by Stealth: Investors Head for the Hills to Find a Valley of Tears"
-award_year: 2022
+year: 2022
 published: 2022-05-10 11:46:59
 published_gmt: 2022-05-10 10:46:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/05/crash-by-stealth-investors-head-for-the-hills-to-find-a-valley-of-tears/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 98237f19ffe8c87ec8c154831429817b9052c46ffd0d3a85e48c4129e74ebe49
 canonical: 21801-crash-by-stealth-investors-head-for-the-hills-to-find-a-valley-of-tears.json
 ---

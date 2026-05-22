@@ -1,12 +1,21 @@
 ---
 id: 6386
 title: "Ross Jackson: The EU as a Green Powerhouse -  A Green Opportunity"
-award_year: 2014
+year: 2014
 published: 2014-01-22 11:25:44
 published_gmt: 2014-01-22 11:25:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/01/ross-jackson-the-eu-as-a-green-powerhouse-a-green-opportunity/"
 categories: ["Europe", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3b96ee629ec18d44e9dd2b8c63d378f21ef3a42a7c2d1e4cc8f5a13f14be3834
 canonical: 6386-ross-jackson-the-eu-as-a-green-powerhouse-a-green-opportunity.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8403
 title: "PwC Nigeria: Business Reorganisation in Nigeria - Key Tax Considerations"
-award_year: 2014
+year: 2014
 published: 2014-11-18 10:50:13
 published_gmt: 2014-11-18 10:50:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/11/pwc-nigeria-business-reorganisation-in-nigeria-key-tax-considerations/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6095c198459e13929cc8b5536e03a83ea35ef17c1d691065f9781acee85302a3
 canonical: 8403-pwc-nigeria-business-reorganisation-in-nigeria-key-tax-considerations.json
 ---

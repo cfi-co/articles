@@ -1,12 +1,21 @@
 ---
 id: 19953
 title: "Linklease: Bridging the Funding Gap with Innovation – and a Good Eye for Unnoticed Opportunities"
-award_year: 2021
+year: 2021
 published: 2021-07-13 12:42:17
 published_gmt: 2021-07-13 11:42:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/linklease-bridging-the-funding-gap-with-innovation-and-a-good-eye-for-unnoticed-opportunities/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: be4b5bad085b5fde6a137995030d50d8e7939689327e472a53cb81a02a70f7f3
 canonical: 19953-linklease-bridging-the-funding-gap-with-innovation-and-a-good-eye-for-unnoticed-.json
 ---

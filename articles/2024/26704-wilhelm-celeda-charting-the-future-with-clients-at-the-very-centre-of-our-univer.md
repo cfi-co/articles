@@ -1,12 +1,21 @@
 ---
 id: 26704
 title: "Wilhelm Celeda: Charting the Future — with Clients at the Very Centre of Our Universe"
-award_year: 2024
+year: 2024
 published: 2024-02-27 12:20:59
 published_gmt: 2024-02-27 12:20:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/02/wilhelm-celeda-charting-the-future-with-clients-at-the-very-centre-of-our-universe/"
 categories: ["Banking", "CFI.co Meets", "Corporate Leaders", "Europe"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eb68f7091dea872a452a52e2171871c58dbdbbf841b234c5447dcc7c19ecc2b1
 canonical: 26704-wilhelm-celeda-charting-the-future-with-clients-at-the-very-centre-of-our-univer.json
 ---

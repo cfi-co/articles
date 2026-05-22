@@ -1,12 +1,21 @@
 ---
 id: 27073
 title: "Accenture: The Evolving Role of CEOs in Mitigating Cybersecurity Threats"
-award_year: 2024
+year: 2024
 published: 2024-08-28 11:21:08
 published_gmt: 2024-08-28 10:21:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2024/08/accenture-the-evolving-role-of-ceos-in-mitigating-cybersecurity-threats/"
 categories: ["Innovation &amp; Technology", "Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eee401bfcbb05e92f056ef553a2ad6e142eb01683050af1444fe9879d8799163
 canonical: 27073-accenture-the-evolving-role-of-ceos-in-mitigating-cybersecurity-threats.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 15477
 title: "A Question of Balance Finds Fine Solution with Fiduciaria Central"
-award_year: 2020
+year: 2020
 published: 2020-05-28 10:24:51
 published_gmt: 2020-05-28 09:24:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2020/05/a-question-of-balance-finds-fine-solution-with-fiduciaria-central/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a26fa45211b655252c9f541792d233b168d871e8912309c5b47508567ae16ade
 canonical: 15477-a-question-of-balance-finds-fine-solution-with-fiduciaria-central.json
 ---

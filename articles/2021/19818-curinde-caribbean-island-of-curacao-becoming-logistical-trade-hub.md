@@ -1,12 +1,21 @@
 ---
 id: 19818
 title: "Curinde: Caribbean Island of Curaçao Becoming Logistical Trade Hub"
-award_year: 2021
+year: 2021
 published: 2021-06-11 11:42:55
 published_gmt: 2021-06-11 10:42:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/06/curinde-caribbean-island-of-curacao-becoming-logistical-trade-hub/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ff2571036a0980cb4b35df21a7c52d3771826fe979eb6f1fefae81fb6392f553
 canonical: 19818-curinde-caribbean-island-of-curacao-becoming-logistical-trade-hub.json
 ---

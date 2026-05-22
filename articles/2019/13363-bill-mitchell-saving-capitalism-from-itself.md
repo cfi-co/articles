@@ -1,12 +1,21 @@
 ---
 id: 13363
 title: "Bill Mitchell: Saving Capitalism from Itself"
-award_year: 2019
+year: 2019
 published: 2019-01-16 13:30:12
 published_gmt: 2019-01-16 13:30:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2019/01/bill-mitchell-saving-capitalism-from-itself/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0e3ede4b6ba0e72b144f6dc7b7aba71620e7ca829c5ceb6aec0f20c557cd787f
 canonical: 13363-bill-mitchell-saving-capitalism-from-itself.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 18944
 title: "SASB CEO Janine Guillot: Following Personal Passions Into the World of Sustainability"
-award_year: 2021
+year: 2021
 published: 2021-03-04 12:23:35
 published_gmt: 2021-03-04 12:23:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2021/03/sasb-ceo-janine-guillot-following-personal-passions-into-the-world-of-sustainability/"
 categories: ["Heroes", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eca0e9a1a4b72ee860beeee964fb20dfbc8ac8a39cc75950508716d59a544d35
 canonical: 18944-sasb-ceo-janine-guillot-following-personal-passions-into-the-world-of-sustainabi.json
 ---

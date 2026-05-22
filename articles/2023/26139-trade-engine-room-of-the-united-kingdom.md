@@ -1,12 +1,21 @@
 ---
 id: 26139
 title: "Trade: Engine Room of the United Kingdom"
-award_year: 2023
+year: 2023
 published: 2023-10-09 12:53:22
 published_gmt: 2023-10-09 11:53:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/10/trade-engine-room-of-the-united-kingdom/"
 categories: ["Columnists", "Europe"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5c4c4cbccd40df0b92f76b530021dbdbce495160ac7556bf2476267dc07a0af5
 canonical: 26139-trade-engine-room-of-the-united-kingdom.json
 ---

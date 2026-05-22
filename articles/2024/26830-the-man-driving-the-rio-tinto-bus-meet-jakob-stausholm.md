@@ -1,12 +1,21 @@
 ---
 id: 26830
 title: "The Man Driving the Rio Tinto Bus: Meet Jakob Stausholm"
-award_year: 2024
+year: 2024
 published: 2024-05-29 11:13:09
 published_gmt: 2024-05-29 10:13:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2024/05/the-man-driving-the-rio-tinto-bus-meet-jakob-stausholm/"
 categories: ["Africa", "CFI.co Meets", "Corporate", "Oil &amp; Mining", "Portraits", "Projects", "Sustainability"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9e27f4eb2c707eeeebe43d87fb15ea4700b659f39b24f75e34841817dae50994
 canonical: 26830-the-man-driving-the-rio-tinto-bus-meet-jakob-stausholm.json
 ---

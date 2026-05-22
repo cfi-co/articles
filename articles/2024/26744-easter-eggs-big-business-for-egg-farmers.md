@@ -1,12 +1,21 @@
 ---
 id: 26744
 title: "Easter Eggs - Big Business for Egg Farmers?"
-award_year: 2024
+year: 2024
 published: 2024-03-28 14:46:40
 published_gmt: 2024-03-28 14:46:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2024/03/easter-eggs-big-business-for-egg-farmers/"
 categories: ["Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6af1b6f0f49c4d36538d6628ee4e3dca64cf0d586940afae48e12643e511e3c6
 canonical: 26744-easter-eggs-big-business-for-egg-farmers.json
 ---

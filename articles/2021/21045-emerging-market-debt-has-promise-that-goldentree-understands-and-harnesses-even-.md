@@ -1,12 +1,21 @@
 ---
 id: 21045
 title: "Emerging Market Debt Has Promise that GoldenTree Understands and Harnesses — Even In Trying Times"
-award_year: 2021
+year: 2021
 published: 2021-11-09 16:51:29
 published_gmt: 2021-11-09 16:51:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/emerging-market-debt-has-promise-that-goldentree-understands-and-harnesses-even-in-trying-times/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 34b6b81fad6d9e51bc3cf3b510b455dbf7e5de11affb00764a47dc572d99ced4
 canonical: 21045-emerging-market-debt-has-promise-that-goldentree-understands-and-harnesses-even-.json
 ---

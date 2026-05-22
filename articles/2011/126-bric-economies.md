@@ -1,12 +1,21 @@
 ---
 id: 126
 title: "BRIC Economies"
-award_year: 2011
+year: 2011
 published: 2011-12-02 13:50:26
 published_gmt: 2011-12-02 13:50:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2011/12/bric-economies/"
 categories: ["Africa", "Asia Pacific", "Banking", "Finance", "Latin America", "Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a024081b66fcd45c95c86f13fdfb055ad0d37545428de744d592a5feb930be2b
 canonical: 126-bric-economies.json
 ---

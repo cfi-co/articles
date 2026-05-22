@@ -1,12 +1,21 @@
 ---
 id: 7973
 title: "Elon Musk: A Man on a Mission"
-award_year: 2014
+year: 2014
 published: 2014-09-05 11:35:15
 published_gmt: 2014-09-05 10:35:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2014/09/elon-musk-a-man-on-a-mission/"
 categories: ["North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a2de23c13b8a36d98e5c8a9a237f97ae954de37cfc7faae514f1f34171f40a93
 canonical: 7973-elon-musk-a-man-on-a-mission.json
 ---

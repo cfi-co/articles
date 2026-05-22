@@ -1,12 +1,21 @@
 ---
 id: 18097
 title: "How the Super-rich Will Be Spending Their Money as Wealth Trends Fluctuate"
-award_year: 2020
+year: 2020
 published: 2020-11-26 12:02:22
 published_gmt: 2020-11-26 12:02:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2020/11/how-the-super-rich-will-be-spending-their-money-as-wealth-trends-fluctuate/"
 categories: ["Africa", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e01a0d73db6233feb90af337bd780bee2f9a004a2210ac114059dbb624120014
 canonical: 18097-how-the-super-rich-will-be-spending-their-money-as-wealth-trends-fluctuate.json
 ---

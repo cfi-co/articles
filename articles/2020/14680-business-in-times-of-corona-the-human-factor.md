@@ -1,12 +1,21 @@
 ---
 id: 14680
 title: "Business in Times of Corona: The Human Factor"
-award_year: 2020
+year: 2020
 published: 2020-03-19 17:37:27
 published_gmt: 2020-03-19 17:37:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2020/03/business-in-times-of-corona-the-human-factor/"
 categories: ["Sustainability", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a0cd5232213be3b7f6a83ce6c21f87c0b8644ce892e3ef388f2edc80814d17e3
 canonical: 14680-business-in-times-of-corona-the-human-factor.json
 ---

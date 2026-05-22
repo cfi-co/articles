@@ -1,12 +1,21 @@
 ---
 id: 4689
 title: "Ibukun Awosika: An Inspiration to Nigerian Entrepreneurs"
-award_year: 2013
+year: 2013
 published: 2013-07-31 14:16:31
 published_gmt: 2013-07-31 13:16:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/07/ibukun-awosika-an-inspiration-to-nigerian-entrepreneurs/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bffa031aed51aae5ec4a145f1f6fcc256708f75303f8f0e641cf6577579eed1e
 canonical: 4689-ibukun-awosika-an-inspiration-to-nigerian-entrepreneurs.json
 ---

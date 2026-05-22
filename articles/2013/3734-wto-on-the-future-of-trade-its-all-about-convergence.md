@@ -1,12 +1,21 @@
 ---
 id: 3734
 title: "WTO on the Future of Trade: It’s All about Convergence"
-award_year: 2013
+year: 2013
 published: 2013-04-25 10:02:47
 published_gmt: 2013-04-25 10:02:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/04/wto-on-the-future-of-trade-its-all-about-convergence/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eaf7051de53bcbaa4b7834a92244d6b47f27ba25ae2f65f81d22187462a459ff
 canonical: 3734-wto-on-the-future-of-trade-its-all-about-convergence.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 7309
 title: "CFI.co Meets the Chairman of Farazad, Investments, Inc.: Korosh Farazad"
-award_year: 2014
+year: 2014
 published: 2014-03-01 18:53:36
 published_gmt: 2014-03-01 18:53:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/03/cfi-co-meets-the-chairman-of-farazad-investments-inc-korosh-farazad/"
 categories: ["Corporate Leaders", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dabe47e78f423deb12bfe5b4e333ceaec189ae9370ad14c99ae3045addc52c1b
 canonical: 7309-cfi-co-meets-the-chairman-of-farazad-investments-inc-korosh-farazad.json
 ---

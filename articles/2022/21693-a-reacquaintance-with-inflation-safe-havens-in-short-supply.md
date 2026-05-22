@@ -1,12 +1,21 @@
 ---
 id: 21693
 title: "A Reacquaintance with Inflation: Safe Havens in Short Supply"
-award_year: 2022
+year: 2022
 published: 2022-04-06 14:28:46
 published_gmt: 2022-04-06 13:28:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/04/a-reacquaintance-with-inflation-safe-havens-in-short-supply/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ca1f0771acb5dd8a1eaa85a6f93eb7509b0a556e85f9def01620562b8a44ff69
 canonical: 21693-a-reacquaintance-with-inflation-safe-havens-in-short-supply.json
 ---

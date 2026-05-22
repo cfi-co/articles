@@ -1,12 +1,21 @@
 ---
 id: 13164
 title: "Robert Azevêdo: Levelling the Playing Field"
-award_year: 2018
+year: 2018
 published: 2018-12-10 15:30:45
 published_gmt: 2018-12-10 15:30:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/12/robert-azevedo-levelling-the-playing-field/"
 categories: ["Governance &amp; Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 46c9258060a6917de458bbd4cc5f08683719cdad1db432a4bc642a368cceee2d
 canonical: 13164-robert-azevedo-levelling-the-playing-field.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26858
 title: "It’s all about the Employees, says Golomt Bank's Odonbaatar Amarzaya"
-award_year: 2024
+year: 2024
 published: 2024-06-13 10:58:35
 published_gmt: 2024-06-13 09:58:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2024/06/its-all-about-the-employees-says-golomt-banks-odonbaatar-amarzaya/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f045da5e05737bae4a6a1dd0fd789b4730909ec1cf198245487723ef6c89ffb4
 canonical: 26858-its-all-about-the-employees-says-golomt-banks-odonbaatar-amarzaya.json
 ---

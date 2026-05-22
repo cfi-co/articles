@@ -1,12 +1,21 @@
 ---
 id: 389
 title: "World Pension Summit 2012"
-award_year: 2012
+year: 2012
 published: 2012-05-16 11:00:47
 published_gmt: 2012-05-16 10:00:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2012/05/worldpensionsummit-2012/"
 categories: ["Finance", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3295ad38f00922c09605f891675712e911207122a251ef3b27b7a5ea39d83b4d
 canonical: 389-worldpensionsummit-2012.json
 ---

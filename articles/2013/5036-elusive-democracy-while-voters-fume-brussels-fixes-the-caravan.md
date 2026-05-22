@@ -1,12 +1,21 @@
 ---
 id: 5036
 title: "Elusive Democracy: While Voters Fume, Brussels Fixes the Caravan"
-award_year: 2013
+year: 2013
 published: 2013-08-19 09:34:24
 published_gmt: 2013-08-19 08:34:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/08/elusive-democracy-while-voters-fume-brussels-fixes-the-caravan/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 16f376636655babd89d54f97939419dffa12f61d9b9beaef6c8dbf782b9a898f
 canonical: 5036-elusive-democracy-while-voters-fume-brussels-fixes-the-caravan.json
 ---

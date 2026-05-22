@@ -1,12 +1,21 @@
 ---
 id: 12075
 title: "Alexei Navalny: Unwilling to Play Along"
-award_year: 2017
+year: 2017
 published: 2017-09-12 12:57:38
 published_gmt: 2017-09-12 11:57:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2017/09/alexei-navalny-unwilling-to-play-along/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8d16fce60fdf8b3f3f933dfd689151bde758e5095d5915d7bd2120c104923b26
 canonical: 12075-alexei-navalny-unwilling-to-play-along.json
 ---

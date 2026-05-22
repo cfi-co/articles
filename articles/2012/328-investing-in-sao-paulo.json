@@ -11,8 +11,21 @@
         "Latin America",
         "Lifestyle"
     ],
+    "classification": {
+        "content_class": "editorial_analysis",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<strong>Welcome to a world of opportunities!</strong>\r\n\r\n<a href=\"http://capitalfinanceint.com/news/wp-content/uploads/2012/05/brazil-flag-small.jpg\"><img class=\"aligncenter wp-image-333 size-full\" title=\"brazil-flag-small\" src=\"https://cfi.co/wp-content/uploads/2012/05/brazil-flag-small.jpg\" alt=\"\" width=\"270\" height=\"187\" /></a>\r\n\r\nExciting information about the state of São Paulo. There are a lot of bussiness opportunities in this well developed region of Brazil, from agriculture to high-end technology, this state boast the best conditions for your investment.\r\n\r\nClick on play to watch the video!\r\n\r\n<iframe src=\"https://www.youtube.com/embed/arZCfnlptYA\" width=\"480\" height=\"360\" frameborder=\"0\"></iframe>",
     "content_sha256": "c8295f7983330e8d505a2d39bcc61f40f77c98b623db3223fdbf6533dc2c4dc0",
-    "record_sha256": "a4dc1b883de8168cbbc8f7d457eddd74d2f1d945de944511f3b608b4ee928b1f"
+    "record_sha256": "d4ee9ccedf06fbaf745a0452d9be16dfe3102cfde2ce3627072750498e0514f4"
 }

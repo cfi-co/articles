@@ -1,12 +1,21 @@
 ---
 id: 15256
 title: "Spain NAB: Setting Agenda for Spanish Impact Investment Market"
-award_year: 2020
+year: 2020
 published: 2020-05-05 10:06:52
 published_gmt: 2020-05-05 09:06:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/05/spain-nab-setting-agenda-for-spanish-impact-investment-market/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7c87eacd7b25d5f908dc29b0db8f34d9b73a0909c72dc2f1ff8bae113a3919b7
 canonical: 15256-spain-nab-setting-agenda-for-spanish-impact-investment-market.json
 ---

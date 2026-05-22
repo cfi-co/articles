@@ -1,12 +1,21 @@
 ---
 id: 4414
 title: "UN calls for China and the US to Encourage Sustainable Development"
-award_year: 2013
+year: 2013
 published: 2013-06-20 09:11:02
 published_gmt: 2013-06-20 09:11:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/06/un-calls-for-china-and-the-us-to-encourage-sustainable-development/"
 categories: ["Asia Pacific", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0028cd72596e1d57f8a15b08f4d8be5b1c3e8a549b0e37677aa7a7143ef93721
 canonical: 4414-un-calls-for-china-and-the-us-to-encourage-sustainable-development.json
 ---

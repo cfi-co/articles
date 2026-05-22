@@ -1,12 +1,21 @@
 ---
 id: 26637
 title: "Finding the Inside Track to Sustainable Investment — it’s a ThirdWay Speciality"
-award_year: 2024
+year: 2024
 published: 2024-02-13 11:42:08
 published_gmt: 2024-02-13 11:42:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2024/02/finding-the-inside-track-to-sustainable-investment-its-a-thirdway-speciality/"
 categories: ["Finance", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 389ca8a16f6357901db55f74aeeace7ae75613f04b9ec5fcbcaf00373df66cb4
 canonical: 26637-finding-the-inside-track-to-sustainable-investment-its-a-thirdway-speciality.json
 ---

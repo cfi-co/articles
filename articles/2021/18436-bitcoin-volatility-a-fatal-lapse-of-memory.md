@@ -1,12 +1,21 @@
 ---
 id: 18436
 title: "Bitcoin: A Fatal Lapse of Memory"
-award_year: 2021
+year: 2021
 published: 2021-01-14 13:05:41
 published_gmt: 2021-01-14 13:05:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/01/bitcoin-volatility-a-fatal-lapse-of-memory/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 277c68cc4f703426bb0fe7b9146010158e35980f8ca92c887bf0aa2fbd037490
 canonical: 18436-bitcoin-volatility-a-fatal-lapse-of-memory.json
 ---

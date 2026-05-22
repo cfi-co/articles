@@ -1,12 +1,21 @@
 ---
 id: 28376
 title: "The Perfect Storm in Energy Infrastructure: High-Density Hydro, Cost Deflation, and Geopolitical Security"
-award_year: 2026
+year: 2026
 published: 2026-04-12 17:22:09
 published_gmt: 2026-04-12 16:22:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2026/04/the-perfect-storm-in-energy-infrastructure-high-density-hydro-cost-deflation-and-geopolitical-security/"
 categories: ["Energy", "Europe", "Middle East", "Oil &amp; Mining", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a464f2cb81a7ca782817eb56e71d45b7940b8f419d949da2f6599e8ba7d27b96
 canonical: 28376-the-perfect-storm-in-energy-infrastructure-high-density-hydro-cost-deflation-and.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 11830
 title: "CFI.co Meets the President of The Stock Exchange of Thailand: Kesara Manchusree"
-award_year: 2017
+year: 2017
 published: 2017-09-01 12:35:24
 published_gmt: 2017-09-01 11:35:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-president-of-the-stock-exchange-of-thailand-kesara-manchusree/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 03ee18858fa14ff4189f119bb1b64f9e7c37a4792fe9d5ffaddec462ccdca751
 canonical: 11830-cfi-co-meets-the-president-of-the-stock-exchange-of-thailand-kesara-manchusree.json
 ---

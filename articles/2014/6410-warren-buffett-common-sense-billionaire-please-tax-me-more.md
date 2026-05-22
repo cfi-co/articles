@@ -1,12 +1,21 @@
 ---
 id: 6410
 title: "Warren Buffett: Common Sense Billionaire - Please Tax Me More"
-award_year: 2014
+year: 2014
 published: 2014-01-28 14:28:39
 published_gmt: 2014-01-28 14:28:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2014/01/warren-buffett-common-sense-billionaire-please-tax-me-more/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6d65b5ac0ef5d69e67c0c7001c443aa7a06168a193715d090d29d1bc42b703a9
 canonical: 6410-warren-buffett-common-sense-billionaire-please-tax-me-more.json
 ---

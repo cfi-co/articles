@@ -1,12 +1,21 @@
 ---
 id: 20498
 title: "World Debt Anchor to Keep Interest Rates and Growth Low"
-award_year: 2021
+year: 2021
 published: 2021-08-23 19:08:35
 published_gmt: 2021-08-23 18:08:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2021/08/world-debt-anchor-to-keep-interest-rates-and-growth-low/"
 categories: ["Columnists", "North America"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5bb4bbd522bc46c572bba8f44ac1523fb433783bf683912999f9d7f5a40236fc
 canonical: 20498-world-debt-anchor-to-keep-interest-rates-and-growth-low.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8947
 title: "Roderick and Floris Wolters: Freezing the Sun"
-award_year: 2015
+year: 2015
 published: 2015-02-13 11:00:41
 published_gmt: 2015-02-13 11:00:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/02/roderick-and-floris-wolters-freezing-the-sun/"
 categories: ["Europe", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ae8abd0622d93b02d14d06a63fbeaf47b6d91fcec7c9ad4984e28f084379f0c5
 canonical: 8947-roderick-and-floris-wolters-freezing-the-sun.json
 ---

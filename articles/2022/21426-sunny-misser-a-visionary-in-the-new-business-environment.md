@@ -1,12 +1,21 @@
 ---
 id: 21426
 title: "Sunny Misser: A Visionary in the New Business Environment"
-award_year: 2022
+year: 2022
 published: 2022-01-08 08:29:23
 published_gmt: 2022-01-08 08:29:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/01/sunny-misser-a-visionary-in-the-new-business-environment/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: deb7ba2493368370f4777f62d98380bd387ea8083cf662f8255b48bf46d557a3
 canonical: 21426-sunny-misser-a-visionary-in-the-new-business-environment.json
 ---

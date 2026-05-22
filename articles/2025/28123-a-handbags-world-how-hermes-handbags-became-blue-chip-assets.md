@@ -1,12 +1,21 @@
 ---
 id: 28123
 title: "A Handbag’s World: How Hermès Handbags Became Blue-Chip Assets"
-award_year: 2025
+year: 2025
 published: 2025-12-02 09:47:28
 published_gmt: 2025-12-02 09:47:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2025/12/a-handbags-world-how-hermes-handbags-became-blue-chip-assets/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b4fb5935dd7085a0bcf53423247a4f43fdb29613e5264f0e56fdc3a670a3de0f
 canonical: 28123-a-handbags-world-how-hermes-handbags-became-blue-chip-assets.json
 ---

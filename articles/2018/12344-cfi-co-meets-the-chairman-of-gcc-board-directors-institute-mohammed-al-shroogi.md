@@ -1,12 +1,21 @@
 ---
 id: 12344
 title: "CFI.co Meets the Chairman of GCC Board Directors Institute: Mohammed Al-Shroogi"
-award_year: 2018
+year: 2018
 published: 2018-05-30 10:16:34
 published_gmt: 2018-05-30 09:16:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/05/cfi-co-meets-the-chairman-of-gcc-board-directors-institute-mohammed-al-shroogi/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9c69683ee7837c2e1bfca451b4c386dfcbcb175ffaafee09dc87c95e85f9d6c4
 canonical: 12344-cfi-co-meets-the-chairman-of-gcc-board-directors-institute-mohammed-al-shroogi.json
 ---

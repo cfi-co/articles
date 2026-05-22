@@ -1,12 +1,21 @@
 ---
 id: 20072
 title: "Evan Harvey, Nasdaq - SPACs and ESG: Convergence or Collision?"
-award_year: 2021
+year: 2021
 published: 2021-06-29 08:59:31
 published_gmt: 2021-06-29 07:59:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2021/06/evan-harvey-nasdaq-spacs-and-esg-convergence-or-collision/"
 categories: ["CSR", "Europe", "Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a72ddf8871baa578010287e8cc90992629be0e3cc32987b0ee2e39476fdb314c
 canonical: 20072-evan-harvey-nasdaq-spacs-and-esg-convergence-or-collision.json
 ---

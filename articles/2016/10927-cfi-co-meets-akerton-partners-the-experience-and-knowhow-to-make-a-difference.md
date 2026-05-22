@@ -1,12 +1,21 @@
 ---
 id: 10927
 title: "CFI.co Meets Akerton Partners: The Experience and Knowhow to Make a Difference"
-award_year: 2016
+year: 2016
 published: 2016-01-21 22:42:55
 published_gmt: 2016-01-21 22:42:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-akerton-partners-the-experience-and-knowhow-to-make-a-difference/"
 categories: ["CFI.co Meets", "Corporate Leaders"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d78c4a9e7691a8d63c8c4f95355d59b201d1a4de482dce98f4a818b3993eb31c
 canonical: 10927-cfi-co-meets-akerton-partners-the-experience-and-knowhow-to-make-a-difference.json
 ---

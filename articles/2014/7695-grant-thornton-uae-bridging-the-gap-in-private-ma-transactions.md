@@ -1,12 +1,21 @@
 ---
 id: 7695
 title: "Grant Thornton UAE: Bridging the Gap in Private M&A Transactions"
-award_year: 2014
+year: 2014
 published: 2014-07-25 10:07:17
 published_gmt: 2014-07-25 09:07:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/07/grant-thornton-uae-bridging-the-gap-in-private-ma-transactions/"
 categories: ["Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 03dfbffc72d2f3afe6d101ef786946d241fb8e2979cade0c62e12123e978ec1f
 canonical: 7695-grant-thornton-uae-bridging-the-gap-in-private-ma-transactions.json
 ---

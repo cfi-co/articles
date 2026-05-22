@@ -1,12 +1,21 @@
 ---
 id: 11254
 title: "UNCTAD: Africa Rising"
-award_year: 2018
+year: 2018
 published: 2018-01-02 12:15:46
 published_gmt: 2018-01-02 12:15:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2018/01/unctad-africa-rising/"
 categories: ["Africa", "Finance", "SMEs"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c1856d4d051c4eac04873e96b8f599c3a0f57e40ab7c96282d1319a1ef337e54
 canonical: 11254-unctad-africa-rising.json
 ---

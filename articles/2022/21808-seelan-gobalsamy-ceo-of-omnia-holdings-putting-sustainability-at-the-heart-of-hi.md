@@ -1,12 +1,21 @@
 ---
 id: 21808
 title: "Seelan Gobalsamy, CEO of Omnia Holdings: Putting Sustainability at the Heart of His Turnaround Strategy"
-award_year: 2022
+year: 2022
 published: 2022-05-10 15:14:01
 published_gmt: 2022-05-10 14:14:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/seelan-gobalsamy-ceo-of-omnia-holdings-putting-sustainability-at-the-heart-of-his-turnaround-strategy/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ccc7c9cc8d145554cf5f140acdff60baaa8c0c32e9c21b59f6c4dbe443ca7861
 canonical: 21808-seelan-gobalsamy-ceo-of-omnia-holdings-putting-sustainability-at-the-heart-of-hi.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 19665
 title: "Lord Waverley on WTO: Inclusive and Sustainable Trade Reforms are Vital for Shared Benefits"
-award_year: 2021
+year: 2021
 published: 2021-05-12 07:00:42
 published_gmt: 2021-05-12 06:00:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2021/05/lord-waverley-on-wto-inclusive-and-sustainable-trade-reforms-are-vital-for-shared-benefits/"
 categories: ["Columnists", "Europe"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 69da9aa8e0629c9714ee8734163ea0eb6baa46c4564173e319471c4f860f7482
 canonical: 19665-lord-waverley-on-wto-inclusive-and-sustainable-trade-reforms-are-vital-for-share.json
 ---

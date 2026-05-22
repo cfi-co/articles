@@ -1,12 +1,21 @@
 ---
 id: 6119
 title: "World Bank Response to Philippines Typhoon Disaster"
-award_year: 2013
+year: 2013
 published: 2013-11-26 11:25:00
 published_gmt: 2013-11-26 11:25:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/11/world-bank-response-to-philippines-typhoon-disaster/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e41d980fc9a75f77f548fa07a86cb97eeae26df178df7b2837e38120e6685e50
 canonical: 6119-world-bank-response-to-philippines-typhoon-disaster.json
 ---

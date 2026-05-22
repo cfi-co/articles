@@ -1,12 +1,21 @@
 ---
 id: 11968
 title: "CFI.co Meets the Director General of National Savings, Pakistan: Zafar Masud"
-award_year: 2017
+year: 2017
 published: 2017-10-09 14:15:20
 published_gmt: 2017-10-09 13:15:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-director-general-of-national-savings-pakistan-zafar-masud/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fba703d70bad2af4c0ab7a178e4fd16ce259f24574d8c93699be1cddffafacc2
 canonical: 11968-cfi-co-meets-the-director-general-of-national-savings-pakistan-zafar-masud.json
 ---

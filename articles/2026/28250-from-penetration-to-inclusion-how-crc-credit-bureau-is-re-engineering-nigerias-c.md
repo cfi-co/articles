@@ -1,12 +1,22 @@
 ---
 id: 28250
 title: "From Penetration to Inclusion: How CRC Credit Bureau Is Re-Engineering Nigeria’s Credit Ecosystem"
-award_year: 2026
+year: 2026
 published: 2026-02-09 09:39:44
 published_gmt: 2026-02-09 09:39:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2026/02/from-penetration-to-inclusion-how-crc-credit-bureau-is-re-engineering-nigerias-credit-ecosystem/"
 categories: ["Africa", "Corporate", "Finance"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "CRC Credit Bureau Limited"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8fcf52b23859654283f542a39fa3cba3628e9be4754ca0239393227e6de78017
 canonical: 28250-from-penetration-to-inclusion-how-crc-credit-bureau-is-re-engineering-nigerias-c.json
 ---

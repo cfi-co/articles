@@ -1,12 +1,21 @@
 ---
 id: 8871
 title: "Corporate Knights Capital: Sustainability Reporting - Empowering Responsible Investing for Long-Term Prosperity"
-award_year: 2015
+year: 2015
 published: 2015-02-04 16:46:46
 published_gmt: 2015-02-04 16:46:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/02/corporate-knights-capital-sustainability-reporting-empowering-responsible-investing-for-long-term-prosperity/"
 categories: ["Finance", "North America", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aea16fea312ed4b0e6074550d08057dc27151a6e903b15e8bcd7803e83082036
 canonical: 8871-corporate-knights-capital-sustainability-reporting-empowering-responsible-invest.json
 ---

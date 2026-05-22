@@ -1,12 +1,21 @@
 ---
 id: 25740
 title: "Financial Inclusion for All and Excellence in Operations: El Salvador’s Central Bank Sets the Bar High — for Others to Follow"
-award_year: 2023
+year: 2023
 published: 2023-07-07 11:40:35
 published_gmt: 2023-07-07 10:40:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/07/financial-inclusion-for-all-and-excellence-in-operations-el-salvadors-central-bank-sets-the-bar-high-for-others-to-follow/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b02ac88c72b04a1d5ed545b6968e0db2cb526f3c59565f35b18abebf6f4ff3b0
 canonical: 25740-financial-inclusion-for-all-and-excellence-in-operations-el-salvadors-central-ba.json
 ---

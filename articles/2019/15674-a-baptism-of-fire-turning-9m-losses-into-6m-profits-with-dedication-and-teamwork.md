@@ -1,12 +1,21 @@
 ---
 id: 15674
 title: "A Baptism of Fire: Turning £9m Losses Into £6m Profits With Dedication and Teamwork"
-award_year: 2019
+year: 2019
 published: 2019-07-12 13:17:54
 published_gmt: 2019-07-12 12:17:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/07/a-baptism-of-fire-turning-9m-losses-into-6m-profits-with-dedication-and-teamwork/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2a215b530a579466751430790e184a4c825a6161dbbe92c5268d2b6b5a5c13ba
 canonical: 15674-a-baptism-of-fire-turning-9m-losses-into-6m-profits-with-dedication-and-teamwork.json
 ---

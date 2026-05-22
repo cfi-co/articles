@@ -1,12 +1,21 @@
 ---
 id: 11275
 title: "Otaviano Canuto, IMF: China’s Spill-Overs on Latin America and the Caribbean"
-award_year: 2016
+year: 2016
 published: 2016-08-11 16:39:09
 published_gmt: 2016-08-11 15:39:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2016/08/otaviano-canuto-imf-chinas-spill-overs-latin-america-caribbean/"
 categories: ["Asia Pacific", "Finance", "Latin America", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 085a79705cb4d8f504f806f807ddf79a2c6747d0c574cbae23619913a845f27e
 canonical: 11275-otaviano-canuto-imf-chinas-spill-overs-latin-america-caribbean.json
 ---

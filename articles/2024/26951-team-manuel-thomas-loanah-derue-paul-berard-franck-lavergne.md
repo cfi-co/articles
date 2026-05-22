@@ -1,12 +1,21 @@
 ---
 id: 26951
 title: "Paris-based Powerhouse Île-de-France: Leading the Way for Local Authorities"
-award_year: 2024
+year: 2024
 published: 2024-07-23 13:55:16
 published_gmt: 2024-07-23 12:55:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/07/ile-de-france-leading-the-way-for-local-authorities/"
 categories: ["Europe", "Innovation &amp; Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 862fa475cdb29aef022003782d53f2288f01f806570b503e70fb4ed6b3b1d897
 canonical: 26951-team-manuel-thomas-loanah-derue-paul-berard-franck-lavergne.json
 ---

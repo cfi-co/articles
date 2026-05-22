@@ -1,12 +1,21 @@
 ---
 id: 26718
 title: "Asian Development Bank: Three Actions Governments Can Take to Help to Tackle Climate Adaptation"
-award_year: 2024
+year: 2024
 published: 2024-03-07 10:43:13
 published_gmt: 2024-03-07 10:43:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2024/03/asian-development-bank-three-actions-governments-can-take-to-help-to-tackle-climate-adaptation/"
 categories: ["Asia Pacific", "Banking", "Multilaterals", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cc526583f4e83d86f0beac53e2a30ca39a2fe9fd2b7fbb3ad7cc6b14dfc17288
 canonical: 26718-asian-development-bank-three-actions-governments-can-take-to-help-to-tackle-clim.json
 ---

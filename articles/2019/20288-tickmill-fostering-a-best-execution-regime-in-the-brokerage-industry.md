@@ -1,12 +1,21 @@
 ---
 id: 20288
 title: "Tickmill: Fostering a Best-Execution Regime in the  Brokerage Industry"
-award_year: 2019
+year: 2019
 published: 2019-07-29 12:28:57
 published_gmt: 2019-07-29 11:28:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/07/tickmill-fostering-a-best-execution-regime-in-the-brokerage-industry/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 40036aafa03aa5029d6e1da7cc6ea21441a1c6a6347eed9360e25e4d2263a792
 canonical: 20288-tickmill-fostering-a-best-execution-regime-in-the-brokerage-industry.json
 ---

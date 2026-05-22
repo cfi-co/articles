@@ -1,12 +1,21 @@
 ---
 id: 19612
 title: "Scotland: The High Road to England or a Brave Step to Independence?"
-award_year: 2021
+year: 2021
 published: 2021-05-06 13:59:00
 published_gmt: 2021-05-06 12:59:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2021/05/scotland-the-high-road-to-england-or-a-brave-step-to-independence/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3d2322af31a443713119fafda97a787c40f591ba0170e8160928dc7ef78ea408
 canonical: 19612-scotland-the-high-road-to-england-or-a-brave-step-to-independence.json
 ---

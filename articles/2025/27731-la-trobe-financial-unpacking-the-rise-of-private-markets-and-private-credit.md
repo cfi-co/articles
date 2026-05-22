@@ -1,12 +1,21 @@
 ---
 id: 27731
 title: "La Trobe Financial: Unpacking the Rise of Private Markets and Private Credit"
-award_year: 2025
+year: 2025
 published: 2025-05-13 14:17:55
 published_gmt: 2025-05-13 13:17:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/05/la-trobe-financial-unpacking-the-rise-of-private-markets-and-private-credit/"
 categories: ["Asia Pacific", "Corporate", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d9ef90525d389633fbbd7428a8fe0cf3afb091efd525b8e3a3ea11805d83a439
 canonical: 27731-la-trobe-financial-unpacking-the-rise-of-private-markets-and-private-credit.json
 ---

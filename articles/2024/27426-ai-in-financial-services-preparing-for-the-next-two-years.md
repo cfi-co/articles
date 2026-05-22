@@ -1,12 +1,21 @@
 ---
 id: 27426
 title: "AI in Financial Services: Preparing for the Next Two Years"
-award_year: 2024
+year: 2024
 published: 2024-12-19 13:56:28
 published_gmt: 2024-12-19 13:56:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2024/12/ai-in-financial-services-preparing-for-the-next-two-years/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dc960eea5da7a1fac39f3ee470346bc0e90c2fd7fd96674203dafdd21a7816e8
 canonical: 27426-ai-in-financial-services-preparing-for-the-next-two-years.json
 ---

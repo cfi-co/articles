@@ -1,12 +1,21 @@
 ---
 id: 25552
 title: "Turning Passion into a Driving Force is a Sure Route to Business Success"
-award_year: 2023
+year: 2023
 published: 2023-06-08 11:44:43
 published_gmt: 2023-06-08 10:44:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2023/06/turning-passion-into-a-driving-force-is-a-sure-route-to-business-success/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 80ebffa15a87ed8ae52afa85d002c408cb354f6850bac578c3c642f3923d8cbe
 canonical: 25552-turning-passion-into-a-driving-force-is-a-sure-route-to-business-success.json
 ---

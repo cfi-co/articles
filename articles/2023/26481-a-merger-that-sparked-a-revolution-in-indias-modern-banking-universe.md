@@ -1,12 +1,21 @@
 ---
 id: 26481
 title: "A Merger that Sparked a Revolution in India’s Modern Banking Universe"
-award_year: 2023
+year: 2023
 published: 2023-11-22 15:37:56
 published_gmt: 2023-11-22 15:37:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2023/11/idfc-first-bank-a-merger-that-sparked-a-revolution-in-indias-modern-banking-universe/"
 categories: ["Asia Pacific", "Banking", "Corporate", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 75382c202473ba57fb7c47f3ed2630c9f76c56012e9196d8025637766ea6cf6b
 canonical: 26481-a-merger-that-sparked-a-revolution-in-indias-modern-banking-universe.json
 ---

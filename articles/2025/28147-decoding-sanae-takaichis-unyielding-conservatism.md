@@ -1,12 +1,21 @@
 ---
 id: 28147
 title: "Decoding Sanae Takaichi’s Unyielding Conservatism"
-award_year: 2025
+year: 2025
 published: 2025-12-11 08:55:57
 published_gmt: 2025-12-11 08:55:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2025/12/decoding-sanae-takaichis-unyielding-conservatism/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b69fbce0354db38492736c67fa483d0d205238d3ef940479e4a4a912e658b181
 canonical: 28147-decoding-sanae-takaichis-unyielding-conservatism.json
 ---

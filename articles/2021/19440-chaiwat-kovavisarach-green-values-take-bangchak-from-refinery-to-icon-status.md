@@ -1,12 +1,21 @@
 ---
 id: 19440
 title: "Chaiwat Kovavisarach - Green Values Take Bangchak From Refinery to Icon Status"
-award_year: 2021
+year: 2021
 published: 2021-04-08 17:58:53
 published_gmt: 2021-04-08 16:58:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/04/chaiwat-kovavisarach-green-values-take-bangchak-from-refinery-to-icon-status/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 64937cec16f2d5deddad644652a050de7899df9e2c6b273901b9c1f17fe85aeb
 canonical: 19440-chaiwat-kovavisarach-green-values-take-bangchak-from-refinery-to-icon-status.json
 ---

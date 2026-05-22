@@ -1,12 +1,21 @@
 ---
 id: 10923
 title: "CFI.co Meets the CEO of Golden Assets: António Nunes da Silva"
-award_year: 2016
+year: 2016
 published: 2016-01-21 22:37:47
 published_gmt: 2016-01-21 22:37:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-golden-assets-antonio-nunes-da-silva/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2cf8f12229799b9e0f16cb94374596860db144eef641fc17cdd1311b221107ef
 canonical: 10923-cfi-co-meets-the-ceo-of-golden-assets-antonio-nunes-da-silva.json
 ---

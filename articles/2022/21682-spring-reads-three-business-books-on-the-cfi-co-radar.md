@@ -1,12 +1,21 @@
 ---
 id: 21682
 title: "Spring Reads: Three Business Books on the CFI.co Radar"
-award_year: 2022
+year: 2022
 published: 2022-04-05 07:33:21
 published_gmt: 2022-04-05 06:33:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/reviews/2022/04/spring-reads-three-business-books-on-the-cfi-co-radar/"
 categories: ["Reviews"]
+content_class: review
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 184835f6b381a2dd30227de3239cda7cfd901f11398bf588a5a1951dfb0be281
 canonical: 21682-spring-reads-three-business-books-on-the-cfi-co-radar.json
 ---

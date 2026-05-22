@@ -1,12 +1,21 @@
 ---
 id: 22106
 title: "Ursula von der Leyen's Speech to Davos 2022 In Full"
-award_year: 2022
+year: 2022
 published: 2022-05-24 12:55:33
 published_gmt: 2022-05-24 11:55:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/05/ursula-von-der-leyens-speech-to-davos-2022-in-full/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0c76060630fac564ce001634c7469405749a0f341db210380c594e9beb8bf93c
 canonical: 22106-ursula-von-der-leyens-speech-to-davos-2022-in-full.json
 ---

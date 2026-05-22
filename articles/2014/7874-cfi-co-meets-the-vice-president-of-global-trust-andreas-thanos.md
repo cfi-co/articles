@@ -1,12 +1,21 @@
 ---
 id: 7874
 title: "CFI.co Meets the Vice President of Global Trust: Andreas Thanos"
-award_year: 2014
+year: 2014
 published: 2014-07-07 14:43:49
 published_gmt: 2014-07-07 13:43:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/07/cfi-co-meets-the-vice-president-of-global-trust-andreas-thanos/"
 categories: ["Banking", "Corporate Leaders", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bc0f42d9b8fb334917b1a2500c7e0b7f14eec25cbf182795e31a56ff8cf90af9
 canonical: 7874-cfi-co-meets-the-vice-president-of-global-trust-andreas-thanos.json
 ---

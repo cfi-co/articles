@@ -1,12 +1,21 @@
 ---
 id: 27454
 title: "Franchises: The Strategic Sweet Spot for Private Equity"
-award_year: 2025
+year: 2025
 published: 2025-01-06 14:25:44
 published_gmt: 2025-01-06 14:25:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/01/franchises-the-strategic-sweet-spot-for-private-equity/"
 categories: ["Europe", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 927821e67f02d35498da1eae4a275f43ee0774f9946b2d24629e5f1ccc353e38
 canonical: 27454-franchises-the-strategic-sweet-spot-for-private-equity.json
 ---

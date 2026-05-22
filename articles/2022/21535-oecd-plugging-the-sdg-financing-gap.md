@@ -1,12 +1,21 @@
 ---
 id: 21535
 title: "OECD: Plugging the SDG Financing Gap"
-award_year: 2022
+year: 2022
 published: 2022-02-08 08:05:27
 published_gmt: 2022-02-08 08:05:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2022/02/oecd-plugging-the-sdg-financing-gap/"
 categories: ["Asia Pacific", "Special Features", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6257e874f3f6dee50199c48adf08ee96a855970d5fbbfde2335a7d9db1427b05
 canonical: 21535-oecd-plugging-the-sdg-financing-gap.json
 ---

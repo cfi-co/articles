@@ -1,12 +1,21 @@
 ---
 id: 1295
 title: "MIDA: Malaysia – Your Profit Centre in Asia"
-award_year: 2012
+year: 2012
 published: 2012-08-01 13:15:06
 published_gmt: 2012-08-01 12:15:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2012/08/mida-malaysia-your-profit-centre-in-asia/"
 categories: ["Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7d0f3a2da642050a7df56916c2be5875d002202d88aa7b664369764aa707df1a
 canonical: 1295-mida-malaysia-your-profit-centre-in-asia.json
 ---

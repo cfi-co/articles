@@ -1,12 +1,21 @@
 ---
 id: 313
 title: "Big Banks: Cure or Curse for the Global Economy?"
-award_year: 2012
+year: 2012
 published: 2012-01-28 15:47:56
 published_gmt: 2012-01-28 15:47:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/01/big-banks-cure-or-curse-for-the-global-economy/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9a2e9a9c883e63f0e71c6a9e66af89282dcd7f23a17775405ddf55968df85b92
 canonical: 313-big-banks-cure-or-curse-for-the-global-economy.json
 ---

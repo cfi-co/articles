@@ -1,12 +1,21 @@
 ---
 id: 7915
 title: "CFI.co Meets the CEO of Makhtag: Muhammad Halim Fidai"
-award_year: 2014
+year: 2014
 published: 2014-07-07 16:17:27
 published_gmt: 2014-07-07 15:17:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/07/cfi-co-meets-the-ceo-of-makhtag-muhammad-halim-fidai/"
 categories: ["Asia Pacific", "Corporate Leaders", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2e1811bece82472fd589bfb020481deacd24688aafb56079e6a7b3e39c52a984
 canonical: 7915-cfi-co-meets-the-ceo-of-makhtag-muhammad-halim-fidai.json
 ---

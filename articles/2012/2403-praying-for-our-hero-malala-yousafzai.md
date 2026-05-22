@@ -1,12 +1,21 @@
 ---
 id: 2403
 title: "Praying for Our Hero, Malala Yousafzai"
-award_year: 2012
+year: 2012
 published: 2012-10-18 12:23:59
 published_gmt: 2012-10-18 12:23:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2012/10/praying-for-our-hero-malala-yousafzai/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1fae7bd8d897674d074f30c49e381c7f9ae286b082ae4a49c8f90b9c1bb8fbd5
 canonical: 2403-praying-for-our-hero-malala-yousafzai.json
 ---

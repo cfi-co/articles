@@ -1,12 +1,21 @@
 ---
 id: 28127
 title: "Peru’s Export Paradox: How Micro-Policy Shielded SMEs from Macro-Politics"
-award_year: 2025
+year: 2025
 published: 2025-12-03 10:51:37
 published_gmt: 2025-12-03 10:51:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/12/perus-export-paradox-how-micro-policy-shielded-smes-from-macro-politics/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9cd746553d94a5f53b09adc5f842ccc74b5b31da750fe337de97c969dee4c0b5
 canonical: 28127-perus-export-paradox-how-micro-policy-shielded-smes-from-macro-politics.json
 ---

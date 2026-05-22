@@ -1,12 +1,21 @@
 ---
 id: 8309
 title: "Sir Timothy Berners-Lee: Catching the World in a Web"
-award_year: 2014
+year: 2014
 published: 2014-10-28 13:24:15
 published_gmt: 2014-10-28 13:24:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2014/10/sir-timothy-berners-lee-catching-the-world-in-a-web/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 68591a50de4842b58c6090893c5b4e1a41c898351ae24c1422d02594c3fc7a38
 canonical: 8309-sir-timothy-berners-lee-catching-the-world-in-a-web.json
 ---

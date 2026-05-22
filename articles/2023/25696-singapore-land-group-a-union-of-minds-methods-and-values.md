@@ -1,12 +1,21 @@
 ---
 id: 25696
 title: "A Union of Minds, Methods, and Values Keeps Singapore’s Unique Skyline Alive"
-award_year: 2023
+year: 2023
 published: 2023-07-02 13:04:50
 published_gmt: 2023-07-02 12:04:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2023/07/singapore-land-group-a-union-of-minds-methods-and-values/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aaf18f4e093435a514e35a99797245ba3a4eac97a6dc43190e44363316d8255f
 canonical: 25696-singapore-land-group-a-union-of-minds-methods-and-values.json
 ---

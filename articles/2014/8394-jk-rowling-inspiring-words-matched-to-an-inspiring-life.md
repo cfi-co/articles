@@ -1,12 +1,21 @@
 ---
 id: 8394
 title: "JK Rowling: Inspiring Words Matched to an Inspiring Life"
-award_year: 2014
+year: 2014
 published: 2014-11-14 10:41:12
 published_gmt: 2014-11-14 10:41:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/11/jk-rowling-inspiring-words-matched-to-an-inspiring-life/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 983e5e50dcc4d93872b5b28eb82ed880d98dd57060c41f8423bd905687e35031
 canonical: 8394-jk-rowling-inspiring-words-matched-to-an-inspiring-life.json
 ---

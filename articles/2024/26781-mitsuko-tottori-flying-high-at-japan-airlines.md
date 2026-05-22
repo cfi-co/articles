@@ -1,12 +1,21 @@
 ---
 id: 26781
 title: "Mitsuko Tottori: Flying High at Japan Airlines"
-award_year: 2024
+year: 2024
 published: 2024-04-26 10:11:15
 published_gmt: 2024-04-26 09:11:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2024/04/mitsuko-tottori-flying-high-at-japan-airlines/"
 categories: ["Asia Pacific", "Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f640f60f05a59f1c594e437e20b94e444bcf84d051163f6089075ebfac93eddf
 canonical: 26781-mitsuko-tottori-flying-high-at-japan-airlines.json
 ---

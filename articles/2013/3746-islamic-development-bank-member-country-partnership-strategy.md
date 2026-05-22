@@ -1,12 +1,21 @@
 ---
 id: 3746
 title: "Islamic Development Bank: Member Country Partnership Strategy"
-award_year: 2013
+year: 2013
 published: 2013-04-26 08:15:49
 published_gmt: 2013-04-26 08:15:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/04/islamic-development-bank-member-country-partnership-strategy/"
 categories: ["Asia Pacific", "Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 78a98905534651d0c1d16fb4a9e005be6d1085b3606aa4deb347714a7b5f62db
 canonical: 3746-islamic-development-bank-member-country-partnership-strategy.json
 ---

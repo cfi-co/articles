@@ -1,12 +1,21 @@
 ---
 id: 26659
 title: "Co-ordinates ... Co-ordination ... Action!"
-award_year: 2024
+year: 2024
 published: 2024-02-07 17:45:28
 published_gmt: 2024-02-07 17:45:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2024/02/co-ordinates-co-ordination-action/"
 categories: ["Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bd774e6321dfdce2e565938de4621e18c164754bc2274b9d08fdffd20d685ab6
 canonical: 26659-co-ordinates-co-ordination-action.json
 ---

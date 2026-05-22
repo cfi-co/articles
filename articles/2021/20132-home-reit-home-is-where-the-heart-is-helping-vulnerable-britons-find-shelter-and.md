@@ -1,12 +1,21 @@
 ---
 id: 20132
 title: "Home REIT: Home Is Where The Heart Is: Helping Vulnerable Britons Find Shelter — and a Future"
-award_year: 2021
+year: 2021
 published: 2021-07-08 16:05:31
 published_gmt: 2021-07-08 15:05:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/home-reit-home-is-where-the-heart-is-helping-vulnerable-britons-find-shelter-and-a-future/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8fed2145fa6f877fa5936ee8d7e43b07143f434c39d0bca73d0c345190aa3927
 canonical: 20132-home-reit-home-is-where-the-heart-is-helping-vulnerable-britons-find-shelter-and.json
 ---

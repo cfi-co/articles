@@ -1,12 +1,22 @@
 ---
 id: 28468
 title: "Schafer Cullen: Why Discipline Still Defines Value Investing"
-award_year: 2026
+year: 2026
 published: 2026-05-12 13:34:13
 published_gmt: 2026-05-12 12:34:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2026/05/schafer-cullen-why-discipline-still-defines-value-investing/"
 categories: ["Corporate", "Finance", "North America"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "Schafer Cullen"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d2c1242d71af2769031b5f855b025f692dac1a528809d7afe930c15e493b715d
 canonical: 28468-schafer-cullen-why-discipline-still-defines-value-investing.json
 ---

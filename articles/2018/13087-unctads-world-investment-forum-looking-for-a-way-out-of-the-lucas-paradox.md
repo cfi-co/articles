@@ -1,12 +1,21 @@
 ---
 id: 13087
 title: "UNCTAD's World Investment Forum: Looking for a Way Out of the Lucas Paradox"
-award_year: 2018
+year: 2018
 published: 2018-10-19 13:14:31
 published_gmt: 2018-10-19 12:14:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/wif2018/2018/10/unctads-world-investment-forum-looking-for-a-way-out-of-the-lucas-paradox/"
 categories: ["WIF2018"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a86cf2062930c1df6c2b04a748b56cc8664231b6bd19e297ae73441fc5fbb62a
 canonical: 13087-unctads-world-investment-forum-looking-for-a-way-out-of-the-lucas-paradox.json
 ---

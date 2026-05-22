@@ -1,12 +1,21 @@
 ---
 id: 26512
 title: "‘The Madman’ Takes Charge: Javier Milei Inaugurated President of Impoverished Argentina"
-award_year: 2023
+year: 2023
 published: 2023-12-11 15:20:21
 published_gmt: 2023-12-11 15:20:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2023/12/the-madman-takes-charge-javier-milei-inaugurated-president-of-impoverished-argentina/"
 categories: ["Brave New World", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ba0e6acf655a6f02534401347eafba211a17cf4851e837bdae8d1f728efcb698
 canonical: 26512-the-madman-takes-charge-javier-milei-inaugurated-president-of-impoverished-argen.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 6926
 title: "IFC: Indonesia Needs Good Corporate Governance"
-award_year: 2014
+year: 2014
 published: 2014-04-07 11:48:55
 published_gmt: 2014-04-07 10:48:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/04/ifc-indonesia-needs-good-corporate-governance/"
 categories: ["Asia Pacific", "Banking", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 25c377993207f5524a8dda3becddcf324636edccf4da8e968b58c3f95c75826a
 canonical: 6926-ifc-indonesia-needs-good-corporate-governance.json
 ---

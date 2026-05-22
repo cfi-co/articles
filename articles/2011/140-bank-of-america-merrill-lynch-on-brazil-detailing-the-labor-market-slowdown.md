@@ -1,12 +1,21 @@
 ---
 id: 140
 title: "Bank of America Merrill Lynch on Brazil: Detailing the Labor Market Slowdown"
-award_year: 2011
+year: 2011
 published: 2011-12-01 14:00:41
 published_gmt: 2011-12-01 14:00:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2011/12/bank-of-america-merrill-lynch-on-brazil-detailing-the-labor-market-slowdown/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1dc0d878b9bbe3ae76c4e2612455c3669f2a1489058ab54e50540f3944bd5e8c
 canonical: 140-bank-of-america-merrill-lynch-on-brazil-detailing-the-labor-market-slowdown.json
 ---

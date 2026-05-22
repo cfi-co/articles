@@ -1,12 +1,21 @@
 ---
 id: 10933
 title: "CFI.co Meets the CEO of STOXX: Hartmut Graf"
-award_year: 2016
+year: 2016
 published: 2016-01-21 22:52:10
 published_gmt: 2016-01-21 22:52:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-stoxx-hartmut-graf/"
 categories: ["CFI.co Meets", "Corporate Leaders"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e85ee5b836d089645824bb865f008f960dc65a57379ae50e5d8bcc45ba1b92d1
 canonical: 10933-cfi-co-meets-the-ceo-of-stoxx-hartmut-graf.json
 ---

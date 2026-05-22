@@ -1,12 +1,21 @@
 ---
 id: 16723
 title: "Lord Waverley: Making the Case for Emerging Markets"
-award_year: 2020
+year: 2020
 published: 2020-08-20 13:20:36
 published_gmt: 2020-08-20 12:20:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2020/08/lord-waverley-making-the-case-for-emerging-markets/"
 categories: ["Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7d969c1bf967a4c4c5c4a29eb40fe54e4a889b6da81a73e9b3ccb717c8913d66
 canonical: 16723-lord-waverley-making-the-case-for-emerging-markets.json
 ---

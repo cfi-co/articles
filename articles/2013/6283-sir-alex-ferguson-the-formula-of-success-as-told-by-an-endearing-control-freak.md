@@ -1,12 +1,21 @@
 ---
 id: 6283
 title: "Sir Alex Ferguson: The Formula of Success as Told by an Endearing Control-Freak"
-award_year: 2013
+year: 2013
 published: 2013-12-30 05:22:40
 published_gmt: 2013-12-30 05:22:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/12/sir-alex-ferguson-the-formula-of-success-as-told-by-an-endearing-control-freak/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f1c0b18c5f4df73c5d6ef6e8aa67695889c7cfb944e4554b89d3e5276b9795cd
 canonical: 6283-sir-alex-ferguson-the-formula-of-success-as-told-by-an-endearing-control-freak.json
 ---

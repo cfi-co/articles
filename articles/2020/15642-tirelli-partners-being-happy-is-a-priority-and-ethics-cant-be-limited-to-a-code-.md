@@ -1,12 +1,21 @@
 ---
 id: 15642
 title: "Tirelli & Partners: ‘Being Happy is a Priority, and Ethics Can’t Be Limited to a Code of Practice’"
-award_year: 2020
+year: 2020
 published: 2020-06-12 12:19:47
 published_gmt: 2020-06-12 11:19:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/06/tirelli-partners-being-happy-is-a-priority-and-ethics-cant-be-limited-to-a-code-of-practice/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ac7b600bc67049f3411d256e8a8a41d7b104de5aaf564d7947aa57410803eccf
 canonical: 15642-tirelli-partners-being-happy-is-a-priority-and-ethics-cant-be-limited-to-a-code-.json
 ---

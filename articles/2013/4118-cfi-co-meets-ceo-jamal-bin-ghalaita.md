@@ -1,12 +1,21 @@
 ---
 id: 4118
 title: "CFI.co Meets CEO Jamal Bin Ghalaita"
-award_year: 2013
+year: 2013
 published: 2013-05-08 12:44:40
 published_gmt: 2013-05-08 12:44:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/05/cfi-co-meets-ceo-jamal-bin-ghalaita/"
 categories: ["Corporate Leaders", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7ffea9f0e6528775fc54ebb9de80de610eee014f2d5e49c8949fd5c5a7b56973
 canonical: 4118-cfi-co-meets-ceo-jamal-bin-ghalaita.json
 ---

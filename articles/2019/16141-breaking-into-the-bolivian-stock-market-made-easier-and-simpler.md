@@ -1,12 +1,21 @@
 ---
 id: 16141
 title: "Valores Unión S.A.: Breaking Into the Bolivian Stock Market Made Easier and Simpler"
-award_year: 2019
+year: 2019
 published: 2019-10-03 14:33:35
 published_gmt: 2019-10-03 13:33:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/10/breaking-into-the-bolivian-stock-market-made-easier-and-simpler/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0bcd28a3e932c9c9ef912d769939b75d8ae428d534fa0e29ef41ece60ee97a5d
 canonical: 16141-breaking-into-the-bolivian-stock-market-made-easier-and-simpler.json
 ---

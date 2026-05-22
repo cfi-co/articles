@@ -1,12 +1,21 @@
 ---
 id: 27365
 title: "Johan Thijs and KBC’s Transformative Support of Werchter Boutique Festival"
-award_year: 2024
+year: 2024
 published: 2024-12-09 08:53:05
 published_gmt: 2024-12-09 08:53:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/12/johan-thijs-and-kbcs-transformative-support-of-werchter-boutique-festival/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0f0dfdedf48c7371dcf8da3df8c367f47c6fa0a939229fd3895a3f1b42b7da6c
 canonical: 27365-johan-thijs-and-kbcs-transformative-support-of-werchter-boutique-festival.json
 ---

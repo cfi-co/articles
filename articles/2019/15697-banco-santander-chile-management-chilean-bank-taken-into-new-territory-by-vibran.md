@@ -1,12 +1,21 @@
 ---
 id: 15697
 title: "Banco Santander Chile Management: Chilean Bank Taken Into  New Territory by Vibrant Leaders"
-award_year: 2019
+year: 2019
 published: 2019-08-12 13:41:06
 published_gmt: 2019-08-12 12:41:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/08/banco-santander-chile-management-chilean-bank-taken-into-new-territory-by-vibrant-leaders/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d9053a544502f5ef02fea9f134c772898b31786ad5c291f28460927050f2a720
 canonical: 15697-banco-santander-chile-management-chilean-bank-taken-into-new-territory-by-vibran.json
 ---

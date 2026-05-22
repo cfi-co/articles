@@ -1,12 +1,21 @@
 ---
 id: 26834
 title: "The Role of the Chief Artificial Intelligence Officer (CAIO)"
-award_year: 2024
+year: 2024
 published: 2024-06-03 13:37:37
 published_gmt: 2024-06-03 12:37:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2024/06/the-role-of-the-chief-artificial-intelligence-officer-caio/"
 categories: ["Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4e14834746715c981128144e01c87a00956fc0a3fb6d1b1c8520be1cdc8e0c2f
 canonical: 26834-the-role-of-the-chief-artificial-intelligence-officer-caio.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 3163
 title: "WTO Reaches Out to the Business Community"
-award_year: 2013
+year: 2013
 published: 2013-02-28 11:59:04
 published_gmt: 2013-02-28 11:59:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/02/wto-reaches-out-to-the-business-community/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4e114f6157818e950f0663bc7f701efe85d9a0058a7bf1082a70d185acfc66b3
 canonical: 3163-wto-reaches-out-to-the-business-community.json
 ---

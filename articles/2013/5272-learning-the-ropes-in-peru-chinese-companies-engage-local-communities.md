@@ -1,12 +1,21 @@
 ---
 id: 5272
 title: "Learning the Ropes in Peru: Chinese Companies Engage Local Communities"
-award_year: 2013
+year: 2013
 published: 2013-09-13 10:44:59
 published_gmt: 2013-09-13 09:44:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/09/learning-the-ropes-in-peru-chinese-companies-engage-local-communities/"
 categories: ["Asia Pacific", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5c2e8594aef667daab366a5cee5397b2076614d29517adac3af039880a48e47f
 canonical: 5272-learning-the-ropes-in-peru-chinese-companies-engage-local-communities.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8692
 title: "Masoud Barzani: Walking a Tightrope"
-award_year: 2015
+year: 2015
 published: 2015-01-12 11:06:08
 published_gmt: 2015-01-12 11:06:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2015/01/masoud-barzani-walking-a-tightrope/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 39070292d361328bc089923914c2694564520cf9a246540059749f8a5f875664
 canonical: 8692-masoud-barzani-walking-a-tightrope.json
 ---

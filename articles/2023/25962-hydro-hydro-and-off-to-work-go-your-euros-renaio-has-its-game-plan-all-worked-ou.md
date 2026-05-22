@@ -1,12 +1,21 @@
 ---
 id: 25962
 title: "Hydro, Hydro, and Off to Work Go Your Euros — RENAIO has its Game Plan All Worked Out"
-award_year: 2023
+year: 2023
 published: 2023-09-01 12:54:16
 published_gmt: 2023-09-01 11:54:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/09/renaio-has-its-game-plan-all-worked-out/"
 categories: ["Corporate", "Europe", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c1290fcd34317083467376320a82f25dd5109b9acc774263961a0469c9af8013
 canonical: 25962-hydro-hydro-and-off-to-work-go-your-euros-renaio-has-its-game-plan-all-worked-ou.json
 ---

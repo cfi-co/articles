@@ -1,12 +1,21 @@
 ---
 id: 13401
 title: "United Nations Leadership Launches Initiative Against Unregulated Small Arms Circulation"
-award_year: 2019
+year: 2019
 published: 2019-01-28 12:52:43
 published_gmt: 2019-01-28 12:52:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/projects/2019/01/united-nations-leadership-launches-initiative-against-unregulated-small-arms-circulation/"
 categories: ["Governance &amp; Legal", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 433ba0ed34b0968712552347389fcb6a0b88ea751cd0113b3b87185fe9cd368f
 canonical: 13401-united-nations-leadership-launches-initiative-against-unregulated-small-arms-cir.json
 ---

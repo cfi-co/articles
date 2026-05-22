@@ -1,12 +1,21 @@
 ---
 id: 6213
 title: "World Bank Reports on Affordable Housing in Egypt"
-award_year: 2013
+year: 2013
 published: 2013-12-10 09:57:39
 published_gmt: 2013-12-10 09:57:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/12/world-bank-reports-on-affordable-housing-in-egypt/"
 categories: ["Finance", "Middle East", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 17507effcb9bdc38ffea45a5361dad1f5f61e346f07bcc2d092abbeb87dd014d
 canonical: 6213-world-bank-reports-on-affordable-housing-in-egypt.json
 ---

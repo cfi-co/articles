@@ -1,12 +1,21 @@
 ---
 id: 1496
 title: "World Bank Group's PREM: Harnessing Trade Opportunities for Growth and Development"
-award_year: 2012
+year: 2012
 published: 2012-08-09 14:49:35
 published_gmt: 2012-08-09 13:49:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/08/harnessing-trade-opportunities-for-growth-and-development/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Latin America", "Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4333a41e0f90302911d793f3003a5896dffe3a5a47775f7df6e82c9b6b44dec7
 canonical: 1496-harnessing-trade-opportunities-for-growth-and-development.json
 ---

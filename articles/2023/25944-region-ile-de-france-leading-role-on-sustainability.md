@@ -1,12 +1,21 @@
 ---
 id: 25944
 title: "Vive, Île-de-France! Go-ahead Region takes its Leading Role On Sustainability to its Heart"
-award_year: 2023
+year: 2023
 published: 2023-08-30 15:15:39
 published_gmt: 2023-08-30 14:15:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/08/region-ile-de-france-leading-role-on-sustainability/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 284e56261b9869194867402e67d8823ec2cdcbdf6738b148ececd057763825bc
 canonical: 25944-region-ile-de-france-leading-role-on-sustainability.json
 ---

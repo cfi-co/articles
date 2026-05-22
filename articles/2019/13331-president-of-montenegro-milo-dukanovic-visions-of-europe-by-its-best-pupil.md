@@ -1,12 +1,21 @@
 ---
 id: 13331
 title: "President of Montenegro Milo Đukanović: Visions of Europe by Its Best Pupil"
-award_year: 2019
+year: 2019
 published: 2019-01-14 13:43:12
 published_gmt: 2019-01-14 13:43:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2019/01/president-of-montenegro-milo-dukanovic-visions-of-europe-by-its-best-pupil/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 02676956991858d1837ae8de39e20fdbddad64347a3a5e95253cbab19675f0bd
 canonical: 13331-president-of-montenegro-milo-dukanovic-visions-of-europe-by-its-best-pupil.json
 ---

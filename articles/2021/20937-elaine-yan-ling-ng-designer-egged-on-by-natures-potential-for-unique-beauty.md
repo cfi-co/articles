@@ -1,12 +1,21 @@
 ---
 id: 20937
 title: "Elaine Yan Ling Ng: Designer Egged-on by Nature’s Potential for Unique Beauty"
-award_year: 2021
+year: 2021
 published: 2021-11-02 07:30:24
 published_gmt: 2021-11-02 07:30:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/editors-10/2021/11/elaine-yan-ling-ng-designer-egged-on-by-natures-potential-for-unique-beauty/"
 categories: ["Portraits"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e29f4acd1533c7f81a460bbd2faf426a10e4067137ada3ba5a29978015a1fc76
 canonical: 20937-elaine-yan-ling-ng-designer-egged-on-by-natures-potential-for-unique-beauty.json
 ---

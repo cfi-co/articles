@@ -1,12 +1,21 @@
 ---
 id: 6242
 title: "Sir David Frost: Well Done Frostie! Playing Nice in the Quest for the Truth"
-award_year: 2013
+year: 2013
 published: 2013-12-16 16:13:53
 published_gmt: 2013-12-16 16:13:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/12/sir-david-frost-well-done-frostie-playing-nice-in-the-quest-for-the-truth/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 34d451f0d2ea5c1653180ace2165a987fa289e05a19a1eddf09e413dfd5063f4
 canonical: 6242-sir-david-frost-well-done-frostie-playing-nice-in-the-quest-for-the-truth.json
 ---

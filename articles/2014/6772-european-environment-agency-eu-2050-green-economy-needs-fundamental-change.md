@@ -1,12 +1,21 @@
 ---
 id: 6772
 title: "European Environment Agency: EU 2050 - Green Economy Needs Fundamental Change"
-award_year: 2014
+year: 2014
 published: 2014-03-10 12:09:11
 published_gmt: 2014-03-10 12:09:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/03/european-environment-agency-eu-2050-green-economy-needs-fundamental-change/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f324b1d3eebbcd5e2537297bbe272294e995535cf71ae372eaea921f3acb7c8a
 canonical: 6772-european-environment-agency-eu-2050-green-economy-needs-fundamental-change.json
 ---

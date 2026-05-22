@@ -8,8 +8,21 @@
     "published_gmt": "2013-03-14 19:20:57",
     "modified_gmt": "2022-11-24 16:28:21",
     "categories": [],
+    "classification": {
+        "content_class": "editorial_analysis",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_3327\" align=\"alignright\" width=\"300\"]<img class=\" wp-image-3327 size-medium\" src=\"https://cfi.co/wp-content/uploads/2013/03/Michelle-Bachelet-300x261.jpg\" alt=\"\" width=\"300\" height=\"261\" /> Michelle Bachelet, Former President, Chile[/caption]\r\n<p style=\"text-align: justify;\"><span style=\"color: #000000;\">When Chile’s government was ousted by Augusto Pinochet in 1973, Michelle Bachelet’s father (a supporter of the deposed Salvador Allende) was arrested, tortured in prison and died in custody at the age of 51. Security forces later arrested Bachelet herself, then a 23-year-old medical student, jailing her at Villa Grimaldi, a house of horrors which she has never described in any detail. It has been reported that she would encourage the other prisoners to sing in order to keep hold of their sanity and cared for women raped by the guards.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"color: #000000;\">Michelle Bachelet was the first female defence minister of Chile and then the first female president (2006-10) of this South American country. She is currently head of UN Women, the high profile United Nations organisation dedicated to gender equality and female empowerment. Among others, U.S. Secretary of State Hillary Clinton urged Bachelet to accept the post.</span></p>\r\n\r\n<blockquote>\r\n<h3 style=\"text-align: justify;\">\"The world's increasing population leads to poverty and scarcity of resources. This is due in part because women are denied access to contraception and education about family planning, which would counteract these problems. That the right of a woman to decide if and when and how many children she wants to have is still up for debate is a sign of the work that still lies ahead of us.\"</h3>\r\n</blockquote>\r\n<p style=\"text-align: justify;\"><span style=\"color: #000000;\">Her presidential election campaign in 2005 addressed poverty, called for a reform of the pension system and the improved rights of women and indigenous communities. This platform supported a continuation of Chile’s free-market policies and demanded improved social benefit programmes.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"color: #000000;\">As president she insisted on equal representation of women in her cabinet. Her fiscal policies ensured that Chile was not overly affected by the global economic crisis and she left office as one of the most popular presidents of all time.</span></p>",
     "content_sha256": "90946cc03d6edc36cf3826ad0c1b716ff5df2f1ea586bc1e46706b25262211c2",
-    "record_sha256": "7ca2586926caf4a75f335811ad06942962c60d5fc7d1c1427e9a92af9c9b83af"
+    "record_sha256": "fb9d447749dbc166137f6af329d9c4deb12d87e5b3ba32bd1664fc0cd8217286"
 }

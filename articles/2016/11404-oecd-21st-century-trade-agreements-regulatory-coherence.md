@@ -1,12 +1,21 @@
 ---
 id: 11404
 title: "OECD: 21st Century Trade Agreements & Regulatory Coherence"
-award_year: 2016
+year: 2016
 published: 2016-11-25 13:41:36
 published_gmt: 2016-11-25 13:41:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2016/11/oecd-21st-century-trade-agreements-regulatory-coherence/"
 categories: ["Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3e195761dfc76a0a99533c98d5a2a2c96de1297b15aa332db1b50772495d3968
 canonical: 11404-oecd-21st-century-trade-agreements-regulatory-coherence.json
 ---

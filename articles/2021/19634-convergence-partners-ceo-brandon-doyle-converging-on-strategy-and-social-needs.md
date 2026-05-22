@@ -1,12 +1,21 @@
 ---
 id: 19634
 title: "Convergence Partners CEO Brandon Doyle: Converging on Strategy and Social Needs"
-award_year: 2021
+year: 2021
 published: 2021-05-10 17:22:45
 published_gmt: 2021-05-10 16:22:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/05/convergence-partners-ceo-brandon-doyle-converging-on-strategy-and-social-needs/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d3cbd713997ce3c285fa8b8767621b4fce7db33fc19562b7db260cd86bc502f2
 canonical: 19634-convergence-partners-ceo-brandon-doyle-converging-on-strategy-and-social-needs.json
 ---

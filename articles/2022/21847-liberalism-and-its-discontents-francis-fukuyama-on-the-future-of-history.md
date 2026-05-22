@@ -1,12 +1,21 @@
 ---
 id: 21847
 title: "Liberalism and Its Discontents: Francis Fukuyama on the Future of History"
-award_year: 2022
+year: 2022
 published: 2022-05-17 14:27:28
 published_gmt: 2022-05-17 13:27:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/05/liberalism-and-its-discontents-francis-fukuyama-on-the-future-of-history/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 971d0b511520cb6cd18c4ac80a0a76e9257582c5e6767da98a33c3ba4eee4a29
 canonical: 21847-liberalism-and-its-discontents-francis-fukuyama-on-the-future-of-history.json
 ---

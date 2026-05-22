@@ -1,12 +1,21 @@
 ---
 id: 11552
 title: "Evan Harvey, Nasdaq: A Short-Term Look at Long-Term Growth - The Expert Outlook on 2017"
-award_year: 2017
+year: 2017
 published: 2017-02-23 14:40:18
 published_gmt: 2017-02-23 14:40:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2017/02/evan-harvey-nasdaq-a-short-term-look-at-long-term-growth-the-expert-outlook-on-2017/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Latin America", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 117c7e60d9b6c89ebbfb3df8a5e2f760d399cfe5c84ddcf7b5f2ab85563698a7
 canonical: 11552-evan-harvey-nasdaq-a-short-term-look-at-long-term-growth-the-expert-outlook-on-2.json
 ---

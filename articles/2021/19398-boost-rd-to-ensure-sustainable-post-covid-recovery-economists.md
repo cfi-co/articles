@@ -1,12 +1,21 @@
 ---
 id: 19398
 title: "Boost R&D to Ensure Sustainable Post-Covid Recovery: Economists"
-award_year: 2021
+year: 2021
 published: 2021-04-01 14:40:21
 published_gmt: 2021-04-01 13:40:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/04/boost-rd-to-ensure-sustainable-post-covid-recovery-economists/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 99b102c3ddbd0edf029a6e39775a7249081a069750c6912d79ad6199aa16685b
 canonical: 19398-boost-rd-to-ensure-sustainable-post-covid-recovery-economists.json
 ---

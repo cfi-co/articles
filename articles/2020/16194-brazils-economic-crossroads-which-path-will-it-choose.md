@@ -1,12 +1,21 @@
 ---
 id: 16194
 title: "Brazil’s Economic Crossroads: Which Path Will It Choose?"
-award_year: 2020
+year: 2020
 published: 2020-07-08 08:35:25
 published_gmt: 2020-07-08 07:35:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/07/brazils-economic-crossroads-which-path-will-it-choose/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 50b6517857e2899c1d8d721b4baecdcb4718032641fceb6c4d1311160b545447
 canonical: 16194-brazils-economic-crossroads-which-path-will-it-choose.json
 ---

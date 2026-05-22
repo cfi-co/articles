@@ -1,12 +1,21 @@
 ---
 id: 6507
 title: "The Changing Face of Foreign Direct Investment (FDI): A Greater Focus on the Emerging Markets?"
-award_year: 2014
+year: 2014
 published: 2014-02-05 13:03:09
 published_gmt: 2014-02-05 13:03:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/02/the-changing-face-of-foreign-direct-investment-fdi-a-greater-focus-on-the-emerging-markets/"
 categories: ["Finance", "Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ac800ccb8a896cc2d540badf51105b8edd09d9ee26ef8ded380fb6933183a53f
 canonical: 6507-the-changing-face-of-foreign-direct-investment-fdi-a-greater-focus-on-the-emergi.json
 ---

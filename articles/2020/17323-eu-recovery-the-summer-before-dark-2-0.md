@@ -1,12 +1,21 @@
 ---
 id: 17323
 title: "The Summer Before Dark 2.0"
-award_year: 2020
+year: 2020
 published: 2020-10-19 16:39:52
 published_gmt: 2020-10-19 15:39:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/10/eu-recovery-the-summer-before-dark-2-0/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d1ce04e7f5406a9c22d15be29a01cc05d789afac11fa6df6a83aef425b2dfe8
 canonical: 17323-eu-recovery-the-summer-before-dark-2-0.json
 ---

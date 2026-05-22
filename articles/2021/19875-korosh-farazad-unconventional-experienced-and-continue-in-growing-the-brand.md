@@ -1,12 +1,21 @@
 ---
 id: 19875
 title: "Korosh Farazad: Unconventional, Experienced, and Continue in Growing the Brand"
-award_year: 2021
+year: 2021
 published: 2021-07-12 15:51:26
 published_gmt: 2021-07-12 14:51:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/korosh-farazad-unconventional-experienced-and-continue-in-growing-the-brand/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0c5deec174ea297fafcabb7ce35f105f56636c2c20d6fef9e68af57a16f25c55
 canonical: 19875-korosh-farazad-unconventional-experienced-and-continue-in-growing-the-brand.json
 ---

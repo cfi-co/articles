@@ -1,12 +1,21 @@
 ---
 id: 21771
 title: "The Tale of the Squawking Dove: US Federal Reserve Moves with Cautious Resolve"
-award_year: 2022
+year: 2022
 published: 2022-05-05 13:40:46
 published_gmt: 2022-05-05 12:40:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/05/the-tale-of-the-squawking-dove-us-federal-reserve-moves-with-cautious-resolve/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c60c4d2244b29a2f7e91c26390e0786d2404326e81de0ac63ec205fe8cb95a3b
 canonical: 21771-the-tale-of-the-squawking-dove-us-federal-reserve-moves-with-cautious-resolve.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 7089
 title: "Ai Weiwei: Free Expression in Art and Politics"
-award_year: 2014
+year: 2014
 published: 2014-04-29 10:30:27
 published_gmt: 2014-04-29 09:30:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/04/ai-weiwei-free-expression-in-art-and-politics/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d14d422f71e9359256d5cbc6926d0506e220d8d5eaf54c3bb980eb2a9ec25df6
 canonical: 7089-ai-weiwei-free-expression-in-art-and-politics.json
 ---

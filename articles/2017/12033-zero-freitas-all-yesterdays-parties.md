@@ -1,12 +1,21 @@
 ---
 id: 12033
 title: "Zero Freitas: All Yesterday’s Parties"
-award_year: 2017
+year: 2017
 published: 2017-09-12 12:57:41
 published_gmt: 2017-09-12 11:57:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2017/09/zero-freitas-all-yesterdays-parties/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a9e973639d19aa3e36cbbfc0dcd6a3b7aa98aabdcca44adb7989c1629a4e2eee
 canonical: 12033-zero-freitas-all-yesterdays-parties.json
 ---

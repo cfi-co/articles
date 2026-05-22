@@ -1,12 +1,22 @@
 ---
 id: 28228
 title: "Leadership at the Helm of Kenya’s Renewable Power Champion"
-award_year: 2026
+year: 2026
 published: 2026-01-22 13:25:31
 published_gmt: 2026-01-22 13:25:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2026/01/leadership-at-the-helm-of-kenyas-renewable-power-champion/"
 categories: ["Africa", "Corporate", "Corporate Leaders", "Energy"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "Kenya Electricity Generating Company PLC (KenGen)"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b2fef9f7605c5ba517ca0b22e2edd63632a1068423c37f7487671433c2b87d9b
 canonical: 28228-leadership-at-the-helm-of-kenyas-renewable-power-champion.json
 ---

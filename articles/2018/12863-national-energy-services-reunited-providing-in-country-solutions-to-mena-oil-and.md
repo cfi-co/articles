@@ -1,12 +1,21 @@
 ---
 id: 12863
 title: "National Energy Services Reunited: Providing In-Country Solutions to MENA Oil and Gas Producers"
-award_year: 2018
+year: 2018
 published: 2018-08-09 11:59:23
 published_gmt: 2018-08-09 10:59:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2018/08/national-energy-services-reunited-providing-in-country-solutions-to-mena-oil-and-gas-producers/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6a5b9d64ead1a2dd4ec59e059b065de995d8ec1c3bb0434f7028d258790ffcc4
 canonical: 12863-national-energy-services-reunited-providing-in-country-solutions-to-mena-oil-and.json
 ---

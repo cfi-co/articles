@@ -1,12 +1,22 @@
 ---
 id: 28449
 title: "MONETA Money Bank: Scaling with Discipline in a Competitive Czech Market"
-award_year: 2026
+year: 2026
 published: 2026-05-11 17:29:02
 published_gmt: 2026-05-11 16:29:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2026/05/moneta-money-bank-scaling-with-discipline-in-a-competitive-czech-market/"
 categories: ["Banking", "Corporate", "Europe"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "MONETA Money Bank"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 396f8bafe39b6ad2709590e9ed185576b6e3a43ee16e58653fb98b18ab033b20
 canonical: 28449-moneta-money-bank-scaling-with-discipline-in-a-competitive-czech-market.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 12016
 title: "Marcus du Sautoy: What We’ll Never Know"
-award_year: 2017
+year: 2017
 published: 2017-09-12 12:57:45
 published_gmt: 2017-09-12 11:57:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2017/09/marcus-du-sautoy-what-well-never-know/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d21fcf4795b9e42d50f9dee1a98694d8bac53a222c88ce5317c25a50cb68aee5
 canonical: 12016-marcus-du-sautoy-what-well-never-know.json
 ---

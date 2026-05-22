@@ -1,12 +1,21 @@
 ---
 id: 12653
 title: "MegaInver: Tailored to Meet Market Demand"
-award_year: 2018
+year: 2018
 published: 2018-06-21 16:51:59
 published_gmt: 2018-06-21 15:51:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2018/06/megainver-tailored-to-meet-market-demand/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f07e46ea2cb7e2b894254371802553c905b3982140a5e02a0e279a623e68c8f8
 canonical: 12653-megainver-tailored-to-meet-market-demand.json
 ---

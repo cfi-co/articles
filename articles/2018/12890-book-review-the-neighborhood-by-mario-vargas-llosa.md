@@ -1,12 +1,21 @@
 ---
 id: 12890
 title: "Book Review: The Neighborhood by Mario Vargas Llosa"
-award_year: 2018
+year: 2018
 published: 2018-08-31 13:45:53
 published_gmt: 2018-08-31 12:45:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2018/08/book-review-the-neighborhood-by-mario-vargas-llosa/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2ec3f7a9d309338a8b348bc4b773c20655839b3bc394b3bd919cbb6705a2c1bd
 canonical: 12890-book-review-the-neighborhood-by-mario-vargas-llosa.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 5217
 title: "Barking Up the Wrong Tree in St. Petersburg: G20 Hijacked by Syria Conflict"
-award_year: 2013
+year: 2013
 published: 2013-09-05 10:45:36
 published_gmt: 2013-09-05 09:45:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/09/barking-up-the-wrong-tree-in-st-petersburg-g20-hijacked-by-syria-conflict/"
 categories: ["Europe", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0d124d6745f6eb1bb9ab645afe4fc04dab9324422a5418695a3587308082c265
 canonical: 5217-barking-up-the-wrong-tree-in-st-petersburg-g20-hijacked-by-syria-conflict.json
 ---

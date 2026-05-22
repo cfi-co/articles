@@ -1,12 +1,21 @@
 ---
 id: 14338
 title: "Hala Hanna and Vilas Dhar: How AI Can Promote Social Good"
-award_year: 2019
+year: 2019
 published: 2019-11-06 14:36:48
 published_gmt: 2019-11-06 14:36:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2019/11/hala-hanna-and-vilas-dhar-how-ai-can-promote-social-good/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b095bab3f86e6ea22c370e332a194e82cea8bc0cf7db4c874f2dd13a039dd9b5
 canonical: 14338-hala-hanna-and-vilas-dhar-how-ai-can-promote-social-good.json
 ---

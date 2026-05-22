@@ -1,12 +1,21 @@
 ---
 id: 6839
 title: "WEF Recognises Young Global Leaders from Africa "
-award_year: 2014
+year: 2014
 published: 2014-03-21 12:01:49
 published_gmt: 2014-03-21 12:01:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/03/wef-recognises-young-global-leaders-from-africa/"
 categories: ["Africa", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 735b94cb12751ee4de6772ce1935d60abb2c6a945c37c140df9ff99efe6439b2
 canonical: 6839-wef-recognises-young-global-leaders-from-africa.json
 ---

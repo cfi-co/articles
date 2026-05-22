@@ -1,12 +1,21 @@
 ---
 id: 3959
 title: "Oil Producers with Success in Nigeria"
-award_year: 2013
+year: 2013
 published: 2013-05-20 08:50:35
 published_gmt: 2013-05-20 07:50:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/05/oil-producers-with-success-in-nigeria/"
 categories: ["Africa", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 90b144d7f80c299d30b58a91339ced4ecb77e54ead0b4d5269e5c05cfe148c3c
 canonical: 3959-oil-producers-with-success-in-nigeria.json
 ---

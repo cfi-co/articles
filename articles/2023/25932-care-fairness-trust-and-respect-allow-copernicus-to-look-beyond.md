@@ -1,12 +1,21 @@
 ---
 id: 25932
 title: "Care, Fairness, Trust, and Respect Allow Copernicus to Look Beyond"
-award_year: 2023
+year: 2023
 published: 2023-08-30 11:12:48
 published_gmt: 2023-08-30 10:12:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/08/copernicus-care-fairness-trust-and-respect"
 categories: ["Corporate", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e63384761cb6d2d0b2eb09f6ec8759fbaf182c4063607e48eee26a28e0f8fe9f
 canonical: 25932-care-fairness-trust-and-respect-allow-copernicus-to-look-beyond.json
 ---

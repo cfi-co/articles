@@ -1,12 +1,21 @@
 ---
 id: 11496
 title: "Bob Dylan: Things Have Not Changed"
-award_year: 2017
+year: 2017
 published: 2017-01-24 11:37:42
 published_gmt: 2017-01-24 11:37:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2017/01/bob-dylan-things-have-not-changed/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b42706cf0d4c02dc7b8022a7d551700c5320d5c1828653ba0b3918f2d4c0a12e
 canonical: 11496-bob-dylan-things-have-not-changed.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 24628
 title: "Austria’s CQ Investment Group is Winning Firm Partners in Global Corporate Circles"
-award_year: 2023
+year: 2023
 published: 2023-01-18 13:31:20
 published_gmt: 2023-01-18 13:31:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/01/austrias-cq-investment-group-is-winning-firm-partners-in-global-corporate-circles/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fdecc0997247ccafbdf2e1f9d142fec76b35d73b9d17a6824a61c1d7c44acd8d
 canonical: 24628-austrias-cq-investment-group-is-winning-firm-partners-in-global-corporate-circle.json
 ---

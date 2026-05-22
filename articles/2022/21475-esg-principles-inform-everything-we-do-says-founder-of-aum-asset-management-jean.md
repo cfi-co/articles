@@ -1,12 +1,21 @@
 ---
 id: 21475
 title: "‘ESG Principles Inform Everything We Do,’ says Founder of AUM Asset Management Ltd. Jean-François de Clermont-Tonnerre"
-award_year: 2022
+year: 2022
 published: 2022-01-21 13:57:56
 published_gmt: 2022-01-21 13:57:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2022/01/esg-principles-inform-everything-we-do-says-founder-of-aum-asset-management-jean-francois-de-clermont-tonnerre/"
 categories: ["Banking &amp; Finance", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c298eedb439323295ff90dd64a4eca3ce23864d7ee1cdf16d457a9f60bcfd10d
 canonical: 21475-esg-principles-inform-everything-we-do-says-founder-of-aum-asset-management-jean.json
 ---

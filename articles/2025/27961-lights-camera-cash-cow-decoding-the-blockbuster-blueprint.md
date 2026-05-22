@@ -1,12 +1,21 @@
 ---
 id: 27961
 title: "Lights, Camera, Cash Cow: Decoding the Blockbuster Blueprint"
-award_year: 2025
+year: 2025
 published: 2025-09-25 14:25:50
 published_gmt: 2025-09-25 13:25:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2025/09/lights-camera-cash-cow-decoding-the-blockbuster-blueprint/"
 categories: ["Lifestyle", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a7a8cd53bfbc3c9e452cae70c6622f0e81dda2cbf5302ff8b126e97f309d41a1
 canonical: 27961-lights-camera-cash-cow-decoding-the-blockbuster-blueprint.json
 ---

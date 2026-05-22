@@ -1,12 +1,21 @@
 ---
 id: 4633
 title: "World Bank: Philippines Poised for More and Better Jobs"
-award_year: 2013
+year: 2013
 published: 2013-07-22 09:19:14
 published_gmt: 2013-07-22 08:19:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/07/world-bank-philippines-poised-for-more-and-better-jobs/"
 categories: ["Asia Pacific", "Banking", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 003ae518d080c2a08f3ceb288b9c9b6d1f8e01e905faeb598c37ac8692e9ca41
 canonical: 4633-world-bank-philippines-poised-for-more-and-better-jobs.json
 ---

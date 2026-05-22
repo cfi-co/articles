@@ -1,12 +1,21 @@
 ---
 id: 27578
 title: "Nissan's Decline: A Story of Missed Opportunities and Mounting Challenges"
-award_year: 2025
+year: 2025
 published: 2025-02-18 07:53:57
 published_gmt: 2025-02-18 07:53:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2025/02/nissans-decline-a-story-of-missed-opportunities-and-mounting-challenges/"
 categories: ["Asia Pacific", "Finance", "Markets"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bad1e187fb0a94676e853655a086725bab1744e938e61e588e08ada3ef6c22e6
 canonical: 27578-nissans-decline-a-story-of-missed-opportunities-and-mounting-challenges.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 5249
 title: "Experts Debate Dubai's Post-Recession Property Boom - Another Bubble or Sustained Recovery?"
-award_year: 2013
+year: 2013
 published: 2013-09-11 14:25:19
 published_gmt: 2013-09-11 13:25:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/09/experts-debate-dubais-post-recession-property-boom-another-bubble-or-sustained-recovery/"
 categories: ["Finance", "Middle East", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bdf2c5460095da3539cece3a84417814503f6bb3d50bd4af5330b374060ff524
 canonical: 5249-experts-debate-dubais-post-recession-property-boom-another-bubble-or-sustained-r.json
 ---

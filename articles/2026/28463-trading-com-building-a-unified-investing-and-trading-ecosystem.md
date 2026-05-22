@@ -1,12 +1,22 @@
 ---
 id: 28463
 title: "Trading.com: Building A Unified Investing and Trading Ecosystem"
-award_year: 2026
+year: 2026
 published: 2026-05-12 13:25:29
 published_gmt: 2026-05-12 12:25:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2026/05/trading-com-building-a-unified-investing-and-trading-ecosystem/"
 categories: ["Corporate", "Innovation &amp; Technology", "Technology"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "Trading.com"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 460a142830db6e56bc00dbeef4a6cb40f10737abc46aefef72a3e5ca195e34e9
 canonical: 28463-trading-com-building-a-unified-investing-and-trading-ecosystem.json
 ---

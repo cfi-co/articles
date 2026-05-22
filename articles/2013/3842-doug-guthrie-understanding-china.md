@@ -1,12 +1,21 @@
 ---
 id: 3842
 title: "Doug Guthrie: Understanding China"
-award_year: 2013
+year: 2013
 published: 2013-05-07 13:28:04
 published_gmt: 2013-05-07 13:28:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/05/doug-guthrie-understanding-china/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f4659a9aa27f66bb9679ee24afe05ef3db57cfec9400215395ecd5e5fc3bc0d4
 canonical: 3842-doug-guthrie-understanding-china.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 10701
 title: "World Bank Group: Ask Citizens Where Public Money Should Go - The Surprising Results"
-award_year: 2015
+year: 2015
 published: 2015-12-10 16:19:07
 published_gmt: 2015-12-10 16:19:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/12/world-bank-group-ask-citizens-where-public-money-should-go-the-surprising-results/"
 categories: ["Africa", "Europe", "Finance", "Latin America", "Middle East", "Multilaterals", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1ccf91b8000a2f83ef898154194f97ed882b4a6b09129f662604a3769b669ed4
 canonical: 10701-world-bank-group-ask-citizens-where-public-money-should-go-the-surprising-result.json
 ---

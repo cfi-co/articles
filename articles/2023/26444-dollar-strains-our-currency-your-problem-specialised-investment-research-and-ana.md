@@ -1,12 +1,21 @@
 ---
 id: 26444
 title: "Dollar Strains — Our Currency, Your Problem: Specialised Investment Research and  Analysis from PGM Global Inc."
-award_year: 2023
+year: 2023
 published: 2023-11-20 12:16:01
 published_gmt: 2023-11-20 12:16:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/banking-finance/2023/11/dollar-strains-our-currency-your-problem-specialised-investment-research-and-analysis-from-pgm-global-inc/"
 categories: ["Banking", "Banking &amp; Finance", "Corporate", "Economics &amp; Convergence", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a00c505df25f33b2b4aba5f72b879fc7f65470c61860251efc27da42d411e0ba
 canonical: 26444-dollar-strains-our-currency-your-problem-specialised-investment-research-and-ana.json
 ---

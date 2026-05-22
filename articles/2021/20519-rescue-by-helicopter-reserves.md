@@ -1,12 +1,21 @@
 ---
 id: 20519
 title: "Rescue by Helicopter Reserves"
-award_year: 2021
+year: 2021
 published: 2021-08-27 07:47:19
 published_gmt: 2021-08-27 06:47:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2021/08/rescue-by-helicopter-reserves/"
 categories: ["Finance", "North America", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bfb22fcfe6da2ceb562ce3bcca98b130acbfbfda6bfb3099e7045d21042a344e
 canonical: 20519-rescue-by-helicopter-reserves.json
 ---

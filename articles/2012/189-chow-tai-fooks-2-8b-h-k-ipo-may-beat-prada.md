@@ -1,12 +1,21 @@
 ---
 id: 189
 title: "Chow Tai Fook’s $2.8B H.K. IPO May Beat Prada"
-award_year: 2012
+year: 2012
 published: 2012-03-08 14:19:32
 published_gmt: 2012-03-08 14:19:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2012/03/chow-tai-fooks-2-8b-h-k-ipo-may-beat-prada/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 85a3b501660a951bc28a2c3df9152c9d6d98bd2955ed9c6e7df4afeb0742c286
 canonical: 189-chow-tai-fooks-2-8b-h-k-ipo-may-beat-prada.json
 ---

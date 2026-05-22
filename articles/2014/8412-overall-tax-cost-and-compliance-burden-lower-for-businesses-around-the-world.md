@@ -1,12 +1,21 @@
 ---
 id: 8412
 title: "Overall Tax Cost and Compliance Burden Lower for Businesses around the World"
-award_year: 2014
+year: 2014
 published: 2014-11-20 14:29:36
 published_gmt: 2014-11-20 14:29:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/11/overall-tax-cost-and-compliance-burden-lower-for-businesses-around-the-world/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f91a532eb42a8dd6c44812baa56ff7cb90c43633b6f5dc31f08f97ba3c074421
 canonical: 8412-overall-tax-cost-and-compliance-burden-lower-for-businesses-around-the-world.json
 ---

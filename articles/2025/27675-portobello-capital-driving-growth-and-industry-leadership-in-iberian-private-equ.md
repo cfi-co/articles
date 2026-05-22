@@ -1,12 +1,21 @@
 ---
 id: 27675
 title: "Portobello Capital: Driving Growth and Industry Leadership in Iberian Private Equity"
-award_year: 2025
+year: 2025
 published: 2025-04-07 10:21:19
 published_gmt: 2025-04-07 09:21:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/04/portobello-capital-driving-growth-and-industry-leadership-in-iberian-private-equity/"
 categories: ["Corporate", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 760311fd5fb9d86e4043e2756cc44d0d1d6ac3c73c47d8e4a4afdb5d6ac5deb5
 canonical: 27675-portobello-capital-driving-growth-and-industry-leadership-in-iberian-private-equ.json
 ---

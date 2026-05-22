@@ -1,12 +1,21 @@
 ---
 id: 14522
 title: "It’s not Nuclear Physics: Pension Fund Chief Champions Ethics and Balance"
-award_year: 2020
+year: 2020
 published: 2020-01-13 13:52:08
 published_gmt: 2020-01-13 13:52:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/01/its-not-nuclear-physics-pension-fund-chief-champions-ethics-and-balance/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0700668f88a98e44a9a6f10f3d21c260528ea1998fd90aa118bc89955e811a06
 canonical: 14522-its-not-nuclear-physics-pension-fund-chief-champions-ethics-and-balance.json
 ---

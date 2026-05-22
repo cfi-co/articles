@@ -1,12 +1,21 @@
 ---
 id: 18601
 title: "Anita McBain: Spreading the Gospel of ESG to the Investment World in Clear, Honest and Understandable Terms"
-award_year: 2021
+year: 2021
 published: 2021-02-04 08:06:17
 published_gmt: 2021-02-04 08:06:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/heroes/2021/02/anita-mcbain-spreading-the-gospel-of-esg-to-the-investment-world-in-clear-honest-and-understandable-terms/"
 categories: ["Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8f4393485fe9c86cf70fa9ed9c17a3237a2f8cfc8cc6e2bfedd9caceac1257f2
 canonical: 18601-anita-mcbain-spreading-the-gospel-of-esg-to-the-investment-world-in-clear-honest.json
 ---

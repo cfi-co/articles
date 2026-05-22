@@ -1,12 +1,21 @@
 ---
 id: 11813
 title: "Jordan: The Sky Is the Limit"
-award_year: 2018
+year: 2018
 published: 2018-09-01 12:10:17
 published_gmt: 2018-09-01 11:10:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2018/09/jordan-the-sky-is-the-limit/"
 categories: ["Finance", "Middle East", "Special Features"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4b72e24994d58aaf4ef5de7bfb0dbfa3d878b7e2a3a90f8dd301262a672dfe4e
 canonical: 11813-jordan-the-sky-is-the-limit.json
 ---

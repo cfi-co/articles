@@ -1,12 +1,21 @@
 ---
 id: 26024
 title: "On Freeters and Other Exotic Creatures in a Land of Plenty"
-award_year: 2023
+year: 2023
 published: 2023-09-06 12:05:12
 published_gmt: 2023-09-06 11:05:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/09/on-freeters-and-other-exotic-creatures-in-a-land-of-plenty/"
 categories: ["Asia Pacific", "Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ca5ac96e6564ba05dae97cd090f1061f8fdf1d01308c8f289439624182ed7d2f
 canonical: 26024-on-freeters-and-other-exotic-creatures-in-a-land-of-plenty.json
 ---

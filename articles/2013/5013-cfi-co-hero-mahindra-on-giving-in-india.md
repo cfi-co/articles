@@ -1,12 +1,21 @@
 ---
 id: 5013
 title: "CFI.co Hero Mahindra on Giving in India"
-award_year: 2013
+year: 2013
 published: 2013-08-15 09:41:32
 published_gmt: 2013-08-15 08:41:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/08/cfi-co-hero-mahindra-on-giving-in-india/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a861107757c48401da9714d901d65b27769f80759763a32a1eb9f259d9c0fa25
 canonical: 5013-cfi-co-hero-mahindra-on-giving-in-india.json
 ---

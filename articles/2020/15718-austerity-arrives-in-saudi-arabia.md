@@ -1,12 +1,21 @@
 ---
 id: 15718
 title: "Austerity Arrives in the Kingdom"
-award_year: 2020
+year: 2020
 published: 2020-06-12 14:49:27
 published_gmt: 2020-06-12 13:49:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2020/06/austerity-arrives-in-saudi-arabia/"
 categories: ["Middle East", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: afbb7044eb6f926a19e2d814f4aa8316f33d0abd3451b89496544c11c353d5ee
 canonical: 15718-austerity-arrives-in-saudi-arabia.json
 ---

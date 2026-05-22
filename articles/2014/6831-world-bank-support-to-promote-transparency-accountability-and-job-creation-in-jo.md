@@ -1,12 +1,21 @@
 ---
 id: 6831
 title: "World Bank Support to Promote Transparency, Accountability and Job Creation in Jordan"
-award_year: 2014
+year: 2014
 published: 2014-03-20 09:51:41
 published_gmt: 2014-03-20 09:51:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/03/world-bank-support-to-promote-transparency-accountability-and-job-creation-in-jordan/"
 categories: ["Finance", "Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8220980569322b87a342f84171a74d69e9b97270196ad9c15a8ab864c8e09663
 canonical: 6831-world-bank-support-to-promote-transparency-accountability-and-job-creation-in-jo.json
 ---

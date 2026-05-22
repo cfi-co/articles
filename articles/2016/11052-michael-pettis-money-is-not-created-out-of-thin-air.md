@@ -1,12 +1,21 @@
 ---
 id: 11052
 title: "Michael Pettis: Money Is Not Created Out of Thin Air"
-award_year: 2016
+year: 2016
 published: 2016-03-02 11:24:00
 published_gmt: 2016-03-02 11:24:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2016/03/michael-pettis-money-is-not-created-out-of-thin-air/"
 categories: ["Asia Pacific", "Banking", "Banking &amp; Finance", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f01dc286981bce1da1cc23b24b165c5cd477bd07c76ff1bb01f607bcc781912a
 canonical: 11052-michael-pettis-money-is-not-created-out-of-thin-air.json
 ---

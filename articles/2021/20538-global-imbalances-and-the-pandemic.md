@@ -1,12 +1,21 @@
 ---
 id: 20538
 title: "Global Imbalances and the Pandemic"
-award_year: 2021
+year: 2021
 published: 2021-09-05 09:32:13
 published_gmt: 2021-09-05 08:32:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/09/global-imbalances-and-the-pandemic/"
 categories: ["Asia Pacific", "Brave New World", "Economics &amp; Convergence", "North America", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a7c6cba60c4426fee8562c48f5dd9864b1bcc9e0387ce64d8f0c07ded39d2812
 canonical: 20538-global-imbalances-and-the-pandemic.json
 ---

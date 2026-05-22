@@ -1,12 +1,21 @@
 ---
 id: 26582
 title: "Keeping the Flame of Fascination Alive"
-award_year: 2024
+year: 2024
 published: 2024-01-10 11:14:39
 published_gmt: 2024-01-10 11:14:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/middle-east/2024/01/emad-shahin-keeping-the-flame-alive/"
 categories: ["Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2612c606fe04de1638805badddf525f303ec605290982ca8e915d72c0b31b13b
 canonical: 26582-keeping-the-flame-of-fascination-alive.json
 ---

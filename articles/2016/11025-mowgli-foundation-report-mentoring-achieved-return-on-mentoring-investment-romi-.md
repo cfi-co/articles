@@ -1,12 +1,21 @@
 ---
 id: 11025
 title: "Mowgli Foundation Report: Mentoring Achieved Return on Mentoring Investment (ROMI) Returns of 890%"
-award_year: 2016
+year: 2016
 published: 2016-02-16 15:14:18
 published_gmt: 2016-02-16 15:14:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2016/02/mowgli-foundation-report-mentoring-achieved-return-on-mentoring-investment-romi-returns-of-890/"
 categories: ["Africa", "Europe", "Finance", "Middle East", "SMEs"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2a2d0ca90023687ab8567172028b5c0183bed30cdf33dc3801ea391d0dc11c43
 canonical: 11025-mowgli-foundation-report-mentoring-achieved-return-on-mentoring-investment-romi-.json
 ---

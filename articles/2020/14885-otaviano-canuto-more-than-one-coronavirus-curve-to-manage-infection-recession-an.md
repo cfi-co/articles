@@ -1,12 +1,21 @@
 ---
 id: 14885
 title: "Otaviano Canuto: More Than One Coronavirus Curve to Manage - Infection, Recession and External Finance"
-award_year: 2020
+year: 2020
 published: 2020-04-09 12:13:03
 published_gmt: 2020-04-09 11:13:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/otaviano-canuto-more-than-one-coronavirus-curve-to-manage-infection-recession-and-external-finance/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c4d79f5dd5bb0469f5f78136174a74293e4b3c82c86170488adcf32f9f6dc2f8
 canonical: 14885-otaviano-canuto-more-than-one-coronavirus-curve-to-manage-infection-recession-an.json
 ---

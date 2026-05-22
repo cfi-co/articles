@@ -1,12 +1,21 @@
 ---
 id: 26708
 title: "Raise Your Glasses, Investors: Your Profits Could Follow"
-award_year: 2024
+year: 2024
 published: 2024-02-29 11:22:12
 published_gmt: 2024-02-29 11:22:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2024/02/raise-your-glasses-investors-your-profits-could-follow/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fd3ac009a3cbc174f3a04d54a36950c86d56539d127941ff8827c75b5f2f0ad3
 canonical: 26708-raise-your-glasses-investors-your-profits-could-follow.json
 ---

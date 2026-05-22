@@ -1,12 +1,21 @@
 ---
 id: 207
 title: "WEF India Summit: Finally, Something Worth Watching"
-award_year: 2011
+year: 2011
 published: 2011-11-15 14:29:55
 published_gmt: 2011-11-15 14:29:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2011/11/wef-india-summit-finally-something-worth-watching/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 57ba60faebac3eb927c4a62e6436dd7c7fe8bdd3a5fb3dda8c1ff5c8df2ec807
 canonical: 207-wef-india-summit-finally-something-worth-watching.json
 ---

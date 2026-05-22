@@ -1,12 +1,21 @@
 ---
 id: 19905
 title: "SegurCaixa Adeslas: The Year that Put Healthcare in Focus"
-award_year: 2021
+year: 2021
 published: 2021-07-13 12:57:40
 published_gmt: 2021-07-13 11:57:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/segurcaixa-adeslas-the-year-that-put-healthcare-in-focus/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 958b08af20e09f1ff97283f3fc722cb9a9bb63195987ab1ff617e5e87c340f4a
 canonical: 19905-segurcaixa-adeslas-the-year-that-put-healthcare-in-focus.json
 ---

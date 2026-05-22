@@ -1,12 +1,21 @@
 ---
 id: 18721
 title: "History and Future: Two Things Pilipinas Shell Takes Into Account in All of its Dealings"
-award_year: 2021
+year: 2021
 published: 2021-02-10 11:39:55
 published_gmt: 2021-02-10 11:39:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2021/02/history-and-future-two-things-pilipinas-shell-takes-into-account-in-all-of-its-dealings/"
 categories: ["Asia Pacific", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f44a9d3e54605ac21b880bc7e2e3bd2fc33dd149bface37faf044b7ec2d7d761
 canonical: 18721-history-and-future-two-things-pilipinas-shell-takes-into-account-in-all-of-its-d.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 5283
 title: "An Actor Out of His Depth: Clooney Keeps an Eye on Sudan"
-award_year: 2013
+year: 2013
 published: 2013-09-16 13:48:15
 published_gmt: 2013-09-16 12:48:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/09/an-actor-out-of-his-depth-clooney-keeps-an-eye-on-sudan/"
 categories: ["Africa", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8f58ce93076c3490eb5ec1786df050b07f6f14f9b7bbbfcc5d57b3bead831075
 canonical: 5283-an-actor-out-of-his-depth-clooney-keeps-an-eye-on-sudan.json
 ---

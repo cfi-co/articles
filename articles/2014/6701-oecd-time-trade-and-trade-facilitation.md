@@ -1,12 +1,21 @@
 ---
 id: 6701
 title: "OECD: Time, Trade and Trade Facilitation"
-award_year: 2014
+year: 2014
 published: 2014-02-24 17:35:42
 published_gmt: 2014-02-24 17:35:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/02/oecd-time-trade-and-trade-facilitation/"
 categories: ["Africa", "Asia Pacific", "Europe", "Latin America", "North America", "Oil &amp; Mining", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a57fd601c57dfa445b464e953af990214e9a257a1c6252db5bb391c2a9d5585b
 canonical: 6701-oecd-time-trade-and-trade-facilitation.json
 ---

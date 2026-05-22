@@ -1,12 +1,21 @@
 ---
 id: 19306
 title: "Oleksiy Vadaturskyy: A Business Legend of Modern Ukraine"
-award_year: 2019
+year: 2019
 published: 2019-01-05 16:28:30
 published_gmt: 2019-01-05 16:28:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/uncategorized/2019/01/oleksiy-vadaturskyy-a-business-legend-of-modern-ukraine/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 862fb4dc4b37a634fd7660f163ba3da78edceb95a259d3998d499724c48b0a6c
 canonical: 19306-oleksiy-vadaturskyy-a-business-legend-of-modern-ukraine.json
 ---

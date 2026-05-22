@@ -1,12 +1,21 @@
 ---
 id: 10546
 title: "Brazil & Argentina: Only One Getting Real"
-award_year: 2015
+year: 2015
 published: 2015-10-15 14:34:45
 published_gmt: 2015-10-15 13:34:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2015/10/brazil-argentina-only-one-getting-real/"
 categories: ["Banking", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 96a89417abeaafa309c5c401baafff2ddd47cf96b11df4491ea8bf900fadc2de
 canonical: 10546-brazil-argentina-only-one-getting-real.json
 ---

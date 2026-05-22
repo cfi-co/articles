@@ -1,12 +1,21 @@
 ---
 id: 23435
 title: "Affirmative Investment Management: a Thriving Firm and a Winning Strategy"
-award_year: 2022
+year: 2022
 published: 2022-09-13 08:47:44
 published_gmt: 2022-09-13 07:47:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/09/affirmative-investment-management-a-thriving-firm-and-a-winning-strategy/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1d29f8aa9a10dd006af32f6979e032708d3a78f5ea95566160fb176235d165c2
 canonical: 23435-affirmative-investment-management-a-thriving-firm-and-a-winning-strategy.json
 ---

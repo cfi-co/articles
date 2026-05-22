@@ -1,12 +1,21 @@
 ---
 id: 19959
 title: "The Arab Petroleum Investments Corporation (APICORP): At the Heart of the Arab Oil-Producing World"
-award_year: 2021
+year: 2021
 published: 2021-07-13 13:04:44
 published_gmt: 2021-07-13 12:04:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/the-arab-petroleum-investments-corporation-apicorp-at-the-heart-of-the-arab-oil-producing-world/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b65227c664392c9296b6ce30726d0d9a99aa29dd6fcec04e8359bd200c5e37b5
 canonical: 19959-the-arab-petroleum-investments-corporation-apicorp-at-the-heart-of-the-arab-oil-.json
 ---

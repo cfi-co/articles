@@ -1,12 +1,21 @@
 ---
 id: 24037
 title: "Appian Capital Advisory: Sustainability in Mining - Where the Energy Transition Starts"
-award_year: 2022
+year: 2022
 published: 2022-11-22 18:15:12
 published_gmt: 2022-11-22 18:15:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/11/appian-capital-advisory-sustainability-in-mining/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d4604f127b34bfc20d6d3ac7ea6a97cc4f6cb2eb04e9111b3d2651ef47dd39a
 canonical: 24037-appian-capital-advisory-sustainability-in-mining.json
 ---

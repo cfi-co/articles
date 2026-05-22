@@ -1,12 +1,21 @@
 ---
 id: 12958
 title: "Soledad Gallego-Díaz: Truth to Prevail at Spain’s Largest Newspaper"
-award_year: 2018
+year: 2018
 published: 2018-09-24 15:17:53
 published_gmt: 2018-09-24 14:17:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/09/soledad-gallego-diaz-truth-to-prevail-at-spains-largest-newspaper/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0a9f6e98a690e8fd041fa5eeb31cb7084f161471bb36999802fd8040b48a688c
 canonical: 12958-soledad-gallego-diaz-truth-to-prevail-at-spains-largest-newspaper.json
 ---

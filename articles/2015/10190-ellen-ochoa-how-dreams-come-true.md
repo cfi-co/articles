@@ -1,12 +1,21 @@
 ---
 id: 10190
 title: "Ellen Ochoa: How Dreams Come True"
-award_year: 2015
+year: 2015
 published: 2015-08-11 13:54:08
 published_gmt: 2015-08-11 12:54:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2015/08/ellen-ochoa-how-dreams-come-true/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 88bd43ac99148433c82b9f52b423bd4ed0435c8f875a66f404532b1288137b2c
 canonical: 10190-ellen-ochoa-how-dreams-come-true.json
 ---

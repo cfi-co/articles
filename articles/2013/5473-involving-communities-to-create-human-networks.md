@@ -1,12 +1,21 @@
 ---
 id: 5473
 title: "Involving Communities to Create Human Networks"
-award_year: 2013
+year: 2013
 published: 2013-10-15 14:47:03
 published_gmt: 2013-10-15 13:47:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/10/involving-communities-to-create-human-networks/"
 categories: ["Africa", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 08fb26e2329c099452788baacd867c4d74b0257d93b2d178de3087dd286184a0
 canonical: 5473-involving-communities-to-create-human-networks.json
 ---

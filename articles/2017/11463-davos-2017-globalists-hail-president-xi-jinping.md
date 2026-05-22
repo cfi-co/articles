@@ -1,12 +1,21 @@
 ---
 id: 11463
 title: "Davos: Globalists Hail President Xi Jinping"
-award_year: 2017
+year: 2017
 published: 2017-01-17 17:19:49
 published_gmt: 2017-01-17 17:19:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2017/01/davos-2017-globalists-hail-president-xi-jinping/"
 categories: ["Asia Pacific", "Europe", "Events", "North America", "WEF"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 280e2c8c7090b2aae1da39c5bd88c914f1843848a2afe9815262f802de198115
 canonical: 11463-davos-2017-globalists-hail-president-xi-jinping.json
 ---

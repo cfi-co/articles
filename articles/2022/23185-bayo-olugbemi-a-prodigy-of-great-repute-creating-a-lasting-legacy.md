@@ -1,12 +1,21 @@
 ---
 id: 23185
 title: "Bayo Olugbemi: A Prodigy of Great Repute, Creating a Lasting Legacy"
-award_year: 2022
+year: 2022
 published: 2022-08-26 06:59:43
 published_gmt: 2022-08-26 05:59:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/08/bayo-olugbemi-a-prodigy-of-great-repute-creating-a-lasting-legacy/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a5acc5ae2226837d032c49ece31bc7fbd90829849f06a86fc793d01c6aaea92c
 canonical: 23185-bayo-olugbemi-a-prodigy-of-great-repute-creating-a-lasting-legacy.json
 ---

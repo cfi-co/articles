@@ -1,12 +1,21 @@
 ---
 id: 3512
 title: "Michelle Obama: A Debt of Gratitude"
-award_year: 2013
+year: 2013
 published: 2013-04-03 13:31:29
 published_gmt: 2013-04-03 13:31:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2013/04/michelle-obama-a-debt-of-gratitude/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d0c921e5a93bda77809f2f08e0aed143eea257c55598ed93679e5ff4773b9dc8
 canonical: 3512-michelle-obama-a-debt-of-gratitude.json
 ---

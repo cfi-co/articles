@@ -1,12 +1,21 @@
 ---
 id: 7246
 title: "John Maynard Keynes - Keynesianism to the Rescue: It Still Works Wonders"
-award_year: 2014
+year: 2014
 published: 2014-05-22 11:35:12
 published_gmt: 2014-05-22 10:35:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/05/john-maynard-keynes-keynesianism-to-the-rescue-it-still-works-wonders/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 735288cd2d8a7a05a2cf10809e9eb030fdaf71dff726020e8f4f861a2131b0cc
 canonical: 7246-john-maynard-keynes-keynesianism-to-the-rescue-it-still-works-wonders.json
 ---

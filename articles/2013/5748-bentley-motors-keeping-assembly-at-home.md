@@ -1,12 +1,21 @@
 ---
 id: 5748
 title: "Bentley Motors: Keeping Assembly at Home"
-award_year: 2013
+year: 2013
 published: 2013-11-05 10:41:36
 published_gmt: 2013-11-05 10:41:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/11/bentley-motors-keeping-assembly-at-home/"
 categories: ["Europe", "Lifestyle", "Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 314b9be14c927c543b0c0ded337486eab401644f75d16574871bc8e489e39bd4
 canonical: 5748-bentley-motors-keeping-assembly-at-home.json
 ---

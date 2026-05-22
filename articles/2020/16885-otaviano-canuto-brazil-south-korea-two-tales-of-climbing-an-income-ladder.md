@@ -1,12 +1,21 @@
 ---
 id: 16885
 title: "Otaviano Canuto: Brazil, South Korea - Two Tales of Climbing an Income Ladder"
-award_year: 2020
+year: 2020
 published: 2020-09-11 11:26:16
 published_gmt: 2020-09-11 10:26:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2020/09/otaviano-canuto-brazil-south-korea-two-tales-of-climbing-an-income-ladder/"
 categories: ["Asia Pacific", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 529157203f28c95e2556d326b81d6b5ea8cc297a250b52ab42c53da4c6c75fa7
 canonical: 16885-otaviano-canuto-brazil-south-korea-two-tales-of-climbing-an-income-ladder.json
 ---

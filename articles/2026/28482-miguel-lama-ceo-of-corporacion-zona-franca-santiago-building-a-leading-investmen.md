@@ -1,12 +1,22 @@
 ---
 id: 28482
 title: "Miguel Lama, CEO of Corporación Zona Franca Santiago: Building a Leading Investment Hub in the Americas"
-award_year: 2026
+year: 2026
 published: 2026-05-18 16:09:19
 published_gmt: 2026-05-18 15:09:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2026/05/miguel-lama-ceo-of-corporacion-zona-franca-santiago-building-a-leading-investment-hub-in-the-americas/"
 categories: ["Corporate", "Corporate Leaders", "Latin America", "Projects"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "CZFS"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d03f0fd629ba11957260ef3c4a87e3f1d8de6264708afaba4f4caa32d6b227fe
 canonical: 28482-miguel-lama-ceo-of-corporacion-zona-franca-santiago-building-a-leading-investmen.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 28370
 title: "The Intelligent Framework: Why Lenovo’s Governance Leads the Asia-Pacific Tech Wave"
-award_year: 2026
+year: 2026
 published: 2026-04-01 14:18:17
 published_gmt: 2026-04-01 13:18:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2026/04/the-intelligent-framework-why-lenovos-governance-leads-the-asia-pacific-tech-wave/"
 categories: ["Asia Pacific", "Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 10bfb8f2944dda714038a12022355a1871fcfc9f9a5f0dba45c5e1648110e9b7
 canonical: 28370-the-intelligent-framework-why-lenovos-governance-leads-the-asia-pacific-tech-wav.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 13110
 title: "Blockchain Technology Proves Its Point"
-award_year: 2018
+year: 2018
 published: 2018-10-24 08:29:29
 published_gmt: 2018-10-24 07:29:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2018/10/blockchain-technology-proves-its-point/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 44f2d55e6212eb704e479c1973935dadbc1ad629cab944b89e1dc1420a2460f4
 canonical: 13110-blockchain-technology-proves-its-point.json
 ---

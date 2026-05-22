@@ -1,12 +1,21 @@
 ---
 id: 27640
 title: "ASML and the Unrivalled Future of Semiconductor Lithography: Can Global Rivals Compete?"
-award_year: 2025
+year: 2025
 published: 2025-03-17 13:39:58
 published_gmt: 2025-03-17 13:39:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2025/03/asml-and-the-unrivalled-future-of-semiconductor-lithography-can-global-rivals-compete/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 25fba2530cc49582533d27727ef08403c6e1fc099b9540098d6435a8174734f4
 canonical: 27640-asml-and-the-unrivalled-future-of-semiconductor-lithography-can-global-rivals-co.json
 ---

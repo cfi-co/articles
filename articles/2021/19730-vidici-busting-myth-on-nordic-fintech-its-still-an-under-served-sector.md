@@ -1,12 +1,21 @@
 ---
 id: 19730
 title: "Vidici Busting Myth on Nordic Fintech: It’s Still an Under-served Sector"
-award_year: 2021
+year: 2021
 published: 2021-05-21 13:28:47
 published_gmt: 2021-05-21 12:28:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/05/vidici-busting-myth-on-nordic-fintech-its-still-an-under-served-sector/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5a3da08e58a5c7fd7d1e9f98aa86e4e372103aa2aaf36a19ab4bab0a0d9962df
 canonical: 19730-vidici-busting-myth-on-nordic-fintech-its-still-an-under-served-sector.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 18801
 title: "The Size of Biden’s Fiscal Package"
-award_year: 2021
+year: 2021
 published: 2021-02-23 08:14:20
 published_gmt: 2021-02-23 08:14:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2021/02/the-size-of-bidens-fiscal-package/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 04251501452178fe3568319e0b7513188981d5aeaf5b5813865b912dbedb6f4f
 canonical: 18801-the-size-of-bidens-fiscal-package.json
 ---

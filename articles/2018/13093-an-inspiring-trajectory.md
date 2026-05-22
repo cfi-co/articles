@@ -1,12 +1,21 @@
 ---
 id: 13093
 title: "An Inspiring Trajectory"
-award_year: 2018
+year: 2018
 published: 2018-10-19 13:19:40
 published_gmt: 2018-10-19 12:19:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/wif2018/2018/10/an-inspiring-trajectory/"
 categories: ["WIF2018"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dafde5c2d6839702fd88a48fbe25a4793d10b19b8e8f74543ae3b44fc124254c
 canonical: 13093-an-inspiring-trajectory.json
 ---

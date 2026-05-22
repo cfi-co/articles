@@ -1,12 +1,21 @@
 ---
 id: 5382
 title: "World Bank Initiative for a Low Carbon Future"
-award_year: 2013
+year: 2013
 published: 2013-10-01 10:04:06
 published_gmt: 2013-10-01 09:04:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/10/world-bank-initiative-for-a-low-carbon-future/"
 categories: ["Africa", "Asia Pacific", "Europe", "Latin America", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ca32a25b06d7795682429315a21f9c32140673ae2db24ca14e2617abf41331c3
 canonical: 5382-world-bank-initiative-for-a-low-carbon-future.json
 ---

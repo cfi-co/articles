@@ -1,12 +1,21 @@
 ---
 id: 11879
 title: "Savills Investment Management: Excellence in Real Estate"
-award_year: 2017
+year: 2017
 published: 2017-09-08 11:10:55
 published_gmt: 2017-09-08 10:10:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2017/09/savills-investment-management-excellence-in-real-estate/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b7dcc10815f5d2ef24e4e7018abffe18e226ba0251f80e4cb26741b45dc3b04d
 canonical: 11879-savills-investment-management-excellence-in-real-estate.json
 ---

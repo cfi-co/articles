@@ -1,12 +1,21 @@
 ---
 id: 6016
 title: "MIGA (World Bank): Energy in Africa - The Many Sides of Sustainability"
-award_year: 2013
+year: 2013
 published: 2013-11-12 09:18:21
 published_gmt: 2013-11-12 09:18:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/11/miga-world-bank-energy-in-africa-the-many-sides-of-sustainability/"
 categories: ["Africa", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 97bfb25637aa830468e7a73561e9b8ec50b594a82158451834e1af2be4f30e32
 canonical: 6016-miga-world-bank-energy-in-africa-the-many-sides-of-sustainability.json
 ---

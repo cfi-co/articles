@@ -1,12 +1,21 @@
 ---
 id: 328
 title: "Investing in São Paulo"
-award_year: 2012
+year: 2012
 published: 2012-05-10 18:33:07
 published_gmt: 2012-05-10 17:33:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2012/05/investing-in-sao-paulo/"
 categories: ["Latin America", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c8295f7983330e8d505a2d39bcc61f40f77c98b623db3223fdbf6533dc2c4dc0
 canonical: 328-investing-in-sao-paulo.json
 ---

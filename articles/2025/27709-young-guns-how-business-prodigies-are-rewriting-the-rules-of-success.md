@@ -1,12 +1,21 @@
 ---
 id: 27709
 title: "Young Guns: How Business Prodigies are Rewriting the Rules of Success"
-award_year: 2025
+year: 2025
 published: 2025-05-08 18:00:52
 published_gmt: 2025-05-08 17:00:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2025/05/young-guns-how-business-prodigies-are-rewriting-the-rules-of-success/"
 categories: ["Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7d28d68d3157f8ecd1ab0e6e836340d772172973aab0347e9d6bdba023194606
 canonical: 27709-young-guns-how-business-prodigies-are-rewriting-the-rules-of-success.json
 ---

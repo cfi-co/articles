@@ -1,12 +1,21 @@
 ---
 id: 27364
 title: "KBC Group: A Digital-First Pioneer with an Eye on Sustainability and Growth"
-award_year: 2024
+year: 2024
 published: 2024-12-09 08:51:01
 published_gmt: 2024-12-09 08:51:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/12/kbc-group-a-digital-first-pioneer-with-an-eye-on-sustainability-and-growth/"
 categories: ["Banking", "Europe", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 299513783e3631b73d71de187d7d4dcbcf521062968d7ebcde5a54d172da3a33
 canonical: 27364-kbc-group-a-digital-first-pioneer-with-an-eye-on-sustainability-and-growth.json
 ---

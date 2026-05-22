@@ -1,12 +1,21 @@
 ---
 id: 19748
 title: "Lindsey McMurray, Co-founder of Pollen Street Capital: How Capitalising on Change Can Drive Benefits for Financial Services Industry"
-award_year: 2021
+year: 2021
 published: 2021-06-01 09:12:16
 published_gmt: 2021-06-01 08:12:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2021/06/lindsey-mcmurray-co-founder-of-pollen-street-capital-how-capitalising-on-change-can-drive-benefits-for-financial-services-industry/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 93227e2ce9da4dfd5a28d9c712a09cc1cd0a836fbb8e8209b2ae13a9145bee49
 canonical: 19748-lindsey-mcmurray-co-founder-of-pollen-street-capital-how-capitalising-on-change-.json
 ---

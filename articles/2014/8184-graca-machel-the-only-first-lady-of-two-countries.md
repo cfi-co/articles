@@ -1,12 +1,21 @@
 ---
 id: 8184
 title: "Graça Machel: The Only First Lady of Two Countries"
-award_year: 2014
+year: 2014
 published: 2014-10-13 14:07:02
 published_gmt: 2014-10-13 13:07:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/10/graca-machel-the-only-first-lady-of-two-countries/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d51a9dacc440b0fd9baf8ed2283a85214c3c4d184d8a6ff6f967b44ef3a7fdf9
 canonical: 8184-graca-machel-the-only-first-lady-of-two-countries.json
 ---

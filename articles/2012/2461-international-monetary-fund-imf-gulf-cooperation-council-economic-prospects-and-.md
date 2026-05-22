@@ -1,12 +1,21 @@
 ---
 id: 2461
 title: "IMF | Gulf Cooperation Council: Economic Prospects and Policy Challenges for the GCC Countries"
-award_year: 2012
+year: 2012
 published: 2012-10-30 11:23:50
 published_gmt: 2012-10-30 11:23:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/10/international-monetary-fund-imf-gulf-cooperation-council-economic-prospects-and-policy-challenges-for-the-gcc-countries/"
 categories: ["Africa", "Banking", "Europe", "Finance", "Middle East", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9f561b74d591c5cf890f26cd671628583f4d6ff255cf6b117004ab3d84fe802d
 canonical: 2461-international-monetary-fund-imf-gulf-cooperation-council-economic-prospects-and-.json
 ---

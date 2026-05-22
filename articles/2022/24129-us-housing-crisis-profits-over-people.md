@@ -1,12 +1,21 @@
 ---
 id: 24129
 title: "US Housing Crisis"
-award_year: 2022
+year: 2022
 published: 2022-12-09 13:25:35
 published_gmt: 2022-12-09 13:25:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/12/us-housing-crisis-profits-over-people/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f4d8cb5b5d0ad7beb4a4a8fe25d6af3d90a052962db061139e0b42507a229e00
 canonical: 24129-us-housing-crisis-profits-over-people.json
 ---

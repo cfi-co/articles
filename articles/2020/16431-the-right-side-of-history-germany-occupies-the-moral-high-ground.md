@@ -1,12 +1,21 @@
 ---
 id: 16431
 title: "The Right Side of History: Germany Occupies the Moral High Ground"
-award_year: 2020
+year: 2020
 published: 2020-07-27 19:17:53
 published_gmt: 2020-07-27 18:17:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/07/the-right-side-of-history-germany-occupies-the-moral-high-ground/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ba7b535cf92ca93215fbe1de747bb1fbb2730d8046fc76cfe777183ff0ae402f
 canonical: 16431-the-right-side-of-history-germany-occupies-the-moral-high-ground.json
 ---

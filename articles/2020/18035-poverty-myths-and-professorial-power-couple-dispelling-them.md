@@ -1,12 +1,21 @@
 ---
 id: 18035
 title: "Poverty Myths, and Professorial ‘Power Couple’ Dispelling Them"
-award_year: 2020
+year: 2020
 published: 2020-11-24 10:44:56
 published_gmt: 2020-11-24 10:44:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2020/11/poverty-myths-and-professorial-power-couple-dispelling-them/"
 categories: ["Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 497b3b1697d83b1d1d4586c65e71adc0cb4601fb7a4aa7ad506cd477baca8616
 canonical: 18035-poverty-myths-and-professorial-power-couple-dispelling-them.json
 ---

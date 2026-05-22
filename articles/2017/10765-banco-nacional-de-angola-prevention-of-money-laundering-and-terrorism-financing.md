@@ -1,12 +1,21 @@
 ---
 id: 10765
 title: "Banco Nacional de Angola: Prevention of Money Laundering and Terrorism Financing"
-award_year: 2017
+year: 2017
 published: 2017-11-12 15:04:17
 published_gmt: 2017-11-12 15:04:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2017/11/banco-nacional-de-angola-prevention-of-money-laundering-and-terrorism-financing/"
 categories: ["Africa", "Banking"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e258439ea080e7127b65f1d6d806aedcbfb6ffcff7f72c0f81751a53d7e88696
 canonical: 10765-banco-nacional-de-angola-prevention-of-money-laundering-and-terrorism-financing.json
 ---

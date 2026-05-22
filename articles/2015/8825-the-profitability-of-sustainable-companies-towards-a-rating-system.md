@@ -1,12 +1,21 @@
 ---
 id: 8825
 title: "The Profitability of Sustainable Companies: Towards a Rating System"
-award_year: 2015
+year: 2015
 published: 2015-01-28 14:22:54
 published_gmt: 2015-01-28 14:22:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/01/the-profitability-of-sustainable-companies-towards-a-rating-system/"
 categories: ["Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 201d00c8ec94df42559a659d73b8c01576981f02f654d9632006814f4bc59e5b
 canonical: 8825-the-profitability-of-sustainable-companies-towards-a-rating-system.json
 ---

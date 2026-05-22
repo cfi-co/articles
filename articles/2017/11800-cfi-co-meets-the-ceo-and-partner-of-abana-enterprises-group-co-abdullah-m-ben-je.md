@@ -1,12 +1,21 @@
 ---
 id: 11800
 title: "CFI.co Meets the CEO and Partner of ABANA Enterprises Group Co: Abdullah M Ben Jebreen"
-award_year: 2017
+year: 2017
 published: 2017-08-31 13:39:22
 published_gmt: 2017-08-31 12:39:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-and-partner-of-abana-enterprises-group-co-abdullah-m-ben-jebreen/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ad24b9e5a61704a4ba5277e2d5f36c8b28aa4c43bc3d7364249f2d2d89fa9656
 canonical: 11800-cfi-co-meets-the-ceo-and-partner-of-abana-enterprises-group-co-abdullah-m-ben-je.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27472
 title: "The Future of Luxury Watches: Trends, Players, and Market Insights for 2025"
-award_year: 2025
+year: 2025
 published: 2025-01-10 07:42:30
 published_gmt: 2025-01-10 07:42:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2025/01/the-future-of-luxury-watches-trends-players-and-market-insights-for-2025/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fad236c6d574f872af40ba4da01c908d65bfa701db6b5f33bf6d9e4361bd2463
 canonical: 27472-the-future-of-luxury-watches-trends-players-and-market-insights-for-2025.json
 ---

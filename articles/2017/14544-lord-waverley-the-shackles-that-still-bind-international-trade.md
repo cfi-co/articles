@@ -1,12 +1,21 @@
 ---
 id: 14544
 title: "Lord Waverley: The Shackles That (Still) Bind International Trade"
-award_year: 2017
+year: 2017
 published: 2017-10-20 13:00:40
 published_gmt: 2017-10-20 12:00:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2017/10/lord-waverley-the-shackles-that-still-bind-international-trade/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7083f8efcb73d7cf0af2a78e4513f224d41ba1543c412ea9e633af6e155b15fe
 canonical: 14544-lord-waverley-the-shackles-that-still-bind-international-trade.json
 ---

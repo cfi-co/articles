@@ -1,12 +1,21 @@
 ---
 id: 5160
 title: "Christopher Colford, World Bank: Competitive Cities Can Meet the Challenge of Job Creation"
-award_year: 2013
+year: 2013
 published: 2013-09-03 16:05:16
 published_gmt: 2013-09-03 15:05:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/09/christopher-colford-world-bank-competitive-cities-can-meet-the-challenge-of-job-creation/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Latin America", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3c16f23f5dfc0c2c375a8740e3427b7a84c8a8d556d3e1bcfedb1f0ed8d0fa66
 canonical: 5160-christopher-colford-world-bank-competitive-cities-can-meet-the-challenge-of-job-.json
 ---

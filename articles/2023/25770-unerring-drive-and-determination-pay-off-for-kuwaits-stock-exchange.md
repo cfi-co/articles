@@ -1,12 +1,21 @@
 ---
 id: 25770
 title: "Unerring Drive and Determination Pay Off for Kuwait’s Stock Exchange"
-award_year: 2023
+year: 2023
 published: 2023-07-11 11:50:24
 published_gmt: 2023-07-11 10:50:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2023/07/unerring-drive-and-determination-pay-off-for-kuwaits-stock-exchange/"
 categories: ["Corporate", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 61ba1a8fed0c7cbeb167d3b2c3e52b26bdd795c8f65ccd2dcf32092b230eccc4
 canonical: 25770-unerring-drive-and-determination-pay-off-for-kuwaits-stock-exchange.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 7798
 title: "Gabriel García Márquez (1927-2014): A Farewell to the Patriarch of Literature"
-award_year: 2014
+year: 2014
 published: 2014-08-13 10:26:47
 published_gmt: 2014-08-13 09:26:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2014/08/gabriel-garcia-marquez-1927-2014-a-farewell-to-the-patriarch-of-literature/"
 categories: ["Latin America", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d9cc5b62ebbac5fb8e3fae2d383d7f25193379d082f198b09560c651d4c55db1
 canonical: 7798-gabriel-garcia-marquez-1927-2014-a-farewell-to-the-patriarch-of-literature.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 9792
 title: "Luisa Nenci, CEO of SustainValues: A Capital Market Union or a Sustainable Financial Market?"
-award_year: 2015
+year: 2015
 published: 2015-05-29 15:07:05
 published_gmt: 2015-05-29 14:07:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/05/luisa-nenci-ceo-of-sustainvalues-a-capital-market-union-or-a-sustainable-financial-market/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6cef5b276f9f78f05ad3849530cbec0616e7c0fbaa31ff57370ee95148052937
 canonical: 9792-luisa-nenci-ceo-of-sustainvalues-a-capital-market-union-or-a-sustainable-financi.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 3662
 title: "IMF: The Risk Side of Exceptionally Low Interest Rates"
-award_year: 2013
+year: 2013
 published: 2013-04-15 08:38:11
 published_gmt: 2013-04-15 08:38:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/04/imf-the-risk-side-of-exceptionally-low-interest-rates/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 16ae1291afcaa9e9e917da5171148b5fba2263ed5d5ad23deacaaae4c6e6c4a1
 canonical: 3662-imf-the-risk-side-of-exceptionally-low-interest-rates.json
 ---

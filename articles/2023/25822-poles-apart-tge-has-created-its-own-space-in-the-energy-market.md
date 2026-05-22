@@ -1,12 +1,21 @@
 ---
 id: 25822
 title: "Poles Apart: TGE has Created its Own Space in the Energy Market"
-award_year: 2023
+year: 2023
 published: 2023-07-25 15:52:51
 published_gmt: 2023-07-25 14:52:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/07/piotr-zawistowski-ceo-towarowa-gielda-energii/"
 categories: ["Corporate", "Energy", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6a6ecfb56c839375183b09446e4b06266ad4ba2b00069cd16f8111a8d5adf1a6
 canonical: 25822-poles-apart-tge-has-created-its-own-space-in-the-energy-market.json
 ---

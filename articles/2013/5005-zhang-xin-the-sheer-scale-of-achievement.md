@@ -1,12 +1,21 @@
 ---
 id: 5005
 title: "Zhang Xin: The Sheer Scale of Achievement"
-award_year: 2013
+year: 2013
 published: 2013-08-14 09:01:12
 published_gmt: 2013-08-14 08:01:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/08/zhang-xin-the-sheer-scale-of-achievement/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 02c9e34b2de17d105495d538877b6cbf5bca0e484c8b200c4e91f03334880d0c
 canonical: 5005-zhang-xin-the-sheer-scale-of-achievement.json
 ---

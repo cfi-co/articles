@@ -1,12 +1,21 @@
 ---
 id: 19698
 title: "OECD: Blended Finance Institutional Role in Responding to COVD-19"
-award_year: 2021
+year: 2021
 published: 2021-05-18 08:50:46
 published_gmt: 2021-05-18 07:50:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2021/05/oecd-blended-finance-institutional-role-in-responding-to-covd-19/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a1eff982aa00609414585765b8aaea72b457c402895c93d2041608febb86e3d4
 canonical: 19698-oecd-blended-finance-institutional-role-in-responding-to-covd-19.json
 ---

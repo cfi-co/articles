@@ -1,12 +1,22 @@
 ---
 id: 28473
 title: "La Trobe Financial: The Difference Is Discipline"
-award_year: 2026
+year: 2026
 published: 2026-05-14 14:31:11
 published_gmt: 2026-05-14 13:31:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2026/05/la-trobe-financial-the-difference-is-discipline/"
 categories: ["Asia Pacific", "Corporate", "Finance"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "La Trobe Financial"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7e39ded0403994f929e2b77ac35479b48e495d64c6748d3dbc48cc35e4f10b11
 canonical: 28473-la-trobe-financial-the-difference-is-discipline.json
 ---

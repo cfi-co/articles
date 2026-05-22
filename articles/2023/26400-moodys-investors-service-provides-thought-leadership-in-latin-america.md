@@ -1,12 +1,21 @@
 ---
 id: 26400
 title: "Moody’s Investors Service Provides Thought-Leadership in Latin America"
-award_year: 2023
+year: 2023
 published: 2023-11-15 13:18:22
 published_gmt: 2023-11-15 13:18:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2023/11/moodys-investors-service-provides-thought-leadership-in-latin-america/"
 categories: ["Corporate", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c9667b170379e3449217b69e1a1dacdd1711e57f869d449761690bca3c58564b
 canonical: 26400-moodys-investors-service-provides-thought-leadership-in-latin-america.json
 ---

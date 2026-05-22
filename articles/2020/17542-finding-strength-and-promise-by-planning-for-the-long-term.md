@@ -1,12 +1,21 @@
 ---
 id: 17542
 title: "John Häfelfinger, CEO of Basellandschaftliche Kantonalbank (BLKB): Finding Strength and Promise by Planning for the Long Term"
-award_year: 2020
+year: 2020
 published: 2020-10-23 13:52:35
 published_gmt: 2020-10-23 12:52:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2020/10/finding-strength-and-promise-by-planning-for-the-long-term/"
 categories: ["Banking", "Banking &amp; Finance", "CFI.co Meets", "Corporate Leaders", "Europe"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 909fc3f4e6b1c8ff4c85086fc2bb04bc3f5545263abd5b60b690d34656e724bc
 canonical: 17542-finding-strength-and-promise-by-planning-for-the-long-term.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 22345
 title: "Tightening Financial Conditions Bring Impacts to Asset Values"
-award_year: 2022
+year: 2022
 published: 2022-07-12 09:07:31
 published_gmt: 2022-07-12 08:07:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2022/07/tightening-financial-conditions-bring-impacts-to-asset-values/"
 categories: ["Europe", "Finance", "Markets", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5840b85d18571134882dfaa1ce751bfd1e61628c44e77231f46b9c43e73e5f2b
 canonical: 22345-tightening-financial-conditions-bring-impacts-to-asset-values.json
 ---

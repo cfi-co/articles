@@ -1,12 +1,21 @@
 ---
 id: 19302
 title: "NIBULON: To Feed the World"
-award_year: 2021
+year: 2021
 published: 2021-03-26 16:28:10
 published_gmt: 2021-03-26 16:28:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/03/nibulon-to-feed-the-world/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 12d49b7d367692d96070121edf915db3fb7cf70541ea88e3bfaf482139d8b9b1
 canonical: 19302-nibulon-to-feed-the-world.json
 ---

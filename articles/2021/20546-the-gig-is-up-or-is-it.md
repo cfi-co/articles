@@ -1,12 +1,21 @@
 ---
 id: 20546
 title: "The Gig is Up … or Is It?"
-award_year: 2021
+year: 2021
 published: 2021-09-08 08:44:39
 published_gmt: 2021-09-08 07:44:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/09/the-gig-is-up-or-is-it/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a346c4df5234b6fb1077c1306a89268c218eaa3bda42d0115097c929a1dbda81
 canonical: 20546-the-gig-is-up-or-is-it.json
 ---

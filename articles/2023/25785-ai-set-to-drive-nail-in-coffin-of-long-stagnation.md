@@ -1,12 +1,21 @@
 ---
 id: 25785
 title: "AI Set to Drive Nail in Coffin of Long Stagnation"
-award_year: 2023
+year: 2023
 published: 2023-07-14 15:09:16
 published_gmt: 2023-07-14 14:09:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/07/ai-set-to-drive-nail-in-coffin-of-long-stagnation/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4d6c7e6ea19ccfa49b469a906e8340847d7b268e602d483bf36ae164b01a1458
 canonical: 25785-ai-set-to-drive-nail-in-coffin-of-long-stagnation.json
 ---

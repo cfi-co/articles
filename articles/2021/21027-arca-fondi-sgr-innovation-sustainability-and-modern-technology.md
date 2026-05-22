@@ -1,12 +1,21 @@
 ---
 id: 21027
 title: "ARCA Fondi SGR: Innovation, Sustainability, and Modern Technology"
-award_year: 2021
+year: 2021
 published: 2021-11-09 15:54:48
 published_gmt: 2021-11-09 15:54:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/arca-fondi-sgr-innovation-sustainability-and-modern-technology/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6df0dfb3c6ad2cdb94e79fb6e79882c7fc4ddcd7d17518ea468fa9f308994bf1
 canonical: 21027-arca-fondi-sgr-innovation-sustainability-and-modern-technology.json
 ---

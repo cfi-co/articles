@@ -1,12 +1,21 @@
 ---
 id: 28204
 title: "Heat Pumps That Pay: How Industrial Process Heat Is Becoming a Cost-Saving Asset"
-award_year: 2026
+year: 2026
 published: 2026-01-14 10:44:39
 published_gmt: 2026-01-14 10:44:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2026/01/heat-pumps-that-pay-how-industrial-process-heat-is-becoming-a-cost-saving-asset/"
 categories: ["Europe", "Events", "Innovation &amp; Technology", "North America", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7eae3c115eb30711af7b99c900571526ceef2629f1872087049ab9fb6573953f
 canonical: 28204-heat-pumps-that-pay-how-industrial-process-heat-is-becoming-a-cost-saving-asset.json
 ---

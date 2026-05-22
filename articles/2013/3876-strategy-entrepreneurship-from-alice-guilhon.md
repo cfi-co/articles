@@ -1,12 +1,21 @@
 ---
 id: 3876
 title: "Strategy & Entrepreneurship from Alice Guilhon"
-award_year: 2013
+year: 2013
 published: 2013-05-09 10:08:27
 published_gmt: 2013-05-09 10:08:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/05/strategy-entrepreneurship-from-alice-guilhon/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ac2ac292855c0b488df5473dd20ada04cd7a7f7d7516eff4d914f6667d3ff6c9
 canonical: 3876-strategy-entrepreneurship-from-alice-guilhon.json
 ---

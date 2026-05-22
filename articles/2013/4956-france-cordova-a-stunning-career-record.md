@@ -1,12 +1,21 @@
 ---
 id: 4956
 title: "France Cordova: A Stunning Career Record"
-award_year: 2013
+year: 2013
 published: 2013-08-09 09:00:03
 published_gmt: 2013-08-09 08:00:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/08/france-cordova-a-stunning-career-record/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8d4351316e599977637a4f3d18561047c669e062ffccdc4f0d0aec8fd3467f52
 canonical: 4956-france-cordova-a-stunning-career-record.json
 ---

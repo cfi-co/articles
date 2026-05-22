@@ -1,12 +1,21 @@
 ---
 id: 3877
 title: "Al-Ghannouchi, Our Hero in Tunisia"
-award_year: 2013
+year: 2013
 published: 2013-05-09 10:12:06
 published_gmt: 2013-05-09 10:12:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/05/al-ghannouchi-our-hero-in-tunisia/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b9fe389c203a8a3f38d5143b6d789e1142b3f55d4fcd7f8896419429d66d47e6
 canonical: 3877-al-ghannouchi-our-hero-in-tunisia.json
 ---

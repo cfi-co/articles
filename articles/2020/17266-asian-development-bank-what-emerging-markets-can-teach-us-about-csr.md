@@ -1,12 +1,21 @@
 ---
 id: 17266
 title: "Asian Development Bank: What Emerging Markets Can Teach Us About CSR"
-award_year: 2020
+year: 2020
 published: 2020-10-15 11:12:51
 published_gmt: 2020-10-15 10:12:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2020/10/asian-development-bank-what-emerging-markets-can-teach-us-about-csr/"
 categories: ["Asia Pacific", "Banking", "Banking &amp; Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9acb18829288e262a898490f4066b8ea68143969088c447d144ec9d9dd8bd153
 canonical: 17266-asian-development-bank-what-emerging-markets-can-teach-us-about-csr.json
 ---

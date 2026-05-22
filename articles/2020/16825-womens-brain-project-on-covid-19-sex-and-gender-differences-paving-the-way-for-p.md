@@ -1,12 +1,21 @@
 ---
 id: 16825
 title: "Women's Brain Project on COVID-19: Sex and Gender Differences Paving the Way for Precision Medicine"
-award_year: 2020
+year: 2020
 published: 2020-09-01 18:52:06
 published_gmt: 2020-09-01 17:52:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/09/womens-brain-project-on-covid-19-sex-and-gender-differences-paving-the-way-for-precision-medicine/"
 categories: ["Europe", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b2700e21b52d383e1b7ba49b30b5fcc3924e04ad88242a6ec220e917691f915c
 canonical: 16825-womens-brain-project-on-covid-19-sex-and-gender-differences-paving-the-way-for-p.json
 ---

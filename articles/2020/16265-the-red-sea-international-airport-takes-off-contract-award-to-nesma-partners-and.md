@@ -1,12 +1,21 @@
 ---
 id: 16265
 title: "The Red Sea International Airport Takes Off: Contract Award to Nesma & Partners and Almabani"
-award_year: 2020
+year: 2020
 published: 2020-07-13 11:41:25
 published_gmt: 2020-07-13 10:41:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2020/07/the-red-sea-international-airport-takes-off-contract-award-to-nesma-partners-and-almabani/"
 categories: ["Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 374647aac4434201432451597005afffe96ac973fb3b8755422df78db37e957e
 canonical: 16265-the-red-sea-international-airport-takes-off-contract-award-to-nesma-partners-and.json
 ---

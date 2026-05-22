@@ -1,12 +1,21 @@
 ---
 id: 25578
 title: "AI: Lies, Surprises, and a Risk of our Own Extinction — With Some Interesting Attributes"
-award_year: 2023
+year: 2023
 published: 2023-06-12 11:18:05
 published_gmt: 2023-06-12 10:18:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/06/ai-lies-surprises-and-a-risk-of-our-own-extinction-with-some-interesting-attributes/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7300d52fb19cba74a56b6e7f7c66f5f4223c180c0941e05aa69f663227588035
 canonical: 25578-ai-lies-surprises-and-a-risk-of-our-own-extinction-with-some-interesting-attribu.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 20674
 title: "Verdant Capital: The Fintech Ecosystem in Africa is Entering into a New Era of Growth and Consolidation"
-award_year: 2021
+year: 2021
 published: 2021-09-20 14:52:04
 published_gmt: 2021-09-20 13:52:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/09/verdant-capital-the-fintech-ecosystem-in-africa-is-entering-into-a-new-era-of-growth-and-consolidation/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9c62237adf4ac5d4e471d6221d1897819db35259622e63bf616e2a0220e97ef1
 canonical: 20674-verdant-capital-the-fintech-ecosystem-in-africa-is-entering-into-a-new-era-of-gr.json
 ---

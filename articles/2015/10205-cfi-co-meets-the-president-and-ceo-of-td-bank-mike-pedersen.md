@@ -1,12 +1,21 @@
 ---
 id: 10205
 title: "CFI.co Meets the President and CEO of TD Bank: Mike Pedersen"
-award_year: 2015
+year: 2015
 published: 2015-08-14 11:31:56
 published_gmt: 2015-08-14 10:31:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2015/08/cfi-co-meets-the-president-and-ceo-of-td-bank-mike-pedersen/"
 categories: ["Banking", "Corporate Leaders", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 20d83a610469995a5717e69003a6912ce08dbbf82a4a56f1429672e6e9d041b1
 canonical: 10205-cfi-co-meets-the-president-and-ceo-of-td-bank-mike-pedersen.json
 ---

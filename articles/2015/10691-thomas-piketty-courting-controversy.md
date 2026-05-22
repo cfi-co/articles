@@ -1,12 +1,21 @@
 ---
 id: 10691
 title: "Thomas Piketty: Courting Controversy"
-award_year: 2015
+year: 2015
 published: 2015-12-04 12:55:05
 published_gmt: 2015-12-04 12:55:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2015/12/thomas-piketty-courting-controversy/"
 categories: ["Europe", "Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ced2e21966d82c64dc4b53fb45504d444c6d844265bcc7bea5e5e1d8638f3c71
 canonical: 10691-thomas-piketty-courting-controversy.json
 ---

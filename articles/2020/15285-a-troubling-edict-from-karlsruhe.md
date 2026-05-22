@@ -1,12 +1,21 @@
 ---
 id: 15285
 title: "A Troubling Edict from Karlsruhe"
-award_year: 2020
+year: 2020
 published: 2020-05-07 14:16:30
 published_gmt: 2020-05-07 13:16:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/05/a-troubling-edict-from-karlsruhe/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6d87be1b2eb3fa20e1062e6cb93bc5a9c779787498b583763afc8557745fd93b
 canonical: 15285-a-troubling-edict-from-karlsruhe.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 12867
 title: "RegTech to the Rescue"
-award_year: 2018
+year: 2018
 published: 2018-08-09 12:28:44
 published_gmt: 2018-08-09 11:28:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2018/08/regtech-to-the-rescue/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 68504df2fb33a3cec6813d4bd665eac3f305b48ff7c3d5d29ce01fc2e52f3f20
 canonical: 12867-regtech-to-the-rescue.json
 ---

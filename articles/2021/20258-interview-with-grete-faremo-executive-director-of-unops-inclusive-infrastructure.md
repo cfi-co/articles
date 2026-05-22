@@ -1,12 +1,21 @@
 ---
 id: 20258
 title: "Interview with Grete Faremo, Executive Director of UNOPS: Inclusive Infrastructure Development"
-award_year: 2021
+year: 2021
 published: 2021-07-26 07:38:03
 published_gmt: 2021-07-26 06:38:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2021/07/interview-with-grete-faremo-executive-director-of-unops-inclusive-infrastructure-development/"
 categories: ["Europe", "Finance", "Portraits", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c9392275f1b919f8bcdea0fe6d7b2423dc2ccb8d732b9276a8ce49b2711fe6cd
 canonical: 20258-interview-with-grete-faremo-executive-director-of-unops-inclusive-infrastructure.json
 ---

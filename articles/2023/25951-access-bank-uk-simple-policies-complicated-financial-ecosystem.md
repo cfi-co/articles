@@ -1,12 +1,21 @@
 ---
 id: 25951
 title: "Access Granted: Simple Policies in a Complicated Financial Ecosystem"
-award_year: 2023
+year: 2023
 published: 2023-08-30 16:17:42
 published_gmt: 2023-08-30 15:17:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2023/08/access-bank-uk-simple-policies-complicated-financial-ecosystem/"
 categories: ["Africa", "Banking", "Corporate", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f5fd98cbe440835c6b832e5edb77e7cba2302313fca84ff16460e6be0b924a72
 canonical: 25951-access-bank-uk-simple-policies-complicated-financial-ecosystem.json
 ---

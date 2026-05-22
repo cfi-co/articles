@@ -1,12 +1,21 @@
 ---
 id: 11177
 title: "Hermès: Corporate Savoir Vivre"
-award_year: 2016
+year: 2016
 published: 2016-05-04 13:21:21
 published_gmt: 2016-05-04 12:21:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2016/05/hermes-corporate-savoir-vivre/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b12ee9842c0c9f07855775f9650ac1a1ca91aaef632b6c1d8de765564fb44d1e
 canonical: 11177-hermes-corporate-savoir-vivre.json
 ---

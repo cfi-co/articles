@@ -1,12 +1,21 @@
 ---
 id: 23223
 title: "Aviv Wolff: Moo-ve Over, Bessie, There’s a New Dairy on the Scene…"
-award_year: 2022
+year: 2022
 published: 2022-08-31 10:07:41
 published_gmt: 2022-08-31 09:07:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2022/08/aviv-wolff-moo-ve-over-bessie-theres-a-new-dairy-on-the-scene/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cc3940941b6691618e1681f740ced1228e49071aa6096ecf97dd7be8987ca0ef
 canonical: 23223-aviv-wolff-moo-ve-over-bessie-theres-a-new-dairy-on-the-scene.json
 ---

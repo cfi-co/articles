@@ -1,12 +1,21 @@
 ---
 id: 26268
 title: "Compelling Case for Making Guinea the Destination for Your Next Investment"
-award_year: 2023
+year: 2023
 published: 2023-10-25 14:30:00
 published_gmt: 2023-10-25 13:30:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2023/10/apip-guinee-making-guinea-your-next-investment/"
 categories: ["Africa", "Finance", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2c11c10dd69d945c4cb8c0f2e83537221a65edea5e9afa39a9d3a01ffb9c8dbe
 canonical: 26268-apip-guinee-making-guinea-your-next-investment.json
 ---

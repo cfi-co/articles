@@ -1,12 +1,21 @@
 ---
 id: 15611
 title: "Hold the Bulls: US Recovery Marred by Uncertainty"
-award_year: 2020
+year: 2020
 published: 2020-06-11 12:18:05
 published_gmt: 2020-06-11 11:18:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/06/hold-the-bulls-us-recovery-marred-by-uncertainty/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 90150744189fb26ea3e41c51f761239a171782f6e80792900c99e543b62739db
 canonical: 15611-hold-the-bulls-us-recovery-marred-by-uncertainty.json
 ---

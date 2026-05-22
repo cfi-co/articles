@@ -1,12 +1,21 @@
 ---
 id: 13506
 title: "UAE Backs China’s One Belt One Road Initiative at Annual Investment Meeting"
-award_year: 2019
+year: 2019
 published: 2019-04-09 20:29:41
 published_gmt: 2019-04-09 19:29:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2019/04/uae-backs-chinas-one-belt-one-road-initiative-at-annual-investment-meeting/"
 categories: ["Asia Pacific", "Economics &amp; Convergence", "Energy", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d37d054ae6cd537d2f3bfb10e7acd15d73673b9e6b37687c0854dc678bb1492d
 canonical: 13506-uae-backs-chinas-one-belt-one-road-initiative-at-annual-investment-meeting.json
 ---

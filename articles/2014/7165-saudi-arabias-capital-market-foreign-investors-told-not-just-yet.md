@@ -1,12 +1,21 @@
 ---
 id: 7165
 title: "Saudi Arabia’s Capital Market: Foreign Investors Told “Not Just Yet”"
-award_year: 2014
+year: 2014
 published: 2014-05-09 15:47:21
 published_gmt: 2014-05-09 14:47:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/05/saudi-arabias-capital-market-foreign-investors-told-not-just-yet/"
 categories: ["Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c9e039d3ae4cd46440a9ee246a42bbf47f05f245a3ec89d1b95a81b946a4daa7
 canonical: 7165-saudi-arabias-capital-market-foreign-investors-told-not-just-yet.json
 ---

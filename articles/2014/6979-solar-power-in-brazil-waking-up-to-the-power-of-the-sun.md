@@ -1,12 +1,21 @@
 ---
 id: 6979
 title: "Solar Power in Brazil: Waking Up to the Power of the Sun"
-award_year: 2014
+year: 2014
 published: 2014-04-14 11:17:24
 published_gmt: 2014-04-14 10:17:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2014/04/solar-power-in-brazil-waking-up-to-the-power-of-the-sun/"
 categories: ["Latin America", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 53d3a82a993de396ccd07df1bf32639f47cb2bafd38a080ebee27c748ae23a73
 canonical: 6979-solar-power-in-brazil-waking-up-to-the-power-of-the-sun.json
 ---

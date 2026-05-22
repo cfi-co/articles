@@ -1,12 +1,21 @@
 ---
 id: 6265
 title: "Sudan Cabinet Shake-Up Boosts Conciliation Efforts"
-award_year: 2013
+year: 2013
 published: 2013-12-17 16:25:10
 published_gmt: 2013-12-17 16:25:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/12/sudan-cabinet-shake-up-boosts-conciliation-efforts/"
 categories: ["Europe", "Finance", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cbd98c7d03aca93cfacb27f4c8a1221ba94723f4f49bff6519b32053f6a5dbd3
 canonical: 6265-sudan-cabinet-shake-up-boosts-conciliation-efforts.json
 ---

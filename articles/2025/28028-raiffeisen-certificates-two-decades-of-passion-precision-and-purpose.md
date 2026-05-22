@@ -1,12 +1,22 @@
 ---
 id: 28028
 title: "Raiffeisen Certificates: Two Decades of Passion, Precision and Purpose"
-award_year: 2025
+year: 2025
 published: 2025-11-09 08:59:42
 published_gmt: 2025-11-09 08:59:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2025/11/raiffeisen-certificates-two-decades-of-passion-precision-and-purpose/"
 categories: ["Banking", "Corporate", "Europe"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "Raiffeisen Bank International AG"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f2bcad48dfa8101a1ebfe9590181b112406414895ea7c492b1e456e2832bf715
 canonical: 28028-raiffeisen-certificates-two-decades-of-passion-precision-and-purpose.json
 ---

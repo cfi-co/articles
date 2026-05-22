@@ -1,12 +1,21 @@
 ---
 id: 20790
 title: "Shock and Ore — India’s Love of Gold Goes Beyond Market Prices"
-award_year: 2021
+year: 2021
 published: 2021-10-11 16:14:14
 published_gmt: 2021-10-11 15:14:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/10/shock-and-ore-indias-love-of-gold-goes-beyond-market-prices/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6b723a99eddd3cf171d1a6a3daaefe4f03d11d05457578befc3fc9865fd7686b
 canonical: 20790-shock-and-ore-indias-love-of-gold-goes-beyond-market-prices.json
 ---

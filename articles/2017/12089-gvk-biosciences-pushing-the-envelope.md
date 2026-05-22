@@ -1,12 +1,21 @@
 ---
 id: 12089
 title: "GVK Biosciences: Pushing the Envelope"
-award_year: 2017
+year: 2017
 published: 2017-10-18 15:16:53
 published_gmt: 2017-10-18 14:16:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2017/10/gvk-biosciences-pushing-the-envelope/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c8c3b5d331036d01c28491d1d1297ee902a856c3e30c03857ca1ac6b853f1860
 canonical: 12089-gvk-biosciences-pushing-the-envelope.json
 ---

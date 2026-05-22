@@ -1,12 +1,21 @@
 ---
 id: 22005
 title: "Lindsey McMurray, Pollen Street Capital Co-founder: Purpose and Progress Rooted in Business"
-award_year: 2022
+year: 2022
 published: 2022-05-19 10:58:04
 published_gmt: 2022-05-19 09:58:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/lindsey-mcmurray-pollen-street-capital-co-founder-purpose-and-progress-rooted-in-business/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 336e1695f40e931eacb56bff90aa01ca7966d84cfa2db7f4c9f694d162e531f5
 canonical: 22005-lindsey-mcmurray-pollen-street-capital-co-founder-purpose-and-progress-rooted-in.json
 ---

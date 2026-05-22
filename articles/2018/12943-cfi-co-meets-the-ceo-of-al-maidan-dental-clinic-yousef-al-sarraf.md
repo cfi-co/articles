@@ -1,12 +1,21 @@
 ---
 id: 12943
 title: "CFI.co Meets the CEO of Al-Maidan Dental Clinic: Yousef Al Sarraf"
-award_year: 2018
+year: 2018
 published: 2018-07-12 12:30:13
 published_gmt: 2018-07-12 11:30:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/07/cfi-co-meets-the-ceo-of-al-maidan-dental-clinic-yousef-al-sarraf/"
 categories: ["CFI.co Meets", "Corporate Leaders"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f3561397ddde82726890bb3fe8ead44cb69c11a36ef68cefb30c20cd2fde646d
 canonical: 12943-cfi-co-meets-the-ceo-of-al-maidan-dental-clinic-yousef-al-sarraf.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27859
 title: "The Evolution of Elite: A History of Hedge Funds"
-award_year: 2025
+year: 2025
 published: 2025-08-13 11:30:13
 published_gmt: 2025-08-13 10:30:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/08/the-evolution-of-elite-a-history-of-hedge-funds/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 85366b96ba53d6a5301186cb93194b0d824ec0531ec938af8fb490e5b46ee8d5
 canonical: 27859-the-evolution-of-elite-a-history-of-hedge-funds.json
 ---

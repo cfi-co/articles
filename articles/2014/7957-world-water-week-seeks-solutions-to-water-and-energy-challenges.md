@@ -1,12 +1,21 @@
 ---
 id: 7957
 title: "World Water Week Seeks Solutions to Water and Energy Challenges"
-award_year: 2014
+year: 2014
 published: 2014-09-03 12:38:20
 published_gmt: 2014-09-03 11:38:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/09/world-water-week-seeks-solutions-to-water-and-energy-challenges/"
 categories: ["Europe", "North America", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 37b7d0034bd5b0decf943b0667b89f5f1b162f6f5280e060f6a0066a35654c1a
 canonical: 7957-world-water-week-seeks-solutions-to-water-and-energy-challenges.json
 ---

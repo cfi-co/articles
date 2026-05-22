@@ -1,12 +1,21 @@
 ---
 id: 7946
 title: "Demand for Sustainable Developments Rises as UAE Residents Vote for a Greener Lifestyle"
-award_year: 2014
+year: 2014
 published: 2014-09-01 11:26:42
 published_gmt: 2014-09-01 10:26:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/09/demand-for-sustainable-developments-rises-as-uae-residents-vode-for-a-greener-lifestyle/"
 categories: ["Middle East", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d37655ad2beead011594374611a953898d0be57c814fde2995f6bc9552eaa3e4
 canonical: 7946-demand-for-sustainable-developments-rises-as-uae-residents-vode-for-a-greener-li.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 22552
 title: "Nicole Hu: Tackling Disaster with Data — and First-hand Experience"
-award_year: 2022
+year: 2022
 published: 2022-08-01 14:48:15
 published_gmt: 2022-08-01 13:48:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2022/08/nicole-hu-tackling-disaster-with-data-and-first-hand-experience/"
 categories: ["Brave New World", "Corporate", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e4a49ddecaf5f1efa8cdceac8ac290b579c23a566b27abe1540f464ebc9d45fc
 canonical: 22552-nicole-hu-tackling-disaster-with-data-and-first-hand-experience.json
 ---

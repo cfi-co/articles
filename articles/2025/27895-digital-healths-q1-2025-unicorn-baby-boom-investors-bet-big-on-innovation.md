@@ -1,12 +1,21 @@
 ---
 id: 27895
 title: "Digital Health’s Q1 2025 Unicorn Baby Boom: Investors Bet Big on Innovation"
-award_year: 2025
+year: 2025
 published: 2025-09-05 13:06:24
 published_gmt: 2025-09-05 12:06:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/09/digital-healths-q1-2025-unicorn-baby-boom-investors-bet-big-on-innovation/"
 categories: ["Finance", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: af727538463288d1124188e1b472c68794594244f0e3e618f58258be824b8cb7
 canonical: 27895-digital-healths-q1-2025-unicorn-baby-boom-investors-bet-big-on-innovation.json
 ---

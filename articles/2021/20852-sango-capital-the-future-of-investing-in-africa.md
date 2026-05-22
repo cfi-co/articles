@@ -1,12 +1,21 @@
 ---
 id: 20852
 title: "Sango Capital: What 10 Years of Investing in Africa Might Tell Us About the 10 to Come"
-award_year: 2021
+year: 2021
 published: 2021-10-21 12:53:10
 published_gmt: 2021-10-21 11:53:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/10/sango-capital-the-future-of-investing-in-africa/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e0e225a2fab451b016a6484db4cf2cd79a9aeca59fd092fcd81c7e9dc35e4360
 canonical: 20852-sango-capital-the-future-of-investing-in-africa.json
 ---

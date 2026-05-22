@@ -1,12 +1,21 @@
 ---
 id: 16088
 title: "Banco Económico: Angola on the Brink of a New Era"
-award_year: 2019
+year: 2019
 published: 2019-10-02 12:58:37
 published_gmt: 2019-10-02 11:58:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/10/banco-economico-angola-on-the-brink-of-a-new-era/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2cd2ea82ae168955dc244f4bcaab98c5044d0473e5cc60cfe6f2200132dc0b66
 canonical: 16088-banco-economico-angola-on-the-brink-of-a-new-era.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 7776
 title: "MIGA (World Bank): Islamic Finance - A Growing Source of Capital for the Developing World"
-award_year: 2014
+year: 2014
 published: 2014-08-08 10:52:34
 published_gmt: 2014-08-08 09:52:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/08/miga-world-bank-islamic-finance-a-growing-source-of-capital-for-the-developing-world/"
 categories: ["Africa", "Finance", "Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: adb369e82647f0e76b65cf925ebff8598dcd41235720e9db991cd0b8e16297aa
 canonical: 7776-miga-world-bank-islamic-finance-a-growing-source-of-capital-for-the-developing-w.json
 ---

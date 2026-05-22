@@ -1,12 +1,21 @@
 ---
 id: 26488
 title: "Political Upset in The Netherlands: Voters Turn to Firebrand Leader"
-award_year: 2023
+year: 2023
 published: 2023-11-24 20:16:22
 published_gmt: 2023-11-24 20:16:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/11/political-upset-in-the-netherlands-voters-turn-to-firebrand-leader/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2044ba2af810b6cc5049f63194a0eb2757e3a6de4574cc8e9a4f9e8e17297231
 canonical: 26488-political-upset-in-the-netherlands-voters-turn-to-firebrand-leader.json
 ---

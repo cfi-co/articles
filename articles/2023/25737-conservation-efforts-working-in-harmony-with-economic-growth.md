@@ -1,12 +1,21 @@
 ---
 id: 25737
 title: "Conservation Efforts Working in Harmony with Economic Growth"
-award_year: 2023
+year: 2023
 published: 2023-07-17 09:45:58
 published_gmt: 2023-07-17 08:45:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2023/07/environment-agency-abu-dhabi/"
 categories: ["Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7cf65c4e02f40ca5d61132f0e1c6c334f714db7e7b34c23088d0f99a51143db8
 canonical: 25737-conservation-efforts-working-in-harmony-with-economic-growth.json
 ---

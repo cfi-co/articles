@@ -1,12 +1,21 @@
 ---
 id: 15068
 title: "The Reassertion of National Self-Interest"
-award_year: 2020
+year: 2020
 published: 2020-04-28 14:53:27
 published_gmt: 2020-04-28 13:53:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/the-reassertion-of-national-self-interest/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e639d737e628c02c9be61f3af0d5d90edcf652583893230dcc92fee921379dfd
 canonical: 15068-the-reassertion-of-national-self-interest.json
 ---

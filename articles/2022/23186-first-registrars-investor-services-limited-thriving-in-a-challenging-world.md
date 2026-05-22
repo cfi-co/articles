@@ -1,12 +1,21 @@
 ---
 id: 23186
 title: "First Registrars & Investor Services Limited: Thriving in a Challenging World"
-award_year: 2022
+year: 2022
 published: 2022-08-26 07:04:57
 published_gmt: 2022-08-26 06:04:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/08/first-registrars-investor-services-limited-thriving-in-a-challenging-world/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: be24648c693a7fed1ca375ebd6b01ee63f61832be28cfa9214f51eeb8326eac3
 canonical: 23186-first-registrars-investor-services-limited-thriving-in-a-challenging-world.json
 ---

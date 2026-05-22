@@ -1,12 +1,21 @@
 ---
 id: 25702
 title: "Video Gaming Firm Forced to Cut Staff — Despite Cult-like Following for a Franchise that Just Won’t Die"
-award_year: 2023
+year: 2023
 published: 2023-07-03 10:58:11
 published_gmt: 2023-07-03 09:58:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/07/video-gaming-firm-forced-to-cut-staff-despite-cult-like-following-for-a-franchise-that-just-wont-die/"
 categories: ["Brave New World", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 89003435bbd8d12673508f9fa1c8ce5969c9a28fd2f702231141e9acac393a30
 canonical: 25702-video-gaming-firm-forced-to-cut-staff-despite-cult-like-following-for-a-franchis.json
 ---

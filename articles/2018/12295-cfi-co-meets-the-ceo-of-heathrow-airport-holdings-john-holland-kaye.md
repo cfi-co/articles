@@ -1,12 +1,21 @@
 ---
 id: 12295
 title: "CFI.co Meets the CEO of Heathrow Airport Holdings: John Holland-Kaye"
-award_year: 2018
+year: 2018
 published: 2018-02-12 16:28:53
 published_gmt: 2018-02-12 16:28:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/02/cfi-co-meets-the-ceo-of-heathrow-airport-holdings-john-holland-kaye/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 64f7878d696564e3ae589ad21a95d2cd417f81c2d243c0025103faa2448085ae
 canonical: 12295-cfi-co-meets-the-ceo-of-heathrow-airport-holdings-john-holland-kaye.json
 ---

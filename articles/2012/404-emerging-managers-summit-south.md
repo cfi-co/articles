@@ -1,12 +1,21 @@
 ---
 id: 404
 title: "Emerging Managers Summit South"
-award_year: 2012
+year: 2012
 published: 2012-05-16 11:29:26
 published_gmt: 2012-05-16 10:29:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/05/emerging-managers-summit-south/"
 categories: ["Banking", "Finance", "North America", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 88883c97e550ddb4e8cc01c025539179880457166eeb11bd6bc844ecf596d75b
 canonical: 404-emerging-managers-summit-south.json
 ---

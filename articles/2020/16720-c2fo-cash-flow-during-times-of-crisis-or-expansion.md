@@ -1,12 +1,21 @@
 ---
 id: 16720
 title: "C2FO: Cash Flow During Times of Crisis — or Expansion"
-award_year: 2020
+year: 2020
 published: 2020-08-20 13:17:15
 published_gmt: 2020-08-20 12:17:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/08/c2fo-cash-flow-during-times-of-crisis-or-expansion/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 586c25bff1d48d9307f7781da680610c1a848c76cdfe1b34bbcb1454c126d3bb
 canonical: 16720-c2fo-cash-flow-during-times-of-crisis-or-expansion.json
 ---

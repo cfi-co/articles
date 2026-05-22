@@ -1,12 +1,21 @@
 ---
 id: 25849
 title: "Trusting AI in International Trade — the Road to Failure, or the Future?"
-award_year: 2023
+year: 2023
 published: 2023-07-28 12:49:12
 published_gmt: 2023-07-28 11:49:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/07/trusting-ai-in-international-trade-the-road-to-failure-or-the-future/"
 categories: ["Brave New World", "Columnists", "Innovation &amp; Technology", "Technology"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 95d08e5f43228eac311908b14c14f9b1814119f2763c3858bcad6f073ca949a4
 canonical: 25849-trusting-ai-in-international-trade-the-road-to-failure-or-the-future.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21739
 title: "Leighton Smith and Andrew Evans: Serendipitous Rise Puts Dynamic Duo at the Top"
-award_year: 2022
+year: 2022
 published: 2022-05-03 15:44:38
 published_gmt: 2022-05-03 14:44:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/leighton-smith-and-andrew-evans-serendipitous-rise-puts-dynamic-duo-at-the-top/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aa247153dd06dbb1f3e01f983364a849f8f913ab2f1af66566d5006e131a207b
 canonical: 21739-leighton-smith-and-andrew-evans-serendipitous-rise-puts-dynamic-duo-at-the-top.json
 ---

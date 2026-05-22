@@ -11,8 +11,21 @@
         "Africa",
         "Corporate Leaders"
     ],
+    "classification": {
+        "content_class": "editorial_analysis",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"alignright  wp-image-4869\" alt=\"Badaru Adeoti\" src=\"https://cfi.co/wp-content/uploads/2013/08/Badaru-Adeoti.jpg\" width=\"187\" height=\"172\" />Badaru is a computer science graduate of Babcock University (one of the first private universities in Nigeria).</strong> He worked for/with different telecoms and media companies in various capacities ranging from Head/ Lead Engineer to Regional Manager before starting up with Grat Network Digital Solutions Limited, a company incorporated under the Corporate Affairs Commission of Nigeria.</p>\r\n<p style=\"text-align: justify;\">He has played various roles in different spectra of the telecoms industry ranging from telecoms consultancy, project management, practical field work, business development and strategy. Badaru has also consulted for major telecommunication service providers and vendors amongst others.</p>\r\n<p style=\"text-align: justify;\">Badaru is also a director at De Prestige Limited, a company established to run hotel management and services, real estate and mechanized farming. De Prestige has been in existence for three decades.</p>\r\n<p style=\"text-align: justify;\">A personal leadership consultancy for individuals who want to discover their purpose and ascend the ladder of success is another of Badaru’s successful ventures . He is an avid reader and a result oriented person who has been instrumental in growing Grat Network from its humble beginnings into a vibrant company as well as its first-to-market of mini innovative solutions for oil and gas security, driving the company's rapid growth.</p>\r\n<p style=\"text-align: justify;\">Board member of several up and coming telecoms servicing companies, Badaru Adeoti has a great passion for telecoms and onshore/ offshore oil and gas security.</p>",
     "content_sha256": "c041c55655809ab81b1133f50c73f5a04bfa214f396667d4027b934791aee83c",
-    "record_sha256": "36228239f78b70f02aa691eaea104d010e111cba98e86941a29553f605cda9d7"
+    "record_sha256": "d0c2541e5395d343cce44fc9d59b95842b088ebb15b6d0219e8a243d8fff293e"
 }

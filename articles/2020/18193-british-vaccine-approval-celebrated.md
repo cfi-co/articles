@@ -1,12 +1,21 @@
 ---
 id: 18193
 title: "Whilst Trade Talks Falter, Brits Celebrate Vaccine First"
-award_year: 2020
+year: 2020
 published: 2020-12-03 16:58:57
 published_gmt: 2020-12-03 16:58:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/12/british-vaccine-approval-celebrated/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 31cdd6d04b9f39f7b060d673db3d599b7d04feca3a7fc4b6e3f8a94d46dfa64f
 canonical: 18193-british-vaccine-approval-celebrated.json
 ---

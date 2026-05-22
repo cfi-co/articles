@@ -1,12 +1,21 @@
 ---
 id: 27106
 title: "Otaviano Canuto: Politics and Climate Change Make Awkward Bedfellows in the Race to Tackle a Truly Fearsome Foe"
-award_year: 2024
+year: 2024
 published: 2024-09-11 08:13:04
 published_gmt: 2024-09-11 07:13:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2024/09/otaviano-canuto-politics-and-climate-change-make-awkward-bedfellows-in-the-race-to-tackle-a-truly-fearsome-foe/"
 categories: ["CSR", "Energy", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f08e7913001491d024d9c53e37f3c8e404b260f0216b7f124878077b2954c2e1
 canonical: 27106-otaviano-canuto-politics-and-climate-change-make-awkward-bedfellows-in-the-race-.json
 ---

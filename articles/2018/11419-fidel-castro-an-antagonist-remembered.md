@@ -1,12 +1,21 @@
 ---
 id: 11419
 title: "Fidel Castro: An Antagonist Remembered"
-award_year: 2018
+year: 2018
 published: 2018-01-28 09:52:17
 published_gmt: 2018-01-28 09:52:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/featured/2018/01/fidel-castro-an-antagonist-remembered/"
 categories: ["Obituaries"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 226d19c97e4bd5840bd694abd9821d65025f9ca5b60759f909e9fa4d015d8af2
 canonical: 11419-fidel-castro-an-antagonist-remembered.json
 ---

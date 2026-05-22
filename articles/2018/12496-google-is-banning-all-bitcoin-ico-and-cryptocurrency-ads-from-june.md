@@ -1,12 +1,21 @@
 ---
 id: 12496
 title: "Google is Banning All Bitcoin, ICO, and Cryptocurrency Ads from June"
-award_year: 2018
+year: 2018
 published: 2018-05-15 14:17:00
 published_gmt: 2018-05-15 13:17:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2018/05/google-is-banning-all-bitcoin-ico-and-cryptocurrency-ads-from-june/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e0f76d3eeba99324b8d0713e8689c497e83a2ead6bc07ba9282b154f1a14bef5
 canonical: 12496-google-is-banning-all-bitcoin-ico-and-cryptocurrency-ads-from-june.json
 ---

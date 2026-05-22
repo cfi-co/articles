@@ -1,12 +1,21 @@
 ---
 id: 15569
 title: "Edible Protein from Thin Air: Dyson Knows a Bargain When She Sees One"
-award_year: 2020
+year: 2020
 published: 2020-06-05 12:12:18
 published_gmt: 2020-06-05 11:12:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/06/edible-protein-from-thin-air-dyson-knows-a-bargain-when-she-sees-one/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 273c2969b8d382d9875f150e24e5cc5fbda6385c0382800eca4c2ff2f71d0dd4
 canonical: 15569-edible-protein-from-thin-air-dyson-knows-a-bargain-when-she-sees-one.json
 ---

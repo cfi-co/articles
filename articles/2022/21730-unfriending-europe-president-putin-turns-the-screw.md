@@ -1,12 +1,21 @@
 ---
 id: 21730
 title: "Unfriending Europe: President Putin Turns the Screw"
-award_year: 2022
+year: 2022
 published: 2022-04-28 07:16:18
 published_gmt: 2022-04-28 06:16:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/04/unfriending-europe-president-putin-turns-the-screw/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a55364d55cfda25d6ba4c797bc65d10186a303706c11f5eb1e9ee356406a835b
 canonical: 21730-unfriending-europe-president-putin-turns-the-screw.json
 ---

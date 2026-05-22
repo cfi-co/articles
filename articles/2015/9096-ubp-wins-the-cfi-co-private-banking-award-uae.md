@@ -1,12 +1,21 @@
 ---
 id: 9096
 title: "<br>UBP Wins the CFI.co Private Banking Award, UAE"
-award_year: 2015
+year: 2015
 published: 2015-02-21 17:12:09
 published_gmt: 2015-02-21 17:12:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/"
 categories: ["Awards Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b05ecc51cc9ec666b483c9a58c32788e787cb95ff831d1501d23ce7fdeeba05a
 canonical: 9096-ubp-wins-the-cfi-co-private-banking-award-uae.json
 ---

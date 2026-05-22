@@ -1,12 +1,21 @@
 ---
 id: 113
 title: "CFI Investment Outlook 2012"
-award_year: 2011
+year: 2011
 published: 2011-11-06 13:43:59
 published_gmt: 2011-11-06 13:43:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2011/11/cfi-investment-outlook-2012/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 88936ad5eb58f1abffc439e6463430bb98446ea18d4c0cfca9eb7a5e7e27b7a9
 canonical: 113-cfi-investment-outlook-2012.json
 ---

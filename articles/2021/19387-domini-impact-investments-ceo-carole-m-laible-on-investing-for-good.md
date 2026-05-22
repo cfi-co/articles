@@ -1,12 +1,21 @@
 ---
 id: 19387
 title: "Domini Impact Investments: CEO Carole M. Laible on ‘Investing for Good’"
-award_year: 2021
+year: 2021
 published: 2021-04-01 12:49:30
 published_gmt: 2021-04-01 11:49:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/04/domini-impact-investments-ceo-carole-m-laible-on-investing-for-good/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 14678846d9f41d391c532014344053f417c97853462584bcb8e280e632d049f5
 canonical: 19387-domini-impact-investments-ceo-carole-m-laible-on-investing-for-good.json
 ---

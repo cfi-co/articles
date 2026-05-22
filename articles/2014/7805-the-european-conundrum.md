@@ -1,12 +1,21 @@
 ---
 id: 7805
 title: "The European Conundrum"
-award_year: 2014
+year: 2014
 published: 2014-08-14 11:39:41
 published_gmt: 2014-08-14 10:39:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/08/the-european-conundrum/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b3d1695dcda39728786b72d8a8316df891f63b92b93f0b4e5cc0319d9bd87de3
 canonical: 7805-the-european-conundrum.json
 ---

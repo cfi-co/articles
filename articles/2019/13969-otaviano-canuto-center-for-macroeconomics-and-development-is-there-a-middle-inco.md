@@ -1,12 +1,21 @@
 ---
 id: 13969
 title: "Otaviano Canuto, Center for Macroeconomics and Development: Is There a Middle-Income Trap?"
-award_year: 2019
+year: 2019
 published: 2019-08-28 10:53:54
 published_gmt: 2019-08-28 09:53:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2019/08/otaviano-canuto-center-for-macroeconomics-and-development-is-there-a-middle-income-trap/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6eba77d2c46bc2f89f5cd2dcbeac4a83cf9079eaa6409c6139d850108e9d798e
 canonical: 13969-otaviano-canuto-center-for-macroeconomics-and-development-is-there-a-middle-inco.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27111
 title: "Investing in Africa? Here Are Six Reasons to Choose Ghana"
-award_year: 2024
+year: 2024
 published: 2024-09-12 11:32:42
 published_gmt: 2024-09-12 10:32:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2024/09/investing-in-africa-here-are-six-reasons-to-choose-ghana/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 735bffa84d08de31964c4b6b25a3eb77c3f2f64d0f20a8c417ddbdb4d0120bed
 canonical: 27111-investing-in-africa-here-are-six-reasons-to-choose-ghana.json
 ---

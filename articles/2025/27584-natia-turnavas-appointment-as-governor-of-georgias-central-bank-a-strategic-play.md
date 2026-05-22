@@ -1,12 +1,21 @@
 ---
 id: 27584
 title: "Natia Turnava’s Appointment as Governor of Georgia’s Central Bank: A Strategic Play for Stability and Investor Confidence"
-award_year: 2025
+year: 2025
 published: 2025-02-19 14:28:22
 published_gmt: 2025-02-19 14:28:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2025/02/natia-turnavas-appointment-as-governor-of-georgias-central-bank-a-strategic-play-for-stability-and-investor-confidence/"
 categories: ["Asia Pacific", "Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e247eca92193f133665d3b80f3922deebc897712f53d1e121438c23c300f8a77
 canonical: 27584-natia-turnavas-appointment-as-governor-of-georgias-central-bank-a-strategic-play.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 4747
 title: "The Spotlight on David Beckham"
-award_year: 2013
+year: 2013
 published: 2013-08-01 09:21:16
 published_gmt: 2013-08-01 08:21:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/08/the-spotlight-on-david-beckham/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 72cf54b8e4e5cb5e84a17efd095930940b937d653fa71c677afc96d5b5ffd435
 canonical: 4747-the-spotlight-on-david-beckham.json
 ---

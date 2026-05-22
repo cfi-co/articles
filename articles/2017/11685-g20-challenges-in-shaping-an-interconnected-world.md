@@ -1,12 +1,21 @@
 ---
 id: 11685
 title: "G20: Challenges in Shaping an Interconnected World"
-award_year: 2017
+year: 2017
 published: 2017-07-07 13:38:00
 published_gmt: 2017-07-07 12:38:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2017/07/g20-challenges-in-shaping-an-interconnected-world/"
 categories: ["Asia Pacific", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d3a5150fb5a4b7e87f95a7605bfc9d08167609938eaf4c68fcbfe87faecb911b
 canonical: 11685-g20-challenges-in-shaping-an-interconnected-world.json
 ---

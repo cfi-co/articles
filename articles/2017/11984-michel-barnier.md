@@ -1,12 +1,21 @@
 ---
 id: 11984
 title: "Michel Barnier"
-award_year: 2017
+year: 2017
 published: 2017-09-12 12:57:52
 published_gmt: 2017-09-12 11:57:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2017/09/michel-barnier/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 242e752bed9aff0003f7e5ebfc67c3e71136e51ea991cba42c331417d0902385
 canonical: 11984-michel-barnier.json
 ---

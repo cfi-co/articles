@@ -1,12 +1,21 @@
 ---
 id: 26618
 title: "Major Tech Boost for Logistics Sector"
-award_year: 2024
+year: 2024
 published: 2024-01-24 15:10:34
 published_gmt: 2024-01-24 15:10:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2024/01/major-tech-boost-for-logistics-sector/"
 categories: ["Brave New World", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e639ae7ec2a095bf2b45bc2b3ff154edb447a4ad81835130ce066e88b9c360fa
 canonical: 26618-major-tech-boost-for-logistics-sector.json
 ---

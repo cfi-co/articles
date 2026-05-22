@@ -1,12 +1,21 @@
 ---
 id: 28021
 title: "Europe’s Elite: Navigating the Continent’s Most Business-Friendly Nations"
-award_year: 2025
+year: 2025
 published: 2025-10-28 11:51:48
 published_gmt: 2025-10-28 11:51:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2025/10/europes-elite-navigating-the-continents-most-business-friendly-nations/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 337d04e9893cde493960c52044ae93c894acd2ad71f49684aff9f4e980a64be6
 canonical: 28021-europes-elite-navigating-the-continents-most-business-friendly-nations.json
 ---

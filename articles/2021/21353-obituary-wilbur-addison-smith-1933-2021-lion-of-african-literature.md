@@ -1,12 +1,21 @@
 ---
 id: 21353
 title: "Obituary - Wilbur Addison Smith (1933-2021): Lion of African Literature"
-award_year: 2021
+year: 2021
 published: 2021-12-15 07:04:25
 published_gmt: 2021-12-15 07:04:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2021/12/obituary-wilbur-addison-smith-1933-2021-lion-of-african-literature/"
 categories: ["Africa", "Obituaries"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9d2e0617f5f41beb39eeb53300befebe90d30befb8da4f8189a9ba5923eab6ff
 canonical: 21353-obituary-wilbur-addison-smith-1933-2021-lion-of-african-literature.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 14986
 title: "Waterloo or Austerlitz: EU Nears Moment of Truth"
-award_year: 2020
+year: 2020
 published: 2020-04-23 15:21:58
 published_gmt: 2020-04-23 14:21:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/waterloo-or-austerlitz-eu-nears-moment-of-truth/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d492acc91e446a0511fed7d827ace6dc3c8329f19ad59751c2884f3037c1d43e
 canonical: 14986-waterloo-or-austerlitz-eu-nears-moment-of-truth.json
 ---

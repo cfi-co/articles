@@ -1,12 +1,21 @@
 ---
 id: 7704
 title: "Boris Johnson: Fast and Furious, Reasoned and Smart"
-award_year: 2014
+year: 2014
 published: 2014-07-28 09:46:19
 published_gmt: 2014-07-28 08:46:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/07/boris-johnson-fast-and-furious-reasoned-and-smart/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4ad7e115bc970fee0372d32f02ee2fdcb28e70e70053c31202beaa82bca9f498
 canonical: 7704-boris-johnson-fast-and-furious-reasoned-and-smart.json
 ---

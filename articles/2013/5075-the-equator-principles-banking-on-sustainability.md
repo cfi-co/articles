@@ -1,12 +1,21 @@
 ---
 id: 5075
 title: "The Equator Principles: Banking on Sustainability"
-award_year: 2013
+year: 2013
 published: 2013-08-23 09:54:17
 published_gmt: 2013-08-23 08:54:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/08/the-equator-principles-banking-on-sustainability/"
 categories: ["Asia Pacific", "Banking", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cb6d380089f22db6d7f6b9b064fdae96d6d93dfe98a3494e09e7c7c2648030d6
 canonical: 5075-the-equator-principles-banking-on-sustainability.json
 ---

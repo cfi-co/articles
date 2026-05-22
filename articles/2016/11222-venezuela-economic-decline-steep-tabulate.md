@@ -1,12 +1,21 @@
 ---
 id: 11222
 title: "Venezuela: Economic Decline Too Steep to Tabulate"
-award_year: 2016
+year: 2016
 published: 2016-05-23 15:00:59
 published_gmt: 2016-05-23 14:00:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2016/05/venezuela-economic-decline-steep-tabulate/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bd524257bd9f14ef0631c0b0c38bf1a9f6a33212edb55e020ad8adb44a408117
 canonical: 11222-venezuela-economic-decline-steep-tabulate.json
 ---

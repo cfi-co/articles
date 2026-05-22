@@ -1,12 +1,21 @@
 ---
 id: 18852
 title: "CRC Credit Bureau Fizzes where Others Falter – Covid Pandemic Notwithstanding"
-award_year: 2021
+year: 2021
 published: 2021-02-24 17:17:11
 published_gmt: 2021-02-24 17:17:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/crc-credit-bureau-fizzes-where-others-falter-covid-pandemic-notwithstanding/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 54a1e725195d5bf8f94be1bbb6ab107510cb5a74bab3c8aeacf0487105ef7c4c
 canonical: 18852-crc-credit-bureau-fizzes-where-others-falter-covid-pandemic-notwithstanding.json
 ---

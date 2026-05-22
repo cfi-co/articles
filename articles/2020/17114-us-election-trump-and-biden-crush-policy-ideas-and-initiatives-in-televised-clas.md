@@ -1,12 +1,21 @@
 ---
 id: 17114
 title: "US Election - Trump and Biden Crush Policy Ideas and Initiatives in Televised Clash"
-award_year: 2020
+year: 2020
 published: 2020-09-30 19:22:59
 published_gmt: 2020-09-30 18:22:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/09/us-election-trump-and-biden-crush-policy-ideas-and-initiatives-in-televised-clash/"
 categories: ["North America", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 55cb31ddc97fde50dece72cdfa14a35afcb7a48694ad1646fa7abd1973aa4fee
 canonical: 17114-us-election-trump-and-biden-crush-policy-ideas-and-initiatives-in-televised-clas.json
 ---

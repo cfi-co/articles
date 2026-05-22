@@ -1,12 +1,21 @@
 ---
 id: 10069
 title: "All Eyes on Greece: Is the IMF Asking for More than PM Tsipras Can Deliver?"
-award_year: 2015
+year: 2015
 published: 2015-06-24 22:10:42
 published_gmt: 2015-06-24 21:10:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/06/all-eyes-on-greece-is-the-imf-asking-for-more-than-pm-tsipras-can-deliver/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 83f845e544584f3a02412dabbd6213c2ca6a786ad4c8a616088a3d6805b23f4a
 canonical: 10069-all-eyes-on-greece-is-the-imf-asking-for-more-than-pm-tsipras-can-deliver.json
 ---

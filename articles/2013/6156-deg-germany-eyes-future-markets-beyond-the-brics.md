@@ -1,12 +1,21 @@
 ---
 id: 6156
 title: "DEG: Germany Eyes Future Markets Beyond the BRICS"
-award_year: 2013
+year: 2013
 published: 2013-12-04 11:25:10
 published_gmt: 2013-12-04 11:25:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/12/deg-germany-eyes-future-markets-beyond-the-brics/"
 categories: ["Asia Pacific", "Europe", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e552ddead6cae02b9db895b0c94918fc553d78150c859c7f857de989d9b7e081
 canonical: 6156-deg-germany-eyes-future-markets-beyond-the-brics.json
 ---

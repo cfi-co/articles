@@ -1,12 +1,22 @@
 ---
 id: 28306
 title: "NSE’s Resilience Blueprint: Scale, Trust, And Sustainable Market Growth"
-award_year: 2026
+year: 2026
 published: 2026-02-25 13:15:54
 published_gmt: 2026-02-25 13:15:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2026/02/nses-resilience-blueprint-scale-trust-and-sustainable-market-growth"
 categories: ["Asia Pacific", "Corporate", "Finance"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "NSE"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3e7bc6cfa82ba13aa4a0a5ecb2054314f570cc686336943c1dca98ea548e485c
 canonical: 28306-organisation-view-how-nse-is-building-resilience-trust-and-scale-across-indias-c.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 7503
 title: "Bangladesh Receives $600 Million to Improve Rural Electricity Supply"
-award_year: 2014
+year: 2014
 published: 2014-06-24 09:41:02
 published_gmt: 2014-06-24 08:41:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/06/bangladesh-receives-600-million-to-improve-rural-electricity-supply/"
 categories: ["Asia Pacific", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 994b89643880fd518c3330ad8e0ff2fc5ec809775af8ba7e278d26475190137f
 canonical: 7503-bangladesh-receives-600-million-to-improve-rural-electricity-supply.json
 ---

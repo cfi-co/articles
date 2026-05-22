@@ -1,12 +1,21 @@
 ---
 id: 21577
 title: "Evan Harvey, Nasdaq: Language Locks and Building Blocks"
-award_year: 2022
+year: 2022
 published: 2022-02-16 13:15:44
 published_gmt: 2022-02-16 13:15:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2022/02/evan-harvey-nasdaq-language-locks-and-building-blocks/"
 categories: ["Columnists", "Finance", "North America"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b36382695faf4dd3a07050de8da3ac6b517fca39d630cae234b981367719a3e6
 canonical: 21577-evan-harvey-nasdaq-language-locks-and-building-blocks.json
 ---

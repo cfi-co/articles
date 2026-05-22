@@ -1,12 +1,21 @@
 ---
 id: 12816
 title: "CryptoEvolution&#x2122;: Why Bitcoin Will Overtake Fiat"
-award_year: 2018
+year: 2018
 published: 2018-07-31 14:04:22
 published_gmt: 2018-07-31 13:04:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2018/07/cryptoevolution-why-bitcoin-will-overtake-fiat/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9f503270f70866c27090206a66e42169f3e69c4065d0792882fdcee043a1a881
 canonical: 12816-cryptoevolution-why-bitcoin-will-overtake-fiat.json
 ---

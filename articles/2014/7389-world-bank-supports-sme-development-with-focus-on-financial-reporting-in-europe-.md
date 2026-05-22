@@ -1,12 +1,21 @@
 ---
 id: 7389
 title: "World Bank Supports SME Development with Focus on Financial Reporting in Europe and Central Asia"
-award_year: 2014
+year: 2014
 published: 2014-06-04 12:17:28
 published_gmt: 2014-06-04 11:17:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/06/world-bank-supports-sme-development-with-focus-on-financial-reporting-in-europe-and-central-asia/"
 categories: ["Asia Pacific", "Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bc88467fb0eaa97dd98586085866994b037d2ecdcf1754a499e527ea05937582
 canonical: 7389-world-bank-supports-sme-development-with-focus-on-financial-reporting-in-europe-.json
 ---

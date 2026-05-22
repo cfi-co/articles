@@ -1,12 +1,21 @@
 ---
 id: 27969
 title: "Built on Trust, Powered by Client Commitment: The XMTrading Standard"
-award_year: 2025
+year: 2025
 published: 2025-09-29 20:01:48
 published_gmt: 2025-09-29 19:01:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2025/09/built-on-trust-powered-by-client-commitment-the-xmtrading-standard/"
 categories: ["Asia Pacific", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a1a95a5e3ebbc6faaa844ca9d13b83a561b270b0fee22d2639537e2eca5a06de
 canonical: 27969-built-on-trust-powered-by-client-commitment-the-xmtrading-standard.json
 ---

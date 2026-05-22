@@ -1,12 +1,21 @@
 ---
 id: 27205
 title: "The Economics of AI: Talent Before Technology"
-award_year: 2024
+year: 2024
 published: 2024-10-17 14:24:27
 published_gmt: 2024-10-17 13:24:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2024/10/the-economics-of-ai-talent-before-technology/"
 categories: ["Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a7be4b499d884b205577e1f1ae87c6393d7ccd0f4d5345575ab422afe0e1c472
 canonical: 27205-the-economics-of-ai-talent-before-technology.json
 ---

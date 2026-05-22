@@ -1,12 +1,21 @@
 ---
 id: 18270
 title: "Matein Khalid: A Random Walk Down Silicon Valley's Pre-IPO Deal Flow"
-award_year: 2020
+year: 2020
 published: 2020-12-10 13:47:45
 published_gmt: 2020-12-10 13:47:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/12/matein-khalid-a-random-walk-down-silicon-valleys-pre-ipo-deal-flow/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e46e55decfa75a80ac3886a3c43d14d0001cc347d3d8b5e765290e5e13976a3
 canonical: 18270-matein-khalid-a-random-walk-down-silicon-valleys-pre-ipo-deal-flow.json
 ---

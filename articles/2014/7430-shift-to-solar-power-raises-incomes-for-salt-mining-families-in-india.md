@@ -1,12 +1,21 @@
 ---
 id: 7430
 title: "Shift to Solar Power Raises Incomes for Salt-mining Families in India"
-award_year: 2014
+year: 2014
 published: 2014-06-12 09:00:27
 published_gmt: 2014-06-12 08:00:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/06/shift-to-solar-power-raises-incomes-for-salt-mining-families-in-india/"
 categories: ["Asia Pacific", "Finance", "Projects", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: adc30656eb600936dca380f5901d963d2d3133be892334f14c149af5ff9c38d8
 canonical: 7430-shift-to-solar-power-raises-incomes-for-salt-mining-families-in-india.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26093
 title: "Accenture on Generative AI: Surfing the Next Wave of Digital Transformation"
-award_year: 2023
+year: 2023
 published: 2023-09-24 20:46:14
 published_gmt: 2023-09-24 19:46:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/innovation-technology/2023/09/accenture-on-generative-ai-surfing-the-next-wave-of-digital-transformation/"
 categories: ["Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b0bfd794fb4c3bd7bbe7a110f5fac510489903e97957c217ba55e7a817fbf52d
 canonical: 26093-accenture-on-generative-ai-surfing-the-next-wave-of-digital-transformation.json
 ---

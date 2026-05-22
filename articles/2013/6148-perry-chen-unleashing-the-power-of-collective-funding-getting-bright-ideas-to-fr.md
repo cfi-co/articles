@@ -1,12 +1,21 @@
 ---
 id: 6148
 title: "Perry Chen: Unleashing the Power of Collective Funding, Getting Bright Ideas to Fruition"
-award_year: 2013
+year: 2013
 published: 2013-12-02 16:05:59
 published_gmt: 2013-12-02 16:05:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/12/perry-chen-unleashing-the-power-of-collective-funding-getting-bright-ideas-to-fruition/"
 categories: ["Finance", "North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 59d521aa5ab68f67d4445a1038d631bb336f621737840d05753bff10b1d7f7e3
 canonical: 6148-perry-chen-unleashing-the-power-of-collective-funding-getting-bright-ideas-to-fr.json
 ---

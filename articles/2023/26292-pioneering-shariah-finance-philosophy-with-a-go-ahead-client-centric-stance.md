@@ -1,12 +1,21 @@
 ---
 id: 26292
 title: "Pioneering Shari’ah Finance Philosophy with a Go-Ahead, Client-Centric Stance"
-award_year: 2023
+year: 2023
 published: 2023-10-31 11:11:06
 published_gmt: 2023-10-31 11:11:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2023/10/maldives-islamic-bank-a-go-ahead-client-centric-stance/"
 categories: ["Asia Pacific", "Banking", "Corporate", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 01e2206f4bc297d6360d5ebb38f059e9d9a0ad843faca936ed56dcadb2f709f6
 canonical: 26292-pioneering-shariah-finance-philosophy-with-a-go-ahead-client-centric-stance.json
 ---

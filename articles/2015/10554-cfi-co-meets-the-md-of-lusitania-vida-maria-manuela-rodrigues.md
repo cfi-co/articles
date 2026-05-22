@@ -1,12 +1,21 @@
 ---
 id: 10554
 title: "CFI.co Meets the MD of Lusitania Vida: Maria Manuela Rodrigues"
-award_year: 2015
+year: 2015
 published: 2015-08-01 12:42:42
 published_gmt: 2015-08-01 11:42:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2015/08/cfi-co-meets-the-md-of-lusitania-vida-maria-manuela-rodrigues/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5e9fbc6e6bb7543875c124102cadf74d0fc10d945a586b5c977f4ac5569e1dad
 canonical: 10554-cfi-co-meets-the-md-of-lusitania-vida-maria-manuela-rodrigues.json
 ---

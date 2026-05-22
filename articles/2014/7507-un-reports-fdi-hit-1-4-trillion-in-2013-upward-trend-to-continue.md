@@ -1,12 +1,21 @@
 ---
 id: 7507
 title: "UN Reports FDI Hit $1.4 Trillion in 2013, Upward Trend to Continue"
-award_year: 2014
+year: 2014
 published: 2014-06-25 10:40:21
 published_gmt: 2014-06-25 09:40:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/06/un-reports-fdi-hit-1-4-trillion-in-2013-upward-trend-to-continue/"
 categories: ["Africa", "Asia Pacific", "Finance", "Latin America", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6965396e84f7ed1c6a5200fc107f862ed41b08b25dde8e2460932f1b69224b70
 canonical: 7507-un-reports-fdi-hit-1-4-trillion-in-2013-upward-trend-to-continue.json
 ---

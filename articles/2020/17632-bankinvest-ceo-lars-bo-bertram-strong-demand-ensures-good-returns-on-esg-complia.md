@@ -1,12 +1,21 @@
 ---
 id: 17632
 title: "BankInvest CEO Lars Bo Bertram: Strong Demand Ensures Good Returns on ESG-Compliant Investments"
-award_year: 2020
+year: 2020
 published: 2020-10-26 15:44:58
 published_gmt: 2020-10-26 15:44:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/10/bankinvest-ceo-lars-bo-bertram-strong-demand-ensures-good-returns-on-esg-compliant-investments/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5c17a7bc6bb680635457b53e9dc44bbfef1e3d599139b2dab1db96e78a616c29
 canonical: 17632-bankinvest-ceo-lars-bo-bertram-strong-demand-ensures-good-returns-on-esg-complia.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 3467
 title: "Technological Innovation Must Power Economic Growth in Africa"
-award_year: 2013
+year: 2013
 published: 2013-04-01 18:02:54
 published_gmt: 2013-04-01 18:02:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/04/technological-innovation-must-power-economic-growth-in-africa/"
 categories: ["Africa", "Middle East", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2cf16d3e1829fd60e809492d2b38683fd202d72b850b4a4ff5e2f2355120812d
 canonical: 3467-technological-innovation-must-power-economic-growth-in-africa.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 17185
 title: "CBRE: Approaching Shadows of Data Opacity and Risk From Flexible Office Market"
-award_year: 2020
+year: 2020
 published: 2020-10-09 15:25:07
 published_gmt: 2020-10-09 14:25:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/10/cbre-approaching-shadows-of-data-opacity-and-risk-from-flexible-office-market/"
 categories: ["Europe", "SMEs", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a2a42ba718522d28a9954f4f782d05daec699491a80ecfc6b33f445362d4b612
 canonical: 17185-cbre-approaching-shadows-of-data-opacity-and-risk-from-flexible-office-market.json
 ---

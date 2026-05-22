@@ -1,12 +1,21 @@
 ---
 id: 209
 title: "U.S. Trade Deficit and Consumer Sentiment Rise"
-award_year: 2012
+year: 2012
 published: 2012-02-06 14:31:04
 published_gmt: 2012-02-06 14:31:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2012/02/u-s-trade-deficit-and-consumer-sentiment-rise/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a32f2f6b4c5aaf159d822c15183d833261172d6e2b4b3702738e3f1403c9921b
 canonical: 209-u-s-trade-deficit-and-consumer-sentiment-rise.json
 ---

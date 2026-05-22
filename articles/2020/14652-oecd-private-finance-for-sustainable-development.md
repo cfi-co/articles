@@ -1,12 +1,21 @@
 ---
 id: 14652
 title: "OECD: Private Finance for Sustainable Development"
-award_year: 2020
+year: 2020
 published: 2020-03-02 11:01:09
 published_gmt: 2020-03-02 11:01:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/03/oecd-private-finance-for-sustainable-development/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4cb0de3fc77f5246a4ea29835630fb29e9310e2ffeb3808ba9d5519e2b7d69ef
 canonical: 14652-oecd-private-finance-for-sustainable-development.json
 ---

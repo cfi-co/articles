@@ -1,12 +1,21 @@
 ---
 id: 8106
 title: "Noam Chomsky: Unravelling Established Truths"
-award_year: 2014
+year: 2014
 published: 2014-09-29 15:36:37
 published_gmt: 2014-09-29 14:36:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/09/noam-chomsky-unravelling-established-truths/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bb0a93d83c4a4c874bf13b6e688a1c4cac864db41ff7006f4ef911ac24ee780a
 canonical: 8106-noam-chomsky-unravelling-established-truths.json
 ---

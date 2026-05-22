@@ -1,12 +1,21 @@
 ---
 id: 6295
 title: "Farrukh Khan, Diwan Advocates: India Joins Madrid System of Trademarks - The Effects"
-award_year: 2014
+year: 2014
 published: 2014-01-07 17:38:11
 published_gmt: 2014-01-07 17:38:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/01/farrukh-khan-diwan-advocates-india-joins-madrid-system-of-trademarks-the-effects/"
 categories: ["Asia Pacific", "Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cfb648436867b71a829b4dd6fd88abc0e3a9f1db4f58d7787a3171299514c92a
 canonical: 6295-farrukh-khan-diwan-advocates-india-joins-madrid-system-of-trademarks-the-effects.json
 ---

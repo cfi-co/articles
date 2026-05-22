@@ -1,12 +1,21 @@
 ---
 id: 7340
 title: "CFI.co Meets the CEO of Excellencia Investment Management: Ammar Dabbour"
-award_year: 2014
+year: 2014
 published: 2014-03-01 18:08:05
 published_gmt: 2014-03-01 18:08:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/03/cfi-co-meets-the-ceo-of-excellencia-investment-management-ammar-dabbour/"
 categories: ["Corporate Leaders", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8ed47cd7642cf423f7945eb7b9c4cab46e0f41b586ef6243a6ff466a51c31fb8
 canonical: 7340-cfi-co-meets-the-ceo-of-excellencia-investment-management-ammar-dabbour.json
 ---

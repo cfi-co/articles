@@ -1,12 +1,21 @@
 ---
 id: 27744
 title: "ATIDI: De-Risking Africa’s Growth Trajectory Through Innovation, Impact and Integration"
-award_year: 2025
+year: 2025
 published: 2025-07-15 13:26:17
 published_gmt: 2025-07-15 12:26:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2025/07/atidi-de-risking-africas-future-through-insurance-investment-and-innovation/"
 categories: ["Africa", "Corporate", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3e62606c035b9ded4d4eb39a2957868a60435367d13cd482152bc2000d0ad756
 canonical: 27744-atidi-de-risking-africas-future-through-insurance-investment-and-innovation.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21715
 title: "A Perfect Storm Perfected: EU Battles String of Calamities"
-award_year: 2022
+year: 2022
 published: 2022-04-15 20:18:14
 published_gmt: 2022-04-15 19:18:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/04/a-perfect-storm-perfected-eu-battles-string-of-calamities/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0ab4ed8e95ae9164e241b5dd70b7df34fabac779e22b204bdfc8fd4b93e39a3a
 canonical: 21715-a-perfect-storm-perfected-eu-battles-string-of-calamities.json
 ---

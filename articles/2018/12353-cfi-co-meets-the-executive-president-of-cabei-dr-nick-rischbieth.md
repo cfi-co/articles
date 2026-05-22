@@ -1,12 +1,21 @@
 ---
 id: 12353
 title: "CFI.co Meets the Executive President of CABEI: Dr. Nick Rischbieth"
-award_year: 2018
+year: 2018
 published: 2018-05-30 10:16:16
 published_gmt: 2018-05-30 09:16:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/05/cfi-co-meets-the-executive-president-of-cabei-dr-nick-rischbieth/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 92676527fb86d526ae767d67c7320ddb3c4d7ab7885d9e7f6047c92802569a7f
 canonical: 12353-cfi-co-meets-the-executive-president-of-cabei-dr-nick-rischbieth.json
 ---

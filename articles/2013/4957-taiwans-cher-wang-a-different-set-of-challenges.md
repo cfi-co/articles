@@ -1,12 +1,21 @@
 ---
 id: 4957
 title: "Taiwan’s Cher Wang: A Different Set of Challenges"
-award_year: 2013
+year: 2013
 published: 2013-08-09 09:01:23
 published_gmt: 2013-08-09 08:01:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/08/taiwans-cher-wang-a-different-set-of-challenges/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bcab08be7c6d182e52f1ded4dfe225819b5652339d845c6f930615cc0c82d2eb
 canonical: 4957-taiwans-cher-wang-a-different-set-of-challenges.json
 ---

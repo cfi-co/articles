@@ -1,12 +1,21 @@
 ---
 id: 25364
 title: "A Sci-fi Author’s View on the Rise (and Control) of Human Population"
-award_year: 2023
+year: 2023
 published: 2023-05-03 14:22:44
 published_gmt: 2023-05-03 13:22:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/05/a-sci-fi-authors-view-on-the-rise-and-control-of-human-population/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0d93a42a1293ca6e36699157b92ddd9258b38607e9f29a2e9567472f8e5f9a60
 canonical: 25364-a-sci-fi-authors-view-on-the-rise-and-control-of-human-population.json
 ---

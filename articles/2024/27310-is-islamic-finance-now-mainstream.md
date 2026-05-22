@@ -1,12 +1,21 @@
 ---
 id: 27310
 title: "Is Islamic Finance Now Mainstream?"
-award_year: 2024
+year: 2024
 published: 2024-11-21 11:51:58
 published_gmt: 2024-11-21 11:51:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/11/is-islamic-finance-now-mainstream/"
 categories: ["Banking", "Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0a0b12fa7fa4f7d4cfb510dee7c77d82a50b21be13b97cb0435cbce918e363aa
 canonical: 27310-is-islamic-finance-now-mainstream.json
 ---

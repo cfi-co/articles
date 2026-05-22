@@ -1,12 +1,21 @@
 ---
 id: 22427
 title: "AAY Investments Group: Panama-based Company Earns a Happy Niche in the VC World"
-award_year: 2022
+year: 2022
 published: 2022-07-19 13:42:04
 published_gmt: 2022-07-19 12:42:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/07/aay-investments-group-panama-based-company-earns-a-happy-niche-in-the-vc-world/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f1f200fbde933ebc532112649e0fc607e9e6efab3783f354936618340cbbd113
 canonical: 22427-aay-investments-group-panama-based-company-earns-a-happy-niche-in-the-vc-world.json
 ---

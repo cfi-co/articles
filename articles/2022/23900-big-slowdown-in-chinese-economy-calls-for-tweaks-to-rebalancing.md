@@ -1,12 +1,21 @@
 ---
 id: 23900
 title: "Big Slowdown in Chinese Economy Calls for Tweaks to ‘Rebalancing’"
-award_year: 2022
+year: 2022
 published: 2022-11-07 08:46:15
 published_gmt: 2022-11-07 08:46:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2022/11/big-slowdown-in-chinese-economy-calls-for-tweaks-to-rebalancing/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1dea8d3457b75399e7d26a3eb94c34179e5c02b52fd1dbd934c3d4a48ce54fab
 canonical: 23900-big-slowdown-in-chinese-economy-calls-for-tweaks-to-rebalancing.json
 ---

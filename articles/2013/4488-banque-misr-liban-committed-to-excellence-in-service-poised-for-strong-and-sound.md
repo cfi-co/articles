@@ -1,12 +1,21 @@
 ---
 id: 4488
 title: "Banque Misr Liban: Committed to Excellence in Service Poised for Strong and Sound Future Growth"
-award_year: 2013
+year: 2013
 published: 2013-02-18 09:00:35
 published_gmt: 2013-02-18 09:00:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/02/banque-misr-liban-committed-to-excellence-in-service-poised-for-strong-and-sound-future-growth/"
 categories: ["Banking", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b17ce4d09a099144619dde57d9e964fb842ab17cabb20d915e17d3a2c12096b3
 canonical: 4488-banque-misr-liban-committed-to-excellence-in-service-poised-for-strong-and-sound.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 11746
 title: "CFI.co Meets the CEO of Radix: Luiz Eduardo Rubião"
-award_year: 2017
+year: 2017
 published: 2017-08-03 15:48:27
 published_gmt: 2017-08-03 14:48:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-of-radix-luiz-eduardo-rubiao/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0d1dcea48c6dd0f0e04176d27e46e9828349c8b01651723cd7a85636c655411a
 canonical: 11746-cfi-co-meets-the-ceo-of-radix-luiz-eduardo-rubiao.json
 ---

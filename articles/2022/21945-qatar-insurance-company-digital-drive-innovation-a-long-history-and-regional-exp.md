@@ -1,12 +1,21 @@
 ---
 id: 21945
 title: "QIC: Digital Drive, Innovation, a Long History and Regional Expertise"
-award_year: 2022
+year: 2022
 published: 2022-05-18 07:31:50
 published_gmt: 2022-05-18 06:31:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/qatar-insurance-company-digital-drive-innovation-a-long-history-and-regional-expertise/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5ecb941f090388fceee849995ac585c372257b38a01d6691bf8294d6847577ea
 canonical: 21945-qatar-insurance-company-digital-drive-innovation-a-long-history-and-regional-exp.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 13347
 title: "Satoshi Nakamoto: To Be or Not to Be"
-award_year: 2019
+year: 2019
 published: 2019-01-16 13:08:32
 published_gmt: 2019-01-16 13:08:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2019/01/satoshi-nakamoto-inventor-of-bitcoin-to-be-or-not-to-be/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1fefc38ebe6815e5898b7f4f31fb74d2bee82eca5044feecf196f8079a02b948
 canonical: 13347-satoshi-nakamoto-inventor-of-bitcoin-to-be-or-not-to-be.json
 ---

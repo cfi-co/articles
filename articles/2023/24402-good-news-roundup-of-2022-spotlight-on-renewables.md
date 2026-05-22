@@ -1,12 +1,21 @@
 ---
 id: 24402
 title: "Good News Roundup of 2022: Spotlight on Renewables"
-award_year: 2023
+year: 2023
 published: 2023-01-09 16:26:27
 published_gmt: 2023-01-09 16:26:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/01/good-news-roundup-of-2022-spotlight-on-renewables/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eabfc7603f7c098322d38f9f938f862a0c06d0b8c2af5a358746adac326b9a6d
 canonical: 24402-good-news-roundup-of-2022-spotlight-on-renewables.json
 ---

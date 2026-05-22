@@ -1,12 +1,21 @@
 ---
 id: 16122
 title: "Invest Durban: ‘First-Stop-Shop’ to Stimulate Growth in South African Metropolis"
-award_year: 2019
+year: 2019
 published: 2019-09-03 13:11:15
 published_gmt: 2019-09-03 12:11:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/09/invest-durban-first-stop-shop-to-stimulate-growth-in-south-african-metropolis/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ead827dbfeb5d091ae4e0fe3bcc8251c3f80e552ba3944634837026d30217153
 canonical: 16122-invest-durban-first-stop-shop-to-stimulate-growth-in-south-african-metropolis.json
 ---

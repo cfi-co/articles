@@ -1,12 +1,21 @@
 ---
 id: 11679
 title: "Angela Merkel: Leader of the Free World"
-award_year: 2017
+year: 2017
 published: 2017-07-06 12:04:29
 published_gmt: 2017-07-06 11:04:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2017/07/angela-merkel-leader-of-the-free-world/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 48c7b20f6dbf5c0829cdd8a2c60eafd5e1f1b3e6643206d40cbe7d3c00ad4cb7
 canonical: 11679-angela-merkel-leader-of-the-free-world.json
 ---

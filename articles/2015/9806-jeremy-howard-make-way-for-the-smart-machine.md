@@ -1,12 +1,21 @@
 ---
 id: 9806
 title: "Jeremy Howard: Make Way for the Smart Machine"
-award_year: 2015
+year: 2015
 published: 2015-06-08 13:25:46
 published_gmt: 2015-06-08 12:25:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2015/06/jeremy-howard-make-way-for-the-smart-machine/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b958a238759bf9612888acc37e7c4c05b01ede7c7b3f6c4356f1ad9bd07ccb10
 canonical: 9806-jeremy-howard-make-way-for-the-smart-machine.json
 ---

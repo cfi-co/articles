@@ -1,12 +1,21 @@
 ---
 id: 7220
 title: "Restoring Public Confidence: Industrialising Delivery of Pension and Retirement Solutions"
-award_year: 2014
+year: 2014
 published: 2014-05-21 15:25:09
 published_gmt: 2014-05-21 14:25:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/05/restoring-public-confidence-industrialising-delivery-of-pension-and-retirement-solutions/"
 categories: ["Europe", "Finance", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ceacc2ccbd50db7e1f3dd09117af51559d6c288c5e3407f57a9090a8b39be77c
 canonical: 7220-restoring-public-confidence-industrialising-delivery-of-pension-and-retirement-s.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8202
 title: "Sustainable Stock Exchanges: The Relevance of Green Indices"
-award_year: 2014
+year: 2014
 published: 2014-10-15 11:01:42
 published_gmt: 2014-10-15 10:01:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/10/sustainable-stock-exchanges-the-relevance-of-green-indices/"
 categories: ["Africa", "Europe", "Finance", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5b226fe17ac3dfb0aeb49ef1dcac93d3155331cd3f3c7ad4831e2cf3e65a9715
 canonical: 8202-sustainable-stock-exchanges-the-relevance-of-green-indices.json
 ---

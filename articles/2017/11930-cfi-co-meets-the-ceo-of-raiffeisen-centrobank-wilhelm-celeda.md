@@ -1,12 +1,21 @@
 ---
 id: 11930
 title: "CFI.co Meets the CEO of Raiffeisen Centrobank: Wilhelm Celeda"
-award_year: 2017
+year: 2017
 published: 2017-10-06 10:42:01
 published_gmt: 2017-10-06 09:42:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-ceo-of-raiffeisen-centrobank-wilhelm-celeda/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 75a8d79466c4fd3a3893be2f058ea1f35a4e1476c7d97f19d01431a046a7059a
 canonical: 11930-cfi-co-meets-the-ceo-of-raiffeisen-centrobank-wilhelm-celeda.json
 ---

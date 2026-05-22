@@ -1,12 +1,21 @@
 ---
 id: 27257
 title: "Milan Fintech Summit 2024 Underlines Italian Ambitions"
-award_year: 2024
+year: 2024
 published: 2024-11-05 12:52:23
 published_gmt: 2024-11-05 12:52:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/11/milan-fintech-summit-2024-underlines-italian-ambitions/"
 categories: ["Europe", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3547dc345c2b70effc653a2070afea492db0b3ed0900025c7d9f758e14955a06
 canonical: 27257-milan-fintech-summit-2024-underlines-italian-ambitions.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 6028
 title: "Nasir Ahmad El-Rufai, Good Governance Group: Stunted Potentials Hobble Africa’s Giant"
-award_year: 2013
+year: 2013
 published: 2013-11-13 09:44:45
 published_gmt: 2013-11-13 09:44:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/11/nasir-ahmad-el-rufai-good-governance-group-stunted-potentials-hobble-africas-giant/"
 categories: ["Africa", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3f2fe30cf6f77f0857b767f4ca4e2111a382c7a8b289f20b4701e6d66fb1d539
 canonical: 6028-nasir-ahmad-el-rufai-good-governance-group-stunted-potentials-hobble-africas-gia.json
 ---

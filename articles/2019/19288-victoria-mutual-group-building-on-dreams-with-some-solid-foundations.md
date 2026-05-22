@@ -1,12 +1,21 @@
 ---
 id: 19288
 title: "Victoria Mutual Group: Building on Dreams, With Some Solid Foundations"
-award_year: 2019
+year: 2019
 published: 2019-04-25 16:49:47
 published_gmt: 2019-04-25 15:49:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/04/victoria-mutual-group-building-on-dreams-with-some-solid-foundations/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bd0bcb97f1d219cb834e2f4c2c455df52f6e13b47893f0da5f0f02e89b2b3efe
 canonical: 19288-victoria-mutual-group-building-on-dreams-with-some-solid-foundations.json
 ---

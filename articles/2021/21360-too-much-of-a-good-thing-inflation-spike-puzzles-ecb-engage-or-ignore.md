@@ -1,12 +1,21 @@
 ---
 id: 21360
 title: "Too Much of a Good Thing: Inflation Spike Puzzles ECB - Engage or Ignore?"
-award_year: 2021
+year: 2021
 published: 2021-12-15 17:00:47
 published_gmt: 2021-12-15 17:00:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2021/12/too-much-of-a-good-thing-inflation-spike-puzzles-ecb-engage-or-ignore/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 56456684a12745f3920ffefaa94cbf4568fd5b4c9958ff5f70bb95f1e109646a
 canonical: 21360-too-much-of-a-good-thing-inflation-spike-puzzles-ecb-engage-or-ignore.json
 ---

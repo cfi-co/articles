@@ -1,12 +1,21 @@
 ---
 id: 27601
 title: "Asian Development Bank on The Cost of Inaction: How Climate Change Threatens Asia and the Pacific"
-award_year: 2025
+year: 2025
 published: 2025-02-27 08:33:23
 published_gmt: 2025-02-27 08:33:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2025/02/asian-development-bank-on-the-cost-of-inaction-how-climate-change-threatens-asia-and-the-pacific/"
 categories: ["Asia Pacific", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7947c38937675a64f0501b974366436f2e2528f8fbd52317b87a0aff315dfa70
 canonical: 27601-asian-development-bank-on-the-cost-of-inaction-how-climate-change-threatens-asia.json
 ---

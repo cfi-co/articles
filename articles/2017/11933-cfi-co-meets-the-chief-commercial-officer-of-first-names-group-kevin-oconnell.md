@@ -1,12 +1,21 @@
 ---
 id: 11933
 title: "CFI.co Meets the Chief Commercial Officer of First Names Group: Kevin O’Connell"
-award_year: 2017
+year: 2017
 published: 2017-10-06 11:02:14
 published_gmt: 2017-10-06 10:02:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-chief-commercial-officer-of-first-names-group-kevin-oconnell/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a50d5a4c5fdf7427c5d088a2b8a98a2e13b88fedd5da2ebbc612d3177d1cd251
 canonical: 11933-cfi-co-meets-the-chief-commercial-officer-of-first-names-group-kevin-oconnell.json
 ---

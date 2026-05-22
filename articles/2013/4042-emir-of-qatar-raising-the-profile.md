@@ -1,12 +1,21 @@
 ---
 id: 4042
 title: "Emir of Qatar: Raising the Profile"
-award_year: 2013
+year: 2013
 published: 2013-05-21 16:30:21
 published_gmt: 2013-05-21 16:30:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/05/emir-of-qatar-raising-the-profile/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 86bedfa112e2ff3b374697139a64f974894aa823945705e9d9a2d07f0c1964c5
 canonical: 4042-emir-of-qatar-raising-the-profile.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 7547
 title: "The World Bank Called for Tighter Economic Policies to Restore Economic Stability"
-award_year: 2014
+year: 2014
 published: 2014-07-03 09:31:33
 published_gmt: 2014-07-03 08:31:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/07/the-world-bank-called-for-tighter-economic-policies-to-restore-economic-stability/"
 categories: ["Asia Pacific", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3955d9c8f5391555a968492ff8131f260c9e1eb0a666547f3109a511a0e795e2
 canonical: 7547-the-world-bank-called-for-tighter-economic-policies-to-restore-economic-stabilit.json
 ---

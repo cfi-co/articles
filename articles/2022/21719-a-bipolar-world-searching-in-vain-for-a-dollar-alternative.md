@@ -1,12 +1,21 @@
 ---
 id: 21719
 title: "A Bipolar World? Searching in Vain for a Dollar Alternative"
-award_year: 2022
+year: 2022
 published: 2022-04-21 10:54:46
 published_gmt: 2022-04-21 09:54:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/04/a-bipolar-world-searching-in-vain-for-a-dollar-alternative/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9f0e57470bf7c6409de83b738be21edc19bda10f0489f45146bcffd7560f1fd2
 canonical: 21719-a-bipolar-world-searching-in-vain-for-a-dollar-alternative.json
 ---

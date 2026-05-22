@@ -1,12 +1,21 @@
 ---
 id: 18546
 title: "British Virgin Islands Rise to Top of Financial Services Industry with BVI Finance CEO Elise Donovan"
-award_year: 2021
+year: 2021
 published: 2021-02-01 14:45:36
 published_gmt: 2021-02-01 14:45:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/cfi-co-meets/2021/02/british-virgin-islands-rise-to-top-of-financial-services-industry-with-bvi-finance-ceo-elise-donovan/"
 categories: ["CFI.co Meets"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 17912d00ed4cca8a44b58ba988bfd4309436002452b3228241d4ba91f9e82d0d
 canonical: 18546-british-virgin-islands-rise-to-top-of-financial-services-industry-with-bvi-finan.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 11972
 title: "Jacob Rees-Mogg"
-award_year: 2017
+year: 2017
 published: 2017-09-12 12:57:48
 published_gmt: 2017-09-12 11:57:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2017/09/jacob-rees-mogg/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4571e898fe9a05430bd0a2bf159eb19ccb568b6d307d87736ca6d3f5d8d54a68
 canonical: 11972-jacob-rees-mogg.json
 ---

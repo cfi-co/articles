@@ -1,12 +1,21 @@
 ---
 id: 11599
 title: "Paul Krugman: The Last of the Keynesians"
-award_year: 2017
+year: 2017
 published: 2017-05-10 13:39:19
 published_gmt: 2017-05-10 12:39:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2017/05/paul-krugman-the-last-of-the-keynesians/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 08e52ed180fd6034664e19a3002483c0c664af644366450046000dd11abc12bc
 canonical: 11599-paul-krugman-the-last-of-the-keynesians.json
 ---

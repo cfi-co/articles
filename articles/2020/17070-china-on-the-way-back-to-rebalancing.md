@@ -1,12 +1,21 @@
 ---
 id: 17070
 title: "China on the Way Back to Rebalancing"
-award_year: 2020
+year: 2020
 published: 2020-09-26 10:55:50
 published_gmt: 2020-09-26 09:55:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2020/09/china-on-the-way-back-to-rebalancing/"
 categories: ["Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c79cc95272331a48a5ad42ecc18ddcaed9a6d68cfaacbb70c1688c0b939ce5c2
 canonical: 17070-china-on-the-way-back-to-rebalancing.json
 ---

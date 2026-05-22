@@ -1,12 +1,21 @@
 ---
 id: 15905
 title: "TRUMPF Putting ‘Adventure’ in Corporate Venture: Winding Path that Leads to Industry 4.0 Revolution"
-award_year: 2020
+year: 2020
 published: 2020-07-01 13:48:35
 published_gmt: 2020-07-01 12:48:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/07/trumpf-venture-putting-adventure-in-corporate-venture-winding-path-that-leads-to-industry-4-0-revolution/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dba1514b6fd0c2a8c5667a9504bd61136a04ae63b20449c1b1523cf34f723af6
 canonical: 15905-trumpf-venture-putting-adventure-in-corporate-venture-winding-path-that-leads-to.json
 ---

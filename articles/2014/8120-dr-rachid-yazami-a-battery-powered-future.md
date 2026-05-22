@@ -1,12 +1,21 @@
 ---
 id: 8120
 title: "Dr Rachid Yazami: A Battery-Powered Future"
-award_year: 2014
+year: 2014
 published: 2014-10-01 12:23:34
 published_gmt: 2014-10-01 11:23:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/10/dr-rachid-yazami-a-battery-powered-future/"
 categories: ["Middle East", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4a997c5d18a98b867215c526732ee071de8ee2317709e0324f94b46fc7ad36ec
 canonical: 8120-dr-rachid-yazami-a-battery-powered-future.json
 ---

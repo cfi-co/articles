@@ -1,12 +1,21 @@
 ---
 id: 15082
 title: "European Commission Warns Banks"
-award_year: 2020
+year: 2020
 published: 2020-04-29 15:04:54
 published_gmt: 2020-04-29 14:04:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/european-commission-warns-banks/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d3b2c61c533ff1d678944fbb289fbfe8014b4063dce6ee54d3f4bd32ea5e5774
 canonical: 15082-european-commission-warns-banks.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 5091
 title: "Looking for a Fig Leaf: US & UK Mull Punitive Action against Syria"
-award_year: 2013
+year: 2013
 published: 2013-08-27 10:12:49
 published_gmt: 2013-08-27 09:12:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/08/looking-for-a-fig-leaf-us-uk-mull-punitive-action-against-syria/"
 categories: ["Europe", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5655d8efe286af01d807cd3c6ef4db4f850874867528f79d93b6b11a2cae822d
 canonical: 5091-looking-for-a-fig-leaf-us-uk-mull-punitive-action-against-syria.json
 ---

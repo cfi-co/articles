@@ -1,12 +1,21 @@
 ---
 id: 12392
 title: "Florence Parly: Sales Push"
-award_year: 2018
+year: 2018
 published: 2018-02-12 12:57:32
 published_gmt: 2018-02-12 12:57:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/02/florence-parly-sales-push/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0432082523e3e096ac751816ce5184b1e4af4a40e3af616394a07165265c110a
 canonical: 12392-florence-parly-sales-push.json
 ---

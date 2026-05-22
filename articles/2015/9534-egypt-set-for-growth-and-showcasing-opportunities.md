@@ -1,12 +1,21 @@
 ---
 id: 9534
 title: "Egypt: Set for Growth and Showcasing Opportunities"
-award_year: 2015
+year: 2015
 published: 2015-03-12 17:04:16
 published_gmt: 2015-03-12 17:04:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/03/egypt-set-for-growth-and-showcasing-opportunities/"
 categories: ["Asia Pacific", "Banking", "Finance", "Middle East", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 37b7c7d5cf9b06ed0cf54b9342ab4467719c5d643692fb26accdb20dcc791f2f
 canonical: 9534-egypt-set-for-growth-and-showcasing-opportunities.json
 ---

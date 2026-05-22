@@ -1,12 +1,21 @@
 ---
 id: 9608
 title: "World Bank Group Increased Support for Reforms to Accelerate Economic Growth"
-award_year: 2015
+year: 2015
 published: 2015-04-07 14:36:05
 published_gmt: 2015-04-07 13:36:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/04/world-bank-group-increased-support-for-reforms-to-accelerate-economic-growth/"
 categories: ["Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 23f5010bb4b3ca202ae16ef7e484b1f657d6f734677fc2fb708fd3154c68f74b
 canonical: 9608-world-bank-group-increased-support-for-reforms-to-accelerate-economic-growth.json
 ---

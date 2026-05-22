@@ -1,12 +1,21 @@
 ---
 id: 6058
 title: "USAID: Science and Engineering Diaspora Networks –  Communities Mobilizing to Solve Global Development Challenges"
-award_year: 2013
+year: 2013
 published: 2013-11-19 13:56:43
 published_gmt: 2013-11-19 13:56:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2013/11/usaid-science-and-engineering-diaspora-networks-communities-mobilizing-to-solve-global-development-challenges/"
 categories: ["North America", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6a9209ed16b0c678eb2d1c290b3028b8f3370bb615e9d38471101eb9175b4fb5
 canonical: 6058-usaid-science-and-engineering-diaspora-networks-communities-mobilizing-to-solve-.json
 ---

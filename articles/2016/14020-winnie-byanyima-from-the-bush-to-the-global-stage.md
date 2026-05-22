@@ -1,12 +1,21 @@
 ---
 id: 14020
 title: "Winnie Byanyima: From the Bush to the Global Stage"
-award_year: 2016
+year: 2016
 published: 2016-02-13 13:13:09
 published_gmt: 2016-02-13 13:13:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2016/02/winnie-byanyima-from-the-bush-to-the-global-stage/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 968b5d46a09ca6af0303b7584054779a4ffba1db87f0daf8d7881421e4a5ee14
 canonical: 14020-winnie-byanyima-from-the-bush-to-the-global-stage.json
 ---

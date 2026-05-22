@@ -1,12 +1,21 @@
 ---
 id: 9528
 title: "Oil Price Plunge Analyzed In New World Bank Policy Research Note"
-award_year: 2015
+year: 2015
 published: 2015-03-11 12:30:18
 published_gmt: 2015-03-11 12:30:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2015/03/oil-price-plunge-analyzed-in-new-world-bank-policy-research-note/"
 categories: ["Middle East", "North America", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 613d36888f6f9924643dde668bca58171d756e158177a5225843629c563e9c49
 canonical: 9528-oil-price-plunge-analyzed-in-new-world-bank-policy-research-note.json
 ---

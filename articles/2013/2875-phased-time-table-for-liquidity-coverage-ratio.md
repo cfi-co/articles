@@ -1,12 +1,21 @@
 ---
 id: 2875
 title: "Phased Time Table for Liquidity Coverage Ratio"
-award_year: 2013
+year: 2013
 published: 2013-01-10 09:00:22
 published_gmt: 2013-01-10 09:00:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/01/phased-time-table-for-liquidity-coverage-ratio/"
 categories: ["Banking", "Europe", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5eeaf5176ce4f1c2f825f868f822804b95fcf5026e3f4d647dc2a53c1d520d0b
 canonical: 2875-phased-time-table-for-liquidity-coverage-ratio.json
 ---

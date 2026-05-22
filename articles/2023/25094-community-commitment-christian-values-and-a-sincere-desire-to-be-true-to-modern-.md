@@ -1,12 +1,21 @@
 ---
 id: 25094
 title: "Community, Commitment, Christian Values — and a Sincere Desire to be True to Modern Management"
-award_year: 2023
+year: 2023
 published: 2023-04-24 17:03:41
 published_gmt: 2023-04-24 16:03:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2023/04/lagos-business-school-mba-promotes-high-values"
 categories: ["Africa", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c093b1a7ab1d20a4334bf804b03a9154e2e5a9e361a50f888b9df0c9b9207d83
 canonical: 25094-community-commitment-christian-values-and-a-sincere-desire-to-be-true-to-modern-.json
 ---

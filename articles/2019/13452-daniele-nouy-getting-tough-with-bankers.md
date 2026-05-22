@@ -1,12 +1,21 @@
 ---
 id: 13452
 title: "Danièle Nouy: Getting Tough with Bankers"
-award_year: 2019
+year: 2019
 published: 2019-03-08 11:08:48
 published_gmt: 2019-03-08 11:08:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2019/03/daniele-nouy-getting-tough-with-bankers/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 97ca9f9a180191a04565f15a1a32e0f7427dfa8aa569d65b681b23351ee1c6da
 canonical: 13452-daniele-nouy-getting-tough-with-bankers.json
 ---

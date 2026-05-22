@@ -1,12 +1,21 @@
 ---
 id: 23310
 title: "Level Heads, Strong Ethics, Transparency: DPM Finanzas Aims for Leadership of the IFA Sector"
-award_year: 2022
+year: 2022
 published: 2022-09-06 12:18:01
 published_gmt: 2022-09-06 11:18:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/09/level-heads-strong-ethics-transparency-dpm-finanzas-aims-for-leadership-of-the-ifa-sector/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9e6e8227b3745d33236d3d44a60ee3100d08bee464656d53662c14a0b3607784
 canonical: 23310-level-heads-strong-ethics-transparency-dpm-aims-for-leadership-of-the-ifa-sector.json
 ---

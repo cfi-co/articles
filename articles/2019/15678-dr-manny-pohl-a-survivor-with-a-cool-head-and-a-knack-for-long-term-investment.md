@@ -1,12 +1,21 @@
 ---
 id: 15678
 title: "Dr Manny Pohl: A Survivor With a Cool Head and a Knack for Long-Term Investment"
-award_year: 2019
+year: 2019
 published: 2019-07-12 13:24:38
 published_gmt: 2019-07-12 12:24:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/07/dr-manny-pohl-a-survivor-with-a-cool-head-and-a-knack-for-long-term-investment/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1fa5700be99c2e35702a5c153fa68c135704becb4c6aa8a7c76d2eda6472f91b
 canonical: 15678-dr-manny-pohl-a-survivor-with-a-cool-head-and-a-knack-for-long-term-investment.json
 ---

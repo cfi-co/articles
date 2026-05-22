@@ -1,12 +1,21 @@
 ---
 id: 27936
 title: "Strengthening the Custody Chain: Bank One Supports Africa’s Private Capital Evolution"
-award_year: 2025
+year: 2025
 published: 2025-09-16 14:03:35
 published_gmt: 2025-09-16 13:03:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2025/09/strengthening-the-custody-chain-bank-one-supports-africas-private-capital-evolution/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cb2193fb132c51e1993d0f77174bfcd2002c17c584fd5adeaccc9a9d04650d88
 canonical: 27936-strengthening-the-custody-chain-bank-one-supports-africas-private-capital-evolut.json
 ---

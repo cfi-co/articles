@@ -1,12 +1,21 @@
 ---
 id: 10485
 title: "Sebastião Salgado: Capturing the Moment"
-award_year: 2015
+year: 2015
 published: 2015-09-30 15:02:33
 published_gmt: 2015-09-30 14:02:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2015/09/sebastiao-salgado-capturing-the-moment/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c7d63b34ab43fee98b9493dd9ca1b6fd13def90ec9c84236f1c09da9b5d567a4
 canonical: 10485-sebastiao-salgado-capturing-the-moment.json
 ---

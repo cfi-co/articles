@@ -1,12 +1,21 @@
 ---
 id: 4887
 title: "Shareholder Value: Outdated and an Obstacle to Corporate Success"
-award_year: 2013
+year: 2013
 published: 2013-08-06 10:33:35
 published_gmt: 2013-08-06 09:33:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/08/shareholder-value-outdated-and-an-obstacle-to-corporate-success/"
 categories: ["Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 846f65c09b44f3ad4d29065fe0b08ddc5f7e4b5aaff9deecdbe63869627aac28
 canonical: 4887-shareholder-value-outdated-and-an-obstacle-to-corporate-success.json
 ---

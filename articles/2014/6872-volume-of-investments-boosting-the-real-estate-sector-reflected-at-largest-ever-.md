@@ -1,12 +1,21 @@
 ---
 id: 6872
 title: "Volume of Investments Boosting the Real Estate Sector Reflected at Largest Ever Edition of Cityscape Egypt"
-award_year: 2014
+year: 2014
 published: 2014-03-27 11:41:01
 published_gmt: 2014-03-27 11:41:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/03/volume-of-investments-boosting-the-real-estate-sector-reflected-at-largest-ever-edition-of-cityscape-egypt/"
 categories: ["Africa", "Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ee405c8360d253d40a7bbfd23095ab4f0b61f00ee3135d0183144b4956cf6c5e
 canonical: 6872-volume-of-investments-boosting-the-real-estate-sector-reflected-at-largest-ever-.json
 ---

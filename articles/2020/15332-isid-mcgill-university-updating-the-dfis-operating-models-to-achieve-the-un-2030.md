@@ -1,12 +1,21 @@
 ---
 id: 15332
 title: "ISID, McGill University: Updating the DFIs’ Operating Models to Achieve the UN 2030 SDG Agenda"
-award_year: 2020
+year: 2020
 published: 2020-05-13 09:20:04
 published_gmt: 2020-05-13 08:20:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/05/isid-mcgill-university-updating-the-dfis-operating-models-to-achieve-the-un-2030-sdg-agenda/"
 categories: ["CSR", "Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 27dadd4028b41de4c05578eebf1d9b33fde6fb62acfd9e5228818ecb0312c370
 canonical: 15332-isid-mcgill-university-updating-the-dfis-operating-models-to-achieve-the-un-2030.json
 ---

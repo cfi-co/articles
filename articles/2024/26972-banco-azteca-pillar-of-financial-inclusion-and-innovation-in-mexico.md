@@ -1,12 +1,21 @@
 ---
 id: 26972
 title: "Banco Azteca: Pillar of Financial Inclusion and Innovation in Mexico"
-award_year: 2024
+year: 2024
 published: 2024-07-29 10:35:23
 published_gmt: 2024-07-29 09:35:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/07/banco-azteca-pillar-of-financial-inclusion-and-innovation-in-mexico/"
 categories: ["Banking", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b26ab30108d0018ef3666a6674968110734f2e9facc0b259696d98baf0693f90
 canonical: 26972-banco-azteca-pillar-of-financial-inclusion-and-innovation-in-mexico.json
 ---

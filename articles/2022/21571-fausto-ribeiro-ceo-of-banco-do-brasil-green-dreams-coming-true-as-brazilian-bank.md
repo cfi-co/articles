@@ -1,12 +1,21 @@
 ---
 id: 21571
 title: "Fausto Ribeiro, CEO of Banco do Brasil: Green Dreams Coming True as Brazilian Bank Focuses on ESG"
-award_year: 2022
+year: 2022
 published: 2022-02-15 14:39:47
 published_gmt: 2022-02-15 14:39:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2022/02/fausto-ribeiro-ceo-of-banco-do-brasil-green-dreams-coming-true-as-brazilian-bank-focuses-on-esg/"
 categories: ["Banking", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9d175bda9c56e0207903e61d9bc67bf449944e567a341b88c7de292675b95a6a
 canonical: 21571-fausto-ribeiro-ceo-of-banco-do-brasil-green-dreams-coming-true-as-brazilian-bank.json
 ---

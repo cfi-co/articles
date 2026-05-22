@@ -1,12 +1,21 @@
 ---
 id: 6122
 title: "Cyprus on the Mend?"
-award_year: 2013
+year: 2013
 published: 2013-11-27 09:06:42
 published_gmt: 2013-11-27 09:06:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/11/cyprus-on-the-mend/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 68bb01e502130295c3629c51ff2e1c1b42fc632b37cc5b72742e215a8d15e845
 canonical: 6122-cyprus-on-the-mend.json
 ---

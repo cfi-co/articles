@@ -1,12 +1,21 @@
 ---
 id: 10439
 title: "Evan Harvey, Nasdaq: Emerging Markets Leverage ESG Strategy"
-award_year: 2015
+year: 2015
 published: 2015-09-10 11:37:19
 published_gmt: 2015-09-10 10:37:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/09/evan-harvey-nasdaq-emerging-markets-leverage-esg-strategy/"
 categories: ["Africa", "Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5543e81cc6bd2544f7e65295cda4c00bce1baddb2a0c48b5dcbafecce50b39b6
 canonical: 10439-evan-harvey-nasdaq-emerging-markets-leverage-esg-strategy.json
 ---

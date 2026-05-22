@@ -1,12 +1,21 @@
 ---
 id: 14491
 title: "Klaus Schwab: What Kind of Capitalism Do We Want?"
-award_year: 2020
+year: 2020
 published: 2020-01-02 09:37:02
 published_gmt: 2020-01-02 09:37:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/01/klaus-schwab-what-kind-of-capitalism-do-we-want/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 079b442e31dc211fa74ba6ab738f6354b112a0647ba51afb82844e300193c9cd
 canonical: 14491-klaus-schwab-what-kind-of-capitalism-do-we-want.json
 ---

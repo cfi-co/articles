@@ -1,12 +1,21 @@
 ---
 id: 26468
 title: "SegurCaixa Adeslas Emphasises Value Creation as a Way to Endure Its Sustainable Growth Strategy"
-award_year: 2023
+year: 2023
 published: 2023-11-22 13:15:23
 published_gmt: 2023-11-22 13:15:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/11/segurcaixa-adeslas-emphasises-value-creation-as-a-way-to-endure-its-sustainable-growth-strategy/"
 categories: ["Corporate", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7d66f94db2b4abf8b1d362fd5a36548e1a60d05e3f9c57aebd4cb56cbdebb082
 canonical: 26468-segurcaixa-adeslas-emphasises-value-creation-as-a-way-to-endure-its-sustainable-.json
 ---

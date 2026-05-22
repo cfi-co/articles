@@ -1,12 +1,21 @@
 ---
 id: 24018
 title: "Aretha Franklin, Queen of Soul: No Caprice, Simply Sadness…"
-award_year: 2022
+year: 2022
 published: 2022-11-21 15:16:50
 published_gmt: 2022-11-21 15:16:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/lifestyle-menu/2022/11/aretha-franklin-queen-of-soul-no-caprice-simply-sadness/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9c3e5403ceba51fe7c64c6321a3e88719f54f7e07b4122a90d6dd5f1184ca211
 canonical: 24018-aretha-franklin-queen-of-soul-no-caprice-simply-sadness.json
 ---

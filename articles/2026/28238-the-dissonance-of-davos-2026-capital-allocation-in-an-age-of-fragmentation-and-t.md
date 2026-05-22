@@ -1,12 +1,21 @@
 ---
 id: 28238
 title: "The Dissonance of Davos 2026: Capital Allocation in an Age of Fragmentation and the AI–Energy Nexus"
-award_year: 2026
+year: 2026
 published: 2026-01-26 14:01:50
 published_gmt: 2026-01-26 14:01:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2026/01/the-dissonance-of-davos-2026-capital-allocation-in-an-age-of-fragmentation-and-the-ai-energy-nexus/"
 categories: ["Europe", "Events"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d69f2daa04e271e9c9b5bda6627062d576eb4773aa8d7ef8d88c9057d64368dc
 canonical: 28238-the-dissonance-of-davos-2026-capital-allocation-in-an-age-of-fragmentation-and-t.json
 ---

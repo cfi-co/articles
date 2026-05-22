@@ -1,12 +1,21 @@
 ---
 id: 12136
 title: "British Airways: Bring On the Competition"
-award_year: 2017
+year: 2017
 published: 2017-11-01 15:28:24
 published_gmt: 2017-11-01 15:28:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2017/11/british-airways-bring-on-the-competition/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bb6fa86f8e27ec6c853f08a22bce6342d6b33048281b227b45e7d2e6553fff5f
 canonical: 12136-british-airways-bring-on-the-competition.json
 ---

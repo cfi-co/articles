@@ -1,12 +1,21 @@
 ---
 id: 27334
 title: "Laying Foundations for Renewed Growth — and a Secure Future"
-award_year: 2024
+year: 2024
 published: 2024-12-03 09:28:43
 published_gmt: 2024-12-03 09:28:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/12/laying-foundations-for-renewed-growth-and-a-secure-future/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 966b0e1e244d1dcda18e5bff35e36d6febd2f444278d62f36b252398bce7cabb
 canonical: 27334-laying-foundations-for-renewed-growth-and-a-secure-future.json
 ---

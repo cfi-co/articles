@@ -1,12 +1,21 @@
 ---
 id: 10587
 title: "CFI.co Meets the COO of National Petrochemical Industrial Company: Jamal Jamil Malaikah"
-award_year: 2014
+year: 2014
 published: 2014-10-27 11:42:46
 published_gmt: 2014-10-27 11:42:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2014/10/cfi-co-meets-the-coo-of-national-petrochemical-industrial-company-jamal-jamil-malaikah/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bef4f7781bf6f98bc474d23a9702a259181f8b2d9b362f4441abf8a1c7bd4fa2
 canonical: 10587-cfi-co-meets-the-coo-of-national-petrochemical-industrial-company-jamal-jamil-ma.json
 ---

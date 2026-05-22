@@ -1,12 +1,21 @@
 ---
 id: 13160
 title: "Agustín Carstens: Central Banker of Central Banks"
-award_year: 2018
+year: 2018
 published: 2018-09-12 12:28:26
 published_gmt: 2018-09-12 11:28:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/uncategorized/2018/09/agustin-carstens-central-banker-of-central-banks/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b409a8d321230c0dd43a9db97fc28673ec7596f78903923ba73c32c84621cbca
 canonical: 13160-agustin-carstens-central-banker-of-central-banks.json
 ---

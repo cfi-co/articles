@@ -1,12 +1,21 @@
 ---
 id: 17472
 title: "My Clinic in Saudi Arabia: Taking the Lead in Premium Care and  Relieving the Strain on Patients"
-award_year: 2020
+year: 2020
 published: 2020-01-03 12:40:06
 published_gmt: 2020-01-03 12:40:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/01/my-clinic-in-saudi-arabia-taking-the-lead-in-premium-care-and-relieving-the-strain-on-patients/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 20b198b453b18a17395c910cef7ff633c0bd724c320f9cdb69b58b04b350b621
 canonical: 17472-my-clinic-in-saudi-arabia-taking-the-lead-in-premium-care-and-relieving-the-stra.json
 ---

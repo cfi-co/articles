@@ -1,12 +1,21 @@
 ---
 id: 7665
 title: "World Bank Supports New Innovative Financing to Reach SMEs and Exporters in Turkey"
-award_year: 2014
+year: 2014
 published: 2014-07-23 10:59:34
 published_gmt: 2014-07-23 09:59:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/07/world-bank-supports-new-innovative-financing-to-reach-smes-and-exporters-in-turkey/"
 categories: ["Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6554d2a3ae7e5768aeb88be5d72879ed832a79ca9e6c250c5d11258852c346cb
 canonical: 7665-world-bank-supports-new-innovative-financing-to-reach-smes-and-exporters-in-turk.json
 ---

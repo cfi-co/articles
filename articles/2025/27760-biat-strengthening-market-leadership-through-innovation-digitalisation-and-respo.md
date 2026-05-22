@@ -1,12 +1,21 @@
 ---
 id: 27760
 title: "BIAT: Strengthening Market Leadership Through Innovation, Digitalisation, and Responsible Governance"
-award_year: 2025
+year: 2025
 published: 2025-06-04 13:31:01
 published_gmt: 2025-06-04 12:31:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2025/06/biat-strengthening-market-leadership-through-innovation-digitalisation-and-responsible-governance/"
 categories: ["Africa", "Banking", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8ce7f4b50cc59610e8df545b4c5fbc59a3a306476f55b34b19ec3e83eac7c110
 canonical: 27760-biat-strengthening-market-leadership-through-innovation-digitalisation-and-respo.json
 ---

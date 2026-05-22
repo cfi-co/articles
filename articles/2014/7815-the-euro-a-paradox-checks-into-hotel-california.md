@@ -1,12 +1,21 @@
 ---
 id: 7815
 title: "The Euro - A Paradox Checks Into Hotel California"
-award_year: 2014
+year: 2014
 published: 2014-08-18 14:10:26
 published_gmt: 2014-08-18 13:10:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/08/the-euro-a-paradox-checks-into-hotel-california/"
 categories: ["Europe", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dbadb6426a08b12a1f2eb9e1fecd35aff86882bf1b9144e558288fa733963e9b
 canonical: 7815-the-euro-a-paradox-checks-into-hotel-california.json
 ---

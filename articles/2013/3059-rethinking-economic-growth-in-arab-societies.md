@@ -1,12 +1,21 @@
 ---
 id: 3059
 title: "Rethinking Economic Growth in Arab Societies"
-award_year: 2013
+year: 2013
 published: 2013-02-11 11:32:15
 published_gmt: 2013-02-11 11:32:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/02/rethinking-economic-growth-in-arab-societies/"
 categories: ["Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b94679cf8c2989a4280af727a269647c5d354a6ea36853b840b55f9d9a9fecda
 canonical: 3059-rethinking-economic-growth-in-arab-societies.json
 ---

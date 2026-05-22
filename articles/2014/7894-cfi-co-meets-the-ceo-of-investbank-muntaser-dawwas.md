@@ -1,12 +1,21 @@
 ---
 id: 7894
 title: "CFI.co Meets the CEO of INVESTBANK: Muntaser Dawwas"
-award_year: 2014
+year: 2014
 published: 2014-07-07 15:13:19
 published_gmt: 2014-07-07 14:13:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/07/cfi-co-meets-the-ceo-of-investbank-muntaser-dawwas/"
 categories: ["Banking", "Corporate Leaders", "Europe", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c3f72a50f68de266e8481d9a957c2ad095c53d84343208b81890130ab27847b0
 canonical: 7894-cfi-co-meets-the-ceo-of-investbank-muntaser-dawwas.json
 ---

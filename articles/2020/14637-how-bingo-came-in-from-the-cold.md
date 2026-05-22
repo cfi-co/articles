@@ -1,12 +1,21 @@
 ---
 id: 14637
 title: "How Bingo Came in From The Cold"
-award_year: 2020
+year: 2020
 published: 2020-02-28 09:51:31
 published_gmt: 2020-02-28 09:51:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/02/how-bingo-came-in-from-the-cold/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3bc66805f491a1e9a585dc9517415ff6bca02cad9aee1ebeb6de39cd55859737
 canonical: 14637-how-bingo-came-in-from-the-cold.json
 ---

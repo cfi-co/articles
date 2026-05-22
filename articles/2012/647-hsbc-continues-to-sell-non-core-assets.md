@@ -1,12 +1,21 @@
 ---
 id: 647
 title: "HSBC Continues to Sell Non-Core Assets"
-award_year: 2012
+year: 2012
 published: 2012-05-13 10:10:26
 published_gmt: 2012-05-13 09:10:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/05/hsbc-continues-to-sell-non-core-assets/"
 categories: ["Banking", "Europe", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f87828883e493b501f0311eafc24a6b176aa37cef125a8de8ac61cf85aca11bb
 canonical: 647-hsbc-continues-to-sell-non-core-assets.json
 ---

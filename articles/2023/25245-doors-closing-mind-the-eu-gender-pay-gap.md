@@ -1,12 +1,21 @@
 ---
 id: 25245
 title: "Doors Closing: Mind the EU Gender Pay Gap"
-award_year: 2023
+year: 2023
 published: 2023-04-26 11:12:55
 published_gmt: 2023-04-26 10:12:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/04/eu-gender-pay-gap/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 10b048e3d17e6cf68805d9b8a8de8ea05c37330ce17800b95cf6a06a67a33fe6
 canonical: 25245-doors-closing-mind-the-eu-gender-pay-gap.json
 ---

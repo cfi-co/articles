@@ -1,12 +1,21 @@
 ---
 id: 21893
 title: "The Global Leader in Consumer Growth Investing: L Catterton Has Created a Niche of its Own"
-award_year: 2022
+year: 2022
 published: 2022-05-18 05:56:59
 published_gmt: 2022-05-18 04:56:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/the-global-leader-in-consumer-growth-investing-l-catterton-has-created-a-niche-of-its-own/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e7157ee0f8563ae2fa7371c4590283d2b66b6dad800bf97ff96b16a8d0f9f413
 canonical: 21893-the-global-leader-in-consumer-growth-investing-l-catterton-has-created-a-niche-o.json
 ---

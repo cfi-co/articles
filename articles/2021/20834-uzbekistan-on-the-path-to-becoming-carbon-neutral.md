@@ -1,12 +1,21 @@
 ---
 id: 20834
 title: "Uzbekistan on the Path to Becoming Carbon-Neutral"
-award_year: 2021
+year: 2021
 published: 2021-10-20 07:43:18
 published_gmt: 2021-10-20 06:43:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2021/10/uzbekistan-on-the-path-to-becoming-carbon-neutral/"
 categories: ["Asia Pacific", "Energy", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9ca065c5a35c72a2133b5054e21c8cae2752db0d1036f5562cb134538bea1bb3
 canonical: 20834-uzbekistan-on-the-path-to-becoming-carbon-neutral.json
 ---

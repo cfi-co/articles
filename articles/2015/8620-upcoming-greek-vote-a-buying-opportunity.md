@@ -1,12 +1,21 @@
 ---
 id: 8620
 title: "Upcoming Greek Vote a Buying Opportunity?"
-award_year: 2015
+year: 2015
 published: 2015-01-01 17:50:30
 published_gmt: 2015-01-01 17:50:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/01/upcoming-greek-vote-a-buying-opportunity/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a37eec041b02283583edb34a08ddd878aff7420338c276fa80413e10b51d4bab
 canonical: 8620-upcoming-greek-vote-a-buying-opportunity.json
 ---

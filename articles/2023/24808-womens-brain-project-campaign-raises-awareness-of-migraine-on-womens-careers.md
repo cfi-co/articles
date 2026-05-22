@@ -1,12 +1,21 @@
 ---
 id: 24808
 title: "Women’s Brain Project: Campaign Raises Awareness of Migraine on Women's Careers"
-award_year: 2023
+year: 2023
 published: 2023-02-20 11:18:05
 published_gmt: 2023-02-20 11:18:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/02/womens-brain-project-campaign-raises-awareness-of-migraine-on-womens-careers/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f78549c73768b93f0127b85fe90b9178182c1d0aa37757190e5c047e4c29970c
 canonical: 24808-womens-brain-project-campaign-raises-awareness-of-migraine-on-womens-careers.json
 ---

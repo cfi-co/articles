@@ -1,12 +1,21 @@
 ---
 id: 24732
 title: "In Conversation with Managing Partner of Worthwhile Capital Partners: Christian Andersson"
-award_year: 2023
+year: 2023
 published: 2023-02-08 12:41:00
 published_gmt: 2023-02-08 12:41:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2023/02/in-conversation-with-managing-partner-of-worthwhile-capital-partners-christian-andersson/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a0778a9817f0caaf17577a1bd2be6443179c3c25b70960449382d84dea03c407
 canonical: 24732-in-conversation-with-managing-partner-of-worthwhile-capital-partners-christian-a.json
 ---

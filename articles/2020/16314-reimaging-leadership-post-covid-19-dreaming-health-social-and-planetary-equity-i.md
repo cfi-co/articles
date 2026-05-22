@@ -1,12 +1,21 @@
 ---
 id: 16314
 title: "Reimaging Leadership Post COVID-19: Dreaming Health, Social and Planetary Equity Into Being"
-award_year: 2020
+year: 2020
 published: 2020-07-16 12:28:47
 published_gmt: 2020-07-16 11:28:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2020/07/reimaging-leadership-post-covid-19-dreaming-health-social-and-planetary-equity-into-being/"
 categories: ["Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aec38f4295f31e3654649724190f8982b4407730b5a6a32a3eb75a760515cc99
 canonical: 16314-reimaging-leadership-post-covid-19-dreaming-health-social-and-planetary-equity-i.json
 ---

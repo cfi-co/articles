@@ -1,12 +1,21 @@
 ---
 id: 20103
 title: "CORDET: A Year Like No Other – Success Through Resilience and Momentum"
-award_year: 2021
+year: 2021
 published: 2021-07-05 12:30:47
 published_gmt: 2021-07-05 11:30:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/cordet-a-year-like-no-other-success-through-resilience-and-momentum/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: baed873b2daee0ccc02577cd632aed371e9adcd16dff380ec08d6a0c73524c40
 canonical: 20103-cordet-a-year-like-no-other-success-through-resilience-and-momentum.json
 ---

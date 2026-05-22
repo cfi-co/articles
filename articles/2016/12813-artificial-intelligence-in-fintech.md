@@ -1,12 +1,21 @@
 ---
 id: 12813
 title: "Artificial Intelligence in FinTech"
-award_year: 2016
+year: 2016
 published: 2016-08-08 15:12:05
 published_gmt: 2016-08-08 14:12:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2016/08/artificial-intelligence-in-fintech/"
 categories: ["Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 22697c28af6a00a054eef5cc8fdcd3e71adbb7558a7720cd7398b8e90bfc0ea9
 canonical: 12813-artificial-intelligence-in-fintech.json
 ---

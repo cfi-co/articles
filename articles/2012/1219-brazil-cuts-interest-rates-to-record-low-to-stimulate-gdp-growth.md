@@ -1,12 +1,21 @@
 ---
 id: 1219
 title: "Brazil Cuts Interest Rates to Record Low to Stimulate GDP Growth"
-award_year: 2012
+year: 2012
 published: 2012-07-26 15:12:01
 published_gmt: 2012-07-26 14:12:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/07/brazil-cuts-interest-rates-to-record-low-to-stimulate-gdp-growth/"
 categories: ["Banking", "Europe", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 44511bb36f41a9474ceb48438542b4e00fa80284f70e97874856c233e1fff5b4
 canonical: 1219-brazil-cuts-interest-rates-to-record-low-to-stimulate-gdp-growth.json
 ---

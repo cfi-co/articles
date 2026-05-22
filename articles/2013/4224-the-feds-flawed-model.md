@@ -1,12 +1,21 @@
 ---
 id: 4224
 title: "The Fed’s Flawed Model"
-award_year: 2013
+year: 2013
 published: 2013-05-30 16:46:06
 published_gmt: 2013-05-30 16:46:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/05/the-feds-flawed-model/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 39b6bd3e94c3dd5e4788fde875743db014c1195b0eb209f68465014a8af68263
 canonical: 4224-the-feds-flawed-model.json
 ---

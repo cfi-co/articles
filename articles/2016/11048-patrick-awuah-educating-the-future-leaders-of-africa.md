@@ -1,12 +1,21 @@
 ---
 id: 11048
 title: "Patrick Awuah: Educating the Future Leaders of Africa"
-award_year: 2016
+year: 2016
 published: 2016-02-25 16:18:14
 published_gmt: 2016-02-25 16:18:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2016/02/patrick-awuah-educating-the-future-leaders-of-africa/"
 categories: ["Africa", "SMEs"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c84c1f8fc48c5acd7cf6fa5e6826e46c83a7036c714dde4a1d880f5b0c8ba8c1
 canonical: 11048-patrick-awuah-educating-the-future-leaders-of-africa.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21853
 title: "Norvestor: Seeing — and Seizing — the Full Potential of ESG"
-award_year: 2022
+year: 2022
 published: 2022-05-17 17:49:07
 published_gmt: 2022-05-17 16:49:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/norvestor-seeing-and-seizing-the-full-potential-of-esg/"
 categories: ["Corporate", "Governance &amp; Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e6cb98c492c0246d33f6e7a921d9574e1beebc8a18cc60a4ecf7e7dfc9513894
 canonical: 21853-norvestor-seeing-and-seizing-the-full-potential-of-esg.json
 ---

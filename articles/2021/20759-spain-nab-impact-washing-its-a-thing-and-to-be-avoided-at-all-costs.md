@@ -1,12 +1,21 @@
 ---
 id: 20759
 title: "Spain NAB: ‘Impact-Washing…? It’s a Thing, and to be Avoided at All Costs"
-award_year: 2021
+year: 2021
 published: 2021-10-01 07:53:52
 published_gmt: 2021-10-01 06:53:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2021/10/spain-nab-impact-washing-its-a-thing-and-to-be-avoided-at-all-costs/"
 categories: ["CSR", "Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7144a5ef456824c43c30268efcec66c66ed43e75baded662c668e8f7ee808fcb
 canonical: 20759-spain-nab-impact-washing-its-a-thing-and-to-be-avoided-at-all-costs.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8790
 title: "World Economic Forum Opens in Davos: Sharing and Caring"
-award_year: 2015
+year: 2015
 published: 2015-01-21 13:16:57
 published_gmt: 2015-01-21 13:16:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/01/world-economic-forum-opens-in-davos-sharing-and-caring/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Middle East", "North America", "Oil &amp; Mining", "Projects", "Sustainability", "Technology", "WEF"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5e7c1e5b5efdfa591ea0aca30a2717de1dba58b9ea7f23f1cf2dc0292b0e41a5
 canonical: 8790-world-economic-forum-opens-in-davos-sharing-and-caring.json
 ---

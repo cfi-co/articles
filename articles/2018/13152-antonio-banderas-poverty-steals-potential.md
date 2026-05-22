@@ -1,12 +1,21 @@
 ---
 id: 13152
 title: "Antonio Banderas: Poverty Steals Potential"
-award_year: 2018
+year: 2018
 published: 2018-09-12 12:24:09
 published_gmt: 2018-09-12 11:24:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/09/antonio-banderas-poverty-steals-potential/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 65d728d82ebc0aa42af8a06014e574141428dd0de43f4f165270cfe7fc6bc4c0
 canonical: 13152-antonio-banderas-poverty-steals-potential.json
 ---

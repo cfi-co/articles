@@ -1,12 +1,21 @@
 ---
 id: 7790
 title: "Why Business Leaders Support a Price on Carbon"
-award_year: 2014
+year: 2014
 published: 2014-08-12 11:17:14
 published_gmt: 2014-08-12 10:17:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/oil-and-mining/2014/08/why-business-leaders-support-a-price-on-carbon/"
 categories: ["Oil &amp; Mining", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 73dd1a505e6609bc95a42a425e92e4c972dd02978ec1b2e4488df8d5c1b06d91
 canonical: 7790-why-business-leaders-support-a-price-on-carbon.json
 ---

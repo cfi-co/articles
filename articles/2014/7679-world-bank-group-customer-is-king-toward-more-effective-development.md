@@ -1,12 +1,21 @@
 ---
 id: 7679
 title: "World Bank Group: “Customer is King” –  Toward More Effective Development?"
-award_year: 2014
+year: 2014
 published: 2014-07-24 16:42:37
 published_gmt: 2014-07-24 15:42:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/07/world-bank-group-customer-is-king-toward-more-effective-development/"
 categories: ["Africa", "Asia Pacific", "Latin America", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ad143f25b8f8cd45e6e1ea3148d5e6ab0e25654aa82fad666485137457a60609
 canonical: 7679-world-bank-group-customer-is-king-toward-more-effective-development.json
 ---

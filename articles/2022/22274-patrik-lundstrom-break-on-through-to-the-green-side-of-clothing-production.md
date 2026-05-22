@@ -1,12 +1,21 @@
 ---
 id: 22274
 title: "Patrik Lundström: Break on Through to the Green Side of Clothing Production…"
-award_year: 2022
+year: 2022
 published: 2022-06-17 09:12:10
 published_gmt: 2022-06-17 08:12:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/heroes/2022/06/patrik-lundstrom-break-on-through-to-the-green-side-of-clothing-production/"
 categories: ["Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8acffebb8ab1e0e9a5b9fba5987bd00639a778ec2f3c830c4e2d3b5aa9322cfd
 canonical: 22274-patrik-lundstrom-break-on-through-to-the-green-side-of-clothing-production.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 144
 title: "Bank of America Merrill Lynch on LatAm: Cutting Your Way Down"
-award_year: 2011
+year: 2011
 published: 2011-12-05 15:05:57
 published_gmt: 2011-12-05 15:05:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2011/12/bank-of-america-merrill-lynch-on-latam-cutting-your-way-down/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4aa05eb7e79f5eb4df8a3ebe5b35cb434657371b467f0968f265faeaf2f36f46
 canonical: 144-bank-of-america-merrill-lynch-on-latam-cutting-your-way-down.json
 ---

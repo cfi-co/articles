@@ -1,12 +1,21 @@
 ---
 id: 970
 title: "MIGA (World Bank): During the Storm - Shift from North to South FDI"
-award_year: 2012
+year: 2012
 published: 2012-06-19 17:31:23
 published_gmt: 2012-06-19 16:31:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/06/miga-world-bank-during-the-storm-shift-from-north-to-south-fdi/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d2fbd44171d446a632647ab8d2e79070554b54f8e0b84110a7bea4ff46afe0fb
 canonical: 970-miga-world-bank-during-the-storm-shift-from-north-to-south-fdi.json
 ---

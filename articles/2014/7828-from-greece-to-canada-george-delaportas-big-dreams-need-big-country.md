@@ -1,12 +1,21 @@
 ---
 id: 7828
 title: "From Greece to Canada – George Delaportas: Big Dreams Need Big Country"
-award_year: 2014
+year: 2014
 published: 2014-08-20 12:32:53
 published_gmt: 2014-08-20 11:32:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/08/from-greece-to-canada-george-delaportas-big-dreams-need-big-country/"
 categories: ["Europe", "North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8be29bd9b3f8355c3aa13c68fdb188d04b5e5eabfa580c1e5708ecb9d2998b3c
 canonical: 7828-from-greece-to-canada-george-delaportas-big-dreams-need-big-country.json
 ---

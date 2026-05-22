@@ -1,12 +1,21 @@
 ---
 id: 26643
 title: "The Women’s Brain Project Takes the World Economic Forum 2024 Stage"
-award_year: 2024
+year: 2024
 published: 2024-02-03 14:53:04
 published_gmt: 2024-02-03 14:53:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/02/the-womens-brain-project-takes-the-world-economic-forum-2024-stage/"
 categories: ["Europe", "Events", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d7bc4ba1d2955abdecd415cbc470bc10610df5dad35ff7dc34b6a4e4ac566ee6
 canonical: 26643-the-womens-brain-project-takes-the-world-economic-forum-2024-stage.json
 ---

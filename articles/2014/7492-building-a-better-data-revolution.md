@@ -1,12 +1,21 @@
 ---
 id: 7492
 title: "Building a Better Data Revolution"
-award_year: 2014
+year: 2014
 published: 2014-06-23 12:48:41
 published_gmt: 2014-06-23 11:48:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2014/06/building-a-better-data-revolution/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 35b28a0f8e3c835fa1d2e74badf41d41eb03e465277d13dc636f47d865f9e3d0
 canonical: 7492-building-a-better-data-revolution.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 5449
 title: "Nataly Marchbank: BEPS and Transfer Pricing in South Africa"
-award_year: 2013
+year: 2013
 published: 2013-10-10 12:31:26
 published_gmt: 2013-10-10 11:31:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/10/nataly-marchbank-beps-and-transfer-pricing-in-south-africa/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c48cafa46b2caf045f44df6dc82bee39fc22d7db1f34300d4e584946e57c65d6
 canonical: 5449-nataly-marchbank-beps-and-transfer-pricing-in-south-africa.json
 ---

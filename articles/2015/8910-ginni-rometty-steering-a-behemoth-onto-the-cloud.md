@@ -1,12 +1,21 @@
 ---
 id: 8910
 title: "Ginni Rometty: Steering a Behemoth onto the Cloud"
-award_year: 2015
+year: 2015
 published: 2015-02-09 13:11:33
 published_gmt: 2015-02-09 13:11:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2015/02/ginni-rometty-steering-a-behemoth-onto-the-cloud/"
 categories: ["North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 117f1ca52357a111df60de5ba62600b3eaf0c92f7687ae03ea02b8ab6a5e000a
 canonical: 8910-ginni-rometty-steering-a-behemoth-onto-the-cloud.json
 ---

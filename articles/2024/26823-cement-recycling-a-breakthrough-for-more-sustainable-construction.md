@@ -1,12 +1,21 @@
 ---
 id: 26823
 title: "Cement Recycling: a Breakthrough for More Sustainable Construction"
-award_year: 2024
+year: 2024
 published: 2024-05-22 22:22:45
 published_gmt: 2024-05-22 21:22:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/05/cement-recycling-a-breakthrough-for-more-sustainable-construction/"
 categories: ["CSR", "Europe", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ee4b8ba05ca2ab5e3f4c2b4e7b3757faa923a5a17345f5927a74cf968e11312f
 canonical: 26823-cement-recycling-a-breakthrough-for-more-sustainable-construction.json
 ---

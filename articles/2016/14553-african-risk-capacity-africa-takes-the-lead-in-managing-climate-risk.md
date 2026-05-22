@@ -1,12 +1,21 @@
 ---
 id: 14553
 title: "African Risk Capacity: Africa Takes the Lead in Managing Climate Risk"
-award_year: 2016
+year: 2016
 published: 2016-05-20 13:49:49
 published_gmt: 2016-05-20 12:49:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2016/05/african-risk-capacity-africa-takes-the-lead-in-managing-climate-risk/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 99aaab74fd6d3fbd1e516731deff98f54087750cc78bbf5229d964fa0f9ec4d2
 canonical: 14553-african-risk-capacity-africa-takes-the-lead-in-managing-climate-risk.json
 ---

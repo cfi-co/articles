@@ -1,12 +1,21 @@
 ---
 id: 28031
 title: "Blended Finance’s Second Act: The OECD Renews Guidance to Effectively Align Development Goals and Investment Returns"
-award_year: 2025
+year: 2025
 published: 2025-10-31 09:43:55
 published_gmt: 2025-10-31 09:43:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/10/blended-finances-second-act-the-oecd-renews-guidance-to-effectively-align-development-goals-and-investment-returns/"
 categories: ["Europe", "Finance", "Multilaterals"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8700c439c6a1a5895f5242996a7b06c69b4093756b4d5dd0ccbfa426f481e58e
 canonical: 28031-blended-finances-second-act-the-oecd-renews-guidance-to-effectively-align-develo.json
 ---

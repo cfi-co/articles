@@ -1,12 +1,21 @@
 ---
 id: 15433
 title: "The Value of News"
-award_year: 2020
+year: 2020
 published: 2020-05-22 17:39:53
 published_gmt: 2020-05-22 16:39:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/05/the-value-of-news/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9cf5a10081093ad673d437c461664a51b9e071d0e6ac48383e98654bf4bb484d
 canonical: 15433-the-value-of-news.json
 ---

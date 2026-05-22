@@ -1,12 +1,21 @@
 ---
 id: 21031
 title: "State Investment Corporation Ltd (SIC): Mauritian Investment Body Has Country’s Best Interests in Mind"
-award_year: 2021
+year: 2021
 published: 2021-11-09 16:03:14
 published_gmt: 2021-11-09 16:03:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/state-investment-corporation-ltd-sic-mauritian-investment-body-has-countrys-best-interests-in-mind/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c7c353730f327256dd02b8ec117ef4ddd1c45b84cc59705563d87e22de5c2677
 canonical: 21031-state-investment-corporation-ltd-sic-mauritian-investment-body-has-countrys-best.json
 ---

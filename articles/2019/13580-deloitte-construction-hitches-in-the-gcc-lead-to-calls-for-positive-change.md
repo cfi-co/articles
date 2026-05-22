@@ -1,12 +1,21 @@
 ---
 id: 13580
 title: "Deloitte: Construction Hitches in the GCC Lead to Calls for Positive Change"
-award_year: 2019
+year: 2019
 published: 2019-05-21 16:38:50
 published_gmt: 2019-05-21 15:38:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2019/05/deloitte-construction-hitches-in-the-gcc-lead-to-calls-for-positive-change/"
 categories: ["Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5a406ee934e494f04220c001c92c8b56777547048c85cfc5e95e22354b7117c4
 canonical: 13580-deloitte-construction-hitches-in-the-gcc-lead-to-calls-for-positive-change.json
 ---

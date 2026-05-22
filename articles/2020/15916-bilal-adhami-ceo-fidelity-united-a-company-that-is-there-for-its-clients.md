@@ -1,12 +1,21 @@
 ---
 id: 15916
 title: "Fidelity by Name and United by Nature: A Company That Is ‘There’ For Its Clients"
-award_year: 2020
+year: 2020
 published: 2020-07-01 14:03:22
 published_gmt: 2020-07-01 13:03:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/07/bilal-adhami-ceo-fidelity-united-a-company-that-is-there-for-its-clients/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ea93caa32a5d01f008552cfaa35833011d4f223ce510d7010c98800ea9e10906
 canonical: 15916-bilal-adhami-ceo-fidelity-united-a-company-that-is-there-for-its-clients.json
 ---

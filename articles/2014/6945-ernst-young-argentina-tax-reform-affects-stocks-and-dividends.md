@@ -1,12 +1,21 @@
 ---
 id: 6945
 title: "Ernst & Young, Argentina: Tax Reform Affects Stocks and Dividends"
-award_year: 2014
+year: 2014
 published: 2014-04-09 12:18:40
 published_gmt: 2014-04-09 11:18:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/04/ernst-young-argentina-tax-reform-affects-stocks-and-dividends/"
 categories: ["Banking", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 99df8764f90dbca8fb5d9db8efa60412acd9cccb59974317b731e99c32cf9c7b
 canonical: 6945-ernst-young-argentina-tax-reform-affects-stocks-and-dividends.json
 ---

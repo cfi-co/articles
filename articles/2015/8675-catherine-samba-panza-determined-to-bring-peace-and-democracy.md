@@ -1,12 +1,21 @@
 ---
 id: 8675
 title: "Catherine Samba-Panza: Determined to Bring Peace and Democracy"
-award_year: 2015
+year: 2015
 published: 2015-01-08 11:01:40
 published_gmt: 2015-01-08 11:01:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/01/catherine-samba-panza-determined-to-bring-peace-and-democracy/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 238b9141d075c4d9deaba5d6d6ec8c308300b217ceaf19aeaead852661e8ae0d
 canonical: 8675-catherine-samba-panza-determined-to-bring-peace-and-democracy.json
 ---

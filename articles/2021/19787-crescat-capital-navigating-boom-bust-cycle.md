@@ -1,12 +1,21 @@
 ---
 id: 19787
 title: "Crescat Capital: Navigating the Boom Bust Cycle"
-award_year: 2021
+year: 2021
 published: 2021-06-09 12:01:49
 published_gmt: 2021-06-09 11:01:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/06/crescat-capital-navigating-boom-bust-cycle/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f8b9f04ecc2f1d38cbee744d19f255074a0e69fbc1a71566cf43580798728673
 canonical: 19787-crescat-capital-navigating-boom-bust-cycle.json
 ---

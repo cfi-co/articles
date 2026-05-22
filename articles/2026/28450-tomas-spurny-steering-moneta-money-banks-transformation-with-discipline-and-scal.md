@@ -1,12 +1,22 @@
 ---
 id: 28450
 title: "Tomáš Spurný: Steering MONETA Money Bank’s Transformation with Discipline and Scale"
-award_year: 2026
+year: 2026
 published: 2026-05-11 17:34:45
 published_gmt: 2026-05-11 16:34:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2026/05/tomas-spurny-steering-moneta-money-banks-transformation-with-discipline-and-scale/"
 categories: ["Banking", "Corporate Leaders", "Europe"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "MONETA Money Bank"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 803af070608554538c5ef095a8fbafd662fdacf4bab12a1d067321301a075459
 canonical: 28450-tomas-spurny-steering-moneta-money-banks-transformation-with-discipline-and-scal.json
 ---

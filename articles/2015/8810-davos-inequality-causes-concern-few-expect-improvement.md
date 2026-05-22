@@ -1,12 +1,21 @@
 ---
 id: 8810
 title: "Davos: Inequality Causes Concern, Few Expect Improvement"
-award_year: 2015
+year: 2015
 published: 2015-01-26 13:04:34
 published_gmt: 2015-01-26 13:04:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/01/davos-inequality-causes-concern-few-expect-improvement/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a6ff27195310a5f8c285f40e4fbc48bf5429ca4a5d3eaa0dc62236d14a73e901
 canonical: 8810-davos-inequality-causes-concern-few-expect-improvement.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26910
 title: "Barış Öney is a Man of Many Talents — and Apparently Endless Energy"
-award_year: 2024
+year: 2024
 published: 2024-07-16 09:06:19
 published_gmt: 2024-07-16 08:06:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/07/baris-oney-is-a-man-of-many-talents-and-apparently-endless-energy/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7d96801cbdaeb853ff25e58afcb01ed8739b6580df96dcd95c24c2ac4bf493f2
 canonical: 26910-baris-oney-is-a-man-of-many-talents-and-apparently-endless-energy.json
 ---

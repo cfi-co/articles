@@ -1,12 +1,21 @@
 ---
 id: 20374
 title: "Bank One: Supporting Mauritius' Efforts to Emerge as a Private Wealth Hub for Africa"
-award_year: 2021
+year: 2021
 published: 2021-08-12 14:36:31
 published_gmt: 2021-08-12 13:36:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/bank-one-supporting-mauritius-efforts-to-emerge-as-a-private-wealth-hub-for-africa/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6c8272833e2822f853af1a7ed2dded74f56ebb1557ebb7b18664d67d4d535037
 canonical: 20374-bank-one-supporting-mauritius-efforts-to-emerge-as-a-private-wealth-hub-for-afri.json
 ---

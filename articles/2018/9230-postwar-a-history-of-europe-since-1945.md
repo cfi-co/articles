@@ -1,12 +1,21 @@
 ---
 id: 9230
 title: "Postwar: A History of Europe Since 1945"
-award_year: 2018
+year: 2018
 published: 2018-02-28 13:36:34
 published_gmt: 2018-02-28 13:36:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/must-reads/2018/02/postwar-a-history-of-europe-since-1945/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4381c4f999dca74dcd6604a740b7db1e0c431bd39af7a7271dd3ef92b4110091
 canonical: 9230-postwar-a-history-of-europe-since-1945.json
 ---

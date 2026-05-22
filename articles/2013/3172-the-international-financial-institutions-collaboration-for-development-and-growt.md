@@ -1,12 +1,21 @@
 ---
 id: 3172
 title: "The International Financial Institutions: Collaboration for Development and Growth"
-award_year: 2013
+year: 2013
 published: 2013-03-04 14:45:02
 published_gmt: 2013-03-04 14:45:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/03/the-international-financial-institutions-collaboration-for-development-and-growth/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Middle East", "North America", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4cbd3f6934fd599e8420a46b02d86256297e2e5cb96a878cee18ac7d494d02db
 canonical: 3172-the-international-financial-institutions-collaboration-for-development-and-growt.json
 ---

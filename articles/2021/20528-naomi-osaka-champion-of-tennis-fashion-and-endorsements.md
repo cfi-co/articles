@@ -1,12 +1,21 @@
 ---
 id: 20528
 title: "Naomi Osaka: Champion of Tennis, Fashion — and Endorsements"
-award_year: 2021
+year: 2021
 published: 2021-09-02 13:30:58
 published_gmt: 2021-09-02 12:30:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2021/09/naomi-osaka-champion-of-tennis-fashion-and-endorsements/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fcfe6380c5390b2108b4f6e4598792caea4f002a5963951f43b1f303c52f8f52
 canonical: 20528-naomi-osaka-champion-of-tennis-fashion-and-endorsements.json
 ---

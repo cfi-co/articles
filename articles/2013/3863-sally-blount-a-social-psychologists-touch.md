@@ -1,12 +1,21 @@
 ---
 id: 3863
 title: "Sally Blount: A Social Psychologist's Touch"
-award_year: 2013
+year: 2013
 published: 2013-05-08 09:15:05
 published_gmt: 2013-05-08 09:15:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2013/05/sally-blount-a-social-psychologists-touch/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3c711e981ce8333d8d048da9a4b403724c8f8b2b662565e85db6d0012d0fb3dd
 canonical: 3863-sally-blount-a-social-psychologists-touch.json
 ---

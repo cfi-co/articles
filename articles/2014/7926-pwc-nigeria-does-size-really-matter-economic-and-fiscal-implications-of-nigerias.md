@@ -1,12 +1,21 @@
 ---
 id: 7926
 title: "PwC Nigeria: Does Size Really Matter? Economic and Fiscal Implications of Nigeria’s Rebased GDP"
-award_year: 2014
+year: 2014
 published: 2014-08-27 11:19:51
 published_gmt: 2014-08-27 10:19:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/08/pwc-nigeria-does-size-really-matter-economic-and-fiscal-implications-of-nigerias-rebased-gdp/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 83da2a526e5fcad86d19e77ea60dcf2dd45d0d2ef1210a3351bf73f5be58bed2
 canonical: 7926-pwc-nigeria-does-size-really-matter-economic-and-fiscal-implications-of-nigerias.json
 ---

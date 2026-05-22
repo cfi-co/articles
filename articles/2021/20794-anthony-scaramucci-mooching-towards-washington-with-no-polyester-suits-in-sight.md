@@ -1,12 +1,21 @@
 ---
 id: 20794
 title: "Anthony Scaramucci: Mooching Towards Washington, With No Polyester Suits in Sight"
-award_year: 2021
+year: 2021
 published: 2021-10-14 10:56:42
 published_gmt: 2021-10-14 09:56:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2021/10/anthony-scaramucci-mooching-towards-washington-with-no-polyester-suits-in-sight/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 61f1b99907636fff3ab01730933e4b93faf27f16f2bdb10b2ff046039bf48850
 canonical: 20794-anthony-scaramucci-mooching-towards-washington-with-no-polyester-suits-in-sight.json
 ---

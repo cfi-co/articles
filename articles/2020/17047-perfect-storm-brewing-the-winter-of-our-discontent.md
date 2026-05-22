@@ -1,12 +1,21 @@
 ---
 id: 17047
 title: "Perfect Storm Brewing: The Winter of Our Discontent"
-award_year: 2020
+year: 2020
 published: 2020-09-23 16:01:37
 published_gmt: 2020-09-23 15:01:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/09/perfect-storm-brewing-the-winter-of-our-discontent/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a1f64c33563961e743a7f5f0a841685195c5dfaa03e3e0141547f21c8a69c382
 canonical: 17047-perfect-storm-brewing-the-winter-of-our-discontent.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 18562
 title: "East Africa Metals President and CEO Andrew Lee Smith's Passion, Ability and  Concern for Community Win Accolades from All Sides"
-award_year: 2021
+year: 2021
 published: 2021-02-01 15:35:25
 published_gmt: 2021-02-01 15:35:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/cfi-co-meets/2021/02/east-africa-metals-president-and-ceo-andrew-lee-smiths-passion-ability-and-concern-for-community-win-accolades-from-all-sides/"
 categories: ["CFI.co Meets"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3950db191ad1f134e1e166ab9dda321625a8eea1de6a60707d140e5ff60828b8
 canonical: 18562-east-africa-metals-president-and-ceo-andrew-lee-smiths-passion-ability-and-conce.json
 ---

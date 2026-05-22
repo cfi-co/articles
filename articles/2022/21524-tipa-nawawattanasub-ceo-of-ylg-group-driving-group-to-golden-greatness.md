@@ -1,12 +1,21 @@
 ---
 id: 21524
 title: "Tipa Nawawattanasub, CEO of YLG Group: Driving Group to Golden Greatness"
-award_year: 2022
+year: 2022
 published: 2022-02-04 08:33:10
 published_gmt: 2022-02-04 08:33:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/02/tipa-nawawattanasub-ceo-of-ylg-group-driving-group-to-golden-greatness/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 04b6c229c27836776deb3b4067b66536709723928966df6f0247a4d7df63a98c
 canonical: 21524-tipa-nawawattanasub-ceo-of-ylg-group-driving-group-to-golden-greatness.json
 ---

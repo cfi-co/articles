@@ -1,12 +1,21 @@
 ---
 id: 901
 title: "OECD: Ominous Signs for International Investment"
-award_year: 2012
+year: 2012
 published: 2012-06-28 14:54:03
 published_gmt: 2012-06-28 13:54:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/06/ominous-signs-for-international-investment/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c5e2171b4a51ac3082d449da42ea50e551c34ddead27fdb089e8e355fecd23b6
 canonical: 901-ominous-signs-for-international-investment.json
 ---

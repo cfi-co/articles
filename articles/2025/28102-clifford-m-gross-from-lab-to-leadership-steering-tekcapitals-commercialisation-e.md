@@ -1,12 +1,21 @@
 ---
 id: 28102
 title: "Clifford M Gross: From Lab to Leadership — Steering Tekcapital’s Commercialisation Engine"
-award_year: 2025
+year: 2025
 published: 2025-11-14 10:46:07
 published_gmt: 2025-11-14 10:46:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2025/11/clifford-m-gross-from-lab-to-leadership-steering-tekcapitals-commercialisation-engine/"
 categories: ["CFI.co Meets", "Corporate Leaders", "Europe", "Finance"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c1b64cb3c316cda76f098c95d79d510b2b53ea3fa010b26d2c25bc56726e7ddc
 canonical: 28102-clifford-m-gross-from-lab-to-leadership-steering-tekcapitals-commercialisation-e.json
 ---

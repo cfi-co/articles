@@ -1,12 +1,21 @@
 ---
 id: 27749
 title: "Corporación Zona Franca Santiago: Forging the Next 50 Years of Sustainable Innovation and Growth"
-award_year: 2025
+year: 2025
 published: 2025-05-28 14:43:11
 published_gmt: 2025-05-28 13:43:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2025/05/corporacion-zona-franca-santiago-forging-the-next-50-years-of-sustainable-innovation-and-growth/"
 categories: ["Corporate", "Latin America", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 08ab3922295f33c9ce9fbce0f0b150e1908d414a4ebe6521860d8b4b2c581bff
 canonical: 27749-corporacion-zona-franca-santiago-forging-the-next-50-years-of-sustainable-innova.json
 ---

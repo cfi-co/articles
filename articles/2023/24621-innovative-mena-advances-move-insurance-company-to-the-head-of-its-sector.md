@@ -1,12 +1,21 @@
 ---
 id: 24621
 title: "Innovative Mena Advances Move Insurance Company to the Head of its Sector"
-award_year: 2023
+year: 2023
 published: 2023-01-18 13:19:00
 published_gmt: 2023-01-18 13:19:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/01/innovative-mena-advances-move-insurance-company-to-the-head-of-its-sector/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: be7097e3bf0a9cade9f210edecfd035d937de61ed94775275faf8123e9c180c1
 canonical: 24621-innovative-mena-advances-move-insurance-company-to-the-head-of-its-sector.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26827
 title: "To Get Ahead, Get a Head with a Heart"
-award_year: 2024
+year: 2024
 published: 2024-05-24 11:16:16
 published_gmt: 2024-05-24 10:16:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/05/to-get-ahead-get-a-head-with-a-heart/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b9a41d41b8dc07358090778f7308c430739d3a38ecef3a305b278c4112056c54
 canonical: 26827-to-get-ahead-get-a-head-with-a-heart.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27987
 title: "China’s Silver Bullet: How 'Silver Trains' Could Boost the Economy"
-award_year: 2025
+year: 2025
 published: 2025-10-08 09:30:14
 published_gmt: 2025-10-08 08:30:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2025/10/chinas-silver-bullet-how-silver-trains-could-boost-the-economy/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5261dccfe24a89c51de5a0aaf7a78324bc386e37a512352cac0bb95d9056fd4e
 canonical: 27987-chinas-silver-bullet-how-silver-trains-could-boost-the-economy.json
 ---

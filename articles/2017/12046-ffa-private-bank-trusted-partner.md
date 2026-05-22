@@ -1,12 +1,21 @@
 ---
 id: 12046
 title: "FFA Private Bank: Trusted Partner"
-award_year: 2017
+year: 2017
 published: 2017-10-13 16:10:49
 published_gmt: 2017-10-13 15:10:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2017/10/ffa-private-bank-trusted-partner/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d64e421ae65b765cb81a2172940dec0777fa22d9100181b00933b2a72e36eebd
 canonical: 12046-ffa-private-bank-trusted-partner.json
 ---

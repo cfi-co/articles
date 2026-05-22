@@ -1,12 +1,21 @@
 ---
 id: 15668
 title: "Jakob von Ganske, Ph.D.:  Taking Strategic Steps — and  Keeping a Close Eye on Risks"
-award_year: 2019
+year: 2019
 published: 2019-07-12 13:11:12
 published_gmt: 2019-07-12 12:11:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/07/jakob-von-ganske-ph-d-taking-strategic-steps-and-keeping-a-close-eye-on-risks/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a174aea786696b78a8741d341bcbdf59d5b8b8ab14e5e2f582d0f5b1a305a034
 canonical: 15668-jakob-von-ganske-ph-d-taking-strategic-steps-and-keeping-a-close-eye-on-risks.json
 ---

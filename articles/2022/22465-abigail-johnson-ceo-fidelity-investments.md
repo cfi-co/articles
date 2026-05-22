@@ -1,12 +1,21 @@
 ---
 id: 22465
 title: "Quiet, Unassuming, Modest — and One of the World’s Most Powerful Women"
-award_year: 2022
+year: 2022
 published: 2022-07-26 17:01:36
 published_gmt: 2022-07-26 16:01:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/07/abigail-johnson-ceo-fidelity-investments/"
 categories: ["Banking &amp; Finance", "CFI.co Meets", "Corporate", "Corporate Leaders", "North America"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9c32dde17ebbbe459eb6f8b05f876c62561c875fcca355a5bfc1adb317066b02
 canonical: 22465-abigail-johnson-ceo-fidelity-investments.json
 ---

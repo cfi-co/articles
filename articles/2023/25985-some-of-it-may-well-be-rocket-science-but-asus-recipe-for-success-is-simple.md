@@ -1,12 +1,21 @@
 ---
 id: 25985
 title: "Some of it may well be Rocket Science, but ASU’s Recipe for Success is Simple"
-award_year: 2023
+year: 2023
 published: 2023-09-04 16:21:41
 published_gmt: 2023-09-04 15:21:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2023/09/some-of-it-may-well-be-rocket-science-but-asus-recipe-for-success-is-simple/"
 categories: ["Corporate", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5e4f386866c5698da6dee1ff1a45fe3fab6733bd9e17408b4e4492b62d67b847
 canonical: 25985-some-of-it-may-well-be-rocket-science-but-asus-recipe-for-success-is-simple.json
 ---

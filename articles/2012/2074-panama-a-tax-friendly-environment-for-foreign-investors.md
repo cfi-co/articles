@@ -1,12 +1,21 @@
 ---
 id: 2074
 title: "Panama - A Tax Friendly Environment for Foreign Investors"
-award_year: 2012
+year: 2012
 published: 2012-08-29 14:29:49
 published_gmt: 2012-08-29 13:29:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2012/08/panama-a-tax-friendly-environment-for-foreign-investors/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e4481f8d95369c695850529a2f465c5a8457755ab5f64a8dc222a8d62acf98c2
 canonical: 2074-panama-a-tax-friendly-environment-for-foreign-investors.json
 ---

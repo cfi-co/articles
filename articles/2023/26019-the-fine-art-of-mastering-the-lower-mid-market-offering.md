@@ -1,12 +1,21 @@
 ---
 id: 26019
 title: "The Fine Art of Mastering the Lower Mid-Market Offering"
-award_year: 2023
+year: 2023
 published: 2023-09-05 15:02:55
 published_gmt: 2023-09-05 14:02:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2023/09/cordet-mastering-the-lower-mid-market-offering/"
 categories: ["Banking", "Corporate", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6bdcae46e285206f95e3d1fe1a504fa68f25bed9bd9072ba77148a1229294f74
 canonical: 26019-the-fine-art-of-mastering-the-lower-mid-market-offering.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 591
 title: "The OECD Believes That the Eurozone Crisis is the Largest Single Threat to the Global Economy"
-award_year: 2012
+year: 2012
 published: 2012-05-22 15:52:05
 published_gmt: 2012-05-22 14:52:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2012/05/the-oecd-believes-that-the-eurozone-crisis-is-the-largest-single-threat-to-the-global-economy/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f9081ce3c3632a90760cd1946741cbbaba716b06519bbe93dcebbeee3010a90b
 canonical: 591-the-oecd-believes-that-the-eurozone-crisis-is-the-largest-single-threat-to-the-g.json
 ---

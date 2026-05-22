@@ -1,12 +1,21 @@
 ---
 id: 7378
 title: "Luther George Simjian: ATM Inventor Misses Out on Fame and Fortune"
-award_year: 2014
+year: 2014
 published: 2014-06-02 15:00:50
 published_gmt: 2014-06-02 14:00:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2014/06/luther-george-simjian-atm-inventor-misses-out-on-fame-and-fortune/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4c0940a4201b12be90e1969c45bb7da2484c0278ce56ae6e3bbb5471cb1c78ba
 canonical: 7378-luther-george-simjian-atm-inventor-misses-out-on-fame-and-fortune.json
 ---

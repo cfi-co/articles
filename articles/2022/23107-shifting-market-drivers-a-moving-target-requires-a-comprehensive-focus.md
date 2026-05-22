@@ -1,12 +1,21 @@
 ---
 id: 23107
 title: "Shifting Market Drivers: a Moving Target Requires a Comprehensive Focus"
-award_year: 2022
+year: 2022
 published: 2022-11-11 09:00:44
 published_gmt: 2022-11-11 09:00:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/11/shifting-market-drivers-a-moving-target-requires-a-comprehensive-focus/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a021582b72a3433fa333548b953682708cd6086104c611c72028ed9ca8aa738d
 canonical: 23107-shifting-market-drivers-a-moving-target-requires-a-comprehensive-focus.json
 ---

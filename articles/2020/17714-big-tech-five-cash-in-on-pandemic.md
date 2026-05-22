@@ -1,12 +1,21 @@
 ---
 id: 17714
 title: "Big Tech Five Cash In on Pandemic"
-award_year: 2020
+year: 2020
 published: 2020-10-30 13:45:58
 published_gmt: 2020-10-30 13:45:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2020/10/big-tech-five-cash-in-on-pandemic/"
 categories: ["Technology", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 14a1541318153a1e97dfd76cf32e91892832422cdf6abb64d8454c1e415ac822
 canonical: 17714-big-tech-five-cash-in-on-pandemic.json
 ---

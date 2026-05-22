@@ -1,12 +1,21 @@
 ---
 id: 27558
 title: "Wall Street Checkmate: The Intriguing Story of Chess Expertise and Business"
-award_year: 2025
+year: 2025
 published: 2025-02-10 11:05:25
 published_gmt: 2025-02-10 11:05:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/02/wall-street-checkmate-the-intriguing-story-of-chess-expertise-and-business/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4449c6831d5c7100bf0983aaa51db73a254fd7c7f907fe0a31834f6466079e4a
 canonical: 27558-wall-street-checkmate-the-intriguing-story-of-chess-expertise-and-business.json
 ---

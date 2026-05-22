@@ -1,12 +1,21 @@
 ---
 id: 14578
 title: "Ana Palacio: Europe on a Geopolitical Fault Line"
-award_year: 2020
+year: 2020
 published: 2020-01-30 12:42:38
 published_gmt: 2020-01-30 12:42:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/01/ana-palacio-europe-on-a-geopolitical-fault-line/"
 categories: ["Banking &amp; Finance", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d07518fa4431d2710f8bd77fc7fb42ab385658a0d5965253cdd0979765705fa6
 canonical: 14578-ana-palacio-europe-on-a-geopolitical-fault-line.json
 ---

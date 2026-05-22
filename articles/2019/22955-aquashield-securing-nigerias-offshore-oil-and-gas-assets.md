@@ -1,12 +1,21 @@
 ---
 id: 22955
 title: "Aquashield: Securing Nigeria’s Offshore Oil and Gas Assets"
-award_year: 2019
+year: 2019
 published: 2019-05-10 12:28:19
 published_gmt: 2019-05-10 11:28:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/05/aquashield-securing-nigerias-offshore-oil-and-gas-assets/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f9972e474aff4e4b9b5feff8e342f55914f23855db05aef003c32452887bfa91
 canonical: 22955-aquashield-securing-nigerias-offshore-oil-and-gas-assets.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 9087
 title: "<br>Colombo Stock Exchange: Most Sustainable Growth Exchange Asia"
-award_year: 2015
+year: 2015
 published: 2015-02-21 17:07:25
 published_gmt: 2015-02-21 17:07:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5f0c6451119774ac2d88c43fd76986ba678c912edf95d25681b5b0a9db18aeb4
 canonical: 9087-colombo-stock-exchange-most-sustainable-growth-exchange-asia.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 464
 title: "Air Travel Growth Continues to be Driven by BRICS Members and South East Asia"
-award_year: 2012
+year: 2012
 published: 2012-05-14 15:48:43
 published_gmt: 2012-05-14 14:48:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/05/air-travel-growth-continues-to-be-driven-by-brics-members-and-south-east-asia/"
 categories: ["Africa", "Asia Pacific", "Latin America", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c8b25699b69f2e2af0f4922b25d0876138e41ca6613a62aecacd3dcc6705a82e
 canonical: 464-air-travel-growth-continues-to-be-driven-by-brics-members-and-south-east-asia.json
 ---

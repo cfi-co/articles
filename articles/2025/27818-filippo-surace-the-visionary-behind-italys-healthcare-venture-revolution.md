@@ -1,12 +1,21 @@
 ---
 id: 27818
 title: "Filippo Surace: The Visionary Behind Italy’s Healthcare Venture Revolution"
-award_year: 2025
+year: 2025
 published: 2025-09-01 07:00:36
 published_gmt: 2025-09-01 06:00:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2025/09/filippo-surace-the-visionary-behind-italys-healthcare-venture-revolution/"
 categories: ["Corporate Leaders", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ea5c6c7b59ee487f900ffca6610a0f027d2cb04d5b865d358079c33fc50b9ac3
 canonical: 27818-filippo-surace-the-visionary-behind-italys-healthcare-venture-revolution.json
 ---

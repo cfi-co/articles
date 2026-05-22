@@ -8,8 +8,21 @@
     "published_gmt": "2015-02-01 14:25:25",
     "modified_gmt": "2022-09-16 11:17:58",
     "categories": [],
+    "classification": {
+        "content_class": "editorial_analysis",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>The Odebrecht Organisation is a very successful and highly diversified Brazilian group which is active in the domestic engineering and construction sectors and invests heavily in energy and infrastructure projects. The history of the business can be traced back to the arrival in Brazil in 1856 of Emil Odebrecht as an immigrant from Germany.</strong></p>\r\n<p style=\"text-align: justify;\">Family member Norberto set up the Odebrecht Foundation in 1965 with a view to offering additional support to employees. After some years individual Odebrecht companies took up these responsibilities allowing the Foundation to focus on matters of public concern. Simply put, Odebrecht set out to help government improve the quality of life of Brazilian society. According to the CFI Judging Panel, ‘Much has been achieved in Brazil through Odebrecht dedication and generosity’.</p>\r\n<p style=\"text-align: justify;\">The focus for Odebrecht has always been on the education of Brazil’s young people. The first priority was to encourage progress in the north east and particularly in the most needy regions not properly benefiting from the national economy. In 2003, the Foundation partnered with government and other concerned parties to bring support to Bahia Southern Lowlands. The laudable objective here was to allow youth to remain in the region by delivering work opportunities and generally improving lifestyles. This resulted in a United Nations Public Service award in the year 2010.</p>",
     "content_sha256": "71936c0c5e7967741832479f466f143f3d9ae5c7327532903176841013159f96",
-    "record_sha256": "695d27967a8c18affefffa02ac327d3c0e9eafd1a034b88c985f08a07b25542c"
+    "record_sha256": "96e5ad230d98ea5b9e6743907375785aabe141ea67b6fb7910e347790a20b1d8"
 }

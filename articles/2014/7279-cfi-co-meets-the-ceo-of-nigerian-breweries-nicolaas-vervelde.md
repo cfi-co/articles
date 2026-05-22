@@ -1,12 +1,21 @@
 ---
 id: 7279
 title: "CFI.co Meets the CEO of Nigerian Breweries: Nicolaas Vervelde"
-award_year: 2014
+year: 2014
 published: 2014-01-02 18:31:30
 published_gmt: 2014-01-02 18:31:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/01/cfi-co-meets-the-ceo-of-nigerian-breweries-nicolaas-vervelde/"
 categories: ["Africa", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d51a2804a9ac5c0c73e1d551ed2e12dfbeb6d85c5033527a58440427046852c2
 canonical: 7279-cfi-co-meets-the-ceo-of-nigerian-breweries-nicolaas-vervelde.json
 ---

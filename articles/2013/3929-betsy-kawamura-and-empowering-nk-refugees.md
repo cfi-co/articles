@@ -1,12 +1,21 @@
 ---
 id: 3929
 title: "Betsy Kawamura and Empowering NK Refugees"
-award_year: 2013
+year: 2013
 published: 2013-05-16 10:37:25
 published_gmt: 2013-05-16 10:37:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/05/betsy-kawamura-and-empowering-nk-refugees/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 45f2963aaef7ce1359b9c7d25e3d9e8a848e6cd090ed54101710e212689a7a6d
 canonical: 3929-betsy-kawamura-and-empowering-nk-refugees.json
 ---

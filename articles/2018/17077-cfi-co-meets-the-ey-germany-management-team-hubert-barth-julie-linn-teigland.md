@@ -1,12 +1,21 @@
 ---
 id: 17077
 title: "CFI.co Meets the EY Germany Management Team: Hubert Barth & Julie Linn Teigland"
-award_year: 2018
+year: 2018
 published: 2018-03-01 13:44:42
 published_gmt: 2018-03-01 13:44:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/03/cfi-co-meets-the-ey-germany-management-team-hubert-barth-julie-linn-teigland/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 71f2e5388fc010523f13bfac6211fb8d909af380ae9be2b0cf5a83fa212cbecc
 canonical: 17077-cfi-co-meets-the-ey-germany-management-team-hubert-barth-julie-linn-teigland.json
 ---

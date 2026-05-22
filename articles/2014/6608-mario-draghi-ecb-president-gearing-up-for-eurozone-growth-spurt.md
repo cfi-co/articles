@@ -1,12 +1,21 @@
 ---
 id: 6608
 title: "Mario Draghi: ECB President Gearing Up for Eurozone Growth Spurt"
-award_year: 2014
+year: 2014
 published: 2014-02-12 11:49:46
 published_gmt: 2014-02-12 11:49:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/02/mario-draghi-ecb-president-gearing-up-for-eurozone-growth-spurt/"
 categories: ["Banking"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: feb28f1c97163f152471c9dddf3b47e43ba9775a925b62339277adda2f81f38d
 canonical: 6608-mario-draghi-ecb-president-gearing-up-for-eurozone-growth-spurt.json
 ---

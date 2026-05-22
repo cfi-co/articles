@@ -1,12 +1,21 @@
 ---
 id: 22841
 title: "UAE’s Economic Progress to Extend Beyond Post-Oil Era"
-award_year: 2022
+year: 2022
 published: 2022-08-08 09:00:08
 published_gmt: 2022-08-08 08:00:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/oil-and-mining/2022/08/uaes-economic-progress-to-extend-beyond-post-oil-era/"
 categories: ["Middle East", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cf4b3a65badd30b8624ce7d1e1d88e33658dcea9c67f06a5e48b1a8105a6908b
 canonical: 22841-uaes-economic-progress-to-extend-beyond-post-oil-era.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 7252
 title: "CFI.co Meets Lavrynovych & Partners: Don’t Go to the Ukraine without Your Lawyer - The Protection of Business"
-award_year: 2014
+year: 2014
 published: 2014-01-02 18:13:35
 published_gmt: 2014-01-02 18:13:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/01/cfi-co-meets-lavrynovych-partners-dont-go-to-the-ukraine-without-your-lawyer-the-protection-of-business/"
 categories: ["Corporate Leaders", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 35b83aad05ee538a737a9ca7d849b68746aaa61361df71a540654dcc8036c319
 canonical: 7252-cfi-co-meets-lavrynovych-partners-dont-go-to-the-ukraine-without-your-lawyer-the.json
 ---

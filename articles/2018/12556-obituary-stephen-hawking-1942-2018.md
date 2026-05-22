@@ -1,12 +1,21 @@
 ---
 id: 12556
 title: "Obituary: Stephen Hawking (1942-2018)"
-award_year: 2018
+year: 2018
 published: 2018-05-17 16:57:25
 published_gmt: 2018-05-17 15:57:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/obituaries/2018/05/obituary-stephen-hawking-1942-2018/"
 categories: ["Obituaries"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c1fbff5de44bd77bff1ba6fc271b6dd91d8fcb0ef28220b6824ee803ebdb1224
 canonical: 12556-obituary-stephen-hawking-1942-2018.json
 ---

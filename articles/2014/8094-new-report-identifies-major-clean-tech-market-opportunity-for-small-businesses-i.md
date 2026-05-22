@@ -1,12 +1,21 @@
 ---
 id: 8094
 title: "New Report Identifies Major Clean-Tech Market Opportunity for Small Businesses in Developing Countries"
-award_year: 2014
+year: 2014
 published: 2014-09-25 11:40:11
 published_gmt: 2014-09-25 10:40:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/09/new-report-identifies-major-clean-tech-market-opportunity-for-small-businesses-in-developing-countries/"
 categories: ["Africa", "Middle East", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: db2c26ae659bc3d34bf501a1a5290699fcdfd1a4c70d936d09eee03ba92e4391
 canonical: 8094-new-report-identifies-major-clean-tech-market-opportunity-for-small-businesses-i.json
 ---

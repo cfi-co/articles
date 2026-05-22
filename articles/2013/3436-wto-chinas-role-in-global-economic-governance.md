@@ -1,12 +1,21 @@
 ---
 id: 3436
 title: "WTO: China’s Role in Global Economic Governance"
-award_year: 2013
+year: 2013
 published: 2013-03-28 12:35:52
 published_gmt: 2013-03-28 12:35:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/03/wto-chinas-role-in-global-economic-governance/"
 categories: ["Asia Pacific", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 672c3030974c4ac78616918fe8b36888d9c0af08a5c31f136a07a54f8f80f7d2
 canonical: 3436-wto-chinas-role-in-global-economic-governance.json
 ---

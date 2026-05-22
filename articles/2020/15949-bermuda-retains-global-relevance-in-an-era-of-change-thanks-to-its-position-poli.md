@@ -1,12 +1,21 @@
 ---
 id: 15949
 title: "Bermuda Retains Global Relevance in an Era of Change Thanks to its Position, Policies and Legislation"
-award_year: 2020
+year: 2020
 published: 2020-07-01 15:31:36
 published_gmt: 2020-07-01 14:31:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/07/bermuda-retains-global-relevance-in-an-era-of-change-thanks-to-its-position-policies-and-legislation/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 03910033c63a75e2396c20e98c520ebf9289a7ae0ac57d748452ec40b112b226
 canonical: 15949-bermuda-retains-global-relevance-in-an-era-of-change-thanks-to-its-position-poli.json
 ---

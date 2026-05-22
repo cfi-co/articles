@@ -1,12 +1,21 @@
 ---
 id: 17412
 title: "Reitan Convenience: Value-Based Leadership to Drive Sustainability Effort"
-award_year: 2020
+year: 2020
 published: 2020-01-05 11:37:48
 published_gmt: 2020-01-05 11:37:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/01/reitan-convenience-value-based-leadership-to-drive-sustainability-effort/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: da3b89c4f297d3d07f27eca49dd427c28f995e8655f21806331c887da39b2d1d
 canonical: 17412-reitan-convenience-value-based-leadership-to-drive-sustainability-effort.json
 ---

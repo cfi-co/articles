@@ -1,12 +1,21 @@
 ---
 id: 7155
 title: "José Mujica: At Long Last - A Politician to Admire"
-award_year: 2014
+year: 2014
 published: 2014-05-08 16:29:04
 published_gmt: 2014-05-08 15:29:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2014/05/jose-mujica-at-long-last-a-politician-to-admire/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6026797d470ecf9450392f1e03922f4a6fe456a180c1d53e027c1956be934b79
 canonical: 7155-jose-mujica-at-long-last-a-politician-to-admire.json
 ---

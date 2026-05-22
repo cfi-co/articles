@@ -1,12 +1,21 @@
 ---
 id: 5319
 title: "Cityscape Global 2013: Dubai Property Boom Set to Resume"
-award_year: 2013
+year: 2013
 published: 2013-09-24 12:29:51
 published_gmt: 2013-09-24 11:29:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/09/cityscape-global-2013-dubai-property-boom-set-to-resume/"
 categories: ["Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: faee2f9698702e14f32acc831046faf89d2f511ebaf88b2d8432df4b5feba54a
 canonical: 5319-cityscape-global-2013-dubai-property-boom-set-to-resume.json
 ---

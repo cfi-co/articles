@@ -1,12 +1,21 @@
 ---
 id: 19888
 title: "Carey: Universal Importance of Governance is Recognised in the Channel Islands"
-award_year: 2021
+year: 2021
 published: 2021-07-12 15:45:24
 published_gmt: 2021-07-12 14:45:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/carey-universal-importance-of-governance-is-recognised-in-the-channel-islands/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f2746e5a8fa6808df082f96e316386df1a2e7f5756d0d43274750d5b90fd6f4c
 canonical: 19888-carey-universal-importance-of-governance-is-recognised-in-the-channel-islands.json
 ---

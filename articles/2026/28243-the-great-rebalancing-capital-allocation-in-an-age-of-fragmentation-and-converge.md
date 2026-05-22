@@ -1,12 +1,21 @@
 ---
 id: 28243
 title: "The Great Rebalancing: Capital Allocation in an Age of Fragmentation and Convergence"
-award_year: 2026
+year: 2026
 published: 2026-01-29 10:32:05
 published_gmt: 2026-01-29 10:32:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2026/01/the-great-rebalancing-capital-allocation-in-an-age-of-fragmentation-and-convergence/"
 categories: ["Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 835d704712a38a5aa893d43a9350f3d41a67de1f3edbded3d3e4774c2bfd0d86
 canonical: 28243-the-great-rebalancing-capital-allocation-in-an-age-of-fragmentation-and-converge.json
 ---

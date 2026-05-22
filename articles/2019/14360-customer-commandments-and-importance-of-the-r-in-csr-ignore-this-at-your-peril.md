@@ -1,12 +1,21 @@
 ---
 id: 14360
 title: "Customer Commandments and Importance of the ‘R’ in CSR: Ignore this at your Peril"
-award_year: 2019
+year: 2019
 published: 2019-11-18 12:09:11
 published_gmt: 2019-11-18 12:09:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2019/11/customer-commandments-and-importance-of-the-r-in-csr-ignore-this-at-your-peril/"
 categories: ["Reviews", "Sustainability"]
+content_class: review
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 98eb044cca1b3ef84428704fa5302e937a2dd9da49446df6571d6d2a45379aa9
 canonical: 14360-customer-commandments-and-importance-of-the-r-in-csr-ignore-this-at-your-peril.json
 ---

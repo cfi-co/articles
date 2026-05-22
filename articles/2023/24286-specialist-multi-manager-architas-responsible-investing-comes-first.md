@@ -1,12 +1,21 @@
 ---
 id: 24286
 title: "Specialist Multi-Manager Architas: Responsible Investing Comes First"
-award_year: 2023
+year: 2023
 published: 2023-01-04 12:29:12
 published_gmt: 2023-01-04 12:29:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/01/specialist-multi-manager-architas-responsible-investing-comes-first/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5667ed6b72f30d17950e9d99714be42290b9191767c8d378f4723dad104917ae
 canonical: 24286-specialist-multi-manager-architas-responsible-investing-comes-first.json
 ---

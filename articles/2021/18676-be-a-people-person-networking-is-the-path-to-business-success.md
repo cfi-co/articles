@@ -1,12 +1,21 @@
 ---
 id: 18676
 title: "Be a People Person: Networking is the Path to Business Success"
-award_year: 2021
+year: 2021
 published: 2021-02-09 11:57:30
 published_gmt: 2021-02-09 11:57:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2021/02/be-a-people-person-networking-is-the-path-to-business-success/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 322e419c8131bf9649b5dd2c658ca6a7dc7e365c5789277aa606c7d9f1c49111
 canonical: 18676-be-a-people-person-networking-is-the-path-to-business-success.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 16632
 title: "How Will the Pandemic Impact Pay Equity Within the Finance Industry?"
-award_year: 2020
+year: 2020
 published: 2020-08-17 14:40:10
 published_gmt: 2020-08-17 13:40:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/08/how-will-the-pandemic-impact-pay-equity-within-the-finance-industry/"
 categories: ["Europe", "Finance", "Governance &amp; Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 352a3d81ba2400bf17ec0af06d52f4b6741667781a8d94d758f5d0284af8aa61
 canonical: 16632-how-will-the-pandemic-impact-pay-equity-within-the-finance-industry.json
 ---

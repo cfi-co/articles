@@ -1,12 +1,21 @@
 ---
 id: 7675
 title: "Brian Cox: Science for the Masses"
-award_year: 2014
+year: 2014
 published: 2014-07-24 11:01:28
 published_gmt: 2014-07-24 10:01:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2014/07/brian-cox-science-for-the-masses/"
 categories: ["Europe", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 608320c27477985214f7db52d69a645869153f969e0f0ae903bb1f5e9bbffbcf
 canonical: 7675-brian-cox-science-for-the-masses.json
 ---

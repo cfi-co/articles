@@ -1,12 +1,21 @@
 ---
 id: 4127
 title: "CFI.co Meets Luis Gerardo Del Valle Torres"
-award_year: 2013
+year: 2013
 published: 2013-05-09 12:47:25
 published_gmt: 2013-05-09 11:47:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2013/05/cfi-co-meets-luis-gerardo-del-valle-torres/"
 categories: ["Corporate Leaders", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8d555d90eb3a5c7a1fcb5dffd0d7f8d7637a0d031d46ce78a9f8a6ed834c61c0
 canonical: 4127-cfi-co-meets-luis-gerardo-del-valle-torres.json
 ---

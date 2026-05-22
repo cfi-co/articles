@@ -1,12 +1,21 @@
 ---
 id: 9644
 title: "Africa: End of the Commodity Super-Cycle Weighs on Growth"
-award_year: 2015
+year: 2015
 published: 2015-04-15 14:06:32
 published_gmt: 2015-04-15 13:06:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/04/africa-end-of-the-commodity-super-cycle-weighs-on-growth/"
 categories: ["Africa", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d55684a0c8f659f93f62c158fabb63775a4215bbc1c9a3c5f1b2c83db9bbb8b0
 canonical: 9644-africa-end-of-the-commodity-super-cycle-weighs-on-growth.json
 ---

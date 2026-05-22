@@ -1,12 +1,21 @@
 ---
 id: 23771
 title: "Nothing Beats Local Knowledge — and WTW I Unity Head Louis \"Tito\" Ducruet Knows his Territory"
-award_year: 2022
+year: 2022
 published: 2022-10-28 09:06:31
 published_gmt: 2022-10-28 08:06:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2022/10/nothing-beats-local-knowledge-and-wtw-i-unity-head-louis-tito-ducruet-knows-his-territory/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 621dfb25bd334eb6807d73032f2c65396c641d200056a3a0a2d82a210dcc9471
 canonical: 23771-nothing-beats-local-knowledge-and-wtw-i-unity-head-louis-tito-ducruet-knows-his-.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 14766
 title: "Business in Times of Corona: A Gathering Storm Darkens the Prospects of Africa"
-award_year: 2020
+year: 2020
 published: 2020-03-30 15:03:59
 published_gmt: 2020-03-30 14:03:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2020/03/business-in-times-of-corona-a-gathering-storm-darkens-the-prospects-of-africa/"
 categories: ["Africa", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7c74df51789163b5f926974b524de62f9ef8f72582b016c218aa06368b46e526
 canonical: 14766-business-in-times-of-corona-a-gathering-storm-darkens-the-prospects-of-africa.json
 ---

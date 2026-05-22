@@ -1,12 +1,22 @@
 ---
 id: 28478
 title: "Tunis International Bank: The Bank of the Region"
-award_year: 2026
+year: 2026
 published: 2026-05-18 09:40:56
 published_gmt: 2026-05-18 08:40:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2026/05/tunis-international-bank-the-bank-of-the-region/"
 categories: ["Africa", "Banking", "Corporate"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "Tunis International Bank"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e4014c58da03dfe79296f9367dc585529bd88149116e610a1294e9cae19a7b38
 canonical: 28478-tunis-international-bank-the-bank-of-the-region.json
 ---

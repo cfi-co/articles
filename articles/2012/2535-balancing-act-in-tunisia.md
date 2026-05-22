@@ -1,12 +1,21 @@
 ---
 id: 2535
 title: "Balancing Act in Tunisia"
-award_year: 2012
+year: 2012
 published: 2012-11-09 22:12:39
 published_gmt: 2012-11-09 22:12:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2012/11/balancing-act-in-tunisia/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b2cd0b1db23e72ca595e55a9f43e720c8dbafb6fe5cf37f3a687ab804a4d5db7
 canonical: 2535-balancing-act-in-tunisia.json
 ---

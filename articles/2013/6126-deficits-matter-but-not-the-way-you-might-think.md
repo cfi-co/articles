@@ -1,12 +1,21 @@
 ---
 id: 6126
 title: "Deficits Matter, but Not the Way You Might Think"
-award_year: 2013
+year: 2013
 published: 2013-11-28 10:45:34
 published_gmt: 2013-11-28 10:45:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/11/deficits-matter-but-not-the-way-you-might-think/"
 categories: ["Banking", "Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3edde51ecf6a7e8c3ecbb44664592479916ce3fe029bc2558d350e6369f58146
 canonical: 6126-deficits-matter-but-not-the-way-you-might-think.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27192
 title: "Which European Countries are the Most Active Online?"
-award_year: 2024
+year: 2024
 published: 2024-10-14 13:33:37
 published_gmt: 2024-10-14 12:33:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/10/which-european-countries-are-the-most-active-online/"
 categories: ["Europe", "Lifestyle", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 19efbb3059285bc9de0542c6d6cc67ed8b9871a586f9f7ed6bba63e58fd2dd42
 canonical: 27192-which-european-countries-are-the-most-active-online.json
 ---

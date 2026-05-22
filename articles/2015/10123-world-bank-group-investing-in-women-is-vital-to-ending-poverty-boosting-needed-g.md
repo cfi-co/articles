@@ -1,12 +1,21 @@
 ---
 id: 10123
 title: "World Bank Group: Investing in Women is Vital to Ending Poverty, Boosting Needed Growth"
-award_year: 2015
+year: 2015
 published: 2015-07-15 14:53:02
 published_gmt: 2015-07-15 13:53:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/07/world-bank-group-investing-in-women-is-vital-to-ending-poverty-boosting-needed-growth/"
 categories: ["Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2ef5d5e3bc1daaadd80be35558d46bfe56366c458840c280196557c78b3471ec
 canonical: 10123-world-bank-group-investing-in-women-is-vital-to-ending-poverty-boosting-needed-g.json
 ---

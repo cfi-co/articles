@@ -1,12 +1,21 @@
 ---
 id: 15960
 title: "Smart City Prince: A Prince with a Mission, a Vision"
-award_year: 2020
+year: 2020
 published: 2020-05-01 15:43:24
 published_gmt: 2020-05-01 14:43:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2020/05/smart-city-prince-a-prince-with-a-mission-a-vision/"
 categories: ["Middle East", "Special Features"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 132daf00378a98d4ed61a1958c729b19736dead429be081f250c449b78b06e51
 canonical: 15960-smart-city-prince-a-prince-with-a-mission-a-vision.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 22506
 title: "Revolut-ionary Man: CEO Nikolay Storonsky Aims to Become Amazon of Finance"
-award_year: 2022
+year: 2022
 published: 2022-07-28 14:36:06
 published_gmt: 2022-07-28 13:36:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2022/07/revolut-ceo-nikolay-storonsky-aims-to-become-amazon-of-finance/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ba0a63eb9de147c3f52b3226a2b62120c355303535697f14d5f8bac44a292be0
 canonical: 22506-revolut-ceo-nikolay-storonsky-aims-to-become-amazon-of-finance.json
 ---

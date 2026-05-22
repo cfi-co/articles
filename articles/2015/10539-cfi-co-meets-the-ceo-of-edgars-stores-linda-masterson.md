@@ -1,12 +1,21 @@
 ---
 id: 10539
 title: "CFI.co Meets the CEO of Edgars Stores: Linda Masterson"
-award_year: 2015
+year: 2015
 published: 2015-09-01 10:12:53
 published_gmt: 2015-09-01 09:12:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2015/09/cfi-co-meets-the-ceo-of-edgars-stores-linda-masterson/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: badc87845e625b076b66d506ce1758390bf58b62e4dc976e2a942e93d750f853
 canonical: 10539-cfi-co-meets-the-ceo-of-edgars-stores-linda-masterson.json
 ---

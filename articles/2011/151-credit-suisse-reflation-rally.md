@@ -1,12 +1,21 @@
 ---
 id: 151
 title: "Credit Suisse: Reflation Rally?"
-award_year: 2011
+year: 2011
 published: 2011-05-06 14:06:07
 published_gmt: 2011-05-06 13:06:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2011/05/credit-suisse-reflation-rally/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f2052c3023edac8a82c11a8494bd3772aa9cea3ce2e8c7317c043646e98fd971
 canonical: 151-credit-suisse-reflation-rally.json
 ---

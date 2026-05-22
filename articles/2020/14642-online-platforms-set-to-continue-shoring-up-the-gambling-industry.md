@@ -1,12 +1,21 @@
 ---
 id: 14642
 title: "Online platforms set to continue shoring up the gambling industry"
-award_year: 2020
+year: 2020
 published: 2020-02-28 10:45:40
 published_gmt: 2020-02-28 10:45:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/02/online-platforms-set-to-continue-shoring-up-the-gambling-industry/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 11eaa522ce9500276ef9abe103fb7fad12191ccd8b14a4ec65cec5d49828d65c
 canonical: 14642-online-platforms-set-to-continue-shoring-up-the-gambling-industry.json
 ---

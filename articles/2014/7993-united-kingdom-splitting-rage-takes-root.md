@@ -1,12 +1,21 @@
 ---
 id: 7993
 title: "United Kingdom - Splitting Rage Takes Root"
-award_year: 2014
+year: 2014
 published: 2014-09-10 13:32:23
 published_gmt: 2014-09-10 12:32:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/09/united-kingdom-splitting-rage-takes-root/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 689e30af7a6aee0bd755c12d5a493600360b66b01e59c51d0211d88aef04742f
 canonical: 7993-united-kingdom-splitting-rage-takes-root.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 3445
 title: "Big Crowds Witnessed at Cityscape Egypt"
-award_year: 2013
+year: 2013
 published: 2013-04-01 17:54:42
 published_gmt: 2013-04-01 17:54:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/04/big-crowds-witnessed-at-cityscape-egypt/"
 categories: ["Africa", "Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2f69baac3eb9d8a09899ea7222529697347011b54cdfc3294cfcd113e2eef470
 canonical: 3445-big-crowds-witnessed-at-cityscape-egypt.json
 ---

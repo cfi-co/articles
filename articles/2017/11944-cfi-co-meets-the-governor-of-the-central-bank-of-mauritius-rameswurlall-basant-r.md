@@ -1,12 +1,21 @@
 ---
 id: 11944
 title: "CFI.co Meets the Governor of the Central Bank of Mauritius: Rameswurlall Basant Roi"
-award_year: 2017
+year: 2017
 published: 2017-10-06 12:59:57
 published_gmt: 2017-10-06 11:59:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-governor-of-the-central-bank-of-mauritius-rameswurlall-basant-roi/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2c9f6a7e36a78ab65a981ba120e4afd07145ff3de7568a2dc6c0c3f49effccfb
 canonical: 11944-cfi-co-meets-the-governor-of-the-central-bank-of-mauritius-rameswurlall-basant-r.json
 ---

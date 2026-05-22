@@ -1,12 +1,21 @@
 ---
 id: 6599
 title: "IFC, ECOM Training Helps Women Farmers Boost Income, Productivity"
-award_year: 2014
+year: 2014
 published: 2014-02-11 11:26:51
 published_gmt: 2014-02-11 11:26:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/02/ifc-ecom-training-helps-women-farmers-boost-income-productivity/"
 categories: ["Asia Pacific", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 74a77ad7b4fe6d41f630dcffd9b202f90548f9656fee5c729d9de91482d35df3
 canonical: 6599-ifc-ecom-training-helps-women-farmers-boost-income-productivity.json
 ---

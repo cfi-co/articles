@@ -1,12 +1,21 @@
 ---
 id: 20855
 title: "No Relation, but Shared Values: The ‘Other’ CFI with the Goal of Becoming ‘The’ Investing Brand"
-award_year: 2021
+year: 2021
 published: 2021-10-21 12:57:59
 published_gmt: 2021-10-21 11:57:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/10/cfi-financial-group-goal-of-becoming-the-investing-brand/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e3f783e3aadb65501bd8b72933907cb3f4445935d78ee47a9b27b72b91993e21
 canonical: 20855-cfi-financial-group-goal-of-becoming-the-investing-brand.json
 ---

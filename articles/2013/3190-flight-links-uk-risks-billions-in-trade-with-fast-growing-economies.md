@@ -1,12 +1,21 @@
 ---
 id: 3190
 title: "Flight Links: UK risks Billions in Trade with Fast Growing Economies"
-award_year: 2013
+year: 2013
 published: 2013-03-05 16:57:51
 published_gmt: 2013-03-05 16:57:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/03/flight-links-uk-risks-billions-in-trade-with-fast-growing-economies/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: da6d44041be524ec9e5783bbd15e2252a8a451a6e074dfdd3241ea33673dbe54
 canonical: 3190-flight-links-uk-risks-billions-in-trade-with-fast-growing-economies.json
 ---

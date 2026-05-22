@@ -1,12 +1,21 @@
 ---
 id: 18550
 title: "Head of ESG Client Strategies, North America at Invesco - Glen K Yelton: ESG is Important for the Planet and For Us"
-award_year: 2021
+year: 2021
 published: 2021-02-01 15:12:20
 published_gmt: 2021-02-01 15:12:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/cfi-co-meets/2021/02/head-of-esg-client-strategies-north-america-at-invesco-glen-k-yelton-esg-is-important-for-the-planet-and-for-us/"
 categories: ["CFI.co Meets"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6ec8e259a00fa5f91be35a6b881687bef9863131ef49ab6e5279794aa4dd92f5
 canonical: 18550-head-of-esg-client-strategies-north-america-at-invesco-glen-k-yelton-esg-is-impo.json
 ---

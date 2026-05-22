@@ -1,12 +1,21 @@
 ---
 id: 22560
 title: "Craig Ferguson The King of  Chat who Vanquished Personal Demons — and Enchanted his Audience"
-award_year: 2022
+year: 2022
 published: 2022-08-01 15:30:18
 published_gmt: 2022-08-01 14:30:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2022/08/craig-ferguson-the-king-of-chat-and-his-personal-demons/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c453a7479ace45bb16b8bc75bd2ac964fb8873db4d6ea593121345a8b6a508a6
 canonical: 22560-craig-ferguson-the-king-of-chat-and-his-personal-demons.json
 ---

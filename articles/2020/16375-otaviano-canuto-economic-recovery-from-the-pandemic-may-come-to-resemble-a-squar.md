@@ -1,12 +1,21 @@
 ---
 id: 16375
 title: "Otaviano Canuto: Economic Recovery From the Pandemic May Come to Resemble a Square Root"
-award_year: 2020
+year: 2020
 published: 2020-07-21 15:08:36
 published_gmt: 2020-07-21 14:08:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/07/otaviano-canuto-economic-recovery-from-the-pandemic-may-come-to-resemble-a-square-root/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3c78428f20b9ae035fea693958e730047ce63e4dab49e71863872b09423b008c
 canonical: 16375-otaviano-canuto-economic-recovery-from-the-pandemic-may-come-to-resemble-a-squar.json
 ---

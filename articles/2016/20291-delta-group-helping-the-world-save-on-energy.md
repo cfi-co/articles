@@ -1,12 +1,21 @@
 ---
 id: 20291
 title: "Delta Group: Helping the World Save on Energy"
-award_year: 2016
+year: 2016
 published: 2016-07-29 13:57:04
 published_gmt: 2016-07-29 12:57:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2016/07/delta-group-helping-the-world-save-on-energy/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8b52a7c521fd06d1859611654d4225d6981ab23d1a4691e30a380adff4ac06de
 canonical: 20291-delta-group-helping-the-world-save-on-energy.json
 ---

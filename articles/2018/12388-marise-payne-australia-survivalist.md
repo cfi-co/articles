@@ -1,12 +1,21 @@
 ---
 id: 12388
 title: "Marise Payne, Australia: Survivalist"
-award_year: 2018
+year: 2018
 published: 2018-02-12 12:57:33
 published_gmt: 2018-02-12 12:57:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/02/marise-payne-australia-survivalist/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5f6b6f5da73bc80eb570589c461f13cfc46b0c64031cd0378c725e2845c908be
 canonical: 12388-marise-payne-australia-survivalist.json
 ---

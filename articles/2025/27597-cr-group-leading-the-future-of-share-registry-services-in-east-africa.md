@@ -1,12 +1,21 @@
 ---
 id: 27597
 title: "C&R Group: Leading the Future of Share Registry Services in East Africa"
-award_year: 2025
+year: 2025
 published: 2025-02-25 17:00:22
 published_gmt: 2025-02-25 17:00:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2025/02/cr-group-leading-the-future-of-share-registry-services-in-east-africa/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 700403b822dd6c574888fb014731d005212d2baee93743d49efb26d1672c9de6
 canonical: 27597-cr-group-leading-the-future-of-share-registry-services-in-east-africa.json
 ---

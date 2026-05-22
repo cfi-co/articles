@@ -1,12 +1,21 @@
 ---
 id: 12949
 title: "Kishore Mahbubani: The Pendulum of History"
-award_year: 2018
+year: 2018
 published: 2018-09-24 16:59:10
 published_gmt: 2018-09-24 15:59:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/09/kishore-mahbubani-the-pendulum-of-history/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 59d9ae67bbb1917d505321952b2080ff958fe22f745f6b54ce97832d07cadb19
 canonical: 12949-kishore-mahbubani-the-pendulum-of-history.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 10564
 title: "CFI.co Meets the Founder, Chairman and Chief Executive Officer of Seabury Group: John Luth"
-award_year: 2015
+year: 2015
 published: 2015-08-01 15:26:41
 published_gmt: 2015-08-01 14:26:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2015/08/cfi-co-meets-the-founder-chairman-and-chief-executive-officer-of-seabury-group-john-luth/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6d02f5cb5f9640f4cd84b2045d53e6ecf3e3c0127af150f5d0b98d6ffe1e4365
 canonical: 10564-cfi-co-meets-the-founder-chairman-and-chief-executive-officer-of-seabury-group-j.json
 ---

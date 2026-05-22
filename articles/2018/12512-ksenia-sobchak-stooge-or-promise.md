@@ -1,12 +1,21 @@
 ---
 id: 12512
 title: "Ksenia Sobchak: Stooge or Promise?"
-award_year: 2018
+year: 2018
 published: 2018-05-12 12:57:29
 published_gmt: 2018-05-12 11:57:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/05/ksenia-sobchak-stooge-or-promise/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a436bce54dc7f68441fe684e6cf631805f3fa8648bbfe6c961bbc33ccfbe8b85
 canonical: 12512-ksenia-sobchak-stooge-or-promise.json
 ---

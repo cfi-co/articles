@@ -1,12 +1,21 @@
 ---
 id: 9077
 title: "<br>Bolsa de Valores de Colombia: Best Stock Exchange, Latin America"
-award_year: 2015
+year: 2015
 published: 2015-02-21 16:43:26
 published_gmt: 2015-02-21 16:43:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2013/bolsa-de-valores-de-colombia-best-stock-exchange-latin-america/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 097c87218803c4ae17335dab5e64569bc674f45b76df6e3fb0c4b21fc2c12fea
 canonical: 9077-bolsa-de-valores-de-colombia-best-stock-exchange-latin-america.json
 ---

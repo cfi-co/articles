@@ -1,12 +1,21 @@
 ---
 id: 20881
 title: "Sango: Friends and Founders Share Core Values — and a Commitment to the Future of the African Continent"
-award_year: 2021
+year: 2021
 published: 2021-10-28 12:42:36
 published_gmt: 2021-10-28 11:42:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/10/richard-okello-charles-mwebeiha-founders-sango-capital/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bc549ebe5ea25b967c715fcbd40a5641190c435de925b8e6f125942d8746867e
 canonical: 20881-richard-okello-charles-mwebeiha-founders-sango-capital.json
 ---

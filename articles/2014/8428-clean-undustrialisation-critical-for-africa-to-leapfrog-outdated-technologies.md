@@ -1,12 +1,21 @@
 ---
 id: 8428
 title: "Clean Undustrialisation Critical for Africa to ‘Leapfrog’ Outdated Technologies"
-award_year: 2014
+year: 2014
 published: 2014-11-24 09:00:20
 published_gmt: 2014-11-24 09:00:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/11/clean-undustrialisation-critical-for-africa-to-leapfrog-outdated-technologies/"
 categories: ["Africa", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 535f6cef22f1d18c1174be3579bf20f1bd9ef817411e326cedaca35e16389194
 canonical: 8428-clean-undustrialisation-critical-for-africa-to-leapfrog-outdated-technologies.json
 ---

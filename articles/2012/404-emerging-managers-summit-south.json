@@ -13,8 +13,21 @@
         "North America",
         "Projects"
     ],
+    "classification": {
+        "content_class": "editorial_analysis",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<strong>October 2012 - Las Vegas, NV</strong>\n\nIf you are looking to expand and diversify your asset allocation by investing in emerging managers as well as women and minority owned investment managers, the <em>emerging managers conference</em> will provide the unique opportunity to access a diversified group of up-and-coming performance-oriented managers and manager of managers. The event will explore the benefits and opportunities offered by investing in emerging managers as well as new strategies for implementing an emerging managers program. If you are an emerging manager, you will learn the procedures used by institutions to launch and maintain successful emerging manager programs. This event will showcase a variety of emerging mangers as well as minority-owned manager funds and other high potential smaller investment firms, and it will offer participants invaluable networking opportunities.\n\nClick for <a href=\"http://www.opalgroup.net/trk/emssc1103.html\" target=\"_blank\">additional details</a>.",
     "content_sha256": "88883c97e550ddb4e8cc01c025539179880457166eeb11bd6bc844ecf596d75b",
-    "record_sha256": "593eb6de84f2ccfbe826b7152ec4db3dcb54cc109a19be062205e7240a8828ce"
+    "record_sha256": "a83832f13c2498d788597280f49f7d49a93454b7eb88ec992df4246559a6f356"
 }

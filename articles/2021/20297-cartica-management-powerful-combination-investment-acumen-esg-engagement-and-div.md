@@ -1,12 +1,21 @@
 ---
 id: 20297
 title: "Cartica Management's Powerful Combination: Investment Acumen, ESG Engagement, and Diverse Leadership"
-award_year: 2021
+year: 2021
 published: 2021-10-01 07:00:44
 published_gmt: 2021-10-01 06:00:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2021/10/cartica-management-powerful-combination-investment-acumen-esg-engagement-and-diverse-leadership/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 24bd6c79e3a00d01b0b456eb24a3e643193ffcfdbdac05bfec1fe1389477bd8d
 canonical: 20297-cartica-management-powerful-combination-investment-acumen-esg-engagement-and-div.json
 ---

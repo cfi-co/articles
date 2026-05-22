@@ -1,12 +1,21 @@
 ---
 id: 10941
 title: "A Sojourn in Davos:  Things Will Never Be the Same"
-award_year: 2018
+year: 2018
 published: 2018-01-22 15:52:52
 published_gmt: 2018-01-22 15:52:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2018/01/a-sojourn-in-davos-things-will-never-be-the-same/"
 categories: ["Europe", "Finance", "Reviews"]
+content_class: review
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1485f3ed8e23eefe290a4fac968ce79447381110f6ec2b572818e0b1470b0305
 canonical: 10941-a-sojourn-in-davos-things-will-never-be-the-same.json
 ---

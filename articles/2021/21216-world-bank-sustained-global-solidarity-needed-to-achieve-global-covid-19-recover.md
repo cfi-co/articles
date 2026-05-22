@@ -1,12 +1,21 @@
 ---
 id: 21216
 title: "World Bank: Sustained Global Solidarity Needed to Achieve Global COVID-19 Recovery"
-award_year: 2021
+year: 2021
 published: 2021-11-25 06:12:33
 published_gmt: 2021-11-25 06:12:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/11/world-bank-sustained-global-solidarity-needed-to-achieve-global-covid-19-recovery/"
 categories: ["Brave New World", "Finance", "Sustainability", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 151fcaea6975b9bbe52884e3b7904816dd19042cd285576ca09e6b42f0f8ffbb
 canonical: 21216-world-bank-sustained-global-solidarity-needed-to-achieve-global-covid-19-recover.json
 ---

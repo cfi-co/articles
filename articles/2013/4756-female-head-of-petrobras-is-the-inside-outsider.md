@@ -1,12 +1,21 @@
 ---
 id: 4756
 title: "Female Head of Petrobras is the ‘Inside Outsider’"
-award_year: 2013
+year: 2013
 published: 2013-08-01 09:33:30
 published_gmt: 2013-08-01 08:33:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2013/08/female-head-of-petrobras-is-the-inside-outsider/"
 categories: ["Latin America", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a9d7c23eb8ada4b6ca59e0a000db5386708f2035ad708160d35774e12545021a
 canonical: 4756-female-head-of-petrobras-is-the-inside-outsider.json
 ---

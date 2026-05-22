@@ -1,12 +1,21 @@
 ---
 id: 14836
 title: "Separating the Wheat from the Chaff"
-award_year: 2020
+year: 2020
 published: 2020-04-03 16:35:56
 published_gmt: 2020-04-03 15:35:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/separating-the-wheat-from-the-chaff/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ead07e98f7fb1dc1b28f0b0e2f6b56c7eb1032728d569f874d0bcc993745dc8e
 canonical: 14836-separating-the-wheat-from-the-chaff.json
 ---

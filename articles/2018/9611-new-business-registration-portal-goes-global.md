@@ -1,12 +1,21 @@
 ---
 id: 9611
 title: "New Business-Registration Portal Goes Global"
-award_year: 2018
+year: 2018
 published: 2018-01-08 13:00:56
 published_gmt: 2018-01-08 13:00:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2018/01/new-business-registration-portal-goes-global/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Middle East", "North America", "Projects", "Start-Ups", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fb441d976eb7989503ab5250540a4c27baf072d3a29b89f48e8766feb957f517
 canonical: 9611-new-business-registration-portal-goes-global.json
 ---

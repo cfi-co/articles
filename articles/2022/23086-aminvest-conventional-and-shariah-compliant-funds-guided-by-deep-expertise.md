@@ -1,12 +1,21 @@
 ---
 id: 23086
 title: "AmInvest: Conventional and Shariah-Compliant Funds  Guided by Deep Expertise"
-award_year: 2022
+year: 2022
 published: 2022-08-22 16:21:20
 published_gmt: 2022-08-22 15:21:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/08/aminvest-conventional-and-shariah-compliant-funds-guided-by-deep-expertise/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 301e08c082492ba3506d0a8342a4b73de4d32cda08eec1f467f36717026f0180
 canonical: 23086-aminvest-conventional-and-shariah-compliant-funds-guided-by-deep-expertise.json
 ---

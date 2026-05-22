@@ -1,12 +1,21 @@
 ---
 id: 10832
 title: "CaixaBank’s InverCaixa Gestión: Spain’s Leader in Asset Management"
-award_year: 2015
+year: 2015
 published: 2015-04-21 14:51:22
 published_gmt: 2015-04-21 13:51:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2015/04/caixabanks-invercaixa-gestion-spains-leader-in-asset-management/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 28ca29137c004d15f4e9aa2f35152f7d141d8ed8d0836fe33f390d5f672c39ed
 canonical: 10832-caixabanks-invercaixa-gestion-spains-leader-in-asset-management.json
 ---

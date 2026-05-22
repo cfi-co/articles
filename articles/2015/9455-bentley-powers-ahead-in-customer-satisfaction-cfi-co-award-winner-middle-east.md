@@ -1,12 +1,21 @@
 ---
 id: 9455
 title: "<br>Bentley Powers Ahead in Customer Satisfaction: CFI.co Award Winner, Middle East"
-award_year: 2015
+year: 2015
 published: 2015-03-01 09:49:34
 published_gmt: 2015-03-01 09:49:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/"
 categories: ["Awards Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 50e2dcf1f9e3c85043fe7c81b30f9eb6043bfba9e306c15012ca6eef04695cb6
 canonical: 9455-bentley-powers-ahead-in-customer-satisfaction-cfi-co-award-winner-middle-east.json
 ---

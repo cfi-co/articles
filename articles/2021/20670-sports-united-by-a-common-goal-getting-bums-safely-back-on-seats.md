@@ -1,12 +1,21 @@
 ---
 id: 20670
 title: "Sports United by a Common Goal: Getting Bums Safely Back on Seats"
-award_year: 2021
+year: 2021
 published: 2021-09-20 11:09:58
 published_gmt: 2021-09-20 10:09:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/09/sports-united-by-a-common-goal-getting-bums-safely-back-on-seats/"
 categories: ["Brave New World", "North America", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c1ecf9f1cbf23e136e861691ba857184ff3a94e0fd84c883545d3a7458924077
 canonical: 20670-sports-united-by-a-common-goal-getting-bums-safely-back-on-seats.json
 ---

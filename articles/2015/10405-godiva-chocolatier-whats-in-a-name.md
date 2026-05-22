@@ -1,12 +1,21 @@
 ---
 id: 10405
 title: "Godiva Chocolatier: What’s in a Name?"
-award_year: 2015
+year: 2015
 published: 2015-08-26 15:32:32
 published_gmt: 2015-08-26 14:32:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/08/godiva-chocolatier-whats-in-a-name/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 59d4e4447d96496057f2ca48602679c199f2241d970bda68a82478843e34d0c2
 canonical: 10405-godiva-chocolatier-whats-in-a-name.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 20368
 title: "In Conversation with Vector Group’s Bryant Kirkland: Still Crazy (About Work) After All These Years — Fun Factor Is Running Strong for Kirkland"
-award_year: 2021
+year: 2021
 published: 2021-08-12 14:21:06
 published_gmt: 2021-08-12 13:21:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/in-conversation-with-vector-groups-bryant-kirkland-still-crazy-about-work-after-all-these-years-fun-factor-is-running-strong-for-kirkland/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 01f026e0c7d052f137f7aec5775bcfd4c01e2e621a044cc67784c0e621992a11
 canonical: 20368-in-conversation-with-vector-groups-bryant-kirkland-still-crazy-about-work-after-.json
 ---

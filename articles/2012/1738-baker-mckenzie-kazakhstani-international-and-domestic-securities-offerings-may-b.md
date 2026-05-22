@@ -1,12 +1,21 @@
 ---
 id: 1738
 title: "Baker & McKenzie: Kazakhstani International and Domestic Securities Offerings"
-award_year: 2012
+year: 2012
 published: 2012-08-15 13:54:42
 published_gmt: 2012-08-15 12:54:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2012/08/baker-mckenzie-kazakhstani-international-and-domestic-securities-offerings-may-be-substantially-affected-by-recent-legal-amendments/"
 categories: ["Finance", "Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 50e8a78760c2a221adb8ec653731d98ad758568c4fe7f5ca4c9fc4fe2977cbc1
 canonical: 1738-baker-mckenzie-kazakhstani-international-and-domestic-securities-offerings-may-b.json
 ---

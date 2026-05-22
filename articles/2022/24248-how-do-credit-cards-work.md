@@ -1,12 +1,21 @@
 ---
 id: 24248
 title: "How Do Credit Cards Work"
-award_year: 2022
+year: 2022
 published: 2022-12-20 20:11:10
 published_gmt: 2022-12-20 20:11:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2022/12/how-do-credit-cards-work/"
 categories: ["Banking", "Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ae7aeb46d20fbf2d8be7147a37a50314ecd119998161bec32fdea54b0ac4d29f
 canonical: 24248-how-do-credit-cards-work.json
 ---

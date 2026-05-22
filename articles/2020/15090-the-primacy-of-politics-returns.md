@@ -1,12 +1,21 @@
 ---
 id: 15090
 title: "The Primacy of Politics Returns"
-award_year: 2020
+year: 2020
 published: 2020-04-30 14:24:21
 published_gmt: 2020-04-30 13:24:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/the-primacy-of-politics-returns/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bd5192073a04bd8592df8abe9cee1965b9033ded154139cb23ae6355c264f8e5
 canonical: 15090-the-primacy-of-politics-returns.json
 ---

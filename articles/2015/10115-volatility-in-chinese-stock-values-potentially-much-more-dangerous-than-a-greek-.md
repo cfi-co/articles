@@ -1,12 +1,21 @@
 ---
 id: 10115
 title: "Volatility in Chinese Stock Values: Potentially Much More Dangerous than a Greek Tragedy?"
-award_year: 2015
+year: 2015
 published: 2015-07-09 12:14:22
 published_gmt: 2015-07-09 11:14:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/07/volatility-in-chinese-stock-values-potentially-much-more-dangerous-than-a-greek-tragedy/"
 categories: ["Asia Pacific", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c7ba07be4d0f6bb4e5cecbdc467202fee346698e603a8d49c2652b0000269a95
 canonical: 10115-volatility-in-chinese-stock-values-potentially-much-more-dangerous-than-a-greek-.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26928
 title: "Solidarity by Name, and by Nature: Shari’ah-Compliant Insurance Group that is Aiming to be Top of the Tree"
-award_year: 2024
+year: 2024
 published: 2024-07-22 10:46:46
 published_gmt: 2024-07-22 09:46:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2024/07/solidarity-by-name-and-by-nature-shariah-compliant-insurance-group-that-is-aiming-to-be-top-of-the-tree/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3e04e9efda08b9dc35d64ef512405dc315f234a88f7108c80140732599b93d2c
 canonical: 26928-solidarity-by-name-and-by-nature-shariah-compliant-insurance-group-that-is-aimin.json
 ---

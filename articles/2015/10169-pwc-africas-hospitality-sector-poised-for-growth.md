@@ -1,12 +1,21 @@
 ---
 id: 10169
 title: "PwC: Africa’s Hospitality Sector Poised for Growth"
-award_year: 2015
+year: 2015
 published: 2015-07-31 11:25:02
 published_gmt: 2015-07-31 10:25:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/07/pwc-africas-hospitality-sector-poised-for-growth/"
 categories: ["Africa", "Finance", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ee9c45fb30697a4d883b2f4939be385ab194e9fa4a8f60daa17149c7931a9fb3
 canonical: 10169-pwc-africas-hospitality-sector-poised-for-growth.json
 ---

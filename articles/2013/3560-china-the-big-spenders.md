@@ -1,12 +1,21 @@
 ---
 id: 3560
 title: "China: The Big Spenders"
-award_year: 2013
+year: 2013
 published: 2013-04-05 10:39:54
 published_gmt: 2013-04-05 09:39:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/04/china-the-big-spenders/"
 categories: ["Asia Pacific", "Finance", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 37f5066be61230f403cacd8cc126a5d87aff16bd143804071c964830a2159f2c
 canonical: 3560-china-the-big-spenders.json
 ---

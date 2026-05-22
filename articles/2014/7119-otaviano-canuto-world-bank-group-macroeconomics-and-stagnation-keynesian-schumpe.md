@@ -1,12 +1,21 @@
 ---
 id: 7119
 title: "Otaviano Canuto, World Bank Group: Macroeconomics and Stagnation - Keynesian-Schumpeterian Wars"
-award_year: 2014
+year: 2014
 published: 2014-05-06 17:01:18
 published_gmt: 2014-05-06 16:01:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/05/otaviano-canuto-world-bank-group-macroeconomics-and-stagnation-keynesian-schumpeterian-wars/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9276299d91163020ce63b47c88945a36325cd4132630c78326a583fe5492c955
 canonical: 7119-otaviano-canuto-world-bank-group-macroeconomics-and-stagnation-keynesian-schumpe.json
 ---

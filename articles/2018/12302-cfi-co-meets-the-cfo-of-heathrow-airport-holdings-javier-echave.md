@@ -1,12 +1,21 @@
 ---
 id: 12302
 title: "CFI.co Meets the CFO of Heathrow Airport Holdings: Javier Echave"
-award_year: 2018
+year: 2018
 published: 2018-02-16 11:38:16
 published_gmt: 2018-02-16 11:38:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/02/cfi-co-meets-the-cfo-of-heathrow-airport-holdings-javier-echave/"
 categories: ["CFI.co Meets", "Corporate Leaders"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f4807d6bc4caa8183c508fb25df6e70c095e69d1a85a1d87a372650fdba4a241
 canonical: 12302-cfi-co-meets-the-cfo-of-heathrow-airport-holdings-javier-echave.json
 ---

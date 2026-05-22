@@ -1,12 +1,21 @@
 ---
 id: 18649
 title: "Kommunalkredit: The Importance of Sustainable Infrastructure Increasingly Vital During These Challenging Times"
-award_year: 2021
+year: 2021
 published: 2021-02-04 16:31:36
 published_gmt: 2021-02-04 16:31:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/kommunalkredit-the-importance-of-sustainable-infrastructure-increasingly-vital-during-these-challenging-times/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a0c0ca5f1bc220000f05848b6d438e0ca7c7444e14d0e47e44657837df2aac58
 canonical: 18649-kommunalkredit-the-importance-of-sustainable-infrastructure-increasingly-vital-d.json
 ---

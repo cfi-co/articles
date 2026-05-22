@@ -1,12 +1,21 @@
 ---
 id: 17642
 title: "FCI: Factoring Has the Wind in Its Sails — and a Long and Successful History Behind It"
-award_year: 2020
+year: 2020
 published: 2020-10-26 15:53:57
 published_gmt: 2020-10-26 15:53:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/10/fci-factoring-has-the-wind-in-its-sails-and-a-long-and-successful-history-behind-it/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f1a5a81c59bceaf9789b67ac8404aa24227004564665631f26fe2cfffc9ae3a6
 canonical: 17642-fci-factoring-has-the-wind-in-its-sails-and-a-long-and-successful-history-behind.json
 ---

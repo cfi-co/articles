@@ -1,12 +1,21 @@
 ---
 id: 21335
 title: "Brand-Power is Real — but the Goalposts Won’t Stop Moving"
-award_year: 2021
+year: 2021
 published: 2021-12-15 05:53:17
 published_gmt: 2021-12-15 05:53:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2021/12/brand-power-is-real-but-the-goalposts-wont-stop-moving/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 770a810dc32659ef879d3821c5d1a247fe6cbab87786fb3dacf9f24537bf0c1e
 canonical: 21335-brand-power-is-real-but-the-goalposts-wont-stop-moving.json
 ---

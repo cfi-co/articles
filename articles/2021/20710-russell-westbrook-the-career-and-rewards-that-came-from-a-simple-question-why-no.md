@@ -1,12 +1,21 @@
 ---
 id: 20710
 title: "Russell Westbrook - The Career and Rewards that Came from a Simple Question: Why Not…?"
-award_year: 2021
+year: 2021
 published: 2021-09-22 15:03:24
 published_gmt: 2021-09-22 14:03:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2021/09/russell-westbrook-the-career-and-rewards-that-came-from-a-simple-question-why-not/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e80ed61dacd8da9fc0bac16e5451d32415125c73774f622738bcf4687647692c
 canonical: 20710-russell-westbrook-the-career-and-rewards-that-came-from-a-simple-question-why-no.json
 ---

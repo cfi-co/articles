@@ -1,12 +1,21 @@
 ---
 id: 20561
 title: "Cartica’s ‘Secret Sauce’: Female Leadership, Humility, and Action"
-award_year: 2021
+year: 2021
 published: 2021-09-09 16:14:05
 published_gmt: 2021-09-09 15:14:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/09/carticas-teresa-barger-female-leadership-humility-and-action/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ea3dac20cdb726ce51cf6f3709449e0437c6c80430d77f4c4d6ff7d5aaf87723
 canonical: 20561-carticas-teresa-barger-female-leadership-humility-and-action.json
 ---

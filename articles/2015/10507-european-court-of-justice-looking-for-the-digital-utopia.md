@@ -1,12 +1,21 @@
 ---
 id: 10507
 title: "European Court of Justice: Looking for the Digital Utopia"
-award_year: 2015
+year: 2015
 published: 2015-10-12 10:48:45
 published_gmt: 2015-10-12 09:48:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/10/european-court-of-justice-looking-for-the-digital-utopia/"
 categories: ["Europe", "Greece &amp; The Euro", "Multilaterals", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8805864d94d7cddbd8b0c4128436b9f75f2dd0cb2b42e187882afd29696724d5
 canonical: 10507-european-court-of-justice-looking-for-the-digital-utopia.json
 ---

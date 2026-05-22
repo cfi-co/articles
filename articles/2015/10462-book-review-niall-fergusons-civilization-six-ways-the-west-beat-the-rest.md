@@ -1,12 +1,21 @@
 ---
 id: 10462
 title: "Book Review: Niall Ferguson’s Civilization - Six Ways the West Beat the Rest"
-award_year: 2015
+year: 2015
 published: 2015-09-16 11:32:28
 published_gmt: 2015-09-16 10:32:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2015/09/book-review-niall-fergusons-civilization-six-ways-the-west-beat-the-rest/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ae392e8c17dbb9fd9ed8f6e108f564a1e4a9876059dcbbc2a18c09c73ce02e4c
 canonical: 10462-book-review-niall-fergusons-civilization-six-ways-the-west-beat-the-rest.json
 ---

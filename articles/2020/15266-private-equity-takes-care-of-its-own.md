@@ -1,12 +1,21 @@
 ---
 id: 15266
 title: "Private Equity Takes Care of Its Own"
-award_year: 2020
+year: 2020
 published: 2020-05-06 14:47:35
 published_gmt: 2020-05-06 13:47:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/05/private-equity-takes-care-of-its-own/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4329b33fcbb4203989aaefe2778447e291b5a35c9af4aae269702c45239d7571
 canonical: 15266-private-equity-takes-care-of-its-own.json
 ---

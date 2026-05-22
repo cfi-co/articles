@@ -1,12 +1,21 @@
 ---
 id: 6218
 title: "Wangari Maathai: Attaining Peace that Endures, One Tree at a Time"
-award_year: 2013
+year: 2013
 published: 2013-12-11 11:37:18
 published_gmt: 2013-12-11 11:37:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/12/wangari-maathai-attaining-peace-that-endures-one-tree-at-a-time/"
 categories: ["Africa", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 542bc1a57fd3cbc46892ade912a022cd12469f8c1c5a82c9cf9ca731d2ce1c4d
 canonical: 6218-wangari-maathai-attaining-peace-that-endures-one-tree-at-a-time.json
 ---

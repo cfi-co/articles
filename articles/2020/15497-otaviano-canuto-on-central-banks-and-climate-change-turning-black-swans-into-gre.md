@@ -1,12 +1,21 @@
 ---
 id: 15497
 title: "Otaviano Canuto on Central Banks and Climate Change: Turning Black Swans Into Green"
-award_year: 2020
+year: 2020
 published: 2020-06-01 13:30:51
 published_gmt: 2020-06-01 12:30:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2020/06/otaviano-canuto-on-central-banks-and-climate-change-turning-black-swans-into-green/"
 categories: ["Banking", "Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 97cdff31b05779b3a78dd9e2e85318f94406b0ea5a36fbc1999bbcc335da0c48
 canonical: 15497-otaviano-canuto-on-central-banks-and-climate-change-turning-black-swans-into-gre.json
 ---

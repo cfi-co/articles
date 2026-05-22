@@ -1,12 +1,21 @@
 ---
 id: 27656
 title: "Arval: Driving the Future of Fleet Mobility Through Sustainability, Innovation and Performance"
-award_year: 2025
+year: 2025
 published: 2025-03-27 14:04:07
 published_gmt: 2025-03-27 14:04:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/approval/2025/03/arval-driving-the-future-of-fleet-mobility-through-sustainability-innovation-and-performance/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d28c0c2be88fc018cb38ae912099bcee590ceaefc08d50122f1267f940c75356
 canonical: 27656-arval-driving-the-future-of-fleet-mobility-through-sustainability-innovation-and.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 16681
 title: "Gulf Insurance Group-Kuwait: A History of Firsts and a Booming ‘GIG’ Economy for Leader in Insurance"
-award_year: 2020
+year: 2020
 published: 2020-08-20 12:33:26
 published_gmt: 2020-08-20 11:33:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/08/gulf-insurance-group-kuwait-a-history-of-firsts-and-a-booming-gig-economy-for-leader-in-insurance/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 40faa49cf923c70deac64bfec1e2994168effb3ea170869e0d4fa2b7aec23483
 canonical: 16681-gulf-insurance-group-kuwait-a-history-of-firsts-and-a-booming-gig-economy-for-le.json
 ---

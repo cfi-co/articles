@@ -1,12 +1,21 @@
 ---
 id: 26169
 title: "Lord Waverley: Tracing the Old Silk Road Shows History Carved a Path to Modern Values — and Vibrant Economies"
-award_year: 2023
+year: 2023
 published: 2023-06-01 20:03:46
 published_gmt: 2023-06-01 19:03:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2023/06/lord-waverley-tracing-the-old-silk-road-shows-history-carved-a-path-to-modern-values-and-vibrant-economies/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e75dc6ead3004b79a94b4ae2b0efb1096880400ce4d1c52fd930ebd38cdacafa
 canonical: 26169-lord-waverley-tracing-the-old-silk-road-shows-history-carved-a-path-to-modern-va.json
 ---

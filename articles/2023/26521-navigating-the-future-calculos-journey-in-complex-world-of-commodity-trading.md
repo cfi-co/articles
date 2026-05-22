@@ -1,12 +1,21 @@
 ---
 id: 26521
 title: "Navigating the Future: Calculo's Journey in Complex World of Commodity Trading"
-award_year: 2023
+year: 2023
 published: 2023-12-20 17:43:05
 published_gmt: 2023-12-20 17:43:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/12/calculo-capital-navigating-the-future/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1c28cdc36964c82cddbeb91d7143ec0179b47b71bc1abab6c8574918a89bf348
 canonical: 26521-navigating-the-future-calculos-journey-in-complex-world-of-commodity-trading.json
 ---

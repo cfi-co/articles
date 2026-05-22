@@ -1,12 +1,21 @@
 ---
 id: 9657
 title: "The Saudi Arabian Stock Exchange: Opening to Foreign Investors in June"
-award_year: 2015
+year: 2015
 published: 2015-04-20 16:09:04
 published_gmt: 2015-04-20 15:09:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/04/the-saudi-arabian-stock-exchange-opening-to-foreign-investors-in-june/"
 categories: ["Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6314a450c335e54465b5354a261fee9d7f9e4b5f4e15889b9019fc8455911d59
 canonical: 9657-the-saudi-arabian-stock-exchange-opening-to-foreign-investors-in-june.json
 ---

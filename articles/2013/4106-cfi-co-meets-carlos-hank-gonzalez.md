@@ -1,12 +1,21 @@
 ---
 id: 4106
 title: "CFI.co Meets Carlos Hank González"
-award_year: 2013
+year: 2013
 published: 2013-05-07 12:31:43
 published_gmt: 2013-05-07 11:31:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2013/05/cfi-co-meets-carlos-hank-gonzalez/"
 categories: ["Corporate Leaders", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fca6743a2f6c53f9adb01386a4f841bb983c6013f7402dd89656d5b38adbbb64
 canonical: 4106-cfi-co-meets-carlos-hank-gonzalez.json
 ---

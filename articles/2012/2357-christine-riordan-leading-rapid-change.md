@@ -1,12 +1,21 @@
 ---
 id: 2357
 title: "Christine Riordan: Leading Rapid Change"
-award_year: 2012
+year: 2012
 published: 2012-10-09 13:00:21
 published_gmt: 2012-10-09 13:00:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/10/christine-riordan-leading-rapid-change/"
 categories: ["Africa", "Asia Pacific", "Latin America", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 98c01bafe310a9893810421ec5fa6f4c3792855e7b706a8774c1761cb2b96385
 canonical: 2357-christine-riordan-leading-rapid-change.json
 ---

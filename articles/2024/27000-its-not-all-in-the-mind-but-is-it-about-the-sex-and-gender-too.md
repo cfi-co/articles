@@ -1,12 +1,21 @@
 ---
 id: 27000
 title: "It’s Not All in the Mind — but Is It About the Sex and Gender, too?"
-award_year: 2024
+year: 2024
 published: 2024-08-01 12:02:00
 published_gmt: 2024-08-01 11:02:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/08/its-not-all-in-the-mind-but-is-it-about-the-sex-and-gender-too/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ed90e8b6734cb83ae2ebe2ec07cdff1e1a0b0335d70d3d49e143283ff1777545
 canonical: 27000-its-not-all-in-the-mind-but-is-it-about-the-sex-and-gender-too.json
 ---

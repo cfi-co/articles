@@ -1,12 +1,21 @@
 ---
 id: 23106
 title: "The World is Too Complex to Become Lazy — and Challenges Bring Chances"
-award_year: 2022
+year: 2022
 published: 2022-11-11 09:00:57
 published_gmt: 2022-11-11 09:00:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/11/the-world-is-too-complex-to-become-lazy-and-challenges-bring-chances/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ad753600390e9ba672ff944448e93e36f08ae71f09053b596c712299c08edf0f
 canonical: 23106-the-world-is-too-complex-to-become-lazy-and-challenges-bring-chances.json
 ---

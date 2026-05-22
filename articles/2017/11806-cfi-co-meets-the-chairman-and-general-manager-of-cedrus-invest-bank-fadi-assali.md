@@ -1,12 +1,21 @@
 ---
 id: 11806
 title: "CFI.co Meets the Chairman and General Manager of Cedrus Invest Bank: Fadi Assali"
-award_year: 2017
+year: 2017
 published: 2017-08-31 13:57:41
 published_gmt: 2017-08-31 12:57:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-chairman-and-general-manager-of-cedrus-invest-bank-fadi-assali/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 457a31c14a3dbbd38c44fb9af6bdd8bcb3812f16629a7606a189e8d18c0a8eaa
 canonical: 11806-cfi-co-meets-the-chairman-and-general-manager-of-cedrus-invest-bank-fadi-assali.json
 ---

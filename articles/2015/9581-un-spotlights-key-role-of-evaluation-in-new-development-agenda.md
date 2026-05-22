@@ -1,12 +1,21 @@
 ---
 id: 9581
 title: "UN Spotlights Key Role of Evaluation in New Development Agenda"
-award_year: 2015
+year: 2015
 published: 2015-03-25 16:35:57
 published_gmt: 2015-03-25 16:35:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2015/03/un-spotlights-key-role-of-evaluation-in-new-development-agenda/"
 categories: ["Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e9bf16daa9e25362b1193e6c8d88648173ff59da6e393bb71289117ce6a5ee2b
 canonical: 9581-un-spotlights-key-role-of-evaluation-in-new-development-agenda.json
 ---

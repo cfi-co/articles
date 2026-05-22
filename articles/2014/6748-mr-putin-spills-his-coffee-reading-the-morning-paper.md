@@ -1,12 +1,21 @@
 ---
 id: 6748
 title: "Mr Putin Spills His Coffee Reading the Morning Paper"
-award_year: 2014
+year: 2014
 published: 2014-03-03 12:34:17
 published_gmt: 2014-03-03 12:34:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/03/mr-putin-spills-his-coffee-reading-the-morning-paper/"
 categories: ["Europe", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 927266c19df45ac8c14d44d9408a3faf7fd1b7384d24f3f8745f33ff841814db
 canonical: 6748-mr-putin-spills-his-coffee-reading-the-morning-paper.json
 ---

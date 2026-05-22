@@ -1,12 +1,21 @@
 ---
 id: 19027
 title: "Katia Coudray, CEO of Asteria Investment Managers: Leading from the Front, Keeping Focus on Specific Goals"
-award_year: 2021
+year: 2021
 published: 2021-03-10 11:50:11
 published_gmt: 2021-03-10 11:50:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/03/katia-coudray-ceo-of-asteria-investment-managers-leading-from-the-front-keeping-focus-on-specific-goals/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eaebfc8c9de3d06d3101db5edee6ce50da311e5183f228c8a3ed6e453c287a83
 canonical: 19027-katia-coudray-ceo-of-asteria-investment-managers-leading-from-the-front-keeping-.json
 ---

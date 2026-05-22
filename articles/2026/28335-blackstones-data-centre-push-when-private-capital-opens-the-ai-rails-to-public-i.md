@@ -1,12 +1,21 @@
 ---
 id: 28335
 title: "Blackstone’s Data Centre Push: When Private Capital Opens The AI Rails To Public Investors"
-award_year: 2026
+year: 2026
 published: 2026-03-03 09:52:05
 published_gmt: 2026-03-03 09:52:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/featured/2026/03/blackstones-data-centre-push-when-private-capital-opens-the-ai-rails-to-public-investors/"
 categories: ["Finance", "Finance &amp; People", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a21095d58b4c19ee6a1945fd130ad5204ffcaeedcac357e78a9f28529b203ef5
 canonical: 28335-blackstones-data-centre-push-when-private-capital-opens-the-ai-rails-to-public-i.json
 ---

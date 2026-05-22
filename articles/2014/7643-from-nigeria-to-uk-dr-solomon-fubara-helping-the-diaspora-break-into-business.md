@@ -1,12 +1,21 @@
 ---
 id: 7643
 title: "From Nigeria to UK – Dr Solomon Fubara: Helping the Diaspora Break into Business"
-award_year: 2014
+year: 2014
 published: 2014-07-21 10:04:50
 published_gmt: 2014-07-21 09:04:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/07/from-nigeria-to-uk-dr-solomon-fubara-helping-the-diaspora-break-into-business/"
 categories: ["Africa", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 81e2f191f76fa5f1c6e7ec2b9b5484c6556f1b829cd688f6363857a39a2c704c
 canonical: 7643-from-nigeria-to-uk-dr-solomon-fubara-helping-the-diaspora-break-into-business.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 15726
 title: "Europe: Fig Leaves to Save Spain and Italy"
-award_year: 2020
+year: 2020
 published: 2020-06-12 18:02:18
 published_gmt: 2020-06-12 17:02:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/06/europe-fig-leaves-to-save-spain-and-italy/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 462df6bf42c18419cfa63d5528b336f6652d60c9561f7aeb4cdf08091c657979
 canonical: 15726-europe-fig-leaves-to-save-spain-and-italy.json
 ---

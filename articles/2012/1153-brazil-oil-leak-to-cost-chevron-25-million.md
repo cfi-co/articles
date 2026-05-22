@@ -1,12 +1,21 @@
 ---
 id: 1153
 title: "Brazil Oil Leak to Cost Chevron $25 million"
-award_year: 2012
+year: 2012
 published: 2012-07-25 10:59:48
 published_gmt: 2012-07-25 09:59:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2012/07/brazil-oil-leak-to-cost-chevron-25-million/"
 categories: ["Latin America", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 31ce75cda0dcc2a9585ffc437d9ec667c58ee7a497bbd2042e3768a0dbacb6bb
 canonical: 1153-brazil-oil-leak-to-cost-chevron-25-million.json
 ---

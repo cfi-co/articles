@@ -1,12 +1,21 @@
 ---
 id: 4552
 title: "Aid for Trade: Supporting the World’s Poorest"
-award_year: 2013
+year: 2013
 published: 2013-07-10 09:56:38
 published_gmt: 2013-07-10 08:56:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/07/aid-for-trade-supporting-the-worlds-poorest/"
 categories: ["Africa", "Asia Pacific", "Europe", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0a25df13b767c2642dbd015cc8d6e493e84d66ee2d6441a073ce221b6d59df6b
 canonical: 4552-aid-for-trade-supporting-the-worlds-poorest.json
 ---

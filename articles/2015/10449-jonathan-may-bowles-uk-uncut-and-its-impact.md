@@ -1,12 +1,21 @@
 ---
 id: 10449
 title: "Jonathan May-Bowles: UK Uncut and Its Impact"
-award_year: 2015
+year: 2015
 published: 2015-09-14 16:32:08
 published_gmt: 2015-09-14 15:32:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/09/jonathan-may-bowles-uk-uncut-and-its-impact/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fff0cf0614d0817bc920fe50a277fcc1e54934ba396aed92cb2ba508c4b2936c
 canonical: 10449-jonathan-may-bowles-uk-uncut-and-its-impact.json
 ---

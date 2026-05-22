@@ -1,12 +1,21 @@
 ---
 id: 15740
 title: "UNCDF and Convergence: Getting the Right Blend in Game-Changing Finance"
-award_year: 2020
+year: 2020
 published: 2020-06-16 12:00:29
 published_gmt: 2020-06-16 11:00:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/06/uncdf-getting-the-right-blend-in-game-changing-finance/"
 categories: ["Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fdf53113c09bfdc60e5d67a521a429b21ba0d09a49ae7e74489bd18be47d9cbf
 canonical: 15740-uncdf-getting-the-right-blend-in-game-changing-finance.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 7101
 title: "Booz & Company’s Ideation Center: Empowering Women Entrepreneurs in the Middle East"
-award_year: 2014
+year: 2014
 published: 2014-05-06 11:32:40
 published_gmt: 2014-05-06 10:32:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/05/booz-companys-ideation-center-empowering-women-entrepreneurs-in-the-middle-east/"
 categories: ["Africa", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ec9bc50adfc8869c3e6d2df93d6786f7950cac0219dae3af4ccaac4ac163a6a1
 canonical: 7101-booz-companys-ideation-center-empowering-women-entrepreneurs-in-the-middle-east.json
 ---

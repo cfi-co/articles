@@ -1,12 +1,21 @@
 ---
 id: 15927
 title: "GoldenTree: Governance and Experience Equate to Winning Formula for Investment Firm that Boasts the Golden Touch"
-award_year: 2020
+year: 2020
 published: 2020-07-01 14:26:54
 published_gmt: 2020-07-01 13:26:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/07/goldentree-governance-and-experience-equate-to-winning-formula-for-investment-firm-that-boasts-the-golden-touch/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 129eea5f5393be1e6c61efffcb966f3eab565d26bf1ee045cdd43247219237e3
 canonical: 15927-goldentree-governance-and-experience-equate-to-winning-formula-for-investment-fi.json
 ---

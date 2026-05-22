@@ -1,12 +1,21 @@
 ---
 id: 15710
 title: "Jamaica’s Largest Credit Union: Making an Impact with Financial Inclusion and Education"
-award_year: 2019
+year: 2019
 published: 2019-07-12 13:48:01
 published_gmt: 2019-07-12 12:48:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/07/jamaicas-largest-credit-union-making-an-impact-with-financial-inclusion-and-education/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f0b46d8cfcdb2800997ac44e848df0bfadd262aa00f6fd70f0493d2869bf1353
 canonical: 15710-jamaicas-largest-credit-union-making-an-impact-with-financial-inclusion-and-educ.json
 ---

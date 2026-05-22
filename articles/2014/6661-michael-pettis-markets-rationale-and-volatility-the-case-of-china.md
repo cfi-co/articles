@@ -1,12 +1,21 @@
 ---
 id: 6661
 title: "Michael Pettis: Markets Rationale and Volatility - The Case of China"
-award_year: 2014
+year: 2014
 published: 2014-02-18 16:37:39
 published_gmt: 2014-02-18 16:37:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/02/michael-pettis-markets-rationale-and-volatility-the-case-of-china/"
 categories: ["Asia Pacific", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5233188ba5bff164a1901cb3c64d91a5e5a00ed9ddbf2a85abb419731ff3c7d8
 canonical: 6661-michael-pettis-markets-rationale-and-volatility-the-case-of-china.json
 ---

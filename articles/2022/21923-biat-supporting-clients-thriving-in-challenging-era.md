@@ -1,12 +1,21 @@
 ---
 id: 21923
 title: "Supporting Clients & Thriving in Challenging Era: BIAT’s on the Ball"
-award_year: 2022
+year: 2022
 published: 2022-05-18 06:50:55
 published_gmt: 2022-05-18 05:50:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/biat-supporting-clients-thriving-in-challenging-era/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f9ebe507bea698ff8ed91120b017f86e571f0859ae90088840c30b69d293b565
 canonical: 21923-biat-supporting-clients-thriving-in-challenging-era.json
 ---

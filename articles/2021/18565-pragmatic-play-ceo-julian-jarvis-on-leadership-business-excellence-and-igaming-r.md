@@ -1,12 +1,21 @@
 ---
 id: 18565
 title: "Pragmatic Play CEO Julian Jarvis: On Leadership, Business Excellence and iGaming Regulatory Trends"
-award_year: 2021
+year: 2021
 published: 2021-02-01 15:50:21
 published_gmt: 2021-02-01 15:50:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/cfi-co-meets/2021/02/pragmatic-play-ceo-julian-jarvis-on-leadership-business-excellence-and-igaming-regulatory-trends/"
 categories: ["CFI.co Meets"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0da88c6caa76f1abcc6d2171dc8aca7ab7b41d8668df10fe3d9167e228ad6f61
 canonical: 18565-pragmatic-play-ceo-julian-jarvis-on-leadership-business-excellence-and-igaming-r.json
 ---

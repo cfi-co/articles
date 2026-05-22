@@ -1,12 +1,21 @@
 ---
 id: 21667
 title: "CBRE: Multifamily Assets Consolidate Real Estate Investment Growth"
-award_year: 2022
+year: 2022
 published: 2022-03-24 06:21:37
 published_gmt: 2022-03-24 06:21:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2022/03/cbre-multifamily-assets-consolidate-real-estate-investment-growth/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 74b3f9ad0e9154eed2a8657c2741f7d69400771c7a77287355daa256948ad643
 canonical: 21667-cbre-multifamily-assets-consolidate-real-estate-investment-growth.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26981
 title: "Türkiye in the Economic Spotlight: Globalturk Capital Keeps the Focus on the Country’s Growing Status"
-award_year: 2024
+year: 2024
 published: 2024-08-08 07:48:48
 published_gmt: 2024-08-08 06:48:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/08/turkiye-in-the-economic-spotlight-globalturk-capital-keeps-the-focus-on-the-countrys-growing-status/"
 categories: ["Corporate", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5f2a1feae086214e37ee003f15ee0465d00168fea7c06e9e79770b376bbc6454
 canonical: 26981-turkiye-in-the-economic-spotlight-globalturk-capital-keeps-the-focus-on-the-coun.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 5012
 title: "Alison Cooper Calls for Realistic and Intelligent Targets"
-award_year: 2013
+year: 2013
 published: 2013-08-15 09:46:59
 published_gmt: 2013-08-15 08:46:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/08/alison-cooper-calls-for-realistic-and-intelligent-targets/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f0eb318084d5d014ac0d8d001c12aedaf901e8073dc4fd959a4a4871a53a57d9
 canonical: 5012-alison-cooper-calls-for-realistic-and-intelligent-targets.json
 ---

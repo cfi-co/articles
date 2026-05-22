@@ -1,12 +1,21 @@
 ---
 id: 7986
 title: "Matteo Renzi to the Rescue? European Union - Looking for a Leader to Reassert Its Role"
-award_year: 2014
+year: 2014
 published: 2014-09-09 12:34:18
 published_gmt: 2014-09-09 11:34:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/09/matteo-renzi-to-the-rescue-european-union-looking-for-a-leader-to-reassert-its-role/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 795e6f22bba5fbf5a20e61452fec35bf5c3ca1040cc0031e0f4a25f89cb150f4
 canonical: 7986-matteo-renzi-to-the-rescue-european-union-looking-for-a-leader-to-reassert-its-r.json
 ---

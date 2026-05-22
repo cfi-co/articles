@@ -1,12 +1,21 @@
 ---
 id: 22051
 title: "Infinity Asset Management Diversity and Strategy: Two Key Factors That Have Driven the Infinity Group to Success"
-award_year: 2022
+year: 2022
 published: 2022-05-19 14:18:12
 published_gmt: 2022-05-19 13:18:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2022/05/infinity-asset-management-diversity-and-strategy-two-key-factors-that-have-driven-the-infinity-group-to-success/"
 categories: ["Corporate", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fbffdc3bae8df075d36dc890e8e9c351ffb1c59d2c3e0d006d8a17b92eaf5db9
 canonical: 22051-infinity-asset-management-diversity-and-strategy-two-key-factors-that-have-drive.json
 ---

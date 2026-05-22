@@ -1,12 +1,21 @@
 ---
 id: 3240
 title: "IDB Hero Al-Madani: Resources, Creativity and Credibility"
-award_year: 2013
+year: 2013
 published: 2013-03-08 13:58:45
 published_gmt: 2013-03-08 13:58:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/03/idb-hero-al-madani-resources-creativity-and-credibility/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 36c41f70deb503a519d9522309dfea1abecf880aaec68b3c72eeaf0301537e36
 canonical: 3240-idb-hero-al-madani-resources-creativity-and-credibility.json
 ---

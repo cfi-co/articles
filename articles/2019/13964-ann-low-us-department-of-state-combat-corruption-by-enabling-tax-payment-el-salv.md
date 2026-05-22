@@ -1,12 +1,21 @@
 ---
 id: 13964
 title: "Ann Low, US Department of State: Combat Corruption by Enabling Tax Payment - El Salvador Case Study"
-award_year: 2019
+year: 2019
 published: 2019-08-22 09:47:11
 published_gmt: 2019-08-22 08:47:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2019/08/ann-low-us-department-of-state-combat-corruption-by-enabling-tax-payment-el-salvador-case-study/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 96fa2fda82167a3692734491063041ade4016ae462605c04b48c006a08366543
 canonical: 13964-ann-low-us-department-of-state-combat-corruption-by-enabling-tax-payment-el-salv.json
 ---

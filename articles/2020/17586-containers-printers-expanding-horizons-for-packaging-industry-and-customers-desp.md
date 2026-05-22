@@ -1,12 +1,21 @@
 ---
 id: 17586
 title: "Containers Printers: Expanding Horizons for Packaging Industry and Customers — Despite Covid-19’s Ravages on the World"
-award_year: 2020
+year: 2020
 published: 2020-10-26 15:01:54
 published_gmt: 2020-10-26 15:01:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2020/10/containers-printers-expanding-horizons-for-packaging-industry-and-customers-despite-covid-19s-ravages-on-the-world/"
 categories: ["Asia Pacific", "Corporate", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d7b53c3836aca650935427b328f1344ec836a417119f5d2e4e3dfadbdf304ffa
 canonical: 17586-containers-printers-expanding-horizons-for-packaging-industry-and-customers-desp.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 14882
 title: "The Fabric, and the Notion, of EU Solidarity is Being Ripped Apart"
-award_year: 2020
+year: 2020
 published: 2020-04-09 12:06:30
 published_gmt: 2020-04-09 11:06:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/the-fabric-and-the-notion-of-eu-solidarity-is-being-ripped-apart/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5cafc60e8e6915b3c97c0606630666fdb723b03670f6a4667207c1febf925021
 canonical: 14882-the-fabric-and-the-notion-of-eu-solidarity-is-being-ripped-apart.json
 ---

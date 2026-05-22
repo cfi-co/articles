@@ -1,12 +1,21 @@
 ---
 id: 14582
 title: "Q&A with the Executive Secretary of the UNCDF: Judith Karl"
-award_year: 2020
+year: 2020
 published: 2020-02-03 12:22:21
 published_gmt: 2020-02-03 12:22:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/02/qa-with-the-executive-secretary-of-the-uncdf-judith-karl/"
 categories: ["Multilaterals", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 04fdab3b9caa0b0e4874b0deff98fbcb5ee84ab1e5b6e6f43151d8c90b127b84
 canonical: 14582-qa-with-the-executive-secretary-of-the-uncdf-judith-karl.json
 ---

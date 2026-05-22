@@ -1,12 +1,21 @@
 ---
 id: 24699
 title: "Securing Sustainable Water Supply Resources — Even in the Most Challenging Environments"
-award_year: 2023
+year: 2023
 published: 2023-02-02 17:40:27
 published_gmt: 2023-02-02 17:40:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2023/02/securing-sustainable-water-supply-resources-even-in-the-most-challenging-environments/"
 categories: ["Middle East", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 280e4d50cd6a59ee077e7c62dbdc45c07525fccb76e6eb119198bec40240c870
 canonical: 24699-securing-sustainable-water-supply-resources-even-in-the-most-challenging-environ.json
 ---

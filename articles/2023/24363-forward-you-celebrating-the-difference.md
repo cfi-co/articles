@@ -1,12 +1,21 @@
 ---
 id: 24363
 title: "Forward You — Celebrating the Difference!"
-award_year: 2023
+year: 2023
 published: 2023-01-05 15:08:13
 published_gmt: 2023-01-05 15:08:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/01/forward-you-celebrating-the-difference/"
 categories: ["Corporate", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a8e3c2147a60dd88ff0da9328e6973de02dd8aea31ade0e0da21f4005945d124
 canonical: 24363-forward-you-celebrating-the-difference.json
 ---

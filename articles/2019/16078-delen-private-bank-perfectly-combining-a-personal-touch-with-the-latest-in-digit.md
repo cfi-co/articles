@@ -1,12 +1,21 @@
 ---
 id: 16078
 title: "Delen Private Bank: Perfectly Combining a Personal Touch with the Latest in Digital Technology"
-award_year: 2019
+year: 2019
 published: 2019-10-02 12:40:17
 published_gmt: 2019-10-02 11:40:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/10/delen-private-bank-perfectly-combining-a-personal-touch-with-the-latest-in-digital-technology/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e7f4036540b989394c1ed6e35f00917b81be957093cef32251a1b65639dfd460
 canonical: 16078-delen-private-bank-perfectly-combining-a-personal-touch-with-the-latest-in-digit.json
 ---

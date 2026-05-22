@@ -1,12 +1,21 @@
 ---
 id: 22013
 title: "VIA optronics AG: Challenged by Optics or Display Issues? VIA’s Got This One Covered"
-award_year: 2022
+year: 2022
 published: 2022-05-19 13:04:47
 published_gmt: 2022-05-19 12:04:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/innovation-technology/2022/05/via-optronics-ag-challenged-by-optics-or-display-issues-vias-got-this-one-covered/"
 categories: ["Corporate", "Innovation &amp; Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fb0bb816c01095e432159e0301bdf6cbf4918b670e250e93e469fa103d7715fa
 canonical: 22013-via-optronics-ag-challenged-by-optics-or-display-issues-vias-got-this-one-covere.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 12055
 title: "Thomas Kaplan: Building Bridges with Art"
-award_year: 2017
+year: 2017
 published: 2017-09-12 12:57:39
 published_gmt: 2017-09-12 11:57:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2017/09/thomas-kaplan-building-bridges-with-art/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b08f3b52cd8b7959e3ab95ee2e863d0e0e78fb0ecc560125f679d32900799085
 canonical: 12055-thomas-kaplan-building-bridges-with-art.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26016
 title: "Finance Expert Knows Which Questions To Ask — And Where to Find Answers"
-award_year: 2023
+year: 2023
 published: 2023-09-05 13:59:43
 published_gmt: 2023-09-05 12:59:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2023/09/jakob-lindquist-knows-which-questions-to-ask-and-where-to-find-answers/"
 categories: ["Banking", "Corporate", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bd74de6512e9664d7464df8b872611711a43263c974e2697d832accfdbd3fb33
 canonical: 26016-finance-expert-knows-which-questions-to-ask-and-where-to-find-answers.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 6349
 title: "Global Banking Alliance for Women - GBA: Banking the Female Economy"
-award_year: 2014
+year: 2014
 published: 2014-01-10 13:06:59
 published_gmt: 2014-01-10 13:06:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/01/global-banking-alliance-for-women-gba-banking-the-female-economy/"
 categories: ["Banking", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7dfd938374f81c334962bd2aea7603630de3454631f645258f4fbea588e18b47
 canonical: 6349-global-banking-alliance-for-women-gba-banking-the-female-economy.json
 ---

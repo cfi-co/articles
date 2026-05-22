@@ -1,12 +1,21 @@
 ---
 id: 23043
 title: "Know the Risks and ‘See’ the Future with the Integrity and Transparency of Moody’s Local"
-award_year: 2022
+year: 2022
 published: 2022-08-16 12:30:22
 published_gmt: 2022-08-16 11:30:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2022/08/know-the-risks-and-see-the-future-with-the-integrity-and-transparency-of-moodys-local/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 51df7abce4175274e1464b2a7f223e54cab51890e4372940918a8c4b5c1fc595
 canonical: 23043-know-the-risks-and-see-the-future-with-the-integrity-and-transparency-of-moodys-.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 11605
 title: "African Risk Capacity (ARC): Towards Resilience - Africa Takes Disaster Management Into Its Own Hands"
-award_year: 2017
+year: 2017
 published: 2017-05-15 16:33:44
 published_gmt: 2017-05-15 15:33:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2017/05/african-risk-capacity-arc-towards-resilience-africa-takes-disaster-management-into-its-own-hands/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4c0b74b76383f2f0172370222e6ee318fab6bcafb69539fa73dcb866e5dc9751
 canonical: 11605-african-risk-capacity-arc-towards-resilience-africa-takes-disaster-management-in.json
 ---

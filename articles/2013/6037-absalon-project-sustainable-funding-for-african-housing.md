@@ -1,12 +1,21 @@
 ---
 id: 6037
 title: "Absalon Project: Sustainable Funding for African Housing"
-award_year: 2013
+year: 2013
 published: 2013-11-14 12:49:00
 published_gmt: 2013-11-14 12:49:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/11/absalon-project-sustainable-funding-for-african-housing/"
 categories: ["Africa", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 415b894aeef899a2192f261619bd1a6718185d1dc518c8a886533b8e99b5e8ff
 canonical: 6037-absalon-project-sustainable-funding-for-african-housing.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26039
 title: "Forging an Enviable Reputation in the Investment Sphere — via Consistency, Teamwork, and Risk-Modelling Genius"
-award_year: 2023
+year: 2023
 published: 2023-09-13 13:36:32
 published_gmt: 2023-09-13 12:36:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/09/murdoch-asset-management-forging-an-enviable-reputation/"
 categories: ["Corporate", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fba6133d3721779250c418de984946053ecb7c7eac1d64d33e0c03cf3175be9c
 canonical: 26039-murdoch-asset-management-forging-an-enviable-reputation.json
 ---

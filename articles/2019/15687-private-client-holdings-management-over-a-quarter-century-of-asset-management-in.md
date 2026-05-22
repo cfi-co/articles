@@ -1,12 +1,21 @@
 ---
 id: 15687
 title: "Private Client Holdings Management: Over a Quarter Century of Asset Management in Southern Africa"
-award_year: 2019
+year: 2019
 published: 2019-07-12 13:33:33
 published_gmt: 2019-07-12 12:33:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/07/private-client-holdings-management-over-a-quarter-century-of-asset-management-in-southern-africa/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b980a3a7258fbdc5175354ac0b5f7fe8bf08d4ab9ba2a4e4ee94120dfd5dbdab
 canonical: 15687-private-client-holdings-management-over-a-quarter-century-of-asset-management-in.json
 ---

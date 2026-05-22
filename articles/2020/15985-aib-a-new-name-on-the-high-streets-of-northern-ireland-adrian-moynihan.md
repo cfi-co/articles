@@ -1,12 +1,21 @@
 ---
 id: 15985
 title: "AIB: A New Name on the High Streets of Northern Ireland"
-award_year: 2020
+year: 2020
 published: 2020-05-01 16:12:04
 published_gmt: 2020-05-01 15:12:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2020/05/aib-a-new-name-on-the-high-streets-of-northern-ireland-adrian-moynihan/"
 categories: ["Banking", "Corporate", "Corporate Leaders", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 103479425a3be149cdd2266c380b6165f5d1c446eddefc8d9a6cfe1ad89f1cce
 canonical: 15985-aib-a-new-name-on-the-high-streets-of-northern-ireland-adrian-moynihan.json
 ---

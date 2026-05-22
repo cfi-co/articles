@@ -1,12 +1,21 @@
 ---
 id: 20139
 title: "BlueRock Group: As Solid as a Rock and Building a Reputation for the Right Reasons"
-award_year: 2021
+year: 2021
 published: 2021-07-08 19:32:01
 published_gmt: 2021-07-08 18:32:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/bluerock-group-as-solid-as-a-rock-and-building-a-reputation-for-the-right-reasons/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ce79215fb8f5d38974c09aaf526ea0276b9a9b7e4c8f5522d86b66dddb577d12
 canonical: 20139-bluerock-group-as-solid-as-a-rock-and-building-a-reputation-for-the-right-reason.json
 ---

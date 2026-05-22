@@ -1,12 +1,21 @@
 ---
 id: 5467
 title: "Why an Expo 2020 Win Will Not Determine the Strength of Dubai’s Property Market"
-award_year: 2013
+year: 2013
 published: 2013-10-14 15:47:30
 published_gmt: 2013-10-14 14:47:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/10/why-an-expo-2020-win-will-not-determine-the-strength-of-dubais-property-market/"
 categories: ["Finance", "Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0f9020256957d81b617c652b95123d83d5ea2977623883da853fd4baba2a5f2c
 canonical: 5467-why-an-expo-2020-win-will-not-determine-the-strength-of-dubais-property-market.json
 ---

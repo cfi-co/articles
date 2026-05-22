@@ -1,12 +1,21 @@
 ---
 id: 27890
 title: "Is the MBA Still Worth It? Weighing Value, ROI, and Leadership Impact"
-award_year: 2025
+year: 2025
 published: 2025-08-26 18:00:40
 published_gmt: 2025-08-26 17:00:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2025/08/is-the-mba-still-worth-it-weighing-value-roi-and-leadership-impact/"
 categories: ["Europe", "Lifestyle", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f53946a6b71681bd0b3006ddc120c158179b1b5fef8d51def372695f696249d6
 canonical: 27890-is-the-mba-still-worth-it-weighing-value-roi-and-leadership-impact.json
 ---

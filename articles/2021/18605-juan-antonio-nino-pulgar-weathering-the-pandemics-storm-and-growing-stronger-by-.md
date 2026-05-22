@@ -1,12 +1,21 @@
 ---
 id: 18605
 title: "Juan Antonio Niño Pulgar: Weathering the Pandemic’s Storm and Growing Stronger by the Day"
-award_year: 2021
+year: 2021
 published: 2021-02-04 15:11:31
 published_gmt: 2021-02-04 15:11:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/juan-antonio-nino-pulgar-weathering-the-pandemics-storm-and-growing-stronger-by-the-day/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d5c445ce5c268a78a7ad72fe7f639bb87163724560f3f0c0ac5b705c15d2f901
 canonical: 18605-juan-antonio-nino-pulgar-weathering-the-pandemics-storm-and-growing-stronger-by-.json
 ---

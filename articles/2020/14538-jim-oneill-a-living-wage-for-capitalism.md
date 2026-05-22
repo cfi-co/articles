@@ -1,12 +1,21 @@
 ---
 id: 14538
 title: "Jim O’Neill: A Living Wage for Capitalism"
-award_year: 2020
+year: 2020
 published: 2020-01-16 12:27:55
 published_gmt: 2020-01-16 12:27:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/01/jim-oneill-a-living-wage-for-capitalism/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 384c9e6f6595f99391843cacb3289f57026eb36d19f97c04404c68c154fa2bb9
 canonical: 14538-jim-oneill-a-living-wage-for-capitalism.json
 ---

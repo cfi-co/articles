@@ -1,12 +1,21 @@
 ---
 id: 25521
 title: "EY: Haunted by Phantom Income and at the Mercy of Economic Patterns — Inflation Distorts World Tax Systems"
-award_year: 2023
+year: 2023
 published: 2023-05-30 11:55:32
 published_gmt: 2023-05-30 10:55:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2023/05/ey-haunted-by-phantom-income-and-at-the-mercy-of-economic-patterns-inflation-distorts-world-tax-systems/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bbd201331f23766b0c598e5e7169b8b31beb80389fa4bec166370107c6cea9f1
 canonical: 25521-ey-haunted-by-phantom-income-and-at-the-mercy-of-economic-patterns-inflation-dis.json
 ---

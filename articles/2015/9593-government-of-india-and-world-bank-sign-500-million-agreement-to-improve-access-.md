@@ -1,12 +1,21 @@
 ---
 id: 9593
 title: "Government of India and World Bank Sign $500 Million Agreement to Improve Access to Finance for Micro, Small and Medium Enterprises"
-award_year: 2015
+year: 2015
 published: 2015-04-01 13:31:22
 published_gmt: 2015-04-01 12:31:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/04/government-of-india-and-world-bank-sign-500-million-agreement-to-improve-access-to-finance-for-micro-small-and-medium-enterprises/"
 categories: ["Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 895fb33661c05b0a04fa81dfdef8cb570b52166da042fafd9b49b7a4f4740320
 canonical: 9593-government-of-india-and-world-bank-sign-500-million-agreement-to-improve-access-.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 18571
 title: "Does Anyone Care About the Environment? Nordea Finance CEO Peter Hupfeld Does, and Always Has"
-award_year: 2021
+year: 2021
 published: 2021-02-01 17:26:58
 published_gmt: 2021-02-01 17:26:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/cfi-co-meets/2021/02/does-anyone-care-about-the-environment-nordea-finance-ceo-peter-hupfeld-does-and-always-has/"
 categories: ["CFI.co Meets"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0ce55d1e9356e92613a09f1c255cb9a62efa6e1eefd93beef171502c93b51f20
 canonical: 18571-does-anyone-care-about-the-environment-nordea-finance-ceo-peter-hupfeld-does-and.json
 ---

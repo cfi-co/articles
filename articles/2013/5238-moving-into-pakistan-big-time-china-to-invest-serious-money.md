@@ -1,12 +1,21 @@
 ---
 id: 5238
 title: "Moving into Pakistan Big Time: China to Invest Serious Money"
-award_year: 2013
+year: 2013
 published: 2013-09-09 10:04:51
 published_gmt: 2013-09-09 09:04:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/09/moving-into-pakistan-big-time-china-to-invest-serious-money/"
 categories: ["Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 492be0f7db0974b5578ddf77ffc2c7646037190ae54124476547c804a8064ca4
 canonical: 5238-moving-into-pakistan-big-time-china-to-invest-serious-money.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21850
 title: "Lars Grinde, Norvestor Advisory Managing Partner: ‘A Pleasure and a Privilege’ — Leading from the Centre"
-award_year: 2022
+year: 2022
 published: 2022-05-17 17:44:32
 published_gmt: 2022-05-17 16:44:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/lars-grinde-norvestor-advisory-managing-partner-a-pleasure-and-a-privilege-leading-from-the-centre/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 94a3d732174d5d25442c0861260b000587481c332d982b02f3dfdd8b020d91a2
 canonical: 21850-lars-grinde-norvestor-advisory-managing-partner-a-pleasure-and-a-privilege-leadi.json
 ---

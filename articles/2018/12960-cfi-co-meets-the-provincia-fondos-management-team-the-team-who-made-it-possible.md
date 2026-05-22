@@ -1,12 +1,21 @@
 ---
 id: 12960
 title: "CFI.co Meets the Provincia Fondos Management Team: The Team who Made it Possible"
-award_year: 2018
+year: 2018
 published: 2018-09-24 13:57:46
 published_gmt: 2018-09-24 12:57:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/09/cfi-co-meets-the-provincia-fondos-management-team-the-team-who-made-it-possible/"
 categories: ["CFI.co Meets", "Corporate Leaders"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bbf4eb07bcb81393328a343dd5b29e83e269a5f12128faea801ec56d342db580
 canonical: 12960-cfi-co-meets-the-provincia-fondos-management-team-the-team-who-made-it-possible.json
 ---

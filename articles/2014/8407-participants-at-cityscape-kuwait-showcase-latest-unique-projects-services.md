@@ -1,12 +1,21 @@
 ---
 id: 8407
 title: "Participants at Cityscape Kuwait Showcase Latest Unique Projects & Services"
-award_year: 2014
+year: 2014
 published: 2014-11-19 11:32:27
 published_gmt: 2014-11-19 11:32:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/11/participants-at-cityscape-kuwait-showcase-latest-unique-projects-services/"
 categories: ["Events", "Finance", "Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fd7c661dbd65fa520d6017a159744f6238e5199d5a2b015eed241d3a2a336cc3
 canonical: 8407-participants-at-cityscape-kuwait-showcase-latest-unique-projects-services.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8597
 title: "Lebanon: Developing an Internet Ecosystem to Keep Young Talent at Home"
-award_year: 2014
+year: 2014
 published: 2014-12-29 09:00:31
 published_gmt: 2014-12-29 09:00:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/12/lebanon-developing-an-internet-ecosystem-to-keep-young-talent-at-home/"
 categories: ["Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1a5e668b76d712522049e8afe994e6fa10f41a84f7ea947863c55dcd44773b24
 canonical: 8597-lebanon-developing-an-internet-ecosystem-to-keep-young-talent-at-home.json
 ---

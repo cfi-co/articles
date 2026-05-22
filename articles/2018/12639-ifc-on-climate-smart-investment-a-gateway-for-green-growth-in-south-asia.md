@@ -1,12 +1,21 @@
 ---
 id: 12639
 title: "IFC on Climate Smart Investment: A Gateway for Green Growth in South Asia"
-award_year: 2018
+year: 2018
 published: 2018-06-20 12:56:23
 published_gmt: 2018-06-20 11:56:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2018/06/ifc-on-climate-smart-investment-a-gateway-for-green-growth-in-south-asia/"
 categories: ["Asia Pacific", "Energy", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7120537724ebd36d84bf093550101bfec6875ec57e92622c00fa6cd50ab36a72
 canonical: 12639-ifc-on-climate-smart-investment-a-gateway-for-green-growth-in-south-asia.json
 ---

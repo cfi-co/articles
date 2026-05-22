@@ -1,12 +1,21 @@
 ---
 id: 14027
 title: "Dambisa Moyo: Looking From a Unique Angle"
-award_year: 2015
+year: 2015
 published: 2015-11-13 13:27:06
 published_gmt: 2015-11-13 13:27:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/11/dambisa-moyo-looking-from-a-unique-angle/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 222099077b544a0f39baee6224edc8c74ec8beb5414bf96a966266e08a9bae43
 canonical: 14027-dambisa-moyo-looking-from-a-unique-angle.json
 ---

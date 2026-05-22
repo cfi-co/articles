@@ -1,12 +1,21 @@
 ---
 id: 23198
 title: "Generali´s Josef Beneš Takes Decisions with Care Based on a Century of Experience"
-award_year: 2022
+year: 2022
 published: 2022-07-01 15:31:00
 published_gmt: 2022-07-01 14:31:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2022/07/generalis-josef-benes-takes-decisions-with-care-based-on-a-century-of-experience/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1d7f8fb881ca606ed4e87ab2bb718f56e6ea6c547c4776420a6d499d8b78f6a8
 canonical: 23198-generalis-josef-benes-takes-decisions-with-care-based-on-a-century-of-experience.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26034
 title: "A Coup Remembered: 50 Years Later, Chile Still Split Over Pinochet Legacy"
-award_year: 2023
+year: 2023
 published: 2023-09-11 09:33:32
 published_gmt: 2023-09-11 08:33:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2023/09/a-coup-remembered-50-years-later-chile-still-split-over-pinochet-legacy/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1cf220952e21bfe6d4a8dbdfcbca0413526c41e0adb522bd8c645313017510dc
 canonical: 26034-a-coup-remembered-50-years-later-chile-still-split-over-pinochet-legacy.json
 ---

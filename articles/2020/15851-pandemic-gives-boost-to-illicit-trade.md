@@ -1,12 +1,21 @@
 ---
 id: 15851
 title: "Pandemic Gives Boost to Illicit Trade"
-award_year: 2020
+year: 2020
 published: 2020-06-29 18:34:51
 published_gmt: 2020-06-29 17:34:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/06/pandemic-gives-boost-to-illicit-trade/"
 categories: ["Europe", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ff4eba3d44bef26cf869f8f40c38a91597ca6d2aeed2c8feaf4de489988413b2
 canonical: 15851-pandemic-gives-boost-to-illicit-trade.json
 ---

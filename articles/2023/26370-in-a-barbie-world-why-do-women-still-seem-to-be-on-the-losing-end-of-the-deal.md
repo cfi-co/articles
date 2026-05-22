@@ -1,12 +1,21 @@
 ---
 id: 26370
 title: "In a Barbie World, Why Do Women Still Seem to Be on the Losing End of the Deal?"
-award_year: 2023
+year: 2023
 published: 2023-11-13 14:22:45
 published_gmt: 2023-11-13 14:22:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2023/11/in-a-barbie-world-why-do-women-still-seem-to-be-on-the-losing-end-of-the-deal/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: db6d3b80d7579f0dda36a1af751c9c29f70765696e959a67aaadbd6a4b525bb1
 canonical: 26370-in-a-barbie-world-why-do-women-still-seem-to-be-on-the-losing-end-of-the-deal.json
 ---

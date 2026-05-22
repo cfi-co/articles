@@ -1,12 +1,21 @@
 ---
 id: 27287
 title: "Forging Fitness, Dissolving Boundaries: Give CrossFit a Try Sometime Soon"
-award_year: 2024
+year: 2024
 published: 2024-11-12 10:18:49
 published_gmt: 2024-11-12 10:18:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2024/11/forging-fitness-dissolving-boundaries-give-crossfit-a-try-sometime-soon/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e15056bb08fb57b2a65e7f0a854ae1ea1f3d116c52978af45cd19ea0f665b675
 canonical: 27287-forging-fitness-dissolving-boundaries-give-crossfit-a-try-sometime-soon.json
 ---

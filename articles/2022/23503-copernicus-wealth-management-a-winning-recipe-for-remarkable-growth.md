@@ -1,12 +1,21 @@
 ---
 id: 23503
 title: "Copernicus Wealth Management: A Winning Recipe for Remarkable Growth"
-award_year: 2022
+year: 2022
 published: 2022-09-18 09:11:44
 published_gmt: 2022-09-18 08:11:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/09/copernicus-wealth-management-a-winning-recipe-for-remarkable-growth/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 543ed7aad45893614b133acace827064e05c1da7352d0fe7c4420ecdf62f4e74
 canonical: 23503-copernicus-wealth-management-a-winning-recipe-for-remarkable-growth.json
 ---

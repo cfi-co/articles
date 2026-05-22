@@ -1,12 +1,21 @@
 ---
 id: 15690
 title: "SBM Securities: Major Changes and a Surge in Capabilities"
-award_year: 2019
+year: 2019
 published: 2019-07-12 13:35:23
 published_gmt: 2019-07-12 12:35:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/07/sbm-securities-major-changes-and-a-surge-in-capabilities/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d985d5ba94587e591c727b2ca5a0ec7cb76e10a6c293169e8c30a21c86ad567
 canonical: 15690-sbm-securities-major-changes-and-a-surge-in-capabilities.json
 ---

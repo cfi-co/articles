@@ -1,12 +1,21 @@
 ---
 id: 8228
 title: "Cityscape Launches Inaugural Event in Kuwait"
-award_year: 2014
+year: 2014
 published: 2014-10-16 13:57:19
 published_gmt: 2014-10-16 12:57:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/10/cityscape-launches-inaugural-event-in-kuwait/"
 categories: ["Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3b22ddf6334c7d6cfc4da4a6d0002996fc511c41997da1ba9f166b7412dcd227
 canonical: 8228-cityscape-launches-inaugural-event-in-kuwait.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 12383
 title: "Ank Bijleveld: The Relentless Pursuit of Synergies"
-award_year: 2018
+year: 2018
 published: 2018-02-12 12:57:34
 published_gmt: 2018-02-12 12:57:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/02/ank-bijleveld-the-relentless-pursuit-of-synergies/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a6123d6712856e20750367dbcbf8e71e0aedf8c496b48841597a1e5c4e44d962
 canonical: 12383-ank-bijleveld-the-relentless-pursuit-of-synergies.json
 ---

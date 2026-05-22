@@ -1,12 +1,21 @@
 ---
 id: 11491
 title: "The 45ᵗʰ US President In His Own Words"
-award_year: 2017
+year: 2017
 published: 2017-01-20 16:02:02
 published_gmt: 2017-01-20 16:02:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2017/01/the-45%e1%b5%97%ca%b0-us-president-in-his-own-words/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c24694c0f314e2d423f7a5bf92fd629ccf8311d600d36c5979e45fb410f714f6
 canonical: 11491-the-45-e1-b5-97-ca-b0-us-president-in-his-own-words.json
 ---

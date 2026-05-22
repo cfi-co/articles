@@ -1,12 +1,21 @@
 ---
 id: 21251
 title: "Interview with Alexis Lecanuet, Accenture Middle East: Creating Value Through Continuous Transformation"
-award_year: 2021
+year: 2021
 published: 2021-12-02 06:13:10
 published_gmt: 2021-12-02 06:13:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2021/12/interview-with-alexis-lecanuet-accenture-middle-east-creating-value-through-continuous-transformation/"
 categories: ["Middle East", "Special Features"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ce2e7bb33f0913c219d3408f0f709e768029ba1b41cff0aabbcb347910a86960
 canonical: 21251-interview-with-alexis-lecanuet-accenture-middle-east-creating-value-through-cont.json
 ---

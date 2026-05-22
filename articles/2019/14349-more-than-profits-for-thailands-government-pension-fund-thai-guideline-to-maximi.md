@@ -1,12 +1,21 @@
 ---
 id: 14349
 title: "More Than Profits for Thailand’s Government Pension Fund: Thai Guideline to Maximise Returns and  Remain True to Spirit of Responsibility"
-award_year: 2019
+year: 2019
 published: 2019-11-14 09:48:35
 published_gmt: 2019-11-14 09:48:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2019/11/more-than-profits-for-thailands-government-pension-fund-thai-guideline-to-maximise-returns-and-remain-true-to-spirit-of-responsibility/"
 categories: ["Asia Pacific", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9b035afbfe26a4122ec73641a0a01225ed134638060fc3cc8e9856b48b811958
 canonical: 14349-more-than-profits-for-thailands-government-pension-fund-thai-guideline-to-maximi.json
 ---

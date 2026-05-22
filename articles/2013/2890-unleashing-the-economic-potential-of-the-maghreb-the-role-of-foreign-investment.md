@@ -1,12 +1,21 @@
 ---
 id: 2890
 title: "Unleashing the Economic Potential of the Maghreb - the Role of Foreign Investment"
-award_year: 2013
+year: 2013
 published: 2013-01-14 12:16:06
 published_gmt: 2013-01-14 12:16:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/01/unleashing-the-economic-potential-of-the-maghreb-the-role-of-foreign-investment/"
 categories: ["Finance", "Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ad8893c79dccd8996b57d41149d3ce1563f04c27626bee6be54464f391aebda2
 canonical: 2890-unleashing-the-economic-potential-of-the-maghreb-the-role-of-foreign-investment.json
 ---

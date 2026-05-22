@@ -1,12 +1,21 @@
 ---
 id: 26765
 title: "Attitudes Towards Remote Working: Employer vs Employee Perspectives and Economic Implications"
-award_year: 2024
+year: 2024
 published: 2024-04-17 07:31:40
 published_gmt: 2024-04-17 06:31:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2024/04/attitudes-towards-remote-working-employer-vs-employee-perspectives-and-economic-implications/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2492ae9c418d600899e4480ace74bd422984f411441d515bf4554824478226c8
 canonical: 26765-attitudes-towards-remote-working-employer-vs-employee-perspectives-and-economic-.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26725
 title: "Avatar Influencers are Storming Up the Earnings Charts — and Creators Stand to Make Some Healthy Profits"
-award_year: 2024
+year: 2024
 published: 2024-03-13 10:12:36
 published_gmt: 2024-03-13 10:12:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2024/03/avatar-influencers-are-storming-up-the-earnings-charts-and-creators-stand-to-make-some-healthy-profits/"
 categories: ["Brave New World", "Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a4985ae6422f107caf8fa07a0e75970a9795907264fa178eb948a7618766dc7f
 canonical: 26725-avatar-influencers-are-storming-up-the-earnings-charts-and-creators-stand-to-mak.json
 ---

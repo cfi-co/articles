@@ -1,12 +1,21 @@
 ---
 id: 10904
 title: "CFI.co Meets the MD of FrieslandCampina WAMCO: Rahul Colaco"
-award_year: 2016
+year: 2016
 published: 2016-01-21 22:24:42
 published_gmt: 2016-01-21 22:24:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-md-of-frieslandcampina-wamco-rahul-colaco/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dfc68ceb50d7909bc2273bc482d78a71d640721f99803da813d9ebe44b487dba
 canonical: 10904-cfi-co-meets-the-md-of-frieslandcampina-wamco-rahul-colaco.json
 ---

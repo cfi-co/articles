@@ -1,12 +1,21 @@
 ---
 id: 14691
 title: "Business in Times of Corona: Time to Make America Great Again"
-award_year: 2020
+year: 2020
 published: 2020-03-23 16:04:59
 published_gmt: 2020-03-23 16:04:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2020/03/business-in-times-of-corona-time-to-make-america-great-again/"
 categories: ["Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6c3cd67e34cadfa7dd3b47822143b8b358d82ec0a9dd17650b62d4b81a0377cc
 canonical: 14691-business-in-times-of-corona-time-to-make-america-great-again.json
 ---

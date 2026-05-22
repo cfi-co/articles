@@ -1,12 +1,21 @@
 ---
 id: 20977
 title: "Johan Thijs: Proud, Profitable and Prepared for Anything - KBC Weathers the Storm"
-award_year: 2021
+year: 2021
 published: 2021-11-06 16:13:28
 published_gmt: 2021-11-06 16:13:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/johan-thijs-proud-profitable-and-prepared-for-anything-kbc-weathers-the-storm/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 607e3eb0998584d96f47f62207f8f73d33ea77dfe7b76de60eac30f53fa3115a
 canonical: 20977-johan-thijs-proud-profitable-and-prepared-for-anything-kbc-weathers-the-storm.json
 ---

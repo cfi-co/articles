@@ -1,12 +1,21 @@
 ---
 id: 4971
 title: "The Magic Number to Watch in Dubai: 2020"
-award_year: 2013
+year: 2013
 published: 2013-08-12 08:38:17
 published_gmt: 2013-08-12 07:38:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/08/the-magic-number-to-watch-in-dubai-2020/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d4fd6503ea514311750f8c5a086ea902c2f9ac7a33b49598b3750afb20a681bd
 canonical: 4971-the-magic-number-to-watch-in-dubai-2020.json
 ---

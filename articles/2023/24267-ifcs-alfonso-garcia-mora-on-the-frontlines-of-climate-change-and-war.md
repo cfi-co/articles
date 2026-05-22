@@ -1,12 +1,21 @@
 ---
 id: 24267
 title: "IFC’s Alfonso García Mora: On the Frontlines of Climate Change and War"
-award_year: 2023
+year: 2023
 published: 2023-01-02 16:50:16
 published_gmt: 2023-01-02 16:50:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/01/ifcs-alfonso-garcia-mora-on-the-frontlines-of-climate-change-and-war/"
 categories: ["Europe", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c4be9f4a91a5c187f311bdec73239cacce576fb5eebe8145d744b177c30d53e1
 canonical: 24267-ifcs-alfonso-garcia-mora-on-the-frontlines-of-climate-change-and-war.json
 ---

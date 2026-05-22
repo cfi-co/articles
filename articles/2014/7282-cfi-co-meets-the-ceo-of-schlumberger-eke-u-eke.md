@@ -1,12 +1,21 @@
 ---
 id: 7282
 title: "CFI.co Meets the CEO of Schlumberger: Eke U. Eke"
-award_year: 2014
+year: 2014
 published: 2014-01-02 18:33:51
 published_gmt: 2014-01-02 18:33:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/01/cfi-co-meets-the-ceo-of-schlumberger-eke-u-eke/"
 categories: ["Africa", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e5559540edb95dead1f0b25b7cb3f95f27e77c9d663d12db74f86a3ac7733d7a
 canonical: 7282-cfi-co-meets-the-ceo-of-schlumberger-eke-u-eke.json
 ---

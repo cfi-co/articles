@@ -1,12 +1,21 @@
 ---
 id: 11574
 title: "Jury for AIM 2017 IPA Awards Receives Recognition"
-award_year: 2017
+year: 2017
 published: 2017-04-10 13:49:43
 published_gmt: 2017-04-10 12:49:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/4673/2017/04/jury-for-aim-2017-ipa-awards-receives-recognition/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 45bed7fe3bd61cb1bd314c53b3dea7ebcc3e765624b21fdd882de405fc0b6922
 canonical: 11574-jury-for-aim-2017-ipa-awards-receives-recognition.json
 ---

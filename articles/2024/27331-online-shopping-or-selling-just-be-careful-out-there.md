@@ -1,12 +1,21 @@
 ---
 id: 27331
 title: "Online Shopping or Selling? Just be Careful Out There…"
-award_year: 2024
+year: 2024
 published: 2024-11-29 11:27:19
 published_gmt: 2024-11-29 11:27:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2024/11/online-shopping-or-selling-just-be-careful-out-there/"
 categories: ["Lifestyle", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a93b57b142c666a5a85159e60669e3113f37286057df046e2ae01889bb1651db
 canonical: 27331-online-shopping-or-selling-just-be-careful-out-there.json
 ---

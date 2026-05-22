@@ -1,12 +1,21 @@
 ---
 id: 16066
 title: "Sherzod Khodjhaev, Deputy Minister for Energy, Republic of Uzbekistan: Uzbekistan Gets to Grips with Challenges of Responsible Electric Power Generation"
-award_year: 2020
+year: 2020
 published: 2020-05-01 19:15:34
 published_gmt: 2020-05-01 18:15:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/energy/2020/05/sherzod-khodjhaev-deputy-minister-for-energy-republic-of-uzbekistan-uzbekistan-gets-to-grips-with-challenges-of-responsible-electric-power-generation/"
 categories: ["Energy"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 59762d5b353ec603e254016ac90c51a3250e51449ba3129fb0ad1297b5802116
 canonical: 16066-sherzod-khodjhaev-deputy-minister-for-energy-republic-of-uzbekistan-uzbekistan-g.json
 ---

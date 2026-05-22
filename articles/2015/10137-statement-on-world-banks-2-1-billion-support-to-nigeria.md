@@ -1,12 +1,21 @@
 ---
 id: 10137
 title: "Statement on World Bank’s $2.1 Billion Support to Nigeria"
-award_year: 2015
+year: 2015
 published: 2015-07-24 14:35:00
 published_gmt: 2015-07-24 13:35:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/07/statement-on-world-banks-2-1-billion-support-to-nigeria/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 98d14ce4a2cd792fa0382bc932323ced47bff2688218d800b557513e8e71855f
 canonical: 10137-statement-on-world-banks-2-1-billion-support-to-nigeria.json
 ---

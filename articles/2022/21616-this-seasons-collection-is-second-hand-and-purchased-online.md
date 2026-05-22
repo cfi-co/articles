@@ -1,12 +1,21 @@
 ---
 id: 21616
 title: "This Season’s Collection is Second-Hand — and Purchased Online…"
-award_year: 2022
+year: 2022
 published: 2022-03-07 17:55:25
 published_gmt: 2022-03-07 17:55:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/03/this-seasons-collection-is-second-hand-and-purchased-online/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 95afc9281d7679d9a14c28120500df9233bb1ac883a7c3486604cd58597eeaa9
 canonical: 21616-this-seasons-collection-is-second-hand-and-purchased-online.json
 ---

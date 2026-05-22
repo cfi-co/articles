@@ -1,12 +1,21 @@
 ---
 id: 27841
 title: "The Vanishing Vault: Has Digital Banking Closed More Than Just Branches?"
-award_year: 2025
+year: 2025
 published: 2025-08-07 12:50:41
 published_gmt: 2025-08-07 11:50:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2025/08/the-vanishing-vault-has-digital-banking-closed-more-than-just-branches/"
 categories: ["Banking", "Europe", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c744c307a0242f3457840b39a596ab1fb5922090ad1d03256b9336e447cf515b
 canonical: 27841-the-vanishing-vault-has-digital-banking-closed-more-than-just-branches.json
 ---

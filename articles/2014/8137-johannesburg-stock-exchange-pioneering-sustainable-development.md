@@ -1,12 +1,21 @@
 ---
 id: 8137
 title: "Johannesburg Stock Exchange: Pioneering Sustainable Development"
-award_year: 2014
+year: 2014
 published: 2014-10-06 10:46:30
 published_gmt: 2014-10-06 09:46:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/10/johannesburg-stock-exchange-pioneering-sustainable-development/"
 categories: ["Africa", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d249e72bb27a7ed13abf9d3dd7f60e60ec757c27eede12c72b57e7fdf3a3750e
 canonical: 8137-johannesburg-stock-exchange-pioneering-sustainable-development.json
 ---

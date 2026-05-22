@@ -1,12 +1,21 @@
 ---
 id: 10517
 title: "Energy Case Study: Peru"
-award_year: 2015
+year: 2015
 published: 2015-10-13 15:57:07
 published_gmt: 2015-10-13 14:57:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2015/10/energy-case-study-peru/"
 categories: ["Energy", "Latin America", "Oil &amp; Mining", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fafdefd8abdbff98b9040f9b18f829fe66af12295c3b621845542b068062de85
 canonical: 10517-energy-case-study-peru.json
 ---

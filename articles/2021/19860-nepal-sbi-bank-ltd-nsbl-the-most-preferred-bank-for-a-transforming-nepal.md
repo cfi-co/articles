@@ -1,12 +1,21 @@
 ---
 id: 19860
 title: "Nepal SBI Bank Ltd (NSBL): The Most Preferred Bank for a Transforming Nepal"
-award_year: 2021
+year: 2021
 published: 2021-06-16 14:01:28
 published_gmt: 2021-06-16 13:01:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/06/nepal-sbi-bank-ltd-nsbl-the-most-preferred-bank-for-a-transforming-nepal/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c306cc4cba1bb24723b0003629c5fcd7b4c8194bffb752297aeb3c8a02cf1130
 canonical: 19860-nepal-sbi-bank-ltd-nsbl-the-most-preferred-bank-for-a-transforming-nepal.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 7445
 title: "World Bank Group: A Promising New Resource for Development - The Potential of Sovereign Wealth Funds"
-award_year: 2014
+year: 2014
 published: 2014-06-11 14:18:50
 published_gmt: 2014-06-11 13:18:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/06/world-bank-group-a-promising-new-resource-for-development-the-potential-of-sovereign-wealth-funds/"
 categories: ["Banking", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5f66e9c67ae59e4184aaeca6831f4c4c0a70dd0026177bc879da4f4cdf3860a3
 canonical: 7445-world-bank-group-a-promising-new-resource-for-development-the-potential-of-sover.json
 ---

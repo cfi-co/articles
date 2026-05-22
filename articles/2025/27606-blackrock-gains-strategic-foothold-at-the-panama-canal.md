@@ -1,12 +1,21 @@
 ---
 id: 27606
 title: "BlackRock Gains Strategic Foothold at the Panama Canal"
-award_year: 2025
+year: 2025
 published: 2025-03-05 11:32:46
 published_gmt: 2025-03-05 11:32:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/03/blackrock-gains-strategic-foothold-at-the-panama-canal/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7a20ed810dc5471a60a81b49e859ee276fd38bee1b54d0b968accbb04075a8ee
 canonical: 27606-blackrock-gains-strategic-foothold-at-the-panama-canal.json
 ---

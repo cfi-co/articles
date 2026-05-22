@@ -1,12 +1,21 @@
 ---
 id: 19956
 title: "TANQIA: Blueprint for Sustainable Treatment is Blazing Trails in Water-Strapped Region"
-award_year: 2021
+year: 2021
 published: 2021-07-13 13:00:36
 published_gmt: 2021-07-13 12:00:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/tanqia-blueprint-for-sustainable-treatment-is-blazing-trails-in-water-strapped-region/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b7144d56fb7a26b4631569d04f7bf14858b9a65ace983834219b6a683e1593a9
 canonical: 19956-tanqia-blueprint-for-sustainable-treatment-is-blazing-trails-in-water-strapped-r.json
 ---

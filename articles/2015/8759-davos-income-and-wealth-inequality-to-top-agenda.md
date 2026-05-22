@@ -1,12 +1,21 @@
 ---
 id: 8759
 title: "Davos: Income and Wealth Inequality to Top Agenda"
-award_year: 2015
+year: 2015
 published: 2015-01-20 12:32:42
 published_gmt: 2015-01-20 12:32:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/01/davos-income-and-wealth-inequality-to-top-agenda/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5f8412bac07a8a04bed15ad2e7e7d91c004e93e3d5a33430037cabd7ff2498d9
 canonical: 8759-davos-income-and-wealth-inequality-to-top-agenda.json
 ---

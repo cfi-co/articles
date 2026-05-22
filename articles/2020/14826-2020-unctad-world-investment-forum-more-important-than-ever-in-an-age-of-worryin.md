@@ -1,12 +1,21 @@
 ---
 id: 14826
 title: "2020 UNCTAD World Investment Forum: More Important Than Ever in an Age of Worrying Trends"
-award_year: 2020
+year: 2020
 published: 2020-04-03 13:17:55
 published_gmt: 2020-04-03 12:17:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/04/2020-unctad-world-investment-forum-more-important-than-ever-in-an-age-of-worrying-trends/"
 categories: ["Events", "Finance", "Middle East", "WIF"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0b1f702b1b5fe8b16cda6670e3219b198523155b9bf4c3bfc13f18629527dd99
 canonical: 14826-2020-unctad-world-investment-forum-more-important-than-ever-in-an-age-of-worryin.json
 ---

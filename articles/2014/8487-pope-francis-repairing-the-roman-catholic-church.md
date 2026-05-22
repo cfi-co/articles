@@ -1,12 +1,21 @@
 ---
 id: 8487
 title: "Pope Francis: Repairing the Roman Catholic Church"
-award_year: 2014
+year: 2014
 published: 2014-12-05 10:02:41
 published_gmt: 2014-12-05 10:02:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2014/12/pope-francis-repairing-the-roman-catholic-church/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 72292ff4c07ede71f642a944f4a124ccdc52823c044ede80ac0899fb531750db
 canonical: 8487-pope-francis-repairing-the-roman-catholic-church.json
 ---

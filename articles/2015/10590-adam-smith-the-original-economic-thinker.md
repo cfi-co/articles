@@ -1,12 +1,21 @@
 ---
 id: 10590
 title: "Adam Smith: The Original Economic Thinker"
-award_year: 2015
+year: 2015
 published: 2015-10-27 11:49:33
 published_gmt: 2015-10-27 11:49:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2015/10/adam-smith-the-original-economic-thinker/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ee629d6b7ca7fce9ace1aeb2d6f669687ce1cf4a53b2362471b8c707aa3caeef
 canonical: 10590-adam-smith-the-original-economic-thinker.json
 ---

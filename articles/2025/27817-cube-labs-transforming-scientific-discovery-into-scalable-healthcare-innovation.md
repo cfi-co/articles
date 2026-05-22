@@ -1,12 +1,21 @@
 ---
 id: 27817
 title: "Cube Labs: Transforming Scientific Discovery into Scalable Healthcare Innovation"
-award_year: 2025
+year: 2025
 published: 2025-09-01 07:00:38
 published_gmt: 2025-09-01 06:00:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2025/09/cube-labs-transforming-scientific-discovery-into-scalable-healthcare-innovation/"
 categories: ["Corporate", "Europe", "Finance", "Innovation &amp; Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5041421484808cf776d060f67511f66925c3c7657ab17aafd5d7fd73d5386ede
 canonical: 27817-cube-labs-transforming-scientific-discovery-into-scalable-healthcare-innovation.json
 ---

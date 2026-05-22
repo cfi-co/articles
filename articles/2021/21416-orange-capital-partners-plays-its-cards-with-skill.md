@@ -1,12 +1,21 @@
 ---
 id: 21416
 title: "Right Place, Right Time, Right Attitude: Dutch Firm, Orange Capital Partners Plays Its Cards with Skill"
-award_year: 2021
+year: 2021
 published: 2021-12-24 09:55:07
 published_gmt: 2021-12-24 09:55:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/12/orange-capital-partners-plays-its-cards-with-skill/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 012aaca6437245ed5e473b6b6ececff5d45dec04695c0b548a6d97a5dd4abf06
 canonical: 21416-orange-capital-partners-plays-its-cards-with-skill.json
 ---

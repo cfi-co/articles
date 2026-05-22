@@ -1,12 +1,21 @@
 ---
 id: 3326
 title: "Michelle Bachelet and the Right of a Woman to Decide"
-award_year: 2013
+year: 2013
 published: 2013-03-14 19:20:57
 published_gmt: 2013-03-14 19:20:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/03/michelle-bachelet-and-the-right-of-a-woman-to-decide/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 90946cc03d6edc36cf3826ad0c1b716ff5df2f1ea586bc1e46706b25262211c2
 canonical: 3326-michelle-bachelet-and-the-right-of-a-woman-to-decide.json
 ---

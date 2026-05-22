@@ -1,12 +1,21 @@
 ---
 id: 7933
 title: "From Lebanon to Brazil - Joseph Safra"
-award_year: 2014
+year: 2014
 published: 2014-08-28 12:38:48
 published_gmt: 2014-08-28 11:38:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2014/08/from-lebanon-to-brazil-joseph-safra/"
 categories: ["Latin America", "Lifestyle", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 07f776153e02a23ca8f2ae14b6764b12d1fbbe6cb7c6b8a58422502fb765eae4
 canonical: 7933-from-lebanon-to-brazil-joseph-safra.json
 ---

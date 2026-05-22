@@ -1,12 +1,21 @@
 ---
 id: 23811
 title: "ARCA Fondi SGR: Another Year, Another Profit Record"
-award_year: 2022
+year: 2022
 published: 2022-08-01 15:22:41
 published_gmt: 2022-08-01 14:22:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/08/arca-fondi-sgr-another-year-another-profit-record/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b6aeda4d8d564b59932be370dbe1f775d51196f2ca9e356a47a7cb42be3a71c1
 canonical: 23811-arca-fondi-sgr-another-year-another-profit-record.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 9770
 title: "Stealth at the Helm: The Manifest Destiny of Angela Merkel"
-award_year: 2015
+year: 2015
 published: 2015-05-21 13:57:04
 published_gmt: 2015-05-21 12:57:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/05/stealth-at-the-helm-the-manifest-destiny-of-angela-merkel/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c66f0195d611c08b2c045c2bb84d5b8fcff6383a2f1359295414135b7e7110f3
 canonical: 9770-stealth-at-the-helm-the-manifest-destiny-of-angela-merkel.json
 ---

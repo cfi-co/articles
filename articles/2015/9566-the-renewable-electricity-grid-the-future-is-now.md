@@ -1,12 +1,21 @@
 ---
 id: 9566
 title: "The Renewable Electricity Grid: The Future Is Now"
-award_year: 2015
+year: 2015
 published: 2015-03-23 12:45:50
 published_gmt: 2015-03-23 12:45:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2015/03/the-renewable-electricity-grid-the-future-is-now/"
 categories: ["Banking", "Finance", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bceaa7ac00a57c44e7ef47dd222ce50f647898d58247761c27116246822711e5
 canonical: 9566-the-renewable-electricity-grid-the-future-is-now.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 4093
 title: "CFI.co Meets Asad Aziz Ahmed"
-award_year: 2013
+year: 2013
 published: 2013-05-06 12:24:58
 published_gmt: 2013-05-06 11:24:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/05/cfi-co-meets-asad-aziz-ahmed/"
 categories: ["Africa", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b7580dca6cfd528cf25345856df9e183ba214cbf89bccbc5dca0623c3b8ac51b
 canonical: 4093-cfi-co-meets-asad-aziz-ahmed.json
 ---

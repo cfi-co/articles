@@ -1,12 +1,21 @@
 ---
 id: 19109
 title: "Sergi Herrero, Co-CEO of VEON: Product as Mission"
-award_year: 2021
+year: 2021
 published: 2021-03-16 08:06:38
 published_gmt: 2021-03-16 08:06:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/03/sergi-herrero-co-ceo-of-veon-product-as-mission/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ecce4736875f6eaf40e71e3f454a1e8241192e93e4c40dcb02baebe7c2127ed2
 canonical: 19109-sergi-herrero-co-ceo-of-veon-product-as-mission.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 12261
 title: "Preference Pass: Sunny Travel Savings Franchise"
-award_year: 2018
+year: 2018
 published: 2018-02-01 14:22:50
 published_gmt: 2018-02-01 14:22:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2018/02/preference-pass-sunny-travel-savings-franchise/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e2f000f38d01d683b969a89be7004123bed3dae3ad0d718799ad4f7ddf5b1c85
 canonical: 12261-preference-pass-sunny-travel-savings-franchise.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 20348
 title: "World Bank on Sustainable Recovery: The Need for Long-Term Financing"
-award_year: 2021
+year: 2021
 published: 2021-08-11 16:04:21
 published_gmt: 2021-08-11 15:04:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2021/08/world-bank-on-sustainable-recovery-the-need-for-long-term-financing/"
 categories: ["Banking", "Brave New World", "Economics &amp; Convergence", "Europe", "Sustainability", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7444d40a84c451d7de27987ccdbab4874e1c62385a371c6be586fa34233287f1
 canonical: 20348-world-bank-on-sustainable-recovery-the-need-for-long-term-financing.json
 ---

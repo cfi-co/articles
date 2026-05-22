@@ -1,12 +1,21 @@
 ---
 id: 25251
 title: "Identifying Customer Needs and Bringing Credit Services to the Unbanked Citizens of Nigeria"
-award_year: 2023
+year: 2023
 published: 2023-05-04 12:06:16
 published_gmt: 2023-05-04 11:06:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/04/tunde-popoola-group-managing-director-ceo-crc-credit-bureau-limited"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 59bfb76d9d279db6f992dd90d919756071b2f112e8220f3fccdd4c13d4e4735a
 canonical: 25251-identifying-customer-needs-and-bringing-credit-services-to-the-unbanked-citizens.json
 ---

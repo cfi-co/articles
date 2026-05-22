@@ -1,12 +1,21 @@
 ---
 id: 19902
 title: "Pollen Street Capital: Beyond ESG, and Accelerating Progress by  Adding ‘Caring’ to the Priority List"
-award_year: 2021
+year: 2021
 published: 2021-07-13 12:44:45
 published_gmt: 2021-07-13 11:44:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/pollen-street-capital-beyond-esg-and-accelerating-progress-by-adding-caring-to-the-priority-list/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a6d9cd3844c905eeaace0185f9b88984f72134afd5a70215be70ca13ae701d9f
 canonical: 19902-pollen-street-capital-beyond-esg-and-accelerating-progress-by-adding-caring-to-t.json
 ---

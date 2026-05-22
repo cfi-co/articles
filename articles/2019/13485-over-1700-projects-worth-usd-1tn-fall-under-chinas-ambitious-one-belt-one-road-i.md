@@ -1,12 +1,21 @@
 ---
 id: 13485
 title: "Over 1,700 Projects Worth USD 1tn Fall Under China’s Ambitious One Belt, One Road Initiative (OBOR)"
-award_year: 2019
+year: 2019
 published: 2019-04-02 15:18:23
 published_gmt: 2019-04-02 14:18:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2019/04/over-1700-projects-worth-usd-1tn-fall-under-chinas-ambitious-one-belt-one-road-initiative-obor/"
 categories: ["Asia Pacific", "Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6e7776c05a873b88e1e374ce58f55c15e63cb9aaee8c8c9727fee2c971d29cb6
 canonical: 13485-over-1700-projects-worth-usd-1tn-fall-under-chinas-ambitious-one-belt-one-road-i.json
 ---

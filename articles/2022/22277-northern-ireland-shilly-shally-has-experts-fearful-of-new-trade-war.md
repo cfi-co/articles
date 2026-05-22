@@ -1,12 +1,21 @@
 ---
 id: 22277
 title: "Northern Ireland Shilly-Shally has Experts Fearful of New Trade War"
-award_year: 2022
+year: 2022
 published: 2022-06-20 14:31:04
 published_gmt: 2022-06-20 13:31:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/06/northern-ireland-shilly-shally-has-experts-fearful-of-new-trade-war/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 024c2c859a959175189f1dff0ba81641009e45d7a3b23ca38e91d3f24355b49f
 canonical: 22277-northern-ireland-shilly-shally-has-experts-fearful-of-new-trade-war.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21181
 title: "Swiss Precision, African Spirit: Brahms Group's Daouda Fall has Found the Perfect Balance"
-award_year: 2021
+year: 2021
 published: 2021-11-22 10:37:15
 published_gmt: 2021-11-22 10:37:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/swiss-precision-african-spirit-with-ceo-daouda-fall-brahms-group-has-found-the-perfect-balance/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 027315cd31684303272c1c47f0486d3b5446add83479db3fbe2b9650d873bf23
 canonical: 21181-swiss-precision-african-spirit-brahms-groups-daouda-fall-has-found-the-perfect-b.json
 ---

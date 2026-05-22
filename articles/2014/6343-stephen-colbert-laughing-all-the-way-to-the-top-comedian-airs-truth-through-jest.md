@@ -1,12 +1,21 @@
 ---
 id: 6343
 title: "Stephen Colbert: Laughing All the Way to the Top - Comedian Airs Truth through Jest"
-award_year: 2014
+year: 2014
 published: 2014-01-09 12:53:29
 published_gmt: 2014-01-09 12:53:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2014/01/stephen-colbert-laughing-all-the-way-to-the-top-comedian-airs-truth-through-jest/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ffca145c70332f0791e2ce61ae65338553a7ea052dec5f41edb1dd99f0a41456
 canonical: 6343-stephen-colbert-laughing-all-the-way-to-the-top-comedian-airs-truth-through-jest.json
 ---

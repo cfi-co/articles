@@ -1,12 +1,21 @@
 ---
 id: 22450
 title: "Add a Swoosh, Some Sweat, and Serious Business Nous — You have Victory on Your Side"
-award_year: 2022
+year: 2022
 published: 2022-07-26 14:12:32
 published_gmt: 2022-07-26 13:12:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/07/nike-founder-phil-knight-a-swoosh-and-business-nous-for-victory/"
 categories: ["Corporate", "Lifestyle", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fdb1e73a6e7bea78d8c96558fad642315656bf060f10ce2effb7116bf6f7a61e
 canonical: 22450-nike-founder-phil-knight-a-swoosh-and-business-nous-for-victory.json
 ---

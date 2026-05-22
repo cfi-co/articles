@@ -1,12 +1,21 @@
 ---
 id: 293
 title: "The Transformation of Africa's ICT Market"
-award_year: 2012
+year: 2012
 published: 2012-05-08 14:25:57
 published_gmt: 2012-05-08 13:25:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/05/africas-transformation-and-challenges/"
 categories: ["Africa", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8b50c166145d0aabe98453205ed6e8c6eb744d162d682fc2afc9d2f299e32e24
 canonical: 293-africas-transformation-and-challenges.json
 ---

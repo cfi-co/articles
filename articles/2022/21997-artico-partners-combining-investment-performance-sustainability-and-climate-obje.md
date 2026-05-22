@@ -1,12 +1,21 @@
 ---
 id: 21997
 title: "ARTICO Partners: Combining Investment Performance, Sustainability and Climate Objectives"
-award_year: 2022
+year: 2022
 published: 2022-05-19 10:54:24
 published_gmt: 2022-05-19 09:54:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/artico-partners-combining-investment-performance-sustainability-and-climate-objectives/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 65e57811c72b3d6a67c11f66838033294a64d39c3e4533caf3fea28ed950fada
 canonical: 21997-artico-partners-combining-investment-performance-sustainability-and-climate-obje.json
 ---

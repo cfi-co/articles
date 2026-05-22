@@ -1,12 +1,21 @@
 ---
 id: 5678
 title: "European Investment Bank: “Vienna Initiative” Keeps Credit Flowing"
-award_year: 2013
+year: 2013
 published: 2013-10-29 12:10:06
 published_gmt: 2013-10-29 12:10:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/10/european-investment-bank-vienna-initiative-keeps-credit-flowing/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e3fa5a657860f8938feba2b99eb7be7aaf4084736b656a1297f6c13dc9f5306b
 canonical: 5678-european-investment-bank-vienna-initiative-keeps-credit-flowing.json
 ---

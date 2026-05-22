@@ -1,12 +1,21 @@
 ---
 id: 26701
 title: "BBE’s CEO & MD Victor van der Kwast: AI is Certainly Coming to Banking Sector — It’s All About Integration"
-award_year: 2024
+year: 2024
 published: 2024-02-22 16:43:43
 published_gmt: 2024-02-22 16:43:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/02/bbes-ceo-md-victor-van-der-kwast-ai-is-certainly-coming-to-banking-sector-its-all-about-integration/"
 categories: ["Banking", "CFI.co Meets", "Corporate Leaders", "Europe"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 16b99b63954a5c1490888c6929591841b19ddb035fd7e5a5a218429bab826db5
 canonical: 26701-bbes-ceo-md-victor-van-der-kwast-ai-is-certainly-coming-to-banking-sector-its-al.json
 ---

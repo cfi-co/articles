@@ -1,12 +1,21 @@
 ---
 id: 617
 title: "Colombia Comes Together to Overcome Its Past"
-award_year: 2012
+year: 2012
 published: 2012-05-23 17:18:11
 published_gmt: 2012-05-23 16:18:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2012/05/colombia-comes-together-to-overcome-its-past/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6f04e90453ce5220e9ba1f71bd598ea3a699b30593e95a8640bcfddcb12a0b22
 canonical: 617-colombia-comes-together-to-overcome-its-past.json
 ---

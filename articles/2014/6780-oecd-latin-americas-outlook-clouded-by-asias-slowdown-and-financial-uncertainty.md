@@ -1,12 +1,21 @@
 ---
 id: 6780
 title: "OECD: Latin America’s Outlook Clouded by Asia’s Slowdown and Financial Uncertainty"
-award_year: 2014
+year: 2014
 published: 2014-03-11 13:12:07
 published_gmt: 2014-03-11 13:12:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/03/oecd-latin-americas-outlook-clouded-by-asias-slowdown-and-financial-uncertainty/"
 categories: ["Asia Pacific", "Finance", "Latin America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d85e1300d48518ec47a4737db24541fa217e5738040e323c7031777c591353d1
 canonical: 6780-oecd-latin-americas-outlook-clouded-by-asias-slowdown-and-financial-uncertainty.json
 ---

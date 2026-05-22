@@ -1,12 +1,21 @@
 ---
 id: 21435
 title: "No Gloating on First Anniversary of DC Riots: Misguided Republican Anger at a Beneficial Electoral System"
-award_year: 2022
+year: 2022
 published: 2022-01-09 09:21:20
 published_gmt: 2022-01-09 09:21:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/01/no-gloating-on-first-anniversary-of-dc-riots-misguided-republican-anger-at-a-beneficial-electoral-system/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b32ce2c77c4fdd13035475a1a27b416503ef460ef97f3ced2c559ad78a607283
 canonical: 21435-no-gloating-on-first-anniversary-of-dc-riots-misguided-republican-anger-at-a-ben.json
 ---

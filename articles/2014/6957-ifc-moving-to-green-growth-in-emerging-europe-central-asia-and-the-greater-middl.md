@@ -1,12 +1,21 @@
 ---
 id: 6957
 title: "IFC: Moving to Green Growth in Emerging Europe, Central Asia and the Greater Middle East"
-award_year: 2014
+year: 2014
 published: 2014-04-11 12:26:55
 published_gmt: 2014-04-11 11:26:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/04/ifc-moving-to-green-growth-in-emerging-europe-central-asia-and-the-greater-middle-east/"
 categories: ["Asia Pacific", "Europe", "Middle East", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9a22e6fa773f4577c5df228d68aa0025c51165fa6f1b313c10bdeb47264f5669
 canonical: 6957-ifc-moving-to-green-growth-in-emerging-europe-central-asia-and-the-greater-middl.json
 ---

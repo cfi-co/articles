@@ -1,12 +1,21 @@
 ---
 id: 12029
 title: "Waldemar Januszczak: Art for the Millions"
-award_year: 2017
+year: 2017
 published: 2017-11-22 09:57:06
 published_gmt: 2017-11-22 09:57:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2017/11/waldemar-januszczak-art-for-the-millions/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 23894506a8f552ea62b6ef3a4ed6c2285fcd5ef8e5653669c442c0c23ed306fd
 canonical: 12029-waldemar-januszczak-art-for-the-millions.json
 ---

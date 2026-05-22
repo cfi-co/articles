@@ -1,12 +1,21 @@
 ---
 id: 20273
 title: "UAE’s International Human Fraternity Virtual Summit Successfully Concluded"
-award_year: 2021
+year: 2021
 published: 2021-02-07 11:46:15
 published_gmt: 2021-02-07 11:46:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/events/2021/02/uaes-international-human-fraternity-virtual-summit-successfully-concluded/"
 categories: ["Events"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 61ed9beb07d2d40c2a7c41cea7d25170f3e0ee28be4b360a99cb10284f99a490
 canonical: 20273-uaes-international-human-fraternity-virtual-summit-successfully-concluded.json
 ---

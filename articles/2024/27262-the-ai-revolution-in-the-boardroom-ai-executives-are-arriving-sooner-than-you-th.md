@@ -1,12 +1,21 @@
 ---
 id: 27262
 title: "The AI Revolution in the Boardroom: AI Executives are Arriving Sooner Than You Think"
-award_year: 2024
+year: 2024
 published: 2024-11-07 14:49:04
 published_gmt: 2024-11-07 14:49:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2024/11/the-ai-revolution-in-the-boardroom-ai-executives-are-arriving-sooner-than-you-think/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 142edf7449a7c74da454bad48dcc9cb780743920ed0af1b4666ac2e2966f17fa
 canonical: 27262-the-ai-revolution-in-the-boardroom-ai-executives-are-arriving-sooner-than-you-th.json
 ---

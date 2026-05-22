@@ -1,12 +1,21 @@
 ---
 id: 20362
 title: "In Conversation with Eduard van Gelderen, CIO at PSP Investments: Connecting to What Matters"
-award_year: 2021
+year: 2021
 published: 2021-08-12 14:14:20
 published_gmt: 2021-08-12 13:14:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/in-conversation-with-eduard-van-gelderen-cio-at-psp-investments-connecting-to-what-matters/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 137748ed5d50ca3dd8d8f3c66fc358129c2bea6b5313d38cd11736d33c07d793
 canonical: 20362-in-conversation-with-eduard-van-gelderen-cio-at-psp-investments-connecting-to-wh.json
 ---

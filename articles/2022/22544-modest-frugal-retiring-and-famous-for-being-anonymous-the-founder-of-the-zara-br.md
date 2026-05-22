@@ -1,12 +1,21 @@
 ---
 id: 22544
 title: "Modest, Frugal, Retiring, and Famous for Being Anonymous: the Founder of Zara, Amancio Ortega"
-award_year: 2022
+year: 2022
 published: 2022-08-01 13:22:02
 published_gmt: 2022-08-01 12:22:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2022/08/modest-frugal-retiring-and-famous-for-being-anonymous-the-founder-of-the-zara-brand/"
 categories: ["Corporate", "Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7ff5a66538809772016781b47050ff41563774a8bf48f97247de3164118ba47f
 canonical: 22544-modest-frugal-retiring-and-famous-for-being-anonymous-the-founder-of-the-zara-br.json
 ---

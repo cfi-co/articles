@@ -1,12 +1,21 @@
 ---
 id: 2823
 title: "Poland Welcomes Migrant Workers"
-award_year: 2012
+year: 2012
 published: 2012-12-24 12:26:29
 published_gmt: 2012-12-24 12:26:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2012/12/poland-welcomes-migrant-workers/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fffcbc0fe6f093800174f74b2d01f9a05f97cb2bb7bc466638df22875985a306
 canonical: 2823-poland-welcomes-migrant-workers.json
 ---

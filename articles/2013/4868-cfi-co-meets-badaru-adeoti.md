@@ -1,12 +1,21 @@
 ---
 id: 4868
 title: "CFI.co Meets Badaru Adeoti"
-award_year: 2013
+year: 2013
 published: 2013-07-02 11:54:07
 published_gmt: 2013-07-02 10:54:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/07/cfi-co-meets-badaru-adeoti/"
 categories: ["Africa", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c041c55655809ab81b1133f50c73f5a04bfa214f396667d4027b934791aee83c
 canonical: 4868-cfi-co-meets-badaru-adeoti.json
 ---

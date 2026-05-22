@@ -1,12 +1,21 @@
 ---
 id: 27517
 title: "The Midas Touch: Physical Gold vs Gold Shares"
-award_year: 2025
+year: 2025
 published: 2025-01-24 11:28:57
 published_gmt: 2025-01-24 11:28:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/01/the-midas-touch-physical-gold-vs-gold-shares/"
 categories: ["Finance", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a1f7f6836694068e91c0d7960d47efee0fdeda142a4330d3eec7b75bb4d545ee
 canonical: 27517-the-midas-touch-physical-gold-vs-gold-shares.json
 ---

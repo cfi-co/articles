@@ -1,12 +1,21 @@
 ---
 id: 24192
 title: "Nazca: Meet the Team Keeping Entrepreneurs on Track"
-award_year: 2022
+year: 2022
 published: 2022-12-16 16:43:26
 published_gmt: 2022-12-16 16:43:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/12/nazca-meet-the-team-keeping-entrepreneurs-on-track/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b49194afa0768abf2baa0c16c5dbb149bd6ccbe5d3c7500088c79a5a512e1804
 canonical: 24192-nazca-meet-the-team-keeping-entrepreneurs-on-track.json
 ---

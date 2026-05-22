@@ -1,12 +1,21 @@
 ---
 id: 10128
 title: "Dianne Feinstein: Keeping the Eavesdroppers in Check"
-award_year: 2015
+year: 2015
 published: 2015-07-20 15:12:37
 published_gmt: 2015-07-20 14:12:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2015/07/dianne-feinstein-keeping-the-eavesdroppers-in-check/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 96c585a708833b0e7415f988e245e0640b35a73089f6733ee0141139b2910464
 canonical: 10128-dianne-feinstein-keeping-the-eavesdroppers-in-check.json
 ---

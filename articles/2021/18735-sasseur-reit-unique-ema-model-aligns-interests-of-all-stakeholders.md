@@ -1,12 +1,21 @@
 ---
 id: 18735
 title: "Sasseur REIT: Unique EMA Model Aligns Interests of All Stakeholders"
-award_year: 2021
+year: 2021
 published: 2021-02-10 11:59:11
 published_gmt: 2021-02-10 11:59:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/sasseur-reit-unique-ema-model-aligns-interests-of-all-stakeholders/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7551827eae95938558fe1526526ddecec7a866d1d967b4d16f3c67e1d3517981
 canonical: 18735-sasseur-reit-unique-ema-model-aligns-interests-of-all-stakeholders.json
 ---

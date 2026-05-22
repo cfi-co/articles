@@ -1,12 +1,21 @@
 ---
 id: 22183
 title: "What You Need to Know About Stockholm+50"
-award_year: 2022
+year: 2022
 published: 2022-06-01 16:08:51
 published_gmt: 2022-06-01 15:08:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/06/what-you-need-to-know-about-stockholm50/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3d2ead9c9fc199b830708384b28418790985b9d181cfda0a2950ecf60e1f6369
 canonical: 22183-what-you-need-to-know-about-stockholm50.json
 ---

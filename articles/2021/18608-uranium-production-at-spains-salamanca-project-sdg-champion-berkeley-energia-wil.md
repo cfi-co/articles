@@ -1,12 +1,21 @@
 ---
 id: 18608
 title: "Uranium Production at Spain’s Salamanca Project: SDG Champion Berkeley Energia Will Create Jobs, New Skills and Prosperity"
-award_year: 2021
+year: 2021
 published: 2021-02-04 15:16:08
 published_gmt: 2021-02-04 15:16:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/uranium-production-at-spains-salamanca-project-sdg-champion-berkeley-energia-will-create-jobs-new-skills-and-prosperity/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f87c4c469c0b565b9a1d2bc3a5012bf6935efe30008dd3f5b62187d09d5032b8
 canonical: 18608-uranium-production-at-spains-salamanca-project-sdg-champion-berkeley-energia-wil.json
 ---

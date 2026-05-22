@@ -1,12 +1,21 @@
 ---
 id: 18535
 title: "Lord Waverley: A New Chapter for the UK and a Meeting Place for the World"
-award_year: 2021
+year: 2021
 published: 2021-01-29 08:00:42
 published_gmt: 2021-01-29 08:00:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2021/01/lord-waverley-a-new-chapter-for-the-uk-and-a-meeting-place-for-the-world/"
 categories: ["Columnists", "Europe"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d9f985719c645de84351334be416d5f9e31bc7142ce0b78e8b4d5bbc089cb283
 canonical: 18535-lord-waverley-a-new-chapter-for-the-uk-and-a-meeting-place-for-the-world.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26407
 title: "Keeping Pace With Client Needs, Staying Ahead of the Market, and Driving Custodian Bank Evolution"
-award_year: 2023
+year: 2023
 published: 2023-11-15 14:57:45
 published_gmt: 2023-11-15 14:57:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2023/11/bank-one-keeping-pace-with-client-needs-staying-ahead-of-the-market-and-driving-custodian-bank-evolution/"
 categories: ["Africa", "Banking", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 35ec96d50753d90d09f14cef63a15a33bcc85d889a58e92cfefdd0a4b180b27a
 canonical: 26407-keeping-pace-with-client-needs-staying-ahead-of-the-market-and-driving-custodian.json
 ---

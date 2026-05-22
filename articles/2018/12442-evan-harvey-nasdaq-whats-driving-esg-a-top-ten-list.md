@@ -1,12 +1,21 @@
 ---
 id: 12442
 title: "Evan Harvey, Nasdaq: What’s Driving ESG? A Top Ten List"
-award_year: 2018
+year: 2018
 published: 2018-04-19 16:12:16
 published_gmt: 2018-04-19 15:12:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2018/04/evan-harvey-nasdaq-whats-driving-esg-a-top-ten-list/"
 categories: ["CSR", "Columnists", "North America", "Sustainability"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 51cf8ae05e1dbeaf1ea4611d3fd73c28b3538cfab17fefcc7b68434f2e140383
 canonical: 12442-evan-harvey-nasdaq-whats-driving-esg-a-top-ten-list.json
 ---

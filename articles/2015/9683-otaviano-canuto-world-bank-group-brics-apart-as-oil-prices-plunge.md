@@ -1,12 +1,21 @@
 ---
 id: 9683
 title: "Otaviano Canuto, World Bank Group: BRICS Apart as  Oil Prices Plunge"
-award_year: 2015
+year: 2015
 published: 2015-04-27 14:02:39
 published_gmt: 2015-04-27 13:02:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/04/otaviano-canuto-world-bank-group-brics-apart-as-oil-prices-plunge/"
 categories: ["Africa", "Asia Pacific", "Finance", "Latin America", "Middle East", "North America", "Oil &amp; Mining", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d8e7a458edc35de2fa4ffa55ff30df8dc277f9158c73b9357cbe8d6986c708b8
 canonical: 9683-otaviano-canuto-world-bank-group-brics-apart-as-oil-prices-plunge.json
 ---

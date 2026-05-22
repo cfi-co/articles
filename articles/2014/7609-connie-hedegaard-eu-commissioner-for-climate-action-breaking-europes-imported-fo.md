@@ -1,12 +1,21 @@
 ---
 id: 7609
 title: "Connie Hedegaard, EU Commissioner for Climate Action: Breaking Europe’s Imported Fossil Fuels Addiction"
-award_year: 2014
+year: 2014
 published: 2014-07-14 13:05:02
 published_gmt: 2014-07-14 12:05:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/07/connie-hedegaard-eu-commissioner-for-climate-action-breaking-europes-imported-fossil-fuels-addiction/"
 categories: ["Europe", "Oil &amp; Mining", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 69c97405c9208cdf3dc6f9cb37a590aea88cca94b5884df8cfab8fb6e7034b94
 canonical: 7609-connie-hedegaard-eu-commissioner-for-climate-action-breaking-europes-imported-fo.json
 ---

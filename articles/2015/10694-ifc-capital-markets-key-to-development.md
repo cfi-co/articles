@@ -1,12 +1,21 @@
 ---
 id: 10694
 title: "IFC: Capital Markets Key to Development"
-award_year: 2015
+year: 2015
 published: 2015-12-07 13:23:20
 published_gmt: 2015-12-07 13:23:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/12/ifc-capital-markets-key-to-development/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Markets", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 54cd7e410a5780e37b874b59b24b2dc7d38ad1a51de1fb4114671941436d9ae8
 canonical: 10694-ifc-capital-markets-key-to-development.json
 ---

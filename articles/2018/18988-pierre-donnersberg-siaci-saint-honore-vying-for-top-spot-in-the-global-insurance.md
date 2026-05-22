@@ -1,12 +1,21 @@
 ---
 id: 18988
 title: "SIACI Saint Honore's Pierre Donnersberg: Vying for a Top Spot in the Global Insurance Market"
-award_year: 2018
+year: 2018
 published: 2018-03-05 17:07:01
 published_gmt: 2018-03-05 17:07:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2018/03/pierre-donnersberg-siaci-saint-honore-vying-for-top-spot-in-the-global-insurance-market/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e1d6f66f15b784199ca017cd62cae8775539a5f2a0980759d22c7a9c65d49380
 canonical: 18988-pierre-donnersberg-siaci-saint-honore-vying-for-top-spot-in-the-global-insurance.json
 ---

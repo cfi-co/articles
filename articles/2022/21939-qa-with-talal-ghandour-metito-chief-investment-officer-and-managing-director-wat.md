@@ -1,12 +1,21 @@
 ---
 id: 21939
 title: "Q&A with Talal Ghandour, Metito Chief Investment Officer and Managing Director: Water, Water, Everywhere? Not Always True, but Metito Strives to Ensure Clean and Safe Supply"
-award_year: 2022
+year: 2022
 published: 2022-05-18 07:25:46
 published_gmt: 2022-05-18 06:25:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/qa-with-talal-ghandour-metito-chief-investment-officer-and-managing-director-water-water-everywhere-not-always-true-but-metito-strives-to-ensure-clean-and-safe-supply/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4fff31b2da2cba5a631d748ddeef8c330d2e27fdb3b11a592bcbcc85b9a2666b
 canonical: 21939-qa-with-talal-ghandour-metito-chief-investment-officer-and-managing-director-wat.json
 ---

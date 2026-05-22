@@ -1,12 +1,21 @@
 ---
 id: 10185
 title: "The Local Climate Adaptive Living Facility (LoCAL) of UNCDF: Climate Change Impacts on Natural and Human Systems"
-award_year: 2018
+year: 2018
 published: 2018-02-10 10:03:29
 published_gmt: 2018-02-10 10:03:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2018/02/the-local-climate-adaptive-living-facility-local-of-uncdf-climate-change-impacts-on-natural-and-human-systems/"
 categories: ["Africa", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0b222969326fe18ef001814db3ec7e5c4745a82e40f29521dcbe185af82c7267
 canonical: 10185-the-local-climate-adaptive-living-facility-local-of-uncdf-climate-change-impacts.json
 ---

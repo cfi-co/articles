@@ -1,12 +1,21 @@
 ---
 id: 19403
 title: "Mackenzie Scott: Giving Wealth Away"
-award_year: 2021
+year: 2021
 published: 2021-04-02 11:42:37
 published_gmt: 2021-04-02 10:42:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2021/04/mackenzie-scott-giving-wealth-away/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8544d99563cebf75ed2d6d83145c3debc811f9a2a33c38f0f7a4559c92e83996
 canonical: 19403-mackenzie-scott-giving-wealth-away.json
 ---

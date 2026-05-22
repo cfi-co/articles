@@ -1,12 +1,21 @@
 ---
 id: 23207
 title: "Born for Business, Ready for Any Challenge: Dan Gilbert’s Life has Taken Many Turns"
-award_year: 2022
+year: 2022
 published: 2022-08-26 17:07:49
 published_gmt: 2022-08-26 16:07:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/08/dan-gilbert-born-for-business-ready-for-any-challenge"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 84fd9e9a946243293e14de56675eaa94ba38bfbdaf6857004bb59747468aec30
 canonical: 23207-dan-gilbert-born-for-business-ready-for-any-challenge.json
 ---

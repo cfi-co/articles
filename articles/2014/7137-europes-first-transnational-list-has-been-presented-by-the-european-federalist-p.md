@@ -1,12 +1,21 @@
 ---
 id: 7137
 title: "Europe's First Transnational List has been Presented by the European Federalist Party"
-award_year: 2014
+year: 2014
 published: 2014-05-07 15:40:30
 published_gmt: 2014-05-07 14:40:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/05/europes-first-transnational-list-has-been-presented-by-the-european-federalist-party/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cec950cf206048567e742f503819613f0c23d0fb9a4b96dc3b1a6be55f78886f
 canonical: 7137-europes-first-transnational-list-has-been-presented-by-the-european-federalist-p.json
 ---

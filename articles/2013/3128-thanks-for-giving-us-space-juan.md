@@ -1,12 +1,21 @@
 ---
 id: 3128
 title: "Thanks for giving us Space, Juan"
-award_year: 2013
+year: 2013
 published: 2013-02-25 14:25:07
 published_gmt: 2013-02-25 14:25:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2013/02/thanks-for-giving-us-space-juan/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 07957c6c063ba8f306d374ff022518ee2797fef808385472fbe8bfbd10d67c12
 canonical: 3128-thanks-for-giving-us-space-juan.json
 ---

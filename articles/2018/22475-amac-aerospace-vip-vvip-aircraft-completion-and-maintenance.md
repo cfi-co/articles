@@ -1,12 +1,21 @@
 ---
 id: 22475
 title: "AMAC Aerospace: VIP / VVIP Aircraft Completion and Maintenance"
-award_year: 2018
+year: 2018
 published: 2018-07-27 12:54:14
 published_gmt: 2018-07-27 11:54:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2018/07/amac-aerospace-vip-vvip-aircraft-completion-and-maintenance/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b83da82f7f01c51d3b3a0114d3b0b9d2274f1c11178689abbdb4ff11778c51e0
 canonical: 22475-amac-aerospace-vip-vvip-aircraft-completion-and-maintenance.json
 ---

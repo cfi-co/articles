@@ -1,12 +1,21 @@
 ---
 id: 13283
 title: "Book Review by Kenneth Rogoff: Crash Time"
-award_year: 2019
+year: 2019
 published: 2019-01-01 09:06:50
 published_gmt: 2019-01-01 09:06:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2019/01/book-review-by-kenneth-rogoff-crash-time/"
 categories: ["Europe", "Lifestyle", "Reviews"]
+content_class: review
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bb783376d23fe6993fcccf18513235ff65dea69a148a5f48ccb78ee0e5c2c88d
 canonical: 13283-book-review-by-kenneth-rogoff-crash-time.json
 ---

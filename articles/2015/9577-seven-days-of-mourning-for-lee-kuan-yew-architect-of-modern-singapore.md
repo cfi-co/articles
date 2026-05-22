@@ -1,12 +1,21 @@
 ---
 id: 9577
 title: "Seven Days of Mourning for Lee Kuan Yew, Architect of Modern Singapore"
-award_year: 2015
+year: 2015
 published: 2015-03-24 10:50:08
 published_gmt: 2015-03-24 10:50:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/03/seven-days-of-mourning-for-lee-kuan-yew-architect-of-modern-singapore/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 35b989d8917d9b401f73e97fec87c3b54a97c667544894db92db9eafb05d1e39
 canonical: 9577-seven-days-of-mourning-for-lee-kuan-yew-architect-of-modern-singapore.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 17816
 title: "President Trump Silenced by Major Networks"
-award_year: 2020
+year: 2020
 published: 2020-11-06 13:42:50
 published_gmt: 2020-11-06 13:42:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/11/president-trump-silenced-by-major-networks/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 95d5fd85e0bb2ee0fa2650b7dd0e9d30f7efbf4695b17725ef9cc844c4dc9403
 canonical: 17816-president-trump-silenced-by-major-networks.json
 ---

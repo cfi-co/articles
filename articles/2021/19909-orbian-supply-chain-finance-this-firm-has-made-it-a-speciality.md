@@ -1,12 +1,21 @@
 ---
 id: 19909
 title: "ORBIAN: Supply Chain Finance? This Firm has Made It a Speciality"
-award_year: 2021
+year: 2021
 published: 2021-07-13 12:43:16
 published_gmt: 2021-07-13 11:43:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/orbian-supply-chain-finance-this-firm-has-made-it-a-speciality/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 875c26a7e991d0c8abf824c8d6a0bd3bd2fe8ba68ebd1cbaf4a1789c5c30fc47
 canonical: 19909-orbian-supply-chain-finance-this-firm-has-made-it-a-speciality.json
 ---

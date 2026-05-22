@@ -1,12 +1,21 @@
 ---
 id: 19261
 title: "Otaviano Canuto: Middle-Income Countries Should Not Be Rushed to ‘Graduate’ Status"
-award_year: 2021
+year: 2021
 published: 2021-03-23 08:35:15
 published_gmt: 2021-03-23 08:35:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2021/03/otaviano-canuto-middle-income-countries-should-not-be-rushed-to-graduate-status/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c1b4642669da6a93e9ecc12220a73f618cefde6edd19f206e4e136ce01a96ba7
 canonical: 19261-otaviano-canuto-middle-income-countries-should-not-be-rushed-to-graduate-status.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 16708
 title: "Jabra: Good Sounds, Sound Ethics and Fine Design"
-award_year: 2020
+year: 2020
 published: 2020-08-20 13:04:52
 published_gmt: 2020-08-20 12:04:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/08/jabra-good-sounds-sound-ethics-and-fine-design/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 76d0be28202adab27e4ffbc399ccd76430440c13a73cf7bb5220d448d691731d
 canonical: 16708-jabra-good-sounds-sound-ethics-and-fine-design.json
 ---

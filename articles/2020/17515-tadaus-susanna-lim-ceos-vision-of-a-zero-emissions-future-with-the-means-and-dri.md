@@ -1,12 +1,21 @@
 ---
 id: 17515
 title: "Tadau's Susanna Lim: CEO’s Vision of a Zero-emissions Future, with the Means and Drive to Achieve It"
-award_year: 2020
+year: 2020
 published: 2020-01-25 13:08:00
 published_gmt: 2020-01-25 13:08:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2020/01/tadaus-susanna-lim-ceos-vision-of-a-zero-emissions-future-with-the-means-and-drive-to-achieve-it/"
 categories: ["Asia Pacific", "Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 62426c5881c5a4de3bbc03b3a774dc564516304dbe5a848b7b7d1a5d4b79adf4
 canonical: 17515-tadaus-susanna-lim-ceos-vision-of-a-zero-emissions-future-with-the-means-and-dri.json
 ---

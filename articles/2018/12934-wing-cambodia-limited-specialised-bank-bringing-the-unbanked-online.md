@@ -1,12 +1,21 @@
 ---
 id: 12934
 title: "Wing (Cambodia) Limited Specialised Bank: Bringing the Unbanked Online"
-award_year: 2018
+year: 2018
 published: 2018-08-27 14:55:13
 published_gmt: 2018-08-27 13:55:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2018/08/wing-cambodia-limited-specialised-bank-bringing-the-unbanked-online/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 62a7215ada650473ba8a404636f28e5fc2476d21b4fd0dc7fb6de4616d647c35
 canonical: 12934-wing-cambodia-limited-specialised-bank-bringing-the-unbanked-online.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 11340
 title: "Venezuela: As the Economy Sinks, Bond Markets Take Heart"
-award_year: 2016
+year: 2016
 published: 2016-09-06 16:11:40
 published_gmt: 2016-09-06 15:11:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2016/09/venezuela-economy-sinks-bond-markets-take-heart/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 496d0c06f3b47a8ed8555a8ffc997a2e7bb7a4bcb366daedd44704694e754a70
 canonical: 11340-venezuela-economy-sinks-bond-markets-take-heart.json
 ---

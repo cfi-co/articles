@@ -1,12 +1,21 @@
 ---
 id: 26733
 title: "Get Your Motor Running — and Dial the Time Machine Back a Few Decades to Find Perfection"
-award_year: 2024
+year: 2024
 published: 2024-03-22 09:55:15
 published_gmt: 2024-03-22 09:55:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2024/03/get-your-motor-running-and-dial-the-time-machine-back-a-few-decades-to-find-perfection/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 06aa09324625e70593fec29ab460426cd7f7cca7c2d8250e29828a1787dc0e1a
 canonical: 26733-get-your-motor-running-and-dial-the-time-machine-back-a-few-decades-to-find-perf.json
 ---

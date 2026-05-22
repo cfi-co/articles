@@ -1,12 +1,21 @@
 ---
 id: 28071
 title: "Driving Digital Transformation: Nepal SBI Bank Leads Nepal’s Banking Revolution"
-award_year: 2025
+year: 2025
 published: 2025-11-11 16:44:09
 published_gmt: 2025-11-11 16:44:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2025/11/driving-digital-transformation-nepal-sbi-bank-leads-nepals-banking-revolution/"
 categories: ["Asia Pacific", "Banking", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9694e978e7a4b8ef20fffa594b22f27397294b94fcac0117abc70e12e3f1d68f
 canonical: 28071-driving-digital-transformation-nepal-sbi-bank-leads-nepals-banking-revolution.json
 ---

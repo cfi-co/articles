@@ -1,12 +1,21 @@
 ---
 id: 17402
 title: "SG Finans AS: Financing Green Revolution to Keep the World Turning"
-award_year: 2020
+year: 2020
 published: 2020-01-05 11:07:17
 published_gmt: 2020-01-05 11:07:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/01/sg-finans-as-financing-green-revolution-to-keep-the-world-turning/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7d009272f98c7ce86e28e8fe7ea30cbd3581a79abcde57bdf5c8a586d501200b
 canonical: 17402-sg-finans-as-financing-green-revolution-to-keep-the-world-turning.json
 ---

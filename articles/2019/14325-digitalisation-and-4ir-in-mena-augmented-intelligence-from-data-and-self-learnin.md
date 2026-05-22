@@ -1,12 +1,21 @@
 ---
 id: 14325
 title: "Digitalisation and 4IR in MENA: Augmented Intelligence from Data and Self-Learning"
-award_year: 2019
+year: 2019
 published: 2019-10-30 14:17:39
 published_gmt: 2019-10-30 14:17:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2019/10/digitalisation-and-4ir-in-mena-augmented-intelligence-from-data-and-self-learning/"
 categories: ["Middle East", "Projects", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1466d074df25141448b7a1e588048f502b3450f64a8d7fcf22c8788a28d9f7e2
 canonical: 14325-digitalisation-and-4ir-in-mena-augmented-intelligence-from-data-and-self-learnin.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 28352
 title: "The Ultimate Investment Pitch: How to Win Funding on Conviction, Not Cash"
-award_year: 2026
+year: 2026
 published: 2026-03-16 11:36:47
 published_gmt: 2026-03-16 11:36:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2026/03/the-ultimate-investment-pitch-how-to-win-funding-on-conviction-not-cash/"
 categories: ["Finance", "Start-Ups"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 88571aecbd543aa1e513605d74474dfc43d9235c3b23764615d566966dcb2b4e
 canonical: 28352-the-ultimate-investment-pitch-how-to-win-funding-on-conviction-not-cash.json
 ---

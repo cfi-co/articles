@@ -1,12 +1,21 @@
 ---
 id: 11100
 title: "Building Stronger Governance and Compliance Foundations in Sub-Saharan Africa"
-award_year: 2016
+year: 2016
 published: 2016-04-15 10:42:03
 published_gmt: 2016-04-15 09:42:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2016/04/building-stronger-governance-compliance-foundations-sub-saharan-africa/"
 categories: ["Africa", "Banking", "Governance &amp; Legal", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2928c055c9f0fe71f90a0a104bc05eb27e5c2d495bde3317d761fa1562da2815
 canonical: 11100-building-stronger-governance-compliance-foundations-sub-saharan-africa.json
 ---

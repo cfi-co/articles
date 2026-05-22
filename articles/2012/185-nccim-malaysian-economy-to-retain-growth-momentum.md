@@ -1,12 +1,21 @@
 ---
 id: 185
 title: "NCCIM: Malaysian Economy to Retain Growth Momentum"
-award_year: 2012
+year: 2012
 published: 2012-02-27 14:17:15
 published_gmt: 2012-02-27 14:17:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2012/02/nccim-malaysian-economy-to-retain-growth-momentum/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1a501709babf2416e8114f9556346ca093229feadbd0eac27ead28483a70addb
 canonical: 185-nccim-malaysian-economy-to-retain-growth-momentum.json
 ---

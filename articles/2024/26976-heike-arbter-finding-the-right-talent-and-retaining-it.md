@@ -1,12 +1,21 @@
 ---
 id: 26976
 title: "Heike Arbter: Finding the Right Talent — and Retaining It"
-award_year: 2024
+year: 2024
 published: 2024-08-06 10:45:30
 published_gmt: 2024-08-06 09:45:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2024/08/heike-arbter-finding-the-right-talent-and-retaining-it/"
 categories: ["Corporate Leaders", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 54de90f7ba5d90bbdf69032df8f81718697b305f649f12a7e964bdaa03e8100c
 canonical: 26976-heike-arbter-finding-the-right-talent-and-retaining-it.json
 ---

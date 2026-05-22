@@ -1,12 +1,21 @@
 ---
 id: 8456
 title: "Partnering to Support Uganda’s Roads PPP Program"
-award_year: 2014
+year: 2014
 published: 2014-11-28 15:45:56
 published_gmt: 2014-11-28 15:45:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/11/partnering-to-support-ugandas-roads-ppp-program/"
 categories: ["Africa", "Finance", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 517126f9f60e4031a80600905b313dcc7bf147e904c6381a5b03be9da0492109
 canonical: 8456-partnering-to-support-ugandas-roads-ppp-program.json
 ---

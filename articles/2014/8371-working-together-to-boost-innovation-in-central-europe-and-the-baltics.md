@@ -1,12 +1,21 @@
 ---
 id: 8371
 title: "Working Together to Boost Innovation in Central Europe and the Baltics"
-award_year: 2014
+year: 2014
 published: 2014-11-11 13:35:49
 published_gmt: 2014-11-11 13:35:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/11/working-together-to-boost-innovation-in-central-europe-and-the-baltics/"
 categories: ["Europe", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 30a977d01b5e4986467ed34ae8c2184fb23623e8d27b14641530f5d8db70bcb3
 canonical: 8371-working-together-to-boost-innovation-in-central-europe-and-the-baltics.json
 ---

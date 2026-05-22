@@ -1,12 +1,21 @@
 ---
 id: 24704
 title: "JPMorgan Chase CEO Jamie Dimon warns of heightened economic risks"
-award_year: 2023
+year: 2023
 published: 2023-02-03 14:26:21
 published_gmt: 2023-02-03 14:26:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2023/02/jpmorgan-chase-ceo-jamie-dimon-warns-of-heightened-economic-risks/"
 categories: ["Banking", "Finance &amp; People"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b1961fcfc9b4dfaf57aa1ceb6f6fb67c559fc108c84aa0365c1ad36f5b174d7c
 canonical: 24704-jpmorgan-chase-ceo-jamie-dimon-warns-of-heightened-economic-risks.json
 ---

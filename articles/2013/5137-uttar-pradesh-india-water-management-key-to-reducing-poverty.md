@@ -1,12 +1,21 @@
 ---
 id: 5137
 title: "Uttar Pradesh, India: Water Management Key to Reducing Poverty"
-award_year: 2013
+year: 2013
 published: 2013-09-02 10:55:26
 published_gmt: 2013-09-02 09:55:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/09/uttar-pradesh-india-water-management-key-to-reducing-poverty/"
 categories: ["Asia Pacific", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8cdfcc1a0496fb4f5467e6eb79953da4a179ad59f46d96d42f8c42bf45fcfcfd
 canonical: 5137-uttar-pradesh-india-water-management-key-to-reducing-poverty.json
 ---

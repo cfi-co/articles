@@ -1,12 +1,21 @@
 ---
 id: 18389
 title: "The Two Sides of Capital Flows into Brazil"
-award_year: 2020
+year: 2020
 published: 2020-12-23 11:37:45
 published_gmt: 2020-12-23 11:37:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2020/12/the-two-sides-of-capital-flows-into-brazil/"
 categories: ["Banking", "Columnists", "Finance", "Latin America"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e6857ef0f71967e9b60916d75c1e756ee24871f62b3df80a64a834521bf5f805
 canonical: 18389-the-two-sides-of-capital-flows-into-brazil.json
 ---

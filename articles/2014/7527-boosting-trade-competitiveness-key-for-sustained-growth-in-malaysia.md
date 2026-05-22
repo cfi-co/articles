@@ -1,12 +1,21 @@
 ---
 id: 7527
 title: "Boosting Trade Competitiveness Key for Sustained Growth in Malaysia"
-award_year: 2014
+year: 2014
 published: 2014-06-30 11:08:53
 published_gmt: 2014-06-30 10:08:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/06/boosting-trade-competitiveness-key-for-sustained-growth-in-malaysia/"
 categories: ["Asia Pacific", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c67a23220ab660695436fd0df9699ab263245c73ea6d46b216571f5105f46771
 canonical: 7527-boosting-trade-competitiveness-key-for-sustained-growth-in-malaysia.json
 ---

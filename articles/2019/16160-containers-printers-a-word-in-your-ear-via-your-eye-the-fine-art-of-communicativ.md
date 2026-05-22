@@ -1,12 +1,21 @@
 ---
 id: 16160
 title: "Containers Printers: A Word in Your Ear… via Your Eye! The Fine Art of Communicative Packaging"
-award_year: 2019
+year: 2019
 published: 2019-10-03 14:56:42
 published_gmt: 2019-10-03 13:56:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/10/containers-printers-a-word-in-your-ear-via-your-eye-the-fine-art-of-communicative-packaging/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a424fc7f8a4781864e4193d993c21e7880eb46aa7385728414acb8a718c83dba
 canonical: 16160-containers-printers-a-word-in-your-ear-via-your-eye-the-fine-art-of-communicativ.json
 ---

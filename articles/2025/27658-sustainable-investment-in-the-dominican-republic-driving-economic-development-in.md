@@ -1,12 +1,21 @@
 ---
 id: 27658
 title: "Sustainable Investment in the Dominican Republic: Driving Economic Development in the Caribbean"
-award_year: 2025
+year: 2025
 published: 2025-03-28 14:06:46
 published_gmt: 2025-03-28 14:06:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2025/03/sustainable-investment-in-the-dominican-republic-driving-economic-development-in-the-caribbean/"
 categories: ["Corporate", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a949bf193be6de8662d1a8a8a48d9abe58b9d8d87a911ae20f5a76d65b2d07df
 canonical: 27658-sustainable-investment-in-the-dominican-republic-driving-economic-development-in.json
 ---

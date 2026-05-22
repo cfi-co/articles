@@ -1,12 +1,21 @@
 ---
 id: 26958
 title: "Friendly by Name, Supportive and Creative by Nature: This Mutual is True to its Mission and Core Values"
-award_year: 2024
+year: 2024
 published: 2024-07-24 11:18:50
 published_gmt: 2024-07-24 10:18:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/07/friendly-by-name-supportive-and-creative-by-nature-this-mutual-is-true-to-its-mission-and-core-values/"
 categories: ["Banking", "Europe", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9f6b3a1e6634024f427d9f7383f4b71d4faff86ae1c04a734fa28a4b8584440f
 canonical: 26958-friendly-by-name-supportive-and-creative-by-nature-this-mutual-is-true-to-its-mi.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 11335
 title: "UNCTAD: A Policy Compact to Get Investment Flowing Again"
-award_year: 2016
+year: 2016
 published: 2016-08-30 16:07:05
 published_gmt: 2016-08-30 15:07:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2016/08/unctad-policy-compact-get-investment-flowing/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Latin America", "Middle East", "North America", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3c1a33fec93da91f24d6f66b84b16355f48c70b96f44018ace7212b8b791d9a0
 canonical: 11335-unctad-policy-compact-get-investment-flowing.json
 ---

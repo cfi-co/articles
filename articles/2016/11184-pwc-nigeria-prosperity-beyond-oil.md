@@ -1,12 +1,21 @@
 ---
 id: 11184
 title: "PwC: Nigeria - Prosperity Beyond Oil"
-award_year: 2016
+year: 2016
 published: 2016-05-11 13:23:22
 published_gmt: 2016-05-11 12:23:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/oil-and-mining/2016/05/pwc-nigeria-prosperity-beyond-oil/"
 categories: ["Africa", "Finance", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 97b735566bf7b6bf64806e0d15d467340d0abd0a2ab453482db161da6aab0bde
 canonical: 11184-pwc-nigeria-prosperity-beyond-oil.json
 ---

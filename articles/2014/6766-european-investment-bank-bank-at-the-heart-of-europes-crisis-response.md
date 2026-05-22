@@ -1,12 +1,21 @@
 ---
 id: 6766
 title: "European Investment Bank: Bank at the Heart of Europe’s Crisis Response"
-award_year: 2014
+year: 2014
 published: 2014-03-07 12:05:39
 published_gmt: 2014-03-07 12:05:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/03/european-investment-bank-bank-at-the-heart-of-europes-crisis-response/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bf14ba332a60d19b7e58d2838dcddf780afcffbdbb24e48315cec0349b61e483
 canonical: 6766-european-investment-bank-bank-at-the-heart-of-europes-crisis-response.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 4644
 title: "World Bank: Efforts for Better Land Governance in Africa"
-award_year: 2013
+year: 2013
 published: 2013-07-25 09:00:02
 published_gmt: 2013-07-25 08:00:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/07/world-bank-efforts-for-better-land-governance-in-africa/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9e31889d99372583762369bc30929440a674418970a378fe28466e472bca944c
 canonical: 4644-world-bank-efforts-for-better-land-governance-in-africa.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 13075
 title: "Maserati on Value Creation: Trident Badge and a Heady Rumble Mean Business, On the Road and In the Showroom"
-award_year: 2018
+year: 2018
 published: 2018-10-17 17:34:55
 published_gmt: 2018-10-17 16:34:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2018/10/maserati-on-value-creation-trident-badge-and-a-heady-rumble-mean-business-on-the-road-and-in-the-showroom/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 994f4ef1ecaf4623805f8fb6c68683791d66de206a19651cadc617629468cd33
 canonical: 13075-maserati-on-value-creation-trident-badge-and-a-heady-rumble-mean-business-on-the.json
 ---

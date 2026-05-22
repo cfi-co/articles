@@ -1,12 +1,21 @@
 ---
 id: 5311
 title: "European Commission Confirms Billions Lost in VAT Gap"
-award_year: 2013
+year: 2013
 published: 2013-09-20 11:11:28
 published_gmt: 2013-09-20 10:11:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/09/european-commission-confirms-billions-lost-in-vat-gap/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c99d6121220c70367fc232df8aeae9483b44eebf303809037e0445696cd359b2
 canonical: 5311-european-commission-confirms-billions-lost-in-vat-gap.json
 ---

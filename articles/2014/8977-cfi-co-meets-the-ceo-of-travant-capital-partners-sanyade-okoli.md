@@ -1,12 +1,21 @@
 ---
 id: 8977
 title: "CFI.co Meets the CEO of Travant Capital Partners: Sanyade Okoli"
-award_year: 2014
+year: 2014
 published: 2014-07-08 12:24:09
 published_gmt: 2014-07-08 11:24:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/07/cfi-co-meets-the-ceo-of-travant-capital-partners-sanyade-okoli/"
 categories: ["Africa", "Corporate Leaders", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e817bb25919e6099cd0d3f9c6504ce75d8248d088fcdfa2565b00b709cbbf66c
 canonical: 8977-cfi-co-meets-the-ceo-of-travant-capital-partners-sanyade-okoli.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 16029
 title: "First Qatar: A Development Company Casting Pearls on Doha’s Golden Beaches"
-award_year: 2020
+year: 2020
 published: 2020-05-01 17:12:16
 published_gmt: 2020-05-01 16:12:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/05/first-qatar-a-development-company-casting-pearls-on-dohas-golden-beaches/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ba916f5ac2a27f48f6b63657d818add97fc0ac1726f214e6cdf018a10e2b5d34
 canonical: 16029-first-qatar-a-development-company-casting-pearls-on-dohas-golden-beaches.json
 ---

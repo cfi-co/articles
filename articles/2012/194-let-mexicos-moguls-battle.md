@@ -1,12 +1,21 @@
 ---
 id: 194
 title: "Let Mexico’s Moguls Battle"
-award_year: 2012
+year: 2012
 published: 2012-02-06 14:23:08
 published_gmt: 2012-02-06 14:23:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2012/02/let-mexicos-moguls-battle/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b27ad54186f339933950939d6244c48635fe3c5fa44984e7a5997a80e082e0c5
 canonical: 194-let-mexicos-moguls-battle.json
 ---

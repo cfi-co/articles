@@ -1,12 +1,21 @@
 ---
 id: 7635
 title: "From Croatia to Chile – The Luksic Family: From the World’s Driest Desert to the Forbes List"
-award_year: 2014
+year: 2014
 published: 2014-07-17 10:20:38
 published_gmt: 2014-07-17 09:20:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/07/from-croatia-to-chile-the-luksic-family-from-the-worlds-driest-desert-to-the-forbes-list/"
 categories: ["Europe", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7e587c8386c23408c6fbde1e60039db2c13de67bf1457170e16b19fa5418f3bd
 canonical: 7635-from-croatia-to-chile-the-luksic-family-from-the-worlds-driest-desert-to-the-for.json
 ---

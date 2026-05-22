@@ -1,12 +1,21 @@
 ---
 id: 4842
 title: "Doomsayers Enjoying a Field Day with Deutsche Bank"
-award_year: 2013
+year: 2013
 published: 2013-08-02 09:55:17
 published_gmt: 2013-08-02 08:55:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/08/doomsayers-enjoying-a-field-day-with-deutsche-bank/"
 categories: ["Banking", "Europe", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7f289f1ef7720d6e728e77dc65d331c32224f8de594eff74175e6a759c0b593f
 canonical: 4842-doomsayers-enjoying-a-field-day-with-deutsche-bank.json
 ---

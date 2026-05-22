@@ -1,12 +1,21 @@
 ---
 id: 19883
 title: "Robin Mann: Taking the Path Less Travelled, Relishing Challenge and Change"
-award_year: 2021
+year: 2021
 published: 2021-07-12 17:03:54
 published_gmt: 2021-07-12 16:03:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/robin-mann-taking-the-path-less-travelled-relishing-challenge-and-change/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f4bbb35dd7dac3402ee924383bfc4637ab31759b8fb16b04cf9c7ec69d884ea4
 canonical: 19883-robin-mann-taking-the-path-less-travelled-relishing-challenge-and-change.json
 ---

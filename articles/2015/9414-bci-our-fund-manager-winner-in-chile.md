@@ -1,12 +1,21 @@
 ---
 id: 9414
 title: "<br>BCI: Our Fund Manager Winner in Chile"
-award_year: 2015
+year: 2015
 published: 2015-03-01 14:22:43
 published_gmt: 2015-03-01 14:22:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8378959bf883d70a3be3406c4b6c0caaed260b9b23e51059970c78c94b7f3491
 canonical: 9414-bci-our-fund-manager-winner-in-chile.json
 ---

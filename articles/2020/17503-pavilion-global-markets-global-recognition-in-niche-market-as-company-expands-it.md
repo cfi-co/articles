@@ -1,12 +1,21 @@
 ---
 id: 17503
 title: "Pavilion Global Markets: Global Recognition in Niche Market as Company Expands its Horizons"
-award_year: 2020
+year: 2020
 published: 2020-01-08 12:58:00
 published_gmt: 2020-01-08 12:58:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/01/pavilion-global-markets-global-recognition-in-niche-market-as-company-expands-its-horizons/"
 categories: ["CFI.co Meets", "Corporate", "Corporate Leaders"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 577f44b744d3c9b60913336084fc47f5485eadf797713292f55e9bea2aa46540
 canonical: 17503-pavilion-global-markets-global-recognition-in-niche-market-as-company-expands-it.json
 ---

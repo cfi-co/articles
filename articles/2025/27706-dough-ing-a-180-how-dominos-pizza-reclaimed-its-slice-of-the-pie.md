@@ -1,12 +1,21 @@
 ---
 id: 27706
 title: "Dough-ing a 180: How Domino’s Pizza Reclaimed Its Slice of the Pie"
-award_year: 2025
+year: 2025
 published: 2025-05-06 08:22:42
 published_gmt: 2025-05-06 07:22:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2025/05/dough-ing-a-180-how-dominos-pizza-reclaimed-its-slice-of-the-pie/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c8e6be1e011e4b38c0ebdb0fbd36f93be5b5648c9949b3f975049152287b404c
 canonical: 27706-dough-ing-a-180-how-dominos-pizza-reclaimed-its-slice-of-the-pie.json
 ---

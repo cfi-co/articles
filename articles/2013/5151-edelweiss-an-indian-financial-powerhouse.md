@@ -1,12 +1,21 @@
 ---
 id: 5151
 title: "Edelweiss – An Indian Financial Powerhouse"
-award_year: 2013
+year: 2013
 published: 2013-07-12 09:05:27
 published_gmt: 2013-07-12 08:05:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/07/edelweiss-an-indian-financial-powerhouse/"
 categories: ["Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 37d2f720748a742b535fa85af484ee1006424ffe900ef3094dac6d865071debd
 canonical: 5151-edelweiss-an-indian-financial-powerhouse.json
 ---

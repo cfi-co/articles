@@ -1,12 +1,21 @@
 ---
 id: 27133
 title: "Literally Centuries of Experience and Expertise Behind This Bank"
-award_year: 2024
+year: 2024
 published: 2024-09-25 17:11:26
 published_gmt: 2024-09-25 16:11:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/09/berenberg-literally-centuries-of-experience-and-expertise-behind-this-bank/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fc347da659af02018c2953ef4a4baa1c1f78553321109b4b4e4bc2f10314ba10
 canonical: 27133-berenberg-literally-centuries-of-experience-and-expertise-behind-this-bank.json
 ---

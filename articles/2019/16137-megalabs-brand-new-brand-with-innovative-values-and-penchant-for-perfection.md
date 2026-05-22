@@ -1,12 +1,21 @@
 ---
 id: 16137
 title: "Megalabs: Brand-new Brand with Innovative Values and Penchant for Perfection"
-award_year: 2019
+year: 2019
 published: 2019-10-03 14:29:59
 published_gmt: 2019-10-03 13:29:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/10/megalabs-brand-new-brand-with-innovative-values-and-penchant-for-perfection/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 711ad9fb7fcb38eb5d4ce1472adfa080c1c4a0b2be0fc16959f69b5813bf1247
 canonical: 16137-megalabs-brand-new-brand-with-innovative-values-and-penchant-for-perfection.json
 ---

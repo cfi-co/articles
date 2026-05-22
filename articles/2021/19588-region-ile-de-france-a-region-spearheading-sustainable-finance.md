@@ -1,12 +1,21 @@
 ---
 id: 19588
 title: "Région Île-de-France: A Region Spearheading Sustainable Finance"
-award_year: 2021
+year: 2021
 published: 2021-04-29 10:47:49
 published_gmt: 2021-04-29 09:47:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/04/region-ile-de-france-a-region-spearheading-sustainable-finance/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 20c30be887f69427b71a36ddfe447494fe51c5f74857cd6e7cf1a30973e8c32a
 canonical: 19588-region-ile-de-france-a-region-spearheading-sustainable-finance.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8833
 title: "Stephen Heintz: Getting the Rockefellers Out of Oil"
-award_year: 2015
+year: 2015
 published: 2015-01-29 10:43:36
 published_gmt: 2015-01-29 10:43:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2015/01/stephen-heintz-getting-the-rockefellers-out-of-oil/"
 categories: ["North America", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5db843f6892da571750ed33e75262239689e268cd4e0c2f91860bb1aff37ce9d
 canonical: 8833-stephen-heintz-getting-the-rockefellers-out-of-oil.json
 ---

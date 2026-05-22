@@ -1,12 +1,21 @@
 ---
 id: 9330
 title: "<br><br>Julius Bär Group: Best Private Bank Switzerland"
-award_year: 2015
+year: 2015
 published: 2015-03-01 15:17:25
 published_gmt: 2015-03-01 15:17:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3ea4a641f6954386e59a01eaff8db66c22b5820e80546c05fc95fdfb13098551
 canonical: 9330-julius-bar-group-best-private-bank-switzerland.json
 ---

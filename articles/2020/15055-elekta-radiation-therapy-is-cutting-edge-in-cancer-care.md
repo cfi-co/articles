@@ -1,12 +1,21 @@
 ---
 id: 15055
 title: "Real Cutting Edge in Cancer Care is Centred on Radiation Therapy"
-award_year: 2020
+year: 2020
 published: 2020-04-28 14:30:49
 published_gmt: 2020-04-28 13:30:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/04/elekta-radiation-therapy-is-cutting-edge-in-cancer-care/"
 categories: ["Europe", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 88d85b069d65909c6d1bb28d72ab0a5aa0709d97d458b706a9b6053612cc5ae1
 canonical: 15055-elekta-radiation-therapy-is-cutting-edge-in-cancer-care.json
 ---

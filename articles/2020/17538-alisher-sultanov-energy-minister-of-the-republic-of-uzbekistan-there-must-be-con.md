@@ -1,12 +1,21 @@
 ---
 id: 17538
 title: "Alisher Sultanov, Energy Minister of the Republic of Uzbekistan: There Must Be Conservation and Cooling in Uzbekistan"
-award_year: 2020
+year: 2020
 published: 2020-02-01 13:19:40
 published_gmt: 2020-02-01 13:19:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/02/alisher-sultanov-energy-minister-of-the-republic-of-uzbekistan-there-must-be-conservation-and-cooling-in-uzbekistan/"
 categories: ["Corporate Leaders", "Energy"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c22830ca4e7168e21a5728d34d1c384bb86f8c2fde04e8ed043d413cecc91b16
 canonical: 17538-alisher-sultanov-energy-minister-of-the-republic-of-uzbekistan-there-must-be-con.json
 ---

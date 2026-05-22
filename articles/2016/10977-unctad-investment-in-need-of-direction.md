@@ -1,12 +1,21 @@
 ---
 id: 10977
 title: "James Zhan, UNCTAD: Investment - In Need of Direction"
-award_year: 2016
+year: 2016
 published: 2016-02-09 12:29:30
 published_gmt: 2016-02-09 12:29:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2016/02/unctad-investment-in-need-of-direction/"
 categories: ["Banking &amp; Finance", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6a6e417c91d6cfd5217baec49f7226cd4909a7fbf41760d74c07db1256108839
 canonical: 10977-unctad-investment-in-need-of-direction.json
 ---

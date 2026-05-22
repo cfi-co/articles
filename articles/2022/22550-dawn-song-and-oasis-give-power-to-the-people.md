@@ -1,12 +1,21 @@
 ---
 id: 22550
 title: "Dawn of a New Age in Data Control: Oasis Gives Power to the People"
-award_year: 2022
+year: 2022
 published: 2022-08-01 16:30:00
 published_gmt: 2022-08-01 15:30:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2022/08/dawn-song-and-oasis-give-power-to-the-people/"
 categories: ["Banking &amp; Finance", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7e58e343d816ba4c9c21b251664e2898b7ceb80ab61c33c4d7a3debf73f03e69
 canonical: 22550-dawn-song-and-oasis-give-power-to-the-people.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 15889
 title: "World Bank Vice President for Europe and Central Asia: Interview with Anna Bjerde"
-award_year: 2020
+year: 2020
 published: 2020-07-01 11:48:11
 published_gmt: 2020-07-01 10:48:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2020/07/world-bank-vice-president-for-europe-and-central-asia-interview-with-anna-bjerde/"
 categories: ["Asia Pacific", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 07e3d003a6e305f103adff2b853b9a70313da7c4c422299b43e9a38560b5b1ad
 canonical: 15889-world-bank-vice-president-for-europe-and-central-asia-interview-with-anna-bjerde.json
 ---

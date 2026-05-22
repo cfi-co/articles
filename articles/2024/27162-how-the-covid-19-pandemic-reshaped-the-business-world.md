@@ -1,12 +1,21 @@
 ---
 id: 27162
 title: "How the Covid-19 Pandemic Reshaped the Business World"
-award_year: 2024
+year: 2024
 published: 2024-09-24 12:18:32
 published_gmt: 2024-09-24 11:18:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2024/09/how-the-covid-19-pandemic-reshaped-the-business-world/"
 categories: ["Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 95eca141f4b2250fec26e348bfb40ba6cc8acd40c1c20b488ce8b70e256a525c
 canonical: 27162-how-the-covid-19-pandemic-reshaped-the-business-world.json
 ---

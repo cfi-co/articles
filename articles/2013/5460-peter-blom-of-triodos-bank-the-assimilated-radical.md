@@ -1,12 +1,21 @@
 ---
 id: 5460
 title: "Peter Blom of Triodos Bank: The Assimilated Radical"
-award_year: 2013
+year: 2013
 published: 2013-10-11 10:14:35
 published_gmt: 2013-10-11 09:14:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/10/peter-blom-of-triodos-bank-the-assimilated-radical/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d0c67f3a94322c8b71b7f856153f72a1ce4fc16cdc6330757893e5907a618ed0
 canonical: 5460-peter-blom-of-triodos-bank-the-assimilated-radical.json
 ---

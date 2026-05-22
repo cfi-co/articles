@@ -1,12 +1,21 @@
 ---
 id: 15620
 title: "BlueRock: It’s All About the Team — and This Team is All About Excellence and Dedication"
-award_year: 2020
+year: 2020
 published: 2020-06-11 16:59:22
 published_gmt: 2020-06-11 15:59:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/06/its-all-about-the-team-and-this-team-is-all-about-excellence-and-dedication/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d39dcec554b7537f2f966c33f58475a7874a60b7d036501e68e195d0944ccfd2
 canonical: 15620-its-all-about-the-team-and-this-team-is-all-about-excellence-and-dedication.json
 ---

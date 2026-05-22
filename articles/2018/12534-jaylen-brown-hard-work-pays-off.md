@@ -1,12 +1,21 @@
 ---
 id: 12534
 title: "Jaylen Brown: Hard Work Pays Off"
-award_year: 2018
+year: 2018
 published: 2018-07-12 12:57:24
 published_gmt: 2018-07-12 11:57:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/07/jaylen-brown-hard-work-pays-off/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9dbd4027d2216fa866e15284fa2c49e72fab2270351b9044bb807fb861ad0205
 canonical: 12534-jaylen-brown-hard-work-pays-off.json
 ---

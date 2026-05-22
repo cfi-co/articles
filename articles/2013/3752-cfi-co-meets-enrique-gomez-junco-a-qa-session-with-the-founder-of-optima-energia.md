@@ -1,12 +1,21 @@
 ---
 id: 3752
 title: "CFI.co Meets Enrique Gómez Junco: A Q&A Session with the Founder of Optima Energia, Mexico"
-award_year: 2013
+year: 2013
 published: 2013-04-26 16:35:13
 published_gmt: 2013-04-26 16:35:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2013/04/cfi-co-meets-enrique-gomez-junco-a-qa-session-with-the-founder-of-optima-energia-mexico/"
 categories: ["Corporate Leaders", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a5073a2e3c39b5da94d1e7dabdafa2e68c22ea3e3c5674f8c0f69f8bc2b4c2b5
 canonical: 3752-cfi-co-meets-enrique-gomez-junco-a-qa-session-with-the-founder-of-optima-energia.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 2940
 title: "Tough Operator: Dr. Ngozi Okonjo-Iweala"
-award_year: 2012
+year: 2012
 published: 2012-12-14 13:59:45
 published_gmt: 2012-12-14 13:59:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2012/12/tough-operator-dr-ngozi-okonjo-iweala/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 01f5c1c804cb56c9b7c64e0bd05932420632e1e32daa1854c015429978a4bc26
 canonical: 2940-tough-operator-dr-ngozi-okonjo-iweala.json
 ---

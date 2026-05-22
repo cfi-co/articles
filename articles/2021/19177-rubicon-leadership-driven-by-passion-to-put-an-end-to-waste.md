@@ -1,12 +1,21 @@
 ---
 id: 19177
 title: "Rubicon Leadership Driven by Passion to Put an End to Waste"
-award_year: 2021
+year: 2021
 published: 2021-03-17 16:56:20
 published_gmt: 2021-03-17 16:56:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/03/rubicon-leadership-driven-by-passion-to-put-an-end-to-waste/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4d5196fc8a54bfe03738bda80b0f5512021f75062cbfbbc4e3ec048408851a84
 canonical: 19177-rubicon-leadership-driven-by-passion-to-put-an-end-to-waste.json
 ---

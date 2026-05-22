@@ -1,12 +1,21 @@
 ---
 id: 26691
 title: "Banco Société Générale Moçambique: Established, Respected, Clear on Priorities, and Transparent in All its Dealings"
-award_year: 2024
+year: 2024
 published: 2024-02-21 11:12:58
 published_gmt: 2024-02-21 11:12:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/02/banco-societe-generale-mocambique-established-respected-clear-on-priorities-and-transparent-in-all-its-dealings/"
 categories: ["Africa", "Banking"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: df03bf80f03011d13cd580538d47cf56d73238f3cb252375127a35f451d062d9
 canonical: 26691-banco-societe-generale-mocambique-established-respected-clear-on-priorities-and-.json
 ---

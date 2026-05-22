@@ -1,12 +1,21 @@
 ---
 id: 4688
 title: "Hero Kapila: Remembering Darfur"
-award_year: 2013
+year: 2013
 published: 2013-07-31 14:12:25
 published_gmt: 2013-07-31 13:12:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/07/hero-kapila-remembering-darfur/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2e26f86cbc7c42056d549d6535a8cb7a01f9d2a739d4ae50153fbb9c2cb0501e
 canonical: 4688-hero-kapila-remembering-darfur.json
 ---

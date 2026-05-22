@@ -1,12 +1,21 @@
 ---
 id: 28169
 title: "The Cost Curve That Is Squeezing Coal and Gas"
-award_year: 2025
+year: 2025
 published: 2025-12-29 13:12:39
 published_gmt: 2025-12-29 13:12:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2025/12/the-cost-curve-that-is-squeezing-coal-and-gas/"
 categories: ["Asia Pacific", "North America", "Oil &amp; Mining", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: da3297414b884fb34cea8f7c96d8ff8534b1de529aed821a5217ddf707b26596
 canonical: 28169-the-cost-curve-that-is-squeezing-coal-and-gas.json
 ---

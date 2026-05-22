@@ -1,12 +1,21 @@
 ---
 id: 10972
 title: "FrieslandCampina WAMCO: Every Nigerian Deserves Healthy Nutrition"
-award_year: 2016
+year: 2016
 published: 2016-02-04 11:52:17
 published_gmt: 2016-02-04 11:52:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2016/02/frieslandcampina-wamco-every-nigerian-deserves-healthy-nutrition/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f3af4d6468740e84f6aa8daa394d58d1bf8b761156f93fffb2a1cb7e93e24407
 canonical: 10972-frieslandcampina-wamco-every-nigerian-deserves-healthy-nutrition.json
 ---

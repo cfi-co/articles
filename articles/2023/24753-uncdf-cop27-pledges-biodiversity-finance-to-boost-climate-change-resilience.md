@@ -1,12 +1,21 @@
 ---
 id: 24753
 title: "UNCDF: COP27 Pledges Biodiversity Finance to Boost Climate-Change Resilience"
-award_year: 2023
+year: 2023
 published: 2023-02-14 10:52:17
 published_gmt: 2023-02-14 10:52:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2023/02/uncdf-cop27-pledges-biodiversity-finance-to-boost-climate-change-resilience/"
 categories: ["Events", "Middle East", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bc577325f831ee62e6fe187e9de51108b3f124eec94432e2dc43a803e74aa415
 canonical: 24753-uncdf-cop27-pledges-biodiversity-finance-to-boost-climate-change-resilience.json
 ---

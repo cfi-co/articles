@@ -1,12 +1,21 @@
 ---
 id: 12329
 title: "FMO: Unlocking Scale Potential of  Green Bonds in India - Lessons from Global Markets"
-award_year: 2018
+year: 2018
 published: 2018-02-16 12:32:15
 published_gmt: 2018-02-16 12:32:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2018/02/fmo-unlocking-scale-potential-of-green-bonds-in-india-lessons-from-global-markets/"
 categories: ["Asia Pacific", "Banking", "Banking &amp; Finance", "Europe", "Finance", "Markets", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7d3f62e0c549127190438be443d01d73e761aa5653cf9c7fca0d7e0fc96498b8
 canonical: 12329-fmo-unlocking-scale-potential-of-green-bonds-in-india-lessons-from-global-market.json
 ---

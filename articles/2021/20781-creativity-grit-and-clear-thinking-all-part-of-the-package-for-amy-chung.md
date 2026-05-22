@@ -1,12 +1,21 @@
 ---
 id: 20781
 title: "Creativity, Grit and Clear Thinking: All Part of the Package for Amy Chung"
-award_year: 2021
+year: 2021
 published: 2021-10-07 14:21:48
 published_gmt: 2021-10-07 13:21:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/10/creativity-grit-and-clear-thinking-all-part-of-the-package-for-amy-chung/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2fb20b3a146972a4021a68ba8155ec6be774b1abdb02eea0f277747b730c1d25
 canonical: 20781-creativity-grit-and-clear-thinking-all-part-of-the-package-for-amy-chung.json
 ---

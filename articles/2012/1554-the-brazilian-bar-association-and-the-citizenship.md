@@ -1,12 +1,21 @@
 ---
 id: 1554
 title: "The Brazilian Bar Association and the Citizenship"
-award_year: 2012
+year: 2012
 published: 2012-08-10 15:25:43
 published_gmt: 2012-08-10 14:25:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2012/08/the-brazilian-bar-association-and-the-citizenship/"
 categories: ["Latin America", "Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 557001be3236ab12f0ec12960ddab5577b8946adf50067aa1813fee98f27a26e
 canonical: 1554-the-brazilian-bar-association-and-the-citizenship.json
 ---

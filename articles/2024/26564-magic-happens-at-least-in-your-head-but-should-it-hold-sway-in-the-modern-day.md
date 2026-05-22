@@ -1,12 +1,21 @@
 ---
 id: 26564
 title: "Magic Happens — at Least in Your Head — but Should it Hold Sway in the Modern Day?"
-award_year: 2024
+year: 2024
 published: 2024-01-03 12:18:38
 published_gmt: 2024-01-03 12:18:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2024/01/magic-happens-at-least-in-your-head-but-should-it-hold-sway-in-the-modern-day/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e7dc5350534b8d1dcdc83e7352b951765ff2723210bd2cc62046f448f46720bb
 canonical: 26564-magic-happens-at-least-in-your-head-but-should-it-hold-sway-in-the-modern-day.json
 ---

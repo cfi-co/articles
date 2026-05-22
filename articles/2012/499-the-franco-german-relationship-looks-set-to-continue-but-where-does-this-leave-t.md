@@ -1,12 +1,21 @@
 ---
 id: 499
 title: "The Franco-German Relationship Looks Set to Continue but Where Does This Leave the Greeks?"
-award_year: 2012
+year: 2012
 published: 2012-05-17 11:32:24
 published_gmt: 2012-05-17 10:32:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/05/the-franco-german-relationship-looks-set-to-continue-but-where-does-this-leave-the-greeks/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d322628809d24a1836f817ee076837478b39af7628b4b0bbcb2bf341486b0ea2
 canonical: 499-the-franco-german-relationship-looks-set-to-continue-but-where-does-this-leave-t.json
 ---

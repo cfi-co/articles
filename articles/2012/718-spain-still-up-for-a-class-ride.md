@@ -1,12 +1,21 @@
 ---
 id: 718
 title: "UPDATED: Spain Still Up for a Class Ride"
-award_year: 2012
+year: 2012
 published: 2012-08-06 12:31:56
 published_gmt: 2012-08-06 11:31:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2012/08/spain-still-up-for-a-class-ride/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1498e40e5ebf4861e7a179398589b0b99b133499fdd261f1aaf952b5424f86fb
 canonical: 718-spain-still-up-for-a-class-ride.json
 ---

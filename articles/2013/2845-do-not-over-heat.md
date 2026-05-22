@@ -1,12 +1,21 @@
 ---
 id: 2845
 title: "Do Not Over-Heat"
-award_year: 2013
+year: 2013
 published: 2013-01-03 13:46:06
 published_gmt: 2013-01-03 13:46:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/01/do-not-over-heat/"
 categories: ["Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 32c3644a9f7f27e3cb81215bbd62e36a69361665912d0afd7237baf05b491acf
 canonical: 2845-do-not-over-heat.json
 ---

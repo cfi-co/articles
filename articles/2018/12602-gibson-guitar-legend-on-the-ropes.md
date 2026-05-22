@@ -1,12 +1,21 @@
 ---
 id: 12602
 title: "Gibson: Guitar Legend on the Ropes"
-award_year: 2018
+year: 2018
 published: 2018-05-30 15:36:40
 published_gmt: 2018-05-30 14:36:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/lifestyle-menu/2018/05/gibson-guitar-legend-on-the-ropes/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fc7306fc22ea423cca406fb146174fa73bf5b87f69f531eaccf3128a740e40cb
 canonical: 12602-gibson-guitar-legend-on-the-ropes.json
 ---

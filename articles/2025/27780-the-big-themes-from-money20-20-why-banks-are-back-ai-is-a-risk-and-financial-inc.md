@@ -1,12 +1,21 @@
 ---
 id: 27780
 title: "The Big Themes from Money20/20: Why Banks Are Back, AI Is a Risk, and Financial Inclusion Finally Matters"
-award_year: 2025
+year: 2025
 published: 2025-06-16 17:05:05
 published_gmt: 2025-06-16 16:05:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2025/06/the-big-themes-from-money20-20-why-banks-are-back-ai-is-a-risk-and-financial-inclusion-finally-matters/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 059de00b2f1b82236c760a480d690be28cddc8a7e2aecee5a413d2abb7c46f06
 canonical: 27780-the-big-themes-from-money20-20-why-banks-are-back-ai-is-a-risk-and-financial-inc.json
 ---

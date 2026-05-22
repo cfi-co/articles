@@ -1,12 +1,21 @@
 ---
 id: 19971
 title: "Hemisfério Sul Investimentos - Private Equity Trailblazer: Ahead of the Curve and Still Gunning for Gold"
-award_year: 2021
+year: 2021
 published: 2021-07-12 15:57:01
 published_gmt: 2021-07-12 14:57:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/hemisferio-sul-investimentos-private-equity-trailblazer-ahead-of-the-curve-and-still-gunning-for-gold/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e2db570d54e0c890bd326c5fc8bb8f44aa47f4a4ee16e8216590a12b7479f66a
 canonical: 19971-hemisferio-sul-investimentos-private-equity-trailblazer-ahead-of-the-curve-and-s.json
 ---

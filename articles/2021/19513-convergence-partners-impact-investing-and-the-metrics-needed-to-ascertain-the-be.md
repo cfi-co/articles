@@ -1,12 +1,21 @@
 ---
 id: 19513
 title: "Convergence Partners: Impact Investing, and the Metrics Needed to Ascertain the Benefits"
-award_year: 2021
+year: 2021
 published: 2021-04-13 12:00:46
 published_gmt: 2021-04-13 11:00:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/04/convergence-partners-impact-investing-and-the-metrics-needed-to-ascertain-the-benefits/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3f45feba89e200610b8fa57ebaef6b17f8cced551986ef9788228ccdeeb5cbff
 canonical: 19513-convergence-partners-impact-investing-and-the-metrics-needed-to-ascertain-the-be.json
 ---

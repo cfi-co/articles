@@ -1,12 +1,21 @@
 ---
 id: 4923
 title: "Mohamed Al Jaber: The Arabs and Technology"
-award_year: 2013
+year: 2013
 published: 2013-08-07 09:00:02
 published_gmt: 2013-08-07 08:00:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/08/mohamed-al-jaber-the-arabs-and-technology/"
 categories: ["Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 68c47077ce31396fa0fd696d3410598384d6c69c4c42020dbc515714856fb937
 canonical: 4923-mohamed-al-jaber-the-arabs-and-technology.json
 ---

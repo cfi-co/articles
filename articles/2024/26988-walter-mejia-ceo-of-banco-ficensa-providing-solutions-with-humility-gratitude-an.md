@@ -1,12 +1,21 @@
 ---
 id: 26988
 title: "Walter Mejia, CEO of Banco Ficensa: Providing Solutions with Humility, Gratitude — and a Personal Touch"
-award_year: 2024
+year: 2024
 published: 2024-08-13 09:32:40
 published_gmt: 2024-08-13 08:32:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/08/walter-mejia-ceo-of-banco-ficensa-providing-solutions-with-humility-gratitude-and-a-personal-touch/"
 categories: ["Banking", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 92b0886c4a8a0f4133c5f6370ece962360e8891d25ba553974bed594a83b2c24
 canonical: 26988-walter-mejia-ceo-of-banco-ficensa-providing-solutions-with-humility-gratitude-an.json
 ---

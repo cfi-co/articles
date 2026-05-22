@@ -1,12 +1,21 @@
 ---
 id: 6864
 title: "Barry E. Silbert: Going Out on a Limb, Reinventing Capital Markets"
-award_year: 2014
+year: 2014
 published: 2014-03-26 16:00:10
 published_gmt: 2014-03-26 16:00:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/03/barry-e-silbert-going-out-on-a-limb-reinventing-capital-markets/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5fd5d5e8b95b5875c92cbb79acdf28e716abba73153614c94cb79882b26885f4
 canonical: 6864-barry-e-silbert-going-out-on-a-limb-reinventing-capital-markets.json
 ---

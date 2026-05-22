@@ -1,12 +1,21 @@
 ---
 id: 8764
 title: "Davos: Azerbaijan Making a Splash at World Economic Forum"
-award_year: 2015
+year: 2015
 published: 2015-01-20 15:15:45
 published_gmt: 2015-01-20 15:15:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/01/davos-azerbaijan-making-a-splash-at-world-economic-forum/"
 categories: ["Asia Pacific", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 79cb2de4ebd471f53197c31859682fcd33c720b7a11347c21c0f0447a44b3ad9
 canonical: 8764-davos-azerbaijan-making-a-splash-at-world-economic-forum.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 12648
 title: "RegTech Landscape for Increased Compliance Needs"
-award_year: 2018
+year: 2018
 published: 2018-06-20 14:02:54
 published_gmt: 2018-06-20 13:02:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2018/06/regtech-landscape-for-increased-compliance-needs/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 510199e47658cf94578a42f5e17cbcd543a48ba33484722efca034e3aa0180c1
 canonical: 12648-regtech-landscape-for-increased-compliance-needs.json
 ---

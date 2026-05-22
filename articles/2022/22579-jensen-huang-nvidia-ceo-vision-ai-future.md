@@ -1,12 +1,21 @@
 ---
 id: 22579
 title: "Jensen Huang: Is the Matrix already here?"
-award_year: 2022
+year: 2022
 published: 2022-08-02 16:22:07
 published_gmt: 2022-08-02 15:22:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2022/08/jensen-huang-nvidia-ceo-vision-ai-future/"
 categories: ["Corporate", "Innovation &amp; Technology", "North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 11851d411c13e60aa28d972a2615e068b79637f3ff3ca579fce8049f3e28550e
 canonical: 22579-jensen-huang-nvidia-ceo-vision-ai-future.json
 ---

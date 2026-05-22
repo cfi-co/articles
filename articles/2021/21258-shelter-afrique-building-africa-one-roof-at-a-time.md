@@ -1,12 +1,21 @@
 ---
 id: 21258
 title: "Shelter Afrique: Building Africa — One Roof at a Time"
-award_year: 2021
+year: 2021
 published: 2021-12-02 16:04:49
 published_gmt: 2021-12-02 16:04:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/12/shelter-afrique-building-africa-one-roof-at-a-time/"
 categories: ["Africa", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9fd768e2e0512553ba6066de2b5a887f0c86c447e08fd867a7e92055e204c602
 canonical: 21258-shelter-afrique-building-africa-one-roof-at-a-time.json
 ---

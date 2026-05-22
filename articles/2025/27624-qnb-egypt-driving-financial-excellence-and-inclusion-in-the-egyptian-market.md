@@ -1,12 +1,21 @@
 ---
 id: 27624
 title: "QNB Egypt: Driving Financial Excellence and Inclusion in the Egyptian Market"
-award_year: 2025
+year: 2025
 published: 2025-03-11 12:06:20
 published_gmt: 2025-03-11 12:06:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2025/03/qnb-egypt-driving-financial-excellence-and-inclusion-in-the-egyptian-market/"
 categories: ["Banking", "Corporate", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a4a376e8a06402edfb681d1fe8be6c10067e5d147b7f560428748c546e32df0f
 canonical: 27624-qnb-egypt-driving-financial-excellence-and-inclusion-in-the-egyptian-market.json
 ---

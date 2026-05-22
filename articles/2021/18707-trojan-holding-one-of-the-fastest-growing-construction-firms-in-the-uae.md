@@ -1,12 +1,21 @@
 ---
 id: 18707
 title: "Trojan Holding: One of the Fastest-growing Construction Firms in the UAE"
-award_year: 2021
+year: 2021
 published: 2021-02-09 18:21:18
 published_gmt: 2021-02-09 18:21:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/trojan-holding-one-of-the-fastest-growing-construction-firms-in-the-uae/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 94426d0ca39f4a037e9681385615acdfe1997c5264a666f0d435317137ce541a
 canonical: 18707-trojan-holding-one-of-the-fastest-growing-construction-firms-in-the-uae.json
 ---

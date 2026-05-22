@@ -1,12 +1,21 @@
 ---
 id: 2012
 title: "Fruitful Relationships: Clearing and Settlement in Brazil"
-award_year: 2012
+year: 2012
 published: 2012-08-27 15:22:38
 published_gmt: 2012-08-27 14:22:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/08/fruitful-relationships-clearing-and-settlement-in-brazil/"
 categories: ["Banking", "Finance", "Latin America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cc6aaa7a358ff486cfc4529eb9dd20b1be4f42a1f1666aa916566b7efda000b1
 canonical: 2012-fruitful-relationships-clearing-and-settlement-in-brazil.json
 ---

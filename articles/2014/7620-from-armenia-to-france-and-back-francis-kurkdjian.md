@@ -1,12 +1,21 @@
 ---
 id: 7620
 title: "From Armenia to France and Back – Francis Kurkdjian"
-award_year: 2014
+year: 2014
 published: 2014-07-15 10:02:03
 published_gmt: 2014-07-15 09:02:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/07/from-armenia-to-france-and-back-francis-kurkdjian/"
 categories: ["Europe", "Latin America", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2272f8a52f9cfe68134ac9d1cd1ebe4a2b0b046027628da45f4b8f76776142dd
 canonical: 7620-from-armenia-to-france-and-back-francis-kurkdjian.json
 ---

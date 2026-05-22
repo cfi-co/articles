@@ -1,12 +1,21 @@
 ---
 id: 27976
 title: "Berenberg Investment Consulting: Innovation at the Heart of Institutional Advisory"
-award_year: 2025
+year: 2025
 published: 2025-10-03 12:01:29
 published_gmt: 2025-10-03 11:01:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2025/10/berenberg-investment-consulting-innovation-at-the-heart-of-institutional-advisory/"
 categories: ["Banking", "Banking &amp; Finance", "Corporate", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fcc3f9445e31c9099f470a615ef8c5ab602b025bdb7d5a24aca98be4a16d93a5
 canonical: 27976-berenberg-investment-consulting-innovation-at-the-heart-of-institutional-advisor.json
 ---

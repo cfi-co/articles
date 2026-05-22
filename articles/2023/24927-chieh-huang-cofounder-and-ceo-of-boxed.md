@@ -1,12 +1,21 @@
 ---
 id: 24927
 title: "Chieh Huang, cofounder and CEO of Boxed"
-award_year: 2023
+year: 2023
 published: 2023-03-21 09:17:36
 published_gmt: 2023-03-21 09:17:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/03/chieh-huang-cofounder-and-ceo-of-boxed/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b6d07bd2f898958003438807594c799acd7b7c36ced3fc90fcb67f1a0bb17567
 canonical: 24927-chieh-huang-cofounder-and-ceo-of-boxed.json
 ---

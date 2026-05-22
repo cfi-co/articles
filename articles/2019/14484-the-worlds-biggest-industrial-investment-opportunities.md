@@ -1,12 +1,21 @@
 ---
 id: 14484
 title: "The World’s Biggest Industrial Investment Opportunities?"
-award_year: 2019
+year: 2019
 published: 2019-12-19 17:45:08
 published_gmt: 2019-12-19 17:45:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2019/12/the-worlds-biggest-industrial-investment-opportunities/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 48ba917ae2c66863aa44e5f6302fa7a8a7c93430478708aea8ca1dbabc6ca155
 canonical: 14484-the-worlds-biggest-industrial-investment-opportunities.json
 ---

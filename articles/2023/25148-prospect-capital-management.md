@@ -1,12 +1,21 @@
 ---
 id: 25148
 title: "Prospect Capital Management: History of Innovation at Leading Asset Manager"
-award_year: 2023
+year: 2023
 published: 2023-04-24 17:15:58
 published_gmt: 2023-04-24 16:15:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2023/04/prospect-capital-management/"
 categories: ["Corporate", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 16cafe0ea85f6f239ac860075f430c658d2c7a19095d77c44ffffbfcefb62765
 canonical: 25148-prospect-capital-management.json
 ---

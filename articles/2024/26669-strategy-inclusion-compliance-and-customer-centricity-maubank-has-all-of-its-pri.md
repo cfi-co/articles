@@ -1,12 +1,21 @@
 ---
 id: 26669
 title: "Strategy, Inclusion, Compliance and Customer-Centricity: MauBank Has All of Its Priorities Firmly In Place"
-award_year: 2024
+year: 2024
 published: 2024-02-09 11:10:12
 published_gmt: 2024-02-09 11:10:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/02/strategy-inclusion-compliance-and-customer-centricity-maubank-has-all-of-its-priorities-firmly-in-place/"
 categories: ["Asia Pacific", "Banking"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2858392b15fb8e60874410be8b17acad294f3b2bdc6cfbaa51b12d5217a44805
 canonical: 26669-strategy-inclusion-compliance-and-customer-centricity-maubank-has-all-of-its-pri.json
 ---

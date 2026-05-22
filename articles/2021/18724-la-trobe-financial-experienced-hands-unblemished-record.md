@@ -1,12 +1,21 @@
 ---
 id: 18724
 title: "La Trobe Financial: Experienced Hands, Unblemished Record"
-award_year: 2021
+year: 2021
 published: 2021-02-10 11:49:59
 published_gmt: 2021-02-10 11:49:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/la-trobe-financial-experienced-hands-unblemished-record/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7f541be5adb7c674e5c08764a7dc8cbd2122a80f8759601fcb90ae038d340694
 canonical: 18724-la-trobe-financial-experienced-hands-unblemished-record.json
 ---

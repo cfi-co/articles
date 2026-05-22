@@ -1,12 +1,21 @@
 ---
 id: 7372
 title: "World Bank Group President Jim Yong Kim to Visit Saudi Arabia, Lebanon and Jordan"
-award_year: 2014
+year: 2014
 published: 2014-05-30 13:35:02
 published_gmt: 2014-05-30 12:35:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/05/world-bank-group-president-jim-yong-kim-to-visit-saudi-arabia-lebanon-and-jordan/"
 categories: ["Banking", "Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 22d3b2f6cec7a9e6fd698d4e84ded45edb05e77eaa9f95753adc78a96d7c6ec4
 canonical: 7372-world-bank-group-president-jim-yong-kim-to-visit-saudi-arabia-lebanon-and-jordan.json
 ---

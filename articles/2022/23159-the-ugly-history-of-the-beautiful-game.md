@@ -1,12 +1,21 @@
 ---
 id: 23159
 title: "The Ugly History of the Beautiful Game"
-award_year: 2022
+year: 2022
 published: 2022-08-25 07:14:01
 published_gmt: 2022-08-25 06:14:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/lifestyle-menu/2022/08/the-ugly-history-of-the-beautiful-game/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7e3bc4941b6fd6094eaae373ff88542cb95533c0de3d1678b755760773757c12
 canonical: 23159-the-ugly-history-of-the-beautiful-game.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27991
 title: "Technology with a Human Touch: SegurCaixa Adeslas Reinforces Its Market Leadership through Innovation"
-award_year: 2025
+year: 2025
 published: 2025-10-13 08:05:29
 published_gmt: 2025-10-13 07:05:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2025/10/technology-with-a-human-touch-segurcaixa-adeslas-reinforces-its-market-leadership-through-innovation/"
 categories: ["Corporate", "Europe", "Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a43a046f545b489938e7da242f79be7011c022db96ddbdd73383ad5a5d823c31
 canonical: 27991-technology-with-a-human-touch-segurcaixa-adeslas-reinforces-its-market-leadershi.json
 ---

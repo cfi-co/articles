@@ -1,12 +1,21 @@
 ---
 id: 22264
 title: "Lutz Schwenke: Life — and Business — on an Ocean Wave"
-award_year: 2022
+year: 2022
 published: 2022-06-15 06:10:41
 published_gmt: 2022-06-15 05:10:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/heroes/2022/06/lutz-schwenke-life-and-business-on-an-ocean-wave/"
 categories: ["Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7333af025772b5e8a6096530c59bd7d22e7db808e1bdc6521cc604d9fb8f53eb
 canonical: 22264-lutz-schwenke-life-and-business-on-an-ocean-wave.json
 ---

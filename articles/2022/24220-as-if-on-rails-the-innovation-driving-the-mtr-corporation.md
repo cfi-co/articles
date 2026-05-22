@@ -1,12 +1,21 @@
 ---
 id: 24220
 title: "As If on Rails: The Innovation Driving the MTR Corporation"
-award_year: 2022
+year: 2022
 published: 2022-12-19 20:29:14
 published_gmt: 2022-12-19 20:29:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/12/as-if-on-rails-the-innovation-driving-the-mtr-corporation/"
 categories: ["Asia Pacific", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d6c6923a60803470b7911ddb648ebaa8f1aa1cb7f146eb9f01f3b42dc6974795
 canonical: 24220-as-if-on-rails-the-innovation-driving-the-mtr-corporation.json
 ---

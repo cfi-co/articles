@@ -1,12 +1,21 @@
 ---
 id: 4371
 title: "Solar Industry in the MENA Region: Sunny Prospects"
-award_year: 2013
+year: 2013
 published: 2013-06-14 08:48:05
 published_gmt: 2013-06-14 07:48:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/06/solar-industry-in-the-mena-region-sunny-prospects/"
 categories: ["Africa", "Middle East", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8b90519b3902859ccca0fcc9e1350b9c23b330652640971e76ec7f7eec747532
 canonical: 4371-solar-industry-in-the-mena-region-sunny-prospects.json
 ---

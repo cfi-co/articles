@@ -1,12 +1,21 @@
 ---
 id: 6441
 title: "World Bank Group: Spurring Job Growth in the Western Balkans - Research and Innovation"
-award_year: 2014
+year: 2014
 published: 2014-01-30 17:05:45
 published_gmt: 2014-01-30 17:05:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/01/world-bank-group-spurring-job-growth-in-the-western-balkans-research-and-innovation/"
 categories: ["Europe", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 867c2c5897f4a4335afbf32f40dd3a42c9dad1f1064fc54282148ed6729157e2
 canonical: 6441-world-bank-group-spurring-job-growth-in-the-western-balkans-research-and-innovat.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 6933
 title: "Fatema Mernissi: Beyond the Veil - A Seismic Shift in Islamic Society"
-award_year: 2014
+year: 2014
 published: 2014-04-08 13:39:45
 published_gmt: 2014-04-08 12:39:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/04/fatema-mernissi-beyond-the-veil-a-seismic-shift-in-islamic-society/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f1ca43f76106630e801eb4695238ac16132ec09122ee9827df1d8afb651d48c5
 canonical: 6933-fatema-mernissi-beyond-the-veil-a-seismic-shift-in-islamic-society.json
 ---

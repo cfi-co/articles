@@ -1,12 +1,21 @@
 ---
 id: 26518
 title: "The Cornflake Revolution: How Breakfast TV Became a Staple of Britain’s Mornings"
-award_year: 2023
+year: 2023
 published: 2023-12-15 09:45:46
 published_gmt: 2023-12-15 09:45:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/12/the-cornflake-revolution-how-breakfast-tv-became-a-staple-of-britains-mornings/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 26e31ec92a4b7bde5e52509cc19b777cf0a8bdb8aeea082ffa8cbd5b10a4f7ef
 canonical: 26518-the-cornflake-revolution-how-breakfast-tv-became-a-staple-of-britains-mornings.json
 ---

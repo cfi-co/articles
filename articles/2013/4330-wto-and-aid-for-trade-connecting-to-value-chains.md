@@ -1,12 +1,21 @@
 ---
 id: 4330
 title: "WTO and Aid for Trade: Connecting to Value Chains"
-award_year: 2013
+year: 2013
 published: 2013-06-12 08:46:17
 published_gmt: 2013-06-12 07:46:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/06/wto-and-aid-for-trade-connecting-to-value-chains/"
 categories: ["Africa", "Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d5c7bd8c1fb17880a2c4a892ae8629c7619edd918ca69c3d64bdd1595bc0f93b
 canonical: 4330-wto-and-aid-for-trade-connecting-to-value-chains.json
 ---

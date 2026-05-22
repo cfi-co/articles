@@ -1,12 +1,21 @@
 ---
 id: 26286
 title: "Partners Who Put Their Faith in Egypt’s Burgeoning Economy"
-award_year: 2019
+year: 2019
 published: 2019-05-30 15:42:32
 published_gmt: 2019-05-30 14:42:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2019/05/partners-who-put-their-faith-in-egypts-burgeoning-economy/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f1b3166fe54ad9027beee7efe178634f7bdfd7f57e3b6485d3b5eaeef837bd7f
 canonical: 26286-partners-who-put-their-faith-in-egypts-burgeoning-economy.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 11547
 title: "Leyla Aliyev, Heydar Aliyev Foundation: Azerbaijan’s Can-Do First Daughter"
-award_year: 2017
+year: 2017
 published: 2017-02-14 09:59:00
 published_gmt: 2017-02-14 09:59:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2017/02/leyla-aliyev-heydar-aliyev-foundation-azerbaijans-can-do-first-daughter/"
 categories: ["Asia Pacific", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 69444866bfd8725460fff0a9e876ab5e1dcb5ea44f2cc41003ca2abd57a8ebcb
 canonical: 11547-leyla-aliyev-heydar-aliyev-foundation-azerbaijans-can-do-first-daughter.json
 ---

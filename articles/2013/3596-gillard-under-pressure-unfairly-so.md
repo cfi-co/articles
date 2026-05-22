@@ -1,12 +1,21 @@
 ---
 id: 3596
 title: "Gillard Under Pressure: Unfairly So?"
-award_year: 2013
+year: 2013
 published: 2013-04-09 08:57:15
 published_gmt: 2013-04-09 07:57:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/04/gillard-under-pressure-unfairly-so/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aaa049e16f1c73ac3f512c0fa74c65fb7f314259ebb0ebe52d8ea773afa6ead4
 canonical: 3596-gillard-under-pressure-unfairly-so.json
 ---

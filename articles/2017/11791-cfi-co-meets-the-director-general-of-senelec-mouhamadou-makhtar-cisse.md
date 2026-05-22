@@ -1,12 +1,21 @@
 ---
 id: 11791
 title: "CFI.co Meets the Director General of Senelec: Mouhamadou Makhtar Cissé"
-award_year: 2017
+year: 2017
 published: 2017-08-31 13:16:31
 published_gmt: 2017-08-31 12:16:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-director-general-of-senelec-mouhamadou-makhtar-cisse/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 60328b211cb1bfc76c6a0cfbc9b0abf5cfd68cf0dd715640fddf693f216fe992
 canonical: 11791-cfi-co-meets-the-director-general-of-senelec-mouhamadou-makhtar-cisse.json
 ---

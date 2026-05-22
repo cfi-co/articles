@@ -1,12 +1,21 @@
 ---
 id: 26760
 title: "How Will Artificial Intelligence Affect the Economy?"
-award_year: 2024
+year: 2024
 published: 2024-04-15 13:02:18
 published_gmt: 2024-04-15 12:02:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2024/04/how-will-artificial-intelligence-affect-the-economy/"
 categories: ["Columnists", "Innovation &amp; Technology", "North America", "Technology"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 94f2b2cd92467a26f35afa368ef5b6e775a4350493223e0cf2b346a93ffe3604
 canonical: 26760-how-will-artificial-intelligence-affect-the-economy.json
 ---

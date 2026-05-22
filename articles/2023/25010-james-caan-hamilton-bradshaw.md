@@ -1,12 +1,21 @@
 ---
 id: 25010
 title: "Working Hard — and Loving It: James Caan in his Element"
-award_year: 2023
+year: 2023
 published: 2023-03-21 16:52:29
 published_gmt: 2023-03-21 16:52:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/james-caan-hamilton-bradshaw/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1578209829eb0cb480dfc69d62e37d43915afc092bbdadeab5936dd28d5dbef9
 canonical: 25010-james-caan-hamilton-bradshaw.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 18644
 title: "FLI Global - The Value is in the Solution: A Firm Protecting the Things that Can Never Be Replaced"
-award_year: 2021
+year: 2021
 published: 2021-02-04 16:16:26
 published_gmt: 2021-02-04 16:16:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/fli-global-the-value-is-in-the-solution-a-firm-protecting-the-things-that-can-never-be-replaced/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 21ff95a7f600239443b43b141719972a276ffba99b5ab4e3bc5e04a62c836cfe
 canonical: 18644-fli-global-the-value-is-in-the-solution-a-firm-protecting-the-things-that-can-ne.json
 ---

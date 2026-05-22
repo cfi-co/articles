@@ -1,12 +1,21 @@
 ---
 id: 7708
 title: "Norton Rose Fulbright: EU Sets New Financial Laws for Non-EU Entities"
-award_year: 2014
+year: 2014
 published: 2014-07-29 11:40:37
 published_gmt: 2014-07-29 10:40:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/07/norton-rose-fulbright-eu-sets-new-financial-laws-for-non-eu-entities/"
 categories: ["Africa", "Europe", "Finance", "Latin America", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 02abb7a7e2db600c8f5068a0e3ba79975725dcfeb96886a6f7a2398893551dee
 canonical: 7708-norton-rose-fulbright-eu-sets-new-financial-laws-for-non-eu-entities.json
 ---

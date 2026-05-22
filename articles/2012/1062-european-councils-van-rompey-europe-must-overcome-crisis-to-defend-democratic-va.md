@@ -1,12 +1,21 @@
 ---
 id: 1062
 title: "European Council’s Van Rompey: Europe Must Overcome Crisis to Defend Democratic Values"
-award_year: 2012
+year: 2012
 published: 2012-07-19 14:04:32
 published_gmt: 2012-07-19 13:04:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/07/european-councils-van-rompey-europe-must-overcome-crisis-to-defend-democratic-values/"
 categories: ["Banking", "Europe", "Finance", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4bbd03b63a3af9544cd4567dd2f1ece94629cfeeb00912032e377f9a03958977
 canonical: 1062-european-councils-van-rompey-europe-must-overcome-crisis-to-defend-democratic-va.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 17456
 title: "Whither Interest Rates in Advanced Economies: Low for Long?"
-award_year: 2020
+year: 2020
 published: 2020-10-23 12:25:21
 published_gmt: 2020-10-23 11:25:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/10/whither-interest-rates-in-advanced-economies-low-for-long/"
 categories: ["Europe", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bda88c6cbb827c84e02d32ed7f1e6fb98bb72d5025b477230b0636dc544ba634
 canonical: 17456-whither-interest-rates-in-advanced-economies-low-for-long.json
 ---

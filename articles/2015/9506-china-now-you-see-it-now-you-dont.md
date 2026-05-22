@@ -1,12 +1,21 @@
 ---
 id: 9506
 title: "China: Now You See It, Now You Don’t"
-award_year: 2015
+year: 2015
 published: 2015-03-09 11:23:59
 published_gmt: 2015-03-09 11:23:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/03/china-now-you-see-it-now-you-dont/"
 categories: ["Asia Pacific", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f71b13522ebad913f91d64707b3eb720c6cf62a52aee4b072b0a30c5c1863a39
 canonical: 9506-china-now-you-see-it-now-you-dont.json
 ---

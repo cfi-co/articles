@@ -1,12 +1,21 @@
 ---
 id: 4076
 title: "Revenue Watch: 4 out of 5 Companies Fail in Good Governance"
-award_year: 2013
+year: 2013
 published: 2013-05-22 11:31:39
 published_gmt: 2013-05-22 10:31:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/05/revenue-watch-4-out-of-5-companies-fail-in-good-governance/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Latin America", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b9a468ac84cb3e1dee39caeb2642cbaa04a42ab4a32a0241e25a66faba9ee996
 canonical: 4076-revenue-watch-4-out-of-5-companies-fail-in-good-governance.json
 ---

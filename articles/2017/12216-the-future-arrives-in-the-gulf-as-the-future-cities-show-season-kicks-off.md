@@ -1,12 +1,21 @@
 ---
 id: 12216
 title: "The Future Arrives in the Gulf as the Future Cities Show Season Kicks Off"
-award_year: 2017
+year: 2017
 published: 2017-12-20 12:19:59
 published_gmt: 2017-12-20 12:19:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/projects/2017/12/the-future-arrives-in-the-gulf-as-the-future-cities-show-season-kicks-off/"
 categories: ["Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fd45f6e6818e990bcc9aca6c1e758cbd1ef6cb1f7b95b67eb20c2b936e3fee1e
 canonical: 12216-the-future-arrives-in-the-gulf-as-the-future-cities-show-season-kicks-off.json
 ---

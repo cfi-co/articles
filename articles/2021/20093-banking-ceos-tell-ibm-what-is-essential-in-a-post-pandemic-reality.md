@@ -1,12 +1,21 @@
 ---
 id: 20093
 title: "Banking CEOs Tell IBM What is Essential In A Post-Pandemic Reality"
-award_year: 2021
+year: 2021
 published: 2021-07-01 15:31:37
 published_gmt: 2021-07-01 14:31:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2021/07/banking-ceos-tell-ibm-what-is-essential-in-a-post-pandemic-reality/"
 categories: ["Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f524a8e501bb2f0679a4bf636247c9d00a30991414ed3e9f5c1e5193fcf0c8e7
 canonical: 20093-banking-ceos-tell-ibm-what-is-essential-in-a-post-pandemic-reality.json
 ---

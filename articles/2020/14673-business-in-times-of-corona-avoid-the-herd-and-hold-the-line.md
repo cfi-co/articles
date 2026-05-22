@@ -1,12 +1,21 @@
 ---
 id: 14673
 title: "Business in Times of Corona: Avoid the Herd and Hold the Line"
-award_year: 2020
+year: 2020
 published: 2020-03-16 14:33:46
 published_gmt: 2020-03-16 14:33:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2020/03/business-in-times-of-corona-avoid-the-herd-and-hold-the-line/"
 categories: ["Sustainability", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1a93c52cbe3d18e39893997515d82caa3f1f56c0b3aa69775bdee843f1db1644
 canonical: 14673-business-in-times-of-corona-avoid-the-herd-and-hold-the-line.json
 ---

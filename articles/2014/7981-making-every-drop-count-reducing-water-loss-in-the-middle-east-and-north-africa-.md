@@ -1,12 +1,21 @@
 ---
 id: 7981
 title: "Making Every Drop Count: Reducing Water Loss in the Middle East and North Africa Region"
-award_year: 2014
+year: 2014
 published: 2014-09-08 16:49:57
 published_gmt: 2014-09-08 15:49:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/09/making-every-drop-count-reducing-water-loss-in-the-middle-east-and-north-africa-region/"
 categories: ["Africa", "Middle East", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 82c118ec8c853e3f33c3cbd9a6a4e2d2f274ec4db5d9bb1a870a8250b28d2af0
 canonical: 7981-making-every-drop-count-reducing-water-loss-in-the-middle-east-and-north-africa-.json
 ---

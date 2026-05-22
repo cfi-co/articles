@@ -1,12 +1,21 @@
 ---
 id: 22817
 title: "Uncertainty is the Only Certainty for BlackRock Founder Larry Fink — but his Outlook is still Positive"
-award_year: 2022
+year: 2022
 published: 2022-08-04 11:28:18
 published_gmt: 2022-08-04 10:28:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2022/08/larry-fink-blackrock-ceo-uncertainty-is-the-only-certainty/"
 categories: ["Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6f237243c89afdc8dc4b7504dd0eafc7f3f0ac781c52fb4c9902c178e2a0589c
 canonical: 22817-larry-fink-blackrock-ceo-uncertainty-is-the-only-certainty.json
 ---

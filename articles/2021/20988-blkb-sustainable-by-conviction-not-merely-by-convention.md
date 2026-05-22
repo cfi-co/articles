@@ -1,12 +1,21 @@
 ---
 id: 20988
 title: "BLKB: Sustainable by Conviction, not  Merely by Convention"
-award_year: 2021
+year: 2021
 published: 2021-11-06 16:19:21
 published_gmt: 2021-11-06 16:19:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/blkb-sustainable-by-conviction-not-merely-by-convention/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e2bb079cc2b5b97066671c12491030fae4a57fa314c53e1546e266944a42ad82
 canonical: 20988-blkb-sustainable-by-conviction-not-merely-by-convention.json
 ---

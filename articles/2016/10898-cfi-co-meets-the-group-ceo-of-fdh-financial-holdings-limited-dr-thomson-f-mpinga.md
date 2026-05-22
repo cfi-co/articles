@@ -1,12 +1,21 @@
 ---
 id: 10898
 title: "CFI.co Meets the Group CEO of FDH Financial Holdings Limited: Dr Thomson F Mpinganjira"
-award_year: 2016
+year: 2016
 published: 2016-01-21 22:21:15
 published_gmt: 2016-01-21 22:21:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-group-ceo-of-fdh-financial-holdings-limited-dr-thomson-f-mpinganjira/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 79f7c37ef2ab130f358ef242e3cd5985697e7ac37c1265c92d856f4245b769b5
 canonical: 10898-cfi-co-meets-the-group-ceo-of-fdh-financial-holdings-limited-dr-thomson-f-mpinga.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27100
 title: "Supporting African Businesses: A Focus on Sustainability and Close Customer Relationships"
-award_year: 2024
+year: 2024
 published: 2024-09-09 13:21:37
 published_gmt: 2024-09-09 12:21:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2024/09/supporting-african-businesses-a-focus-on-sustainability-and-close-customer-relationships/"
 categories: ["Africa", "Banking", "Corporate", "Europe", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d62d2e813850ab99c0c868c7bf5ac6e59b8312bd0640890f474b2e74acba9e27
 canonical: 27100-supporting-african-businesses-a-focus-on-sustainability-and-close-customer-relat.json
 ---

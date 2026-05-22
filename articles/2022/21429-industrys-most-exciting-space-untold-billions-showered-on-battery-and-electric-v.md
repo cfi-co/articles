@@ -1,12 +1,21 @@
 ---
 id: 21429
 title: "Industry’s Most Exciting Space: Untold Billions Showered on Battery and Electric Vehicle Technology and Production"
-award_year: 2022
+year: 2022
 published: 2022-01-08 08:36:38
 published_gmt: 2022-01-08 08:36:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/01/industrys-most-exciting-space-untold-billions-showered-on-battery-and-electric-vehicle-technology-and-production/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2f17216078ddb574ef69e6975025badb14c8aba6778b7730ddc8845efa5c288c
 canonical: 21429-industrys-most-exciting-space-untold-billions-showered-on-battery-and-electric-v.json
 ---

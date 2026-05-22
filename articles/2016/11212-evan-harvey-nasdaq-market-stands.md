@@ -1,12 +1,21 @@
 ---
 id: 11212
 title: "Evan Harvey, Nasdaq: Where the Market Stands"
-award_year: 2016
+year: 2016
 published: 2016-05-18 11:40:40
 published_gmt: 2016-05-18 10:40:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2016/05/evan-harvey-nasdaq-market-stands/"
 categories: ["Europe", "Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ddcb40297413c75aa6913ef7b684cdc832672a82fb1c66741c43348a34fa55fc
 canonical: 11212-evan-harvey-nasdaq-market-stands.json
 ---

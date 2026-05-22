@@ -1,12 +1,21 @@
 ---
 id: 3020
 title: "CFI.co Meets Kayode Falowo"
-award_year: 2013
+year: 2013
 published: 2013-01-30 23:37:35
 published_gmt: 2013-01-30 23:37:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/01/cfi-co-meets-kayode-falowo/"
 categories: ["Africa", "Banking", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 63217579417a74190bae56f030eb7bddd5021e5eb268f7ac6936b2e44f240bff
 canonical: 3020-cfi-co-meets-kayode-falowo.json
 ---

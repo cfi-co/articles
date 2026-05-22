@@ -1,12 +1,21 @@
 ---
 id: 12021
 title: "Michael Lewis: Explaining Human Foibles"
-award_year: 2017
+year: 2017
 published: 2017-09-12 12:57:43
 published_gmt: 2017-09-12 11:57:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2017/09/michael-lewis-explaining-human-foibles/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d475c12c22898f49f022ad3cf9a8f65aa9fd87aa569bc6dbb182448a3417095f
 canonical: 12021-michael-lewis-explaining-human-foibles.json
 ---

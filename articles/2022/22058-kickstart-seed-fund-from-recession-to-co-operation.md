@@ -1,12 +1,21 @@
 ---
 id: 22058
 title: "Kickstart Seed Fund: From Recession to Co-operation"
-award_year: 2022
+year: 2022
 published: 2022-05-19 14:38:59
 published_gmt: 2022-05-19 13:38:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2022/05/kickstart-seed-fund-from-recession-to-co-operation/"
 categories: ["Corporate", "North America", "Start-Ups", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 85cc769695424ca78a4c3c4145c2aa74a2608dfd1f1456f10e107b8b1e21f7b8
 canonical: 22058-kickstart-seed-fund-from-recession-to-co-operation.json
 ---

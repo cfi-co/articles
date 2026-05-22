@@ -1,12 +1,21 @@
 ---
 id: 21015
 title: "Embracing Change and the Thrill of Challenge: It's All Part of the Business"
-award_year: 2021
+year: 2021
 published: 2021-11-09 15:42:56
 published_gmt: 2021-11-09 15:42:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/copernicus-wealth-management-embracing-change/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 82cfc75a514478c5712b09a7e429d3c9b9c58ed200f1b1eb814d2f76a9bb9981
 canonical: 21015-copernicus-wealth-management-embracing-change.json
 ---

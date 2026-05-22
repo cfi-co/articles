@@ -1,12 +1,21 @@
 ---
 id: 28059
 title: "Chris Taylor: Visionary Leadership in Digital Transformation in Finance - UAE 2025"
-award_year: 2025
+year: 2025
 published: 2025-11-10 13:57:22
 published_gmt: 2025-11-10 13:57:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2025/11/chris-taylor-visionary-leadership-in-digital-transformation-in-finance-uae-2025/"
 categories: ["Corporate Leaders", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 928d8f70253385f8d8bd0293a8cd5eaeea1e676cfd6618f548df845ee08b512b
 canonical: 28059-chris-taylor-visionary-leadership-in-digital-transformation-in-finance-uae-2025.json
 ---

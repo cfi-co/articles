@@ -1,12 +1,21 @@
 ---
 id: 27828
 title: "Sango Capital: Reframing Africa’s Investment Landscape for a New Global Cycle"
-award_year: 2025
+year: 2025
 published: 2025-07-22 16:06:58
 published_gmt: 2025-07-22 15:06:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2025/07/sango-capital-reframing-africas-investment-landscape-for-a-new-global-cycle/"
 categories: ["Africa", "Corporate", "Energy", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c53bc9482be6ac6966a06ce8ae4fad8bfa8a627338a3a82d35f68db1b36bdcb1
 canonical: 27828-sango-capital-reframing-africas-investment-landscape-for-a-new-global-cycle.json
 ---

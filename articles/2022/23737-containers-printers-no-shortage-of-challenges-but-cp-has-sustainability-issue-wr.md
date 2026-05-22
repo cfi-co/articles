@@ -1,12 +1,21 @@
 ---
 id: 23737
 title: "Containers Printers: No Shortage of Challenges, but CP Has Sustainability Issue Wrapped"
-award_year: 2022
+year: 2022
 published: 2022-10-27 14:37:14
 published_gmt: 2022-10-27 13:37:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/10/containers-printers-no-shortage-of-challenges-but-cp-has-sustainability-issue-wrapped/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b2999acae6ac363edd30d8ad65acf8015aaac050700ed2e5b21d305c75f8c05c
 canonical: 23737-containers-printers-no-shortage-of-challenges-but-cp-has-sustainability-issue-wr.json
 ---

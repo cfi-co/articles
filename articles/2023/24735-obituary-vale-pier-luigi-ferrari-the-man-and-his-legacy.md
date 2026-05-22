@@ -1,12 +1,21 @@
 ---
 id: 24735
 title: "Obituary: Vale Pier Luigi Ferrari - The Man and his Legacy"
-award_year: 2023
+year: 2023
 published: 2023-02-08 16:45:59
 published_gmt: 2023-02-08 16:45:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/obituaries/2023/02/obituary-vale-pier-luigi-ferrari-the-man-and-his-legacy/"
 categories: ["Obituaries"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ad32325daae20f06e33af652f47503217e6646c5cddb9e6bc491eb78a0bf2271
 canonical: 24735-obituary-vale-pier-luigi-ferrari-the-man-and-his-legacy.json
 ---

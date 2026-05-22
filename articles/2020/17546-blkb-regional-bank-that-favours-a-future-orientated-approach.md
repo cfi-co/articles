@@ -1,12 +1,21 @@
 ---
 id: 17546
 title: "BLKB: Regional Bank that Favours a Future-Orientated Approach"
-award_year: 2020
+year: 2020
 published: 2020-10-23 13:57:30
 published_gmt: 2020-10-23 12:57:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/10/blkb-regional-bank-that-favours-a-future-orientated-approach/"
 categories: ["Corporate", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7c846d2bc92f23ab4290bba8e31e65cdbb3e2babb6e4f3de65196ad36de5147f
 canonical: 17546-blkb-regional-bank-that-favours-a-future-orientated-approach.json
 ---

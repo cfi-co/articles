@@ -1,12 +1,21 @@
 ---
 id: 26995
 title: "Managing Popular Banking and Practising Financial Inclusion? Challenges Accepted!"
-award_year: 2024
+year: 2024
 published: 2024-08-07 09:00:14
 published_gmt: 2024-08-07 08:00:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/08/managing-popular-banking-and-practising-financial-inclusion-challenges-accepted/"
 categories: ["Banking", "Corporate Leaders", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 474ba3831eb25d9ede3ff8f9f3edd07fde63d878f629857907e7231343775728
 canonical: 26995-managing-popular-banking-and-practising-financial-inclusion-challenges-accepted.json
 ---

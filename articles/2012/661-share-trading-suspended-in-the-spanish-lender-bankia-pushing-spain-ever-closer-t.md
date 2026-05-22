@@ -1,12 +1,21 @@
 ---
 id: 661
 title: "Share Trading Suspended in the Spanish Lender Bankia, Pushing Spain Ever Closer to Needing a Bailout"
-award_year: 2012
+year: 2012
 published: 2012-05-25 14:05:48
 published_gmt: 2012-05-25 13:05:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/05/share-trading-suspended-in-the-spanish-lender-bankia-pushing-spain-ever-closer-to-needing-a-bailout/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 446eef13da7ee4fd4b7a020212de0b6fef936ba4d67198c10149efc83d241705
 canonical: 661-share-trading-suspended-in-the-spanish-lender-bankia-pushing-spain-ever-closer-t.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 23511
 title: "Paul Horrocks, OECD: Risk, Return, Impact - SDG Aims Need a Shift of Focus"
-award_year: 2022
+year: 2022
 published: 2022-09-21 09:52:46
 published_gmt: 2022-09-21 08:52:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2022/09/paul-horrocks-oecd-risk-return-impact-sdg-aims-need-a-shift-of-focus/"
 categories: ["Europe", "Special Features", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fb16bd974b9d836c5ef6309adef4af75c58417a312155f8cc9d3ee8d8d315cbd
 canonical: 23511-paul-horrocks-oecd-risk-return-impact-sdg-aims-need-a-shift-of-focus.json
 ---

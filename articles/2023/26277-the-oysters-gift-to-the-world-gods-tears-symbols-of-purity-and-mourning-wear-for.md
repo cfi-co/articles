@@ -1,12 +1,21 @@
 ---
 id: 26277
 title: "The Oyster’s Gift to the World: Gods’ Tears, Symbols of Purity, and Mourning Wear for Royalty"
-award_year: 2023
+year: 2023
 published: 2023-10-26 19:53:40
 published_gmt: 2023-10-26 18:53:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2023/10/the-oysters-gift-to-the-world-gods-tears-symbols-of-purity-and-mourning-wear-for-royalty/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9b1ab0bf092d2da0fa9eb63c862d59687ff6f4c9c348d4ad99cc2ef1f0f28f16
 canonical: 26277-the-oysters-gift-to-the-world-gods-tears-symbols-of-purity-and-mourning-wear-for.json
 ---

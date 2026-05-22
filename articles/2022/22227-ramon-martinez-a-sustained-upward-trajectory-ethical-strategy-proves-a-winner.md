@@ -1,12 +1,21 @@
 ---
 id: 22227
 title: "Ramón Martínez Carrera: A Sustained Upward Trajectory — Ethical Strategy Proves a Winner"
-award_year: 2022
+year: 2022
 published: 2022-06-09 10:20:46
 published_gmt: 2022-06-09 09:20:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/06/ramon-martinez-carrera-a-sustained-upward-trajectory-ethical-strategy-proves-a-winner/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 11804960339e0ef2b28058277ac46778dbcdf93937875848e12b7a3d0749d12f
 canonical: 22227-ramon-martinez-a-sustained-upward-trajectory-ethical-strategy-proves-a-winner.json
 ---

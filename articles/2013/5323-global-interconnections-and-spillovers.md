@@ -1,12 +1,21 @@
 ---
 id: 5323
 title: "Global Interconnections and Spillovers"
-award_year: 2013
+year: 2013
 published: 2013-09-25 09:16:36
 published_gmt: 2013-09-25 08:16:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/09/global-interconnections-and-spillovers/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 42cefaec8afcb921d5f56af2c0c7c5f59c415d9cb0f0e420c48f06795a127dde
 canonical: 5323-global-interconnections-and-spillovers.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 15509
 title: "AFP Confía: Communication and Transparency Vital in  Drive to meet Clients’ Pension Needs"
-award_year: 2020
+year: 2020
 published: 2020-06-01 13:41:29
 published_gmt: 2020-06-01 12:41:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/06/afp-confia-communication-and-transparency-vital-in-drive-to-meet-clients-pension-needs/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 43e54e71ab35e2d8a54b0a220ce2f35ac8b8361b1908be0acdda88f5315e93b0
 canonical: 15509-afp-confia-communication-and-transparency-vital-in-drive-to-meet-clients-pension.json
 ---

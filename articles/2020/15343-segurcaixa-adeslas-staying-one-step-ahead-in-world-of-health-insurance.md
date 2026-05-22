@@ -1,12 +1,21 @@
 ---
 id: 15343
 title: "SegurCaixa Adeslas: Staying One Step Ahead in World of Health Insurance"
-award_year: 2020
+year: 2020
 published: 2020-05-14 10:32:58
 published_gmt: 2020-05-14 09:32:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/05/segurcaixa-adeslas-staying-one-step-ahead-in-world-of-health-insurance/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cd9f92b360b2dcd022a8953f6d826b9c03fa2c1dfdf80ccd87694a895fe4198c
 canonical: 15343-segurcaixa-adeslas-staying-one-step-ahead-in-world-of-health-insurance.json
 ---

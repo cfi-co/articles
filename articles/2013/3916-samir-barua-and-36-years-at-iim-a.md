@@ -1,12 +1,21 @@
 ---
 id: 3916
 title: "Samir Barua and 36 Years at IIM-A"
-award_year: 2013
+year: 2013
 published: 2013-05-15 08:31:05
 published_gmt: 2013-05-15 08:31:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/05/samir-barua-and-36-years-at-iim-a/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9c0246c3f2543e0b5b84f8064fb3e03fefb719d49bfc9a9699700200db8eb90a
 canonical: 3916-samir-barua-and-36-years-at-iim-a.json
 ---

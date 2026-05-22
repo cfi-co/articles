@@ -1,12 +1,21 @@
 ---
 id: 17467
 title: "SFO Group: A Disciplined Approach to Real Estate Investing"
-award_year: 2020
+year: 2020
 published: 2020-01-06 12:36:48
 published_gmt: 2020-01-06 12:36:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/01/sfo-group-a-disciplined-approach-to-real-estate-investing/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a66f4c7d7ad48cec18a4009df3e1a1cdb518e297762819b1031333e25d9e6e3c
 canonical: 17467-sfo-group-a-disciplined-approach-to-real-estate-investing.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27347
 title: "Ploughing a Determined Path to Lead the Field in Financial Sector"
-award_year: 2024
+year: 2024
 published: 2024-12-04 13:12:18
 published_gmt: 2024-12-04 13:12:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2024/12/ploughing-a-determined-path-to-lead-the-field-in-financial-sector/"
 categories: ["Africa", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6528b5f44b91b7794bb4d367bab269d8a1fb52ee505d0cdcc28674fce909c164
 canonical: 27347-ploughing-a-determined-path-to-lead-the-field-in-financial-sector.json
 ---

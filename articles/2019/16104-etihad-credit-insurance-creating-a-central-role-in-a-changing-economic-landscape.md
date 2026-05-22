@@ -1,12 +1,21 @@
 ---
 id: 16104
 title: "Etihad Credit Insurance: Creating a Central Role in a Changing Economic Landscape"
-award_year: 2019
+year: 2019
 published: 2019-10-02 13:16:41
 published_gmt: 2019-10-02 12:16:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/10/etihad-credit-insurance-creating-a-central-role-in-a-changing-economic-landscape/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2aab6e7e58a61b278b1117f36bdce2ab62be8c435b2a8b904e420cc8dee8803b
 canonical: 16104-etihad-credit-insurance-creating-a-central-role-in-a-changing-economic-landscape.json
 ---

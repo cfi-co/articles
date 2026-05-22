@@ -1,12 +1,21 @@
 ---
 id: 181
 title: "Indonesia To Top \"Happy Index\""
-award_year: 2012
+year: 2012
 published: 2012-02-26 14:12:31
 published_gmt: 2012-02-26 14:12:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/02/indonesia-to-top-happy-index/"
 categories: ["Africa", "Asia Pacific", "Europe", "Latin America", "Lifestyle", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e630ca2fd2cbd7d45ed4046e465dafc24617a30067371eaa5003087cbcf7703b
 canonical: 181-indonesia-to-top-happy-index.json
 ---

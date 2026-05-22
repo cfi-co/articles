@@ -1,12 +1,21 @@
 ---
 id: 5392
 title: "What Really Spurred the Great Recession?"
-award_year: 2013
+year: 2013
 published: 2013-10-03 13:11:38
 published_gmt: 2013-10-03 12:11:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/10/what-really-spurred-the-great-recession/"
 categories: ["Banking", "Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d38f105eb16a832cd63933a005d0ccaeea5f788a147d77d2d807a1f8a9163eb3
 canonical: 5392-what-really-spurred-the-great-recession.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26698
 title: "Byblos Bank Europe (BBE): A Niche Bank Getting Bigger and Better"
-award_year: 2024
+year: 2024
 published: 2024-02-22 16:40:31
 published_gmt: 2024-02-22 16:40:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/02/byblos-bank-europe-bbe-a-niche-bank-getting-bigger-and-better/"
 categories: ["Banking", "Corporate", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 105c7f327ec66720888cb9e6abd564f7e97da1fdc85ad4dadb29b0226d844af1
 canonical: 26698-byblos-bank-europe-bbe-a-niche-bank-getting-bigger-and-better.json
 ---

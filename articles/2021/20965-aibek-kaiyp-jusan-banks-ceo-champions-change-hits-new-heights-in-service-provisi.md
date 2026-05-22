@@ -1,12 +1,21 @@
 ---
 id: 20965
 title: "Aibek Kaiyp: Jusan Bank’s CEO Champions Change, Hits New Heights in Service Provision"
-award_year: 2021
+year: 2021
 published: 2021-11-04 11:34:42
 published_gmt: 2021-11-04 11:34:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/aibek-kaiyp-jusan-banks-ceo-champions-change-hits-new-heights-in-service-provision/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3c48fc21f89fd927fc276bb3c0e797817c9ae3052e3cd696f0c0dd31c700b3b6
 canonical: 20965-aibek-kaiyp-jusan-banks-ceo-champions-change-hits-new-heights-in-service-provisi.json
 ---

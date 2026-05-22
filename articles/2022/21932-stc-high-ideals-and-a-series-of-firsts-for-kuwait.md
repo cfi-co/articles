@@ -1,12 +1,21 @@
 ---
 id: 21932
 title: "stc: High Ideals, and a Series of Firsts for Kuwait"
-award_year: 2022
+year: 2022
 published: 2022-05-18 07:11:50
 published_gmt: 2022-05-18 06:11:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/stc-high-ideals-and-a-series-of-firsts-for-kuwait/"
 categories: ["Corporate", "Innovation &amp; Technology", "Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fef2dd09d8b425475acbf0514caaccbc960b8f574ef96f0ce640cb4b3bd14013
 canonical: 21932-stc-high-ideals-and-a-series-of-firsts-for-kuwait.json
 ---

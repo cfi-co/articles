@@ -1,12 +1,21 @@
 ---
 id: 6174
 title: "A Grateful World Mourns Nelson Mandela"
-award_year: 2013
+year: 2013
 published: 2013-12-06 09:53:24
 published_gmt: 2013-12-06 09:53:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/12/a-grateful-world-mourns-nelson-mandela/"
 categories: ["Africa", "Obituaries"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 76fbe5da9120b2e1505d83aaf62f71c2cc2b0c16be5d91723ae223acd304b71f
 canonical: 6174-a-grateful-world-mourns-nelson-mandela.json
 ---

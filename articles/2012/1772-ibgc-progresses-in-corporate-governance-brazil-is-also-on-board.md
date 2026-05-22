@@ -1,12 +1,21 @@
 ---
 id: 1772
 title: "IBGC: Progresses in Corporate Governance - Brazil is Also on Board"
-award_year: 2012
+year: 2012
 published: 2012-08-17 12:06:23
 published_gmt: 2012-08-17 11:06:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2012/08/ibgc-progresses-in-corporate-governance-brazil-is-also-on-board/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 54185acd6057947512953f7233deaeafcc38806078ecea842436b5f75c6dd934
 canonical: 1772-ibgc-progresses-in-corporate-governance-brazil-is-also-on-board.json
 ---

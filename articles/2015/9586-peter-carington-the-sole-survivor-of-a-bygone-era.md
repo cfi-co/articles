@@ -1,12 +1,21 @@
 ---
 id: 9586
 title: "Peter Carington: The Sole Survivor of a Bygone Era"
-award_year: 2015
+year: 2015
 published: 2015-03-26 10:54:09
 published_gmt: 2015-03-26 10:54:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2015/03/peter-carington-the-sole-survivor-of-a-bygone-era/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2aaf72b1f4d46c67aed735c3b22fef9d6091a6273dd302def5e270f9aa5c16d3
 canonical: 9586-peter-carington-the-sole-survivor-of-a-bygone-era.json
 ---

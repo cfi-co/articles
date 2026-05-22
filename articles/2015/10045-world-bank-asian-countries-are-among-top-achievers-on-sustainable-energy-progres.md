@@ -1,12 +1,21 @@
 ---
 id: 10045
 title: "World Bank: Asian Countries are among Top Achievers on Sustainable Energy Progress"
-award_year: 2015
+year: 2015
 published: 2015-06-19 11:35:26
 published_gmt: 2015-06-19 10:35:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/06/world-bank-asian-countries-are-among-top-achievers-on-sustainable-energy-progress/"
 categories: ["Asia Pacific", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 41b9cbc389bd1860c33a99010f78ed09592025e7dd338362b3e038dc72f30131
 canonical: 10045-world-bank-asian-countries-are-among-top-achievers-on-sustainable-energy-progres.json
 ---

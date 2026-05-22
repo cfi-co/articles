@@ -1,12 +1,21 @@
 ---
 id: 28221
 title: "The “Sell America” Trade Returns — With Greenland at the Centre"
-award_year: 2026
+year: 2026
 published: 2026-01-21 10:16:39
 published_gmt: 2026-01-21 10:16:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2026/01/the-sell-america-trade-returns-with-greenland-at-the-centre/"
 categories: ["Finance", "Markets", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e2dbbed394a050580408a96f88ba4a009f8ba4f7896528d75c98cdb3e170bf2b
 canonical: 28221-the-sell-america-trade-returns-with-greenland-at-the-centre.json
 ---

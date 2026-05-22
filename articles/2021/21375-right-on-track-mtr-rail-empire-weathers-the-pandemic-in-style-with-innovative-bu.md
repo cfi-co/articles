@@ -1,12 +1,21 @@
 ---
 id: 21375
 title: "Right On Track: MTR Rail Empire Weathers the Pandemic in Style with Innovative Business Model"
-award_year: 2021
+year: 2021
 published: 2021-12-18 05:45:54
 published_gmt: 2021-12-18 05:45:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/12/right-on-track-mtr-rail-empire-weathers-the-pandemic-in-style-with-innovative-business-model/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0db8ffafdef84a3014fbafd6ff452d93583f89e7297506bf0c8431aa4c14eafa
 canonical: 21375-right-on-track-mtr-rail-empire-weathers-the-pandemic-in-style-with-innovative-bu.json
 ---

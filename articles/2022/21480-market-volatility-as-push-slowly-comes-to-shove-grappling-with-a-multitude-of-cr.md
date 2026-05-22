@@ -1,12 +1,21 @@
 ---
 id: 21480
 title: "Market Volatility as Push (Slowly) Comes to Shove: Grappling with a Multitude of Crises in an Increasingly Dangerous World"
-award_year: 2022
+year: 2022
 published: 2022-01-24 16:35:18
 published_gmt: 2022-01-24 16:35:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/01/market-volatility-as-push-slowly-comes-to-shove-grappling-with-a-multitude-of-crises-in-an-increasingly-dangerous-world/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5ed82414555759064b0dbe54bf6df49867ecb390a9efe71e4ba6df5a13a62fcf
 canonical: 21480-market-volatility-as-push-slowly-comes-to-shove-grappling-with-a-multitude-of-cr.json
 ---

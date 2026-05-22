@@ -1,12 +1,21 @@
 ---
 id: 24692
 title: "Oracle CEO Safra Catz"
-award_year: 2023
+year: 2023
 published: 2023-02-02 12:45:58
 published_gmt: 2023-02-02 12:45:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2023/02/oracle-ceo-safra-catz/"
 categories: ["Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2e5f468861a05251b46f69623bf1163d219d36995f45d4e112108380c31a9a4f
 canonical: 24692-oracle-ceo-safra-catz.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 18792
 title: "Charlene Cranny: Tipping-Point Year on the Road to Net-Zero Reality, with a Transition Truly Under Way"
-award_year: 2021
+year: 2021
 published: 2021-02-22 08:25:07
 published_gmt: 2021-02-22 08:25:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2021/02/charlene-cranny-tipping-point-year-on-the-road-to-net-zero-reality-with-a-transition-truly-under-way/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0841b1f2d4872bc4eae9190193babca608e67a3ed18866fb4e5c0918cba843e2
 canonical: 18792-charlene-cranny-tipping-point-year-on-the-road-to-net-zero-reality-with-a-transi.json
 ---

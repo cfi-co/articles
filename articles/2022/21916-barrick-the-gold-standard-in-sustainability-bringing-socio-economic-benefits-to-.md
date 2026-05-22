@@ -1,12 +1,21 @@
 ---
 id: 21916
 title: "Barrick Gold Corporation: The Gold Standard in Sustainability - Bringing Socio-Economic Benefits to Host Countries and Communities"
-award_year: 2022
+year: 2022
 published: 2022-05-18 06:22:09
 published_gmt: 2022-05-18 05:22:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/barrick-the-gold-standard-in-sustainability-bringing-socio-economic-benefits-to-host-countries-and-communities/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 349b4db04ca2127cbc33432866b928bc7824cf01e4567dfd486745ba70eaa257
 canonical: 21916-barrick-the-gold-standard-in-sustainability-bringing-socio-economic-benefits-to-.json
 ---

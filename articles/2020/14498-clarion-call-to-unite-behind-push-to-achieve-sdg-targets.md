@@ -1,12 +1,21 @@
 ---
 id: 14498
 title: "Clarion Call to Unite Behind  Push to Achieve SDG Targets"
-award_year: 2020
+year: 2020
 published: 2020-01-07 14:01:52
 published_gmt: 2020-01-07 14:01:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/01/clarion-call-to-unite-behind-push-to-achieve-sdg-targets/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cf2b9708e3911955e21d43b36380b1e1e74af722ff927a5f162030a2f1f9f855
 canonical: 14498-clarion-call-to-unite-behind-push-to-achieve-sdg-targets.json
 ---

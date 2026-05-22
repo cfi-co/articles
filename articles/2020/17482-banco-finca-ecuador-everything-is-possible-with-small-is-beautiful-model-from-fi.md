@@ -1,12 +1,21 @@
 ---
 id: 17482
 title: "Banco FINCA Ecuador: Everything Is Possible with ‘Small-Is-Beautiful’ Model from FINCA"
-award_year: 2020
+year: 2020
 published: 2020-01-05 12:46:35
 published_gmt: 2020-01-05 12:46:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/01/banco-finca-ecuador-everything-is-possible-with-small-is-beautiful-model-from-finca/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: de4521ff8c994c9f4350186e2d24ee8d4da7ac39b70d5104e740ef9055917ff8
 canonical: 17482-banco-finca-ecuador-everything-is-possible-with-small-is-beautiful-model-from-fi.json
 ---

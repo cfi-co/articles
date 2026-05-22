@@ -1,12 +1,21 @@
 ---
 id: 11706
 title: "Otaviano Canuto, World Bank: Matchmaking Finance and Infrastructure"
-award_year: 2017
+year: 2017
 published: 2017-07-15 14:04:48
 published_gmt: 2017-07-15 13:04:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2017/07/otaviano-canuto-world-bank-matchmaking-finance-and-infrastructure/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e7b75c7ace985f6b68446503db8e2c63d24f959aba20fb0d42725f86fe65577b
 canonical: 11706-otaviano-canuto-world-bank-matchmaking-finance-and-infrastructure.json
 ---

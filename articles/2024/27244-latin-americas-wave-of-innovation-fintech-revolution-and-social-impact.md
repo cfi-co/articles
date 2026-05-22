@@ -1,12 +1,21 @@
 ---
 id: 27244
 title: "Latin America's Wave of Innovation: Fintech Revolution and Social Impact"
-award_year: 2024
+year: 2024
 published: 2024-11-01 13:41:54
 published_gmt: 2024-11-01 13:41:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2024/11/latin-americas-wave-of-innovation-fintech-revolution-and-social-impact/"
 categories: ["Latin America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1e5d2bd3adbc3594d61a1e7417a9378803baeeca8f2dfc7db608438e8cfb1e64
 canonical: 27244-latin-americas-wave-of-innovation-fintech-revolution-and-social-impact.json
 ---

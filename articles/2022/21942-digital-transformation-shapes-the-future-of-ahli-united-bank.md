@@ -1,12 +1,21 @@
 ---
 id: 21942
 title: "Digital Transformation Shapes the Future of AUB"
-award_year: 2022
+year: 2022
 published: 2022-05-18 07:27:44
 published_gmt: 2022-05-18 06:27:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/digital-transformation-shapes-the-future-of-ahli-united-bank/"
 categories: ["Banking", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3813fd79312899426012ddaea457159d9f5567b49186d2799292843217d86c81
 canonical: 21942-digital-transformation-shapes-the-future-of-ahli-united-bank.json
 ---

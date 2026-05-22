@@ -1,12 +1,21 @@
 ---
 id: 21678
 title: "Rebecca Carter, WiseEnergy: Aligning the Stars to Create a Smart Solar System"
-award_year: 2022
+year: 2022
 published: 2022-04-05 07:28:49
 published_gmt: 2022-04-05 06:28:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/04/rebecca-carter-wiseenergy-aligning-the-stars-to-create-a-smart-solar-system/"
 categories: ["Corporate", "Energy"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1ff70215c25917ee583cb15dd1e8533da50f8c46d128b24348d3c62ea225f630
 canonical: 21678-rebecca-carter-wiseenergy-aligning-the-stars-to-create-a-smart-solar-system.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 13480
 title: "Bahrain Minister of Industry, Commerce, and Tourism Zayed Bin Rashid Al Zayani: Maintaining and Expanding a Leading Edge"
-award_year: 2019
+year: 2019
 published: 2019-03-28 16:54:09
 published_gmt: 2019-03-28 16:54:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2019/03/bahrain-minister-of-industry-commerce-and-tourism-zayed-bin-rashid-al-zayani-maintaining-and-expanding-a-leading-edge/"
 categories: ["Markets", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 64880688cf673d9a8684bdbcd59f5ed3e0b05e524617ce090db338af9d4ace65
 canonical: 13480-bahrain-minister-of-industry-commerce-and-tourism-zayed-bin-rashid-al-zayani-mai.json
 ---

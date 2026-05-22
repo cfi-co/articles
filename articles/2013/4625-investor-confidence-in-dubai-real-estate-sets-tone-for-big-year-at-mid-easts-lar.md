@@ -1,12 +1,21 @@
 ---
 id: 4625
 title: "Investor Confidence in Dubai Real Estate Sets Tone for Big Year at Mid East's Largest Property Show"
-award_year: 2013
+year: 2013
 published: 2013-07-19 13:04:41
 published_gmt: 2013-07-19 12:04:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/07/investor-confidence-in-dubai-real-estate-sets-tone-for-big-year-at-mid-easts-largest-property-show/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5d43c3616319228e998fda87641a7488ed515694d2d853539e730638f71e545c
 canonical: 4625-investor-confidence-in-dubai-real-estate-sets-tone-for-big-year-at-mid-easts-lar.json
 ---

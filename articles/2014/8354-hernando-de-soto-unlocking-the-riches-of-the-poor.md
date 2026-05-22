@@ -1,12 +1,21 @@
 ---
 id: 8354
 title: "Hernando de Soto: Unlocking the Riches of the Poor"
-award_year: 2014
+year: 2014
 published: 2014-11-05 11:20:03
 published_gmt: 2014-11-05 11:20:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2014/11/hernando-de-soto-unlocking-the-riches-of-the-poor/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2f50d10be74b4bc646bab82d83e423af155ad8bee079674a421f4a6f11f73438
 canonical: 8354-hernando-de-soto-unlocking-the-riches-of-the-poor.json
 ---

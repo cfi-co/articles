@@ -1,12 +1,21 @@
 ---
 id: 4536
 title: "CBI Urges Banks to Think of Customers First"
-award_year: 2013
+year: 2013
 published: 2013-07-09 11:32:46
 published_gmt: 2013-07-09 10:32:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/07/cbi-urges-banks-to-think-of-customers-first/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2071d1aabde34294c5f4b9e8f5a99021c279d94c04204c39291789762497ae9d
 canonical: 4536-cbi-urges-banks-to-think-of-customers-first.json
 ---

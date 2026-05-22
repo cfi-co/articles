@@ -1,12 +1,21 @@
 ---
 id: 2443
 title: "Usain Bolt: Nothing Left to Prove?"
-award_year: 2012
+year: 2012
 published: 2012-10-26 10:58:32
 published_gmt: 2012-10-26 10:58:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2012/10/usain-bolt-nothing-left-to-prove/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f694a2b16b51d6acdc1162686e55ce1023b308ff2c003d4d8a57ddb9d0ade479
 canonical: 2443-usain-bolt-nothing-left-to-prove.json
 ---

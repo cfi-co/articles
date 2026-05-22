@@ -1,12 +1,21 @@
 ---
 id: 8544
 title: "World Bank: Framing the Future of Accountancy"
-award_year: 2014
+year: 2014
 published: 2014-12-18 10:22:53
 published_gmt: 2014-12-18 10:22:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/12/world-bank-framing-the-future-of-accountancy/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2222283736828ca339c0238e4c9c9cb3950849cefa0357f07c05561266048ef5
 canonical: 8544-world-bank-framing-the-future-of-accountancy.json
 ---

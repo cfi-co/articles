@@ -1,12 +1,21 @@
 ---
 id: 11976
 title: "Guy Verhofstadt"
-award_year: 2017
+year: 2017
 published: 2017-09-12 12:57:50
 published_gmt: 2017-09-12 11:57:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2017/09/guy-verhofstadt/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2412493cb2af02cbca18c902e546b0fb74ee356deff75763f27af00b694f936d
 canonical: 11976-guy-verhofstadt.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26290
 title: "A Passion for Inclusivity and the Arts: Meet the Chief Exec of an Islamic Bank"
-award_year: 2023
+year: 2023
 published: 2023-10-31 11:06:17
 published_gmt: 2023-10-31 11:06:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2023/10/mufaddal-idris-khumri-a-passion-for-inclusivity-and-the-arts/"
 categories: ["Asia Pacific", "Corporate", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9250a96c8e308d367419349f4344819942b105c26e326b3ab4327dff8683a5b8
 canonical: 26290-a-passion-for-inclusivity-and-the-arts-meet-the-chief-exec-of-an-islamic-bank.json
 ---

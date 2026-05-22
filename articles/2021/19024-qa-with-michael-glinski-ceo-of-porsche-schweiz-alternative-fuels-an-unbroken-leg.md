@@ -1,12 +1,21 @@
 ---
 id: 19024
 title: "Q&A with Michael Glinski, CEO of Porsche Schweiz: Alternative Fuels, an Unbroken Legacy, and a Sports Car’s Place in the Modern World"
-award_year: 2021
+year: 2021
 published: 2021-03-10 08:47:00
 published_gmt: 2021-03-10 08:47:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2021/03/qa-with-michael-glinski-ceo-of-porsche-schweiz-alternative-fuels-an-unbroken-legacy-and-a-sports-cars-place-in-the-modern-world/"
 categories: ["Europe", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6cf18a8904d2dad9562d7eedf1aecd129fe5cd0e409d1932e62a6dbc7cbc81ee
 canonical: 19024-qa-with-michael-glinski-ceo-of-porsche-schweiz-alternative-fuels-an-unbroken-leg.json
 ---

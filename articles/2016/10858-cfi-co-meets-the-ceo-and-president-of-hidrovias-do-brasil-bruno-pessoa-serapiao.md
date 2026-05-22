@@ -1,12 +1,21 @@
 ---
 id: 10858
 title: "CFI.co Meets the CEO and President of Hidrovias do Brasil: Bruno Pessoa Serapião"
-award_year: 2016
+year: 2016
 published: 2016-01-21 16:10:04
 published_gmt: 2016-01-21 16:10:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-and-president-of-hidrovias-do-brasil-bruno-pessoa-serapiao/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3e798d22d851f75341c0815a788d855a96113b4fa0a6e1d5356c7aaa6255c3f4
 canonical: 10858-cfi-co-meets-the-ceo-and-president-of-hidrovias-do-brasil-bruno-pessoa-serapiao.json
 ---

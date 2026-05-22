@@ -1,12 +1,21 @@
 ---
 id: 3553
 title: "Minister Okonjo-Weala: Right Place at the Right Time"
-award_year: 2013
+year: 2013
 published: 2013-04-05 10:34:34
 published_gmt: 2013-04-05 10:34:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/04/minister-okonjo-weala-right-place-at-the-right-time/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 67f8057c254f67990b16646bf0648d63608105a4a41a20d880ec675c89cf55d2
 canonical: 3553-minister-okonjo-weala-right-place-at-the-right-time.json
 ---

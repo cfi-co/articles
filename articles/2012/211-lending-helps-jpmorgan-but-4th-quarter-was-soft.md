@@ -1,12 +1,21 @@
 ---
 id: 211
 title: "Lending Helps JPMorgan, but 4th Quarter Was Soft"
-award_year: 2012
+year: 2012
 published: 2012-02-06 14:32:08
 published_gmt: 2012-02-06 14:32:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2012/02/lending-helps-jpmorgan-but-4th-quarter-was-soft/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d7e3e763eeb65277e647788cf62cbda0f72e12524c3b5b44f07ec0fde5c605e7
 canonical: 211-lending-helps-jpmorgan-but-4th-quarter-was-soft.json
 ---

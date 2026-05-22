@@ -1,12 +1,21 @@
 ---
 id: 11737
 title: "Hans Peter Lankes, IFC: IFC’s Development Impact, One Market at a Time"
-award_year: 2017
+year: 2017
 published: 2017-08-01 13:32:37
 published_gmt: 2017-08-01 12:32:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2017/08/hans-peter-lankes-ifc-ifcs-development-impact-one-market-at-a-time/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d1a3fbf86ce958cc15d5c48451c25ae2f0725752924e3ffa69e6236e9ccaca5c
 canonical: 11737-hans-peter-lankes-ifc-ifcs-development-impact-one-market-at-a-time.json
 ---

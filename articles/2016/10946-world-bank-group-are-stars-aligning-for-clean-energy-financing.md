@@ -1,12 +1,21 @@
 ---
 id: 10946
 title: "World Bank Group: Are Stars Aligning for Clean-Energy Financing?"
-award_year: 2016
+year: 2016
 published: 2016-01-25 14:59:45
 published_gmt: 2016-01-25 14:59:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2016/01/world-bank-group-are-stars-aligning-for-clean-energy-financing/"
 categories: ["Europe", "Finance", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 83a1221b1ae2d921dafe233811e1c9ba4d32f69c6e16db371c21ee5302ef7e52
 canonical: 10946-world-bank-group-are-stars-aligning-for-clean-energy-financing.json
 ---

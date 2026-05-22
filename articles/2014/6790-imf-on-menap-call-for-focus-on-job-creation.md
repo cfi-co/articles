@@ -1,12 +1,21 @@
 ---
 id: 6790
 title: "IMF on MENAP: Call for Focus on Job Creation"
-award_year: 2014
+year: 2014
 published: 2014-03-12 11:57:28
 published_gmt: 2014-03-12 11:57:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/03/imf-on-menap-call-for-focus-on-job-creation/"
 categories: ["Middle East", "North America", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 45f99fe3a0e7566a7cfcf0458544df7476806222779817061ee443d98bf5f2be
 canonical: 6790-imf-on-menap-call-for-focus-on-job-creation.json
 ---

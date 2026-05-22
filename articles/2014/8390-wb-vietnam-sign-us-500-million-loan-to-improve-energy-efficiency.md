@@ -1,12 +1,21 @@
 ---
 id: 8390
 title: "WB, Vietnam Sign US$ 500 Million Loan to Improve Energy Efficiency"
-award_year: 2014
+year: 2014
 published: 2014-11-13 12:35:54
 published_gmt: 2014-11-13 12:35:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/11/wb-vietnam-sign-us-500-million-loan-to-improve-energy-efficiency/"
 categories: ["Asia Pacific", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3aa9957b2b944ab23be0d7d2c0612a1317a73df8f413bb5437b3f527638c0446
 canonical: 8390-wb-vietnam-sign-us-500-million-loan-to-improve-energy-efficiency.json
 ---

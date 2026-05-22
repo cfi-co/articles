@@ -1,12 +1,21 @@
 ---
 id: 13148
 title: "Iker Casillas: Scoring Goals for Change"
-award_year: 2018
+year: 2018
 published: 2018-06-12 12:24:11
 published_gmt: 2018-06-12 11:24:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/06/iker-casillas-scoring-goals-for-change/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 179698001f4514f7ba537b1653c07d0c3d490c8e8b131160cd818c6e12329819
 canonical: 13148-iker-casillas-scoring-goals-for-change.json
 ---

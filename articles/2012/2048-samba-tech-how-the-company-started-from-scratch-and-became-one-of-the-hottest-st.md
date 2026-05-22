@@ -1,12 +1,21 @@
 ---
 id: 2048
 title: "Samba Tech: One of the Hottest Startups in the World"
-award_year: 2012
+year: 2012
 published: 2012-08-28 21:17:24
 published_gmt: 2012-08-28 20:17:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2012/08/samba-tech-how-the-company-started-from-scratch-and-became-one-of-the-hottest-startups-in-the-world/"
 categories: ["Latin America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 50cdf7bb8ef6f1f688c816b8bdf6aa29cfbfb445be1f31614892c9dc20611dd0
 canonical: 2048-samba-tech-how-the-company-started-from-scratch-and-became-one-of-the-hottest-st.json
 ---

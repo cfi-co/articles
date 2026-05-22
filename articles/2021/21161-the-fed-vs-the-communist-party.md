@@ -1,12 +1,21 @@
 ---
 id: 21161
 title: "The Fed vs the Communist Party"
-award_year: 2021
+year: 2021
 published: 2021-11-18 12:16:49
 published_gmt: 2021-11-18 12:16:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2021/11/the-fed-vs-the-communist-party/"
 categories: ["Asia Pacific", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f9448b6383e4719c345c2af990fed4b46a48828d9d1ee05be65721d091315b9d
 canonical: 21161-the-fed-vs-the-communist-party.json
 ---

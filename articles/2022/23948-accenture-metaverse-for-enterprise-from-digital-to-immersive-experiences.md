@@ -1,12 +1,21 @@
 ---
 id: 23948
 title: "Accenture: Metaverse for Enterprise, from Digital to Immersive Experiences"
-award_year: 2022
+year: 2022
 published: 2022-11-10 07:50:01
 published_gmt: 2022-11-10 07:50:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2022/11/accenture-metaverse-for-enterprise-from-digital-to-immersive-experiences/"
 categories: ["Innovation &amp; Technology", "Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 716d5b1215987c3257adf4ee263770418c9a9bd7dffcb4a5d8c6be8f66c1a824
 canonical: 23948-accenture-metaverse-for-enterprise-from-digital-to-immersive-experiences.json
 ---

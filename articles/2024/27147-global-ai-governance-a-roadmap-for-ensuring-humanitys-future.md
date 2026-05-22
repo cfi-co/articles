@@ -1,12 +1,21 @@
 ---
 id: 27147
 title: "Global AI Governance: A Roadmap for Ensuring Humanity’s Future"
-award_year: 2024
+year: 2024
 published: 2024-09-19 11:47:19
 published_gmt: 2024-09-19 10:47:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2024/09/global-ai-governance-a-roadmap-for-ensuring-humanitys-future/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2719ff439b0ecc200febcce56a0d86e6bd4c0a391057f2fcb8e2672e5e659f45
 canonical: 27147-global-ai-governance-a-roadmap-for-ensuring-humanitys-future.json
 ---

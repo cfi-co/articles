@@ -1,12 +1,21 @@
 ---
 id: 24775
 title: "Death to Debt! The People and Organisations Saying ‘No to Owe’ — and Picking Up the Tab for Us"
-award_year: 2023
+year: 2023
 published: 2023-02-15 11:59:39
 published_gmt: 2023-02-15 11:59:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/02/death-to-debt-the-people-and-organisations-saying-no-to-owe-and-picking-up-the-tab-for-us/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f05ed570c4d8610c1c7693c819f41f764219564225b41f75bac2b5b1b0a3f61e
 canonical: 24775-death-to-debt-the-people-and-organisations-saying-no-to-owe-and-picking-up-the-t.json
 ---

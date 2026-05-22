@@ -1,12 +1,21 @@
 ---
 id: 17500
 title: "Banco Hipotecario: Vision, Dynamism and SDG-Adherence"
-award_year: 2020
+year: 2020
 published: 2020-01-23 12:55:29
 published_gmt: 2020-01-23 12:55:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/01/celina-padilla-meardi-banco-hipotecario-vision-dynamism-and-sdg-adherence/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ba8d788ecda0c60e9884b6a75dffb8634cb493f55b0c9a89046aef69e1ba87fe
 canonical: 17500-celina-padilla-meardi-banco-hipotecario-vision-dynamism-and-sdg-adherence.json
 ---

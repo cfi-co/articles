@@ -1,12 +1,21 @@
 ---
 id: 9552
 title: "CFI.co Meets the Head of Responsible Investments at Nordea Asset Management: Sasja Beslik"
-award_year: 2015
+year: 2015
 published: 2015-03-17 14:38:54
 published_gmt: 2015-03-17 14:38:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2015/03/cfi-co-meets-the-head-of-responsible-investments-at-nordea-asset-management-sasja-beslik/"
 categories: ["Banking", "Corporate Leaders", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e959354c04a8700549a4e9b2e3ab6f84577f2d238e46c257029db07688c7f612
 canonical: 9552-cfi-co-meets-the-head-of-responsible-investments-at-nordea-asset-management-sasj.json
 ---

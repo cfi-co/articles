@@ -1,12 +1,21 @@
 ---
 id: 5229
 title: "A Flash in the Pan Fizzles Out: The Downfall of a Brazilian Tycoon"
-award_year: 2013
+year: 2013
 published: 2013-09-06 10:43:06
 published_gmt: 2013-09-06 09:43:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/09/a-flash-in-the-pan-fizzles-out-the-downfall-of-a-brazilian-tycoon/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2c5be4c7f9f6f3aa356a7c20c3d6162dc8a3b41cac00acc22db104dc7479382b
 canonical: 5229-a-flash-in-the-pan-fizzles-out-the-downfall-of-a-brazilian-tycoon.json
 ---

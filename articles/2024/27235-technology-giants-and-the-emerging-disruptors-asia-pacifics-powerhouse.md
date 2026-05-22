@@ -1,12 +1,21 @@
 ---
 id: 27235
 title: "Technology Giants and the Emerging Disruptors: Asia Pacific’s Powerhouse"
-award_year: 2024
+year: 2024
 published: 2024-10-30 15:06:27
 published_gmt: 2024-10-30 15:06:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2024/10/technology-giants-and-the-emerging-disruptors-asia-pacifics-powerhouse/"
 categories: ["Asia Pacific", "Start-Ups", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0258d052617553c906ba789227992d74331ca142e6ec805fbdd086249b89a490
 canonical: 27235-technology-giants-and-the-emerging-disruptors-asia-pacifics-powerhouse.json
 ---

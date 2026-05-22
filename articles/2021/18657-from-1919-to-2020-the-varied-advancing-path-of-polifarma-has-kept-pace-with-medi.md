@@ -1,12 +1,21 @@
 ---
 id: 18657
 title: "From 1919 to 2020, the Varied, Advancing Path of Polifarma Has Kept Pace with Medical Needs"
-award_year: 2021
+year: 2021
 published: 2021-02-04 18:37:10
 published_gmt: 2021-02-04 18:37:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/from-1919-to-2020-the-varied-advancing-path-of-polifarma-has-kept-pace-with-medical-needs/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e43ebc0a91bb100271ff39d80fb9a52168d453a12ccf67b09d67f38e921b48be
 canonical: 18657-from-1919-to-2020-the-varied-advancing-path-of-polifarma-has-kept-pace-with-medi.json
 ---

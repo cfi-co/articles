@@ -1,12 +1,21 @@
 ---
 id: 7647
 title: "OECD: Achieving a Resilient Economic Recovery"
-award_year: 2014
+year: 2014
 published: 2014-07-22 10:34:31
 published_gmt: 2014-07-22 09:34:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/07/oecd-achieving-a-resilient-economic-recovery/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Latin America", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 78b037e43b7e6f107e7ad2f7c34225adb31fce966154726fd1068a28526d8d8d
 canonical: 7647-oecd-achieving-a-resilient-economic-recovery.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21935
 title: "Abdullah Al-Othman & Geidea: FinTech Supports SMEs and Saudi Vision 2030"
-award_year: 2022
+year: 2022
 published: 2022-05-18 07:14:24
 published_gmt: 2022-05-18 06:14:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/innovation-technology/2022/05/abdullah-al-othman-geidea-fintech-supports-smes-and-saudi-vision-2030/"
 categories: ["Corporate", "Innovation &amp; Technology", "SMEs"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9bec67ed13db293b21f2c56cc6b0a968183ef452f312725d2b38069551822afe
 canonical: 21935-abdullah-al-othman-geidea-fintech-supports-smes-and-saudi-vision-2030.json
 ---

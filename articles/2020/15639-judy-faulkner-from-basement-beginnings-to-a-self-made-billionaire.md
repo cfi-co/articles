@@ -1,12 +1,21 @@
 ---
 id: 15639
 title: "Judy Faulkner: From Basement Beginnings… to a Self-made Billionaire"
-award_year: 2020
+year: 2020
 published: 2020-06-12 12:16:35
 published_gmt: 2020-06-12 11:16:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2020/06/judy-faulkner-from-basement-beginnings-to-a-self-made-billionaire/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ec1b4dd56c2aca6fe001e0148b97362f99e47586360da9782a317e384147b40c
 canonical: 15639-judy-faulkner-from-basement-beginnings-to-a-self-made-billionaire.json
 ---

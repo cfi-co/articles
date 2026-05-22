@@ -1,12 +1,21 @@
 ---
 id: 16285
 title: "Cristina Junqueira, Nubank Co-Founder: Brazil's Wonder Woman of Fintech"
-award_year: 2020
+year: 2020
 published: 2020-10-26 15:05:44
 published_gmt: 2020-10-26 15:05:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2020/10/cristina-junqueira-nubank-co-founder-brazils-wonder-woman-of-fintech/"
 categories: ["Corporate Leaders", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b5d7edd736d0aea5665bbdcc8fa6f028f8521f0ea4b442da92d2fb5698eb9ec8
 canonical: 16285-cristina-junqueira-nubank-co-founder-brazils-wonder-woman-of-fintech.json
 ---

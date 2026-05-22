@@ -1,12 +1,21 @@
 ---
 id: 19913
 title: "Whitecroft Capital: Banks, Buffers, and One Strategy’s Vital Role in Bolstering Battered Economies"
-award_year: 2021
+year: 2021
 published: 2021-07-13 13:06:52
 published_gmt: 2021-07-13 12:06:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/whitecroft-capital-banks-buffers-and-one-strategys-vital-role-in-bolstering-battered-economies/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5116126ccf3bddbd7f7967b6dfaff762beaa7e2f6266d396dbdeec26d56ad0aa
 canonical: 19913-whitecroft-capital-banks-buffers-and-one-strategys-vital-role-in-bolstering-batt.json
 ---

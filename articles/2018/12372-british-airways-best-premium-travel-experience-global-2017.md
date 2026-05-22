@@ -1,12 +1,21 @@
 ---
 id: 12372
 title: "<br>British Airways: Best Premium Travel Experience Global"
-award_year: 2018
+year: 2018
 published: 2018-02-21 15:57:38
 published_gmt: 2018-02-21 15:57:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4b2e2ae2ab9d129af1f4859d09adbd5cfb1a2698772add8c165ac5c3a5ff6b1f
 canonical: 12372-british-airways-best-premium-travel-experience-global-2017.json
 ---

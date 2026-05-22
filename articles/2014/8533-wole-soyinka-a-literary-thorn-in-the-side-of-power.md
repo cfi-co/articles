@@ -1,12 +1,21 @@
 ---
 id: 8533
 title: "Wole Soyinka: A Literary Thorn in the Side of Power"
-award_year: 2014
+year: 2014
 published: 2014-12-16 09:43:31
 published_gmt: 2014-12-16 09:43:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2014/12/wole-soyinka-a-literary-thorn-in-the-side-of-power/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ac82429e61042a019f0e26be0fbf3fa0f1768eaa0800d352de2548a787afff1a
 canonical: 8533-wole-soyinka-a-literary-thorn-in-the-side-of-power.json
 ---

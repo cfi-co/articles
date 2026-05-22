@@ -1,12 +1,21 @@
 ---
 id: 6377
 title: "US Political Strife Threatens to Derail IMF Reforms"
-award_year: 2014
+year: 2014
 published: 2014-01-20 09:27:58
 published_gmt: 2014-01-20 09:27:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/01/us-political-strife-threatens-to-derail-imf-reforms/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e44e0c0f553f4e496cfc946519fe78d00fb2bc85204b312aff98bac46ab8e0d
 canonical: 6377-us-political-strife-threatens-to-derail-imf-reforms.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 19199
 title: "Employers Need to ‘Catch Up’ with Looming Covid Mental Health Crisis"
-award_year: 2021
+year: 2021
 published: 2021-03-18 11:48:16
 published_gmt: 2021-03-18 11:48:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/03/employers-need-to-catch-up-with-looming-covid-mental-health-crisis/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 28d29c5227d802cbbbd7ce8982e0acc35fdc4534b7da38a8ac96a3c2ab7e403e
 canonical: 19199-employers-need-to-catch-up-with-looming-covid-mental-health-crisis.json
 ---

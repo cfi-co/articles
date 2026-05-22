@@ -1,12 +1,21 @@
 ---
 id: 8814
 title: "World Bank Group: Remittances - A Vital Channel for Global Cash Flows"
-award_year: 2015
+year: 2015
 published: 2015-01-27 10:10:34
 published_gmt: 2015-01-27 10:10:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/01/world-bank-group-remittances-a-vital-channel-for-global-cash-flows/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Latin America", "Middle East", "North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b1e33f5f5fe3f315780a3ec84da4fde8d6d65e6a4358924908250d7ac9a3fd2b
 canonical: 8814-world-bank-group-remittances-a-vital-channel-for-global-cash-flows.json
 ---

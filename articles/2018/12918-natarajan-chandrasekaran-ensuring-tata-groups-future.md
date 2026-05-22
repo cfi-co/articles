@@ -1,12 +1,21 @@
 ---
 id: 12918
 title: "Natarajan Chandrasekaran: Ensuring Tata Group’s Future"
-award_year: 2018
+year: 2018
 published: 2018-09-24 12:03:17
 published_gmt: 2018-09-24 11:03:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/09/natarajan-chandrasekaran-ensuring-tata-groups-future/"
 categories: ["Portraits"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4161c1cb0672e911e878a8b9c1acfc93740485e004af4285d2c36f3329ffebf5
 canonical: 12918-natarajan-chandrasekaran-ensuring-tata-groups-future.json
 ---

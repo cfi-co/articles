@@ -1,12 +1,21 @@
 ---
 id: 21864
 title: "Alimentation Couche-Tard: ACT Demonstrates How to Create a Diverse and Inclusive Organisation"
-award_year: 2022
+year: 2022
 published: 2022-05-17 17:59:46
 published_gmt: 2022-05-17 16:59:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/alimentation-couche-tard-act-demonstrates-how-to-create-a-diverse-and-inclusive-organisation/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d711e55fcedf21a0de810d34795a92f309e7058d8f3576b06d8204f509be26b3
 canonical: 21864-alimentation-couche-tard-act-demonstrates-how-to-create-a-diverse-and-inclusive-.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 117
 title: "CFI Top 25 Cities In Emerging Markets To Do Business"
-award_year: 2011
+year: 2011
 published: 2011-12-02 15:44:52
 published_gmt: 2011-12-02 15:44:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2011/12/cfi-top-25-cities-in-emerging-markets-to-do-business/"
 categories: ["Africa", "Asia Pacific", "Latin America", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4a8281a0b7472d328a4cd4a17056c26f0279776fa06aebea665f5545457a4e4b
 canonical: 117-cfi-top-25-cities-in-emerging-markets-to-do-business.json
 ---

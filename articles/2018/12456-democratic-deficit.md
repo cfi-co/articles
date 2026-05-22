@@ -1,12 +1,21 @@
 ---
 id: 12456
 title: "Democratic Deficit"
-award_year: 2018
+year: 2018
 published: 2018-05-01 13:06:18
 published_gmt: 2018-05-01 12:06:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/brexit-notes/2018/05/democratic-deficit/"
 categories: ["Brexit Notes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f63457f9542b4f968706ac3d8c34cf1882c8e065b1708497031329d4329a3cb0
 canonical: 12456-democratic-deficit.json
 ---

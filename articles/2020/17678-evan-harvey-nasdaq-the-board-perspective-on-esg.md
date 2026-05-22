@@ -1,12 +1,21 @@
 ---
 id: 17678
 title: "Evan Harvey, Nasdaq: The Board Perspective on ESG"
-award_year: 2020
+year: 2020
 published: 2020-10-27 12:18:06
 published_gmt: 2020-10-27 12:18:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/10/evan-harvey-nasdaq-the-board-perspective-on-esg/"
 categories: ["CSR", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1ff006581f9806c72ec858e2bfd32af551be4bb93823adb6021c4faf68b03993
 canonical: 17678-evan-harvey-nasdaq-the-board-perspective-on-esg.json
 ---

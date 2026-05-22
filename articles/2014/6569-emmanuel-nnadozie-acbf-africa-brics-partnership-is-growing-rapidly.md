@@ -1,12 +1,21 @@
 ---
 id: 6569
 title: "Emmanuel Nnadozie, ACBF: Africa - BRICS Partnership Is Growing Rapidly"
-award_year: 2014
+year: 2014
 published: 2014-02-07 11:25:31
 published_gmt: 2014-02-07 11:25:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/02/emmanuel-nnadozie-acbf-africa-brics-partnership-is-growing-rapidly/"
 categories: ["Africa", "Asia Pacific", "Finance", "Latin America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4656bba10e8ad7496162481854da0fa7bba5ff76637364129e9bfdc0987afb29
 canonical: 6569-emmanuel-nnadozie-acbf-africa-brics-partnership-is-growing-rapidly.json
 ---

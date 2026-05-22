@@ -1,12 +1,21 @@
 ---
 id: 19388
 title: "Amy Domini: Founder & Chair, Domini Impact Investments LLC"
-award_year: 2021
+year: 2021
 published: 2021-04-01 12:51:09
 published_gmt: 2021-04-01 11:51:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/04/amy-domini-founder-chair-domini-impact-investments-llc/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 88740e4859a8dcc8b1f40f82cc2bb8d5a759732a6bb0c450c676bf18eddc0de2
 canonical: 19388-amy-domini-founder-chair-domini-impact-investments-llc.json
 ---

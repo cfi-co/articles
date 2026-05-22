@@ -1,12 +1,21 @@
 ---
 id: 20878
 title: "Locked and Loaded in the Battle for Sustainability, Neuflize OBC Maintains Its Priority Values"
-award_year: 2021
+year: 2021
 published: 2021-10-28 12:34:49
 published_gmt: 2021-10-28 11:34:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/10/locked-and-loaded-in-the-battle-for-sustainability-neuflize-obc-maintains-its-priority-values/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f43f053a25552b127984677963eed5c07d4ef801cd9a87e07779817ec5ac0d88
 canonical: 20878-locked-and-loaded-in-the-battle-for-sustainability-neuflize-obc-maintains-its-pr.json
 ---

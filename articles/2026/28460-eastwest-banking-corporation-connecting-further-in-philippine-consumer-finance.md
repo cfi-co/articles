@@ -1,12 +1,21 @@
 ---
 id: 28460
 title: "EastWest Banking Corporation: Connecting Further in Philippine Consumer Finance"
-award_year: 2026
+year: 2026
 published: 2026-05-12 10:41:54
 published_gmt: 2026-05-12 09:41:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/approval/2026/05/eastwest-banking-corporation-connecting-further-in-philippine-consumer-finance/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 50a8937170b2defc83a0541c16e889d8e982abcde0d2994cc7e9ad8d54173f8e
 canonical: 28460-eastwest-banking-corporation-connecting-further-in-philippine-consumer-finance.json
 ---

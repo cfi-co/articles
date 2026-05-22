@@ -12,8 +12,21 @@
         "Oil &amp; Mining",
         "Projects"
     ],
+    "classification": {
+        "content_class": "editorial_analysis",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_4564\" align=\"alignright\" width=\"107\"]<img class=\" wp-image-4564   \" alt=\"Sheikh Mohammed Bin Maktoum Bin Juma Al Maktoum\" src=\"https://cfi.co/wp-content/uploads/2013/07/Sheikh-Mohammed-Bin-Maktoum-Bin-Juma-Al-Maktoum.jpg\" width=\"107\" height=\"111\" /> <strong>Sheikh Mohammed Bin Maktoum Bin Juma Al Maktoum</strong>[/caption]\r\n<p style=\"text-align: justify;\"><strong>Under the patronage of HH Sheikh Mohammed Bin Maktoum Bin Juma Al Maktoum, the fourth Iraq Mega Projects Conference and Exhibition, organised by the CWC Group and supported by the Iraqi Government, will take place from 30 September – 3 October 2013 at the Dubai International Convention and Exhibition Centre, UAE.</strong></p>\r\n<p style=\"text-align: justify;\">As Iraq plans to increase oil production by 30% in the next 18 months in a bid to achieve 157% output of the current rates by 2020, the Iraq Mega Projects Conference will gather major stakeholders and key decision makers to discuss the current challenges faced in oilfield production in Iraq. Solutions and best practice case studies will also be shared by representatives across the industry value chain to ensure that operators work with greater efficiency and meet contractual obligations.</p>\r\n\r\n<blockquote>\r\n<h3 style=\"text-align: justify;\">\"As Iraq plans to increase oil production by 30% in the next 18 months in a bid to achieve 157% output of the current rates by 2020, the Iraq Mega Projects Conference will gather major stakeholders and key decision makers to discuss the current challenges faced in oilfield production in Iraq.\"</h3>\r\n</blockquote>\r\n<p style=\"text-align: justify;\">“Iraq Mega Projects 2013 will continue to bring all stakeholders in Iraq’s oil sector together; ensuring companies have access to best practice, knowledge and technological showcases to facilitate project successes in the country. The two day conference combines local expertise and insight with global best practices for successful project execution in Iraq’s dynamic energy market. The industry relevant programme and exhibitors make it a must-attend event for all stakeholders and decision-makers in Iraq oilfield development,” Fredric Ponton, Director Government Relations Middle East, CWC Group.</p>\r\n<p style=\"text-align: justify;\">Key topics of the conference also include the logistical challenges of passing goods through the port of Basra, and distributing supplies by air and road to remote areas, corporate social responsibility and local content implementation to develop and utilise in-country value.</p>\r\n<p style=\"text-align: justify;\">The exhibition, accompanying the conference and ancillary events, offers an ideal opportunity for IOCs and NOCs to source innovative technologies and service providers essential to delivering key projects and ensuring contractual targets are met. With 100 companies showcasing their expertise, products and services to 2,500 visiting project managers, purchasing managers and senior decision-makers, Iraq Mega Projects 2013 promises to be the most comprehensive showcase and knowledge exchange platform yet.</p>",
     "content_sha256": "002d133b25b5ec8bcd0c2ac4f0f596378991878b436905ed2af64a6425276c97",
-    "record_sha256": "da765dbe3a241e1b0045e70a5155708a1b4f31f6dd777a81e460b61b88b70ee2"
+    "record_sha256": "cfd23f8fc2c09ef9c143c31ebce7dfb6b143817e7b2d03971146140f82d6e640"
 }

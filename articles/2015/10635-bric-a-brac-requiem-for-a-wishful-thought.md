@@ -1,12 +1,21 @@
 ---
 id: 10635
 title: "BRIC-à-Brac: Requiem for a Wishful Thought"
-award_year: 2015
+year: 2015
 published: 2015-11-13 16:07:58
 published_gmt: 2015-11-13 16:07:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/11/bric-a-brac-requiem-for-a-wishful-thought/"
 categories: ["Africa", "Asia Pacific", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1c572d6f767c67e362ed314fa1c199a1bf7fd6fa17ebbd1a47a65c20cac518a3
 canonical: 10635-bric-a-brac-requiem-for-a-wishful-thought.json
 ---

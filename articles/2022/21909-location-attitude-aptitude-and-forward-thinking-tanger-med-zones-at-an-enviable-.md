@@ -1,12 +1,21 @@
 ---
 id: 21909
 title: "Location, Attitude, Aptitude and Forward Thinking: Tanger Med Zones at an Enviable International Position"
-award_year: 2022
+year: 2022
 published: 2022-05-18 06:11:46
 published_gmt: 2022-05-18 05:11:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/location-attitude-aptitude-and-forward-thinking-tanger-med-zones-at-an-enviable-international-position/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fd50c22e84809f6673035dee78626fb2851ea3565ef55fbce780552689f75893
 canonical: 21909-location-attitude-aptitude-and-forward-thinking-tanger-med-zones-at-an-enviable-.json
 ---

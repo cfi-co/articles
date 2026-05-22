@@ -8,8 +8,21 @@
     "published_gmt": "2013-05-21 15:19:38",
     "modified_gmt": "2022-10-06 13:45:23",
     "categories": [],
+    "classification": {
+        "content_class": "editorial_analysis",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_4043\" align=\"alignright\" width=\"280\"]<img class=\" wp-image-4043 \" alt=\"Prof Colm Kearney\" src=\"https://cfi.co/wp-content/uploads/2013/05/Colm-Kearney.jpg\" width=\"280\" height=\"235\" /> <strong>Prof Colm Kearney</strong>[/caption]\r\n<p style=\"text-align: justify;\"><strong>Prof. Colm Kearney is currently dean of the Faculty of Business and Economics at Monash University.</strong> With many Asian students now looking to Australia for their higher business education as an alternative to US or European schools, Prof.  Kearney's international experience and business and finance expertise further enhance Monash's reputation as an important centre of academic excellence. The Monash objective is triple crown accreditation over the next few years and the engagement of  strong new faculty. Prof. Kearney's academic reputation, undoubted leadership skills and personal experience of accreditation matters are going to help push Monash to the elite level of business schools. Prof. Kearney is one a generation of deans whose mobility and broad experience is part of the global convergence of education.</p>",
     "content_sha256": "2ed111b3599e90580aed60f23a20a2b1d6ef4df313f5e5624f2b1718c68ad96f",
-    "record_sha256": "32916d7e6a7533ff9f261cd2a2446172a5677cc5c35dbc9dfc6ded12dad2b717"
+    "record_sha256": "e8a3bffab9c9b87980b60273cf3f061a417733c36b523e2aeaedc4d6fe4e2462"
 }

@@ -1,12 +1,21 @@
 ---
 id: 18150
 title: "Wealth on the Move: HNWIs Continually Searching for their Own Little Piece of Paradise"
-award_year: 2020
+year: 2020
 published: 2020-11-30 20:42:26
 published_gmt: 2020-11-30 20:42:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/11/wealth-on-the-move-hnwis-continually-searching-for-their-own-little-piece-of-paradise/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 12939c759e6ee1ee9610da8d7b74be08dc59cec3f3ab173fdde65902a1b3903f
 canonical: 18150-wealth-on-the-move-hnwis-continually-searching-for-their-own-little-piece-of-par.json
 ---

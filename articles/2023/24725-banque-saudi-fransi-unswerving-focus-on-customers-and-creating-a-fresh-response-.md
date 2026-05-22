@@ -1,12 +1,21 @@
 ---
 id: 24725
 title: "Banque Saudi Fransi: Unswerving Focus on Customers, and Creating a Fresh Response to Financial Needs of the Individual"
-award_year: 2023
+year: 2023
 published: 2023-02-06 11:08:04
 published_gmt: 2023-02-06 11:08:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2023/02/banque-saudi-fransi-unswerving-focus-on-customers-and-creating-a-fresh-response-to-financial-needs-of-the-individual/"
 categories: ["Banking", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 71fcafa99f577c40ee73f21d172ae52d055e6efdf6f66a31ccdd2b04bcf8e6d1
 canonical: 24725-banque-saudi-fransi-unswerving-focus-on-customers-and-creating-a-fresh-response-.json
 ---

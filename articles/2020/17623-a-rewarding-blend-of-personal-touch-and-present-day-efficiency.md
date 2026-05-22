@@ -1,12 +1,21 @@
 ---
 id: 17623
 title: "A Rewarding Blend of Personal Touch and Present-day Efficiency"
-award_year: 2020
+year: 2020
 published: 2020-10-26 15:41:01
 published_gmt: 2020-10-26 15:41:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/10/a-rewarding-blend-of-personal-touch-and-present-day-efficiency/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c86caa827824fe7d80443c226d41f524af11bc4d59fa59a9fd16de5997123c23
 canonical: 17623-a-rewarding-blend-of-personal-touch-and-present-day-efficiency.json
 ---

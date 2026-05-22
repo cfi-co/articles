@@ -1,12 +1,21 @@
 ---
 id: 21970
 title: "Augustin de Romanet, Chairman & CEO of Groupe ADP (Aéroports de Paris): ‘Keeping the World’s Gates Open’ —  Airport Chief Shares Insights and Aims"
-award_year: 2022
+year: 2022
 published: 2022-05-19 06:40:43
 published_gmt: 2022-05-19 05:40:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/lifestyle-menu/2022/05/augustin-de-romanet-chairman-ceo-of-groupe-adp-aeroports-de-paris-keeping-the-worlds-gates-open-airport-chief-shares-insights-and-aims/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 618cc450eb1b20e375178cedfaa8b808bdb7a47b2d3a8532bf99fd8032211cfc
 canonical: 21970-augustin-de-romanet-chairman-ceo-of-groupe-adp-aeroports-de-paris-keeping-the-wo.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 25914
 title: "South Africa Looks on While Brazil and India Face Off China and Russia"
-award_year: 2023
+year: 2023
 published: 2023-08-23 11:39:42
 published_gmt: 2023-08-23 10:39:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/08/south-africa-looks-on-while-brazil-and-india-face-off-china-and-russia/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 164d44b8e32b6a748c549ea7c4dc6c87be0b585f9da89a45d53334c24cc8f324
 canonical: 25914-south-africa-looks-on-while-brazil-and-india-face-off-china-and-russia.json
 ---

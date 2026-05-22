@@ -1,12 +1,21 @@
 ---
 id: 22498
 title: "Working from Home, or Living at Work? Hybrid is ‘Hell’, and a Return to Office may be Worse"
-award_year: 2022
+year: 2022
 published: 2022-07-28 12:06:12
 published_gmt: 2022-07-28 11:06:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/07/working-from-home-or-living-at-work-hybrid-is-hell-and-a-return-to-office-may-be-worse/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 312e0b438335198d80ca7b1408f1ad8de671782cb535e89ddbdb5f953d812e52
 canonical: 22498-working-from-home-or-living-at-work-hybrid-is-hell-and-a-return-to-office-may-be.json
 ---

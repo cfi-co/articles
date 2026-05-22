@@ -1,12 +1,21 @@
 ---
 id: 14343
 title: "Implementing the UN SDGs: A Job for Everyone, Everywhere"
-award_year: 2019
+year: 2019
 published: 2019-11-14 09:39:28
 published_gmt: 2019-11-14 09:39:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2019/11/implementing-the-un-sdgs-a-job-for-everyone-everywhere/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 30112fe9721c3861b0909e1f459b7ab1afcbb24f63e93b0233b01b1be1e3ca8f
 canonical: 14343-implementing-the-un-sdgs-a-job-for-everyone-everywhere.json
 ---

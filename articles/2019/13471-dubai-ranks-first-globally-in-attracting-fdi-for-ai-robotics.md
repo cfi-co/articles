@@ -1,12 +1,21 @@
 ---
 id: 13471
 title: "Dubai Ranks First Globally in Attracting FDI for AI & Robotics"
-award_year: 2019
+year: 2019
 published: 2019-03-17 13:50:07
 published_gmt: 2019-03-17 13:50:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2019/03/dubai-ranks-first-globally-in-attracting-fdi-for-ai-robotics/"
 categories: ["Energy", "Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ec9928467c1351478c7a697e0b9c1d542e537079f339121216aa5ecb9eba9bab
 canonical: 13471-dubai-ranks-first-globally-in-attracting-fdi-for-ai-robotics.json
 ---

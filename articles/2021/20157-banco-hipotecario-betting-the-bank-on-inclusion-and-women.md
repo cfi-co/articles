@@ -1,12 +1,21 @@
 ---
 id: 20157
 title: "Banco Hipotecario: Betting the Bank on Inclusion and Women"
-award_year: 2021
+year: 2021
 published: 2021-07-08 19:55:16
 published_gmt: 2021-07-08 18:55:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/banco-hipotecario-betting-the-bank-on-inclusion-and-women/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: da8350efafce02550609d2818a17116422b44b6ed61d2178b2b99b17a8302947
 canonical: 20157-banco-hipotecario-betting-the-bank-on-inclusion-and-women.json
 ---

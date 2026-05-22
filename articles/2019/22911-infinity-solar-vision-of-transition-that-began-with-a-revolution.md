@@ -1,12 +1,21 @@
 ---
 id: 22911
 title: "Infinity Solar: Vision of Transition that Began with a Revolution"
-award_year: 2019
+year: 2019
 published: 2019-01-08 11:57:25
 published_gmt: 2019-01-08 11:57:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/01/infinity-solar-vision-of-transition-that-began-with-a-revolution/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2dda56349959f0175cc3d4cf6c7c70bf229efb67b455901799ec5c69ca8452d0
 canonical: 22911-infinity-solar-vision-of-transition-that-began-with-a-revolution.json
 ---

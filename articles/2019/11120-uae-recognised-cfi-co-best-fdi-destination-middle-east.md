@@ -1,12 +1,21 @@
 ---
 id: 11120
 title: "<br>UAE is Recognised by CFI.co as Best FDI Destination in the Middle East"
-award_year: 2019
+year: 2019
 published: 2019-04-19 10:18:20
 published_gmt: 2019-04-19 09:18:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0d9a12f43353dc52a6b067b917f1d9834a4e5a765f5a1a87e42a52f8c06393d9
 canonical: 11120-uae-recognised-cfi-co-best-fdi-destination-middle-east.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26879
 title: "From Solo Star to Team Captain: An Accidental Manager's Journey"
-award_year: 2024
+year: 2024
 published: 2024-06-25 12:54:04
 published_gmt: 2024-06-25 11:54:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2024/06/from-solo-star-to-team-captain-an-accidental-managers-journey/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0b3947c1eae1c938c94108d7508309efa4f741c1538d3bc6be7aa079d1ff81de
 canonical: 26879-from-solo-star-to-team-captain-an-accidental-managers-journey.json
 ---

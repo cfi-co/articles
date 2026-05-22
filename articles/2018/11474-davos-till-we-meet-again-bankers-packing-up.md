@@ -1,12 +1,21 @@
 ---
 id: 11474
 title: "Davos: Till We Meet Again - Bankers Packing Up"
-award_year: 2018
+year: 2018
 published: 2018-01-19 15:58:52
 published_gmt: 2018-01-19 15:58:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2018/01/davos-till-we-meet-again-bankers-packing-up/"
 categories: ["Banking", "Europe", "Finance", "Projects", "WEF"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c72f12fdde448cef13bf2f52860dd168912fa578a35c4bfe601cacf64f892e6f
 canonical: 11474-davos-till-we-meet-again-bankers-packing-up.json
 ---

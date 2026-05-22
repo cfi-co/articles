@@ -1,12 +1,21 @@
 ---
 id: 23990
 title: "Gender Holds Secrets for Effective Treatments"
-award_year: 2022
+year: 2022
 published: 2022-11-14 12:23:15
 published_gmt: 2022-11-14 12:23:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2022/11/gender-holds-secrets-for-effective-treatments/"
 categories: ["Europe", "Innovation &amp; Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5ea47ee9a118e3510e1f0fda958b6ed71bfb700744909a8aff23920cd26d9d56
 canonical: 23990-gender-holds-secrets-for-effective-treatments.json
 ---

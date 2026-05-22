@@ -1,12 +1,21 @@
 ---
 id: 23444
 title: "Take AIM, then Act: Leaders Taking their Firm to the Top"
-award_year: 2022
+year: 2022
 published: 2022-09-13 13:16:53
 published_gmt: 2022-09-13 12:16:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/09/affirmative-investment-management-leaders-taking-their-firm-to-the-top/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f9191ea41ef932d0950cd41f727660fd5d9b2a0c856e2879b464f8ee15d12cb9
 canonical: 23444-affirmative-investment-management-leaders-taking-their-firm-to-the-top.json
 ---

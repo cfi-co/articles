@@ -1,12 +1,21 @@
 ---
 id: 15394
 title: "Europe’s Golden Eleventh Hour"
-award_year: 2020
+year: 2020
 published: 2020-05-19 15:39:39
 published_gmt: 2020-05-19 14:39:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/05/europes-golden-eleventh-hour/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f0b88501ed96c69bff87510e1228e3f04db96349ccc29f74745f4ee0d58dd18e
 canonical: 15394-europes-golden-eleventh-hour.json
 ---

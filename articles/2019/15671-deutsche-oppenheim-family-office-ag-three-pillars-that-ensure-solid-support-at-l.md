@@ -1,12 +1,21 @@
 ---
 id: 15671
 title: "Deutsche Oppenheim Family Office AG: Three Pillars that Ensure Solid Support at Leading Family Office"
-award_year: 2019
+year: 2019
 published: 2019-07-12 13:16:07
 published_gmt: 2019-07-12 12:16:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/07/deutsche-oppenheim-family-office-ag-three-pillars-that-ensure-solid-support-at-leading-family-office/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 41653cde21887a0b20137ab7606df978bbe0ea31232175fa5aea7f9b6e8301f6
 canonical: 15671-deutsche-oppenheim-family-office-ag-three-pillars-that-ensure-solid-support-at-l.json
 ---

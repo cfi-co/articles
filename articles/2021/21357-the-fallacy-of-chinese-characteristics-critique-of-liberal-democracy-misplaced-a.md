@@ -1,12 +1,21 @@
 ---
 id: 21357
 title: "The Fallacy of ‘Chinese Characteristics’: Critique of Liberal Democracy Misplaced and Premature"
-award_year: 2021
+year: 2021
 published: 2021-12-15 16:57:35
 published_gmt: 2021-12-15 16:57:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2021/12/the-fallacy-of-chinese-characteristics-critique-of-liberal-democracy-misplaced-and-premature/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4a8e83b50fb45f49f0fcd0288da59bdce2b9d1ed8d96f7765713289a546b133e
 canonical: 21357-the-fallacy-of-chinese-characteristics-critique-of-liberal-democracy-misplaced-a.json
 ---

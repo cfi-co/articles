@@ -1,12 +1,21 @@
 ---
 id: 21271
 title: "CBRE: Tech Adoption Accelerating Across Real Estate Industry"
-award_year: 2021
+year: 2021
 published: 2021-12-09 05:41:54
 published_gmt: 2021-12-09 05:41:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2021/12/cbre-tech-adoption-accelerating-across-real-estate-industry/"
 categories: ["Europe", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aecbda0413ad1f00adccb5b50c15c787a90e95f1672b867b1561a6c5ee9ceb50
 canonical: 21271-cbre-tech-adoption-accelerating-across-real-estate-industry.json
 ---

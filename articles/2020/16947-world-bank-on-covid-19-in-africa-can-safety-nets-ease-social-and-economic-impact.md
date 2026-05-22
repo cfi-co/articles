@@ -1,12 +1,21 @@
 ---
 id: 16947
 title: "World Bank on COVID-19 in Africa: Can Safety Nets Ease Social and Economic Impacts?"
-award_year: 2020
+year: 2020
 published: 2020-09-15 14:56:59
 published_gmt: 2020-09-15 13:56:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2020/09/world-bank-on-covid-19-in-africa-can-safety-nets-ease-social-and-economic-impacts/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dc8430abd4270bf2ed5851683ef8c16ff4304cda9d342bec863d4cc5ad7d5894
 canonical: 16947-world-bank-on-covid-19-in-africa-can-safety-nets-ease-social-and-economic-impact.json
 ---

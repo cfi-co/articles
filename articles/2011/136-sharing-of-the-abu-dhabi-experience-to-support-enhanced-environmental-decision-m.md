@@ -1,12 +1,21 @@
 ---
 id: 136
 title: "Sharing of the \"Abu Dhabi Experience\" To Support Enhanced Environmental Decision Making in Emerging Economies"
-award_year: 2011
+year: 2011
 published: 2011-12-15 13:57:35
 published_gmt: 2011-12-15 13:57:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2011/12/sharing-of-the-abu-dhabi-experience-to-support-enhanced-environmental-decision-making-in-emerging-economies/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: db3415ab17ac0ea2d9ff6a3db145312fec8ef8a2563e95934d319a50915886ac
 canonical: 136-sharing-of-the-abu-dhabi-experience-to-support-enhanced-environmental-decision-m.json
 ---

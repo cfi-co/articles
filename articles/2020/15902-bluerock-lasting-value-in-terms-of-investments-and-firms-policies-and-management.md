@@ -1,12 +1,21 @@
 ---
 id: 15902
 title: "BlueRock: Lasting Value — in Terms of Investments and Firm’s Policies and Management"
-award_year: 2020
+year: 2020
 published: 2020-07-01 13:44:27
 published_gmt: 2020-07-01 12:44:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/07/bluerock-lasting-value-in-terms-of-investments-and-firms-policies-and-management/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 707eebb855a75ea2e61cd7e7b7fb08ed7a860ad19d7d0510a64bf5534f1c7d64
 canonical: 15902-bluerock-lasting-value-in-terms-of-investments-and-firms-policies-and-management.json
 ---

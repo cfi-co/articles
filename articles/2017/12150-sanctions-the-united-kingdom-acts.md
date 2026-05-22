@@ -1,12 +1,21 @@
 ---
 id: 12150
 title: "Lord Waverley on Sanctions: The United Kingdom Acts"
-award_year: 2017
+year: 2017
 published: 2017-11-06 11:53:56
 published_gmt: 2017-11-06 11:53:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2017/11/sanctions-the-united-kingdom-acts/"
 categories: ["Columnists", "Europe"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 337d7f8d2c566d62e48cd5b7f3707d199ea65d4ca62f639c09c919a079ac37a9
 canonical: 12150-sanctions-the-united-kingdom-acts.json
 ---

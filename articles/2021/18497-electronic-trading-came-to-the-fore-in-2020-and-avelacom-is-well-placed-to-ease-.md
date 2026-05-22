@@ -1,12 +1,21 @@
 ---
 id: 18497
 title: "Electronic Trading Came to the Fore in 2020, and Avelacom is Well-placed to Ease the Transition to Automation Technologies"
-award_year: 2021
+year: 2021
 published: 2021-01-21 17:28:50
 published_gmt: 2021-01-21 17:28:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/01/electronic-trading-came-to-the-fore-in-2020-and-avelacom-is-well-placed-to-ease-the-transition-to-automation-technologies/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c1838a60d97809f751c21a9456ace27724815bc0de1b72d7ff3ee9a88fd64a6e
 canonical: 18497-electronic-trading-came-to-the-fore-in-2020-and-avelacom-is-well-placed-to-ease-.json
 ---

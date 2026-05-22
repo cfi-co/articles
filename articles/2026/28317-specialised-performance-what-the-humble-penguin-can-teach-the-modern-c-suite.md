@@ -1,12 +1,21 @@
 ---
 id: 28317
 title: "Specialised Performance: What the Humble Penguin Can Teach the Modern C-Suite"
-award_year: 2026
+year: 2026
 published: 2026-02-26 09:01:34
 published_gmt: 2026-02-26 09:01:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/reviews/2026/02/specialised-performance-what-the-humble-penguin-can-teach-the-modern-c-suite/"
 categories: ["Reviews"]
+content_class: review
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7c737e30ecbf1572d24c82268ee97a1d23d5b7e083574a05369966f7219b63d2
 canonical: 28317-specialised-performance-what-the-humble-penguin-can-teach-the-modern-c-suite.json
 ---

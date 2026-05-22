@@ -1,12 +1,21 @@
 ---
 id: 8819
 title: "Greece: The Primacy of Politics to Provide a Solution"
-award_year: 2015
+year: 2015
 published: 2015-01-27 14:56:52
 published_gmt: 2015-01-27 14:56:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2015/01/greece-the-primacy-of-politics-to-provide-a-solution/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ad1d9ad4118a4290c7f585ed328b41bb0ebd9000fa5ce18e93c7e4e970f10c28
 canonical: 8819-greece-the-primacy-of-politics-to-provide-a-solution.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 5387
 title: "Islamic Banking: London’s City Finds New Calling"
-award_year: 2013
+year: 2013
 published: 2013-10-02 09:37:30
 published_gmt: 2013-10-02 08:37:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/10/islamic-banking-londons-city-finds-new-calling/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f4f7188a211e263c8b597a31b50a9e825b00e8c80832231b7fe36c80f725ea33
 canonical: 5387-islamic-banking-londons-city-finds-new-calling.json
 ---

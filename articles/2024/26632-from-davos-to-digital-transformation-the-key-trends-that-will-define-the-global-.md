@@ -1,12 +1,21 @@
 ---
 id: 26632
 title: "From Davos to Digital Transformation: The Key Trends that Will Define the Global Financial Services Sector in 2024"
-award_year: 2024
+year: 2024
 published: 2024-02-02 09:16:04
 published_gmt: 2024-02-02 09:16:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/02/from-davos-to-digital-transformation-the-key-trends-that-will-define-the-global-financial-services-sector-in-2024/"
 categories: ["Europe", "Finance", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5a23cc80ae213c585a92d3aea2190fe7a95e6d315ebc2ac1493f41698097bc48
 canonical: 26632-from-davos-to-digital-transformation-the-key-trends-that-will-define-the-global-.json
 ---

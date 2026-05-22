@@ -1,12 +1,21 @@
 ---
 id: 8180
 title: "Zambia Set to Impress and Welcome Investors"
-award_year: 2014
+year: 2014
 published: 2014-10-10 10:25:05
 published_gmt: 2014-10-10 09:25:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/10/zambia-set-to-impress-and-welcome-investors/"
 categories: ["Africa", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7c329b276310d0992c3d6fa998701edc48814d1bda2d8013df435b16a80abac3
 canonical: 8180-zambia-set-to-impress-and-welcome-investors.json
 ---

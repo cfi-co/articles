@@ -1,12 +1,21 @@
 ---
 id: 6752
 title: "Qatar Tops Per Capita Investment in Dubai Realty (AED 6.71 million), Followed by Oman, UAE, KSA, Germany, India and Britain"
-award_year: 2014
+year: 2014
 published: 2014-03-04 10:53:44
 published_gmt: 2014-03-04 10:53:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/03/qatar-tops-per-capita-investment-in-dubai-realty-aed-6-71-million-followed-by-oman-uae-ksa-germany-india-and-britain/"
 categories: ["Finance", "Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0c89bc73da810e9fdee95fc00e4c52075e4e9293aea3450b51e31bc378e39a9d
 canonical: 6752-qatar-tops-per-capita-investment-in-dubai-realty-aed-6-71-million-followed-by-om.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 6099
 title: "A Crowded Room with Barry Sternlicht and Kent Swig: New Financing for Real Estate"
-award_year: 2013
+year: 2013
 published: 2013-11-25 11:48:05
 published_gmt: 2013-11-25 11:48:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/11/a-crowded-room-with-barry-sternlicht-and-kent-swig-new-financing-for-real-estate/"
 categories: ["Europe", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c19a71e1f50152f0e8985cfecdfdfa9f76101e0f2bbae9274d1419e26c30b53f
 canonical: 6099-a-crowded-room-with-barry-sternlicht-and-kent-swig-new-financing-for-real-estate.json
 ---

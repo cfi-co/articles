@@ -1,12 +1,21 @@
 ---
 id: 6405
 title: "Manal al-Sharif: Empowering Women with the Roar of an Engine"
-award_year: 2014
+year: 2014
 published: 2014-01-27 10:22:51
 published_gmt: 2014-01-27 10:22:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/01/manal-al-sharif-empowering-women-with-the-roar-of-an-engine-2/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 146be6c4192112f6902ffc608d61f95c0b4e1f2a24d33719696a76cc9095305b
 canonical: 6405-manal-al-sharif-empowering-women-with-the-roar-of-an-engine-2.json
 ---

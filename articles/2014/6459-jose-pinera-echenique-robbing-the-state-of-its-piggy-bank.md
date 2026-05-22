@@ -1,12 +1,21 @@
 ---
 id: 6459
 title: "José Piñera Echenique: Robbing the State of Its Piggy Bank"
-award_year: 2014
+year: 2014
 published: 2014-01-31 15:01:54
 published_gmt: 2014-01-31 15:01:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2014/01/jose-pinera-echenique-robbing-the-state-of-its-piggy-bank/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8f12834ec2f7cd7e6fd8987a231c6181f12372741510f9cd0ec398595ac9dd09
 canonical: 6459-jose-pinera-echenique-robbing-the-state-of-its-piggy-bank.json
 ---

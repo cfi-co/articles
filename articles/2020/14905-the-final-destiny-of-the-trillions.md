@@ -1,12 +1,21 @@
 ---
 id: 14905
 title: "The Final Destiny of the Trillions"
-award_year: 2020
+year: 2020
 published: 2020-04-13 15:02:32
 published_gmt: 2020-04-13 14:02:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/the-final-destiny-of-the-trillions/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 22900afaf3fdc72a78411ac64fbe70b51b66d87388326e3c57b11d0455267055
 canonical: 14905-the-final-destiny-of-the-trillions.json
 ---

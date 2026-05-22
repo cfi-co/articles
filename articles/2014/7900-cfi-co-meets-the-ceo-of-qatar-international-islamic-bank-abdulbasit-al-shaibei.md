@@ -1,12 +1,21 @@
 ---
 id: 7900
 title: "CFI.co Meets the CEO of Qatar International Islamic Bank: Abdulbasit Al-Shaibei"
-award_year: 2014
+year: 2014
 published: 2014-07-07 15:37:57
 published_gmt: 2014-07-07 14:37:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/07/cfi-co-meets-the-ceo-of-qatar-international-islamic-bank-abdulbasit-al-shaibei/"
 categories: ["Banking", "Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d5166fe1124c55e4b786481aaa1483365b5253cd22b848cdcc191894fdb4113
 canonical: 7900-cfi-co-meets-the-ceo-of-qatar-international-islamic-bank-abdulbasit-al-shaibei.json
 ---

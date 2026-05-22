@@ -1,12 +1,21 @@
 ---
 id: 7258
 title: "CFI.co Meets the Chairman of Ezentis: Manuel García-Durán"
-award_year: 2014
+year: 2014
 published: 2014-01-02 18:17:08
 published_gmt: 2014-01-02 18:17:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/01/cfi-co-meets-the-chairman-of-ezentis-manuel-garcia-duran/"
 categories: ["Corporate Leaders", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aacc7826199674c5a2c42e3bfafa9fbdecadc5f38c6d06d018cb87f370a9d8f3
 canonical: 7258-cfi-co-meets-the-chairman-of-ezentis-manuel-garcia-duran.json
 ---

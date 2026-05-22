@@ -1,12 +1,21 @@
 ---
 id: 27746
 title: "Patient Capital for Industrial Growth: Inside Aurora Growth Capital's Investment Approach"
-award_year: 2025
+year: 2025
 published: 2025-06-03 14:07:47
 published_gmt: 2025-06-03 13:07:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2025/06/patient-capital-for-industrial-growth-inside-aurora-growth-capitals-investment-approach/"
 categories: ["Corporate", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a61fbb9ac4e1cdd2da226daab69f18ae64003c0e560efc95f0f24ba700c51971
 canonical: 27746-patient-capital-for-industrial-growth-inside-aurora-growth-capitals-investment-a.json
 ---

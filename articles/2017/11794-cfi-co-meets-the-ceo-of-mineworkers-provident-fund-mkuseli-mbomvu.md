@@ -1,12 +1,21 @@
 ---
 id: 11794
 title: "CFI.co Meets the CEO of Mineworkers Provident Fund: Mkuseli Mbomvu"
-award_year: 2017
+year: 2017
 published: 2017-08-31 13:25:22
 published_gmt: 2017-08-31 12:25:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-of-mineworkers-provident-fund-mkuseli-mbomvu/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4dc58d096d1591f6b3cdd31c71ef1ddec4dc5ac9751ce89ae9e1bc6c51f7bfa4
 canonical: 11794-cfi-co-meets-the-ceo-of-mineworkers-provident-fund-mkuseli-mbomvu.json
 ---

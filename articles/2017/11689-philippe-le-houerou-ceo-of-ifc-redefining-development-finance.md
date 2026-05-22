@@ -1,12 +1,21 @@
 ---
 id: 11689
 title: "Philippe Le Houérou, CEO of IFC: Redefining Development Finance"
-award_year: 2017
+year: 2017
 published: 2017-07-12 12:21:02
 published_gmt: 2017-07-12 11:21:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2017/07/philippe-le-houerou-ceo-of-ifc-redefining-development-finance/"
 categories: ["Finance", "North America", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 99b4497da7eadd0f6f1780f78380b6fe551674014b96df923d02f727933fbc52
 canonical: 11689-philippe-le-houerou-ceo-of-ifc-redefining-development-finance.json
 ---

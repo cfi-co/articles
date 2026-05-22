@@ -1,12 +1,21 @@
 ---
 id: 23152
 title: "ThirdWay’s the Charm to Revitalise Africa’s Climate for Healthy Investment"
-award_year: 2022
+year: 2022
 published: 2022-08-24 15:14:31
 published_gmt: 2022-08-24 14:14:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2022/08/thirdways-the-charm-to-revitalise-africas-climate-for-healthy-investment/"
 categories: ["Africa", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fe96820f396adc9a9e7271acbb829319a25cf4e9795575ba19ccf8faafc6855e
 canonical: 23152-thirdways-the-charm-to-revitalise-africas-climate-for-healthy-investment.json
 ---

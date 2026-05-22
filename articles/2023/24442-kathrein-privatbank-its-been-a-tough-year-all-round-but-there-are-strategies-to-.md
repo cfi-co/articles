@@ -1,12 +1,21 @@
 ---
 id: 24442
 title: "Kathrein Privatbank: It’s Been a Tough Year All Round, But There Are Strategies to Cope"
-award_year: 2023
+year: 2023
 published: 2023-01-10 15:03:29
 published_gmt: 2023-01-10 15:03:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2023/01/kathrein-privatbank-its-been-a-tough-year-all-round-but-there-are-strategies-to-cope/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aa472786bcada13009b2c8c544dbd0d7779b09c0dca98db9816107bcd21e6358
 canonical: 24442-kathrein-privatbank-its-been-a-tough-year-all-round-but-there-are-strategies-to-.json
 ---

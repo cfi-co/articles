@@ -1,12 +1,21 @@
 ---
 id: 6994
 title: "Mehriban Aliyeva - With Azerbaijan at Heart: the First Lady Reaches Out For a Better World"
-award_year: 2014
+year: 2014
 published: 2014-04-16 12:02:16
 published_gmt: 2014-04-16 11:02:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/04/mehriban-aliyeva-with-azerbaijan-at-heart-the-first-lady-reaches-out-for-a-better-world/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cd8ccf72a7efb0f02ab7213511a588f85b2a14804e68ba1f8c9f744de8b64602
 canonical: 6994-mehriban-aliyeva-with-azerbaijan-at-heart-the-first-lady-reaches-out-for-a-bette.json
 ---

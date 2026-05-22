@@ -1,12 +1,21 @@
 ---
 id: 27438
 title: "Banks and Work-Life Balance: A Step in the Right Direction"
-award_year: 2024
+year: 2024
 published: 2024-12-30 09:05:23
 published_gmt: 2024-12-30 09:05:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/12/banks-and-work-life-balance-a-step-in-the-right-direction/"
 categories: ["Banking", "Lifestyle", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b3cfab1b7c2dcbf5955588cd7980c47b769bccfb0288212dd21390ecfecd78b1
 canonical: 27438-banks-and-work-life-balance-a-step-in-the-right-direction.json
 ---

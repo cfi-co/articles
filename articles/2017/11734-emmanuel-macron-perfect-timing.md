@@ -1,12 +1,21 @@
 ---
 id: 11734
 title: "Emmanuel Macron: Perfect Timing"
-award_year: 2017
+year: 2017
 published: 2017-08-01 13:23:56
 published_gmt: 2017-08-01 12:23:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2017/08/emmanuel-macron-perfect-timing/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: de2acafe899c75686d9adb54c0e3633f12814014b4a96d09afb3624cbc2d05d3
 canonical: 11734-emmanuel-macron-perfect-timing.json
 ---

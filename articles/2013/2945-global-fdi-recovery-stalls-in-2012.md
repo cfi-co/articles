@@ -1,12 +1,21 @@
 ---
 id: 2945
 title: "Global FDI Recovery Stalls in 2012"
-award_year: 2013
+year: 2013
 published: 2013-01-24 10:17:30
 published_gmt: 2013-01-24 10:17:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/01/global-fdi-recovery-stalls-in-2012/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Latin America", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3a9a0d965256e30fdc3964e5409828d387b8c7b4fd443839f1f6103f5f9af872
 canonical: 2945-global-fdi-recovery-stalls-in-2012.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 11595
 title: "France: Touch and Go"
-award_year: 2017
+year: 2017
 published: 2017-05-08 11:16:16
 published_gmt: 2017-05-08 10:16:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2017/05/france-touch-and-go/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 92e3b67493daa203c20505ec4f715c439384372dff282f03df7ddf96334c083c
 canonical: 11595-france-touch-and-go.json
 ---

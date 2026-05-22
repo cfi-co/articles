@@ -1,12 +1,21 @@
 ---
 id: 18456
 title: "Double Dip Recession in the Making, UK Expected to Emerge First"
-award_year: 2021
+year: 2021
 published: 2021-01-18 12:31:10
 published_gmt: 2021-01-18 12:31:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/01/double-dip-recession-in-the-making-uk-expected-to-emerge-first/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6796bfa19905875d81875ef17cdd9af6fc2c9578691daf7cc15216ea94c709b2
 canonical: 18456-double-dip-recession-in-the-making-uk-expected-to-emerge-first.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 2489
 title: "Dr. Jackson Urges an Holistic Perpective"
-award_year: 2012
+year: 2012
 published: 2012-11-02 14:19:57
 published_gmt: 2012-11-02 14:19:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2012/11/dr-jackson-urges-an-holistic-perpective/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3ee48be43aed02c0cfa0b6a7030801af0edb4b8d634d7b819874fad3981d7829
 canonical: 2489-dr-jackson-urges-an-holistic-perpective.json
 ---

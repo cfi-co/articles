@@ -1,12 +1,21 @@
 ---
 id: 15703
 title: "Ronald Gutiérrez — Experience Pays Off for Banco Ganadero CEO"
-award_year: 2019
+year: 2019
 published: 2019-08-12 13:44:17
 published_gmt: 2019-08-12 12:44:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/08/ronald-gutierrez-experience-pays-off-for-banco-ganadero-ceo/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ff2eb29ffea8c9d94224149306c329c5c171de52018ac3ac7e7b75079f6d7c2c
 canonical: 15703-ronald-gutierrez-experience-pays-off-for-banco-ganadero-ceo.json
 ---

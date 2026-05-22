@@ -1,12 +1,21 @@
 ---
 id: 21791
 title: "Corporate Earnings Fine, Markets Not So Much: Seesawing Stock Markets Rattle Investors"
-award_year: 2022
+year: 2022
 published: 2022-05-06 11:04:34
 published_gmt: 2022-05-06 10:04:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/05/corporate-earnings-fine-markets-not-so-much-seesawing-stock-markets-rattle-investors/"
 categories: ["Brave New World", "Markets"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 07d738e29bbabb3586796570a264d9897e94e3a456d8dd675462b16a4a1d1631
 canonical: 21791-corporate-earnings-fine-markets-not-so-much-seesawing-stock-markets-rattle-inves.json
 ---

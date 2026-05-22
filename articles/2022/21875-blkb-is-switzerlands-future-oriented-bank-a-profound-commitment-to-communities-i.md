@@ -1,12 +1,21 @@
 ---
 id: 21875
 title: "BLKB is Switzerland's Future-oriented Bank: A Profound Commitment to Communities in the Region"
-award_year: 2022
+year: 2022
 published: 2022-05-18 05:41:28
 published_gmt: 2022-05-18 04:41:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/blkb-is-switzerlands-future-oriented-bank-a-profound-commitment-to-communities-in-the-region/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 07035dfd64f8cfc49daa12582e786d03082e0820ac7757a7c917f096ff0d375f
 canonical: 21875-blkb-is-switzerlands-future-oriented-bank-a-profound-commitment-to-communities-i.json
 ---

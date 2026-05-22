@@ -1,12 +1,21 @@
 ---
 id: 6279
 title: "Dick Costolo: Capitalizing the Lure of Future Profits"
-award_year: 2013
+year: 2013
 published: 2013-12-19 17:34:42
 published_gmt: 2013-12-19 17:34:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/12/dick-costolo-capitalizing-the-lure-of-future-profits/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6e909131027832c634a45546e0bf337e9ab285dd84b3e93797b9137411607d4f
 canonical: 6279-dick-costolo-capitalizing-the-lure-of-future-profits.json
 ---

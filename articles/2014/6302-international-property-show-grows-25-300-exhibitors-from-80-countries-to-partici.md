@@ -1,12 +1,21 @@
 ---
 id: 6302
 title: "International Property Show Grows 25% - 300 Exhibitors from 80 Countries to Participate from 8 to 10 April in Dubai"
-award_year: 2014
+year: 2014
 published: 2014-01-08 15:14:15
 published_gmt: 2014-01-08 15:14:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/01/international-property-show-grows-25-300-exhibitors-from-80-countries-to-participate-from-8-to-10-april-in-dubai/"
 categories: ["Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 67353c082cdc8d1ee4672f4d1cc6974643ad5b8139ac621187263dd47cbf9759
 canonical: 6302-international-property-show-grows-25-300-exhibitors-from-80-countries-to-partici.json
 ---

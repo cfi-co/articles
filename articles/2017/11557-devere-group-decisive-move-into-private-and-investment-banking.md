@@ -1,12 +1,21 @@
 ---
 id: 11557
 title: "DeVere Group: Decisive Move Into Private and Investment Banking"
-award_year: 2017
+year: 2017
 published: 2017-03-08 12:33:12
 published_gmt: 2017-03-08 12:33:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2017/03/devere-group-decisive-move-into-private-and-investment-banking/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2c313aad2169d59791154b55921102d599eb82fad8f8238101b5655c3e5779d1
 canonical: 11557-devere-group-decisive-move-into-private-and-investment-banking.json
 ---

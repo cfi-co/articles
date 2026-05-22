@@ -1,12 +1,21 @@
 ---
 id: 15605
 title: "CFI.co Introduces CFI Financial Group – No Relation, but a Shared Set of Values"
-award_year: 2020
+year: 2020
 published: 2020-06-10 08:03:17
 published_gmt: 2020-06-10 07:03:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/06/cfi-co-introduces-cfi-financial-group-no-relation-but-a-shared-set-of-values/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a9afddeda25f0ff0801115e1dc64d5488bb2bac23ab5511be2bda4f86319089a
 canonical: 15605-cfi-co-introduces-cfi-financial-group-no-relation-but-a-shared-set-of-values.json
 ---

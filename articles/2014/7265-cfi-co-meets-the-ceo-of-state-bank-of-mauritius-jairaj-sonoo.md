@@ -1,12 +1,21 @@
 ---
 id: 7265
 title: "CFI.co Meets the CEO of State Bank of Mauritius: Jairaj Sonoo"
-award_year: 2014
+year: 2014
 published: 2014-01-02 18:20:40
 published_gmt: 2014-01-02 18:20:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/01/cfi-co-meets-the-ceo-of-state-bank-of-mauritius-jairaj-sonoo/"
 categories: ["Africa", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fdf03998119a7f0fa81743a9b0597ea574f7e4f14367a53ecaeb5acd77237edd
 canonical: 7265-cfi-co-meets-the-ceo-of-state-bank-of-mauritius-jairaj-sonoo.json
 ---

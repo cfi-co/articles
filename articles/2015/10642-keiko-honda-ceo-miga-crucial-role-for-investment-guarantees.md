@@ -1,12 +1,21 @@
 ---
 id: 10642
 title: "Keiko Honda, CEO MIGA: Crucial Role for Investment Guarantees"
-award_year: 2015
+year: 2015
 published: 2015-11-16 12:34:43
 published_gmt: 2015-11-16 12:34:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/11/keiko-honda-ceo-miga-crucial-role-for-investment-guarantees/"
 categories: ["Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bd82913824f744495cb2407b6eb360129c08dc0af3959491e00611b8cfe15f08
 canonical: 10642-keiko-honda-ceo-miga-crucial-role-for-investment-guarantees.json
 ---

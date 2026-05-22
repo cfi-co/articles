@@ -1,12 +1,21 @@
 ---
 id: 2704
 title: "Norway’s Prime Minister Jens Stoltenberg: Need to see Renewed Growth in the EU"
-award_year: 2012
+year: 2012
 published: 2012-12-11 11:21:53
 published_gmt: 2012-12-11 11:21:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2012/12/norways-prime-minister-jens-stoltenberg-need-to-see-renewed-growth-in-the-eu/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 10ec13b2cb2283748b3f1d2dfb8c86245c9aead4cdcc59ba411d3f8cad21afc2
 canonical: 2704-norways-prime-minister-jens-stoltenberg-need-to-see-renewed-growth-in-the-eu.json
 ---

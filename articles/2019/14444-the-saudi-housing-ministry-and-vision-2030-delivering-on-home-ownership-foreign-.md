@@ -1,12 +1,21 @@
 ---
 id: 14444
 title: "The Saudi Housing Ministry and Vision 2030: Delivering on Home Ownership & Foreign Investment Opportunities Too"
-award_year: 2019
+year: 2019
 published: 2019-12-18 17:03:19
 published_gmt: 2019-12-18 17:03:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2019/12/the-saudi-housing-ministry-and-vision-2030-delivering-on-home-ownership-foreign-investment-opportunities-too/"
 categories: ["Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 49bd9b863f8487d7a60c7b57211ec58646a9511fef709a1685cbd36d04a41863
 canonical: 14444-the-saudi-housing-ministry-and-vision-2030-delivering-on-home-ownership-foreign-.json
 ---

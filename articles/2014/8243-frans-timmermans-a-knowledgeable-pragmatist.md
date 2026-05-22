@@ -1,12 +1,21 @@
 ---
 id: 8243
 title: "Frans Timmermans: A Knowledgeable Pragmatist"
-award_year: 2014
+year: 2014
 published: 2014-10-20 10:37:51
 published_gmt: 2014-10-20 09:37:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/10/frans-timmermans-a-knowledgeable-pragmatist/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 62f0c6a54529a35b17110f6755a0bf7ab6041afbc6606c5d2eca73027e00cdf4
 canonical: 8243-frans-timmermans-a-knowledgeable-pragmatist.json
 ---

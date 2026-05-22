@@ -1,12 +1,21 @@
 ---
 id: 27328
 title: "High Street Icon Pulled Itself Up by its Own Bootstraps But Tough Times are Coming"
-award_year: 2024
+year: 2024
 published: 2024-11-27 09:30:37
 published_gmt: 2024-11-27 09:30:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/11/high-street-icon-pulled-itself-up-by-its-own-bootstraps-but-tough-times-are-coming/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ce69ced5b7a9583dd745ae650b7642dc8dc1bb252bcf5251dca4485351198dcf
 canonical: 27328-high-street-icon-pulled-itself-up-by-its-own-bootstraps-but-tough-times-are-comi.json
 ---

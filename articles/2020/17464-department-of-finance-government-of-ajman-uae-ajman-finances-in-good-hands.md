@@ -1,12 +1,21 @@
 ---
 id: 17464
 title: "Department of Finance, Government of Ajman, UAE: Ajman Finances in Good Hands"
-award_year: 2020
+year: 2020
 published: 2020-01-08 12:29:12
 published_gmt: 2020-01-08 12:29:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2020/01/department-of-finance-government-of-ajman-uae-ajman-finances-in-good-hands/"
 categories: ["Corporate", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 290fbe624405826bb188a1debcece438bd3e30b3e44870b23327933b40ad2740
 canonical: 17464-department-of-finance-government-of-ajman-uae-ajman-finances-in-good-hands.json
 ---

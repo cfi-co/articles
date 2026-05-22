@@ -1,12 +1,21 @@
 ---
 id: 95
 title: "2012 CFI Top 100 Emerging Markets Companies' Nominations"
-award_year: 2011
+year: 2011
 published: 2011-12-02 13:20:32
 published_gmt: 2011-12-02 13:20:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2011/12/2012-cfi-top-100-emerging-markets-companies-nominations/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Legal", "Middle East", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 59526a3f2c133a5e991d4d9f37c6a2a15ae0d54260187e4268dbc7d0ff5c5d31
 canonical: 95-2012-cfi-top-100-emerging-markets-companies-nominations.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 6826
 title: "How to Tame an Unruly Bear"
-award_year: 2014
+year: 2014
 published: 2014-03-19 09:38:42
 published_gmt: 2014-03-19 09:38:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/03/how-to-tame-an-unruly-bear/"
 categories: ["Asia Pacific", "Europe", "Oil &amp; Mining", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 45c76d5e589cecf87734f6ef20581424cb785a49e2e4b097d76f1a495984f721
 canonical: 6826-how-to-tame-an-unruly-bear.json
 ---

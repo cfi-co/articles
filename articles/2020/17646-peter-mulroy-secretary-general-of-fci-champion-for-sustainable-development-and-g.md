@@ -1,12 +1,21 @@
 ---
 id: 17646
 title: "Peter Mulroy, Secretary General of FCI: Champion for Sustainable Development and Growth of the Open Account Receivables Finance Industry Globally"
-award_year: 2020
+year: 2020
 published: 2020-10-26 15:58:47
 published_gmt: 2020-10-26 15:58:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/10/peter-mulroy-secretary-general-of-fci-champion-for-sustainable-development-and-growth-of-the-open-account-receivables-finance-industry-globally/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 79d757490cbfdcd600f46eda813f993101137deca26f67bf227e327b767cd17e
 canonical: 17646-peter-mulroy-secretary-general-of-fci-champion-for-sustainable-development-and-g.json
 ---

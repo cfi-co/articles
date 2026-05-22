@@ -1,12 +1,21 @@
 ---
 id: 25044
 title: "AccountAbility CEO Sunny Misser Leading the Charge in a Changing ESG Universe"
-award_year: 2023
+year: 2023
 published: 2023-03-29 14:20:25
 published_gmt: 2023-03-29 13:20:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/03/accountability-ceo-sunny-misser-leading-the-charge-in-a-changing-esg-universe/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f6ae2e271b5690a3ee4451906dc190238c87aac5e2760cb556417797eca4bfcc
 canonical: 25044-accountability-ceo-sunny-misser-leading-the-charge-in-a-changing-esg-universe.json
 ---

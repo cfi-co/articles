@@ -1,12 +1,21 @@
 ---
 id: 26558
 title: "The Strongest Link in Global Supply Chains: Swiss Firm on its Way to Sector Supremacy"
-award_year: 2024
+year: 2024
 published: 2024-01-21 10:47:10
 published_gmt: 2024-01-21 10:47:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/01/global-supply-chains-arviem-on-its-way-to-sector-supremacy/"
 categories: ["Europe", "Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 71335aa15383341738732755e75731e18f0c16aeefbb9d2529310373656fcdfe
 canonical: 26558-the-strongest-link-in-global-supply-chains-swiss-firm-on-its-way-to-sector-supre.json
 ---

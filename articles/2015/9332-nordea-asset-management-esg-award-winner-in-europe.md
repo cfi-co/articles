@@ -1,12 +1,21 @@
 ---
 id: 9332
 title: "<br><br>Nordea Asset Management: ESG Award Winner in Europe"
-award_year: 2015
+year: 2015
 published: 2015-02-26 15:21:42
 published_gmt: 2015-02-26 15:21:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 638e9775bdc2e69a892cdae84621fce89f7c94dc9075602cc2a7d63628093276
 canonical: 9332-nordea-asset-management-esg-award-winner-in-europe.json
 ---

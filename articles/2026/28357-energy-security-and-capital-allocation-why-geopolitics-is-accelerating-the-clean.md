@@ -1,12 +1,21 @@
 ---
 id: 28357
 title: "Energy Security and Capital Allocation: Why Geopolitics Is Accelerating the Clean-Energy Investment Cycle"
-award_year: 2026
+year: 2026
 published: 2026-03-17 08:45:01
 published_gmt: 2026-03-17 08:45:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/oil-and-mining/2026/03/energy-security-and-capital-allocation-why-geopolitics-is-accelerating-the-clean-energy-investment-cycle/"
 categories: ["Energy", "Middle East", "Oil &amp; Mining", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6486dfa55c16119ea0c311d65d05cdb5d37ba5d96b11f0e9e4ca36af78e6188d
 canonical: 28357-energy-security-and-capital-allocation-why-geopolitics-is-accelerating-the-clean.json
 ---

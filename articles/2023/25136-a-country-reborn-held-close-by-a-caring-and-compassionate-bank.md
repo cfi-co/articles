@@ -1,12 +1,21 @@
 ---
 id: 25136
 title: "A Country Reborn,  Held Close by a Caring and Compassionate Bank"
-award_year: 2023
+year: 2023
 published: 2023-04-24 17:10:14
 published_gmt: 2023-04-24 16:10:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2023/04/a-new-caixa-has-been-born-for-a-new-brazil"
 categories: ["Corporate", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6570f5adcb3666a7d77c72cecf4a12d686f76e325f741167ae2974bad06b72d6
 canonical: 25136-a-country-reborn-held-close-by-a-caring-and-compassionate-bank.json
 ---

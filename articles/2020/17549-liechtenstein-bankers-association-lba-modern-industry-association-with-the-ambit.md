@@ -1,12 +1,21 @@
 ---
 id: 17549
 title: "Liechtenstein Bankers Association (LBA): Modern Industry Association with the Ambition to Shape the Future"
-award_year: 2020
+year: 2020
 published: 2020-10-23 14:10:30
 published_gmt: 2020-10-23 13:10:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2020/10/liechtenstein-bankers-association-lba-modern-industry-association-with-the-ambition-to-shape-the-future/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8fd2b849c2664d5fbe6b4fa4515d5b81a33126605fe4b907a12ce133dad41800
 canonical: 17549-liechtenstein-bankers-association-lba-modern-industry-association-with-the-ambit.json
 ---

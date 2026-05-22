@@ -1,12 +1,21 @@
 ---
 id: 10096
 title: "African Governments Invest in Skills in Sciences, Engineering, and Technology"
-award_year: 2018
+year: 2018
 published: 2018-01-02 11:35:20
 published_gmt: 2018-01-02 11:35:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2018/01/african-governments-invest-in-skills-in-sciences-engineering-and-technology/"
 categories: ["Africa", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0113c37853e3041a545500dbcd1762fd44a34c4167438764f06c186999aa03b3
 canonical: 10096-african-governments-invest-in-skills-in-sciences-engineering-and-technology.json
 ---

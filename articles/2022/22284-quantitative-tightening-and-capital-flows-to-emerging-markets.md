@@ -1,12 +1,21 @@
 ---
 id: 22284
 title: "Quantitative Tightening and Capital Flows to Emerging Markets"
-award_year: 2022
+year: 2022
 published: 2022-06-27 09:48:52
 published_gmt: 2022-06-27 08:48:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2022/06/quantitative-tightening-and-capital-flows-to-emerging-markets/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 69f22a4c18a87c870063ecee82dfc0abdc39e691247f9aa4043dbe30123c70e8
 canonical: 22284-quantitative-tightening-and-capital-flows-to-emerging-markets.json
 ---

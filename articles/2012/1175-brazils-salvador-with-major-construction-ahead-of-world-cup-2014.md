@@ -1,12 +1,21 @@
 ---
 id: 1175
 title: "Brazil's Salvador with Major Construction Ahead of World Cup 2014"
-award_year: 2012
+year: 2012
 published: 2012-07-25 12:27:48
 published_gmt: 2012-07-25 11:27:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2012/07/brazils-salvador-with-major-construction-ahead-of-world-cup-2014/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 918ce69454de6c908e5318a1c3e0c93a3dfca0b768055dd0c152c9094730360f
 canonical: 1175-brazils-salvador-with-major-construction-ahead-of-world-cup-2014.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27118
 title: "Loita Capital Partners: A Reach as Wide as the African Continent Itself, and Still Roaring with Ambition"
-award_year: 2024
+year: 2024
 published: 2024-09-12 13:03:28
 published_gmt: 2024-09-12 12:03:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2024/09/loita-capital-partners-a-reach-as-wide-as-the-african-continent-itself-and-still-roaring-with-ambition/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6f31a7c2b9a06d73d7da41191cd741a7ab9c14a6770a6e5ed1ffd1f17015f093
 canonical: 27118-loita-capital-partners-a-reach-as-wide-as-the-african-continent-itself-and-still.json
 ---

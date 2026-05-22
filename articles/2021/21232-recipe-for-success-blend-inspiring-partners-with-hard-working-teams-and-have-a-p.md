@@ -1,12 +1,21 @@
 ---
 id: 21232
 title: "Recipe for Success: Blend Inspiring Partners with Hard-Working Teams and Have a Proven ‘Killer’ Product"
-award_year: 2021
+year: 2021
 published: 2021-11-29 07:10:47
 published_gmt: 2021-11-29 07:10:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/start-ups/2021/11/recipe-for-success-blend-inspiring-partners-with-hard-working-teams-and-have-a-proven-killer-product/"
 categories: ["Middle East", "Start-Ups", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: df647a9500b674afc4afda88655a95d280ba695cdf8d29dc020a6177e13adb99
 canonical: 21232-recipe-for-success-blend-inspiring-partners-with-hard-working-teams-and-have-a-p.json
 ---

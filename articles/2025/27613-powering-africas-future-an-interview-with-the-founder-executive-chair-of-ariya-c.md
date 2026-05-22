@@ -1,12 +1,21 @@
 ---
 id: 27613
 title: "Powering Africa’s Future: An Interview with the Founder & CEO of Ariya Capital Group"
-award_year: 2025
+year: 2025
 published: 2025-03-06 14:53:13
 published_gmt: 2025-03-06 14:53:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2025/03/powering-africas-future-an-interview-with-the-founder-ceo-of-ariya-capital-group/"
 categories: ["Africa", "Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 613c7b367ee2dd2bfb9d9baf1a262a7006be14d1913d9ad80af8bc0562da250d
 canonical: 27613-powering-africas-future-an-interview-with-the-founder-executive-chair-of-ariya-c.json
 ---

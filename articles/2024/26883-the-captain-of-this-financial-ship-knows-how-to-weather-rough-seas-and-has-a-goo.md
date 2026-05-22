@@ -1,12 +1,21 @@
 ---
 id: 26883
 title: "Patrick Anderson Knows How to Weather Rough Seas — and Has a Good Crew Behind Him"
-award_year: 2024
+year: 2024
 published: 2024-06-27 11:16:39
 published_gmt: 2024-06-27 10:16:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/06/patrick-anderson-knows-how-to-weather-rough-seas-and-has-a-good-crew-behind-him/"
 categories: ["Banking", "Corporate", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8101fb8b62fd88200a996dc4a2c1dc00471b6b71f14a6ccfada0accf56193286
 canonical: 26883-the-captain-of-this-financial-ship-knows-how-to-weather-rough-seas-and-has-a-goo.json
 ---

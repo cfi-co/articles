@@ -1,12 +1,21 @@
 ---
 id: 26328
 title: "Crypto Had a Brutal Year. What Comes Next?"
-award_year: 2023
+year: 2023
 published: 2023-11-07 13:54:08
 published_gmt: 2023-11-07 13:54:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2023/11/crypto-had-a-brutal-year-what-comes-next/"
 categories: ["North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 65b28c0a63a1697f766bbb6ca2ce4b849eaacbd9c0c008910e203e4799ab5696
 canonical: 26328-crypto-had-a-brutal-year-what-comes-next.json
 ---

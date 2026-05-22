@@ -1,12 +1,21 @@
 ---
 id: 21613
 title: "Trust is a Vital Part of ‘Success Recipe’ for Pharma Companies"
-award_year: 2022
+year: 2022
 published: 2022-03-04 07:34:20
 published_gmt: 2022-03-04 07:34:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/03/trust-is-a-vital-part-of-success-recipe-for-pharma-companies/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3c297a6ae7091be7671cd52dccb11801bef00748b91b4c03c417e400edef840c
 canonical: 21613-trust-is-a-vital-part-of-success-recipe-for-pharma-companies.json
 ---

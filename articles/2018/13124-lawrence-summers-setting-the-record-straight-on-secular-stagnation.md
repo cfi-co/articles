@@ -1,12 +1,21 @@
 ---
 id: 13124
 title: "Lawrence Summers: Setting the Record Straight on Secular Stagnation"
-award_year: 2018
+year: 2018
 published: 2018-10-31 16:17:47
 published_gmt: 2018-10-31 16:17:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2018/10/lawrence-summers-setting-the-record-straight-on-secular-stagnation/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d3bfcf140c088d01e14635a97b9de6e426eb58516c49dc71c49246c95f2169b6
 canonical: 13124-lawrence-summers-setting-the-record-straight-on-secular-stagnation.json
 ---

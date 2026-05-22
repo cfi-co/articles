@@ -1,12 +1,21 @@
 ---
 id: 7298
 title: "CFI.co Meets the CEO of Banco Mercantil Santa Cruz: Alberto Valdés Andreatta"
-award_year: 2014
+year: 2014
 published: 2014-01-02 18:44:27
 published_gmt: 2014-01-02 18:44:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2014/01/cfi-co-meets-the-ceo-of-banco-mercantil-santa-cruz-alberto-valdes-andreatta/"
 categories: ["Corporate Leaders", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 00d3d8ad64f271c6206092c5d4ce4fb48192bfecf1733a99bdb18628ec1acafb
 canonical: 7298-cfi-co-meets-the-ceo-of-banco-mercantil-santa-cruz-alberto-valdes-andreatta.json
 ---

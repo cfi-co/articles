@@ -1,12 +1,21 @@
 ---
 id: 18787
 title: "Roche: New Solutions to Old Problems? Fintech Can Change Healthcare"
-award_year: 2021
+year: 2021
 published: 2021-02-17 20:29:19
 published_gmt: 2021-02-17 20:29:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2021/02/roche-new-solutions-to-old-problems-fintech-can-change-healthcare/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6d75000be1f2597212e1ed6513d38738b1b1e96bd5821ffd99594e02f09003c2
 canonical: 18787-roche-new-solutions-to-old-problems-fintech-can-change-healthcare.json
 ---

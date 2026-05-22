@@ -1,12 +1,21 @@
 ---
 id: 26882
 title: "Pioneering Spirit, Boldness, and a Deep Understanding of ‘Unity’"
-award_year: 2024
+year: 2024
 published: 2024-06-27 11:24:12
 published_gmt: 2024-06-27 10:24:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/06/pioneering-spirit-boldness-and-a-deep-understanding-of-unity/"
 categories: ["Banking", "Corporate", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 08d37807c6b1a8134e22b9462d789999afba442950d7a7942acf85da21b966a4
 canonical: 26882-pioneering-spirit-boldness-and-a-deep-understanding-of-unity.json
 ---

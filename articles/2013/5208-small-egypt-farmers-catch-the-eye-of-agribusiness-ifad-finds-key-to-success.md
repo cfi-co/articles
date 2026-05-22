@@ -1,12 +1,21 @@
 ---
 id: 5208
 title: "Small Egypt Farmers Catch the Eye of Agribusiness: IFAD Finds Key to Success"
-award_year: 2013
+year: 2013
 published: 2013-09-04 09:44:28
 published_gmt: 2013-09-04 08:44:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/09/small-egypt-farmers-catch-the-eye-of-agribusiness-ifad-finds-key-to-success/"
 categories: ["Middle East", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5644c8364c97f14064d12f61377ab9a2c2687da6bfbda261101d220b247bf3a9
 canonical: 5208-small-egypt-farmers-catch-the-eye-of-agribusiness-ifad-finds-key-to-success.json
 ---

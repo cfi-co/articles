@@ -1,12 +1,21 @@
 ---
 id: 4714
 title: "CFI.co Meets Naeem Mawji"
-award_year: 2013
+year: 2013
 published: 2013-06-30 14:35:45
 published_gmt: 2013-06-30 13:35:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/06/cfi-co-meets-naeem-mawji/"
 categories: ["Africa", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bfac8d0a97f6e164dd6c046ac5ade7e191eeea984bde229d51df20b8e7f54eef
 canonical: 4714-cfi-co-meets-naeem-mawji.json
 ---

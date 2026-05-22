@@ -1,12 +1,21 @@
 ---
 id: 19166
 title: "Rubicon’s Mission is Inclusive, and More Important Now than Ever"
-award_year: 2021
+year: 2021
 published: 2021-03-17 16:46:51
 published_gmt: 2021-03-17 16:46:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/03/rubicons-mission-is-inclusive-and-more-important-now-than-ever/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 676b6d025f21be537f5ffafe4a03d4db7267006276c69e149965d51b11419308
 canonical: 19166-rubicons-mission-is-inclusive-and-more-important-now-than-ever.json
 ---

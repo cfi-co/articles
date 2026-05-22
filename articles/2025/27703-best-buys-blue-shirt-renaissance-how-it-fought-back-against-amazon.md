@@ -1,12 +1,21 @@
 ---
 id: 27703
 title: "Best Buy’s Blue-Shirt Renaissance: How It Fought Back Against Amazon"
-award_year: 2025
+year: 2025
 published: 2025-05-02 08:26:18
 published_gmt: 2025-05-02 07:26:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2025/05/best-buys-blue-shirt-renaissance-how-it-fought-back-against-amazon/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e3597b7d22ed4e853cabb1ce3a735f82634adad850b10525c90dcdb1b171298a
 canonical: 27703-best-buys-blue-shirt-renaissance-how-it-fought-back-against-amazon.json
 ---

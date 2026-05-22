@@ -1,12 +1,21 @@
 ---
 id: 21889
 title: "Golar: Industry Innovator Democratising Access to LNG"
-award_year: 2022
+year: 2022
 published: 2022-05-18 05:50:52
 published_gmt: 2022-05-18 04:50:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/golar-industry-innovator-democratising-access-to-lng/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b5a758dffffa00c33acd3d62c27ba9d8e9b91ea15c376cd0f9fc3f9ebcee9260
 canonical: 21889-golar-industry-innovator-democratising-access-to-lng.json
 ---

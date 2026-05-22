@@ -1,12 +1,21 @@
 ---
 id: 9324
 title: "<br>Best Commercial Bank, China: CFI.co names China Merchants"
-award_year: 2015
+year: 2015
 published: 2015-02-28 15:05:36
 published_gmt: 2015-02-28 15:05:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fe6e8c7261ad350d232186f78945623ac60b55e3452c834b01da7036a3e9f684
 canonical: 9324-best-commercial-bank-china-cfi-co-names-china-merchants.json
 ---

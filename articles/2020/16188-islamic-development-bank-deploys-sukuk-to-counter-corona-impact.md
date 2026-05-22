@@ -1,12 +1,21 @@
 ---
 id: 16188
 title: "Islamic Development Bank Deploys Sukuk to Counter Corona Impact"
-award_year: 2020
+year: 2020
 published: 2020-07-07 15:00:57
 published_gmt: 2020-07-07 14:00:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2020/07/islamic-development-bank-deploys-sukuk-to-counter-corona-impact/"
 categories: ["Middle East", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: edccae3ac88f2bd7e94574463d4719eefd1f84ad2b64a711728071215eab015a
 canonical: 16188-islamic-development-bank-deploys-sukuk-to-counter-corona-impact.json
 ---

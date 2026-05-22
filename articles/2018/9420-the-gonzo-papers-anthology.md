@@ -1,12 +1,21 @@
 ---
 id: 9420
 title: "The Gonzo Papers Anthology"
-award_year: 2018
+year: 2018
 published: 2018-03-02 14:43:03
 published_gmt: 2018-03-02 14:43:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/the-editors-list/2018/03/the-gonzo-papers-anthology/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ba19a728fb09ab5fa30fae1915f9cd4635074d066651af84edcb61fb3c644b79
 canonical: 9420-the-gonzo-papers-anthology.json
 ---

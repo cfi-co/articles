@@ -1,12 +1,21 @@
 ---
 id: 27893
 title: "From Dubai Chocolate to AI: The Middle East in Transition"
-award_year: 2025
+year: 2025
 published: 2025-09-03 13:47:35
 published_gmt: 2025-09-03 12:47:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2025/09/from-dubai-chocolate-to-ai-the-middle-east-in-transition/"
 categories: ["Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 29cfd780257a3c671bb7eba6259c15bf27b233c8b48047c2e6600c4f683d91c3
 canonical: 27893-from-dubai-chocolate-to-ai-the-middle-east-in-transition.json
 ---

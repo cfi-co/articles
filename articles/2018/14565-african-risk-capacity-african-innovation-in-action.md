@@ -1,12 +1,21 @@
 ---
 id: 14565
 title: "African Risk Capacity: African Innovation in Action"
-award_year: 2018
+year: 2018
 published: 2018-05-20 14:09:41
 published_gmt: 2018-05-20 13:09:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2018/05/african-risk-capacity-african-innovation-in-action/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ef527b6c07dfd8ef5f0dedb0b0739499fb135c13fc95a1a04ca41452368b34ad
 canonical: 14565-african-risk-capacity-african-innovation-in-action.json
 ---

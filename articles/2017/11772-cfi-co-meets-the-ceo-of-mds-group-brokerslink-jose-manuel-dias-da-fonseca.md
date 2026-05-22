@@ -1,12 +1,21 @@
 ---
 id: 11772
 title: "CFI.co Meets the CEO of MDS Group & Brokerslink: José Manuel Dias da Fonseca"
-award_year: 2017
+year: 2017
 published: 2017-08-31 11:33:19
 published_gmt: 2017-08-31 10:33:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-of-mds-group-brokerslink-jose-manuel-dias-da-fonseca/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a8c219d8fd17104e8090a38ec21d0efc7ec7ccb27aa705bdea060cf8b54feff1
 canonical: 11772-cfi-co-meets-the-ceo-of-mds-group-brokerslink-jose-manuel-dias-da-fonseca.json
 ---

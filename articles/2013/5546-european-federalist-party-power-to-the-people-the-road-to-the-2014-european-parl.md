@@ -1,12 +1,21 @@
 ---
 id: 5546
 title: "European Federalist Party: Power to the People? The Road to the 2014 European Parliament Elections"
-award_year: 2013
+year: 2013
 published: 2013-10-22 13:53:54
 published_gmt: 2013-10-22 12:53:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/10/european-federalist-party-power-to-the-people-the-road-to-the-2014-european-parliament-elections/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f36d186c18aa3a5f2cf3de95c6bf985e055b5930a596a17452aac25a94fec940
 canonical: 5546-european-federalist-party-power-to-the-people-the-road-to-the-2014-european-parl.json
 ---

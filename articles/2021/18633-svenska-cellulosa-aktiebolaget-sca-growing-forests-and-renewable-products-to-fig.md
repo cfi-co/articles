@@ -1,12 +1,21 @@
 ---
 id: 18633
 title: "Svenska Cellulosa Aktiebolaget SCA: Growing Forests and Renewable Products to Fight Climate Change"
-award_year: 2021
+year: 2021
 published: 2021-02-04 15:53:53
 published_gmt: 2021-02-04 15:53:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/svenska-cellulosa-aktiebolaget-sca-growing-forests-and-renewable-products-to-fight-climate-change/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0104a3c2210c345ea1c9c3ab1b408d71f318b0eec60243b0933d481be38b5794
 canonical: 18633-svenska-cellulosa-aktiebolaget-sca-growing-forests-and-renewable-products-to-fig.json
 ---

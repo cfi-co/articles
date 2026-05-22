@@ -1,12 +1,21 @@
 ---
 id: 19919
 title: "Farazad Investments: Boutique Investment Bank Believes in a Tried and Tested Formula with Innovation on the Side"
-award_year: 2021
+year: 2021
 published: 2021-07-12 15:50:46
 published_gmt: 2021-07-12 14:50:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/farazad-investments-boutique-investment-bank-believes-in-a-tried-and-tested-formula-with-innovation-on-the-side/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ac5756b834ef54899765d2e2a8b091e16024a66635490de5d278282c8d95c87f
 canonical: 19919-farazad-investments-boutique-investment-bank-believes-in-a-tried-and-tested-form.json
 ---

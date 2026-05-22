@@ -1,12 +1,21 @@
 ---
 id: 7623
 title: "European Policy Centre on Financial Transaction Tax (FTT): Why the EU Needs the FTT but the  FTT Does Not Need the EU"
-award_year: 2014
+year: 2014
 published: 2014-07-16 10:52:45
 published_gmt: 2014-07-16 09:52:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/07/european-policy-centre-on-financial-transaction-tax-ftt-why-the-eu-needs-the-ftt-but-the-ftt-does-not-need-the-eu/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a9db0a1f019f2a291b8422d6bce47a832e5742fa3146584d2fbacd71a711f1f9
 canonical: 7623-european-policy-centre-on-financial-transaction-tax-ftt-why-the-eu-needs-the-ftt.json
 ---

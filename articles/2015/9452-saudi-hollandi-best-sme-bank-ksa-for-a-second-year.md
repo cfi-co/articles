@@ -1,12 +1,21 @@
 ---
 id: 9452
 title: "<br>Saudi Hollandi: Best SME Bank, KSA, for a Second Year"
-award_year: 2015
+year: 2015
 published: 2015-03-01 16:46:45
 published_gmt: 2015-03-01 16:46:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/"
 categories: ["Awards Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 40fa49112c6c67295be3c33dd0392542291837ca15f34b10aeae61b4e22eed70
 canonical: 9452-saudi-hollandi-best-sme-bank-ksa-for-a-second-year.json
 ---

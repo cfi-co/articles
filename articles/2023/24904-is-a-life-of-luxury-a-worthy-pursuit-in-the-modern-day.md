@@ -1,12 +1,21 @@
 ---
 id: 24904
 title: "Is a Life of Luxury a Worthy Pursuit in the Modern Day?"
-award_year: 2023
+year: 2023
 published: 2023-03-15 14:45:38
 published_gmt: 2023-03-15 14:45:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2023/03/is-a-life-of-luxury-a-worthy-pursuit-in-the-modern-day/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ac64cd1522cf44a493f0985a1d1a55716d4b5c23adfaaebe83b0482e565092d0
 canonical: 24904-is-a-life-of-luxury-a-worthy-pursuit-in-the-modern-day.json
 ---

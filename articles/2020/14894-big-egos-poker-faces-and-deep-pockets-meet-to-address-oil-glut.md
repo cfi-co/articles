@@ -1,12 +1,21 @@
 ---
 id: 14894
 title: "Big Egos, Poker Faces, and Deep Pockets Meet to Address Oil Glut"
-award_year: 2020
+year: 2020
 published: 2020-04-09 15:41:11
 published_gmt: 2020-04-09 14:41:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/big-egos-poker-faces-and-deep-pockets-meet-to-address-oil-glut/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 81236340a52e62e8336d2c5df220ef31a1e13bca7bb9f731f8851d380f9ddce6
 canonical: 14894-big-egos-poker-faces-and-deep-pockets-meet-to-address-oil-glut.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 9730
 title: "Ten Guiding Principles to Encourage Foreign Direct Investment"
-award_year: 2015
+year: 2015
 published: 2015-05-07 10:51:10
 published_gmt: 2015-05-07 09:51:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/05/ten-guiding-principles-to-encourage-foreign-direct-investment/"
 categories: ["Finance", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4047289631cb92db9ff6f75625c3ddf15d0359f56a8bf0295eaf664e69ab0afd
 canonical: 9730-ten-guiding-principles-to-encourage-foreign-direct-investment.json
 ---

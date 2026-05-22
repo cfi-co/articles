@@ -1,12 +1,21 @@
 ---
 id: 8933
 title: "Book Review: Plus ça Change, Plus c’est la même Chose"
-award_year: 2015
+year: 2015
 published: 2015-02-11 13:00:30
 published_gmt: 2015-02-11 13:00:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2015/02/book-review-plus-ca-change-plus-cest-la-meme-chose/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e2a6e77e10ea8f3c005bd2a0e2b6635818b416e768c615716e13616cce760215
 canonical: 8933-book-review-plus-ca-change-plus-cest-la-meme-chose.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 19968
 title: "Santiago Free Zone Corporation – CZFS: Loosens the Bonds, Creating Growth for the North Region & the Country"
-award_year: 2021
+year: 2021
 published: 2021-07-13 12:50:20
 published_gmt: 2021-07-13 11:50:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/santiago-free-zone-corporation-czfs-loosens-the-bonds-creating-growth-for-the-north-region-the-country/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: de160aae243644c396cd170259c68327ee33460f8dc49ac3c148bc25805bb651
 canonical: 19968-santiago-free-zone-corporation-czfs-loosens-the-bonds-creating-growth-for-the-no.json
 ---

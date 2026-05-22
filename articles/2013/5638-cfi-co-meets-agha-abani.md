@@ -1,12 +1,21 @@
 ---
 id: 5638
 title: "CFI.co Meets Agha Abani"
-award_year: 2013
+year: 2013
 published: 2013-10-07 16:03:33
 published_gmt: 2013-10-07 15:03:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/10/cfi-co-meets-agha-abani/"
 categories: ["Africa", "Corporate Leaders", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7aad0a2ecaf4d01d803a61b9e87881e0d253d9b0b018e41201dec8695efe66b4
 canonical: 5638-cfi-co-meets-agha-abani.json
 ---

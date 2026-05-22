@@ -1,12 +1,21 @@
 ---
 id: 9116
 title: "Ahmed Emad Eldin: Resonating with Pink Floyd"
-award_year: 2015
+year: 2015
 published: 2015-02-24 13:34:14
 published_gmt: 2015-02-24 13:34:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2015/02/ahmed-emad-eldin-resonating-with-pink-floyd/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 769c9fa1c06ee10aec9015f57ed2009fa8e0aaff77938f8b9a2d6602b5612d08
 canonical: 9116-ahmed-emad-eldin-resonating-with-pink-floyd.json
 ---

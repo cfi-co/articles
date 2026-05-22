@@ -1,12 +1,21 @@
 ---
 id: 26224
 title: "Poland Votes: PiS Stranglehold on Power in the Balance"
-award_year: 2023
+year: 2023
 published: 2023-10-16 19:19:46
 published_gmt: 2023-10-16 18:19:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/10/poland-votes-pis-stranglehold-on-power-in-the-balance/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 565d876a47b3af2eb79589693d41452b595bf07ff9a64afebc6482db6ff61c68
 canonical: 26224-poland-votes-pis-stranglehold-on-power-in-the-balance.json
 ---

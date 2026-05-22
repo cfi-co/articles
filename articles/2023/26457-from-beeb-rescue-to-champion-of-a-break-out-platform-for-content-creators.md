@@ -1,12 +1,21 @@
 ---
 id: 26457
 title: "From Beeb ‘Rescue’ to Champion of a Break-out Platform for Content Creators"
-award_year: 2023
+year: 2023
 published: 2023-11-21 10:51:04
 published_gmt: 2023-11-21 10:51:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/11/from-beeb-rescue-to-champion-of-a-break-out-platform-for-content-creators/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ec782aeaf89c611a3d465c32bd54a40bbb348015b41b8522a37fa1956d61ee03
 canonical: 26457-from-beeb-rescue-to-champion-of-a-break-out-platform-for-content-creators.json
 ---

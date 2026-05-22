@@ -1,12 +1,21 @@
 ---
 id: 15884
 title: "Development Bank of Minas Gerais (BDMG): Reference Point in Creation of Green Economy"
-award_year: 2020
+year: 2020
 published: 2020-07-01 11:37:01
 published_gmt: 2020-07-01 10:37:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/07/sergio-gusmao-suchodolski-development-bank-of-minas-gerais-bdmg/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 025635007a38185fabc0cbe782b2eb969865c1f9cea5577ef1bea4111d33ee4d
 canonical: 15884-sergio-gusmao-suchodolski-development-bank-of-minas-gerais-bdmg.json
 ---

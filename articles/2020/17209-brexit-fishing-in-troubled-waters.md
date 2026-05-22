@@ -1,12 +1,21 @@
 ---
 id: 17209
 title: "Brexit: Fishing in Troubled Waters"
-award_year: 2020
+year: 2020
 published: 2020-10-12 17:33:43
 published_gmt: 2020-10-12 16:33:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/10/brexit-fishing-in-troubled-waters/"
 categories: ["Economics &amp; Convergence", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3bc314df8787705dab522e3b10318b0f17abc969c987245cb3fea44f08e2d672
 canonical: 17209-brexit-fishing-in-troubled-waters.json
 ---

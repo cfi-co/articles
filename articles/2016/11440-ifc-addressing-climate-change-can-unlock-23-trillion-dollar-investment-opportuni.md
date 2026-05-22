@@ -1,12 +1,21 @@
 ---
 id: 11440
 title: "IFC: Addressing Climate Change Can Unlock $23 Trillion-Dollar Investment Opportunities in Emerging Markets"
-award_year: 2016
+year: 2016
 published: 2016-12-22 14:24:53
 published_gmt: 2016-12-22 14:24:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2016/12/ifc-addressing-climate-change-can-unlock-23-trillion-dollar-investment-opportunities-in-emerging-markets/"
 categories: ["Africa", "Finance", "Latin America", "Middle East", "North America", "Oil &amp; Mining", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0d15b947ea1d6ab7b0654699a3f64b81a1cf716dc0bdf44adc95b8d51b10f480
 canonical: 11440-ifc-addressing-climate-change-can-unlock-23-trillion-dollar-investment-opportuni.json
 ---

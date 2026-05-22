@@ -1,12 +1,21 @@
 ---
 id: 16049
 title: "KC Li’s Career Started High… And Then It Took Off Big Time"
-award_year: 2020
+year: 2020
 published: 2020-05-01 15:33:26
 published_gmt: 2020-05-01 14:33:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/05/kc-li-career-started-high-and-then-it-took-off-big-time/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dec944d8408ac6fd8930098c72a71dfa191f417b9c4971cb87b52d6a69e31bd2
 canonical: 16049-kc-li-career-started-high-and-then-it-took-off-big-time.json
 ---

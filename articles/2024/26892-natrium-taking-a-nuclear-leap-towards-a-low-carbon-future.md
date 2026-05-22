@@ -1,12 +1,21 @@
 ---
 id: 26892
 title: "Natrium: Taking a Nuclear Leap Towards a Low-Carbon Future"
-award_year: 2024
+year: 2024
 published: 2024-07-01 15:39:34
 published_gmt: 2024-07-01 14:39:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/projects/2024/07/natrium-taking-a-nuclear-leap-towards-a-low-carbon-future/"
 categories: ["North America", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 97efacca442824598ed057a7dddb506bb6f58a2e37c423d93e3c73cbad0eae34
 canonical: 26892-natrium-taking-a-nuclear-leap-towards-a-low-carbon-future.json
 ---

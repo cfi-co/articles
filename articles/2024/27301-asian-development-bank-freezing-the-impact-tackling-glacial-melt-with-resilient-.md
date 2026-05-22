@@ -1,12 +1,21 @@
 ---
 id: 27301
 title: "Asian Development Bank - Freezing the Impact: Tackling Glacial Melt with Resilient Solutions"
-award_year: 2024
+year: 2024
 published: 2024-11-19 12:29:46
 published_gmt: 2024-11-19 12:29:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2024/11/asian-development-bank-freezing-the-impact-tackling-glacial-melt-with-resilient-solutions/"
 categories: ["Asia Pacific", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2cdbedac99850959fb82e2278bc3c1b233f809a88029c2a7456366a42eea12e0
 canonical: 27301-asian-development-bank-freezing-the-impact-tackling-glacial-melt-with-resilient-.json
 ---

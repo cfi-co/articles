@@ -1,12 +1,21 @@
 ---
 id: 16583
 title: "Anshula Kant, MD and CFO of the World Bank Group: Power of Capital Markets in the Battle Against COVID-19"
-award_year: 2020
+year: 2020
 published: 2020-08-14 09:29:33
 published_gmt: 2020-08-14 08:29:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2020/08/anshula-kant-md-and-cfo-the-world-bank-group-power-of-capital-markets-in-the-battle-against-covid-19/"
 categories: ["Banking", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 08169c4d47c1d58bf2e3e72fb48f799e961e280f9461f4c84bc5a40d7f771e96
 canonical: 16583-anshula-kant-md-and-cfo-the-world-bank-group-power-of-capital-markets-in-the-bat.json
 ---

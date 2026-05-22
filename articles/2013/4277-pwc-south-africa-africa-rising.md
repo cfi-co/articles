@@ -1,12 +1,21 @@
 ---
 id: 4277
 title: "PwC, South Africa: Africa Rising"
-award_year: 2013
+year: 2013
 published: 2013-06-06 13:47:04
 published_gmt: 2013-06-06 13:47:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/06/pwc-south-africa-africa-rising/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a8721bb0165950ae27d07f8a94251ecb656e88d3471dbc63ee47ac9b2c5c38a0
 canonical: 4277-pwc-south-africa-africa-rising.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 3672
 title: "UN Report on International Investor Disputes"
-award_year: 2013
+year: 2013
 published: 2013-04-16 10:47:10
 published_gmt: 2013-04-16 09:47:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/04/un-report-on-international-investor-disputes/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 955250ca09ee7c75552b3e7f2a039dc4ca56a655d753d71179df12f2081fedc4
 canonical: 3672-un-report-on-international-investor-disputes.json
 ---

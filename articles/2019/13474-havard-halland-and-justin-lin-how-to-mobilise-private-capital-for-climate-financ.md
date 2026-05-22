@@ -1,12 +1,21 @@
 ---
 id: 13474
 title: "Håvard Halland and Justin Lin: How to Mobilise Private Capital for Climate Finance"
-award_year: 2019
+year: 2019
 published: 2019-03-24 15:32:24
 published_gmt: 2019-03-24 15:32:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2019/03/havard-halland-and-justin-lin-how-to-mobilise-private-capital-for-climate-finance/"
 categories: ["CSR", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a68032f142a748945bf3c68031d645dd91a4fe8f4115cd7980286d968eddfd36
 canonical: 13474-havard-halland-and-justin-lin-how-to-mobilise-private-capital-for-climate-financ.json
 ---

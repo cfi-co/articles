@@ -1,12 +1,21 @@
 ---
 id: 16703
 title: "KwaZulu-Natal Joint Municipal Pension/Provident Funds: Challenges and Transformation for South African Fund as it Navigates the Future for All its Stakeholders"
-award_year: 2020
+year: 2020
 published: 2020-08-20 13:02:43
 published_gmt: 2020-08-20 12:02:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/08/bonginkosi-mkhize-ceo-kwazulu-natal-joint-municipal-pension-provident-funds-challenges-and-transformation-for-south-african-fund-as-it-navigates-the-future-for-all-its-stakeholders/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c26e0545643ee9961aa1624415d9b5db8c713881238f3bc4363bab52cd73e13a
 canonical: 16703-bonginkosi-mkhize-ceo-kwazulu-natal-joint-municipal-pension-provident-funds-chal.json
 ---

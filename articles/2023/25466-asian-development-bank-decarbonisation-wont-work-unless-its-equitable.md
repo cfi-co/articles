@@ -1,12 +1,21 @@
 ---
 id: 25466
 title: "Asian Development Bank: Decarbonisation ‘Won’t Work Unless it’s Equitable’"
-award_year: 2023
+year: 2023
 published: 2023-05-18 11:11:32
 published_gmt: 2023-05-18 10:11:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/05/asian-development-bank-decarbonisation-wont-work-unless-its-equitable/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 942426185ec555f3cb794493309608d8f576e180ccc5ea76e7907cb74c76965a
 canonical: 25466-asian-development-bank-decarbonisation-wont-work-unless-its-equitable.json
 ---

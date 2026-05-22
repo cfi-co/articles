@@ -10,8 +10,21 @@
     "categories": [
         "Middle East"
     ],
+    "classification": {
+        "content_class": "editorial_analysis",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_4048\" align=\"alignright\" width=\"223\"]<img class=\"size-full wp-image-4048\" alt=\"Sheikh Hamad bin Khalifa Al-Thani\" src=\"https://cfi.co/wp-content/uploads/2013/05/Sheikh-Hamad-bin-Khalifa-Al-Thani.jpg\" width=\"223\" height=\"176\" /> <strong>Sheikh Hamad bin Khalifa Al-Thani</strong>[/caption]\r\n<p style=\"text-align: justify;\"><strong>Sheikh Hamad bin Khalifa Al-Thani became Emir of Qatar in 1995 and his reign has coincided with a period of rapid economic growth at home and increasing political and social influence throughout the region.</strong> Qatar has seen a modernisation programme for the military and can boast of a very successful reform programme. This  is one of the smallest countries in the world (with just a quarter of a million nationals out of a total population of some 2 million) but Qatar is at the top of the GDP per capita league as the world’s top exporter of liquefied natural gas.</p>\r\n<p style=\"text-align: justify;\">Billions have been spent on national infrastructure and his $400 million development package for Gaza saw Sheikh Hamad at regional centre stage. There has also been significant humanitarian funding of reconstruction efforts in Darfur. Qatar was first to support the Libyan rebels against Gaddafi and has been extremely active elsewhere indicating that Qatari influence is out of all proportion to its size.</p>\r\n\r\n<blockquote>\r\n<h3 style=\"text-align: justify;\">“As you know, our Arab region stands on the verge of a quantum leap. The Arab Spring bloomed into a generation of young people who are determined to achieve their dreams and ambitions.”</h3>\r\n</blockquote>\r\n<p style=\"text-align: justify;\">Qatar funded the TV network Al-Jazira which is massively influential and has brought a breath of fresh air to regional reporting. The country’s international profile should rise as host of the 2022 World Cup.</p>",
     "content_sha256": "86bedfa112e2ff3b374697139a64f974894aa823945705e9d9a2d07f0c1964c5",
-    "record_sha256": "10500effbb80f1316beac1b5610f4478a332a4d6915e1bdf9742658a85b33305"
+    "record_sha256": "77f19030c868bad41fc1348e22c81bf2412b514b0509f4b0f81cc93bcb928a44"
 }

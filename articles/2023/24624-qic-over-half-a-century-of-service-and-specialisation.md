@@ -1,12 +1,21 @@
 ---
 id: 24624
 title: "Over Half a Century of Service and Specialisation — the Years and the Successes Tell the Tale"
-award_year: 2023
+year: 2023
 published: 2023-01-18 13:22:31
 published_gmt: 2023-01-18 13:22:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/01/qic-over-half-a-century-of-service-and-specialisation/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: facf370a2b5d5acd6d3c427f206660781a9d73a730793e3a8c7e940894ad1d74
 canonical: 24624-qic-over-half-a-century-of-service-and-specialisation.json
 ---

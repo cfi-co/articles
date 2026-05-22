@@ -1,12 +1,21 @@
 ---
 id: 4924
 title: "Pepsico’s Indra Nooyi: Everything with Purpose"
-award_year: 2013
+year: 2013
 published: 2013-08-07 09:01:04
 published_gmt: 2013-08-07 08:01:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/08/pepsicos-indra-nooyi-everything-with-purpose/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 003dc79c49893e38fd6c949ac5b658c924994cd2786e2fb1629b1d7166bb1052
 canonical: 4924-pepsicos-indra-nooyi-everything-with-purpose.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 12254
 title: "CFI.co Meets the Director General of Wafacash: Samira Khamlichi"
-award_year: 2018
+year: 2018
 published: 2018-01-19 11:05:00
 published_gmt: 2018-01-19 11:05:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/01/cfi-co-meets-the-director-general-of-wafacash-samira-khamlichi/"
 categories: ["CFI.co Meets", "Corporate Leaders"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 46411dd35d2c5ec61d69c64006f05baf5adf5faeb7e19797e073b5bf0071ec63
 canonical: 12254-cfi-co-meets-the-director-general-of-wafacash-samira-khamlichi.json
 ---

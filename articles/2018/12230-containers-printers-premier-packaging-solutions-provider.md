@@ -1,12 +1,21 @@
 ---
 id: 12230
 title: "Containers Printers: Premier Packaging Solutions Provider"
-award_year: 2018
+year: 2018
 published: 2018-01-11 10:09:12
 published_gmt: 2018-01-11 10:09:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2018/01/containers-printers-premier-packaging-solutions-provider/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 74abd3397bac8312e4e175626c5d169ea56851748539bfaab5cd1aaa497bb493
 canonical: 12230-containers-printers-premier-packaging-solutions-provider.json
 ---

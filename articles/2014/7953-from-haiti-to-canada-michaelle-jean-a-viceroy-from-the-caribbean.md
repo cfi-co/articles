@@ -1,12 +1,21 @@
 ---
 id: 7953
 title: "From Haiti to Canada – Michaëlle Jean: A Viceroy from the Caribbean"
-award_year: 2014
+year: 2014
 published: 2014-09-02 12:36:37
 published_gmt: 2014-09-02 11:36:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2014/09/from-haiti-to-canada-michaelle-jean-a-viceroy-from-the-caribbean/"
 categories: ["Latin America", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0d4284d15429650bb4c27c0d1219f8b8f671b07ae38e64bd5aae84a1d166f766
 canonical: 7953-from-haiti-to-canada-michaelle-jean-a-viceroy-from-the-caribbean.json
 ---

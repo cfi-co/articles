@@ -1,12 +1,21 @@
 ---
 id: 27396
 title: "Josiah Wedgwood: A Potter Who Gave Birth to a Brand"
-award_year: 2024
+year: 2024
 published: 2024-12-12 05:21:37
 published_gmt: 2024-12-12 05:21:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2024/12/josiah-wedgwood-a-potter-who-gave-birth-to-a-brand/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5c667bd2654542fc4c35257ba4774bfc08f562a328ba35e5e23788a152aa5dfd
 canonical: 27396-josiah-wedgwood-a-potter-who-gave-birth-to-a-brand.json
 ---

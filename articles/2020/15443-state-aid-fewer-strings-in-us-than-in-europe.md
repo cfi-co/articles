@@ -1,12 +1,21 @@
 ---
 id: 15443
 title: "Few Strings in US, Many in Europe"
-award_year: 2020
+year: 2020
 published: 2020-05-26 16:11:53
 published_gmt: 2020-05-26 15:11:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/05/state-aid-fewer-strings-in-us-than-in-europe/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 229e332a56844b42910cad179acd82df810969ecc1ba40f512324337aca18e63
 canonical: 15443-state-aid-fewer-strings-in-us-than-in-europe.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 7262
 title: "CFI.co Meets the CEO of CORE Securities: George Fumbuka"
-award_year: 2014
+year: 2014
 published: 2014-01-02 18:18:34
 published_gmt: 2014-01-02 18:18:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/01/cfi-co-meets-the-ceo-of-core-securities-george-fumbuka/"
 categories: ["Africa", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8db85e0c728e20873b01819b03a21539611741f5cd6aa88ad5b1ca866420ef8f
 canonical: 7262-cfi-co-meets-the-ceo-of-core-securities-george-fumbuka.json
 ---

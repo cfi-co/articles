@@ -1,12 +1,21 @@
 ---
 id: 20769
 title: "Glued to the Box, or Linked to a Laptop? Streaming is Up-ending Entertainment"
-award_year: 2021
+year: 2021
 published: 2021-10-05 10:49:38
 published_gmt: 2021-10-05 09:49:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/10/glued-to-the-box-or-linked-to-a-laptop-streaming-is-up-ending-entertainment/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 36163a32054d7e3dc380c31ccc17508d63715e21269259b4433f9738b41342bf
 canonical: 20769-glued-to-the-box-or-linked-to-a-laptop-streaming-is-up-ending-entertainment.json
 ---

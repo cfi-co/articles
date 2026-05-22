@@ -1,12 +1,21 @@
 ---
 id: 9743
 title: "Nigeria: An Economic Upswing Foretold"
-award_year: 2015
+year: 2015
 published: 2015-05-12 09:29:08
 published_gmt: 2015-05-12 08:29:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/05/nigeria-an-economic-upswing-foretold/"
 categories: ["Africa", "Banking", "Finance", "Oil &amp; Mining", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b7acdd74d986aae5e92386ec7c1e9b6f28de1036c762fd17079e0796c63e3afc
 canonical: 9743-nigeria-an-economic-upswing-foretold.json
 ---

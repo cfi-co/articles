@@ -1,12 +1,21 @@
 ---
 id: 749
 title: "Barclay’s CEO Bob Diamond Tops the List of High Earners"
-award_year: 2012
+year: 2012
 published: 2012-06-14 22:43:43
 published_gmt: 2012-06-14 21:43:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/06/barclays-ceo-bob-diamond-tops-the-list-of-high-earners/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 385408fc077600e937abbc81ac17b4002d0307caf617715d7cb29fb85fa32b7d
 canonical: 749-barclays-ceo-bob-diamond-tops-the-list-of-high-earners.json
 ---

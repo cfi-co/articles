@@ -1,12 +1,21 @@
 ---
 id: 11510
 title: "Behind the Scenes, Berlin and Beijing Are Forging a New World Order"
-award_year: 2017
+year: 2017
 published: 2017-01-30 12:15:56
 published_gmt: 2017-01-30 12:15:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2017/01/behind-the-scenes-berlin-and-beijing-are-forging-a-new-world-order/"
 categories: ["Asia Pacific", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: acf607bc16a2e81c4f5a618e2fdf503bd9d2077e723f85241500e6ccdf468b8f
 canonical: 11510-behind-the-scenes-berlin-and-beijing-are-forging-a-new-world-order.json
 ---

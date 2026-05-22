@@ -1,12 +1,21 @@
 ---
 id: 10223
 title: "Otaviano Canuto, IMF: How Commodity-Dependent Are Latin American Economies?"
-award_year: 2015
+year: 2015
 published: 2015-08-20 12:28:37
 published_gmt: 2015-08-20 11:28:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2015/08/otaviano-canuto-imf-how-commodity-dependent-are-latin-american-economies/"
 categories: ["Banking", "Finance", "Latin America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ed939db072bd4d19cec3e2e0e8a7b2be73a001dbb6acd18db2abaa67d6531ab6
 canonical: 10223-otaviano-canuto-imf-how-commodity-dependent-are-latin-american-economies.json
 ---

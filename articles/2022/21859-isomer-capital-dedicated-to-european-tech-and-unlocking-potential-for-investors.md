@@ -1,12 +1,21 @@
 ---
 id: 21859
 title: "Isomer Capital: Dedicated to European Tech and Unlocking Potential for Investors"
-award_year: 2022
+year: 2022
 published: 2022-05-17 17:55:06
 published_gmt: 2022-05-17 16:55:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/isomer-capital-dedicated-to-european-tech-and-unlocking-potential-for-investors/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cf5535b6cdb1b246194e64f367726cbd9eaf7f2d96b82fa12b2704bda2224da7
 canonical: 21859-isomer-capital-dedicated-to-european-tech-and-unlocking-potential-for-investors.json
 ---

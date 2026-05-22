@@ -1,12 +1,21 @@
 ---
 id: 17453
 title: "Exxaro’s Socio-Economic Initiatives: Empowering Communities and More"
-award_year: 2020
+year: 2020
 published: 2020-01-09 12:19:19
 published_gmt: 2020-01-09 12:19:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/01/exxaro-resources-socio-economic-initiatives-empowering-communities-and-more/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e5a7b56e84f8323610a56187aa0415bb1c68c8623f6e6fbba5732a7a73837c01
 canonical: 17453-exxaro-resources-socio-economic-initiatives-empowering-communities-and-more.json
 ---

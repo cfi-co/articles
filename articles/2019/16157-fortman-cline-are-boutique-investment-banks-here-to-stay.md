@@ -1,12 +1,21 @@
 ---
 id: 16157
 title: "Fortman Cline: Are Boutique Investment Banks Here to Stay?"
-award_year: 2019
+year: 2019
 published: 2019-10-03 14:53:45
 published_gmt: 2019-10-03 13:53:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/10/fortman-cline-are-boutique-investment-banks-here-to-stay/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2051e9c0576e4a66dc3e9c7857c3b25c555e915f4338ae7b139ca97e67ffe0ef
 canonical: 16157-fortman-cline-are-boutique-investment-banks-here-to-stay.json
 ---

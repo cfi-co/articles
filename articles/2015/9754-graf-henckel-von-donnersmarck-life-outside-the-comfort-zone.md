@@ -1,12 +1,21 @@
 ---
 id: 9754
 title: "Graf Henckel von Donnersmarck: Life outside the Comfort Zone"
-award_year: 2015
+year: 2015
 published: 2015-05-14 16:13:45
 published_gmt: 2015-05-14 15:13:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/05/graf-henckel-von-donnersmarck-life-outside-the-comfort-zone/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5273537d89c3fdfa50c2da3b84ca8afa74d4c667b4de571c4f5150a207aa2e20
 canonical: 9754-graf-henckel-von-donnersmarck-life-outside-the-comfort-zone.json
 ---

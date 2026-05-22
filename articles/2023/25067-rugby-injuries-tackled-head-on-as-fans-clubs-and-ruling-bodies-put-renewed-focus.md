@@ -1,12 +1,21 @@
 ---
 id: 25067
 title: "Rugby Injuries Tackled Head-on as Fans, Clubs and Ruling Bodies Put Renewed Focus on Player Safety"
-award_year: 2023
+year: 2023
 published: 2023-04-12 11:05:01
 published_gmt: 2023-04-12 10:05:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2023/04/rugby-injuries-tackled-head-on-as-fans-clubs-and-ruling-bodies-put-renewed-focus-on-player-safety/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 089208b807272e28bc3eb699927efc8cc1bee878d5897a391f072bd04b767b10
 canonical: 25067-rugby-injuries-tackled-head-on-as-fans-clubs-and-ruling-bodies-put-renewed-focus.json
 ---

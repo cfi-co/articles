@@ -1,12 +1,21 @@
 ---
 id: 26865
 title: "One Man’s View of the Mountain: UK Urgently Needs to Rejoin EU to Create Economic Security"
-award_year: 2024
+year: 2024
 published: 2024-06-14 15:48:19
 published_gmt: 2024-06-14 14:48:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2024/06/one-mans-view-of-the-mountain-uk-urgently-needs-to-rejoin-eu-to-create-economic-security/"
 categories: ["Brave New World", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b68f1970f2df596e35c0f5f80f57a5cfe42c360216e4ce73fce23464ff2943e3
 canonical: 26865-one-mans-view-of-the-mountain-uk-urgently-needs-to-rejoin-eu-to-create-economic-.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 16004
 title: "African Finance Evolution: It May Not Be Televised Yet, but the World Is Certainly Taking Note"
-award_year: 2020
+year: 2020
 published: 2020-05-01 16:39:10
 published_gmt: 2020-05-01 15:39:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2020/05/african-finance-evolution-it-may-not-be-televised-yet-but-the-world-is-certainly-taking-note/"
 categories: ["Africa", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 06c312588e2487385b9de6c82fb87475c8ba13dd879ea5cd3d190ffc87dff7fe
 canonical: 16004-african-finance-evolution-it-may-not-be-televised-yet-but-the-world-is-certainly.json
 ---

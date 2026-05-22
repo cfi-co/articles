@@ -1,12 +1,21 @@
 ---
 id: 18048
 title: "Orban on Orbán: Cease and Desist, Your Position Is Untenable"
-award_year: 2020
+year: 2020
 published: 2020-11-24 16:11:03
 published_gmt: 2020-11-24 16:11:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/11/orban-on-orban-cease-and-desist-your-position-is-untenable/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3d5273a02c9c2124be93fc8aaaec534ad5db31c0fdd41cb2044488148c653b56
 canonical: 18048-orban-on-orban-cease-and-desist-your-position-is-untenable.json
 ---

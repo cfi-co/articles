@@ -1,12 +1,21 @@
 ---
 id: 26768
 title: "The Evolution of Online Search: The Role of Artificial Intelligence"
-award_year: 2024
+year: 2024
 published: 2024-04-19 09:00:18
 published_gmt: 2024-04-19 08:00:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2024/04/the-evolution-of-online-search-the-role-of-artificial-intelligence/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e376681709bb93219d91964db12e43ebcfe83e526032440e2b3fb1e0bc01fc87
 canonical: 26768-the-evolution-of-online-search-the-role-of-artificial-intelligence.json
 ---

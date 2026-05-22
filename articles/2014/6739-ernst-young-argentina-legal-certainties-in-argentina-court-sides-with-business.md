@@ -1,12 +1,21 @@
 ---
 id: 6739
 title: "Ernst & Young, Argentina: Legal Certainties in Argentina - Court Sides with Business"
-award_year: 2014
+year: 2014
 published: 2014-02-27 10:29:54
 published_gmt: 2014-02-27 10:29:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/02/ernst-young-argentina-legal-certainties-in-argentina-court-sides-with-business/"
 categories: ["Banking", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4492d63cd542b20fc8554a639d225c2dccdfa1dc86b6bd16a340b242ff1d037c
 canonical: 6739-ernst-young-argentina-legal-certainties-in-argentina-court-sides-with-business.json
 ---

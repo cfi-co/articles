@@ -1,12 +1,21 @@
 ---
 id: 12238
 title: "Werner Hoyer, President of the European Investment Bank (EIB): A Mostly Unseen Hand"
-award_year: 2018
+year: 2018
 published: 2018-01-18 15:29:02
 published_gmt: 2018-01-18 15:29:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2018/01/werner-hoyer-president-of-the-european-investment-bank-eib-a-mostly-unseen-hand/"
 categories: ["Banking", "Banking &amp; Finance", "Europe", "Finance", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1495fd340c4bb111227211fc35ba1ecdbac802d76574877d2a15364d19ba2a4f
 canonical: 12238-werner-hoyer-president-of-the-european-investment-bank-eib-a-mostly-unseen-hand.json
 ---

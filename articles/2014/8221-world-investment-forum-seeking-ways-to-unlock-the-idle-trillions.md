@@ -1,12 +1,21 @@
 ---
 id: 8221
 title: "World Investment Forum: Seeking Ways to Unlock the Idle Trillions"
-award_year: 2014
+year: 2014
 published: 2014-10-16 14:28:20
 published_gmt: 2014-10-16 13:28:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/10/world-investment-forum-seeking-ways-to-unlock-the-idle-trillions/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Middle East", "North America", "Sustainability", "WIF"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c6b1f353f6f7ebdec37a9a04f0986dfc62d290aef2f588d7c96d00d723463809
 canonical: 8221-world-investment-forum-seeking-ways-to-unlock-the-idle-trillions.json
 ---

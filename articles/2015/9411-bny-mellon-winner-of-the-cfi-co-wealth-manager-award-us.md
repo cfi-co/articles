@@ -1,12 +1,21 @@
 ---
 id: 9411
 title: "BNY Mellon: Winner of the CFI.co Wealth Manager Award, US"
-award_year: 2015
+year: 2015
 published: 2015-02-01 11:14:19
 published_gmt: 2015-02-01 11:14:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cc2657a8229cdacdc17c10b3e4d2851a46d809c4499ac0a493e3742b78932e67
 canonical: 9411-bny-mellon-winner-of-the-cfi-co-wealth-manager-award-us.json
 ---

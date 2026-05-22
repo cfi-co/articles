@@ -1,12 +1,21 @@
 ---
 id: 4943
 title: "Complimentary Currencies: Development Tool on Trial in Kenya"
-award_year: 2013
+year: 2013
 published: 2013-08-09 11:15:01
 published_gmt: 2013-08-09 10:15:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/08/complimentary-currencies-development-tool-on-trial-in-kenya/"
 categories: ["Africa", "Banking", "Finance", "Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e2a03699ec9c91cee52754ee25e82cd23d55f2692ccd659565bf1a809bf85d27
 canonical: 4943-complimentary-currencies-development-tool-on-trial-in-kenya.json
 ---

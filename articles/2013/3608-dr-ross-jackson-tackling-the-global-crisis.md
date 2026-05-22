@@ -1,12 +1,21 @@
 ---
 id: 3608
 title: "Dr. Ross Jackson: Tackling the Global Crisis"
-award_year: 2013
+year: 2013
 published: 2013-05-07 11:14:48
 published_gmt: 2013-05-07 10:14:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/05/dr-ross-jackson-tackling-the-global-crisis/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 969169c1aa931b40557726c2383a43a03123682b94c5ef229798da836ea1c828
 canonical: 3608-dr-ross-jackson-tackling-the-global-crisis.json
 ---

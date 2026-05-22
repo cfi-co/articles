@@ -1,12 +1,21 @@
 ---
 id: 27690
 title: "Big Blue’s Big Bet: How IBM Transformed Itself for the Age of AI and Cloud"
-award_year: 2025
+year: 2025
 published: 2025-04-22 09:08:00
 published_gmt: 2025-04-22 08:08:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2025/04/big-blues-big-bet-how-ibm-transformed-itself-for-the-age-of-ai-and-cloud/"
 categories: ["North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8c087d2d8bf03b7c01965c7f073bbd72d68d66fab1bb48e511abc4bfaae4e798
 canonical: 27690-big-blues-big-bet-how-ibm-transformed-itself-for-the-age-of-ai-and-cloud.json
 ---

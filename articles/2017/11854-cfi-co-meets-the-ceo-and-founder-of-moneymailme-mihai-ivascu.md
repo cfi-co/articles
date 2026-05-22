@@ -1,12 +1,21 @@
 ---
 id: 11854
 title: "CFI.co Meets the CEO and Founder of Moneymailme: Mihai Ivascu"
-award_year: 2017
+year: 2017
 published: 2017-09-01 14:51:04
 published_gmt: 2017-09-01 13:51:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-ceo-and-founder-of-moneymailme-mihai-ivascu/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 087143af7978b420e4d1cb906e69cb69fe05cf13e51568495a1419c3dc6ef370
 canonical: 11854-cfi-co-meets-the-ceo-and-founder-of-moneymailme-mihai-ivascu.json
 ---

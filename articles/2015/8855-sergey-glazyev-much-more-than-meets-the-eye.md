@@ -1,12 +1,21 @@
 ---
 id: 8855
 title: "Sergey Glazyev: Much More Than Meets the Eye"
-award_year: 2015
+year: 2015
 published: 2015-02-02 10:41:22
 published_gmt: 2015-02-02 10:41:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/02/sergey-glazyev-much-more-than-meets-the-eye/"
 categories: ["Asia Pacific", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0c8d91797f327f8700c62ff74b39e38169e1193c1a051c0275757ce3352ee79f
 canonical: 8855-sergey-glazyev-much-more-than-meets-the-eye.json
 ---

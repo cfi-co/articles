@@ -1,12 +1,21 @@
 ---
 id: 27481
 title: "Could Elon Musk Revolutionise Social Media by Acquiring TikTok?"
-award_year: 2025
+year: 2025
 published: 2025-01-15 09:11:21
 published_gmt: 2025-01-15 09:11:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2025/01/could-elon-musk-revolutionise-social-media-by-acquiring-tiktok/"
 categories: ["Asia Pacific", "North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 20424118cc31306462ab03cab5dd1d4c5b3b4db8e735e1fad9bd0f5b13b79455
 canonical: 27481-could-elon-musk-revolutionise-social-media-by-acquiring-tiktok.json
 ---

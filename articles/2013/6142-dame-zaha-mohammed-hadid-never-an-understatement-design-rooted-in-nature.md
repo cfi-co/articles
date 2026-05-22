@@ -1,12 +1,21 @@
 ---
 id: 6142
 title: "Dame Zaha Mohammed Hadid: Never an Understatement - Design Rooted in Nature"
-award_year: 2013
+year: 2013
 published: 2013-11-29 10:00:53
 published_gmt: 2013-11-29 10:00:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/11/dame-zaha-mohammed-hadid-never-an-understatement-design-rooted-in-nature/"
 categories: ["Europe", "Lifestyle", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3a1ed45a2fb9768454cd2699fa2dfc13d113a6fb3b987b6c69617cb8498820e7
 canonical: 6142-dame-zaha-mohammed-hadid-never-an-understatement-design-rooted-in-nature.json
 ---

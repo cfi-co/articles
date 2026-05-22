@@ -1,12 +1,21 @@
 ---
 id: 13359
 title: "Vincent Cerf: Father of the Internet Looking for Ways to Preserve His Work"
-award_year: 2019
+year: 2019
 published: 2019-01-16 13:25:36
 published_gmt: 2019-01-16 13:25:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2019/01/vincent-cerf-father-of-the-internet-looking-for-ways-to-preserve-his-work/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9da1a0738ff5af677bb6f39b735b05e86d96733dac94f0e7deefec99a13da2dd
 canonical: 13359-vincent-cerf-father-of-the-internet-looking-for-ways-to-preserve-his-work.json
 ---

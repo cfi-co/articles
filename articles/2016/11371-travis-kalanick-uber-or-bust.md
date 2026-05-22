@@ -1,12 +1,21 @@
 ---
 id: 11371
 title: "Travis Kalanick: Uber or Bust"
-award_year: 2016
+year: 2016
 published: 2016-10-26 15:51:57
 published_gmt: 2016-10-26 14:51:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2016/10/travis-kalanick-uber-or-bust/"
 categories: ["North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fa0c359d458f5ea18619c84ea862d997eb3bbae1c0951d0cf42b2d682caaaa1b
 canonical: 11371-travis-kalanick-uber-or-bust.json
 ---

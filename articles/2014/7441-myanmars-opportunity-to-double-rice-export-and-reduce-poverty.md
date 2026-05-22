@@ -1,12 +1,21 @@
 ---
 id: 7441
 title: "Myanmar’s Opportunity to Double Rice Export and Reduce Poverty"
-award_year: 2014
+year: 2014
 published: 2014-06-13 09:00:09
 published_gmt: 2014-06-13 08:00:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/06/myanmars-opportunity-to-double-rice-export-and-reduce-poverty/"
 categories: ["Asia Pacific", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 302aec83c374ffefb85f3ce5dc2469e6fb3d0bfb76a8cdd38d393edd1070dd57
 canonical: 7441-myanmars-opportunity-to-double-rice-export-and-reduce-poverty.json
 ---

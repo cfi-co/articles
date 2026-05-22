@@ -1,12 +1,21 @@
 ---
 id: 1466
 title: "LEX Africa: The Changing Face of Power in Africa"
-award_year: 2012
+year: 2012
 published: 2012-08-08 12:06:31
 published_gmt: 2012-08-08 11:06:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/08/lex-africa-the-changing-face-of-power-in-africa/"
 categories: ["Africa", "Legal", "Oil &amp; Mining", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1189553a5aa96238bc37e3415835acb24a08da768c274d010516ede1ed27a6f5
 canonical: 1466-lex-africa-the-changing-face-of-power-in-africa.json
 ---

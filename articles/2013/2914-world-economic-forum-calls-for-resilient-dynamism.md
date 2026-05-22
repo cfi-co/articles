@@ -1,12 +1,21 @@
 ---
 id: 2914
 title: "World Economic Forum Calls for Resilient Dynamism"
-award_year: 2013
+year: 2013
 published: 2013-01-17 08:00:28
 published_gmt: 2013-01-17 08:00:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/01/world-economic-forum-calls-for-resilient-dynamism/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9f656173e4c893de9f7f20bd9989ac5aed9ff8f5ba0d11d37fe66cff6ff25a54
 canonical: 2914-world-economic-forum-calls-for-resilient-dynamism.json
 ---

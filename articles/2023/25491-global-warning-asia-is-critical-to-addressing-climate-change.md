@@ -1,12 +1,21 @@
 ---
 id: 25491
 title: "Global Warning: Asia is Critical to Addressing Climate Change"
-award_year: 2023
+year: 2023
 published: 2023-06-02 10:27:29
 published_gmt: 2023-06-02 09:27:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/06/global-warning-asia-is-critical-to-addressing-climate-change/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7067bc7c2e0b30f4e2e11bf86e952a6ca47c90ac4cf8efda6dda09194256b90b
 canonical: 25491-global-warning-asia-is-critical-to-addressing-climate-change.json
 ---

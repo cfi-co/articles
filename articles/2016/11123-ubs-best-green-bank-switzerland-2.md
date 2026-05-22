@@ -1,12 +1,21 @@
 ---
 id: 11123
 title: "<br>UBS: Best Green Bank Switzerland"
-award_year: 2016
+year: 2016
 published: 2016-04-19 14:08:27
 published_gmt: 2016-04-19 13:08:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0371c8be4dc6ca59ac15c68165599d7bf91da9c781b44dde8c66de73b527b6af
 canonical: 11123-ubs-best-green-bank-switzerland-2.json
 ---

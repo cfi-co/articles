@@ -1,12 +1,21 @@
 ---
 id: 25053
 title: "New Cause for Celebration on Biodiversity and Conservation"
-award_year: 2023
+year: 2023
 published: 2023-03-31 15:05:00
 published_gmt: 2023-03-31 14:05:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2023/03/new-cause-for-celebration-on-biodiversity-and-conservation/"
 categories: ["Brave New World", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c559bb3601ead6ccfe2d3074952bd7d3877f4a965ea80bd0f58457b6866816ad
 canonical: 25053-new-cause-for-celebration-on-biodiversity-and-conservation.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 25476
 title: "Red Med Capital: An Independent Investment Bank in Morocco with a Green DNA"
-award_year: 2023
+year: 2023
 published: 2023-05-19 11:54:25
 published_gmt: 2023-05-19 10:54:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2023/05/red-med-capital-an-independent-investment-bank-in-morocco-with-a-green-dna/"
 categories: ["Africa", "Banking"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1750031659ab91102344fe4ad549791caaccb9867ee00a250e27f1cc7ef7e317
 canonical: 25476-red-med-capital-an-independent-investment-bank-in-morocco-with-a-green-dna.json
 ---

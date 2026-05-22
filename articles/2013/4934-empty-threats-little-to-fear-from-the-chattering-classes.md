@@ -1,12 +1,21 @@
 ---
 id: 4934
 title: "Empty Threats: Little to Fear from the Chattering Classes"
-award_year: 2013
+year: 2013
 published: 2013-08-08 09:22:59
 published_gmt: 2013-08-08 08:22:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/08/empty-threats-little-to-fear-from-the-chattering-classes/"
 categories: ["Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: abb14dacfb34641dc38197b1a5a5967a065bbb2c042afcb54f1836c3d8d57703
 canonical: 4934-empty-threats-little-to-fear-from-the-chattering-classes.json
 ---

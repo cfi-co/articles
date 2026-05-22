@@ -1,12 +1,21 @@
 ---
 id: 27083
 title: "The Long Arm of the Law and Myopia of the Justice System"
-award_year: 2024
+year: 2024
 published: 2024-09-02 10:41:07
 published_gmt: 2024-09-02 09:41:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2024/09/the-long-arm-of-the-law-and-myopia-of-the-justice-system/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bd6bc1ffc0c4cc35798d1e889558ecb986d9da4896a64fdd6062e438a642f7ba
 canonical: 27083-the-long-arm-of-the-law-and-myopia-of-the-justice-system.json
 ---

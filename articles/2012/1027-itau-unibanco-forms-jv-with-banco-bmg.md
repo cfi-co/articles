@@ -1,12 +1,21 @@
 ---
 id: 1027
 title: "Itaú Unibanco Forms JV With Banco BMG"
-award_year: 2012
+year: 2012
 published: 2012-07-10 20:33:35
 published_gmt: 2012-07-10 19:33:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/07/itau-unibanco-forms-jv-with-banco-bmg/"
 categories: ["Banking", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0966dbd91f3f3aa12089ef887fbb4dea56775c8183319fbd95a60a95323b66c3
 canonical: 1027-itau-unibanco-forms-jv-with-banco-bmg.json
 ---

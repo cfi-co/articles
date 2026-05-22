@@ -1,12 +1,21 @@
 ---
 id: 11851
 title: "CFI.co Meets the CEO of Cooperative Central Bank: Nicholas Hadjiyiannis"
-award_year: 2017
+year: 2017
 published: 2017-09-01 14:41:15
 published_gmt: 2017-09-01 13:41:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-ceo-of-cooperative-central-bank-nicholas-hadjiyiannis/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9e715189f337b100c550228a606ff1df9a2839c6f2735640ccd8b5817141e8c7
 canonical: 11851-cfi-co-meets-the-ceo-of-cooperative-central-bank-nicholas-hadjiyiannis.json
 ---

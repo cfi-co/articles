@@ -1,12 +1,21 @@
 ---
 id: 15200
 title: "Sell in May and Go Away"
-award_year: 2020
+year: 2020
 published: 2020-05-01 15:52:33
 published_gmt: 2020-05-01 14:52:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/05/sell-in-may-and-go-away/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e8458263915493d9ac333552deaac80c4b443b1a1b0b41a2ae84f59eede964d6
 canonical: 15200-sell-in-may-and-go-away.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 12350
 title: "CFI.co Meets the Chairman of Kuwait International Bank: Sheikh Mohammed Jarrah Al-Sabah"
-award_year: 2018
+year: 2018
 published: 2018-05-30 10:16:18
 published_gmt: 2018-05-30 09:16:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/05/cfi-co-meets-the-chairman-of-kuwait-international-bank-sheikh-mohammed-jarrah-al-sabah/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 52647b41ceaf37184a1194bdc6db970b916fdf82940d0e5731293b9374b93c4b
 canonical: 12350-cfi-co-meets-the-chairman-of-kuwait-international-bank-sheikh-mohammed-jarrah-al.json
 ---

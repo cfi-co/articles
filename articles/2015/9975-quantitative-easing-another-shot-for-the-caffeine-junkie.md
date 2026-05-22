@@ -1,12 +1,21 @@
 ---
 id: 9975
 title: "Quantitative Easing: Another Shot for the Caffeine Junkie"
-award_year: 2015
+year: 2015
 published: 2015-06-09 15:01:20
 published_gmt: 2015-06-09 14:01:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/06/quantitative-easing-another-shot-for-the-caffeine-junkie/"
 categories: ["Europe", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 02e44ab125db426cb0d4a3181153c76e7b1e87d812e009d734300dd1063de7e0
 canonical: 9975-quantitative-easing-another-shot-for-the-caffeine-junkie.json
 ---

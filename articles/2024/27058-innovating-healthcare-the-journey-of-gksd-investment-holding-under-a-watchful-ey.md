@@ -1,12 +1,21 @@
 ---
 id: 27058
 title: "Innovating Healthcare: The Journey of GKSD Investment Holding Under a Watchful Eye"
-award_year: 2024
+year: 2024
 published: 2024-08-23 11:17:56
 published_gmt: 2024-08-23 10:17:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2024/08/innovating-healthcare-the-journey-of-gksd-investment-holding-under-a-watchful-eye/"
 categories: ["Europe", "Finance", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e455f8ef68871e85741fc63623f302f9546dd76e88a692d8b64248e7e2cd581e
 canonical: 27058-innovating-healthcare-the-journey-of-gksd-investment-holding-under-a-watchful-ey.json
 ---

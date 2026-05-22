@@ -1,12 +1,21 @@
 ---
 id: 4586
 title: "The Swiss Banks: Handing Over Data"
-award_year: 2013
+year: 2013
 published: 2013-07-12 07:45:06
 published_gmt: 2013-07-12 06:45:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/07/the-swiss-banks-handing-over-data/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ae84755189da75c24336ba247d3ea69d0611f1ab74ae44c54cb2341442941e94
 canonical: 4586-the-swiss-banks-handing-over-data.json
 ---

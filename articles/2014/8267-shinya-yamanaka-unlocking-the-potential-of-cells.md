@@ -1,12 +1,21 @@
 ---
 id: 8267
 title: "Shinya Yamanaka: Unlocking the Potential of Cells"
-award_year: 2014
+year: 2014
 published: 2014-10-23 11:38:20
 published_gmt: 2014-10-23 10:38:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/10/shinya-yamanaka-unlocking-the-potential-of-cells/"
 categories: ["Asia Pacific", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9ee3ed34f527762e42fc0d56095f76c477863535ab8dc3d3e0a5b11a8f7b41d2
 canonical: 8267-shinya-yamanaka-unlocking-the-potential-of-cells.json
 ---

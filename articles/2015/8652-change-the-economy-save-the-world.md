@@ -1,12 +1,21 @@
 ---
 id: 8652
 title: "Change the Economy – Save the World"
-award_year: 2015
+year: 2015
 published: 2015-01-06 13:21:48
 published_gmt: 2015-01-06 13:21:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/01/change-the-economy-save-the-world/"
 categories: ["Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f714d7ca584afa3c79568124b4a3a3c9cdd83125911229ecbb1641544db58bbf
 canonical: 8652-change-the-economy-save-the-world.json
 ---

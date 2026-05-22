@@ -1,12 +1,21 @@
 ---
 id: 2979
 title: "Africa: Determined to Consolidate Gains"
-award_year: 2013
+year: 2013
 published: 2013-01-28 10:09:36
 published_gmt: 2013-01-28 10:09:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/01/africa-determined-to-consolidate-gains/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 527e86513028498d4bc68edc92b70ce3b914ac37f9728374816601c195ee49c0
 canonical: 2979-africa-determined-to-consolidate-gains.json
 ---

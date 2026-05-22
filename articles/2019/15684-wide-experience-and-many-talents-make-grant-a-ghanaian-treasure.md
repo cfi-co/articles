@@ -1,12 +1,21 @@
 ---
 id: 15684
 title: "Wide Experience and Many Talents Make Grant a Ghanaian Treasure"
-award_year: 2019
+year: 2019
 published: 2019-07-12 13:32:05
 published_gmt: 2019-07-12 12:32:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/07/wide-experience-and-many-talents-make-grant-a-ghanaian-treasure/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 693e19c975cebfb451ee3158ea256661a1de3cf3e5e06f507081cfc86bc17f8b
 canonical: 15684-wide-experience-and-many-talents-make-grant-a-ghanaian-treasure.json
 ---

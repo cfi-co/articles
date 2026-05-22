@@ -1,12 +1,21 @@
 ---
 id: 7937
 title: "World Bank Report: Digital Payments Vital To Economic Growth"
-award_year: 2014
+year: 2014
 published: 2014-08-29 11:08:45
 published_gmt: 2014-08-29 10:08:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/08/world-bank-report-digital-payments-vital-to-economic-growth/"
 categories: ["Africa", "Finance", "Projects", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1b5744635f555d7ac081c5569347be9411ab1e6fbf6a4debb47ea12be5a106e6
 canonical: 7937-world-bank-report-digital-payments-vital-to-economic-growth.json
 ---

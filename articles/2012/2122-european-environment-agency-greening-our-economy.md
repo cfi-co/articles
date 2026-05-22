@@ -1,12 +1,21 @@
 ---
 id: 2122
 title: "European Environment Agency: Greening Our Economy"
-award_year: 2012
+year: 2012
 published: 2012-08-31 11:45:29
 published_gmt: 2012-08-31 10:45:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2012/08/european-environment-agency-greening-our-economy/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5900d333ed03c6c7a5ae4ce5cb20febf2684bfb65bf94b5ecbba1a98b027960a
 canonical: 2122-european-environment-agency-greening-our-economy.json
 ---

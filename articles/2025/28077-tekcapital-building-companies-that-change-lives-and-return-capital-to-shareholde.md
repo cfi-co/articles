@@ -1,12 +1,21 @@
 ---
 id: 28077
 title: "Tekcapital: Building Companies That Change Lives — And Create Value for Shareholders"
-award_year: 2025
+year: 2025
 published: 2025-11-14 09:01:50
 published_gmt: 2025-11-14 09:01:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2025/11/tekcapital-building-companies-that-change-lives-and-create-calue-for-shareholders/"
 categories: ["Corporate", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 849b2ed32502c805998733e27f47f6d4e06960fdd98af0f1b8a9506cb27f0cb0
 canonical: 28077-tekcapital-building-companies-that-change-lives-and-return-capital-to-shareholde.json
 ---

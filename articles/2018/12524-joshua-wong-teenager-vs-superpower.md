@@ -1,12 +1,21 @@
 ---
 id: 12524
 title: "Joshua Wong: Teenager vs. Superpower"
-award_year: 2018
+year: 2018
 published: 2018-05-12 12:57:27
 published_gmt: 2018-05-12 11:57:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/05/joshua-wong-teenager-vs-superpower/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f01ef01fa022efbb595e5b0ec2f9dba0fb64106cba8a4a2b1a1c5d3daedcc133
 canonical: 12524-joshua-wong-teenager-vs-superpower.json
 ---

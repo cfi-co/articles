@@ -1,12 +1,21 @@
 ---
 id: 9761
 title: "DEG: Turkey - Growth Market and Bridge to the East"
-award_year: 2015
+year: 2015
 published: 2015-05-19 12:12:24
 published_gmt: 2015-05-19 11:12:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/05/deg-turkey-growth-market-and-bridge-to-the-east/"
 categories: ["Europe", "Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0c277ec10037f6f8281e3a42dd1a9119afc8b68a637ff3a82f89d1790075e1d6
 canonical: 9761-deg-turkey-growth-market-and-bridge-to-the-east.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 3795
 title: "Poland’s Power Surge"
-award_year: 2013
+year: 2013
 published: 2013-05-02 09:28:22
 published_gmt: 2013-05-02 09:28:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/05/polands-power-surge/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b2ef26df81356b836376d250a812537f4de7ebd4f50476bd0fa99c925c4585de
 canonical: 3795-polands-power-surge.json
 ---

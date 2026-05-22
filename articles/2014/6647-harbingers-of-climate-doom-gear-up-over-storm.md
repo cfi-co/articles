@@ -1,12 +1,21 @@
 ---
 id: 6647
 title: "Harbingers of Climate Doom Gear Up Over Storm"
-award_year: 2014
+year: 2014
 published: 2014-02-14 09:12:16
 published_gmt: 2014-02-14 09:12:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2014/02/harbingers-of-climate-doom-gear-up-over-storm/"
 categories: ["Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 908b3919d66fbe41cb7a275cc6c5a408d23f0bd610290b965f20b09af88ac272
 canonical: 6647-harbingers-of-climate-doom-gear-up-over-storm.json
 ---

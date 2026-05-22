@@ -1,12 +1,21 @@
 ---
 id: 11077
 title: "Grant Thornton Hong Kong: M&A - Cultural Alignment for Successful Integration"
-award_year: 2016
+year: 2016
 published: 2016-03-16 15:51:56
 published_gmt: 2016-03-16 15:51:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2016/03/grant-thornton-hong-kong-mergers-acquisitions-cultural-alignment-successful-integration/"
 categories: ["Asia Pacific", "CSR", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d236a6be9b2d5373d82ae7fee6d28a8080726f66ddd34ce5e78d5dc44bf1a8ec
 canonical: 11077-grant-thornton-hong-kong-mergers-acquisitions-cultural-alignment-successful-inte.json
 ---

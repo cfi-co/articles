@@ -1,12 +1,21 @@
 ---
 id: 10426
 title: "UNCTAD Investment and Enterprise Division: An Investment Perspective on International Taxation"
-award_year: 2015
+year: 2015
 published: 2015-09-03 12:41:46
 published_gmt: 2015-09-03 11:41:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/09/unctad-investment-and-enterprise-division-an-investment-perspective-on-international-taxation/"
 categories: ["Europe", "Finance", "Multilaterals"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e0643e5dbde195d3c3a864f0996aca756d51735d41f1d88e82cd7efb12ce657
 canonical: 10426-unctad-investment-and-enterprise-division-an-investment-perspective-on-internati.json
 ---

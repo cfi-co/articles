@@ -1,12 +1,21 @@
 ---
 id: 27941
 title: "Strategic FDI: How Developing Economies Can Attract Investment That Transforms"
-award_year: 2025
+year: 2025
 published: 2025-09-16 16:37:39
 published_gmt: 2025-09-16 15:37:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/projects/2025/09/strategic-fdi-how-developing-economies-can-attract-investment-that-transforms/"
 categories: ["Africa", "Energy", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 60a415a078de86970e7f092809f0164157f358c5292839a033a237610a2e8aa9
 canonical: 27941-strategic-fdi-how-developing-economies-can-attract-investment-that-transforms.json
 ---

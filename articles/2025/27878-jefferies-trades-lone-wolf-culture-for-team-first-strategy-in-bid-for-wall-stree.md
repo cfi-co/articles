@@ -1,12 +1,21 @@
 ---
 id: 27878
 title: "Jefferies Trades Lone-Wolf Culture for Team-First Strategy in Bid for Wall Street’s Top Tier"
-award_year: 2025
+year: 2025
 published: 2025-08-25 14:15:40
 published_gmt: 2025-08-25 13:15:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2025/08/jefferies-trades-lone-wolf-culture-for-team-first-strategy-in-bid-for-wall-streets-top-tier/"
 categories: ["Banking", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b16932e08c6e7ed19a4905ba7e98f836469e59656def01ee68e4062caa78fd17
 canonical: 27878-jefferies-trades-lone-wolf-culture-for-team-first-strategy-in-bid-for-wall-stree.json
 ---

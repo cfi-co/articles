@@ -1,12 +1,21 @@
 ---
 id: 6982
 title: "Real Estate Industry Looks to Qatar for Opportunities"
-award_year: 2014
+year: 2014
 published: 2014-04-15 11:39:34
 published_gmt: 2014-04-15 10:39:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/04/real-estate-industry-looks-to-qatar-for-opportunities/"
 categories: ["Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 683638eb01239c387c510f85ed49db9661f4eea861db69ceeec7cbf7e7837f5a
 canonical: 6982-real-estate-industry-looks-to-qatar-for-opportunities.json
 ---

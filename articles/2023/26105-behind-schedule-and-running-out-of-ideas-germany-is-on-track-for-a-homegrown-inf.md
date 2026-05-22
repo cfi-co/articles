@@ -1,12 +1,21 @@
 ---
 id: 26105
 title: "Behind Schedule and Running Out of Ideas: Germany is On-Track for a Homegrown Infrastructure Crisis"
-award_year: 2023
+year: 2023
 published: 2023-09-26 20:29:05
 published_gmt: 2023-09-26 19:29:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/09/behind-schedule-and-running-out-of-ideas-germany-is-on-track-for-a-homegrown-infrastructure-crisis/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f4b2b5331a4b7b71233897f448852eb4b76d8b97b48f5fa4714edc55ceebcee3
 canonical: 26105-behind-schedule-and-running-out-of-ideas-germany-is-on-track-for-a-homegrown-inf.json
 ---

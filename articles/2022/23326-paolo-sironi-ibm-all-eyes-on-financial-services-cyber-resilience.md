@@ -1,12 +1,21 @@
 ---
 id: 23326
 title: "Paolo Sironi, IBM: All Eyes on Financial Services Cyber-Resilience"
-award_year: 2022
+year: 2022
 published: 2022-09-07 08:23:30
 published_gmt: 2022-09-07 07:23:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2022/09/paolo-sironi-ibm-all-eyes-on-financial-services-cyber-resilience/"
 categories: ["Banking", "Finance", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a38522b1379527f26cdf75b64a4d5e72297ab66f1d7c6628abea7e46752152c9
 canonical: 23326-paolo-sironi-ibm-all-eyes-on-financial-services-cyber-resilience.json
 ---

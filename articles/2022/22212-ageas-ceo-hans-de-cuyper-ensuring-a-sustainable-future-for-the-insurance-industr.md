@@ -1,12 +1,21 @@
 ---
 id: 22212
 title: "Ageas CEO Hans de Cuyper: Ensuring a Sustainable Future for the Insurance Industry"
-award_year: 2022
+year: 2022
 published: 2022-06-07 17:34:07
 published_gmt: 2022-06-07 16:34:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/06/ageas-ceo-hans-de-cuyper-ensuring-a-sustainable-future-for-the-insurance-industry/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6eb85510d6063ed2adde451c0b10018a3154729c9223158b89a6a7c4696d8473
 canonical: 22212-ageas-ceo-hans-de-cuyper-ensuring-a-sustainable-future-for-the-insurance-industr.json
 ---

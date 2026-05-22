@@ -1,12 +1,21 @@
 ---
 id: 25882
 title: "Oh Dear: The Sound of Your Keystrokes Could Leave You Wide-open to a Cyberattack"
-award_year: 2023
+year: 2023
 published: 2023-08-09 11:44:50
 published_gmt: 2023-08-09 10:44:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/08/oh-dear-the-sound-of-your-keystrokes-could-leave-you-wide-open-to-a-cyberattack/"
 categories: ["Brave New World", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 93a90a3db48b70989cf506f99a0fb331d27754992e58b12d821e9501324c4461
 canonical: 25882-oh-dear-the-sound-of-your-keystrokes-could-leave-you-wide-open-to-a-cyberattack.json
 ---

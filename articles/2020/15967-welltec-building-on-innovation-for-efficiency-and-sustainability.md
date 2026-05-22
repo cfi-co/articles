@@ -1,12 +1,21 @@
 ---
 id: 15967
 title: "Welltec: Building on a Heritage of Innovation to Drive Efficiency and Sustainability"
-award_year: 2020
+year: 2020
 published: 2020-05-01 15:50:11
 published_gmt: 2020-05-01 14:50:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/05/welltec-building-on-innovation-for-efficiency-and-sustainability/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1e2ec82c65bf8aea1c359ce57d248abee6555dedea91a59970464a10aae0ea60
 canonical: 15967-welltec-building-on-innovation-for-efficiency-and-sustainability.json
 ---

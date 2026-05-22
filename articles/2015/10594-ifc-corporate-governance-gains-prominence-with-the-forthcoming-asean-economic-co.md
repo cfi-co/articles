@@ -1,12 +1,21 @@
 ---
 id: 10594
 title: "IFC: Corporate Governance Gains Prominence with the Forthcoming ASEAN Economic Community"
-award_year: 2015
+year: 2015
 published: 2015-10-29 10:59:45
 published_gmt: 2015-10-29 10:59:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/10/ifc-corporate-governance-gains-prominence-with-the-forthcoming-asean-economic-community/"
 categories: ["Asia Pacific", "Finance", "Governance &amp; Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dcd8bd3f4ee6e886b35d5f68782eb8b5ff830294072c7b53a76c8d848a0026c8
 canonical: 10594-ifc-corporate-governance-gains-prominence-with-the-forthcoming-asean-economic-co.json
 ---

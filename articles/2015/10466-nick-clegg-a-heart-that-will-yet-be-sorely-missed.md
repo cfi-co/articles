@@ -1,12 +1,21 @@
 ---
 id: 10466
 title: "Nick Clegg: A Heart That Will Yet Be Sorely Missed"
-award_year: 2015
+year: 2015
 published: 2015-09-22 12:23:19
 published_gmt: 2015-09-22 11:23:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2015/09/nick-clegg-a-heart-that-will-yet-be-sorely-missed/"
 categories: ["Europe", "Portraits"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1143aa5867561710109c5d500214731a2e5753d0f07c3f83081b54b8cb7416c5
 canonical: 10466-nick-clegg-a-heart-that-will-yet-be-sorely-missed.json
 ---

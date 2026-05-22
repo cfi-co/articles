@@ -1,12 +1,21 @@
 ---
 id: 11653
 title: "UK: Casino Politics"
-award_year: 2017
+year: 2017
 published: 2017-06-09 16:12:00
 published_gmt: 2017-06-09 15:12:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2017/06/uk-casino-politics/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a91e0fe7771a8089a9bfe3efedac448f014edaed90b352571dfdac0105531f07
 canonical: 11653-uk-casino-politics.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 14437
 title: "Ian Fletcher, IBM: New Retail – Reimagining the Shopping Experience"
-award_year: 2019
+year: 2019
 published: 2019-01-09 15:01:29
 published_gmt: 2019-01-09 15:01:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2019/01/ian-fletcher-ibm-new-retail-reimagining-the-shopping-experience/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 55fa1904c00e1ce2a57c362e72603cd6877d9c69249f0c137422b3d639e4290c
 canonical: 14437-ian-fletcher-ibm-new-retail-reimagining-the-shopping-experience.json
 ---

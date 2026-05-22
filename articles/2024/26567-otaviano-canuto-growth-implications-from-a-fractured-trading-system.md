@@ -1,12 +1,21 @@
 ---
 id: 26567
 title: "Otaviano Canuto: Growth Implications from a Fractured Trading System"
-award_year: 2024
+year: 2024
 published: 2024-01-04 13:35:47
 published_gmt: 2024-01-04 13:35:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2024/01/otaviano-canuto-growth-implications-from-a-fractured-trading-system/"
 categories: ["Columnists", "Finance", "North America"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 16387536a723427380e1bfbf76e99ba331960354e82bae2f4ac48466b312600c
 canonical: 26567-otaviano-canuto-growth-implications-from-a-fractured-trading-system.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 12788
 title: "Kenneth Rogoff: Are Emerging Markets the Canary in the Financial Coal Mine?"
-award_year: 2018
+year: 2018
 published: 2018-07-16 17:08:58
 published_gmt: 2018-07-16 16:08:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2018/07/kenneth-rogoff-are-emerging-markets-the-canary-in-the-financial-coal-mine/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 88a931ff49e69c6c4d416b85648de24656436cbcf2ee0bef550aacf8b35288c3
 canonical: 12788-kenneth-rogoff-are-emerging-markets-the-canary-in-the-financial-coal-mine.json
 ---

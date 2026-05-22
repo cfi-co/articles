@@ -1,12 +1,21 @@
 ---
 id: 26477
 title: "Nordea Asset Management: Uniting Investors to Confront Rising Menace of Methane"
-award_year: 2023
+year: 2023
 published: 2023-11-22 15:13:55
 published_gmt: 2023-11-22 15:13:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/energy/2023/11/nordea-asset-management-uniting-investors-to-confront-rising-menace-of-methane/"
 categories: ["Corporate", "Energy", "Europe", "Oil &amp; Mining", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 648125e47014bfab9fb8a789639e356b576bb40e74e5f6adb683d60bb07e048f
 canonical: 26477-nordea-asset-management-uniting-investors-to-confront-rising-menace-of-methane.json
 ---

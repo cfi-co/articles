@@ -1,12 +1,21 @@
 ---
 id: 21844
 title: "Plus ça Change: Mired in Multiple Crises, Lebanon Votes for Continuity"
-award_year: 2022
+year: 2022
 published: 2022-05-16 08:27:40
 published_gmt: 2022-05-16 07:27:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/05/plus-ca-change-mired-in-multiple-crises-lebanon-votes-for-continuity/"
 categories: ["Brave New World", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fb7d326dc27df2d499c53a7ac677c3051503530452193a1c7890da3910c36638
 canonical: 21844-plus-ca-change-mired-in-multiple-crises-lebanon-votes-for-continuity.json
 ---

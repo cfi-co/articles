@@ -1,12 +1,21 @@
 ---
 id: 12605
 title: "World Bank Group Unveils New Initiatives in Investment Policy and Promotion"
-award_year: 2018
+year: 2018
 published: 2018-05-30 16:06:18
 published_gmt: 2018-05-30 15:06:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2018/05/world-bank-group-unveils-new-initiatives-in-investment-policy-and-promotion/"
 categories: ["Banking", "North America", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d22fdb605e3c1444958ee722188db5a14b3bacb1558aaf869b51d2ea95a251a
 canonical: 12605-world-bank-group-unveils-new-initiatives-in-investment-policy-and-promotion.json
 ---

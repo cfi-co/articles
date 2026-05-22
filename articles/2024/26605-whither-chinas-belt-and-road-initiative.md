@@ -1,12 +1,21 @@
 ---
 id: 26605
 title: "Whither China’s Belt and Road Initiative?"
-award_year: 2024
+year: 2024
 published: 2024-01-18 12:49:57
 published_gmt: 2024-01-18 12:49:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2024/01/whither-chinas-belt-and-road-initiative/"
 categories: ["Asia Pacific", "Columnists", "Finance"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5cd2340573b47c33b3cc467d6bb5af52b945f66b942422cabfc47d990e7bdde0
 canonical: 26605-whither-chinas-belt-and-road-initiative.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26395
 title: "Federal Realty Keeps the Faith in Traditional Industry Wisdom — but Adds Emphasis to Eco Issues"
-award_year: 2023
+year: 2023
 published: 2023-11-15 12:29:08
 published_gmt: 2023-11-15 12:29:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2023/11/federal-realty-keeps-the-faith-in-traditional-industry-wisdom-but-adds-emphasis-to-eco-issues/"
 categories: ["Corporate", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b02c9c2785897f801ad898533c155d6564cc59a1084839c846da782a665b3eb4
 canonical: 26395-federal-realty-keeps-the-faith-in-traditional-industry-wisdom-but-adds-emphasis-.json
 ---

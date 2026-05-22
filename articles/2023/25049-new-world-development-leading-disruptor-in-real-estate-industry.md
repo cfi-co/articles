@@ -1,12 +1,21 @@
 ---
 id: 25049
 title: "New World Development: Leading Disruptor in Real Estate Industry"
-award_year: 2023
+year: 2023
 published: 2023-03-31 13:47:33
 published_gmt: 2023-03-31 12:47:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2023/03/new-world-development-leading-disruptor-in-real-estate-industry/"
 categories: ["Asia Pacific", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0cdfe21a62b91359038ef464c21f1e6a61e15853339f92d0a7bef86a65171a2f
 canonical: 25049-new-world-development-leading-disruptor-in-real-estate-industry.json
 ---

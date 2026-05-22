@@ -1,12 +1,21 @@
 ---
 id: 20087
 title: "Retail to the Rescue, but... ‘Zombie’ Stores Still Face a Battle to Service Debt"
-award_year: 2021
+year: 2021
 published: 2021-03-01 14:47:18
 published_gmt: 2021-03-01 14:47:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2021/03/retail-to-the-rescue-but-zombie-stores-still-face-a-battle-to-service-debt/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: df081747a3e8242984a0afd0d3f072b373e7b889f2b0fbb8a454f99e69fb3575
 canonical: 20087-retail-to-the-rescue-but-zombie-stores-still-face-a-battle-to-service-debt.json
 ---

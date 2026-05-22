@@ -1,12 +1,21 @@
 ---
 id: 27792
 title: "Project Spark: Powering Southern Africa’s Future Through a Balanced Energy Mix"
-award_year: 2025
+year: 2025
 published: 2025-07-17 13:01:17
 published_gmt: 2025-07-17 12:01:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2025/07/project-spark-powering-southern-africas-future-through-a-balanced-energy-mix/"
 categories: ["Africa", "Energy", "Oil &amp; Mining", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 90e20ed9108a45047350a38018a4bc513a4ce3b1ae0637ae947d2b47d600451f
 canonical: 27792-project-spark-powering-southern-africas-future-through-a-balanced-energy-mix.json
 ---

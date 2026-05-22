@@ -1,12 +1,21 @@
 ---
 id: 15348
 title: "Sobering Words from Fed Chairman Powell"
-award_year: 2020
+year: 2020
 published: 2020-05-14 14:30:07
 published_gmt: 2020-05-14 13:30:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/05/sobering-words-from-fed-chairman-powell/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b733712495800c4577ac7433071cc1f3b0ded1a346c7aee4f90828324cf54dcb
 canonical: 15348-sobering-words-from-fed-chairman-powell.json
 ---

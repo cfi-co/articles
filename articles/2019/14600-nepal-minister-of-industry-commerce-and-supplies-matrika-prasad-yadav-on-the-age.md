@@ -1,12 +1,21 @@
 ---
 id: 14600
 title: "Nepal Minister of Industry, Commerce, and Supplies: Matrika Prasad Yadav on the Agenda for Prosperity and Catching Global Attention"
-award_year: 2019
+year: 2019
 published: 2019-01-01 09:00:59
 published_gmt: 2019-01-01 09:00:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2019/01/nepal-minister-of-industry-commerce-and-supplies-matrika-prasad-yadav-on-the-agenda-for-prosperity-and-catching-global-attention/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5bf1d32ab76411238a61ffabfc7fe9778cdddc5c467528e6710407ad34548478
 canonical: 14600-nepal-minister-of-industry-commerce-and-supplies-matrika-prasad-yadav-on-the-age.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 7810
 title: "Back to Africa – Chibwe Masabo Henry: The Diaspora as a Driver of Development"
-award_year: 2014
+year: 2014
 published: 2014-08-15 12:03:46
 published_gmt: 2014-08-15 11:03:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/08/back-to-africa-chibwe-masabo-henry-the-diaspora-as-a-driver-of-development/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f580123445b7cc5e4e2b1a2090b2a937e4b57f78bb5e2456da0139d67d288544
 canonical: 7810-back-to-africa-chibwe-masabo-henry-the-diaspora-as-a-driver-of-development.json
 ---

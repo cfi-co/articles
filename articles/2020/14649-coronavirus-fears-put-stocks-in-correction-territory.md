@@ -1,12 +1,21 @@
 ---
 id: 14649
 title: "Coronavirus Fears Put Stocks in Correction Territory"
-award_year: 2020
+year: 2020
 published: 2020-03-02 10:40:24
 published_gmt: 2020-03-02 10:40:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2020/03/coronavirus-fears-put-stocks-in-correction-territory/"
 categories: ["Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fbee0cd58c110ccb50770982bf1948542afbd50f7901e89275f2d3ea699c08b2
 canonical: 14649-coronavirus-fears-put-stocks-in-correction-territory.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 6795
 title: "The World Bank: Accelerating Africa’s Aspirations"
-award_year: 2014
+year: 2014
 published: 2014-03-13 11:04:40
 published_gmt: 2014-03-13 11:04:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/03/the-world-bank-accelerating-africas-aspirations/"
 categories: ["Africa", "Banking", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 38d9c0f030669b355c76ab1c322194c62f524be949fc5c9f081b40318c498064
 canonical: 6795-the-world-bank-accelerating-africas-aspirations.json
 ---

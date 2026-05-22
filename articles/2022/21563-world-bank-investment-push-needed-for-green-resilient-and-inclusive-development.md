@@ -1,12 +1,21 @@
 ---
 id: 21563
 title: "World Bank: Investment Push Needed for Green, Resilient and Inclusive Development"
-award_year: 2022
+year: 2022
 published: 2022-02-14 14:34:53
 published_gmt: 2022-02-14 14:34:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2022/02/world-bank-investment-push-needed-for-green-resilient-and-inclusive-development/"
 categories: ["Asia Pacific", "Banking", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c565dab1086b8103b19f066b4c5ddb21ad966aec5f1de2611e5c2ca11a7800b4
 canonical: 21563-world-bank-investment-push-needed-for-green-resilient-and-inclusive-development.json
 ---

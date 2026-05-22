@@ -1,12 +1,21 @@
 ---
 id: 8422
 title: "Joanna Lumley: Nepal’s National Treasure"
-award_year: 2014
+year: 2014
 published: 2014-11-21 11:57:13
 published_gmt: 2014-11-21 11:57:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/11/joanna-lumley-nepals-national-treasure/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 887b27ca3b298073ef9d743fd3b87a496e8045012eaf885c3c8f458efb979eae
 canonical: 8422-joanna-lumley-nepals-national-treasure.json
 ---

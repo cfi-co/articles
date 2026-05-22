@@ -1,12 +1,21 @@
 ---
 id: 26136
 title: "When Wheels Fall Off a Gender-Balance Bid by a Wall St Hedge Fund, It Turns to Woman vs Man"
-award_year: 2023
+year: 2023
 published: 2023-10-09 11:19:38
 published_gmt: 2023-10-09 10:19:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2023/10/when-wheels-fall-off-a-gender-balance-bid-by-a-wall-st-hedge-fund-it-turns-to-woman-vs-man/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f8db805e276873e7857459b7c302f056465728e00054e4266022dcf932d68938
 canonical: 26136-when-wheels-fall-off-a-gender-balance-bid-by-a-wall-st-hedge-fund-it-turns-to-wo.json
 ---

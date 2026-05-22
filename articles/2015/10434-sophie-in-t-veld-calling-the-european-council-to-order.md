@@ -1,12 +1,21 @@
 ---
 id: 10434
 title: "Sophie in ‘t Veld: Calling the European Council to Order"
-award_year: 2015
+year: 2015
 published: 2015-09-08 09:25:44
 published_gmt: 2015-09-08 08:25:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2015/09/sophie-in-t-veld-calling-the-european-council-to-order/"
 categories: ["Europe", "Portraits"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7551805973cbeec68a14d2fc4f285c750924792cb09017fbf2148ffbb2d75657
 canonical: 10434-sophie-in-t-veld-calling-the-european-council-to-order.json
 ---

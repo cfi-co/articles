@@ -1,12 +1,21 @@
 ---
 id: 21008
 title: "Nordea Asset Management: Meet the Responsible Investments Team"
-award_year: 2021
+year: 2021
 published: 2021-11-09 15:36:40
 published_gmt: 2021-11-09 15:36:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/nordea-asset-management-meet-the-responsible-investments-team/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 936073689004392c496dd530f9309b463fd0ec8e18e19d424fe34f08899bac60
 canonical: 21008-nordea-asset-management-meet-the-responsible-investments-team.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 9775
 title: "A Memorable Faux Pas: Warren Buffett Gets His Facts Wrong"
-award_year: 2015
+year: 2015
 published: 2015-05-26 11:16:40
 published_gmt: 2015-05-26 10:16:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/05/a-memorable-faux-pas-warren-buffett-gets-his-facts-wrong/"
 categories: ["Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1fbff2f7473bec45e72bcd9815841786e0a00ef142ea8e730d15a5962891cb93
 canonical: 9775-a-memorable-faux-pas-warren-buffett-gets-his-facts-wrong.json
 ---

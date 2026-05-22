@@ -1,12 +1,21 @@
 ---
 id: 861
 title: "TIM Participações Plays Their Hand Well in the Recent 4G Auction in Brazil"
-award_year: 2012
+year: 2012
 published: 2012-06-26 15:20:50
 published_gmt: 2012-06-26 14:20:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2012/06/tim-participacoes-plays-their-hand-well-in-the-recent-4g-auction-in-brazil/"
 categories: ["Latin America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 55ae301276a7fad091106024e3d2f5ac48d717c2d84c44ade5d894acb1e67e25
 canonical: 861-tim-participacoes-plays-their-hand-well-in-the-recent-4g-auction-in-brazil.json
 ---

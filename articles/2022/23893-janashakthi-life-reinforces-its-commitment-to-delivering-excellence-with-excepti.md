@@ -1,12 +1,21 @@
 ---
 id: 23893
 title: "Janashakthi Life Reinforces Its Commitment to Delivering Excellence with Exceptional Performance"
-award_year: 2022
+year: 2022
 published: 2022-11-03 14:43:42
 published_gmt: 2022-11-03 14:43:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/11/janashakthi-life-reinforces-its-commitment-to-delivering-excellence-with-exceptional-performance/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ef4cc5cad5cd59eecf442825f619e82f41a4e4c7fc96a268035a283b68d5f5ac
 canonical: 23893-janashakthi-life-reinforces-its-commitment-to-delivering-excellence-with-excepti.json
 ---

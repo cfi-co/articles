@@ -1,12 +1,21 @@
 ---
 id: 17822
 title: "Lucrezia Reichlin: Data Pioneer Hopes for a New Era of Economic Co-operation"
-award_year: 2020
+year: 2020
 published: 2020-11-09 10:57:16
 published_gmt: 2020-11-09 10:57:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/11/lucrezia-reichlin-data-pioneer-hopes-for-a-new-era-of-economic-co-operation/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3524c3a25355ffe0c150c2e6a00a16ab276cf162611608262fd37fc0f46deff6
 canonical: 17822-lucrezia-reichlin-data-pioneer-hopes-for-a-new-era-of-economic-co-operation.json
 ---

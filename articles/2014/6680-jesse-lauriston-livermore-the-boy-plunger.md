@@ -1,12 +1,21 @@
 ---
 id: 6680
 title: "Jesse Lauriston Livermore: The Boy Plunger"
-award_year: 2014
+year: 2014
 published: 2014-02-20 10:42:07
 published_gmt: 2014-02-20 10:42:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/02/jesse-lauriston-livermore-the-boy-plunger/"
 categories: ["Banking", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 582d19a2e9609b64a07558a1b91761ba35b8112142b59bf9ee8eda7c75333b30
 canonical: 6680-jesse-lauriston-livermore-the-boy-plunger.json
 ---

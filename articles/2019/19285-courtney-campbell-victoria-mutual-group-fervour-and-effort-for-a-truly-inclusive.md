@@ -1,12 +1,21 @@
 ---
 id: 19285
 title: "Courtney Campbell, Victoria Mutual Group: Fervour and Effort for a Truly Inclusive Jamaica"
-award_year: 2019
+year: 2019
 published: 2019-04-25 16:43:05
 published_gmt: 2019-04-25 15:43:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/04/courtney-campbell-victoria-mutual-group-fervour-and-effort-for-a-truly-inclusive-jamaica/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 997f2625973b3baa2048bed9c48ee6f064e3f3b9268907d4bb9ede0cf8bdd012
 canonical: 19285-courtney-campbell-victoria-mutual-group-fervour-and-effort-for-a-truly-inclusive.json
 ---

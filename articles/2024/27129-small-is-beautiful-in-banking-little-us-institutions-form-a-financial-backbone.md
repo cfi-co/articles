@@ -1,12 +1,21 @@
 ---
 id: 27129
 title: "Small is Beautiful in Banking: Little US Institutions Form a Financial Backbone"
-award_year: 2024
+year: 2024
 published: 2024-09-17 12:21:59
 published_gmt: 2024-09-17 11:21:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/09/small-is-beautiful-in-banking-little-us-institutions-form-a-financial-backbone/"
 categories: ["Banking", "Banking &amp; Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 886d91fec57dd47c67540b9c258bc6b1038ea7374508a7f48601ea62715a5c35
 canonical: 27129-small-is-beautiful-in-banking-little-us-institutions-form-a-financial-backbone.json
 ---

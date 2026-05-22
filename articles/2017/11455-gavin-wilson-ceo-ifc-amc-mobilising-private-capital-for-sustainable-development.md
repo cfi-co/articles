@@ -1,12 +1,21 @@
 ---
 id: 11455
 title: "Gavin Wilson, CEO IFC AMC: Mobilising Private Capital for Sustainable Development"
-award_year: 2017
+year: 2017
 published: 2017-01-11 10:04:25
 published_gmt: 2017-01-11 10:04:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2017/01/gavin-wilson-ceo-ifc-amc-mobilising-private-capital-for-sustainable-development/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3f337a7115786c423bb06b8534745dfca8ae844e20eae03c992dd24c172ef272
 canonical: 11455-gavin-wilson-ceo-ifc-amc-mobilising-private-capital-for-sustainable-development.json
 ---

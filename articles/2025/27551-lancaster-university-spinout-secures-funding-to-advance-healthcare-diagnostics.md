@@ -1,12 +1,21 @@
 ---
 id: 27551
 title: "Lancaster University Spinout Secures Funding to Advance Healthcare Diagnostics"
-award_year: 2025
+year: 2025
 published: 2025-02-06 10:21:04
 published_gmt: 2025-02-06 10:21:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2025/02/lancaster-university-spinout-secures-funding-to-advance-healthcare-diagnostics/"
 categories: ["Europe", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 17f00d114ab3c8a644754790ed98b9a3c928aac49a47d3c7a17f2847a0f505f1
 canonical: 27551-lancaster-university-spinout-secures-funding-to-advance-healthcare-diagnostics.json
 ---

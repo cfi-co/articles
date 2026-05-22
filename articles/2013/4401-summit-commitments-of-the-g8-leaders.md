@@ -1,12 +1,21 @@
 ---
 id: 4401
 title: "Summit Commitments of the G8 Leaders"
-award_year: 2013
+year: 2013
 published: 2013-06-19 08:58:12
 published_gmt: 2013-06-19 07:58:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/06/summit-commitments-of-the-g8-leaders/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 09ef23bd8826b1466fe046736347b0a270c87c625dc8ffebab873fdf018636f2
 canonical: 4401-summit-commitments-of-the-g8-leaders.json
 ---

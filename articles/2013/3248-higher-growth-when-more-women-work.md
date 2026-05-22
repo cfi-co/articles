@@ -1,12 +1,21 @@
 ---
 id: 3248
 title: "Higher Growth When More Women Work"
-award_year: 2013
+year: 2013
 published: 2013-03-08 15:32:39
 published_gmt: 2013-03-08 15:32:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2013/03/higher-growth-when-more-women-work/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 27d166cce03b82b4ff8b57882644ddada0c9de4652e91c262bf8e90084eae364
 canonical: 3248-higher-growth-when-more-women-work.json
 ---

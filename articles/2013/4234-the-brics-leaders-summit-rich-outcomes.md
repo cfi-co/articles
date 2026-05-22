@@ -1,12 +1,21 @@
 ---
 id: 4234
 title: "The BRICS Leaders’ Summit: Rich Outcomes"
-award_year: 2013
+year: 2013
 published: 2013-05-31 08:22:58
 published_gmt: 2013-05-31 08:22:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/05/the-brics-leaders-summit-rich-outcomes/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c5e991bd11910956b6ab883f83eb490362c69940436d678c48337a8985c2822c
 canonical: 4234-the-brics-leaders-summit-rich-outcomes.json
 ---

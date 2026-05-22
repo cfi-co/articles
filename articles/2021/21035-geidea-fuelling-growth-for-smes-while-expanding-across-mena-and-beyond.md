@@ -1,12 +1,21 @@
 ---
 id: 21035
 title: "Geidea Fuelling Growth for SMEs while Expanding Across MENA — and Beyond"
-award_year: 2021
+year: 2021
 published: 2021-11-09 16:36:45
 published_gmt: 2021-11-09 16:36:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/geidea-fuelling-growth-for-smes-while-expanding-across-mena-and-beyond/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1ff1c7df3132352f11f9bdb78a7762d3247f84fd8b75269826b6e20d58a7c4fd
 canonical: 21035-geidea-fuelling-growth-for-smes-while-expanding-across-mena-and-beyond.json
 ---

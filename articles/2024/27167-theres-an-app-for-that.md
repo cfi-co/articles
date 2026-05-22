@@ -1,12 +1,21 @@
 ---
 id: 27167
 title: "There's an App for That…"
-award_year: 2024
+year: 2024
 published: 2024-09-25 14:10:48
 published_gmt: 2024-09-25 13:10:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2024/09/theres-an-app-for-that/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 35676e2240cb31617cd7ac73d68f81e4f099a5ba710abd6bcf7753c182ffd736
 canonical: 27167-theres-an-app-for-that.json
 ---

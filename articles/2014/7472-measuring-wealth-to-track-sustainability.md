@@ -1,12 +1,21 @@
 ---
 id: 7472
 title: "Measuring Wealth to Track Sustainability"
-award_year: 2014
+year: 2014
 published: 2014-06-19 10:45:14
 published_gmt: 2014-06-19 09:45:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/06/measuring-wealth-to-track-sustainability/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Latin America", "Middle East", "North America", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e32f65622fe8cedd4d1207cf6319f52f9066da41d0cebbc0a991f334b5ebedde
 canonical: 7472-measuring-wealth-to-track-sustainability.json
 ---

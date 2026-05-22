@@ -1,12 +1,21 @@
 ---
 id: 28174
 title: "Rolex vs Watch Flippers: How Certified Pre-Owned Became a Weapon of Pricing Power"
-award_year: 2026
+year: 2026
 published: 2026-01-02 10:13:58
 published_gmt: 2026-01-02 10:13:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2026/01/rolex-vs-watch-flippers-how-certified-pre-owned-became-a-weapon-of-pricing-power/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 709718b365ba4afbfdda5ac065af7d99e391666a9689ce552695599a093012f2
 canonical: 28174-rolex-vs-watch-flippers-how-certified-pre-owned-became-a-weapon-of-pricing-power.json
 ---

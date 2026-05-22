@@ -1,12 +1,21 @@
 ---
 id: 26430
 title: "World Bank: The Digitalisation of Capital Markets Can Boost Bond Market Efficiencies"
-award_year: 2023
+year: 2023
 published: 2023-11-16 13:57:07
 published_gmt: 2023-11-16 13:57:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2023/11/world-bank-the-digitalisation-of-capital-markets-can-boost-bond-market-efficiencies/"
 categories: ["Banking", "Finance", "Multilaterals", "Special Features"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5bcc8c1dcb04b6611fcd88eeb6bc2843d9568a0451f378f0b6d89d7e06c5f866
 canonical: 26430-world-bank-the-digitalisation-of-capital-markets-can-boost-bond-market-efficienc.json
 ---

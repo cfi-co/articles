@@ -1,12 +1,21 @@
 ---
 id: 5664
 title: "CFI.co Meets Chitra Ramkrishna"
-award_year: 2013
+year: 2013
 published: 2013-10-07 16:51:49
 published_gmt: 2013-10-07 15:51:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/10/cfi-co-meets-chitra-ramkrishna/"
 categories: ["Asia Pacific", "Corporate Leaders", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0af9ad276adf5b50ab687ca1022dbaa153ec96fdc2b023654ff5be4db14a4ad3
 canonical: 5664-cfi-co-meets-chitra-ramkrishna.json
 ---

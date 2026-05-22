@@ -1,12 +1,21 @@
 ---
 id: 12930
 title: "CFI.co Meets the CEO of Montpensier Finance: Guillaume Dard"
-award_year: 2018
+year: 2018
 published: 2018-09-25 13:29:20
 published_gmt: 2018-09-25 12:29:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/09/cfi-co-meets-the-ceo-of-montpensier-finance-guillaume-dard/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bfe5b02280b4c757c6e356bdd68e59890d5a83b993e083edb69a013f27c53d5a
 canonical: 12930-cfi-co-meets-the-ceo-of-montpensier-finance-guillaume-dard.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 16015
 title: "KIB - More than a Bank: A Partner for Life with Customer Interests at its Heart"
-award_year: 2020
+year: 2020
 published: 2020-05-01 16:48:58
 published_gmt: 2020-05-01 15:48:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/05/kib-more-than-a-bank-a-partner-for-life-with-customer-interests-at-its-heart/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c532e3365fa4ba08060d773c09b2d466805fc59d68a5198bc8e637820257361b
 canonical: 16015-kib-more-than-a-bank-a-partner-for-life-with-customer-interests-at-its-heart.json
 ---

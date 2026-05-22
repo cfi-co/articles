@@ -1,12 +1,21 @@
 ---
 id: 7886
 title: "CFI.co Meets the CEO of Fortress Investments: Hamed Mokhtar"
-award_year: 2014
+year: 2014
 published: 2014-07-07 15:06:37
 published_gmt: 2014-07-07 14:06:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/07/cfi-co-meets-the-ceo-of-fortress-investments-hamed-mokhtar/"
 categories: ["Corporate Leaders", "Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 461e45b2f8c35a4a6889073b7b6824270da43192fb48f7fe375a5c903972198a
 canonical: 7886-cfi-co-meets-the-ceo-of-fortress-investments-hamed-mokhtar.json
 ---

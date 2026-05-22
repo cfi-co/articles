@@ -1,12 +1,21 @@
 ---
 id: 17592
 title: "Rainmaker: Revolutionary Water Supply Solutions That Are Needed Now More Than Ever"
-award_year: 2020
+year: 2020
 published: 2020-10-26 15:08:49
 published_gmt: 2020-10-26 15:08:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2020/10/rainmaker-revolutionary-water-supply-solutions-that-are-needed-now-more-than-ever/"
 categories: ["Corporate", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ded69b8b2f3f011f2bca5c33467d4b5b35178577d4a95ecdce2fff3d329b4c8f
 canonical: 17592-rainmaker-revolutionary-water-supply-solutions-that-are-needed-now-more-than-eve.json
 ---

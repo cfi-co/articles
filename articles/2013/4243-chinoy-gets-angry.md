@@ -1,12 +1,21 @@
 ---
 id: 4243
 title: "Chinoy Gets Angry"
-award_year: 2013
+year: 2013
 published: 2013-06-03 09:22:37
 published_gmt: 2013-06-03 09:22:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/06/chinoy-gets-angry/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 066241cd3340935f0c26020b578e18780bd48d78f61eed3ec8564aaf036804e9
 canonical: 4243-chinoy-gets-angry.json
 ---

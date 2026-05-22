@@ -1,12 +1,21 @@
 ---
 id: 27322
 title: "Africa Leapfrogging Challenges with its Mobile Solutions Boom"
-award_year: 2024
+year: 2024
 published: 2024-11-25 12:29:12
 published_gmt: 2024-11-25 12:29:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2024/11/africa-leapfrogging-challenges-with-its-mobile-solutions-boom/"
 categories: ["Africa", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 417db255c72636016bb8336771c22bb93bcb441983a152b2bc95817661a39760
 canonical: 27322-africa-leapfrogging-challenges-with-its-mobile-solutions-boom.json
 ---

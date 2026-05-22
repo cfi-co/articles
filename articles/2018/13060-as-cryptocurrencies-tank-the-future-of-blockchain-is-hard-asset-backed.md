@@ -1,12 +1,21 @@
 ---
 id: 13060
 title: "As Cryptocurrencies Tank: The Future of Blockchain is Hard Asset-Backed"
-award_year: 2018
+year: 2018
 published: 2018-10-15 14:25:34
 published_gmt: 2018-10-15 13:25:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2018/10/as-cryptocurrencies-tank-the-future-of-blockchain-is-hard-asset-backed/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b395fe17d7204f2166f6d84f824f69ead9f46d9c09996779c743636c817e1136
 canonical: 13060-as-cryptocurrencies-tank-the-future-of-blockchain-is-hard-asset-backed.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8715
 title: "World Economic Forum: Who’s Packing for Davos"
-award_year: 2015
+year: 2015
 published: 2015-01-14 16:20:24
 published_gmt: 2015-01-14 16:20:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/01/world-economic-forum-whos-packing-for-davos/"
 categories: ["Asia Pacific", "Europe", "Finance", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c7593a81768c703d9f7d9abd4fd694d00e98e7e609e2a1c40702c3e55b2156e9
 canonical: 8715-world-economic-forum-whos-packing-for-davos.json
 ---

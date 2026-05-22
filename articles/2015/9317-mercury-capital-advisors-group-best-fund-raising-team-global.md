@@ -1,12 +1,21 @@
 ---
 id: 9317
 title: "Mercury Capital Advisors Group Best Fund Raising Team Global"
-award_year: 2015
+year: 2015
 published: 2015-02-28 14:58:18
 published_gmt: 2015-02-28 14:58:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d969730f1db0552245a71a0aaf3d64aa5f7348eced363e34fcc30842a61653b5
 canonical: 9317-mercury-capital-advisors-group-best-fund-raising-team-global.json
 ---

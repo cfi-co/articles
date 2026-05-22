@@ -1,12 +1,21 @@
 ---
 id: 9664
 title: "Proposed China Pakistan Economic Corridor: With a Price Tag of $46 billion"
-award_year: 2015
+year: 2015
 published: 2015-04-21 15:25:05
 published_gmt: 2015-04-21 14:25:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/04/proposed-china-pakistan-economic-corridor-with-a-price-tag-of-46-billion/"
 categories: ["Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: caaf7b19486070a9987781a700d72ddb6bb28af08f1df951170d7839d95287bc
 canonical: 9664-proposed-china-pakistan-economic-corridor-with-a-price-tag-of-46-billion.json
 ---

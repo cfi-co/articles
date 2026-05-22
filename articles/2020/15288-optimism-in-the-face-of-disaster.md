@@ -1,12 +1,21 @@
 ---
 id: 15288
 title: "Optimism in the Face of Disaster"
-award_year: 2020
+year: 2020
 published: 2020-05-08 15:06:06
 published_gmt: 2020-05-08 14:06:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/05/optimism-in-the-face-of-disaster/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 075a2c209037ef3320ee27cb13e809a1ca640a547c1b2f72903095143390f10c
 canonical: 15288-optimism-in-the-face-of-disaster.json
 ---

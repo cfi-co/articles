@@ -1,12 +1,21 @@
 ---
 id: 28324
 title: "Ten Recent Technology Advances That Asset Allocators Should Have on the Radar"
-award_year: 2026
+year: 2026
 published: 2026-03-02 05:58:15
 published_gmt: 2026-03-02 05:58:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/innovation-technology/2026/03/ten-recent-technology-advances-that-asset-allocators-should-have-on-the-radar/"
 categories: ["Europe", "Innovation &amp; Technology", "North America", "Oil &amp; Mining", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9c75747f48254d91691b1a4dee5865bdd261dd8fae20152a0fff7974cf6675f1
 canonical: 28324-ten-recent-technology-advances-that-asset-allocators-should-have-on-the-radar.json
 ---

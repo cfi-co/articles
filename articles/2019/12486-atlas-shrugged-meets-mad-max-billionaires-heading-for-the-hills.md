@@ -1,12 +1,21 @@
 ---
 id: 12486
 title: "Atlas Shrugged Meets Mad Max: Billionaires Heading for the Hills"
-award_year: 2019
+year: 2019
 published: 2019-05-04 12:12:00
 published_gmt: 2019-05-04 11:12:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/reviews/2019/05/atlas-shrugged-meets-mad-max-billionaires-heading-for-the-hills/"
 categories: ["Reviews"]
+content_class: review
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f4eebb00d70fea5d79d66e8c42ce40e97edbd7a54c1786d317c7b382000875b4
 canonical: 12486-atlas-shrugged-meets-mad-max-billionaires-heading-for-the-hills.json
 ---

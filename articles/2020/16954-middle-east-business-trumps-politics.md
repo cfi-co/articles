@@ -1,12 +1,21 @@
 ---
 id: 16954
 title: "Middle East - Business Trumps Politics"
-award_year: 2020
+year: 2020
 published: 2020-09-15 17:02:50
 published_gmt: 2020-09-15 16:02:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/09/middle-east-business-trumps-politics/"
 categories: ["Brave New World", "Middle East", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0358117b35818d23fbf293a564028ba1413857bc53b43a7e59ff6d419b12f4bb
 canonical: 16954-middle-east-business-trumps-politics.json
 ---

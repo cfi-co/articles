@@ -1,12 +1,21 @@
 ---
 id: 16561
 title: "CANPACK Group: Poland-based Packaging Manufacturer Expands Globally, Enters US Market"
-award_year: 2020
+year: 2020
 published: 2020-08-12 10:13:27
 published_gmt: 2020-08-12 09:13:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/08/canpack-group-poland-based-packaging-manufacturer-expands-globally-enters-us-market/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d35f14c48a5cd8f925b479b4b5e5fcf7bb0b7621091eb8f49add944f10789e1f
 canonical: 16561-canpack-group-poland-based-packaging-manufacturer-expands-globally-enters-us-mar.json
 ---

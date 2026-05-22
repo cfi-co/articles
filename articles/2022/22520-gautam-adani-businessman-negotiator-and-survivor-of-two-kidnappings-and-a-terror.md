@@ -1,12 +1,21 @@
 ---
 id: 22520
 title: "A Winner, All the Way: Gautam Adani, Businessman, Negotiator, and Survivor of Two Kidnappings and a Terror Attack"
-award_year: 2022
+year: 2022
 published: 2022-07-29 16:10:41
 published_gmt: 2022-07-29 15:10:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2022/07/gautam-adani-businessman-negotiator-and-survivor-of-two-kidnappings-and-a-terror-attack/"
 categories: ["Asia Pacific", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 243bad2719ed1863679000ebfe9fa57a3cada6f58e2e02f0ad151f48edcce812
 canonical: 22520-gautam-adani-businessman-negotiator-and-survivor-of-two-kidnappings-and-a-terror.json
 ---

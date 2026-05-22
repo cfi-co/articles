@@ -1,12 +1,21 @@
 ---
 id: 10005
 title: "Principles for Responsible Investment: Fiduciary Duty - Coming of Age"
-award_year: 2015
+year: 2015
 published: 2015-06-11 12:33:05
 published_gmt: 2015-06-11 11:33:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/06/principles-for-responsible-investment-fiduciary-duty-coming-of-age/"
 categories: ["Finance", "Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3d566331669439dd43688c444167f8d4a88ac62df1291fed0df1b58243d64829
 canonical: 10005-principles-for-responsible-investment-fiduciary-duty-coming-of-age.json
 ---

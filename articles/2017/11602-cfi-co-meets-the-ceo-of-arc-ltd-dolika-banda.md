@@ -1,12 +1,21 @@
 ---
 id: 11602
 title: "CFI.co Meets the CEO of ARC Ltd: Dolika Banda"
-award_year: 2017
+year: 2017
 published: 2017-05-15 16:33:15
 published_gmt: 2017-05-15 15:33:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/05/cfi-co-meets-the-ceo-of-arc-ltd-dolika-banda/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3ff559de5eb64ea8f46bcccfeadf3d0bce03283396c4fa18e40d819b7d0511f6
 canonical: 11602-cfi-co-meets-the-ceo-of-arc-ltd-dolika-banda.json
 ---

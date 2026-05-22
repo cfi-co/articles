@@ -1,12 +1,21 @@
 ---
 id: 27569
 title: "The Economics of Valentine’s"
-award_year: 2025
+year: 2025
 published: 2025-02-14 13:02:28
 published_gmt: 2025-02-14 13:02:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/02/the-economics-of-valentines/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ed28765294ceef4d0087657fba20942c5bbbcc2929e1a01cd38840d6a978d77f
 canonical: 27569-the-economics-of-valentines.json
 ---

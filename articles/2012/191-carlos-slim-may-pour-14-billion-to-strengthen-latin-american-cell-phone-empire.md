@@ -1,12 +1,21 @@
 ---
 id: 191
 title: "Carlos Slim May Pour $14 Billion To Strengthen Latin American Cell Phone Empire"
-award_year: 2012
+year: 2012
 published: 2012-01-27 14:21:20
 published_gmt: 2012-01-27 14:21:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2012/01/carlos-slim-may-pour-14-billion-to-strengthen-latin-american-cell-phone-empire/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0b0c0c61104dd16bf62c87dd92eed9da261e874ba7402a0876c8357df2136fec
 canonical: 191-carlos-slim-may-pour-14-billion-to-strengthen-latin-american-cell-phone-empire.json
 ---

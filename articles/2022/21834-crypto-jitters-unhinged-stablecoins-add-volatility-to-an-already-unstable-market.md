@@ -1,12 +1,21 @@
 ---
 id: 21834
 title: "Crypto Jitters: Unhinged Stablecoins Add Volatility to an Already Unstable Market"
-award_year: 2022
+year: 2022
 published: 2022-05-13 11:41:20
 published_gmt: 2022-05-13 10:41:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/05/crypto-jitters-unhinged-stablecoins-add-volatility-to-an-already-unstable-market/"
 categories: ["Brave New World", "Markets", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c585755ab27a89b2870dd77e94cc6c24b648053fc82b7086c66ae3d98fc63a79
 canonical: 21834-crypto-jitters-unhinged-stablecoins-add-volatility-to-an-already-unstable-market.json
 ---

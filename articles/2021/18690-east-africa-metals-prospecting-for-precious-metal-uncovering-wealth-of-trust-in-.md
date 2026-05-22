@@ -1,12 +1,21 @@
 ---
 id: 18690
 title: "East Africa Metals: Prospecting for Precious Metal, Uncovering Wealth of Trust in Fostering Personal Relationships"
-award_year: 2021
+year: 2021
 published: 2021-02-09 17:56:59
 published_gmt: 2021-02-09 17:56:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/east-africa-metals-prospecting-for-precious-metal-uncovering-wealth-of-trust-in-fostering-personal-relationships/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bdada69bce23c89e7e7b966ad80faa5d58c2ad14831ebb9212d1b93f87aa25f6
 canonical: 18690-east-africa-metals-prospecting-for-precious-metal-uncovering-wealth-of-trust-in-.json
 ---

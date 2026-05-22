@@ -1,12 +1,21 @@
 ---
 id: 15980
 title: "The Access Bank UK Limited: It’s All About Service for Nigerian Bank Making Impact on the World"
-award_year: 2020
+year: 2020
 published: 2020-05-01 16:07:38
 published_gmt: 2020-05-01 15:07:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2020/05/the-access-bank-uk-limited-its-all-about-service-for-nigerian-bank-making-impact-on-the-world/"
 categories: ["Banking", "Corporate", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c1a08de51bc012628fa3b285787d2eac0d6552aa6c9abab95b5493c78e96c34f
 canonical: 15980-the-access-bank-uk-limited-its-all-about-service-for-nigerian-bank-making-impact.json
 ---

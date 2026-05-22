@@ -1,12 +1,21 @@
 ---
 id: 8669
 title: "Charlie Hebdo Attack: The Triumph of the Last Laugh"
-award_year: 2015
+year: 2015
 published: 2015-01-07 16:00:06
 published_gmt: 2015-01-07 16:00:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/01/charlie-hebdo-attack-the-triumph-of-the-last-laugh/"
 categories: ["Europe", "Obituaries"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ea2053bb0ddb3cbb3778259b23690997abaaa1be2b7f8b33122cac96347371ee
 canonical: 8669-charlie-hebdo-attack-the-triumph-of-the-last-laugh.json
 ---

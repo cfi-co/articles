@@ -1,12 +1,21 @@
 ---
 id: 21049
 title: "Interview with Firas Sleiman - Partner and Technology, Digital & Cyber Leader at PwC in Qatar: Digital Leadership"
-award_year: 2021
+year: 2021
 published: 2021-11-10 06:26:51
 published_gmt: 2021-11-10 06:26:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2021/11/interview-with-firas-sleiman-partner-and-technology-digital-cyber-leader-at-pwc-in-qatar-digital-leadership/"
 categories: ["Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 40a9567edcd8fb2c06eb32644192166cb4d8046779d99cdcd6e48d5eb8bf642b
 canonical: 21049-interview-with-firas-sleiman-partner-and-technology-digital-cyber-leader-at-pwc-.json
 ---

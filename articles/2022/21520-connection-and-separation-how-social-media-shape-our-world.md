@@ -1,12 +1,21 @@
 ---
 id: 21520
 title: "Connection and Separation: How Social Media Shape Our World"
-award_year: 2022
+year: 2022
 published: 2022-02-01 13:40:02
 published_gmt: 2022-02-01 13:40:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2022/02/connection-and-separation-how-social-media-shape-our-world/"
 categories: ["Lifestyle", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4fb7c4e5a1280347f284d06e5fd3fd3e69c151ea95c62eaca6da55ab5e1c9e0f
 canonical: 21520-connection-and-separation-how-social-media-shape-our-world.json
 ---

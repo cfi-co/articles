@@ -1,12 +1,21 @@
 ---
 id: 20404
 title: "Anadi Bank: Hybrid Bank Rises From the Ashes — and Flies"
-award_year: 2021
+year: 2021
 published: 2021-08-12 16:33:43
 published_gmt: 2021-08-12 15:33:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/austrian-anadi-bank-hybrid-bank-rises-from-the-ashes/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b91115946c4a5a3d2921bb4f939486648568016bcd12d6c5daebe4268986564c
 canonical: 20404-austrian-anadi-bank-hybrid-bank-rises-from-the-ashes.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 7723
 title: "Magatte Wade: An African Serial Entrepreneur with a Heart"
-award_year: 2014
+year: 2014
 published: 2014-07-30 11:18:29
 published_gmt: 2014-07-30 10:18:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/07/magatte-wade-an-african-serial-entrepreneur-with-a-heart/"
 categories: ["Africa", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c31d476246c258e4d38a1efecffab098a5e463c506e1df299e31e9a2edc370b5
 canonical: 7723-magatte-wade-an-african-serial-entrepreneur-with-a-heart.json
 ---

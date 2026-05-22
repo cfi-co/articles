@@ -1,12 +1,21 @@
 ---
 id: 21582
 title: "Keep on Truckin’, urges Canada, but Protest Blockade evades an Easy Fix"
-award_year: 2022
+year: 2022
 published: 2022-02-16 16:23:57
 published_gmt: 2022-02-16 16:23:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/02/keep-on-truckin-urges-canada-but-protest-blockade-evades-an-easy-fix/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9cadd1d7624f71a0c8db29cf7aef60cb55051445cc60cdfa2a9229eca4a54e64
 canonical: 21582-keep-on-truckin-urges-canada-but-protest-blockade-evades-an-easy-fix.json
 ---

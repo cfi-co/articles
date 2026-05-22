@@ -1,12 +1,21 @@
 ---
 id: 24006
 title: "KBC Keeps Moving to Maintain its Lead"
-award_year: 2022
+year: 2022
 published: 2022-11-17 13:10:12
 published_gmt: 2022-11-17 13:10:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2022/11/kbc-keeps-moving-to-maintain-its-lead/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 03c435e250e5611010ac9e939560d2e885f18d4b085c5c8165f4508a5d960734
 canonical: 24006-kbc-keeps-moving-to-maintain-its-lead.json
 ---

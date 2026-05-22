@@ -1,12 +1,21 @@
 ---
 id: 8571
 title: "UN-Backed Project to Help Colombian Farmers Move Away from Illicit Crops Towards Fair Trade Chocolate"
-award_year: 2014
+year: 2014
 published: 2014-12-19 09:32:00
 published_gmt: 2014-12-19 09:32:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2014/12/un-backed-project-to-help-colombian-farmers-move-away-from-illicit-crops-towards-fair-trade-chocolate/"
 categories: ["Latin America", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a66b9dc291b0700ef9c93ea16d02ff459f8345db8ed75decf96460bf015830c5
 canonical: 8571-un-backed-project-to-help-colombian-farmers-move-away-from-illicit-crops-towards.json
 ---

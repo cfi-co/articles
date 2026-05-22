@@ -1,12 +1,21 @@
 ---
 id: 27679
 title: "A JUUL of an Idea… That May Have Got Most of it Wrong"
-award_year: 2025
+year: 2025
 published: 2025-04-08 16:32:50
 published_gmt: 2025-04-08 15:32:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2025/04/a-juul-of-an-idea-that-may-have-got-most-of-it-wrong/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7f98d0fd8fd45f0157597c0fd72f4ee36e738d6b4e7c7d62675639ba9b6b3ee1
 canonical: 27679-a-juul-of-an-idea-that-may-have-got-most-of-it-wrong.json
 ---

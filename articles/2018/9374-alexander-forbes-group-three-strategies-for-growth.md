@@ -1,12 +1,21 @@
 ---
 id: 9374
 title: "Alexander Forbes Group: Three Strategies for Growth"
-award_year: 2018
+year: 2018
 published: 2018-02-01 09:03:02
 published_gmt: 2018-02-01 09:03:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2018/02/alexander-forbes-group-three-strategies-for-growth/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: be21adc7afcb17e29f86779a3594a5bbc370d7ddcd4b80000f069903d03f6090
 canonical: 9374-alexander-forbes-group-three-strategies-for-growth.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 7589
 title: "From Somalia to the United States - Ayaan Hirsi Ali"
-award_year: 2014
+year: 2014
 published: 2014-07-09 11:25:31
 published_gmt: 2014-07-09 10:25:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/07/from-somalia-to-the-united-states-ayaan-hirsi-ali/"
 categories: ["Africa", "Europe", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 584604dac3c13cfb3d46de55648dd5d25653b8602e768a2359e240ee68f920b6
 canonical: 7589-from-somalia-to-the-united-states-ayaan-hirsi-ali.json
 ---

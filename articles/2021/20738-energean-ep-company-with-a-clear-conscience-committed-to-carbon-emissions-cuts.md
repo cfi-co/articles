@@ -1,12 +1,21 @@
 ---
 id: 20738
 title: "Energean - E&P Company with a Clear Conscience: Committed to Carbon Emissions Cuts"
-award_year: 2021
+year: 2021
 published: 2021-09-29 13:38:33
 published_gmt: 2021-09-29 12:38:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/09/energean-ep-company-with-a-clear-conscience-committed-to-carbon-emissions-cuts/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2555781528b592efc33b0cec67e2c56bb4597529584f4ecbd18699022dbf65d6
 canonical: 20738-energean-ep-company-with-a-clear-conscience-committed-to-carbon-emissions-cuts.json
 ---

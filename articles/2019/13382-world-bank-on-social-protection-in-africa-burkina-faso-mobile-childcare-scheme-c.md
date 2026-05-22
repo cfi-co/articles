@@ -1,12 +1,21 @@
 ---
 id: 13382
 title: "World Bank on Social Protection in Africa: Burkina Faso Mobile Childcare Scheme Could Transform Public Works"
-award_year: 2019
+year: 2019
 published: 2019-01-23 11:47:10
 published_gmt: 2019-01-23 11:47:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2019/01/world-bank-on-social-protection-in-africa-burkina-faso-mobile-childcare-scheme-could-transform-public-works/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f2cc0bbf9ae6fd7625263923bb8cf09beaaab0cf5a069d6efd39af809e4630ff
 canonical: 13382-world-bank-on-social-protection-in-africa-burkina-faso-mobile-childcare-scheme-c.json
 ---

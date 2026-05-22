@@ -1,12 +1,21 @@
 ---
 id: 23923
 title: "Many a Titter about Twitter as Musk Bungles his Big Purchase"
-award_year: 2022
+year: 2022
 published: 2022-11-07 11:12:34
 published_gmt: 2022-11-07 11:12:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/innovation-technology/2022/11/many-a-titter-about-twitter-as-musk-bungles-his-big-purchase/"
 categories: ["Brave New World", "Innovation &amp; Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7cfe09e6cb9bb6970d92e2b0210cc5eabfb87e750ea8a419707f5cbaaf5349f3
 canonical: 23923-many-a-titter-about-twitter-as-musk-bungles-his-big-purchase.json
 ---

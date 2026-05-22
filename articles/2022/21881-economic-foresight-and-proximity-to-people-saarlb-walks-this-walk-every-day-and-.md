@@ -1,12 +1,21 @@
 ---
 id: 21881
 title: "Economic Foresight and Proximity to People: SaarLB Walks this Walk Every Day — and Across Borders"
-award_year: 2022
+year: 2022
 published: 2022-05-18 05:45:28
 published_gmt: 2022-05-18 04:45:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/economic-foresight-and-proximity-to-people-saarlb-walks-this-walk-every-day-and-across-borders/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fcccfa698d67b810fee0c8eb8561486ea7696d1cd3a232378f0a09872149ed46
 canonical: 21881-economic-foresight-and-proximity-to-people-saarlb-walks-this-walk-every-day-and-.json
 ---

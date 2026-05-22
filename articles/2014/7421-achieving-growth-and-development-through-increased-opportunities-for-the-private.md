@@ -1,12 +1,21 @@
 ---
 id: 7421
 title: "Achieving Growth and Development in Tajikistan"
-award_year: 2014
+year: 2014
 published: 2014-06-11 11:33:50
 published_gmt: 2014-06-11 10:33:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/06/achieving-growth-and-development-through-increased-opportunities-for-the-private-sector-better-public-services-and-enhanced-regional-connectivity/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6da1560f36f767293ac7364870d85ba6f9b0b63001ba42b7b7e970d3f64012ea
 canonical: 7421-achieving-growth-and-development-through-increased-opportunities-for-the-private.json
 ---

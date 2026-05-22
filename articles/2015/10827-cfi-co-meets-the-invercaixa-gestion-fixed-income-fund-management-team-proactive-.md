@@ -1,12 +1,21 @@
 ---
 id: 10827
 title: "CFI.co Meets the InverCaixa Gestión Fixed Income Fund Management Team: Proactive Approach in Fixed-Income Fund Management"
-award_year: 2015
+year: 2015
 published: 2015-04-21 14:46:55
 published_gmt: 2015-04-21 13:46:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2015/04/cfi-co-meets-the-invercaixa-gestion-fixed-income-fund-management-team-proactive-approach-in-fixed-income-fund-management/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fb6d32f1910a382e7df2d8bb5b95963bf8b159be59b913d39392fe5e72e1f152
 canonical: 10827-cfi-co-meets-the-invercaixa-gestion-fixed-income-fund-management-team-proactive-.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 17589
 title: "Michael Skinner: A Company Leader Driven to Change the Lives of Millions"
-award_year: 2020
+year: 2020
 published: 2020-10-26 15:04:40
 published_gmt: 2020-10-26 15:04:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/10/michael-skinner-a-company-leader-driven-to-change-the-lives-of-millions/"
 categories: ["Corporate Leaders", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5b20584e9e7c20d3842dc76bfc023a159b443c5fe9745811d423b26b229261fa
 canonical: 17589-michael-skinner-a-company-leader-driven-to-change-the-lives-of-millions.json
 ---

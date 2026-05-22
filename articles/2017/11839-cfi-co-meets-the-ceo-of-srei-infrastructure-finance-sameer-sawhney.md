@@ -1,12 +1,21 @@
 ---
 id: 11839
 title: "CFI.co Meets the CEO of Srei Infrastructure Finance: Sameer Sawhney"
-award_year: 2017
+year: 2017
 published: 2017-09-01 12:44:05
 published_gmt: 2017-09-01 11:44:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-ceo-of-srei-infrastructure-finance-sameer-sawhney/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0da174180805aa6690758c3f33b4de76fbf8cc5a797ef0f03f3be90183e4c41a
 canonical: 11839-cfi-co-meets-the-ceo-of-srei-infrastructure-finance-sameer-sawhney.json
 ---

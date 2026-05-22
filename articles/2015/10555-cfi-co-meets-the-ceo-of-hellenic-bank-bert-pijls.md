@@ -1,12 +1,21 @@
 ---
 id: 10555
 title: "CFI.co Meets the CEO of Hellenic Bank: Bert Pijls"
-award_year: 2015
+year: 2015
 published: 2015-08-01 12:26:15
 published_gmt: 2015-08-01 11:26:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2015/08/cfi-co-meets-the-ceo-of-hellenic-bank-bert-pijls/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 03f8687fdd44ec755aba8ead0d02bc87b1a2d13990adfafb1a0603333591b631
 canonical: 10555-cfi-co-meets-the-ceo-of-hellenic-bank-bert-pijls.json
 ---

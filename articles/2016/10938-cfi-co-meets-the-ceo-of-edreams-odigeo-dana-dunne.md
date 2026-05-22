@@ -1,12 +1,21 @@
 ---
 id: 10938
 title: "CFI.co Meets the CEO of eDreams ODIGEO: Dana Dunne"
-award_year: 2016
+year: 2016
 published: 2016-01-21 22:54:55
 published_gmt: 2016-01-21 22:54:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-edreams-odigeo-dana-dunne/"
 categories: ["CFI.co Meets", "Corporate Leaders"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7df30df2e656fe04e695ecba61d70ebbc8a954cab2969ff265c559aae2ffa5ba
 canonical: 10938-cfi-co-meets-the-ceo-of-edreams-odigeo-dana-dunne.json
 ---

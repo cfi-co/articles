@@ -1,12 +1,21 @@
 ---
 id: 8350
 title: "Set Up for Failure: UK Prime-Minister Approaching Point of No Return"
-award_year: 2014
+year: 2014
 published: 2014-11-04 06:15:53
 published_gmt: 2014-11-04 06:15:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/11/set-up-for-failure-uk-prime-minister-approaching-point-of-no-return/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ddffb481f16108335d556d0d98648a80ef2c08a44c5d2f4491e224f82e10f668
 canonical: 8350-set-up-for-failure-uk-prime-minister-approaching-point-of-no-return.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 22442
 title: "BVI Finance: One Country’s Role in the Ongoing Globalisation Story"
-award_year: 2022
+year: 2022
 published: 2022-07-20 08:35:57
 published_gmt: 2022-07-20 07:35:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/07/bvi-finance-one-countrys-role-in-the-ongoing-globalisation-story/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 95549553bf9f76e374d594dc6611f4ab9efa74d042fc70391b7a36a21dd747f7
 canonical: 22442-bvi-finance-one-countrys-role-in-the-ongoing-globalisation-story.json
 ---

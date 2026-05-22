@@ -1,12 +1,21 @@
 ---
 id: 5515
 title: "James “Jamie” Dimon: How Not to Be a Good Banker"
-award_year: 2013
+year: 2013
 published: 2013-10-16 12:59:24
 published_gmt: 2013-10-16 11:59:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/10/james-jamie-dimon-how-not-to-be-a-good-banker/"
 categories: ["Banking"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 556e8422aa303e9be111ba4e70b355bca95b5186ce327cdd7a55f8d300b046d9
 canonical: 5515-james-jamie-dimon-how-not-to-be-a-good-banker.json
 ---

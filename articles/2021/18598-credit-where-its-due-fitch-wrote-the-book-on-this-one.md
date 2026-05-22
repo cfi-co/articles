@@ -1,12 +1,21 @@
 ---
 id: 18598
 title: "Credit Where It’s Due: Fitch Wrote the Book on This One"
-award_year: 2021
+year: 2021
 published: 2021-02-03 15:41:34
 published_gmt: 2021-02-03 15:41:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/credit-where-its-due-fitch-wrote-the-book-on-this-one/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c4f76035ce6edd561b8cae79bd087a2f8d77bc26f21ab3728b1f39d0d45bd871
 canonical: 18598-credit-where-its-due-fitch-wrote-the-book-on-this-one.json
 ---

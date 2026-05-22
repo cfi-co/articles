@@ -1,12 +1,21 @@
 ---
 id: 22573
 title: "Grit, Loyalty and Optimism are the Baron’s True North"
-award_year: 2022
+year: 2022
 published: 2022-08-02 15:11:42
 published_gmt: 2022-08-02 14:11:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2022/08/david-thomson-grit-loyalty-and-optimism/"
 categories: ["Corporate", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bd4f3a78cbc635f0f941855205e2a887a85edb72028cb980615bc206b37d0e53
 canonical: 22573-david-thomson-grit-loyalty-and-optimism.json
 ---

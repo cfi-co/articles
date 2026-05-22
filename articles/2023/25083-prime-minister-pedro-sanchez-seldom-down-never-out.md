@@ -1,12 +1,21 @@
 ---
 id: 25083
 title: "Prime Minister Pedro Sánchez: Seldom Down, Never Out"
-award_year: 2023
+year: 2023
 published: 2023-04-13 12:05:02
 published_gmt: 2023-04-13 11:05:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/04/prime-minister-pedro-sanchez-seldom-down-never-out/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 07d0d32df10c05b0ddacf5d554908393a274ae64b0f831c787ceca889882dd23
 canonical: 25083-prime-minister-pedro-sanchez-seldom-down-never-out.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26515
 title: "Judges Approve use of ChatGPT in Legal Rulings, Despite Its Tendency to Fib — and ‘Invent’ False Cases"
-award_year: 2023
+year: 2023
 published: 2023-12-12 12:07:54
 published_gmt: 2023-12-12 12:07:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/legal/2023/12/judges-approve-use-of-chatgpt-in-legal-rulings-despite-its-tendency-to-fib-and-invent-false-cases/"
 categories: ["Brave New World", "Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 04efcc06d3459f8f9ab2c671216b05c5c44d92820757cdee39a872fd2afa2b07
 canonical: 26515-judges-approve-use-of-chatgpt-in-legal-rulings-despite-its-tendency-to-fib-and-i.json
 ---

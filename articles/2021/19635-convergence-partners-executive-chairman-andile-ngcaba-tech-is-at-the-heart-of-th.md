@@ -1,12 +1,21 @@
 ---
 id: 19635
 title: "Convergence Partners Executive Chairman Andile Ngcaba: Tech is at the Heart of Things for This Believer in the Power and Potential of the Internet"
-award_year: 2021
+year: 2021
 published: 2021-05-10 17:25:49
 published_gmt: 2021-05-10 16:25:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/05/convergence-partners-executive-chairman-andile-ngcaba-tech-is-at-the-heart-of-things-for-this-believer-in-the-power-and-potential-of-the-internet/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0fce0f20f1cfaf574b1a39a780e85092050cd51c91970bbf7ab6831a6b978f77
 canonical: 19635-convergence-partners-executive-chairman-andile-ngcaba-tech-is-at-the-heart-of-th.json
 ---

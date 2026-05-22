@@ -1,12 +1,21 @@
 ---
 id: 10160
 title: "Adel S Al-Ghamdi: Saudi Stock Exchange Opts for Quality"
-award_year: 2015
+year: 2015
 published: 2015-07-29 15:43:41
 published_gmt: 2015-07-29 14:43:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/07/adel-s-al-ghamdi-saudi-stock-exchange-opts-for-quality/"
 categories: ["Finance", "Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 08478e4f682e25c7879481aa454799315e6187b40baff7757b3fc759f70ddd92
 canonical: 10160-adel-s-al-ghamdi-saudi-stock-exchange-opts-for-quality.json
 ---

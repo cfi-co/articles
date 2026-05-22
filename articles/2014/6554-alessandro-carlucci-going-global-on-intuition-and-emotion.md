@@ -1,12 +1,21 @@
 ---
 id: 6554
 title: "Alessandro Carlucci: Going Global on Intuition and Emotion"
-award_year: 2014
+year: 2014
 published: 2014-02-06 11:51:13
 published_gmt: 2014-02-06 11:51:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2014/02/alessandro-carlucci-going-global-on-intuition-and-emotion/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: adbbbc9690a8d759aa86b554a7b7e2f3e76e596f4a8a8f8974375e08e68f238f
 canonical: 6554-alessandro-carlucci-going-global-on-intuition-and-emotion.json
 ---

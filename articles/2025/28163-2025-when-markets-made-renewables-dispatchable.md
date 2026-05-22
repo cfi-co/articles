@@ -1,12 +1,21 @@
 ---
 id: 28163
 title: "2025: When Markets Made Renewables Dispatchable"
-award_year: 2025
+year: 2025
 published: 2025-12-23 09:50:57
 published_gmt: 2025-12-23 09:50:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2025/12/2025-when-markets-made-renewables-dispatchable/"
 categories: ["Energy", "North America", "Oil &amp; Mining", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fe55c916be0aa361c9140e5fdf5bcd7020c349d8a186eacfdf03396e51280fcc
 canonical: 28163-2025-when-markets-made-renewables-dispatchable.json
 ---

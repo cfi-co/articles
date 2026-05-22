@@ -1,12 +1,21 @@
 ---
 id: 19421
 title: "Inter Seguros: We Need to Talk about Insurance, Brazil"
-award_year: 2021
+year: 2021
 published: 2021-04-08 16:57:40
 published_gmt: 2021-04-08 15:57:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/04/inter-seguros-we-need-to-talk-about-insurance-brazil/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f1145a2bcd67de59074c3a79c16e8370e3091944f95d7f210a021b98cd036abd
 canonical: 19421-inter-seguros-we-need-to-talk-about-insurance-brazil.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 454
 title: "More Phones Than People in Brazil"
-award_year: 2012
+year: 2012
 published: 2012-04-19 15:13:01
 published_gmt: 2012-04-19 14:13:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2012/04/more-phones-than-people-in-brazil/"
 categories: ["Finance", "Latin America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 61dab2c429a28ff1b3e7fb4a2e8b6cc61d03bf5e9f95cf61e953dae8c68c7ce4
 canonical: 454-more-phones-than-people-in-brazil.json
 ---

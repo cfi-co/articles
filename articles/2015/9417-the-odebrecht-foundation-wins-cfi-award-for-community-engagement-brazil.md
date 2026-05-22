@@ -1,12 +1,21 @@
 ---
 id: 9417
 title: "<br>The Odebrecht Foundation Wins CFI Award for Community Engagement, Brazil"
-award_year: 2015
+year: 2015
 published: 2015-02-01 14:25:25
 published_gmt: 2015-02-01 14:25:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 71936c0c5e7967741832479f466f143f3d9ae5c7327532903176841013159f96
 canonical: 9417-the-odebrecht-foundation-wins-cfi-award-for-community-engagement-brazil.json
 ---

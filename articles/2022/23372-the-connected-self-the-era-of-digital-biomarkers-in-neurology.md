@@ -1,12 +1,21 @@
 ---
 id: 23372
 title: "The Connected Self: The Era of Digital Biomarkers in Neurology"
-award_year: 2022
+year: 2022
 published: 2022-09-09 07:49:04
 published_gmt: 2022-09-09 06:49:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/innovation-technology/2022/09/the-connected-self-the-era-of-digital-biomarkers-in-neurology/"
 categories: ["Innovation &amp; Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 61472eebbb51acfa0194f618085cfe9d807e7402bfb5cffcf496cf7363ee9f93
 canonical: 23372-the-connected-self-the-era-of-digital-biomarkers-in-neurology.json
 ---

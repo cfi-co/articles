@@ -1,12 +1,21 @@
 ---
 id: 24647
 title: "World Economic Forum’s Meeting Agenda Takes a Tilt at ‘Dark Topics’, Ai-Da — and Mind Control..."
-award_year: 2023
+year: 2023
 published: 2023-01-20 07:25:29
 published_gmt: 2023-01-20 07:25:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/01/world-economic-forums-meeting-agenda-takes-a-tilt-at-dark-topics-ai-da-and-mind-control/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 56fb3456d43174b58f15fa63bb5e3f10eafa91f5feb80f975c4bc31a2818275c
 canonical: 24647-world-economic-forums-meeting-agenda-takes-a-tilt-at-dark-topics-ai-da-and-mind-.json
 ---

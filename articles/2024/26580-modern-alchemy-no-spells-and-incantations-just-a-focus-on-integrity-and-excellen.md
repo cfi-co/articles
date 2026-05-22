@@ -1,12 +1,21 @@
 ---
 id: 26580
 title: "Modern ‘Alchemy’: No Spells and Incantations, Just a Focus on Integrity — and Excellence"
-award_year: 2024
+year: 2024
 published: 2024-01-10 11:30:01
 published_gmt: 2024-01-10 11:30:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/middle-east/2024/01/ethra-invest-a-focus-on-integrity-and-excellence/"
 categories: ["Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ededfd0df78654188bb454dd6d31f45353f23beb92076be2847ec5e16d804636
 canonical: 26580-modern-alchemy-no-spells-and-incantations-just-a-focus-on-integrity-and-excellen.json
 ---

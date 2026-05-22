@@ -1,12 +1,21 @@
 ---
 id: 27046
 title: "AccountAbility: Building Better Boards"
-award_year: 2024
+year: 2024
 published: 2024-08-19 12:39:54
 published_gmt: 2024-08-19 11:39:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2024/08/accountability-building-better-boards/"
 categories: ["Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4b3fa2daa8e53b005053f525dae46ea26548dfd70b40ee786ae04cd773272af3
 canonical: 27046-accountability-building-better-boards.json
 ---

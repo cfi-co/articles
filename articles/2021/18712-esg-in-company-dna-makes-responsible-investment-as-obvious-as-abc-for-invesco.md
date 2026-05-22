@@ -1,12 +1,21 @@
 ---
 id: 18712
 title: "ESG in Company DNA Makes Responsible Investment as Obvious as ABC for Invesco"
-award_year: 2021
+year: 2021
 published: 2021-02-10 11:31:11
 published_gmt: 2021-02-10 11:31:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/esg-in-company-dna-makes-responsible-investment-as-obvious-as-abc-for-invesco/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cd907db4ca52cdff2f4de02775193a4226de1fafb7bc8c815e31a59daae0989f
 canonical: 18712-esg-in-company-dna-makes-responsible-investment-as-obvious-as-abc-for-invesco.json
 ---

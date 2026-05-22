@@ -1,12 +1,21 @@
 ---
 id: 4873
 title: "CFI.co Meets Wilson Endy Opuwei"
-award_year: 2013
+year: 2013
 published: 2013-07-02 12:02:03
 published_gmt: 2013-07-02 11:02:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/07/cfi-co-meets-wilson-endy-opuwei/"
 categories: ["Africa", "Corporate Leaders", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6d9abfcd3dd47c5eeb7ca786cde18a9e900478b9f86cfcd7ee2d3f322ac5f1a5
 canonical: 4873-cfi-co-meets-wilson-endy-opuwei.json
 ---

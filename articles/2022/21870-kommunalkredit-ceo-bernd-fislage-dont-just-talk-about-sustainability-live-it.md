@@ -1,12 +1,21 @@
 ---
 id: 21870
 title: "Kommunalkredit CEO Bernd Fislage: ‘Don’t Just Talk About Sustainability — Live It!’"
-award_year: 2022
+year: 2022
 published: 2022-05-18 05:38:48
 published_gmt: 2022-05-18 04:38:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/kommunalkredit-ceo-bernd-fislage-dont-just-talk-about-sustainability-live-it/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ce88aac6b039f460af601443412e31e7c3e760f3ef731534a0f159dfd5fda839
 canonical: 21870-kommunalkredit-ceo-bernd-fislage-dont-just-talk-about-sustainability-live-it.json
 ---

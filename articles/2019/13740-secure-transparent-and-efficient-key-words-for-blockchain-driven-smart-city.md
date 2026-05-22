@@ -1,12 +1,21 @@
 ---
 id: 13740
 title: "Secure, Transparent, and Efficient: Key Words for Blockchain-Driven Smart City"
-award_year: 2019
+year: 2019
 published: 2019-07-23 12:47:14
 published_gmt: 2019-07-23 11:47:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2019/07/secure-transparent-and-efficient-key-words-for-blockchain-driven-smart-city/"
 categories: ["Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6c41397749fafb16f3764617e4d1842faec46811398db7b5593132a0511e7c24
 canonical: 13740-secure-transparent-and-efficient-key-words-for-blockchain-driven-smart-city.json
 ---

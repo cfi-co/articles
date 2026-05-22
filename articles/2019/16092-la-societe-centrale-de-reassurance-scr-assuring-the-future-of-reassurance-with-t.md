@@ -1,12 +1,21 @@
 ---
 id: 16092
 title: "La Société Centrale de Réassurance (SCR): Assuring the Future of Reassurance with Training, Compliance and Effort"
-award_year: 2019
+year: 2019
 published: 2019-10-02 13:01:12
 published_gmt: 2019-10-02 12:01:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/10/la-societe-centrale-de-reassurance-scr-assuring-the-future-of-reassurance-with-training-compliance-and-effort/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5e9720cabe5d5bd985af750ae1a95dd1310899625bac214905d5bcf1eedad4b4
 canonical: 16092-la-societe-centrale-de-reassurance-scr-assuring-the-future-of-reassurance-with-t.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 24743
 title: "OECD: What Will It Take to Achieve UN’s Sustainable Development Goals?"
-award_year: 2023
+year: 2023
 published: 2023-02-10 11:12:53
 published_gmt: 2023-02-10 11:12:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2023/02/oecd-what-will-it-take-to-achieve-uns-sustainable-development-goals/"
 categories: ["Europe", "Multilaterals", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 292e4315d2e38d598cd379ed7f1287f91858a94df007aeb41f830fb3789030b6
 canonical: 24743-oecd-what-will-it-take-to-achieve-uns-sustainable-development-goals.json
 ---

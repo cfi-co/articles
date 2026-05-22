@@ -1,12 +1,22 @@
 ---
 id: 28407
 title: "Lattanzio Group: Reimagining Public-Sector Consulting for an Era of Transformation"
-award_year: 2026
+year: 2026
 published: 2026-04-30 09:02:03
 published_gmt: 2026-04-30 08:02:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2026/04/lattanzio-group-reimagining-public-sector-consulting-for-an-era-of-transformation/"
 categories: ["Corporate", "Europe", "Finance"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "Lattanzio Group"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 67940abe0299c3db92da0450cda1d225e948ffd093d291fef980b02c560dd054
 canonical: 28407-lattanzio-group-reimagining-public-sector-consulting-for-an-era-of-transformatio.json
 ---

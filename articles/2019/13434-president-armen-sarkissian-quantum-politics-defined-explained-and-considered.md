@@ -1,12 +1,21 @@
 ---
 id: 13434
 title: "President Armen Sarkissian: Quantum Politics Defined, Explained, and Considered"
-award_year: 2019
+year: 2019
 published: 2019-02-11 15:52:56
 published_gmt: 2019-02-11 15:52:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2019/02/president-armen-sarkissian-quantum-politics-defined-explained-and-considered/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a3fb143df86408afaca4f17b1a9ef584a12af507749c18a0a775844ce73a76fe
 canonical: 13434-president-armen-sarkissian-quantum-politics-defined-explained-and-considered.json
 ---

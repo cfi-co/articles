@@ -1,12 +1,21 @@
 ---
 id: 25157
 title: "Abu Dhabi Cements City’s Position at  Global Market Forefront"
-award_year: 2023
+year: 2023
 published: 2023-04-24 17:18:47
 published_gmt: 2023-04-24 16:18:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2023/04/abu-dhabi-global-market-dhaher-bin-dhaher-al-mheiri"
 categories: ["Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f421e1f63434f354eb992691aec50db51cfb66c169132c58c7ea48b38be46cbb
 canonical: 25157-abu-dhabi-cements-citys-position-at-global-market-forefront.json
 ---

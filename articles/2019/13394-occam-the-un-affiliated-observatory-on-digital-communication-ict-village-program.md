@@ -1,12 +1,21 @@
 ---
 id: 13394
 title: "OCCAM, the UN-affiliated Observatory on Digital Communication: ICT Village Programme Impact in Stark Contrast to Wealth and Aid"
-award_year: 2019
+year: 2019
 published: 2019-01-28 11:56:01
 published_gmt: 2019-01-28 11:56:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/projects/2019/01/occam-the-un-affiliated-observatory-on-digital-communication-ict-village-programme-impact-in-stark-contrast-to-wealth-and-aid/"
 categories: ["Innovation &amp; Technology", "Projects", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a1af710d3689aa8bdcd2e6a876dff7c23308b89b838cc526d5b0073ee08023b5
 canonical: 13394-occam-the-un-affiliated-observatory-on-digital-communication-ict-village-program.json
 ---

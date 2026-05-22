@@ -1,12 +1,21 @@
 ---
 id: 22419
 title: "Federal Realty Investment Trust: ESG Pays Dividends at Leading Real Estate Investment Trust"
-award_year: 2022
+year: 2022
 published: 2022-07-19 13:25:10
 published_gmt: 2022-07-19 12:25:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2022/07/federal-realty-investment-trust-esg-pays-dividends-at-leading-real-estate-investment-trust/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a53edf5539bba3413c250d09f2ff39cd45ae3b29dd9610a4eef589ec15b9ae33
 canonical: 22419-federal-realty-investment-trust-esg-pays-dividends-at-leading-real-estate-invest.json
 ---

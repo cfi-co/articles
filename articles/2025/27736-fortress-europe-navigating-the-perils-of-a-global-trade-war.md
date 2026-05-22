@@ -1,12 +1,21 @@
 ---
 id: 27736
 title: "Fortress Europe? Navigating the Perils of a Global Trade War"
-award_year: 2025
+year: 2025
 published: 2025-05-23 14:19:10
 published_gmt: 2025-05-23 13:19:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2025/05/fortress-europe-navigating-the-perils-of-a-global-trade-war/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 332926fbfde091103f29ca6208a50ca37fc1198a7940f8b7fd92b526a9766ca3
 canonical: 27736-fortress-europe-navigating-the-perils-of-a-global-trade-war.json
 ---

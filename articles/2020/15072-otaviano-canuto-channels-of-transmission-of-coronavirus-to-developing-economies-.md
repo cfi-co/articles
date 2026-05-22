@@ -1,12 +1,21 @@
 ---
 id: 15072
 title: "Otaviano Canuto: Channels of Transmission of Coronavirus to Developing Economies from Abroad"
-award_year: 2020
+year: 2020
 published: 2020-04-29 09:51:17
 published_gmt: 2020-04-29 08:51:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/otaviano-canuto-channels-of-transmission-of-coronavirus-to-developing-economies-from-abroad/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4195cc4191175bb8607d69bbf740c0a4b687c0b4811cce35aa8b3364c5e8cd76
 canonical: 15072-otaviano-canuto-channels-of-transmission-of-coronavirus-to-developing-economies-.json
 ---

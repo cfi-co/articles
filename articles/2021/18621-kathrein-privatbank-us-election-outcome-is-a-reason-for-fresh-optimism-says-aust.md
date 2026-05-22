@@ -1,12 +1,21 @@
 ---
 id: 18621
 title: "Kathrein Privatbank: US Election Outcome is a Reason for Fresh Optimism, says Austrian Responsible Investment Specialist"
-award_year: 2021
+year: 2021
 published: 2021-02-04 15:30:50
 published_gmt: 2021-02-04 15:30:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/kathrein-privatbank-us-election-outcome-is-a-reason-for-fresh-optimism-says-austrian-responsible-investment-specialist/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9213d8e735aad196fb3591be53ee0226bbea2cd687d3e2991882815f784e4c45
 canonical: 18621-kathrein-privatbank-us-election-outcome-is-a-reason-for-fresh-optimism-says-aust.json
 ---

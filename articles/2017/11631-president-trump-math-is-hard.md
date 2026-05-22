@@ -1,12 +1,21 @@
 ---
 id: 11631
 title: "President Trump: Math Is Hard"
-award_year: 2017
+year: 2017
 published: 2017-05-25 15:30:44
 published_gmt: 2017-05-25 14:30:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2017/05/president-trump-math-is-hard/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 00c091d339b282262b86a4bffb8c8810b51941428040658b27ccd0cce8526515
 canonical: 11631-president-trump-math-is-hard.json
 ---

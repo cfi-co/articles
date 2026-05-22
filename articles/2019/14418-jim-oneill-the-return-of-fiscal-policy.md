@@ -1,12 +1,21 @@
 ---
 id: 14418
 title: "Jim O’Neill: The Return of Fiscal Policy"
-award_year: 2019
+year: 2019
 published: 2019-12-12 08:57:10
 published_gmt: 2019-12-12 08:57:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2019/12/jim-oneill-the-return-of-fiscal-policy/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d43395f2baa21050ccbaa971cd0935b8ae0ef19d89a630213c3beb758916a32b
 canonical: 14418-jim-oneill-the-return-of-fiscal-policy.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 16000
 title: "Kathrein Privatbank: A Past Rich in Tradition. A Future Filled with Promise."
-award_year: 2020
+year: 2020
 published: 2020-05-01 16:33:48
 published_gmt: 2020-05-01 15:33:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2020/05/kathrein-privatbank-a-past-rich-in-tradition-a-future-filled-with-promise/"
 categories: ["Banking", "Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dfbdb2fe7e9780e184c6123bb0d6f848ebb1fa547972d25c688f22039fb5d68e
 canonical: 16000-kathrein-privatbank-a-past-rich-in-tradition-a-future-filled-with-promise.json
 ---

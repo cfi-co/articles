@@ -1,12 +1,21 @@
 ---
 id: 22093
 title: "How Do You Define the Metaverse?"
-award_year: 2022
+year: 2022
 published: 2022-05-24 12:01:07
 published_gmt: 2022-05-24 11:01:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2022/05/how-do-you-define-the-metaverse/"
 categories: ["Innovation &amp; Technology", "Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 551a171bbc875580f775e18d6aca65e0013807392270d53289c98f5aea522831
 canonical: 22093-how-do-you-define-the-metaverse.json
 ---

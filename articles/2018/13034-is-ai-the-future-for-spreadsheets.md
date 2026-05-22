@@ -1,12 +1,21 @@
 ---
 id: 13034
 title: "Is AI the Future for Spreadsheets?"
-award_year: 2018
+year: 2018
 published: 2018-10-01 17:37:22
 published_gmt: 2018-10-01 16:37:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2018/10/is-ai-the-future-for-spreadsheets/"
 categories: ["Europe", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 81782e2696b22dc1bf679899e7ea3335f1d428bc12639fe926bae8dec484fcee
 canonical: 13034-is-ai-the-future-for-spreadsheets.json
 ---

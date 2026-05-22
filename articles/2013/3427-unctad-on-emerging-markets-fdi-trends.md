@@ -1,12 +1,21 @@
 ---
 id: 3427
 title: "UNCTAD on Emerging Markets FDI Trends"
-award_year: 2013
+year: 2013
 published: 2013-03-27 13:50:38
 published_gmt: 2013-03-27 13:50:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/03/unctad-on-emerging-markets-fdi-trends/"
 categories: ["Africa", "Asia Pacific", "Finance", "Latin America", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1320a6acb7b0dda22abb9355fce29993e6f9224cef3598ebbb91a9ad7b771dfa
 canonical: 3427-unctad-on-emerging-markets-fdi-trends.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 20941
 title: "Why Even the Most Profit Centered Businesses Should Care About ESG Issues"
-award_year: 2021
+year: 2021
 published: 2021-11-03 08:44:10
 published_gmt: 2021-11-03 08:44:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2021/11/why-even-the-most-profit-centered-businesses-should-care-about-esg-issues/"
 categories: ["Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3083b36b64ab5fe65fe1f029a99e82d1dce282c81b55c8e08b9e3ccda914bf51
 canonical: 20941-why-even-the-most-profit-centered-businesses-should-care-about-esg-issues.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 6288
 title: "Carlos Slim: Timing Is Everything - Seizing the Moment to Build a Fortune"
-award_year: 2014
+year: 2014
 published: 2014-01-06 13:40:23
 published_gmt: 2014-01-06 13:40:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2014/01/carlos-slim-timing-is-everything-seizing-the-moment-to-build-a-fortune/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 175cc555cc082fd8137d5c06f16e33d915f696ed7a42a6e1052f8fb0b519ea1c
 canonical: 6288-carlos-slim-timing-is-everything-seizing-the-moment-to-build-a-fortune.json
 ---

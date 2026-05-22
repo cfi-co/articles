@@ -1,12 +1,21 @@
 ---
 id: 26005
 title: "Creating More Strategic Relevance for the Investment Banking Sector"
-award_year: 2023
+year: 2023
 published: 2023-09-05 11:16:32
 published_gmt: 2023-09-05 10:16:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2023/09/fortman-cline-capital-markets/"
 categories: ["Asia Pacific", "Banking", "Corporate", "Finance", "Markets"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a523414f64328e803c00668be9f4f06a7c5ddcece717be2115204deff0b9a823
 canonical: 26005-creating-more-strategic-relevance-for-the-investment-banking-sector.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 20943
 title: "From the Black Plague to the Covid Crisis, Quarantine has Affected Maritime Trade"
-award_year: 2021
+year: 2021
 published: 2021-11-03 17:13:22
 published_gmt: 2021-11-03 17:13:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/11/from-the-black-plague-to-the-covid-crisis-quarantine-has-affected-maritime-trade/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a53b743ed2bfaba8e048c0fced412755f796fcbf34a258435cffac5bd596a5c8
 canonical: 20943-from-the-black-plague-to-the-covid-crisis-quarantine-has-affected-maritime-trade.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 3266
 title: "Oxford University: Asset Stranding Risks in the High-Carbon Sector"
-award_year: 2013
+year: 2013
 published: 2013-03-12 16:22:35
 published_gmt: 2013-03-12 16:22:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/03/oxford-university-asset-stranding-risks-in-the-high-carbon-sector/"
 categories: ["Europe", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5385b29d393e2fc91076b687b7388cd714a3cf40b86126b82801c1e4157e8184
 canonical: 3266-oxford-university-asset-stranding-risks-in-the-high-carbon-sector.json
 ---

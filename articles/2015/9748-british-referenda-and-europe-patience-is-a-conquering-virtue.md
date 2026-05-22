@@ -1,12 +1,21 @@
 ---
 id: 9748
 title: "British Referenda and Europe: Patience Is a Conquering Virtue"
-award_year: 2015
+year: 2015
 published: 2015-05-12 17:21:03
 published_gmt: 2015-05-12 16:21:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/05/british-referenda-and-europe-patience-is-a-conquering-virtue/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8f051f643544bbda3dc0fbfc6370220b0ad4758852808f8269f29614db894027
 canonical: 9748-british-referenda-and-europe-patience-is-a-conquering-virtue.json
 ---

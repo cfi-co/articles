@@ -1,12 +1,21 @@
 ---
 id: 21819
 title: "Power Meets Pluck: Paranoid and Haunted, President Putin Sees Nazis Everywhere"
-award_year: 2022
+year: 2022
 published: 2022-05-11 14:05:23
 published_gmt: 2022-05-11 13:05:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/05/power-meets-pluck-paranoid-and-haunted-president-putin-sees-nazis-everywhere/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0fdeef0da0b82511b3f88993ff9a83b70d6a22c4e924fc8e355e947089ea67bf
 canonical: 21819-power-meets-pluck-paranoid-and-haunted-president-putin-sees-nazis-everywhere.json
 ---

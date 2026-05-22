@@ -1,12 +1,21 @@
 ---
 id: 23640
 title: "Abu Dhabi Global Market: MENA’s Leading, Digital-First International Financial Centre, A Catalyst for Economic Growth"
-award_year: 2022
+year: 2022
 published: 2022-10-06 11:26:49
 published_gmt: 2022-10-06 10:26:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2022/10/abu-dhabi-global-market-menas-leading-digital-first-international-financial-centre-a-catalyst-for-economic-growth/"
 categories: ["Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c33c5768c5faa3e31d442dcb93e44cfa5dbd3106892655fe7408e8c2686c792b
 canonical: 23640-abu-dhabi-global-market-menas-leading-digital-first-international-financial-cent.json
 ---

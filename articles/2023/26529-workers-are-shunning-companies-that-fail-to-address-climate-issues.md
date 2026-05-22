@@ -1,12 +1,21 @@
 ---
 id: 26529
 title: "Workers are Shunning Companies That Fail to Address Climate Issues"
-award_year: 2023
+year: 2023
 published: 2023-12-19 15:12:24
 published_gmt: 2023-12-19 15:12:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2023/12/workers-are-shunning-companies-that-fail-to-address-climate-issues/"
 categories: ["Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d610cca710b0f77fab39490e2a27d7f99f5a514d6a81277417a20099e501263
 canonical: 26529-workers-are-shunning-companies-that-fail-to-address-climate-issues.json
 ---

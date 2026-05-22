@@ -1,12 +1,21 @@
 ---
 id: 21409
 title: "Meet the Orange Capital Partners Team"
-award_year: 2021
+year: 2021
 published: 2021-12-24 09:47:07
 published_gmt: 2021-12-24 09:47:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/12/victor-van-bommel-orange-capital-partners/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a066ca29756b0f5b3ea38a6a3e85d73039d44f50a4179a980a31952cc27e5b3f
 canonical: 21409-victor-van-bommel-orange-capital-partners.json
 ---

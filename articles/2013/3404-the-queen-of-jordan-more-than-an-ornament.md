@@ -1,12 +1,21 @@
 ---
 id: 3404
 title: "The Queen of Jordan: More Than an Ornament"
-award_year: 2013
+year: 2013
 published: 2013-03-26 13:05:37
 published_gmt: 2013-03-26 13:05:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/03/the-queen-of-jordan-more-than-an-ornament/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b4fc631cdbee76ea6c5f9a4661183b8b2c3f4de2a49c365295e8e1b9709126f0
 canonical: 3404-the-queen-of-jordan-more-than-an-ornament.json
 ---

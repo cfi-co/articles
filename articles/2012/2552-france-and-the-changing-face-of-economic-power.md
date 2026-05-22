@@ -1,12 +1,21 @@
 ---
 id: 2552
 title: "France and the Changing Face of Economic Power"
-award_year: 2012
+year: 2012
 published: 2012-11-30 11:21:38
 published_gmt: 2012-11-30 11:21:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2012/11/france-and-the-changing-face-of-economic-power/"
 categories: ["Europe", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9987b39ea415fe3d5d05c38f0fdbcbd8cf7bc0f7fbc6f96df7d77fcadd5a41ca
 canonical: 2552-france-and-the-changing-face-of-economic-power.json
 ---

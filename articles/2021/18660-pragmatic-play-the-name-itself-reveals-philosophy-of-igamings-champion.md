@@ -1,12 +1,21 @@
 ---
 id: 18660
 title: "Pragmatic Play: The Name Itself Reveals Philosophy of iGaming’s Champion"
-award_year: 2021
+year: 2021
 published: 2021-02-04 18:41:17
 published_gmt: 2021-02-04 18:41:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/pragmatic-play-the-name-itself-reveals-philosophy-of-igamings-champion/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 001cf00add2ebdddd3f29318bdb540568e0daeac595a095c9328b5e24bae7425
 canonical: 18660-pragmatic-play-the-name-itself-reveals-philosophy-of-igamings-champion.json
 ---

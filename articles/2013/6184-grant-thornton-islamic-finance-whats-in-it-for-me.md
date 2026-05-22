@@ -1,12 +1,21 @@
 ---
 id: 6184
 title: "Grant Thornton: Islamic Finance - What’s In It For Me?"
-award_year: 2013
+year: 2013
 published: 2013-12-09 11:30:27
 published_gmt: 2013-12-09 11:30:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/12/grant-thornton-islamic-finance-whats-in-it-for-me/"
 categories: ["Banking", "Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6ebb5f4f0bcab69412a764fb7d868480ef9dffc900406579f58fda2381376c59
 canonical: 6184-grant-thornton-islamic-finance-whats-in-it-for-me.json
 ---

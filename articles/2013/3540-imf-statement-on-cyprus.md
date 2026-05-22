@@ -1,12 +1,21 @@
 ---
 id: 3540
 title: "IMF Statement on Cyprus"
-award_year: 2013
+year: 2013
 published: 2013-04-04 14:36:19
 published_gmt: 2013-04-04 14:36:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/04/imf-statement-on-cyprus/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 81574eb177ce370c928c103376a0153edd6cafb08806633ddf709b61c45ff67d
 canonical: 3540-imf-statement-on-cyprus.json
 ---

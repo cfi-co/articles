@@ -1,12 +1,21 @@
 ---
 id: 133
 title: "Where To Invest In 2012"
-award_year: 2011
+year: 2011
 published: 2011-12-02 13:55:50
 published_gmt: 2011-12-02 13:55:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2011/12/where-to-invest-in-2012/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 82a44f739107d5e22f739b922bef4c4cad4ed23d69b4872fd130b0e6f8c0f8e0
 canonical: 133-where-to-invest-in-2012.json
 ---

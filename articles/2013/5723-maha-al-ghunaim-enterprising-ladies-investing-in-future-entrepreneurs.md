@@ -1,12 +1,21 @@
 ---
 id: 5723
 title: "Maha Al-Ghunaim: Enterprising Ladies - Investing in Future Entrepreneurs"
-award_year: 2013
+year: 2013
 published: 2013-11-01 16:15:15
 published_gmt: 2013-11-01 16:15:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/11/maha-al-ghunaim-enterprising-ladies-investing-in-future-entrepreneurs/"
 categories: ["Banking", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 13990b94f474e711a33b6487d9ab1fe9f91877010486df65c51187276d08c23d
 canonical: 5723-maha-al-ghunaim-enterprising-ladies-investing-in-future-entrepreneurs.json
 ---

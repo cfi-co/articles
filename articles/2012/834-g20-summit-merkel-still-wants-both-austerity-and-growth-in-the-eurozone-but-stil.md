@@ -1,12 +1,21 @@
 ---
 id: 834
 title: "G20 Summit: Merkel still wants both Austerity and Growth in the Eurozone… but still no clue as to who will pick up the tab"
-award_year: 2012
+year: 2012
 published: 2012-06-21 12:50:30
 published_gmt: 2012-06-21 11:50:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/06/g20-summit-merkel-still-wants-both-austerity-and-growth-in-the-eurozone-but-still-no-clue-as-to-who-will-pick-up-the-tab/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b3b7887eb3f145270d40a8f5c7f024e11a864982a4c7e02286fffbb512b00ff2
 canonical: 834-g20-summit-merkel-still-wants-both-austerity-and-growth-in-the-eurozone-but-stil.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21638
 title: "Sanctions Against Russia Resemble a Boxing Match"
-award_year: 2022
+year: 2022
 published: 2022-03-15 08:12:17
 published_gmt: 2022-03-15 08:12:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/03/sanctions-against-russia-resemble-a-boxing-match/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 501d1d560c34d72f9b5b05229d9cf5632fa092e2fe22f7ee3fd0a44d89476256
 canonical: 21638-sanctions-against-russia-resemble-a-boxing-match.json
 ---

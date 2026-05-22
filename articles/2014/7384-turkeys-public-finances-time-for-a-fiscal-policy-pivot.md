@@ -1,12 +1,21 @@
 ---
 id: 7384
 title: "Turkey’s Public Finances: Time for a Fiscal Policy Pivot?"
-award_year: 2014
+year: 2014
 published: 2014-06-03 13:51:11
 published_gmt: 2014-06-03 12:51:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/06/turkeys-public-finances-time-for-a-fiscal-policy-pivot/"
 categories: ["Europe", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7ba88798e21191c43ac4c9b3cbf8b9542cb17d576fe290327b04f9990c670c10
 canonical: 7384-turkeys-public-finances-time-for-a-fiscal-policy-pivot.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27610
 title: "Mitigating AI Gender Bias Risks in the Workplace"
-award_year: 2025
+year: 2025
 published: 2025-03-06 10:30:48
 published_gmt: 2025-03-06 10:30:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2025/03/mitigating-ai-gender-bias-risks-in-the-workplace/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 05c8a2ec40f5d1f27e470d22f58466e40ff02a5ad628b755fa9020f7ab919ef8
 canonical: 27610-mitigating-ai-gender-bias-risks-in-the-workplace.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 17360
 title: "Atif Mian: Theory, Practice, and Macro-economic Reality in a World Longing for Rebound"
-award_year: 2020
+year: 2020
 published: 2020-10-21 16:06:35
 published_gmt: 2020-10-21 15:06:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2020/10/atif-mian-theory-practice-and-macro-economic-reality-in-a-world-longing-for-rebound/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d4d746eccf662bc18f5ca415edac1224624e140fffd649f456b09ee25437ae8e
 canonical: 17360-atif-mian-theory-practice-and-macro-economic-reality-in-a-world-longing-for-rebo.json
 ---

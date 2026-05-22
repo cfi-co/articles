@@ -1,12 +1,21 @@
 ---
 id: 3348
 title: "Ellen Johnson Sirleaf: A Role Model in Africa"
-award_year: 2013
+year: 2013
 published: 2013-03-19 16:00:20
 published_gmt: 2013-03-19 16:00:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/03/ellen-johnson-sirleaf-a-role-model-in-africa/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 72e22e65a8782392ae67e3ebf20990c7f1114664d6a169d330e995ec08e66fd1
 canonical: 3348-ellen-johnson-sirleaf-a-role-model-in-africa.json
 ---

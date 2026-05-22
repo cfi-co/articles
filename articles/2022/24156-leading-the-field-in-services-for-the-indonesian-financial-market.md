@@ -1,12 +1,21 @@
 ---
 id: 24156
 title: "Leading the Field in Services for the Indonesian Financial Market"
-award_year: 2022
+year: 2022
 published: 2022-12-15 05:26:24
 published_gmt: 2022-12-15 05:26:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/12/leading-the-field-in-services-for-the-indonesian-financial-market/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b6c066582f6f268ec3dba9d72e0112d0fa22d212716c65b437c4f908415cde24
 canonical: 24156-leading-the-field-in-services-for-the-indonesian-financial-market.json
 ---

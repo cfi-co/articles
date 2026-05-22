@@ -1,12 +1,21 @@
 ---
 id: 11528
 title: "Family Office Investing: CFI.co Panellist Speaking at Opal, London"
-award_year: 2020
+year: 2020
 published: 2020-01-01 17:40:48
 published_gmt: 2020-01-01 17:40:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/events/2020/01/family-office-investing-cfi-co-panellist-speaking-at-opal-london/"
 categories: ["Events"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5aef566e2aef73ce8258ebe08cd235548e536d4329ff81f0d9ccd442bc240949
 canonical: 11528-family-office-investing-cfi-co-panellist-speaking-at-opal-london.json
 ---

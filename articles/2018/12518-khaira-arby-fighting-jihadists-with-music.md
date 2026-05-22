@@ -1,12 +1,21 @@
 ---
 id: 12518
 title: "Khaira Arby: Fighting Jihadists with Music"
-award_year: 2018
+year: 2018
 published: 2018-05-12 12:57:28
 published_gmt: 2018-05-12 11:57:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/05/khaira-arby-fighting-jihadists-with-music/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3013f66be322fc02b5d09421fba2f94ac634f7a17fbb6abe3afccd1f663c9450
 canonical: 12518-khaira-arby-fighting-jihadists-with-music.json
 ---

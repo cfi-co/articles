@@ -1,12 +1,21 @@
 ---
 id: 2778
 title: "Europe Has Nothing to Fear but Fear Itself"
-award_year: 2012
+year: 2012
 published: 2012-12-18 09:27:11
 published_gmt: 2012-12-18 09:27:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/12/europe-has-nothing-to-fear-but-fear-itself/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f88f4836e3b775cd42cd268c3929c3a93b24843cc9d482d94c18a207825abea6
 canonical: 2778-europe-has-nothing-to-fear-but-fear-itself.json
 ---

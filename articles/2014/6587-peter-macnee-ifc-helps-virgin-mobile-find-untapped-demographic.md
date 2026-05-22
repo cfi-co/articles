@@ -1,12 +1,21 @@
 ---
 id: 6587
 title: "Peter Macnee: IFC Helps Virgin Mobile Find Untapped Demographic"
-award_year: 2014
+year: 2014
 published: 2014-02-10 14:44:12
 published_gmt: 2014-02-10 14:44:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/02/peter-macnee-ifc-helps-virgin-mobile-find-untapped-demographic/"
 categories: ["Finance", "Latin America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fa979ce6a1bf3567376241c3b7a3dceb7dff09b8ec687c796bdb686a8366e441
 canonical: 6587-peter-macnee-ifc-helps-virgin-mobile-find-untapped-demographic.json
 ---

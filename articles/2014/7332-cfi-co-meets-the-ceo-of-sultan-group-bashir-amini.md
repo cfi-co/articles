@@ -1,12 +1,21 @@
 ---
 id: 7332
 title: "CFI.co Meets the CEO of Sultan Group: Bashir Amini"
-award_year: 2014
+year: 2014
 published: 2014-03-01 19:06:03
 published_gmt: 2014-03-01 19:06:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/03/cfi-co-meets-the-ceo-of-sultan-group-bashir-amini/"
 categories: ["Corporate Leaders", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f3eeb15ae80e9c7231f3fc0a04f76243c9752d3b8081e1c6a2a760b763681260
 canonical: 7332-cfi-co-meets-the-ceo-of-sultan-group-bashir-amini.json
 ---

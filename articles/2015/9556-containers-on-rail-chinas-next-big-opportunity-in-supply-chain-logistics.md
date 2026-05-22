@@ -1,12 +1,21 @@
 ---
 id: 9556
 title: "Containers on Rail: China’s Next Big Opportunity in Supply-Chain Logistics"
-award_year: 2015
+year: 2015
 published: 2015-03-18 13:49:22
 published_gmt: 2015-03-18 13:49:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/03/containers-on-rail-chinas-next-big-opportunity-in-supply-chain-logistics/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7294b1a19d76985b52217688bbd7697e95f8d48e83d7bb64dfb63023671378ff
 canonical: 9556-containers-on-rail-chinas-next-big-opportunity-in-supply-chain-logistics.json
 ---

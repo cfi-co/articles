@@ -1,12 +1,21 @@
 ---
 id: 643
 title: "Brazil Has Reason to be Proud of First-Tier Banks"
-award_year: 2012
+year: 2012
 published: 2012-05-24 11:38:55
 published_gmt: 2012-05-24 10:38:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/05/brazil-has-reason-to-be-proud-of-first-tier-banks/"
 categories: ["Banking", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a6b23df06b660de1d3c616b4f92d4f24c007855892d3cebab19c2faaf14769b7
 canonical: 643-brazil-has-reason-to-be-proud-of-first-tier-banks.json
 ---

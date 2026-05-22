@@ -1,12 +1,21 @@
 ---
 id: 25206
 title: "This Star of the North African Banking Firmament Remains Relevant, and Ready to Adapt"
-award_year: 2023
+year: 2023
 published: 2023-04-24 16:59:03
 published_gmt: 2023-04-24 15:59:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2023/04/tunis-international-bank-celebrating-40-years-of-innovation-growth-and-success"
 categories: ["Africa", "Banking"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5e3305c0da08658635ed91005a9669e5000ca8228d39fcbb8f8f5da8e69c71d9
 canonical: 25206-tunis-international-bank.json
 ---

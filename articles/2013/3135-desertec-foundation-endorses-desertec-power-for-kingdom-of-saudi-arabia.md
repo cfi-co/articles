@@ -1,12 +1,21 @@
 ---
 id: 3135
 title: "DESERTEC Foundation Endorses DESERTEC Power for Kingdom of Saudi Arabia"
-award_year: 2013
+year: 2013
 published: 2013-02-22 14:34:14
 published_gmt: 2013-02-22 14:34:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/projects/2013/02/desertec-foundation-endorses-desertec-power-for-kingdom-of-saudi-arabia/"
 categories: ["Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 65135d9974e77794912a4d2f2b473172fb518c70eb17ebad311e8d69c4e12b1b
 canonical: 3135-desertec-foundation-endorses-desertec-power-for-kingdom-of-saudi-arabia.json
 ---

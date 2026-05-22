@@ -1,12 +1,21 @@
 ---
 id: 17559
 title: "Equiti: History of Firsts for Fintech Group with Inclusive Vision"
-award_year: 2020
+year: 2020
 published: 2020-10-23 15:02:15
 published_gmt: 2020-10-23 14:02:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/10/equiti-history-of-firsts-for-fintech-group-with-inclusive-vision/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7a98240ee21208f8685b8adbdb3f281bff66b1002ca80ee6bf9b934769a0e700
 canonical: 17559-equiti-history-of-firsts-for-fintech-group-with-inclusive-vision.json
 ---

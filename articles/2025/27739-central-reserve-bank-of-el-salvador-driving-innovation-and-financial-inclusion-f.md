@@ -1,12 +1,21 @@
 ---
 id: 27739
 title: "Central Reserve Bank of El Salvador: Driving Innovation and Financial Inclusion for National Development"
-award_year: 2025
+year: 2025
 published: 2025-05-27 15:39:26
 published_gmt: 2025-05-27 14:39:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2025/05/central-reserve-bank-of-el-salvador-driving-innovation-and-financial-inclusion-for-national-development/"
 categories: ["Banking", "Corporate", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d3895ad8b37ab0858799d42f6d8ed08ed363465b75d62bc83dec19acaf8fa3f
 canonical: 27739-central-reserve-bank-of-el-salvador-driving-innovation-and-financial-inclusion-f.json
 ---

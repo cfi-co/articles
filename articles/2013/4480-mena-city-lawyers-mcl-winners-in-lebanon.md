@@ -1,12 +1,21 @@
 ---
 id: 4480
 title: "MENA City Lawyers - MCL: Winners in Lebanon"
-award_year: 2013
+year: 2013
 published: 2013-05-13 09:00:18
 published_gmt: 2013-05-13 08:00:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/legal/2013/05/mena-city-lawyers-mcl-winners-in-lebanon/"
 categories: ["Legal", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2a60c91fcea568abb63f78d3f58b962367277fd5d835db5ba456e9623b60cc55
 canonical: 4480-mena-city-lawyers-mcl-winners-in-lebanon.json
 ---

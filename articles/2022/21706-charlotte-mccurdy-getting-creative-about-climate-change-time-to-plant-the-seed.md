@@ -1,12 +1,21 @@
 ---
 id: 21706
 title: "Charlotte McCurdy Getting Creative about Climate Change: Time to Plant the Seed"
-award_year: 2022
+year: 2022
 published: 2022-04-12 15:30:16
 published_gmt: 2022-04-12 14:30:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/heroes/2022/04/charlotte-mccurdy-getting-creative-about-climate-change-time-to-plant-the-seed/"
 categories: ["Heroes", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 81aee00971fdc471fdb263779517267631f7defb8665710dda86378950b357e4
 canonical: 21706-charlotte-mccurdy-getting-creative-about-climate-change-time-to-plant-the-seed.json
 ---

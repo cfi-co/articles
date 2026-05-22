@@ -1,12 +1,21 @@
 ---
 id: 11354
 title: "World Bank Group: Development Finance Frontline - Strategic Investment Funds"
-award_year: 2016
+year: 2016
 published: 2016-10-12 09:48:25
 published_gmt: 2016-10-12 08:48:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2016/10/world-bank-group-development-finance-frontline-strategic-investment-funds/"
 categories: ["Africa", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 94a4ae5b4b2ca8eb919b5ccc3acd3fe8a040423377064dde5bbc4f1e3188e115
 canonical: 11354-world-bank-group-development-finance-frontline-strategic-investment-funds.json
 ---

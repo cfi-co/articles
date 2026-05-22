@@ -1,12 +1,21 @@
 ---
 id: 18969
 title: "Free Trade in Retreat in Europe due to Environmental and Labour Standards"
-award_year: 2021
+year: 2021
 published: 2021-03-04 16:53:51
 published_gmt: 2021-03-04 16:53:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/03/free-trade-in-retreat-in-europe-due-to-environmental-and-labour-standards/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b9dfb711828f6a8ee36db6138a8a5674951baf339144083b5dcddaf67c827826
 canonical: 18969-free-trade-in-retreat-in-europe-due-to-environmental-and-labour-standards.json
 ---

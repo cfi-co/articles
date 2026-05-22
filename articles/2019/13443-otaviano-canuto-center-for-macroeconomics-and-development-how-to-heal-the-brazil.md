@@ -1,12 +1,21 @@
 ---
 id: 13443
 title: "Otaviano Canuto, Center for Macroeconomics and Development: How to Heal the Brazilian Economy"
-award_year: 2019
+year: 2019
 published: 2019-02-27 16:23:24
 published_gmt: 2019-02-27 16:23:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2019/02/otaviano-canuto-center-for-macroeconomics-and-development-how-to-heal-the-brazilian-economy/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 216322a6a34616c82410440ccb67c31afeed853cd5019a5c25c46aff1317a40e
 canonical: 13443-otaviano-canuto-center-for-macroeconomics-and-development-how-to-heal-the-brazil.json
 ---

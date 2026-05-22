@@ -1,12 +1,21 @@
 ---
 id: 16108
 title: "Dammam West Independent Sewage Treatment Plant: Another Step to Realising Ambitious Infrastructural Projects in the KSA"
-award_year: 2019
+year: 2019
 published: 2019-10-02 13:21:33
 published_gmt: 2019-10-02 12:21:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/10/dammam-west-independent-sewage-treatment-plant-another-step-to-realising-ambitious-infrastructural-projects-in-the-ksa/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5a4897214fec0102d5a6673aa45a37aa75462ea6c4b3d156aafcae937d218348
 canonical: 16108-dammam-west-independent-sewage-treatment-plant-another-step-to-realising-ambitio.json
 ---

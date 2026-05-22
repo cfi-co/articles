@@ -1,12 +1,21 @@
 ---
 id: 3772
 title: "Saudi Aramco PhD Student Wins MIT Research Award"
-award_year: 2013
+year: 2013
 published: 2013-04-30 11:09:37
 published_gmt: 2013-04-30 11:09:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2013/04/saudi-aramco-phd-student-wins-mit-research-award/"
 categories: ["North America", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5463c8438063939fb303bcb62abdf7827124d9da0b5f40b49cf5890249cd969a
 canonical: 3772-saudi-aramco-phd-student-wins-mit-research-award.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21981
 title: "KBC Asset Management with CEO Johan Lema: ‘Everyone Invested’ Strategy Has Taken Belgian Firm to Prominence"
-award_year: 2022
+year: 2022
 published: 2022-05-19 07:03:39
 published_gmt: 2022-05-19 06:03:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/kbc-asset-management-with-ceo-johan-lema-everyone-invested-strategy-has-taken-belgian-firm-to-prominence/"
 categories: ["Banking &amp; Finance", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ab9317d45fd1074664c6b669043a04afaf327ab0c80145e6f60c775fd2af2fe5
 canonical: 21981-kbc-asset-management-with-ceo-johan-lema-everyone-invested-strategy-has-taken-be.json
 ---

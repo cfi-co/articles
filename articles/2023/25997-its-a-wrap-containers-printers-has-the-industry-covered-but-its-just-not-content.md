@@ -1,12 +1,21 @@
 ---
 id: 25997
 title: "It’s a Wrap! Containers Printers has the Industry Covered — but it’s just not Content to Rest on its Laurels"
-award_year: 2023
+year: 2023
 published: 2023-09-05 09:20:24
 published_gmt: 2023-09-05 08:20:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/09/amy-chung-ceo-containers-printers/"
 categories: ["Asia Pacific", "Corporate", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c4cf6e8c308d8c24d4836341ca3b1de7b7f66579a6ffafd11891880ce64834ad
 canonical: 25997-its-a-wrap-containers-printers-has-the-industry-covered-but-its-just-not-content.json
 ---

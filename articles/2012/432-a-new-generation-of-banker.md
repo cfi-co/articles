@@ -1,12 +1,21 @@
 ---
 id: 432
 title: "A New Generation of Banker"
-award_year: 2012
+year: 2012
 published: 2012-02-06 13:10:48
 published_gmt: 2012-02-06 13:10:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/02/a-new-generation-of-banker/"
 categories: ["Banking", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7b2678374ab8ab079fea0511092e411a7b1f1fed24c2dae865f6bc2950eec391
 canonical: 432-a-new-generation-of-banker.json
 ---

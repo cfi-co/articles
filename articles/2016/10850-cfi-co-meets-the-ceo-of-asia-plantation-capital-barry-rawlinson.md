@@ -1,12 +1,21 @@
 ---
 id: 10850
 title: "CFI.co Meets the CEO of Asia Plantation Capital: Barry Rawlinson"
-award_year: 2016
+year: 2016
 published: 2016-01-21 16:01:32
 published_gmt: 2016-01-21 16:01:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-asia-plantation-capital-barry-rawlinson/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5f1e57248fc0fd18aeeb05f7112879379f4c417dd38d1d1e56cf8f250060179b
 canonical: 10850-cfi-co-meets-the-ceo-of-asia-plantation-capital-barry-rawlinson.json
 ---

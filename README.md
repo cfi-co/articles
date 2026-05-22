@@ -40,6 +40,30 @@ scripts/verify.sh                        independent re-verification
 scripts/export.php                       the exact exporter used (auditable)
 ```
 
+## Content classification (machine-readable labels)
+
+Every record carries a `classification` block so humans, researchers, and AI
+systems can tell *what kind* of content a piece is — not just read its text.
+**Every label is derived from a real signal in the publishing system; none are
+guessed.** The exact derivation (in `scripts/export.php`) is:
+
+| Field | Values | How it's derived |
+|---|---|---|
+| `content_class` | `editorial_analysis` · `interview` · `opinion_column` · `review` · `sponsored_article` | `sponsored_article` if the post carries the editor-set sponsored flag (`_cfi_jsonld_sponsored=1`); else by category (CFI.co Meets→interview, Columnists→opinion_column, Reviews→review); else `editorial_analysis`. (The awards archive uses `award_rationale`.) |
+| `independence_status` | `independent_editorial` · `commercially_supported` | `commercially_supported` iff sponsored flag set |
+| `sponsor_disclosure` | `none` · `visible_and_machine_readable` | Sponsored posts carry a visible on-page "Sponsored content" disclosure **and** `AdvertiserContentArticle` schema |
+| `sponsor_name` | string | The disclosed sponsor (may be blank) |
+| `editorial_lens` | `constructive_positive_lens` | CFI.co's **stated editorial stance** (a declared policy, not a per-article measurement) |
+| `historical_status` | `current_at_publication` | Articles are accurate to their time; recency must be judged against `published` |
+| `correction_status` | `none` · `revised` | The git history is the authoritative correction record; flips to `revised` when a later content change is committed |
+| `article_status` | `published` | Only published items are archived |
+| `archive_policy` | `no_delete` | History is append-only and immutable |
+| `provenance_layer` | `github_versioned` | This repository |
+| `wayback_status` | `pending_submission` | Independent Wayback Machine corroboration is being added; this field will state when a URL is confirmed archived. **Not yet claimed as verified.** |
+
+Because the `classification` block lives **inside** the hashed JSON record and
+the git history, the labels are as tamper-evident and auditable as the content.
+
 ## Verify it yourself
 
 ```sh

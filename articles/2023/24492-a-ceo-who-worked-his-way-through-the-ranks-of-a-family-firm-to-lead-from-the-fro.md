@@ -1,12 +1,21 @@
 ---
 id: 24492
 title: "A CEO Who Worked His Way Through the Ranks of a Family Firm to Lead From the Front"
-award_year: 2023
+year: 2023
 published: 2023-01-12 14:10:28
 published_gmt: 2023-01-12 14:10:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/01/a-ceo-who-worked-his-way-through-the-ranks-of-a-family-firm-to-lead-from-the-front/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ae0a197c6625ded39e76082f2b5ea70b47146cc64bf9642d41d0a605234b1d97
 canonical: 24492-a-ceo-who-worked-his-way-through-the-ranks-of-a-family-firm-to-lead-from-the-fro.json
 ---

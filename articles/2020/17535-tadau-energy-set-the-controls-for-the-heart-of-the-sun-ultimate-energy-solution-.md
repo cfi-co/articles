@@ -1,12 +1,21 @@
 ---
 id: 17535
 title: "Tadau Energy: Set the Controls for the Heart of the Sun - Ultimate Energy Solution is Finding Traction"
-award_year: 2020
+year: 2020
 published: 2020-01-01 13:17:51
 published_gmt: 2020-01-01 13:17:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/01/tadau-energy-set-the-controls-for-the-heart-of-the-sun-ultimate-energy-solution-is-finding-traction/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a67efa7ffa1ace03069c6793849540a31ea276a9b095a390c10f2735cbb6e5b3
 canonical: 17535-tadau-energy-set-the-controls-for-the-heart-of-the-sun-ultimate-energy-solution-.json
 ---

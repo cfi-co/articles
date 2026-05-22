@@ -1,12 +1,21 @@
 ---
 id: 7056
 title: "United Nations Office for Project Services (UNOPS): Infrastructure to Empower Women"
-award_year: 2014
+year: 2014
 published: 2014-04-25 10:13:02
 published_gmt: 2014-04-25 09:13:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/04/united-nations-office-for-project-services-unops-infrastructure-to-empower-women/"
 categories: ["Asia Pacific", "Latin America", "Middle East", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f113946ad1acddf9f032c722377e4d5582d772453395587f34901d119884ab12
 canonical: 7056-united-nations-office-for-project-services-unops-infrastructure-to-empower-women.json
 ---

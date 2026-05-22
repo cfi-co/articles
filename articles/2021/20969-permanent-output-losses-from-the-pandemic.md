@@ -1,12 +1,21 @@
 ---
 id: 20969
 title: "Permanent Output Losses from the Pandemic"
-award_year: 2021
+year: 2021
 published: 2021-11-05 11:33:36
 published_gmt: 2021-11-05 11:33:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/11/permanent-output-losses-from-the-pandemic/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7b481c990e47e9243ad3566510de2aee134bb0eaa66f0a661014ebc52aa7bff9
 canonical: 20969-permanent-output-losses-from-the-pandemic.json
 ---

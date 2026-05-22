@@ -1,12 +1,21 @@
 ---
 id: 7011
 title: "Grant Thornton UAE: A Defining Period for UAE Capital Markets"
-award_year: 2014
+year: 2014
 published: 2014-04-22 12:55:55
 published_gmt: 2014-04-22 11:55:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/04/grant-thornton-uae-a-defining-period-for-uae-capital-markets/"
 categories: ["Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d159be0d98be63ab945e7be383d3029fc2934e6b65e38ccca7fd5cc1ab36df09
 canonical: 7011-grant-thornton-uae-a-defining-period-for-uae-capital-markets.json
 ---

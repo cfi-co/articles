@@ -1,12 +1,21 @@
 ---
 id: 27227
 title: "EY: Argentina Publishes Decree Implementing Incentive Regime for Large Investments (RIGI)"
-award_year: 2024
+year: 2024
 published: 2024-10-25 16:18:24
 published_gmt: 2024-10-25 15:18:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2024/10/ey-argentina-publishes-decree-implementing-incentive-regime-for-large-investments-rigi/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 224085befd7362fe48691f0c513f88d57557b767389c09988c8959c5dda01ec7
 canonical: 27227-ey-argentina-publishes-decree-implementing-incentive-regime-for-large-investment.json
 ---

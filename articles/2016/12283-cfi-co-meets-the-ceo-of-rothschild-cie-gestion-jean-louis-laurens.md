@@ -1,12 +1,21 @@
 ---
 id: 12283
 title: "CFI.co Meets the CEO of Rothschild & Cie Gestion: Jean-Louis Laurens"
-award_year: 2016
+year: 2016
 published: 2016-03-09 10:17:45
 published_gmt: 2016-03-09 10:17:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/03/cfi-co-meets-the-ceo-of-rothschild-cie-gestion-jean-louis-laurens/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b5589573d66af74e9a5e86a841d10ccaf4993eb3af2ad37b37a261c53eda49cb
 canonical: 12283-cfi-co-meets-the-ceo-of-rothschild-cie-gestion-jean-louis-laurens.json
 ---

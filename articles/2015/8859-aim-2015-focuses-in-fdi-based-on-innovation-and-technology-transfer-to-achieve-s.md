@@ -1,12 +1,21 @@
 ---
 id: 8859
 title: "AIM 2015 Focuses in FDI Based on Innovation and Technology Transfer to Achieve Sustainable Development"
-award_year: 2015
+year: 2015
 published: 2015-02-03 13:41:23
 published_gmt: 2015-02-03 13:41:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/02/aim-2015-focuses-in-fdi-based-on-innovation-and-technology-transfer-to-achieve-sustainable-development/"
 categories: ["Events", "Finance", "Middle East", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c7add442c94b8da256ffc67a87fba8c5119c32af43a3b3bacbbfa51f648700f8
 canonical: 8859-aim-2015-focuses-in-fdi-based-on-innovation-and-technology-transfer-to-achieve-s.json
 ---

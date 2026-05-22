@@ -1,12 +1,21 @@
 ---
 id: 26414
 title: "Scottish Institution Leads with Gusto, by Example"
-award_year: 2023
+year: 2023
 published: 2023-11-15 15:36:08
 published_gmt: 2023-11-15 15:36:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/11/scottish-friendly-leads-with-gusto-by-example/"
 categories: ["Corporate", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f765bcec1cf2c2893443076d185d1726009ed6c4a7a8ea1c439496e2a67addd5
 canonical: 26414-scottish-institution-leads-with-gusto-by-example.json
 ---

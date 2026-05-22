@@ -1,12 +1,21 @@
 ---
 id: 3647
 title: "Dairy Price Surge Hits UN Food Price Index"
-award_year: 2013
+year: 2013
 published: 2013-04-12 08:49:45
 published_gmt: 2013-04-12 08:49:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/04/dairy-price-surge-hits-un-food-price-index/"
 categories: ["Asia Pacific", "Europe", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a476c92bff821ba0e2d2fe0256e1ae80caa13876762473703addb42c4a3a601e
 canonical: 3647-dairy-price-surge-hits-un-food-price-index.json
 ---

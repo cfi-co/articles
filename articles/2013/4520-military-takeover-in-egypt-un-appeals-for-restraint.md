@@ -1,12 +1,21 @@
 ---
 id: 4520
 title: "Military Takeover in Egypt: UN Appeals for Restraint"
-award_year: 2013
+year: 2013
 published: 2013-07-04 10:31:15
 published_gmt: 2013-07-04 09:31:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/07/military-takeover-in-egypt-un-appeals-for-restraint/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d11d6144a3c630415b159795da352330111c69a8857c0d6a46ec56d056f8c97
 canonical: 4520-military-takeover-in-egypt-un-appeals-for-restraint.json
 ---

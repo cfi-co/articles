@@ -1,12 +1,21 @@
 ---
 id: 11244
 title: "UK Independence Day"
-award_year: 2016
+year: 2016
 published: 2016-06-24 15:34:40
 published_gmt: 2016-06-24 14:34:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2016/06/uk-independence-day/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b2b3d18b8af80e882a776163cae8c8a4f75367fe1f5fb06b5ebcac345a1cbfcf
 canonical: 11244-uk-independence-day.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 25432
 title: "OECD: Sustainable Development and Climate Change Require More than Just Money"
-award_year: 2023
+year: 2023
 published: 2023-05-16 10:27:24
 published_gmt: 2023-05-16 09:27:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2023/05/oecd-sustainable-development-and-climate-change-require-more-than-just-money/"
 categories: ["Multilaterals", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fc71a19e09609ea5a97a97298331c3d07fb3d41b992a462b1146848034407419
 canonical: 25432-oecd-sustainable-development-and-climate-change-require-more-than-just-money.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 22482
 title: "Mining Disaster that Played Out Above Ground — and Brought Down ‘King Midas’"
-award_year: 2022
+year: 2022
 published: 2022-07-27 15:53:31
 published_gmt: 2022-07-27 14:53:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2022/07/eike-batista-brought-down-by-mining-disaster-above-ground/"
 categories: ["Corporate", "Latin America", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 106a7b4e191a78686ad0b043ca3c4160ab895f249e797ded1ee03ba76cb7e463
 canonical: 22482-eike-batista-brought-down-by-mining-disaster-above-ground.json
 ---

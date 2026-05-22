@@ -1,12 +1,21 @@
 ---
 id: 11433
 title: "Grant Thornton: Mobility - A Double Edged Sword?"
-award_year: 2016
+year: 2016
 published: 2016-12-19 15:53:27
 published_gmt: 2016-12-19 15:53:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2016/12/grant-thornton-mobility-a-double-edged-sword/"
 categories: ["Asia Pacific", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6dc7bc1f0269a59baf9739ecf5bb39f49c70b02a8db106e173c2c7e2896c8e59
 canonical: 11433-grant-thornton-mobility-a-double-edged-sword.json
 ---

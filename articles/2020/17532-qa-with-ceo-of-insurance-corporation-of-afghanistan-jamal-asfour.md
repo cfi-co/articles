@@ -1,12 +1,21 @@
 ---
 id: 17532
 title: "Q&A with CEO of Insurance Corporation of Afghanistan: Jamal Asfour"
-award_year: 2020
+year: 2020
 published: 2020-01-01 13:15:32
 published_gmt: 2020-01-01 13:15:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/01/qa-with-ceo-of-insurance-corporation-of-afghanistan-jamal-asfour/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c21b4d1d4f8b81b9157fac9daed56b0329328d94043484ebbaa8ab2cc244a9ce
 canonical: 17532-qa-with-ceo-of-insurance-corporation-of-afghanistan-jamal-asfour.json
 ---

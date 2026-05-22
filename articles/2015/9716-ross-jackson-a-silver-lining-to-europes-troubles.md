@@ -1,12 +1,21 @@
 ---
 id: 9716
 title: "Ross Jackson: A Silver Lining to Europe’s Troubles"
-award_year: 2015
+year: 2015
 published: 2015-05-05 16:28:43
 published_gmt: 2015-05-05 15:28:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/05/ross-jackson-a-silver-lining-to-europes-troubles/"
 categories: ["Europe", "Finance", "Greece &amp; The Euro"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4b5b418702fe99a72adc71e02cf192d6182a1b4a475bf786507471640565910a
 canonical: 9716-ross-jackson-a-silver-lining-to-europes-troubles.json
 ---

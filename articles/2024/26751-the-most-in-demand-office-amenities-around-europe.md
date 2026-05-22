@@ -1,12 +1,21 @@
 ---
 id: 26751
 title: "The Most In-Demand Office Amenities Around Europe"
-award_year: 2024
+year: 2024
 published: 2024-04-04 08:24:49
 published_gmt: 2024-04-04 07:24:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/04/the-most-in-demand-office-amenities-around-europe/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6e7787dcb76b1e4aba62232dea7c14c1c3056f293d2355cb7c540275dce29b34
 canonical: 26751-the-most-in-demand-office-amenities-around-europe.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21530
 title: "AUM Asset Management Ltd.: ESG Investing from the Bottom Up & Top Down - Setting a New Standard"
-award_year: 2022
+year: 2022
 published: 2022-02-08 07:50:37
 published_gmt: 2022-02-08 07:50:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/02/aum-asset-management-ltd-esg-investing-from-the-bottom-up-top-down-setting-a-new-standard/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d8405d921b589c8b3b814140d3aca90908074c33061dbddad1fb87e1c56298e6
 canonical: 21530-aum-asset-management-ltd-esg-investing-from-the-bottom-up-top-down-setting-a-new.json
 ---

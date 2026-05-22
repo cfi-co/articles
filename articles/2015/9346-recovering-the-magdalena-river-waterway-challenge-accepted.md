@@ -1,12 +1,21 @@
 ---
 id: 9346
 title: "Recovering the Magdalena River Waterway: Challenge Accepted"
-award_year: 2015
+year: 2015
 published: 2015-03-01 12:50:34
 published_gmt: 2015-03-01 12:50:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2015/03/recovering-the-magdalena-river-waterway-challenge-accepted/"
 categories: ["Latin America", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c50463b1e62de1f3adf46d363c0735e66b4ff839dc4417c3ce34d1c2a4b38089
 canonical: 9346-recovering-the-magdalena-river-waterway-challenge-accepted.json
 ---

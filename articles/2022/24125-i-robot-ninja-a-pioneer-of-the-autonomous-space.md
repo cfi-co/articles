@@ -1,12 +1,21 @@
 ---
 id: 24125
 title: "I, Robot (Ninja): A Pioneer of the Autonomous Space"
-award_year: 2022
+year: 2022
 published: 2022-12-06 17:17:24
 published_gmt: 2022-12-06 17:17:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2022/12/i-robot-ninja-a-pioneer-of-the-autonomous-space/"
 categories: ["Brave New World", "Innovation &amp; Technology", "North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9600f607e6aea29ba7277b6d183cd438c33e7f8741b5eeccc8e2ccdf019c863a
 canonical: 24125-i-robot-ninja-a-pioneer-of-the-autonomous-space.json
 ---

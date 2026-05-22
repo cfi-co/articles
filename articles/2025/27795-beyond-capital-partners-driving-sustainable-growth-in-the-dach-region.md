@@ -1,12 +1,21 @@
 ---
 id: 27795
 title: "Beyond Capital Partners: Driving Sustainable Growth in the DACH Region"
-award_year: 2025
+year: 2025
 published: 2025-07-09 14:20:21
 published_gmt: 2025-07-09 13:20:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/07/beyond-capital-partners-driving-sustainable-growth-in-the-dach-region/"
 categories: ["Corporate", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 56757e14433209573061bba205442f1ef809001d404115905b97af8ba4d1993a
 canonical: 27795-beyond-capital-partners-driving-sustainable-growth-in-the-dach-region.json
 ---

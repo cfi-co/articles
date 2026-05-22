@@ -1,12 +1,21 @@
 ---
 id: 9501
 title: "Taxing Mobility: A Liberal Icon Gone Awry"
-award_year: 2015
+year: 2015
 published: 2015-03-06 13:57:41
 published_gmt: 2015-03-06 13:57:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/03/taxing-mobility-a-liberal-icon-gone-awry/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8442df5324bbd3decdd2883624ca0c632618bfec447d3cace4007d57625fc83e
 canonical: 9501-taxing-mobility-a-liberal-icon-gone-awry.json
 ---

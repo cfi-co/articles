@@ -1,12 +1,21 @@
 ---
 id: 5376
 title: "IPPC Report on Global Warming: Formidable Effort in Juggling with Fuzzy Numbers"
-award_year: 2013
+year: 2013
 published: 2013-09-30 10:11:15
 published_gmt: 2013-09-30 09:11:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/09/ippc-report-on-global-warming-formidable-effort-in-juggling-with-fuzzy-numbers/"
 categories: ["Africa", "Asia Pacific", "Europe", "Latin America", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3fc7efb5b1c0c0a570865107e3c31db62878134fe2e9d2a2e4c9b3979c18d1f4
 canonical: 5376-ippc-report-on-global-warming-formidable-effort-in-juggling-with-fuzzy-numbers.json
 ---

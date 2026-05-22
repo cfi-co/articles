@@ -1,12 +1,21 @@
 ---
 id: 14550
 title: "Lord Waverley: Drone Industry Needs a Coherent Voice — and Some Interest From Investors"
-award_year: 2019
+year: 2019
 published: 2019-10-20 13:13:15
 published_gmt: 2019-10-20 12:13:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2019/10/lord-waverley-drone-industry-needs-a-coherent-voice-and-some-interest-from-investors/"
 categories: ["Europe", "Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6c299814d2014c30492b6988d94f202b0ac696b67ee82a61da4cd53ce0692e7f
 canonical: 14550-lord-waverley-drone-industry-needs-a-coherent-voice-and-some-interest-from-inves.json
 ---

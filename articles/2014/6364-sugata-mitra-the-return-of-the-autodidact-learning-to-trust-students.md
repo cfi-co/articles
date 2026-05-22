@@ -1,12 +1,21 @@
 ---
 id: 6364
 title: "Sugata Mitra: The Return of the Autodidact - Learning to Trust Students"
-award_year: 2014
+year: 2014
 published: 2014-01-14 17:09:01
 published_gmt: 2014-01-14 17:09:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/01/sugata-mitra-the-return-of-the-autodidact-learning-to-trust-students/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1d9c81b5880dd7cd38c6fd752268d8acb36e842d89095e5246ddf7df67011c5a
 canonical: 6364-sugata-mitra-the-return-of-the-autodidact-learning-to-trust-students.json
 ---

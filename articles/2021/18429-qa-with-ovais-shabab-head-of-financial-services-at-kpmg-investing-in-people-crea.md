@@ -1,12 +1,21 @@
 ---
 id: 18429
 title: "Q&A with Ovais Shabab, Head of Financial Services at KPMG: Investing in People, Creating Jobs, Inventing Strategies — it’s a World of Possibilities for KPMG Network"
-award_year: 2021
+year: 2021
 published: 2021-01-13 13:08:26
 published_gmt: 2021-01-13 13:08:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2021/01/qa-with-ovais-shabab-head-of-financial-services-at-kpmg-investing-in-people-creating-jobs-inventing-strategies-its-a-world-of-possibilities-for-kpmg-network/"
 categories: ["Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a6204c34fb020d385190b6afe9c95199c623ab9ec227b5fac02a70c083898b3e
 canonical: 18429-qa-with-ovais-shabab-head-of-financial-services-at-kpmg-investing-in-people-crea.json
 ---

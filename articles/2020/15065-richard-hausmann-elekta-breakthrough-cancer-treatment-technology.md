@@ -1,12 +1,21 @@
 ---
 id: 15065
 title: "Breakthrough Cancer Treatment Technology Established on All Continents"
-award_year: 2020
+year: 2020
 published: 2020-04-28 14:33:03
 published_gmt: 2020-04-28 13:33:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/04/richard-hausmann-elekta-breakthrough-cancer-treatment-technology/"
 categories: ["CFI.co Meets", "Corporate Leaders"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ef0b70350b8ef29933884aa6bad7c165fa99d061fe488e0ad0de8de65a96c825
 canonical: 15065-richard-hausmann-elekta-breakthrough-cancer-treatment-technology.json
 ---

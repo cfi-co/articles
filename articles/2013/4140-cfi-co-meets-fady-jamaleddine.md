@@ -1,12 +1,21 @@
 ---
 id: 4140
 title: "CFI.co Meets Fady Jamaleddine"
-award_year: 2013
+year: 2013
 published: 2013-05-09 13:02:29
 published_gmt: 2013-05-09 13:02:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/05/cfi-co-meets-fady-jamaleddine/"
 categories: ["Corporate Leaders", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ea06424ca44279f973e73ba623d4219971a2458073f07310c93e2e88d85acef8
 canonical: 4140-cfi-co-meets-fady-jamaleddine.json
 ---

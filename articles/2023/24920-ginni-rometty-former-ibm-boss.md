@@ -1,12 +1,21 @@
 ---
 id: 24920
 title: "Ginni Rometty, former IBM boss"
-award_year: 2023
+year: 2023
 published: 2023-03-21 08:56:14
 published_gmt: 2023-03-21 08:56:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/03/ginni-rometty-former-ibm-boss/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: db9bdb69f57782416bb32b3d49423245e40fe2792812490fadb07e0e6138a5c9
 canonical: 24920-ginni-rometty-former-ibm-boss.json
 ---

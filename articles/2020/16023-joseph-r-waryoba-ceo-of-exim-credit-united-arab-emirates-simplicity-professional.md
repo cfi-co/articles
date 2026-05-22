@@ -1,12 +1,21 @@
 ---
 id: 16023
 title: "Joseph R Waryoba, CEO of Exim Credit United Arab Emirates - Simplicity, Professionalism and Passion Make a Trinity for Trust — and Trade"
-award_year: 2020
+year: 2020
 published: 2020-05-01 17:00:54
 published_gmt: 2020-05-01 16:00:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/05/joseph-r-waryoba-ceo-of-exim-credit-united-arab-emirates-simplicity-professionalism-and-passion-make-a-trinity-for-trust-and-trade/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c68500d864f4dcf745bff9783608c7a265eac4d8d21921b8ea2a9e10f06d65e8
 canonical: 16023-joseph-r-waryoba-ceo-of-exim-credit-united-arab-emirates-simplicity-professional.json
 ---

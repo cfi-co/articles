@@ -1,12 +1,21 @@
 ---
 id: 13371
 title: "Mobile Phone Purchase that Turned Trading Downside Up"
-award_year: 2019
+year: 2019
 published: 2019-01-21 15:12:58
 published_gmt: 2019-01-21 15:12:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/01/mobile-phone-purchase-that-turned-trading-downside-up/"
 categories: ["CFI.co Meets", "Corporate Leaders"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3cfc32ec84b0c7db92e922406e1f472da9f1191c52c371b545e29d14d2f0905f
 canonical: 13371-mobile-phone-purchase-that-turned-trading-downside-up.json
 ---

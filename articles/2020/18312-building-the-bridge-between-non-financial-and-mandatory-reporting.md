@@ -1,12 +1,21 @@
 ---
 id: 18312
 title: "Building the Bridge Between Non-financial and Mandatory Reporting"
-award_year: 2020
+year: 2020
 published: 2020-12-15 14:51:52
 published_gmt: 2020-12-15 14:51:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/12/building-the-bridge-between-non-financial-and-mandatory-reporting/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7cf025b58e80272475de5f1f77702a322618d16400873b904c36a82a581e5fda
 canonical: 18312-building-the-bridge-between-non-financial-and-mandatory-reporting.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21488
 title: "IFC: After Glasgow, Four Steps to Keep Us On Track"
-award_year: 2022
+year: 2022
 published: 2022-01-26 09:39:30
 published_gmt: 2022-01-26 09:39:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2022/01/ifc-after-glasgow-four-steps-to-keep-us-on-track/"
 categories: ["Europe", "Multilaterals", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 74a9bbb9fa48096e1800e91a3f04a6333a49d18013139d82212ba63f046b6af4
 canonical: 21488-ifc-after-glasgow-four-steps-to-keep-us-on-track.json
 ---

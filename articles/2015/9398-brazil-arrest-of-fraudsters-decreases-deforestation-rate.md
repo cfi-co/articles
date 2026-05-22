@@ -1,12 +1,21 @@
 ---
 id: 9398
 title: "Brazil: Arrest of Fraudsters Decreases Deforestation Rate"
-award_year: 2015
+year: 2015
 published: 2015-03-02 11:53:56
 published_gmt: 2015-03-02 11:53:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2015/03/brazil-arrest-of-fraudsters-decreases-deforestation-rate/"
 categories: ["Latin America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ab4c7fbc3316caad3f88cd34f8bd412d245677e28a1187ef8bbdb59b7e3b6784
 canonical: 9398-brazil-arrest-of-fraudsters-decreases-deforestation-rate.json
 ---

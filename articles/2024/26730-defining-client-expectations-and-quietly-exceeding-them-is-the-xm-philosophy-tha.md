@@ -1,12 +1,21 @@
 ---
 id: 26730
 title: "Defining Client Expectations — and  Quietly Exceeding Them — is the XM Philosophy That’s Proving a Winner"
-award_year: 2024
+year: 2024
 published: 2024-03-18 14:16:52
 published_gmt: 2024-03-18 14:16:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2024/03/defining-client-expectations-and-quietly-exceeding-them-is-the-xm-philosophy-thats-proving-a-winner/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 63e9c7e5c7601150cbbebd3a7b1b174341bc85aaf3a2a5045f81a719b157301d
 canonical: 26730-defining-client-expectations-and-quietly-exceeding-them-is-the-xm-philosophy-tha.json
 ---

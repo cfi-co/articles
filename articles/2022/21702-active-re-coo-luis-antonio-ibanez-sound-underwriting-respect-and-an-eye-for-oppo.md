@@ -1,12 +1,21 @@
 ---
 id: 21702
 title: "Active Re COO Luis Antonio Ibáñez: Sound Underwriting, Respect, and an Eye for Opportunity…"
-award_year: 2022
+year: 2022
 published: 2022-04-12 11:13:48
 published_gmt: 2022-04-12 10:13:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/04/active-re-coo-luis-antonio-ibanez-sound-underwriting-respect-and-an-eye-for-opportunity/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2ef879a047bcf22b489497b08cfd2661c6b227a92fe6b8ea3a54b3e16758d7fd
 canonical: 21702-active-re-coo-luis-antonio-ibanez-sound-underwriting-respect-and-an-eye-for-oppo.json
 ---

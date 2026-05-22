@@ -1,12 +1,21 @@
 ---
 id: 14425
 title: "Ian Fletcher, IBM: The Moral, Ethical & Societal Implications in a Smart-Human World"
-award_year: 2019
+year: 2019
 published: 2019-04-18 14:41:56
 published_gmt: 2019-04-18 13:41:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2019/04/ian-fletcher-ibm-the-moral-ethical-societal-implications-in-a-smart-human-world/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 648c4b9e8b4ca4c807a723c39ddef09c4929bb6ae54bef2224afe0fc37964d8f
 canonical: 14425-ian-fletcher-ibm-the-moral-ethical-societal-implications-in-a-smart-human-world.json
 ---

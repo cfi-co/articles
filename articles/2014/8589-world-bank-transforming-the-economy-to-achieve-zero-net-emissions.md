@@ -1,12 +1,21 @@
 ---
 id: 8589
 title: "World Bank: Transforming the Economy to Achieve Zero Net Emissions"
-award_year: 2014
+year: 2014
 published: 2014-12-23 09:00:28
 published_gmt: 2014-12-23 09:00:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/12/world-bank-transforming-the-economy-to-achieve-zero-net-emissions/"
 categories: ["Finance", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 36d8163aeeba93aba096c1e9297a1704f44dda462b4c18711b0ea13a2a4e3640
 canonical: 8589-world-bank-transforming-the-economy-to-achieve-zero-net-emissions.json
 ---

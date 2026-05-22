@@ -1,12 +1,21 @@
 ---
 id: 9427
 title: "<br><br>UBS: Best Green Bank Switzerland"
-award_year: 2015
+year: 2015
 published: 2015-02-27 15:00:09
 published_gmt: 2015-02-27 15:00:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 44b56eefb26062c8e575fc4cc6e2bc4ecffdd104f5a0a4b36bd3060ba0ac03d7
 canonical: 9427-ubs-best-green-bank-switzerland.json
 ---

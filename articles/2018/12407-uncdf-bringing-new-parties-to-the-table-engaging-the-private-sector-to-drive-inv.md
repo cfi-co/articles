@@ -1,12 +1,21 @@
 ---
 id: 12407
 title: "UNCDF: Bringing New Parties to the Table - Engaging the Private Sector to Drive Investment into Least Developed Countries"
-award_year: 2018
+year: 2018
 published: 2018-03-23 09:07:55
 published_gmt: 2018-03-23 09:07:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2018/03/uncdf-bringing-new-parties-to-the-table-engaging-the-private-sector-to-drive-investment-into-least-developed-countries/"
 categories: ["Asia Pacific", "Finance", "Multilaterals", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bb808103879e9d14ee2ee2957ebb6879b2c175b837ea83c3383f8fd0221e92eb
 canonical: 12407-uncdf-bringing-new-parties-to-the-table-engaging-the-private-sector-to-drive-inv.json
 ---

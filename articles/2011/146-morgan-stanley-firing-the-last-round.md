@@ -1,12 +1,21 @@
 ---
 id: 146
 title: "Morgan Stanley: Firing the Last Round"
-award_year: 2011
+year: 2011
 published: 2011-12-06 14:04:01
 published_gmt: 2011-12-06 14:04:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2011/12/morgan-stanley-firing-the-last-round/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1dab89e4699f74409122281eb2d85046a7d7fee29c91f3762d5bfffdd0aa62f1
 canonical: 146-morgan-stanley-firing-the-last-round.json
 ---

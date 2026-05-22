@@ -1,12 +1,21 @@
 ---
 id: 21268
 title: "Ginger Krieg Dosier: Biotech Innovation Traces Path from Marine Structures to Carbon-Neutral Concrete"
-award_year: 2021
+year: 2021
 published: 2021-12-07 06:25:27
 published_gmt: 2021-12-07 06:25:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/heroes/2021/12/ginger-krieg-dosier-biotech-innovation-traces-path-from-marine-structures-to-carbon-neutral-concrete/"
 categories: ["Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ea1b452a811c9c8ea21005b164c0d68aabf3abfa7429cbf617b9577645789f56
 canonical: 21268-ginger-krieg-dosier-biotech-innovation-traces-path-from-marine-structures-to-car.json
 ---

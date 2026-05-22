@@ -1,12 +1,21 @@
 ---
 id: 17494
 title: "Unity: Central American Insurance Giant Counts Its People as Assets"
-award_year: 2020
+year: 2020
 published: 2020-01-23 12:51:51
 published_gmt: 2020-01-23 12:51:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/01/unity-central-american-insurance-giant-counts-its-people-as-assets/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4757e5a3abc19fd42ae05fb8fc0dbd12aaabf943c8e9e22f14eab983aa12a3ed
 canonical: 17494-unity-central-american-insurance-giant-counts-its-people-as-assets.json
 ---

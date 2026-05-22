@@ -1,12 +1,21 @@
 ---
 id: 24288
 title: "Spotlight on Architas CEO Matthieu André"
-award_year: 2023
+year: 2023
 published: 2023-01-04 12:27:46
 published_gmt: 2023-01-04 12:27:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/01/spotlight-on-architas-ceo-matthieu-andre/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ac616d662039520d0aa446b271141f0f5bc8bd8c03f89c308dcbd4ff6f697494
 canonical: 24288-spotlight-on-architas-ceo-matthieu-andre.json
 ---

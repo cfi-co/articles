@@ -1,12 +1,21 @@
 ---
 id: 14705
 title: "Business in Times of Corona: Wise Words from Omaha"
-award_year: 2020
+year: 2020
 published: 2020-03-25 14:53:17
 published_gmt: 2020-03-25 14:53:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/03/business-in-times-of-corona-wise-words-from-omaha/"
 categories: ["North America", "Sustainability", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 67891c90da98d82616ff48e8fc50673088516ce7adf52f3f68a98254abd6ff13
 canonical: 14705-business-in-times-of-corona-wise-words-from-omaha.json
 ---

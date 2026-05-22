@@ -1,12 +1,21 @@
 ---
 id: 10685
 title: "CFI.co Picked as Knowledge Partner for AIM 2016 for the Second Time"
-award_year: 2015
+year: 2015
 published: 2015-11-30 15:52:21
 published_gmt: 2015-11-30 15:52:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/11/cfi-co-picked-as-knowledge-partner-for-aim-2016-for-the-second-time/"
 categories: ["Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a137ef6301a70177429345ec847b4bb54dfb9d35c6e9ffbd0dbf45a42f7fe985
 canonical: 10685-cfi-co-picked-as-knowledge-partner-for-aim-2016-for-the-second-time.json
 ---

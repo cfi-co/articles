@@ -1,12 +1,21 @@
 ---
 id: 28066
 title: "Deem Finance: Driving Financial Inclusion and Digital Transformation in the UAE"
-award_year: 2025
+year: 2025
 published: 2025-11-10 14:05:51
 published_gmt: 2025-11-10 14:05:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/11/deem-finance-driving-financial-inclusion-and-digital-transformation-in-the-uae/"
 categories: ["Corporate", "Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2c7b9e5edf4c69233556801016b7ecc5489eb51423da54851942e83ba173a785
 canonical: 28066-deem-finance-driving-financial-inclusion-and-digital-transformation-in-the-uae.json
 ---

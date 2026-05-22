@@ -1,12 +1,21 @@
 ---
 id: 20357
 title: "Cartica’s Triple Threat: Three Women Leading the Way on Emerging Markets and ESG"
-award_year: 2021
+year: 2021
 published: 2021-10-05 10:50:09
 published_gmt: 2021-10-05 09:50:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2021/10/carticas-triple-threat-three-women-leading-the-way-on-emerging-markets-and-esg/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3f3d7382ecce565d07b657106ddfc5af7839eae828f934befd2e2c1a90545a05
 canonical: 20357-carticas-triple-threat-three-women-leading-the-way-on-emerging-markets-and-esg.json
 ---

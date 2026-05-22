@@ -1,12 +1,21 @@
 ---
 id: 26498
 title: "UAE’s COP28 Gathering Scores Some Initial Successes"
-award_year: 2023
+year: 2023
 published: 2023-12-05 13:10:03
 published_gmt: 2023-12-05 13:10:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2023/12/uaes-cop28-gathering-scores-some-initial-successes/"
 categories: ["Middle East", "Start-Ups", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5b6410e46c8307b9db5c7782809d9c0c3a4c85dfeafa0e26e185d288a7783469
 canonical: 26498-uaes-cop28-gathering-scores-some-initial-successes.json
 ---

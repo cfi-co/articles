@@ -1,12 +1,21 @@
 ---
 id: 27590
 title: "Buffett’s Annual Letter 2024: Berkshire Hathaway’s Record Cash Pile, Japan Bets, and Tax Message"
-award_year: 2025
+year: 2025
 published: 2025-02-24 11:50:14
 published_gmt: 2025-02-24 11:50:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/02/buffetts-annual-letter-2024-berkshire-hathaways-record-cash-pile-japan-bets-and-tax-message/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a9bc4aaa3b10d94af35037e66d329d4d786b8814100beae0cc3f5f69e01d88bc
 canonical: 27590-buffetts-annual-letter-2024-berkshire-hathaways-record-cash-pile-japan-bets-and-.json
 ---

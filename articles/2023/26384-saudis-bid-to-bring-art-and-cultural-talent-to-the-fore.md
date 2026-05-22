@@ -1,12 +1,21 @@
 ---
 id: 26384
 title: "Saudi’s Bid to Bring Art and Cultural Talent to the Fore"
-award_year: 2023
+year: 2023
 published: 2023-11-15 10:17:51
 published_gmt: 2023-11-15 10:17:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2023/11/ithra-saudis-bid-to-bring-art-and-cultural-talent-to-the-fore/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 40b020726a9ec515b93d838ae8a692ef4caa305cbafd16bead05534106fdb296
 canonical: 26384-saudis-bid-to-bring-art-and-cultural-talent-to-the-fore.json
 ---

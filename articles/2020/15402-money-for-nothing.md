@@ -1,12 +1,21 @@
 ---
 id: 15402
 title: "Money for Nothing"
-award_year: 2020
+year: 2020
 published: 2020-05-20 17:48:11
 published_gmt: 2020-05-20 16:48:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/05/money-for-nothing/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f812217764861d01a68a91e449a7bcc8afac4bec21bccc0188e0baa3f9f870e6
 canonical: 15402-money-for-nothing.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8472
 title: "World Bank: Vietnam Sees Early Signs of Economic Recovery"
-award_year: 2014
+year: 2014
 published: 2014-12-03 13:54:37
 published_gmt: 2014-12-03 13:54:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/12/world-bank-vietnam-sees-early-signs-of-economic-recovery/"
 categories: ["Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2f8f038fe8ce851a7936035f8c17065754c6a993e20a89a0d6594d4e862735c0
 canonical: 8472-world-bank-vietnam-sees-early-signs-of-economic-recovery.json
 ---

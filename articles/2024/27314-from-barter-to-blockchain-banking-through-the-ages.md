@@ -1,12 +1,21 @@
 ---
 id: 27314
 title: "From Barter to Blockchain: Banking Through the Ages"
-award_year: 2024
+year: 2024
 published: 2024-11-22 12:04:51
 published_gmt: 2024-11-22 12:04:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/11/from-barter-to-blockchain-banking-through-the-ages/"
 categories: ["Banking"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5c98042e2bcd577b9ac78953f00768efb79e66c58f8f38bc8f25ba84e103181d
 canonical: 27314-from-barter-to-blockchain-banking-through-the-ages.json
 ---

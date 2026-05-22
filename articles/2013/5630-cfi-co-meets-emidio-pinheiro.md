@@ -1,12 +1,21 @@
 ---
 id: 5630
 title: "CFI.co Meets Emídio Pinheiro"
-award_year: 2013
+year: 2013
 published: 2013-10-07 15:17:51
 published_gmt: 2013-10-07 14:17:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/10/cfi-co-meets-emidio-pinheiro/"
 categories: ["Africa", "Banking", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b101578724c5c0a15d869b5f62a13065c07d895b38b07ff56cffa6d6c1793f18
 canonical: 5630-cfi-co-meets-emidio-pinheiro.json
 ---

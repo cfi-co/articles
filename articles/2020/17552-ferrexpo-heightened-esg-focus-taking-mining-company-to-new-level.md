@@ -1,12 +1,21 @@
 ---
 id: 17552
 title: "Ferrexpo: Heightened ESG Focus Taking Mining Company to New Level"
-award_year: 2020
+year: 2020
 published: 2020-10-23 14:55:20
 published_gmt: 2020-10-23 13:55:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/10/ferrexpo-heightened-esg-focus-taking-mining-company-to-new-level/"
 categories: ["Corporate", "Corporate Leaders", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7586cf2ee7395b5ecc297776af6701834d57b7c631211c5b2717b1036cf661da
 canonical: 17552-ferrexpo-heightened-esg-focus-taking-mining-company-to-new-level.json
 ---

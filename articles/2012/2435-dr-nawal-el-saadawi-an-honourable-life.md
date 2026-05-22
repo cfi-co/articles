@@ -1,12 +1,21 @@
 ---
 id: 2435
 title: "Dr. Nawal El Saadawi - An Honourable Life"
-award_year: 2012
+year: 2012
 published: 2012-10-24 08:08:29
 published_gmt: 2012-10-24 07:08:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2012/10/dr-nawal-el-saadawi-an-honourable-life/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 426683b0331db5531e9113ba4b919cfef2997b016f697f67f384e91ff6760f8e
 canonical: 2435-dr-nawal-el-saadawi-an-honourable-life.json
 ---

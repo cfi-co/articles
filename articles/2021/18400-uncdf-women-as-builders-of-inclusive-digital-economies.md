@@ -1,12 +1,21 @@
 ---
 id: 18400
 title: "UNCDF: Women as Builders of Inclusive Digital Economies"
-award_year: 2021
+year: 2021
 published: 2021-01-05 14:17:58
 published_gmt: 2021-01-05 14:17:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2021/01/uncdf-women-as-builders-of-inclusive-digital-economies/"
 categories: ["North America", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c8d001c24a43617346295c799d227bbf41a5555d2a4f8e38eacd9b3e2959bb92
 canonical: 18400-uncdf-women-as-builders-of-inclusive-digital-economies.json
 ---

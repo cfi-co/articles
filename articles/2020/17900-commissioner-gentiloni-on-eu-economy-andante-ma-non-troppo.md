@@ -1,12 +1,21 @@
 ---
 id: 17900
 title: "Commissioner Gentiloni on EU Economy: Andante Ma Non Troppo"
-award_year: 2020
+year: 2020
 published: 2020-11-12 13:37:59
 published_gmt: 2020-11-12 13:37:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/11/commissioner-gentiloni-on-eu-economy-andante-ma-non-troppo/"
 categories: ["Brave New World", "Europe", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0adb42c3f0185f0aa677db649f979a0045ec1f58514745fc66d17a28b8de24c1
 canonical: 17900-commissioner-gentiloni-on-eu-economy-andante-ma-non-troppo.json
 ---

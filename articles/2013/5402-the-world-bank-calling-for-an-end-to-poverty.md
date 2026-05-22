@@ -1,12 +1,21 @@
 ---
 id: 5402
 title: "The World Bank: Calling for an End to Poverty"
-award_year: 2013
+year: 2013
 published: 2013-10-04 12:14:28
 published_gmt: 2013-10-04 11:14:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/10/the-world-bank-calling-for-an-end-to-poverty/"
 categories: ["Africa", "Finance", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 89cb181d6dc1702b445de4482daf42a8e456b9077f246697d5f12de645b02959
 canonical: 5402-the-world-bank-calling-for-an-end-to-poverty.json
 ---

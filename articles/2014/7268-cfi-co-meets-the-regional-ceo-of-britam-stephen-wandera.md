@@ -1,12 +1,21 @@
 ---
 id: 7268
 title: "CFI.co Meets the Regional CEO of Britam: Stephen Wandera"
-award_year: 2014
+year: 2014
 published: 2014-01-02 18:23:31
 published_gmt: 2014-01-02 18:23:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/01/cfi-co-meets-the-regional-ceo-of-britam-stephen-wandera/"
 categories: ["Africa", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5f8790117d4e1be09a758a6bf40777fffc2c8c7792711cc8a5ecd9b8867768a1
 canonical: 7268-cfi-co-meets-the-regional-ceo-of-britam-stephen-wandera.json
 ---

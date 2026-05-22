@@ -1,12 +1,21 @@
 ---
 id: 8843
 title: "Greece: Attack of the Merchants of Doom Fails to Impress"
-award_year: 2015
+year: 2015
 published: 2015-01-29 15:50:41
 published_gmt: 2015-01-29 15:50:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2015/01/greece-attack-of-the-merchants-of-doom-fails-to-impress/"
 categories: ["Banking", "Europe", "Finance", "Greece &amp; The Euro"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e6a98851a5c1918e7678cadd67a4c018dc3ee020cd056b14c6464852903328ed
 canonical: 8843-greece-attack-of-the-merchants-of-doom-fails-to-impress.json
 ---

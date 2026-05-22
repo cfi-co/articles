@@ -1,12 +1,21 @@
 ---
 id: 16437
 title: "Jenny Lee, Managing Partner of GGV Capital: ‘Geek’ Mentality Coupled with Passion for Disruption Makes a Neat Niche"
-award_year: 2020
+year: 2020
 published: 2020-07-29 12:36:21
 published_gmt: 2020-07-29 11:36:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2020/07/jenny-lee-managing-partner-of-ggv-capital-geek-mentality-coupled-with-passion-for-disruption-makes-a-neat-niche/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 75e9674cbeba5e756be268f5312d9b5bc8fdd730e1082503f36ec262a92c7ce9
 canonical: 16437-jenny-lee-managing-partner-of-ggv-capital-geek-mentality-coupled-with-passion-fo.json
 ---

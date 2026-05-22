@@ -1,12 +1,21 @@
 ---
 id: 18077
 title: "Founder & Executive Chairman of FLI Global Michael Flynn: On the ESG Front Line with a Solid Set of Values"
-award_year: 2020
+year: 2020
 published: 2020-11-25 11:17:09
 published_gmt: 2020-11-25 11:17:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/11/founder-executive-chairman-of-fli-global-michael-flynn-on-the-esg-front-line-with-a-solid-set-of-values/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c83e003667e7804cc9a8b455c31058045ba1fd75646a55677bcde46152f67b94
 canonical: 18077-founder-executive-chairman-of-fli-global-michael-flynn-on-the-esg-front-line-wit.json
 ---

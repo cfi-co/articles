@@ -1,12 +1,21 @@
 ---
 id: 24435
 title: "CEO Thierno Ibrahima Diallo of Société Générale Guinée Shares the Secrets of his Career"
-award_year: 2023
+year: 2023
 published: 2023-01-10 13:05:12
 published_gmt: 2023-01-10 13:05:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2023/01/ceo-thierno-ibrahima-diallo-of-societe-generale-guinee-shares-the-secrets-of-his-career/"
 categories: ["Africa", "Banking"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c7a23b1767fe407c8e0ab4dddd53ef0a482d276d822ceaab0cd90569a1b9cb72
 canonical: 24435-ceo-thierno-ibrahima-diallo-of-societe-generale-guinee-shares-the-secrets-of-his.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 14407
 title: "EBRD: Investing in Sustainable Infrastructure Helps Advance the UN’s SDG Agenda"
-award_year: 2019
+year: 2019
 published: 2019-12-12 08:47:01
 published_gmt: 2019-12-12 08:47:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2019/12/ebrd-investing-in-sustainable-infrastructure-helps-advance-the-uns-sdg-agenda/"
 categories: ["Asia Pacific", "Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 49f2bdf4865ce47776bf020e867db48c4e15cf538752c714656192a02b2cff9d
 canonical: 14407-ebrd-investing-in-sustainable-infrastructure-helps-advance-the-uns-sdg-agenda.json
 ---

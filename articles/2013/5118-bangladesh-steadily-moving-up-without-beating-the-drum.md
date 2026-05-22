@@ -1,12 +1,21 @@
 ---
 id: 5118
 title: "Bangladesh: Steadily Moving Up without Beating the Drum"
-award_year: 2013
+year: 2013
 published: 2013-08-29 09:53:57
 published_gmt: 2013-08-29 08:53:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/08/bangladesh-steadily-moving-up-without-beating-the-drum/"
 categories: ["Asia Pacific", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 594fd140f237730e4133e3da63a3d65878766db9e366ffa0b8ac96f2ede3f4c3
 canonical: 5118-bangladesh-steadily-moving-up-without-beating-the-drum.json
 ---

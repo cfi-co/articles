@@ -1,12 +1,21 @@
 ---
 id: 12472
 title: "WEF: Back to the Basics?"
-award_year: 2019
+year: 2019
 published: 2019-02-04 11:45:02
 published_gmt: 2019-02-04 11:45:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/wef/2019/02/wef-back-to-the-basics/"
 categories: ["WEF"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9e4cd7ede2e4abc9d5f793f8b2b89e837731efff0406e6bafbc1f3c9cf8b87cf
 canonical: 12472-wef-back-to-the-basics.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 28136
 title: "The Silent Giants: The Critical Role of MSMEs in the Global Future"
-award_year: 2025
+year: 2025
 published: 2025-12-05 09:13:28
 published_gmt: 2025-12-05 09:13:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2025/12/the-silent-giants-the-critical-role-of-smes-in-the-global-future/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b57e1f9867c1ed32b1968aafa92328530674d003027835de44bb18b3fd3a05b8
 canonical: 28136-the-silent-giants-the-critical-role-of-smes-in-the-global-future.json
 ---

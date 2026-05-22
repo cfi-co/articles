@@ -1,12 +1,21 @@
 ---
 id: 12507
 title: "Peter Sloterdijk: Shaping a Multipolar National Debate"
-award_year: 2018
+year: 2018
 published: 2018-02-12 12:57:31
 published_gmt: 2018-02-12 12:57:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/02/peter-sloterdijk-shaping-a-multipolar-national-debate/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bf39f92bd41420f7915643e9186e347c4296c7ed6e7a792e7e682b1ca4887fba
 canonical: 12507-peter-sloterdijk-shaping-a-multipolar-national-debate.json
 ---

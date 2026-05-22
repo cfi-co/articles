@@ -1,12 +1,21 @@
 ---
 id: 7575
 title: "Christopher Colford: Speed Bumps Along the Road to Competitiveness"
-award_year: 2014
+year: 2014
 published: 2014-07-08 10:49:28
 published_gmt: 2014-07-08 09:49:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/07/christopher-colford-speed-bumps-along-the-road-to-competitiveness/"
 categories: ["Africa", "Lifestyle", "Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3d79db9babed8995c4a4d71b88dd3053ec1a8fde73fc8d5f4c7923aa3b9c4170
 canonical: 7575-christopher-colford-speed-bumps-along-the-road-to-competitiveness.json
 ---

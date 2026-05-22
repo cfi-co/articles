@@ -1,12 +1,21 @@
 ---
 id: 13144
 title: "Michelle Yeoh Choo-Kheng: A Miss and Bond Girl on a Quest for World Peace"
-award_year: 2018
+year: 2018
 published: 2018-06-12 12:24:13
 published_gmt: 2018-06-12 11:24:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/06/michelle-yeoh-choo-kheng-a-miss-and-bond-girl-on-a-quest-for-world-peace/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 838587ced2fb1efbaaa574196d45ab851e9c0985f017ca59b7d123de581c33a6
 canonical: 13144-michelle-yeoh-choo-kheng-a-miss-and-bond-girl-on-a-quest-for-world-peace.json
 ---

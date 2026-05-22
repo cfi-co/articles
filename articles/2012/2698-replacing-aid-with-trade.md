@@ -1,12 +1,21 @@
 ---
 id: 2698
 title: "Replacing Aid with Trade"
-award_year: 2012
+year: 2012
 published: 2012-12-10 16:21:44
 published_gmt: 2012-12-10 16:21:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2012/12/replacing-aid-with-trade/"
 categories: ["Asia Pacific", "Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bf27dedeaec266db76b05a674266d16812be5d530c8e7855b8f2e73f722541c8
 canonical: 2698-replacing-aid-with-trade.json
 ---

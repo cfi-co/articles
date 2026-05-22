@@ -1,12 +1,21 @@
 ---
 id: 6655
 title: "Wang Meng: A Champ Tumbles and Falls on Her Way to the Top"
-award_year: 2014
+year: 2014
 published: 2014-02-17 13:59:55
 published_gmt: 2014-02-17 13:59:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/02/wang-meng-a-champ-tumbles-and-falls-on-her-way-to-the-top/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3571e6db9e481ad2e2df095f096d388c658ab6aa9569394e432b7932b7b7821e
 canonical: 6655-wang-meng-a-champ-tumbles-and-falls-on-her-way-to-the-top.json
 ---

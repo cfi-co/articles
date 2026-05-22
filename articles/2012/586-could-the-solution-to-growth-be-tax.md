@@ -1,12 +1,21 @@
 ---
 id: 586
 title: "G8: Could the Solution to Growth be Simpler Taxes?"
-award_year: 2012
+year: 2012
 published: 2012-05-22 15:16:49
 published_gmt: 2012-05-22 14:16:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2012/05/could-the-solution-to-growth-be-tax/"
 categories: ["Asia Pacific", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 189154c6a45a8fd072bb9ca524fe1a84a2bb7637f0ee8d05f583faec03ce6190
 canonical: 586-could-the-solution-to-growth-be-tax.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 22528
 title: "Rich Pickings for Carlos Slim, a Financial Prodigy who Started Young — and Kept on Going"
-award_year: 2022
+year: 2022
 published: 2022-08-01 10:39:04
 published_gmt: 2022-08-01 09:39:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2022/08/rich-pickings-for-founder-of-grupo-carso-carlos-slim/"
 categories: ["Corporate", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 464a0582ff83720c6e4d7e480774866852857e3a76a780765953bd6f62d43aec
 canonical: 22528-rich-pickings-for-founder-of-grupo-carso-carlos-slim.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 4857
 title: "Maxima - Busy at Work"
-award_year: 2013
+year: 2013
 published: 2013-08-02 09:00:46
 published_gmt: 2013-08-02 08:00:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/08/maxima-busy-at-work/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 28224610e149c2b58058d285dad40049b175114539721c5b6a6cd89b965702ac
 canonical: 4857-maxima-busy-at-work.json
 ---

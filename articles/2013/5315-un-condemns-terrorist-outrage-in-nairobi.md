@@ -1,12 +1,21 @@
 ---
 id: 5315
 title: "UN Condemns Terrorist Outrage in Nairobi"
-award_year: 2013
+year: 2013
 published: 2013-09-23 12:27:01
 published_gmt: 2013-09-23 11:27:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/09/un-condemns-terrorist-outrage-in-nairobi/"
 categories: ["Africa", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3feb0554280b4651e8007a881acbe3ca5ea999090f5c3cd2b4cb01ff5306c686
 canonical: 5315-un-condemns-terrorist-outrage-in-nairobi.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 7368
 title: "Paul Krugman: A Plea for a Return to Basics in Finance"
-award_year: 2014
+year: 2014
 published: 2014-05-29 12:11:28
 published_gmt: 2014-05-29 11:11:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/05/paul-krugman-a-plea-for-a-return-to-basics-in-finance/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2b58ffd794d893c270f0adaf4ca4e902870922a1e57a1afb901b8a79b09d9dd5
 canonical: 7368-paul-krugman-a-plea-for-a-return-to-basics-in-finance.json
 ---

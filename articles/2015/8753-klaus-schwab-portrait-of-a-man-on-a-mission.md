@@ -1,12 +1,21 @@
 ---
 id: 8753
 title: "Klaus Schwab - Portrait of a Man on a Mission"
-award_year: 2015
+year: 2015
 published: 2015-01-20 11:35:17
 published_gmt: 2015-01-20 11:35:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/01/klaus-schwab-portrait-of-a-man-on-a-mission/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 31e05c72809cfeeaf6cc1ecb545bcc10777df6b2090f94ed05f5112bfeeb50b4
 canonical: 8753-klaus-schwab-portrait-of-a-man-on-a-mission.json
 ---

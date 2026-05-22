@@ -1,12 +1,21 @@
 ---
 id: 27764
 title: "Tashkent’s Turning Point: Why the Time is Now for Global Investors in Uzbekistan"
-award_year: 2025
+year: 2025
 published: 2025-06-09 19:13:07
 published_gmt: 2025-06-09 18:13:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2025/06/tashkents-turning-point-why-the-time-is-now-for-global-investors-in-uzbekistan/"
 categories: ["Asia Pacific", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e7eb9a01fde8d6996db260d8f17ccc591a5fb50f95d4af8bdcb82bdaf25586b4
 canonical: 27764-tashkents-turning-point-why-the-time-is-now-for-global-investors-in-uzbekistan.json
 ---

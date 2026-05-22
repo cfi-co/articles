@@ -1,12 +1,21 @@
 ---
 id: 26593
 title: "Peace-of-Mind for Financial Services Industry in 2024"
-award_year: 2024
+year: 2024
 published: 2024-01-15 09:23:16
 published_gmt: 2024-01-15 09:23:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2024/01/peace-of-mind-for-financial-services-industry-in-2024/"
 categories: ["Brave New World", "Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d17fd4c0c16c1853964db3877f9bfab85df1c623230f500ce5ef04138324ff14
 canonical: 26593-peace-of-mind-for-financial-services-industry-in-2024.json
 ---

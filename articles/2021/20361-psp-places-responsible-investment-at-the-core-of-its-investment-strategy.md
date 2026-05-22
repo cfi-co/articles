@@ -1,12 +1,21 @@
 ---
 id: 20361
 title: "PSP Places Responsible Investment at the Core of Its Investment Strategy"
-award_year: 2021
+year: 2021
 published: 2021-08-12 14:10:47
 published_gmt: 2021-08-12 13:10:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/psp-places-responsible-investment-at-the-core-of-its-investment-strategy/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bfabc3b1ec490a4ee22929270f7de7b41ad4057cc2a68955540ff6100db92595
 canonical: 20361-psp-places-responsible-investment-at-the-core-of-its-investment-strategy.json
 ---

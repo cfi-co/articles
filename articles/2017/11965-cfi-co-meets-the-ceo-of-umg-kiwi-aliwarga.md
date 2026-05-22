@@ -1,12 +1,21 @@
 ---
 id: 11965
 title: "CFI.co Meets the CEO of UMG: Kiwi Aliwarga"
-award_year: 2017
+year: 2017
 published: 2017-10-09 14:12:29
 published_gmt: 2017-10-09 13:12:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-ceo-of-umg-kiwi-aliwarga/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 468eca09a84bc5aaa5c5df62cd838e1200d4041b47ad3ae6d2f55bd2e4af7162
 canonical: 11965-cfi-co-meets-the-ceo-of-umg-kiwi-aliwarga.json
 ---

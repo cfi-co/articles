@@ -1,12 +1,21 @@
 ---
 id: 14970
 title: "Making Sense of Irrational Markets and Conflicting Data"
-award_year: 2020
+year: 2020
 published: 2020-04-21 15:14:36
 published_gmt: 2020-04-21 14:14:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/making-sense-of-irrational-markets-and-conflicting-data/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e27c731e9a245d5ddc0459cedeb257f221800216c2c36f3384dac9a77b55bfae
 canonical: 14970-making-sense-of-irrational-markets-and-conflicting-data.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 13960
 title: "Gabriel Chaleplis Leads the Way Into the Intelligent Future of Betting and Gaming"
-award_year: 2019
+year: 2019
 published: 2019-08-21 21:23:13
 published_gmt: 2019-08-21 20:23:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/08/gabriel-chaleplis-leads-the-way-into-the-intelligent-future-of-betting-and-gaming/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d8c49f29f1837ed839e1c281db957f96221e5cade6ae69d3dfd3c820c092e9cd
 canonical: 13960-gabriel-chaleplis-leads-the-way-into-the-intelligent-future-of-betting-and-gamin.json
 ---

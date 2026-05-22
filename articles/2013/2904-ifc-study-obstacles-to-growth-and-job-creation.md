@@ -1,12 +1,21 @@
 ---
 id: 2904
 title: "IFC Study: Obstacles to Growth and Job Creation"
-award_year: 2013
+year: 2013
 published: 2013-01-15 00:05:32
 published_gmt: 2013-01-15 00:05:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/01/ifc-study-obstacles-to-growth-and-job-creation/"
 categories: ["Africa", "Asia Pacific", "Europe", "Latin America", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 38dbb9a91c98c972bed70b150506cbd9874f86a3ce2b9aabbc83a81a75e2ae54
 canonical: 2904-ifc-study-obstacles-to-growth-and-job-creation.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8480
 title: "SWIFT Enters Into Real-Time Retail Domestic Payments"
-award_year: 2014
+year: 2014
 published: 2014-12-04 10:55:45
 published_gmt: 2014-12-04 10:55:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2014/12/swift-enters-into-real-time-retail-domestic-payments/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9f9752ad3c377d7d592e922eb5fa0cb9d12a0e414627ee5897ed88c73bf2449e
 canonical: 8480-swift-enters-into-real-time-retail-domestic-payments.json
 ---

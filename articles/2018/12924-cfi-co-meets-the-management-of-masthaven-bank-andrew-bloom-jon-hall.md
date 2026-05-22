@@ -1,12 +1,21 @@
 ---
 id: 12924
 title: "CFI.co Meets the Management of Masthaven Bank: Andrew Bloom & Jon Hall"
-award_year: 2018
+year: 2018
 published: 2018-07-12 12:37:35
 published_gmt: 2018-07-12 11:37:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/07/cfi-co-meets-the-management-of-masthaven-bank-andrew-bloom-jon-hall/"
 categories: ["CFI.co Meets", "Corporate Leaders"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aa2330bb9b9db07789865dceb132e855c54ed7bea7282e8235fd9300bdb0c440
 canonical: 12924-cfi-co-meets-the-management-of-masthaven-bank-andrew-bloom-jon-hall.json
 ---

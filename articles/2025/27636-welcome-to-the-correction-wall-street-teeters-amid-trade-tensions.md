@@ -1,12 +1,21 @@
 ---
 id: 27636
 title: "Welcome to the Correction: Wall Street Teeters Amid Trade Tensions"
-award_year: 2025
+year: 2025
 published: 2025-03-14 12:14:46
 published_gmt: 2025-03-14 12:14:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/03/welcome-to-the-correction-wall-street-teeters-amid-trade-tensions/"
 categories: ["Finance", "Markets", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b8eaa072ad672438948ecbfc73f0fd03a67ccfb4b7c8497f2e3b35d6ec4938df
 canonical: 27636-welcome-to-the-correction-wall-street-teeters-amid-trade-tensions.json
 ---

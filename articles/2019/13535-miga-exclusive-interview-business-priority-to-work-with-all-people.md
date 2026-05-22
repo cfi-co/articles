@@ -1,12 +1,21 @@
 ---
 id: 13535
 title: "MIGA Exclusive Interview: Business Priority to Work With All People"
-award_year: 2019
+year: 2019
 published: 2019-04-25 11:31:50
 published_gmt: 2019-04-25 10:31:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2019/04/miga-exclusive-interview-business-priority-to-work-with-all-people/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 10d2cba7b320d0f896ecc966c99611c467e7e8eed7d00236785d8f394fbabe83
 canonical: 13535-miga-exclusive-interview-business-priority-to-work-with-all-people.json
 ---

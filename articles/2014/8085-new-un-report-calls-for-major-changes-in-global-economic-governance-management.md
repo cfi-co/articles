@@ -1,12 +1,21 @@
 ---
 id: 8085
 title: "New UN Report Calls for Major Changes in Global Economic Governance, Management"
-award_year: 2014
+year: 2014
 published: 2014-09-24 12:59:22
 published_gmt: 2014-09-24 11:59:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/09/new-un-report-calls-for-major-changes-in-global-economic-governance-management/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Latin America", "Middle East", "North America", "Oil &amp; Mining", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cb7def25e9765d690aa496da35539aedacd0f576eff47ab3ca5be0e0f286f5fe
 canonical: 8085-new-un-report-calls-for-major-changes-in-global-economic-governance-management.json
 ---

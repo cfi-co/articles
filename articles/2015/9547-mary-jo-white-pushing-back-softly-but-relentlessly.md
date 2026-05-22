@@ -1,12 +1,21 @@
 ---
 id: 9547
 title: "Mary Jo White: Pushing Back Softly but Relentlessly"
-award_year: 2015
+year: 2015
 published: 2015-03-17 14:31:18
 published_gmt: 2015-03-17 14:31:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/03/mary-jo-white-pushing-back-softly-but-relentlessly/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b928ead0668e9548f85ae483fa02d8dce2bb1c2b64cd568ddae1a39dfa78b175
 canonical: 9547-mary-jo-white-pushing-back-softly-but-relentlessly.json
 ---

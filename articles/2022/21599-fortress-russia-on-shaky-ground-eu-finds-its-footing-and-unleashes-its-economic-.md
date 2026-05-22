@@ -1,12 +1,21 @@
 ---
 id: 21599
 title: "Fortress Russia on Shaky Ground: EU Finds Its Footing and Unleashes Its Economic Might"
-award_year: 2022
+year: 2022
 published: 2022-02-28 15:10:51
 published_gmt: 2022-02-28 15:10:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/02/fortress-russia-on-shaky-ground-eu-finds-its-footing-and-unleashes-its-economic-might/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f90fb5c6e96fbbf2babadd2795f408c231fe4be2238a5566a6d5e4a19cc64bef
 canonical: 21599-fortress-russia-on-shaky-ground-eu-finds-its-footing-and-unleashes-its-economic-.json
 ---

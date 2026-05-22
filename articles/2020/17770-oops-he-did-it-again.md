@@ -1,12 +1,21 @@
 ---
 id: 17770
 title: "Oops, He Did It Again?"
-award_year: 2020
+year: 2020
 published: 2020-11-04 15:27:12
 published_gmt: 2020-11-04 15:27:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/11/oops-he-did-it-again/"
 categories: ["North America", "US Election 2020", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 06041bf022be18bfd0350d79e9cf27d7716ee2dc2fd61f9c1636464b2eb1e9b0
 canonical: 17770-oops-he-did-it-again.json
 ---

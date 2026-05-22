@@ -1,12 +1,21 @@
 ---
 id: 19203
 title: "Marcos Preto, CEO of Agrocortex: Unlocking Value of Forestry Projects"
-award_year: 2021
+year: 2021
 published: 2021-03-18 12:14:14
 published_gmt: 2021-03-18 12:14:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/03/marcos-preto-ceo-of-agrocortex-unlocking-value-of-forestry-projects/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a9c59a02f591ee982b29006810a5f8001d056e263c60c0dcb88a05e390d42810
 canonical: 19203-marcos-preto-ceo-of-agrocortex-unlocking-value-of-forestry-projects.json
 ---

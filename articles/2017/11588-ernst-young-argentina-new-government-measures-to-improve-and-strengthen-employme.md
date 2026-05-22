@@ -1,12 +1,21 @@
 ---
 id: 11588
 title: "Ernst & Young: Argentina - New Government Measures to Improve and Strengthen Employment"
-award_year: 2017
+year: 2017
 published: 2017-05-03 14:53:03
 published_gmt: 2017-05-03 13:53:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2017/05/ernst-young-argentina-new-government-measures-to-improve-and-strengthen-employment/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ac16a075406a1c9fa798143d59a3d769959b1200c4848da1db3bf6d98434206e
 canonical: 11588-ernst-young-argentina-new-government-measures-to-improve-and-strengthen-employme.json
 ---

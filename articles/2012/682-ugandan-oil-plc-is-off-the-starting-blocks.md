@@ -1,12 +1,21 @@
 ---
 id: 682
 title: "Ugandan Oil PLC is Off the Starting Blocks"
-award_year: 2012
+year: 2012
 published: 2012-05-30 13:07:34
 published_gmt: 2012-05-30 12:07:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/05/ugandan-oil-plc-is-off-the-starting-blocks/"
 categories: ["Africa", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ce67db436ecc51057a74c3acba687f3c5d1639aa43b20eadbac289ea7ecc4a22
 canonical: 682-ugandan-oil-plc-is-off-the-starting-blocks.json
 ---

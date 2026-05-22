@@ -1,12 +1,21 @@
 ---
 id: 27837
 title: "AI Dividends Arrive: Big Tech’s Earnings Surge Shows Power of Scale and Strategy"
-award_year: 2025
+year: 2025
 published: 2025-08-01 13:24:31
 published_gmt: 2025-08-01 12:24:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/innovation-technology/2025/08/ai-dividends-arrive-big-techs-earnings-surge-shows-power-of-scale-and-strategy/"
 categories: ["Innovation &amp; Technology", "North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d6faa1ae55eae276887ba27ac983f17c1d0601e03bd0397443fed41e4c4a6350
 canonical: 27837-ai-dividends-arrive-big-techs-earnings-surge-shows-power-of-scale-and-strategy.json
 ---

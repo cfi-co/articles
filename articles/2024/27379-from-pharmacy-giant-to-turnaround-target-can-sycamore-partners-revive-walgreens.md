@@ -1,12 +1,21 @@
 ---
 id: 27379
 title: "From Pharmacy Giant to Turnaround Target: Can Sycamore Partners Revive Walgreens?"
-award_year: 2024
+year: 2024
 published: 2024-12-11 10:02:42
 published_gmt: 2024-12-11 10:02:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2024/12/from-pharmacy-giant-to-turnaround-target-can-sycamore-partners-revive-walgreens/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5911b859a39c55bddcaa267d8a0daee80c6cad56b02f14722ffbc2afde8876b5
 canonical: 27379-from-pharmacy-giant-to-turnaround-target-can-sycamore-partners-revive-walgreens.json
 ---

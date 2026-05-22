@@ -1,12 +1,21 @@
 ---
 id: 21994
 title: "Eccelsa Aviation: Preferred Access to Costa Smeralda - You are Entering a Genuine VIP Zone"
-award_year: 2022
+year: 2022
 published: 2022-05-19 07:23:59
 published_gmt: 2022-05-19 06:23:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/lifestyle-menu/2022/05/eccelsa-aviation-preferred-access-to-costa-smeralda-you-are-entering-a-genuine-vip-zone/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 97df0ceee815e739638eab96f72c464b1a20bd70e4d9d89648f0d49bfdd00694
 canonical: 21994-eccelsa-aviation-preferred-access-to-costa-smeralda-you-are-entering-a-genuine-v.json
 ---

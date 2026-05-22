@@ -1,12 +1,21 @@
 ---
 id: 14926
 title: "SDG Lab at UN Geneva: Delivering the 2030 Agenda in Decade of Action Will Call for Co-operation and Courage"
-award_year: 2020
+year: 2020
 published: 2020-04-15 14:44:43
 published_gmt: 2020-04-15 13:44:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/04/sdg-lab-at-un-geneva-delivering-the-2030-agenda-in-decade-of-action-will-call-for-co-operation-and-courage/"
 categories: ["Europe", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 35eece08abfb8b97604e10500b73ca0350dd17bb32dcdeda2e2e5f97089691d2
 canonical: 14926-sdg-lab-at-un-geneva-delivering-the-2030-agenda-in-decade-of-action-will-call-fo.json
 ---

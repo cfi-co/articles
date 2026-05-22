@@ -1,12 +1,21 @@
 ---
 id: 22144
 title: "WEF 2022: The World Is No Longer Flat"
-award_year: 2022
+year: 2022
 published: 2022-05-27 16:19:00
 published_gmt: 2022-05-27 15:19:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/05/wef-2022-the-world-is-no-longer-flat/"
 categories: ["Brave New World", "Events"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6213021a0988de07293730219489b3c189d1bc2e897fb47d705f521c108e4c50
 canonical: 22144-wef-2022-the-world-is-no-longer-flat.json
 ---

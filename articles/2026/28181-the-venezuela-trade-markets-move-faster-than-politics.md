@@ -1,12 +1,21 @@
 ---
 id: 28181
 title: "The Venezuela Trade: Markets Move Faster Than Politics"
-award_year: 2026
+year: 2026
 published: 2026-01-05 10:17:22
 published_gmt: 2026-01-05 10:17:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2026/01/the-venezuela-trade-markets-move-faster-than-politics/"
 categories: ["Latin America", "Markets"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1fc55ff50c27410f938c4f0b79ab891ff9a409afe0b9f398a269289229c91a4a
 canonical: 28181-the-venezuela-trade-markets-move-faster-than-politics.json
 ---

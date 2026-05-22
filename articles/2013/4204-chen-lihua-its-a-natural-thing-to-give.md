@@ -1,12 +1,21 @@
 ---
 id: 4204
 title: "Chen Lihua: It's a Natural Thing to Give"
-award_year: 2013
+year: 2013
 published: 2013-05-28 16:42:11
 published_gmt: 2013-05-28 16:42:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/05/chen-lihua-its-a-natural-thing-to-give/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 150e77e91ab1d1d72218f573c71ec21c9c756dcd9998c424136d63a949c75e33
 canonical: 4204-chen-lihua-its-a-natural-thing-to-give.json
 ---

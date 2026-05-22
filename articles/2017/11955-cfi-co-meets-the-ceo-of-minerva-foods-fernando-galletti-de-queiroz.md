@@ -1,12 +1,21 @@
 ---
 id: 11955
 title: "CFI.co Meets the CEO of Minerva Foods: Fernando Galletti de Queiroz"
-award_year: 2017
+year: 2017
 published: 2017-10-09 13:42:01
 published_gmt: 2017-10-09 12:42:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-ceo-of-minerva-foods-fernando-galletti-de-queiroz/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2c1766588e8f8efee54059ca2f39d734d2ecc46e1989a05f2cd4dc93ca152f2b
 canonical: 11955-cfi-co-meets-the-ceo-of-minerva-foods-fernando-galletti-de-queiroz.json
 ---

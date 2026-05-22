@@ -1,12 +1,21 @@
 ---
 id: 12377
 title: "Ursula von der Leyen: Close Cooperation"
-award_year: 2018
+year: 2018
 published: 2018-05-02 12:53:35
 published_gmt: 2018-05-02 11:53:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/05/ursula-von-der-leyen-close-cooperation/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 24fe4d5fbaa2f8a7d1a50b862af00b6aec90642fa2d263a6f3f44e81c8ec70d3
 canonical: 12377-ursula-von-der-leyen-close-cooperation.json
 ---

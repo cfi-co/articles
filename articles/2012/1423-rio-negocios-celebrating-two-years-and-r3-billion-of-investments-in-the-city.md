@@ -1,12 +1,21 @@
 ---
 id: 1423
 title: "Rio Negócios: Celebrating Two Years and R$3 Billion of Investments in the City"
-award_year: 2012
+year: 2012
 published: 2012-08-07 15:56:44
 published_gmt: 2012-08-07 14:56:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2012/08/rio-negocios-celebrating-two-years-and-r3-billion-of-investments-in-the-city/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ead4805174ae71fa3ab134cfca4df177a50314881f7df55a9ea9ab12dbdfa1d7
 canonical: 1423-rio-negocios-celebrating-two-years-and-r3-billion-of-investments-in-the-city.json
 ---

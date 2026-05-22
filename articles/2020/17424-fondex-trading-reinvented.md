@@ -1,12 +1,21 @@
 ---
 id: 17424
 title: "Fondex: Trading Reinvented"
-award_year: 2020
+year: 2020
 published: 2020-01-05 11:45:34
 published_gmt: 2020-01-05 11:45:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/01/fondex-trading-reinvented/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 967d0abeae88e827071555519ec73cca2ca18015f29127098d996cb7c8cdde20
 canonical: 17424-fondex-trading-reinvented.json
 ---

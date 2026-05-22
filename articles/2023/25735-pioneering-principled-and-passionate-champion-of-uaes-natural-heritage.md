@@ -1,12 +1,21 @@
 ---
 id: 25735
 title: "Pioneering, Principled and Passionate Champion of UAE’s Natural Heritage"
-award_year: 2023
+year: 2023
 published: 2023-07-17 10:00:56
 published_gmt: 2023-07-17 09:00:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2023/07/shaikha-salem-al-dhaheri-champion-of-uae-environment/"
 categories: ["Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 608628a5ef0b9e9045b4357fc55d4296862afad2283803699c08ee106b4645ef
 canonical: 25735-pioneering-principled-and-passionate-champion-of-uaes-natural-heritage.json
 ---

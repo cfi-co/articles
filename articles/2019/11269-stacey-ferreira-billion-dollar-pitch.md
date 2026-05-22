@@ -1,12 +1,21 @@
 ---
 id: 11269
 title: "Stacey Ferreira: The Billion Dollar Pitch"
-award_year: 2019
+year: 2019
 published: 2019-01-11 12:53:18
 published_gmt: 2019-01-11 12:53:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2019/01/stacey-ferreira-billion-dollar-pitch/"
 categories: ["Finance", "Start-Ups"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9fb4f24d525437e8745b118cf4a4181180801f96f03d911aaa973bcc170b0b4b
 canonical: 11269-stacey-ferreira-billion-dollar-pitch.json
 ---

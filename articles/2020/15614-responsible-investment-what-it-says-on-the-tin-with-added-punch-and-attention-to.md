@@ -1,12 +1,21 @@
 ---
 id: 15614
 title: "Responsible Investment: What it Says on the Tin, with Added Punch and Attention to Detail"
-award_year: 2020
+year: 2020
 published: 2020-06-11 12:39:20
 published_gmt: 2020-06-11 11:39:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/06/responsible-investment-what-it-says-on-the-tin-with-added-punch-and-attention-to-detail/"
 categories: ["Corporate", "Corporate Leaders", "Europe", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 53c01a1e290531f6f9a83d29fe34f9af5ed4ef417a7fb9782c86c2d8650c4451
 canonical: 15614-responsible-investment-what-it-says-on-the-tin-with-added-punch-and-attention-to.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 13621
 title: "World Federation of Exchanges (WFE): Encouraging Investment in Emerging Markets Hinges on Co-operative Effort"
-award_year: 2019
+year: 2019
 published: 2019-06-13 14:44:37
 published_gmt: 2019-06-13 13:44:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2019/06/world-federation-of-exchanges-wfe-encouraging-investment-in-emerging-markets-hinges-on-co-operative-effort/"
 categories: ["Finance", "Markets"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ec6e60e709f7135974ccd805bfc146466a40810b93ec5f029341c4cbf1e5a55d
 canonical: 13621-world-federation-of-exchanges-wfe-encouraging-investment-in-emerging-markets-hin.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27014
 title: "UNCDF: Tanga UWASA Issues a Historic Green Bond for Water Infrastructure"
-award_year: 2024
+year: 2024
 published: 2024-08-15 12:55:45
 published_gmt: 2024-08-15 11:55:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2024/08/uncdf-tanga-uwasa-issues-a-historic-green-bond-for-water-infrastructure/"
 categories: ["Africa", "Multilaterals", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 60dde548bd45e917a67fa92eb72551788d61551f1db93ea7b67c4d3783557961
 canonical: 27014-uncdf-tanga-uwasa-issues-a-historic-green-bond-for-water-infrastructure.json
 ---

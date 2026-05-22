@@ -1,12 +1,21 @@
 ---
 id: 7847
 title: "Otaviano Canuto, World Bank Group: Commodity Super Cycle to  Stick Around a Bit Longer"
-award_year: 2014
+year: 2014
 published: 2014-08-22 12:37:29
 published_gmt: 2014-08-22 11:37:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/08/world-bank-group-commodity-super-cycle-to-stick-around-a-bit-longer/"
 categories: ["Africa", "Asia Pacific", "Columnists", "Europe", "Finance", "Latin America", "Middle East", "North America", "Sustainability"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: de4d72ab1d951222aee4085303c2954efdff029e273b2856617c5a52769f7ecb
 canonical: 7847-world-bank-group-commodity-super-cycle-to-stick-around-a-bit-longer.json
 ---

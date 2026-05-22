@@ -1,12 +1,21 @@
 ---
 id: 16035
 title: "Applied Science Private University (ASPU): Bringing Tomorrow’s Tech Specialists to the World’s Attention"
-award_year: 2020
+year: 2020
 published: 2020-05-01 17:19:53
 published_gmt: 2020-05-01 16:19:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2020/05/applied-science-private-university-aspu-bringing-tomorrows-tech-specialists-to-the-worlds-attention/"
 categories: ["Corporate", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2b85500903bb75ddb9d45b3ab686ce47de9d16da4a6b047bf08ed9324ffb2550
 canonical: 16035-applied-science-private-university-aspu-bringing-tomorrows-tech-specialists-to-t.json
 ---

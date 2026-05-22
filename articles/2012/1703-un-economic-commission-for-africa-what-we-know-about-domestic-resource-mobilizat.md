@@ -1,12 +1,21 @@
 ---
 id: 1703
 title: "UN Economic Commission for Africa: Domestic Resource Mobilization in Africa"
-award_year: 2012
+year: 2012
 published: 2012-08-14 18:16:31
 published_gmt: 2012-08-14 17:16:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/08/un-economic-commission-for-africa-what-we-know-about-domestic-resource-mobilization-in-africa/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0a4d95bb16953f7dbf2288bfa4080ffff49c9482343aa6701ade92878a141792
 canonical: 1703-un-economic-commission-for-africa-what-we-know-about-domestic-resource-mobilizat.json
 ---

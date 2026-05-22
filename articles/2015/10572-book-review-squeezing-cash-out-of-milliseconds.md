@@ -1,12 +1,21 @@
 ---
 id: 10572
 title: "Book Review: Squeezing Cash Out of Milliseconds"
-award_year: 2015
+year: 2015
 published: 2015-10-20 14:03:00
 published_gmt: 2015-10-20 13:03:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/10/book-review-squeezing-cash-out-of-milliseconds/"
 categories: ["Finance", "Reviews", "Technology"]
+content_class: review
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 992d4e8cc202a5a35756886bb280b5cf59365e41d97cf68278fb0ceeee297dbd
 canonical: 10572-book-review-squeezing-cash-out-of-milliseconds.json
 ---

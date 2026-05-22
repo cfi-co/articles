@@ -1,12 +1,21 @@
 ---
 id: 25599
 title: "World Bank: Tackling Development Crisis Through Financial Innovation"
-award_year: 2023
+year: 2023
 published: 2023-06-16 09:55:11
 published_gmt: 2023-06-16 08:55:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/featured/2023/06/world-bank-tackling-development-crisis-through-financial-innovation/"
 categories: ["Banking", "Finance", "Multilaterals", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: df20f4471e5339da3347bca50faa8db5811e688359a8935dde8b37c8c23edea5
 canonical: 25599-world-bank-tackling-development-crisis-through-financial-innovation.json
 ---

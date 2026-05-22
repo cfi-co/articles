@@ -1,12 +1,21 @@
 ---
 id: 2419
 title: "Keeping It Simple"
-award_year: 2012
+year: 2012
 published: 2012-10-23 13:58:54
 published_gmt: 2012-10-23 13:58:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2012/10/keeping-it-simple/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9172d1a1eed3c8e6c2d480936443862adf34dc5b96009affa536782aa044d373
 canonical: 2419-keeping-it-simple.json
 ---

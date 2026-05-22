@@ -1,12 +1,21 @@
 ---
 id: 8339
 title: "Elif Shafak: Exposing the Moralising Slappers"
-award_year: 2014
+year: 2014
 published: 2014-10-31 09:40:10
 published_gmt: 2014-10-31 09:40:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/10/elif-shafak-exposing-the-moralising-slappers/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e78473f913b82c116ee30e4d5aa76c99f6215f664a1fabd7fb4a2703c8ba3048
 canonical: 8339-elif-shafak-exposing-the-moralising-slappers.json
 ---

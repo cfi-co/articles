@@ -1,12 +1,21 @@
 ---
 id: 5563
 title: "André Esteves: No Limit to Ambition - Looking to Dominate the World"
-award_year: 2013
+year: 2013
 published: 2013-10-23 12:17:58
 published_gmt: 2013-10-23 11:17:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/10/andre-esteves-no-limit-to-ambition-looking-to-dominate-the-world/"
 categories: ["Banking", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fa76809102a1987270f2298a80470002a5bdff6b0b7533d4d1f8d7b2118d0782
 canonical: 5563-andre-esteves-no-limit-to-ambition-looking-to-dominate-the-world.json
 ---

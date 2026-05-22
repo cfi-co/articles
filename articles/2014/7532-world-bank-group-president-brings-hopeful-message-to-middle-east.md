@@ -1,12 +1,21 @@
 ---
 id: 7532
 title: "World Bank Group President Brings Hopeful Message to Middle East"
-award_year: 2014
+year: 2014
 published: 2014-07-01 10:23:30
 published_gmt: 2014-07-01 09:23:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/07/world-bank-group-president-brings-hopeful-message-to-middle-east/"
 categories: ["Africa", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e25771496e26ddfdb80cc49b2b1b48d4fd1a28d8f1cf4b5e2d4ea3ad602dd9f
 canonical: 7532-world-bank-group-president-brings-hopeful-message-to-middle-east.json
 ---

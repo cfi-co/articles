@@ -1,12 +1,21 @@
 ---
 id: 26163
 title: "Lord Waverley: Central Asian Region Revealed in All its Glory, Mystery, and History"
-award_year: 2023
+year: 2023
 published: 2023-03-01 19:52:19
 published_gmt: 2023-03-01 19:52:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2023/03/lord-waverley-central-asian-region-revealed-in-all-its-glory-mystery-and-history/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e6ae0ad7aed4c8a44e7ce3f2ae72338415635b8d68e9e8b1a78b108b3b59f01
 canonical: 26163-lord-waverley-central-asian-region-revealed-in-all-its-glory-mystery-and-history.json
 ---

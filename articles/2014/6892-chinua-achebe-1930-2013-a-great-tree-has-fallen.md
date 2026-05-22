@@ -1,12 +1,21 @@
 ---
 id: 6892
 title: "Chinua Achebe (1930-2013): A Great Tree Has Fallen"
-award_year: 2014
+year: 2014
 published: 2014-04-01 11:33:11
 published_gmt: 2014-04-01 10:33:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/04/chinua-achebe-1930-2013-a-great-tree-has-fallen/"
 categories: ["Africa", "Obituaries"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ce9b86a946384e05a1edd5953a4e802db286d2997d3952e441288c47a1247790
 canonical: 6892-chinua-achebe-1930-2013-a-great-tree-has-fallen.json
 ---

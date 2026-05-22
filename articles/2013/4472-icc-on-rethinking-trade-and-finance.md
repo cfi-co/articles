@@ -1,12 +1,21 @@
 ---
 id: 4472
 title: "ICC On Rethinking Trade and Finance"
-award_year: 2013
+year: 2013
 published: 2013-07-01 10:19:32
 published_gmt: 2013-07-01 09:19:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/07/icc-on-rethinking-trade-and-finance/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: be8a9240b78ecbee064b37bcfbf049eb71076db6d118d879cf25f5895f2bcfaf
 canonical: 4472-icc-on-rethinking-trade-and-finance.json
 ---

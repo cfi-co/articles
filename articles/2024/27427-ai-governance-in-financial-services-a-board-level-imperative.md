@@ -1,12 +1,21 @@
 ---
 id: 27427
 title: "AI Governance in Financial Services: A Board-Level Imperative"
-award_year: 2024
+year: 2024
 published: 2024-12-19 13:58:11
 published_gmt: 2024-12-19 13:58:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2024/12/ai-governance-in-financial-services-a-board-level-imperative/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 52d469aedff5aefae5f63cf1d0b68fcc2da1b492adef94a7a969d760c19a1478
 canonical: 27427-ai-governance-in-financial-services-a-board-level-imperative.json
 ---

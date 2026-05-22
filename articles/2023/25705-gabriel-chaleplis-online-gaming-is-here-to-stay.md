@@ -1,12 +1,21 @@
 ---
 id: 25705
 title: "You Can Take This to the Bank: Online Gaming is Here to Stay"
-award_year: 2023
+year: 2023
 published: 2023-07-03 20:06:12
 published_gmt: 2023-07-03 19:06:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2023/07/gabriel-chaleplis-online-gaming-is-here-to-stay/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6c15ba7ac220ad6629165aea7dec46cdb4c9c17ed0d00b1e24dc8fd56865a594
 canonical: 25705-gabriel-chaleplis-online-gaming-is-here-to-stay.json
 ---

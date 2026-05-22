@@ -1,12 +1,21 @@
 ---
 id: 14355
 title: "Delen Private Bank and Digitalisation: A Perfect Blend of Technology and Personal Service"
-award_year: 2019
+year: 2019
 published: 2019-11-14 09:55:52
 published_gmt: 2019-11-14 09:55:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2019/11/delen-private-bank-and-digitalisation-a-perfect-blend-of-technology-and-personal-service/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e4cb5efdcbaa721336540517fd42610454d125b268310607e0ed297b288431ee
 canonical: 14355-delen-private-bank-and-digitalisation-a-perfect-blend-of-technology-and-personal.json
 ---

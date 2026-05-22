@@ -1,12 +1,21 @@
 ---
 id: 27175
 title: "Lego-like Building Blocks from Recycled Plastic: Click to Win?"
-award_year: 2024
+year: 2024
 published: 2024-10-02 12:23:51
 published_gmt: 2024-10-02 11:23:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2024/10/lego-like-building-blocks-from-recycled-plastic-click-to-win/"
 categories: ["Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b69b55d3bc2c1be36ac95a4e464396efbb751243c5f75433b7ef4c0e392e416f
 canonical: 27175-lego-like-building-blocks-from-recycled-plastic-click-to-win.json
 ---

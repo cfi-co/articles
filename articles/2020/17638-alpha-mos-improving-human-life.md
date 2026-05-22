@@ -1,12 +1,21 @@
 ---
 id: 17638
 title: "Alpha MOS: Improving Human Life"
-award_year: 2020
+year: 2020
 published: 2020-10-26 15:50:28
 published_gmt: 2020-10-26 15:50:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/10/alpha-mos-improving-human-life/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c10fb95e1baed8b36b9113fca213213d190adeedcf724d1f3a8e412e0d879bf7
 canonical: 17638-alpha-mos-improving-human-life.json
 ---

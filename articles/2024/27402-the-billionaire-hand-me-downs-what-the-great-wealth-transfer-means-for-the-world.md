@@ -1,12 +1,21 @@
 ---
 id: 27402
 title: "The Billionaire Hand-Me-Downs: What the Great Wealth Transfer Means for the World"
-award_year: 2024
+year: 2024
 published: 2024-12-16 13:18:28
 published_gmt: 2024-12-16 13:18:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2024/12/the-billionaire-hand-me-downs-what-the-great-wealth-transfer-means-for-the-world/"
 categories: ["Finance", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fe128629d8544293996f5d3e3490a3b514fd80a1b3d4ee69de9084f6e62244ed
 canonical: 27402-the-billionaire-hand-me-downs-what-the-great-wealth-transfer-means-for-the-world.json
 ---

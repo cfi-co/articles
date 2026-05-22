@@ -1,12 +1,21 @@
 ---
 id: 7348
 title: "The World Bank: Local Currency Bonds Catch On as Countries Aim to Catch Up"
-award_year: 2014
+year: 2014
 published: 2014-05-23 10:01:12
 published_gmt: 2014-05-23 09:01:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/05/the-world-bank-local-currency-bonds-catch-on-as-countries-aim-to-catch-up/"
 categories: ["Banking", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9fc9b1f1c959235ed0a2140631fceba62da99810a42ddae7a71d83db9ec4b778
 canonical: 7348-the-world-bank-local-currency-bonds-catch-on-as-countries-aim-to-catch-up.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 18640
 title: "Hydropower and its Prospects"
-award_year: 2021
+year: 2021
 published: 2021-02-04 16:10:10
 published_gmt: 2021-02-04 16:10:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/hydropower-and-its-prospects/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 552fe1f743d2b22051a9ab3526e00e589e039e5eb917d7b7db32107a5913bc9f
 canonical: 18640-hydropower-and-its-prospects.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 15955
 title: "Yelo: Brighter Banking for the People and Business Community of Azerbaijan"
-award_year: 2020
+year: 2020
 published: 2020-07-01 15:36:56
 published_gmt: 2020-07-01 14:36:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/07/yelo-bank-brighter-banking-for-the-people-and-business-community-of-azerbaijan/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d21c5d786311ff39a357e09d8482491799353554572a946e9ffcfb25036d165e
 canonical: 15955-yelo-bank-brighter-banking-for-the-people-and-business-community-of-azerbaijan.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27700
 title: "Driving Through the Storm: How Ford Avoided a Bailout and Steered Towards the Future"
-award_year: 2025
+year: 2025
 published: 2025-04-30 22:17:30
 published_gmt: 2025-04-30 21:17:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2025/04/driving-through-the-storm-how-ford-avoided-a-bailout-and-steered-towards-the-future/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f09e97daa2078636cae79b903fc3071ba6cf1d87f0656171d63af254bfa9abf5
 canonical: 27700-driving-through-the-storm-how-ford-avoided-a-bailout-and-steered-towards-the-fut.json
 ---

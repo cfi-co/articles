@@ -1,12 +1,21 @@
 ---
 id: 22880
 title: "How Bernard Arnault Turned One Franc Into a Dynasty"
-award_year: 2022
+year: 2022
 published: 2022-08-05 12:41:21
 published_gmt: 2022-08-05 11:41:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2022/08/how-bernard-arnault-turned-one-franc-into-a-dynasty/"
 categories: ["Corporate", "Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e0b76579ece4a2f25ae91171b2c4ce8752a0dde90716edf3f44183ebb8698639
 canonical: 22880-how-bernard-arnault-turned-one-franc-into-a-dynasty.json
 ---

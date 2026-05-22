@@ -1,12 +1,21 @@
 ---
 id: 8647
 title: "Evangelos Marinakis: A Councilman of Note"
-award_year: 2015
+year: 2015
 published: 2015-01-05 15:53:51
 published_gmt: 2015-01-05 15:53:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/01/evangelos-marinakis-a-councilman-of-note/"
 categories: ["Europe", "Finance", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d5730d924ddc691bb0324e040b44c928e1ae0320df5a929e8a4b89656d4c5b62
 canonical: 8647-evangelos-marinakis-a-councilman-of-note.json
 ---

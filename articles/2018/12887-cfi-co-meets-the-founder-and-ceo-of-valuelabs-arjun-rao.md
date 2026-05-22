@@ -1,12 +1,21 @@
 ---
 id: 12887
 title: "CFI.co Meets the Founder and CEO of ValueLabs: Arjun Rao"
-award_year: 2018
+year: 2018
 published: 2018-08-24 13:17:27
 published_gmt: 2018-08-24 12:17:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/08/cfi-co-meets-the-founder-and-ceo-of-valuelabs-arjun-rao/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 33027536c0f1b605e1247d8132ced7a8e0e5664dd1a90d90908715e918c8fa11
 canonical: 12887-cfi-co-meets-the-founder-and-ceo-of-valuelabs-arjun-rao.json
 ---

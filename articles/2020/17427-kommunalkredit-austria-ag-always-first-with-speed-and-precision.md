@@ -1,12 +1,21 @@
 ---
 id: 17427
 title: "Kommunalkredit Austria AG: Always First with Speed and Precision"
-award_year: 2020
+year: 2020
 published: 2020-01-03 11:48:08
 published_gmt: 2020-01-03 11:48:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/01/kommunalkredit-austria-ag-always-first-with-speed-and-precision/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 84fa8ab44f940ad107ed279f384c21e9f86e930a5b6784036ed2984b720eae65
 canonical: 17427-kommunalkredit-austria-ag-always-first-with-speed-and-precision.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 6544
 title: "Corporate Tax and Transfer Pricing Forum Brazil"
-award_year: 2014
+year: 2014
 published: 2014-02-06 11:48:00
 published_gmt: 2014-02-06 11:48:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/02/corporate-tax-and-transfer-pricing-forum-brazil/"
 categories: ["Finance", "Latin America", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f5b748370910fd08ca703a584029835f2ed8e565ab166573f290717833135da0
 canonical: 6544-corporate-tax-and-transfer-pricing-forum-brazil.json
 ---

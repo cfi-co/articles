@@ -1,12 +1,21 @@
 ---
 id: 27507
 title: "David Ogilvy, the Original Mad Man: The Man Who Sold Selling"
-award_year: 2025
+year: 2025
 published: 2025-01-21 08:43:21
 published_gmt: 2025-01-21 08:43:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2025/01/david-ogilvy-the-original-mad-man-the-man-who-sold-selling/"
 categories: ["Heroes", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 14ca6f74c9f19b5f0dec67db8ee70d5135f97c0e6fc4fc6d116bb771b109e0ac
 canonical: 27507-david-ogilvy-the-original-mad-man-the-man-who-sold-selling.json
 ---

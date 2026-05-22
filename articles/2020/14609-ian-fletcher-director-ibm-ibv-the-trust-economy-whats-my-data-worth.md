@@ -1,12 +1,21 @@
 ---
 id: 14609
 title: "Ian Fletcher, Director IBM IBV: The Trust Economy - What’s My Data Worth?"
-award_year: 2020
+year: 2020
 published: 2020-02-20 13:57:48
 published_gmt: 2020-02-20 13:57:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2020/02/ian-fletcher-director-ibm-ibv-the-trust-economy-whats-my-data-worth/"
 categories: ["Middle East", "North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dfec10e696d0a138f33361acb133429d00ef1c5470eba87d0588ad79b4c43f81
 canonical: 14609-ian-fletcher-director-ibm-ibv-the-trust-economy-whats-my-data-worth.json
 ---

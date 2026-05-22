@@ -1,12 +1,21 @@
 ---
 id: 26967
 title: "Sustainable Development A Legacy of Innovation: CZFS's 50-Year Milestone"
-award_year: 2024
+year: 2024
 published: 2024-07-26 11:30:27
 published_gmt: 2024-07-26 10:30:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2024/07/sustainable-development-a-legacy-of-innovation-czfss-50-year-milestone/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fde05443741db5ee4e413f48ca2c94655c0b5a29ad8311eb794e6f30800d8f25
 canonical: 26967-sustainable-development-a-legacy-of-innovation-czfss-50-year-milestone.json
 ---

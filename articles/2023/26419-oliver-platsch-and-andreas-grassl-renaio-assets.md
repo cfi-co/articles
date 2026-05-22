@@ -1,12 +1,21 @@
 ---
 id: 26419
 title: "Power to the People — But Let’s Make it Clean and Renewable..."
-award_year: 2023
+year: 2023
 published: 2023-11-16 10:35:24
 published_gmt: 2023-11-16 10:35:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/11/oliver-platsch-and-andreas-grassl-renaio-assets/"
 categories: ["Corporate", "Energy", "Europe", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7094fe7dff8032c6632032e4b30c7d1e87bc58c9225ac2d001066133003ed2bd
 canonical: 26419-oliver-platsch-and-andreas-grassl-renaio-assets.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21114
 title: "Invasion of the Robots! Beware, Beware! Just Because We Can Doesn’t Mean That We Should…"
-award_year: 2021
+year: 2021
 published: 2021-11-16 06:25:26
 published_gmt: 2021-11-16 06:25:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/11/invasion-of-the-robots-beware-beware-just-because-we-can-doesnt-mean-that-we-should/"
 categories: ["Brave New World", "Technology", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7dbfa5c852d49467f69ca18b9c2803e131a30be4d4d272d8820e4d2f32befa69
 canonical: 21114-invasion-of-the-robots-beware-beware-just-because-we-can-doesnt-mean-that-we-sho.json
 ---

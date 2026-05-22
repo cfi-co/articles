@@ -1,12 +1,21 @@
 ---
 id: 2567
 title: "Janamitra Devan: The Innovation Imperative"
-award_year: 2012
+year: 2012
 published: 2012-12-04 17:28:35
 published_gmt: 2012-12-04 17:28:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/12/janamitra-devan-the-innovation-imperative/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6c1130a00c97af976b3f558227eeb66b12dc80b980ce9d7c9ec4f202403578a5
 canonical: 2567-janamitra-devan-the-innovation-imperative.json
 ---

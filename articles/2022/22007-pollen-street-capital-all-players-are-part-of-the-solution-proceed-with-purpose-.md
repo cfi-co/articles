@@ -1,12 +1,21 @@
 ---
 id: 22007
 title: "Pollen Street Capital - All Players are Part of the Solution: Proceed with Purpose to Maximise ESG Impact"
-award_year: 2022
+year: 2022
 published: 2022-05-19 11:36:58
 published_gmt: 2022-05-19 10:36:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2022/05/pollen-street-capital-all-players-are-part-of-the-solution-proceed-with-purpose-to-maximise-esg-impact/"
 categories: ["CSR", "Corporate", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a0e03155c18eb725a406845d4c5d3bd56c7095c3857c29cf3bf4cde34378cde7
 canonical: 22007-pollen-street-capital-all-players-are-part-of-the-solution-proceed-with-purpose-.json
 ---

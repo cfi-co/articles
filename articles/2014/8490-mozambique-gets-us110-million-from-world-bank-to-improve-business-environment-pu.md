@@ -1,12 +1,21 @@
 ---
 id: 8490
 title: "Mozambique Gets US$110 Million from World Bank to Improve Business Environment, Public Financial Management, and Social Protection"
-award_year: 2014
+year: 2014
 published: 2014-12-08 13:25:49
 published_gmt: 2014-12-08 13:25:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/12/mozambique-gets-us110-million-from-world-bank-to-improve-business-environment-public-financial-management-and-social-protection/"
 categories: ["Africa", "Finance", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a7811f5c274df9c6fe5f14374047defd7f96ff39d1ceb4b65cfe374e59e4ab5e
 canonical: 8490-mozambique-gets-us110-million-from-world-bank-to-improve-business-environment-pu.json
 ---

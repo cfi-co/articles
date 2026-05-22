@@ -1,12 +1,21 @@
 ---
 id: 25421
 title: "Inclusive Pan-African Investment Bank Keeps the Continent’s Finance Flowing"
-award_year: 2023
+year: 2023
 published: 2023-05-12 11:05:26
 published_gmt: 2023-05-12 10:05:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2023/05/inclusive-pan-african-investment-bank-keeps-the-continents-finance-flowing/"
 categories: ["Africa", "Banking"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: df233e9c6052f4716ba02f7f8ed35fcd38b1eccf519d0afb6bb450b1f1198b6a
 canonical: 25421-inclusive-pan-african-investment-bank-keeps-the-continents-finance-flowing.json
 ---

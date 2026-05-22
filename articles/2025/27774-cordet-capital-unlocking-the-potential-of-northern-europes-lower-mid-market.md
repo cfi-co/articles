@@ -1,12 +1,21 @@
 ---
 id: 27774
 title: "CORDET Capital: Unlocking the Potential of Northern Europe’s Lower Mid-Market"
-award_year: 2025
+year: 2025
 published: 2025-06-12 15:17:49
 published_gmt: 2025-06-12 14:17:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2025/06/cordet-capital-unlocking-the-potential-of-northern-europes-lower-mid-market/"
 categories: ["Corporate", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6b0f7db469c9ce7360eac7a3fa30aeb8b7ffe823512375363488a69a94da4640
 canonical: 27774-cordet-capital-unlocking-the-potential-of-northern-europes-lower-mid-market.json
 ---

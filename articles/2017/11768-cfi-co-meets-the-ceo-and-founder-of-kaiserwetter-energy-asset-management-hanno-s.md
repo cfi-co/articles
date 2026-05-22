@@ -1,12 +1,21 @@
 ---
 id: 11768
 title: "CFI.co Meets the CEO and Founder of Kaiserwetter Energy Asset Management: Hanno Schoklitsch"
-award_year: 2017
+year: 2017
 published: 2017-08-31 11:12:27
 published_gmt: 2017-08-31 10:12:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-and-founder-of-kaiserwetter-energy-asset-management-hanno-schoklitsch/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d4ed2ef92919c9c4d9ad0d2eaaf3c728cec5d65912aa4d0a551099895dbff313
 canonical: 11768-cfi-co-meets-the-ceo-and-founder-of-kaiserwetter-energy-asset-management-hanno-s.json
 ---

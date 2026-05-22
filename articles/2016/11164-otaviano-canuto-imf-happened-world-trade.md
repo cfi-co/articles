@@ -1,12 +1,21 @@
 ---
 id: 11164
 title: "Otaviano Canuto, IMF: What Happened to World Trade?"
-award_year: 2016
+year: 2016
 published: 2016-04-27 13:21:28
 published_gmt: 2016-04-27 12:21:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2016/04/otaviano-canuto-imf-happened-world-trade/"
 categories: ["Africa", "Asia Pacific", "Banking", "Economics &amp; Convergence", "Europe", "Finance", "Latin America", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 642491effa216037eea8dc783f4144ec4d3be75f7509a51cf551163e40597f27
 canonical: 11164-otaviano-canuto-imf-happened-world-trade.json
 ---

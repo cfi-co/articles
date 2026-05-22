@@ -1,12 +1,21 @@
 ---
 id: 20692
 title: "Kate Ahern: It’s ESG All the Way for Female-led Firm Dedicated to Positive Change"
-award_year: 2021
+year: 2021
 published: 2021-09-21 11:10:18
 published_gmt: 2021-09-21 10:10:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/09/kate-ahern-its-esg-all-the-way-for-female-led-firm-dedicated-to-positive-change/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 93759578373b7e8db594f49fb36e4e6f987373b21baf41f09f7de9cc15f75a0b
 canonical: 20692-kate-ahern-its-esg-all-the-way-for-female-led-firm-dedicated-to-positive-change.json
 ---

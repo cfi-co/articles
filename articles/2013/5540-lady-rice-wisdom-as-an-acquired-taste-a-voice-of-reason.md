@@ -1,12 +1,21 @@
 ---
 id: 5540
 title: "Lady Rice: Wisdom as an Acquired Taste - A Voice of Reason"
-award_year: 2013
+year: 2013
 published: 2013-10-21 11:13:45
 published_gmt: 2013-10-21 10:13:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/10/lady-rice-wisdom-as-an-acquired-taste-a-voice-of-reason/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 70b6d7694a0af3863c8fb56f280a55d4b8bf8ec913586ca334c61d270b3408be
 canonical: 5540-lady-rice-wisdom-as-an-acquired-taste-a-voice-of-reason.json
 ---

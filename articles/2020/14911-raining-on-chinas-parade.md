@@ -1,12 +1,21 @@
 ---
 id: 14911
 title: "Raining on China’s Parade"
-award_year: 2020
+year: 2020
 published: 2020-04-14 17:07:21
 published_gmt: 2020-04-14 16:07:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/raining-on-chinas-parade/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1fdb5483d33920422fa2e8c5b75a478be2546f8f2d2b833602ca35df47491c60
 canonical: 14911-raining-on-chinas-parade.json
 ---

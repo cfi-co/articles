@@ -1,12 +1,21 @@
 ---
 id: 5423
 title: "Mark Carney: An Admirable Mind-Set at the Bank of England"
-award_year: 2013
+year: 2013
 published: 2013-10-08 12:16:24
 published_gmt: 2013-10-08 11:16:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/10/mark-carney-an-admirable-mind-set-at-the-bank-of-england/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5c49db3aee668f8ae372b573145552a8191fa2515fd2c96b79c6b30116e02c00
 canonical: 5423-mark-carney-an-admirable-mind-set-at-the-bank-of-england.json
 ---

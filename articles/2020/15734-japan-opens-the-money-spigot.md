@@ -1,12 +1,21 @@
 ---
 id: 15734
 title: "Japan Opens the Money Spigot"
-award_year: 2020
+year: 2020
 published: 2020-06-15 11:46:39
 published_gmt: 2020-06-15 10:46:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/06/japan-opens-the-money-spigot/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 28bce0f249320b8bb90d0bc56c7ffae3dc8893df3c4c32e291af99ba7de61b5b
 canonical: 15734-japan-opens-the-money-spigot.json
 ---

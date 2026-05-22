@@ -1,12 +1,21 @@
 ---
 id: 18686
 title: "BIAT: Taking Decisive Steps to Counter Uncertainty Has Lent Strength to Tunisian Society and Economy"
-award_year: 2021
+year: 2021
 published: 2021-02-09 14:01:54
 published_gmt: 2021-02-09 14:01:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/biat-taking-decisive-steps-to-counter-uncertainty-has-lent-strength-to-tunisian-society-and-economy/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ea89b21dd4ddc749ca42f6e55889395a9e9f366603f034ff9bdc18081bafcff4
 canonical: 18686-biat-taking-decisive-steps-to-counter-uncertainty-has-lent-strength-to-tunisian-.json
 ---

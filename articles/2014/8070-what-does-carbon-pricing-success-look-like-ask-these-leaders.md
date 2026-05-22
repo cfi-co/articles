@@ -1,12 +1,21 @@
 ---
 id: 8070
 title: "What Does Carbon Pricing Success Look Like? Ask These Leaders"
-award_year: 2014
+year: 2014
 published: 2014-09-22 13:49:55
 published_gmt: 2014-09-22 12:49:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/09/what-does-carbon-pricing-success-look-like-ask-these-leaders/"
 categories: ["Europe", "North America", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3cdd219d2a4c83a333511bece0addc670fd2069e991604e49c7382680bd8572a
 canonical: 8070-what-does-carbon-pricing-success-look-like-ask-these-leaders.json
 ---

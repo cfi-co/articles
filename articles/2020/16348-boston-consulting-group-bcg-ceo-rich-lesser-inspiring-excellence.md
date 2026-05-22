@@ -1,12 +1,21 @@
 ---
 id: 16348
 title: "Boston Consulting Group (BCG) CEO Rich Lesser: Inspiring Excellence"
-award_year: 2020
+year: 2020
 published: 2020-07-17 16:11:51
 published_gmt: 2020-07-17 15:11:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/07/boston-consulting-group-bcg-ceo-rich-lesser-inspiring-excellence/"
 categories: ["Corporate Leaders", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8efd9894de5a6f9f02e623299218e469a64e840e2ade034604e5a21332ab9095
 canonical: 16348-boston-consulting-group-bcg-ceo-rich-lesser-inspiring-excellence.json
 ---

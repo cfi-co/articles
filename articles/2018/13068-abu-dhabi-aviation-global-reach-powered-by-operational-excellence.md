@@ -1,12 +1,21 @@
 ---
 id: 13068
 title: "Abu Dhabi Aviation: Global Reach Powered by Operational Excellence"
-award_year: 2018
+year: 2018
 published: 2018-10-16 10:42:16
 published_gmt: 2018-10-16 09:42:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2018/10/abu-dhabi-aviation-global-reach-powered-by-operational-excellence/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a44e3b08de3a33800f15dd05d08090f962a01bf3ba544ac07e23105922548174
 canonical: 13068-abu-dhabi-aviation-global-reach-powered-by-operational-excellence.json
 ---

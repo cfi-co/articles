@@ -1,12 +1,21 @@
 ---
 id: 17497
 title: "FAMA Investimentos: Shared Economy Investment Opportunities that Meet the Highest ESG Standards"
-award_year: 2020
+year: 2020
 published: 2020-01-23 12:53:25
 published_gmt: 2020-01-23 12:53:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/01/fama-investimentos-investments-that-meet-the-highest-esg-standards/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 816b2876cbefbb24d52e872792227ac812c0b7ea3340a199f0e4c65d0eb302bc
 canonical: 17497-menu-corporate-2020-01-fama-investimentos-investments-that-meet-the-highest-esg-.json
 ---

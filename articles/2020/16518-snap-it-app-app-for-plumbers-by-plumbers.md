@@ -1,12 +1,21 @@
 ---
 id: 16518
 title: "Snap-It App: App For Plumbers, By Plumbers"
-award_year: 2020
+year: 2020
 published: 2020-08-06 15:20:27
 published_gmt: 2020-08-06 14:20:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/08/snap-it-app-app-for-plumbers-by-plumbers/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e4f11b81db93bf419b05d97c0eafe0dd7b01ce0399ca79c172921e7bae43761a
 canonical: 16518-snap-it-app-app-for-plumbers-by-plumbers.json
 ---

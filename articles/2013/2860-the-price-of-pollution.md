@@ -1,12 +1,21 @@
 ---
 id: 2860
 title: "The Price of Pollution"
-award_year: 2013
+year: 2013
 published: 2013-01-09 09:00:05
 published_gmt: 2013-01-09 09:00:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2013/01/the-price-of-pollution/"
 categories: ["North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3e84a168d3040392e217a8020f8af0f012b2245867f91dec192b92853a9ecf3e
 canonical: 2860-the-price-of-pollution.json
 ---

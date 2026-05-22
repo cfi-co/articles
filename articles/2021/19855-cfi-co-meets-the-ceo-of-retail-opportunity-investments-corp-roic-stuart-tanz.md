@@ -1,12 +1,21 @@
 ---
 id: 19855
 title: "CFI.co Meets the CEO of Retail Opportunity Investments Corp. (ROIC): Stuart Tanz"
-award_year: 2021
+year: 2021
 published: 2021-06-14 15:19:46
 published_gmt: 2021-06-14 14:19:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/06/cfi-co-meets-the-ceo-of-retail-opportunity-investments-corp-roic-stuart-tanz/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0e7b89f4003177b53a7683c611a0c41e8b4a70cfa534d49c390991d6d4180a8f
 canonical: 19855-cfi-co-meets-the-ceo-of-retail-opportunity-investments-corp-roic-stuart-tanz.json
 ---

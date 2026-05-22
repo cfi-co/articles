@@ -1,12 +1,21 @@
 ---
 id: 23675
 title: "The Queen is Dead, Long Live the King: History and Heredity Endure in Britain"
-award_year: 2022
+year: 2022
 published: 2022-10-18 08:33:14
 published_gmt: 2022-10-18 07:33:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/10/the-queen-is-dead-long-live-the-king-history-and-heredity-endure-in-britain/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c7554122c5b83d7f78472bfe4d5b4a62f5f6c77688f7f4e8d41d1a04c22126d1
 canonical: 23675-the-queen-is-dead-long-live-the-king-history-and-heredity-endure-in-britain.json
 ---

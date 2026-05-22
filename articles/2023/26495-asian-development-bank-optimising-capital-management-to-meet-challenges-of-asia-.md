@@ -1,12 +1,21 @@
 ---
 id: 26495
 title: "Asian Development Bank: Optimising Capital Management to Meet Challenges of Asia-Pacific Development"
-award_year: 2023
+year: 2023
 published: 2023-11-30 12:07:01
 published_gmt: 2023-11-30 12:07:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2023/11/asian-development-bank-optimising-capital-management-to-meet-challenges-of-asia-pacific-development/"
 categories: ["Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8c8fef1565061cfca61a678955593d1d5a6810edb59ee6574b774cfa300ae1bb
 canonical: 26495-asian-development-bank-optimising-capital-management-to-meet-challenges-of-asia-.json
 ---

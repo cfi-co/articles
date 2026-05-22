@@ -1,12 +1,21 @@
 ---
 id: 22339
 title: "UNCDF: Growth Capital Plan to Assist the World’s Least-Developed Nations"
-award_year: 2022
+year: 2022
 published: 2022-07-10 10:39:24
 published_gmt: 2022-07-10 09:39:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2022/07/uncdf-growth-capital-plan-to-assist-the-worlds-least-developed-nations/"
 categories: ["Asia Pacific", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c52077581b5ac1e91ce6b4bd5297b5d773846b0d159b267c98351a90863dd1a0
 canonical: 22339-uncdf-growth-capital-plan-to-assist-the-worlds-least-developed-nations.json
 ---

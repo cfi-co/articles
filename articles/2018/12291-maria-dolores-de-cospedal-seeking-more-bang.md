@@ -1,12 +1,21 @@
 ---
 id: 12291
 title: "María Dolores de Cospedal: Seeking More Bang"
-award_year: 2018
+year: 2018
 published: 2018-02-16 11:42:28
 published_gmt: 2018-02-16 11:42:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2018/02/maria-dolores-de-cospedal-seeking-more-bang/"
 categories: ["Europe", "Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e3a8c14f0c0728efff551beff491d745aff6593c06a6285a8de34193ad0c046e
 canonical: 12291-maria-dolores-de-cospedal-seeking-more-bang.json
 ---

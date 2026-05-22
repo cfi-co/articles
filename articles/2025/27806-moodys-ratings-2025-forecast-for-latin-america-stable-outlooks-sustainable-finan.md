@@ -1,12 +1,21 @@
 ---
 id: 27806
 title: "Moody’s Ratings’ 2025 Forecast for Latin America: Stable Outlooks, Sustainable Finance Trends & Impact of US Policy Measures"
-award_year: 2025
+year: 2025
 published: 2025-07-14 17:26:53
 published_gmt: 2025-07-14 16:26:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/07/moodys-ratings-2025-forecast-for-latin-america-stable-outlooks-sustainable-finance-trends-impact-of-us-policy-measures/"
 categories: ["Columnists", "Finance", "Latin America", "North America"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 11f04492b2d0ff42782c3cd3b52a8e60bd2fb31c7c8d62bb75fdba9358faada1
 canonical: 27806-moodys-ratings-2025-forecast-for-latin-america-stable-outlooks-sustainable-finan.json
 ---

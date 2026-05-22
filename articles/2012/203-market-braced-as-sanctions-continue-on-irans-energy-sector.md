@@ -1,12 +1,21 @@
 ---
 id: 203
 title: "Market Braced as Sanctions Continue on Iran's Energy Sector"
-award_year: 2012
+year: 2012
 published: 2012-03-06 14:27:54
 published_gmt: 2012-03-06 14:27:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2012/03/market-braced-as-sanctions-continue-on-irans-energy-sector/"
 categories: ["Europe", "Middle East", "North America", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bed3e3ef9a6acd6cafbc80c96e04ce2413d82dcdf29756894ad0a18fbd330ce2
 canonical: 203-market-braced-as-sanctions-continue-on-irans-energy-sector.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21101
 title: "Lord Waverley and Paul Baker: The Promise, Potential and Pitfalls of Britain’s Relationship with Africa"
-award_year: 2021
+year: 2021
 published: 2021-11-15 06:34:56
 published_gmt: 2021-11-15 06:34:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2021/11/lord-waverley-and-paul-baker-the-promise-potential-and-pitfalls-of-britains-relationship-with-africa/"
 categories: ["Africa", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 610cbf2b0804054d92788c908f4998ec94d9e645436407325b054181d1935150
 canonical: 21101-lord-waverley-and-paul-baker-the-promise-potential-and-pitfalls-of-britains-rela.json
 ---

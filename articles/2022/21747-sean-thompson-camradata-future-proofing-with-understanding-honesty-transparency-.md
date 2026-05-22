@@ -1,12 +1,21 @@
 ---
 id: 21747
 title: "Sean Thompson, CAMRADATA: Future-proofing with Understanding, Honesty, Transparency … and Fun!"
-award_year: 2022
+year: 2022
 published: 2022-05-03 15:50:11
 published_gmt: 2022-05-03 14:50:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/sean-thompson-camradata-future-proofing-with-understanding-honesty-transparency-and-fun/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fbe334f4a4dfcb52ee9bf0d4c9e600b8ec125618c777f9cd15c9337930de7c93
 canonical: 21747-sean-thompson-camradata-future-proofing-with-understanding-honesty-transparency-.json
 ---

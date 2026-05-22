@@ -1,12 +1,21 @@
 ---
 id: 22110
 title: "LBBW: Operating Soundly, Making Big Moves and Breaking New Ground"
-award_year: 2018
+year: 2018
 published: 2018-09-24 16:28:55
 published_gmt: 2018-09-24 15:28:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2018/09/lbbw-operating-soundly-making-big-moves-and-breaking-new-ground/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e2220c83bcecc98c9c960d1bae696885e7d3ebbff7468c69b67bacfcdcd8ece2
 canonical: 22110-lbbw-operating-soundly-making-big-moves-and-breaking-new-ground.json
 ---

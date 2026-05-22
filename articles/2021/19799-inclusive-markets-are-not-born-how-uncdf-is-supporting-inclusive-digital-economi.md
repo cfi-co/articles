@@ -1,12 +1,21 @@
 ---
 id: 19799
 title: "Inclusive Markets Are Not Born: How UNCDF is Supporting Inclusive Digital Economies"
-award_year: 2021
+year: 2021
 published: 2021-06-09 12:58:39
 published_gmt: 2021-06-09 11:58:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2021/06/inclusive-markets-are-not-born-how-uncdf-is-supporting-inclusive-digital-economies/"
 categories: ["Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eee09b6dd850ec08f9cff2c6bdf1023c67db6200c01c2954a1de7cd7d427a4fa
 canonical: 19799-inclusive-markets-are-not-born-how-uncdf-is-supporting-inclusive-digital-economi.json
 ---

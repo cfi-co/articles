@@ -1,12 +1,21 @@
 ---
 id: 4790
 title: "CFI.co Meets ‘Jibola Odedina"
-award_year: 2013
+year: 2013
 published: 2013-07-01 14:08:42
 published_gmt: 2013-07-01 13:08:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/07/cfi-co-meets-jibola-odedina/"
 categories: ["Africa", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7d703e4e3b30982f0eb9184a192b88e43792fb9eea312c0d282e0e89a3fa3535
 canonical: 4790-cfi-co-meets-jibola-odedina.json
 ---

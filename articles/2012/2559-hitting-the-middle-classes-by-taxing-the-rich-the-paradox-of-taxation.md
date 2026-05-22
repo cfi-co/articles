@@ -1,12 +1,21 @@
 ---
 id: 2559
 title: "Hitting the Middle Classes by Taxing the Rich"
-award_year: 2012
+year: 2012
 published: 2012-12-03 01:00:23
 published_gmt: 2012-12-03 01:00:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2012/12/hitting-the-middle-classes-by-taxing-the-rich-the-paradox-of-taxation/"
 categories: ["Europe", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6401a8b63cf286b4594469af0f7dc6fc80236a2b031614110761d41054b012a8
 canonical: 2559-hitting-the-middle-classes-by-taxing-the-rich-the-paradox-of-taxation.json
 ---

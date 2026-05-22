@@ -1,12 +1,21 @@
 ---
 id: 9395
 title: "Mauldin and Tepper’s Code Red Reviewed: Code Red or Red Herring?"
-award_year: 2014
+year: 2014
 published: 2014-03-01 16:52:21
 published_gmt: 2014-03-01 16:52:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/reviews/2014/03/mauldin-and-teppers-code-red-reviewed-code-red-or-red-herring/"
 categories: ["Reviews"]
+content_class: review
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a54f467e431e68303b5e7bc8926fe80522e8a3d222d5bf1b6c7040f5f5ec1cf8
 canonical: 9395-mauldin-and-teppers-code-red-reviewed-code-red-or-red-herring.json
 ---

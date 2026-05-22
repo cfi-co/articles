@@ -1,12 +1,21 @@
 ---
 id: 8236
 title: "Nigerian Stock Exchange: Corporate Governance to Reign Supreme"
-award_year: 2014
+year: 2014
 published: 2014-10-16 14:12:47
 published_gmt: 2014-10-16 13:12:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/10/nigerian-stock-exchange-corporate-governance-to-reign-supreme/"
 categories: ["Africa", "Finance", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6a324a1a984501ddbb5c748c37bf79e4bc8f1308b32bbc3ccd601ca09dee6c2b
 canonical: 8236-nigerian-stock-exchange-corporate-governance-to-reign-supreme.json
 ---

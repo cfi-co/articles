@@ -1,12 +1,21 @@
 ---
 id: 3572
 title: "GCC: A Reliable Partner in Energy Supply"
-award_year: 2013
+year: 2013
 published: 2013-04-08 09:04:48
 published_gmt: 2013-04-08 09:04:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/04/gcc-a-reliable-partner-in-energy-supply/"
 categories: ["Middle East", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e978909213ded1473c19d74ba346e3676fa688b6f46880b879b417ed0f7c629e
 canonical: 3572-gcc-a-reliable-partner-in-energy-supply.json
 ---

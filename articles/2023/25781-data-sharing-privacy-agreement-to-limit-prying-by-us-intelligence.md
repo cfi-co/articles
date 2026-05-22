@@ -1,12 +1,21 @@
 ---
 id: 25781
 title: "Data-Sharing: Privacy Agreement to Limit Prying by US Intelligence"
-award_year: 2023
+year: 2023
 published: 2023-07-12 15:18:11
 published_gmt: 2023-07-12 14:18:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/07/data-sharing-privacy-agreement-to-limit-prying-by-us-intelligence/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dfa5654cabd6c86116a3fe3ac6f8bcf8d28114b8c97c22c2bf06e0d5d3ca8cca
 canonical: 25781-data-sharing-privacy-agreement-to-limit-prying-by-us-intelligence.json
 ---

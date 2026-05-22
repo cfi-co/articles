@@ -1,12 +1,21 @@
 ---
 id: 19102
 title: "IBM Thought Leadership: Transform Bank Business Models and Client Engagement With Open Hybrid Multicloud"
-award_year: 2021
+year: 2021
 published: 2021-03-15 15:57:45
 published_gmt: 2021-03-15 15:57:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2021/03/ibm-thought-leadership-transform-bank-business-models-and-client-engagement-with-open-hybrid-multicloud/"
 categories: ["North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d923ea78ab5d5ecca48ac171e7fb22b3c855367d1944d2a0a8d67b5666d1482c
 canonical: 19102-ibm-thought-leadership-transform-bank-business-models-and-client-engagement-with.json
 ---

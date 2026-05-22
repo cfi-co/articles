@@ -1,12 +1,21 @@
 ---
 id: 4979
 title: "Motsepe: First African to sign the Giving pledge"
-award_year: 2013
+year: 2013
 published: 2013-08-13 09:23:43
 published_gmt: 2013-08-13 08:23:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/08/motsepe-first-african-to-sign-the-giving-pledge/"
 categories: ["Africa", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 077388645215d9d6b372f1bcdbb558c0b5bcccb9d13b5a4d505bcd8db9953c21
 canonical: 4979-motsepe-first-african-to-sign-the-giving-pledge.json
 ---

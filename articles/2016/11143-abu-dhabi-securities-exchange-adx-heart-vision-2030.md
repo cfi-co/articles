@@ -1,12 +1,21 @@
 ---
 id: 11143
 title: "Abu Dhabi Securities Exchange (ADX): At the Heart of Vision 2030"
-award_year: 2016
+year: 2016
 published: 2016-04-26 14:30:46
 published_gmt: 2016-04-26 13:30:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2016/04/abu-dhabi-securities-exchange-adx-heart-vision-2030/"
 categories: ["Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dfd450937a8fe5ffa60146cc6ed60e1686c3a5c1d1f7bedba2a7c2c17af8ebc5
 canonical: 11143-abu-dhabi-securities-exchange-adx-heart-vision-2030.json
 ---

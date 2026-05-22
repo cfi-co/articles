@@ -1,12 +1,21 @@
 ---
 id: 27777
 title: "Net Zero: OECD Report Sets the Record Straight on Economic Benefits"
-award_year: 2025
+year: 2025
 published: 2025-06-16 17:01:13
 published_gmt: 2025-06-16 16:01:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2025/06/net-zero-oecd-report-sets-the-record-straight-on-economic-benefits/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c2af1b08964f0f076720268303d249925826c16ceb8efc34d9df46960adc220e
 canonical: 27777-net-zero-oecd-report-sets-the-record-straight-on-economic-benefits.json
 ---

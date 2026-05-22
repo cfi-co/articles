@@ -1,12 +1,21 @@
 ---
 id: 7286
 title: "CFI.co Meets the CEO of Dar Al Tamleek: Yasser Abu Ateek"
-award_year: 2014
+year: 2014
 published: 2014-01-02 18:36:17
 published_gmt: 2014-01-02 18:36:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/01/cfi-co-meets-the-ceo-of-dar-al-tamleek-yasser-abu-ateek/"
 categories: ["Corporate Leaders", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 06b01259ada57db7da4d20b2586e8f8d755c9ce9409ec6a9635badded30e37a0
 canonical: 7286-cfi-co-meets-the-ceo-of-dar-al-tamleek-yasser-abu-ateek.json
 ---

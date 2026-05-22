@@ -1,12 +1,21 @@
 ---
 id: 27628
 title: "China Targets America’s Farms as Trump Tariffs Spur Retaliation"
-award_year: 2025
+year: 2025
 published: 2025-03-11 12:33:55
 published_gmt: 2025-03-11 12:33:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2025/03/china-targets-americas-farms-as-trump-tariffs-spur-retaliation/"
 categories: ["Asia Pacific", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 877080ef825909c82af490fed26c572530a7e0dbb4571cf26af86a62e23c8ad8
 canonical: 27628-china-targets-americas-farms-as-trump-tariffs-spur-retaliation.json
 ---

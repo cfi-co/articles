@@ -1,12 +1,21 @@
 ---
 id: 9229
 title: "Political Order and Political Decay: From the Industrial Revolution to the Globalization of Democracy"
-award_year: 2019
+year: 2019
 published: 2019-02-28 13:36:43
 published_gmt: 2019-02-28 13:36:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/must-reads/2019/02/political-order-and-political-decay-from-the-industrial-revolution-to-the-globalization-of-democracy/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dc6854b17402d8b3498387bc969714070741ca130fff366e351dc5b05e59939b
 canonical: 9229-political-order-and-political-decay-from-the-industrial-revolution-to-the-global.json
 ---

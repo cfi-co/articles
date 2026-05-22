@@ -1,12 +1,21 @@
 ---
 id: 12493
 title: "Ana Botín: Reshaping the Financial Universe"
-award_year: 2018
+year: 2018
 published: 2018-05-15 14:11:11
 published_gmt: 2018-05-15 13:11:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2018/05/ana-botin-reshaping-the-financial-universe/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7260ef2e51b13fd091948ac67159e470887d92af969ef349c1d28e7fd8876a74
 canonical: 12493-ana-botin-reshaping-the-financial-universe.json
 ---

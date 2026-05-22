@@ -1,12 +1,21 @@
 ---
 id: 11149
 title: "Ann Low, US Department of State: Go Green by 2019 - Make Business Registration Easy Everywhere by 2019"
-award_year: 2019
+year: 2019
 published: 2019-01-26 16:35:19
 published_gmt: 2019-01-26 16:35:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/projects/2019/01/ann-low-us-department-state-go-green-2019-make-business-registration-easy-everywhere-2019/"
 categories: ["Projects", "Start-Ups", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e08679c9486d67fff4473eb15fb571daff2759e946d8a05174b258919cbadd68
 canonical: 11149-ann-low-us-department-state-go-green-2019-make-business-registration-easy-everyw.json
 ---

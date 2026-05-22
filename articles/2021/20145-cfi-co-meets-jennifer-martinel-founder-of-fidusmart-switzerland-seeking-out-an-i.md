@@ -1,12 +1,21 @@
 ---
 id: 20145
 title: "CFI.co Meets Jennifer Martinel, Founder of Fidusmart, Switzerland: Seeking Out an Independent Path in Financial Management and Tax Advisory"
-award_year: 2021
+year: 2021
 published: 2021-07-08 19:41:44
 published_gmt: 2021-07-08 18:41:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/cfi-co-meets-jennifer-martinel-founder-of-fidusmart-switzerland-seeking-out-an-independent-path-in-financial-management-and-tax-advisory/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6f5f131c539f9b8e0e33b25889522d1e32fb452c5cab2fa6a5ee6deab0f89572
 canonical: 20145-cfi-co-meets-jennifer-martinel-founder-of-fidusmart-switzerland-seeking-out-an-i.json
 ---

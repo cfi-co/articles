@@ -1,12 +1,21 @@
 ---
 id: 19641
 title: "CFI.co Has Awarded Best Central Bank Governance Europe 2021"
-award_year: 2021
+year: 2021
 published: 2021-05-11 14:36:51
 published_gmt: 2021-05-11 13:36:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/05/narodowy-bank-polski-best-central-bank-governance-europe-2021/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8cc9678a934af5b2165c7e87412c7d18a00d420a09dc9b714b7a65085af23d21
 canonical: 19641-narodowy-bank-polski-best-central-bank-governance-europe-2021.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 3042
 title: "Merkel: Convergence in Competitiveness Across the EU"
-award_year: 2013
+year: 2013
 published: 2013-02-01 00:01:20
 published_gmt: 2013-02-01 00:01:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/02/merkel-convergence-in-competitiveness-across-the-eu/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 84472bf89741d384dca01d536b07d206998cd614ac196bb6cb45dcdf5ad1d428
 canonical: 3042-merkel-convergence-in-competitiveness-across-the-eu.json
 ---

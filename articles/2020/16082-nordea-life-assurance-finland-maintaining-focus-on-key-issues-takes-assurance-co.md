@@ -1,12 +1,21 @@
 ---
 id: 16082
 title: "Nordea Life Assurance Finland: Maintaining Focus on Key Issues Takes Assurance Company to a Winning Position"
-award_year: 2020
+year: 2020
 published: 2020-06-01 13:42:29
 published_gmt: 2020-06-01 12:42:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/06/nordea-life-assurance-finland-maintaining-focus-on-key-issues-takes-assurance-company-to-a-winning-position/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 76a28d5fde48be18cc9a0d6c264fcc96f8b48b71a4e84301c9f2f4c8c637563f
 canonical: 16082-nordea-life-assurance-finland-maintaining-focus-on-key-issues-takes-assurance-co.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27188
 title: "Asia Pacific’s Innovation Boom: Technological Titans are Emerging"
-award_year: 2024
+year: 2024
 published: 2024-10-10 11:58:43
 published_gmt: 2024-10-10 10:58:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2024/10/asia-pacifics-innovation-boom-technological-titans-are-emerging/"
 categories: ["Asia Pacific", "Innovation &amp; Technology", "Start-Ups", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1f187cd41b7bff7045850eb876e2096bfe3128df73f2eaebc7f965a5c33e404b
 canonical: 27188-asia-pacifics-innovation-boom-technological-titans-are-emerging.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 10748
 title: "Strategy&: Gaining a Competitive Edge in Africa"
-award_year: 2016
+year: 2016
 published: 2016-01-12 12:17:47
 published_gmt: 2016-01-12 12:17:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2016/01/strategy-gaining-a-competitive-edge-in-africa/"
 categories: ["Africa", "Finance", "Innovation &amp; Technology", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ecbd28d9a47202fa536bee7dd71ff455fadc1f244d73accb1bc96c04debc91f2
 canonical: 10748-strategy-gaining-a-competitive-edge-in-africa.json
 ---

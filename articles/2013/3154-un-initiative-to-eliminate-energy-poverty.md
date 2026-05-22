@@ -1,12 +1,21 @@
 ---
 id: 3154
 title: "UN Initiative to Eliminate Energy Poverty"
-award_year: 2013
+year: 2013
 published: 2013-02-27 16:36:04
 published_gmt: 2013-02-27 16:36:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2013/02/un-initiative-to-eliminate-energy-poverty/"
 categories: ["Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 01c73e0629220940c2998abe65f4e2db3149bbce6d8bea24617be6abbfb4ce1e
 canonical: 3154-un-initiative-to-eliminate-energy-poverty.json
 ---

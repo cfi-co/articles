@@ -1,12 +1,21 @@
 ---
 id: 478
 title: "Namibia’s Changing Tax Landscape – From Simple to Complex"
-award_year: 2012
+year: 2012
 published: 2012-05-16 16:47:09
 published_gmt: 2012-05-16 15:47:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/05/namibias-changing-tax-landscape-from-simple-to-complex/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5a5482210e62ac645190d3391d3eb80dccf3e8749feea56d3fb8e3ff50c95401
 canonical: 478-namibias-changing-tax-landscape-from-simple-to-complex.json
 ---

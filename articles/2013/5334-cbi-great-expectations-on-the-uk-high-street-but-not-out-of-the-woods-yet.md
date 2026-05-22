@@ -1,12 +1,21 @@
 ---
 id: 5334
 title: "CBI: Great Expectations on the UK High Street But Not Out of The Woods Yet"
-award_year: 2013
+year: 2013
 published: 2013-09-27 10:02:57
 published_gmt: 2013-09-27 09:02:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/09/cbi-great-expectations-on-the-uk-high-street-but-not-out-of-the-woods-yet/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 334562acdf31767127d4c7c6c7484bdb576d22b4142dfadeb315f2f8bebbad81
 canonical: 5334-cbi-great-expectations-on-the-uk-high-street-but-not-out-of-the-woods-yet.json
 ---

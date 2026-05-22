@@ -1,12 +1,21 @@
 ---
 id: 16070
 title: "SBM: Island Nation’s Bank Group Goes From Bit Part to a Starring Role"
-award_year: 2020
+year: 2020
 published: 2020-05-01 19:21:23
 published_gmt: 2020-05-01 18:21:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/05/sbm-island-nations-bank-group-goes-from-bit-part-to-a-starring-role/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1d98b580f626a0f142b9c43e1b359c56f7dffda2155de26f5168cdc741f96e31
 canonical: 16070-sbm-island-nations-bank-group-goes-from-bit-part-to-a-starring-role.json
 ---

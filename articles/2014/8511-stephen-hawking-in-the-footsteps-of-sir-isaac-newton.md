@@ -1,12 +1,21 @@
 ---
 id: 8511
 title: "Stephen Hawking: In the Footsteps of Sir Isaac Newton"
-award_year: 2014
+year: 2014
 published: 2014-12-10 10:31:31
 published_gmt: 2014-12-10 10:31:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2014/12/stephen-hawking-in-the-footsteps-of-sir-isaac-newton/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 53ca0d6072e7b503fedab637cbe712b2d6b0c3e4513c6dc2caf8d5130bd7e2aa
 canonical: 8511-stephen-hawking-in-the-footsteps-of-sir-isaac-newton.json
 ---

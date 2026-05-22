@@ -1,12 +1,21 @@
 ---
 id: 19348
 title: "World Bank: Pandemic Recovery is an Opportunity to Step Up Climate Change Action in Europe and Central Asia"
-award_year: 2021
+year: 2021
 published: 2021-03-31 09:19:51
 published_gmt: 2021-03-31 08:19:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2021/03/world-bank-pandemic-recovery-is-an-opportunity-to-step-up-climate-change-action-in-europe-and-central-asia/"
 categories: ["Asia Pacific", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6baee19f6cc929cf9487cb6bc45ff8842705ec2a525ad37c8543164be2ed03cb
 canonical: 19348-world-bank-pandemic-recovery-is-an-opportunity-to-step-up-climate-change-action-.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 17479
 title: "Linklease Founder & CEO Steve Thomas-Williams: A Midlands Man with a Mission"
-award_year: 2020
+year: 2020
 published: 2020-01-04 12:44:14
 published_gmt: 2020-01-04 12:44:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/01/linklease-founder-ceo-steve-thomas-williams-a-midlands-man-with-a-mission/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6e05c9bd4c6bbf4fd52076b986a2f418db949597fea82d94e2f595e8e909bc20
 canonical: 17479-linklease-founder-ceo-steve-thomas-williams-a-midlands-man-with-a-mission.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21438
 title: "Women's Brain Project - Shattering the Status Quo: Investing in Women in STEM"
-award_year: 2022
+year: 2022
 published: 2022-01-09 09:48:47
 published_gmt: 2022-01-09 09:48:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2022/01/womens-brain-project-shattering-the-status-quo-investing-in-women-in-stem/"
 categories: ["Europe", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2e4fa52ab30f30855daa3d9a4dc6eec0f1ca31c33ce2d97558fba9c07eeda8d3
 canonical: 21438-womens-brain-project-shattering-the-status-quo-investing-in-women-in-stem.json
 ---

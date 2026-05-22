@@ -1,12 +1,21 @@
 ---
 id: 27088
 title: "Innovation at the Core: How KIB is Shaping Modern Banking"
-award_year: 2024
+year: 2024
 published: 2024-09-04 11:08:45
 published_gmt: 2024-09-04 10:08:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/09/innovation-at-the-core-how-kib-is-shaping-modern-banking/"
 categories: ["Banking", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f5451644c4bc2e6fd822a23eade56543256563637c3ab52357ce609a2303f7b3
 canonical: 27088-innovation-at-the-core-how-kib-is-shaping-modern-banking.json
 ---

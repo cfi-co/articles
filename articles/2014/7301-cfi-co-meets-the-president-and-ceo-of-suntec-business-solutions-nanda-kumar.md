@@ -1,12 +1,21 @@
 ---
 id: 7301
 title: "CFI.co Meets the President and CEO of SunTec Business Solutions: Nanda Kumar"
-award_year: 2014
+year: 2014
 published: 2014-01-02 18:46:45
 published_gmt: 2014-01-02 18:46:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/01/cfi-co-meets-the-president-and-ceo-of-suntec-business-solutions-nanda-kumar/"
 categories: ["Asia Pacific", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3b6e717416c5b574169ceaf1791fe600c143cc6bc3f58b743fcd55675feff132
 canonical: 7301-cfi-co-meets-the-president-and-ceo-of-suntec-business-solutions-nanda-kumar.json
 ---

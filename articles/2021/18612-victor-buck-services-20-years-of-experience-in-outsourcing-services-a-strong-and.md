@@ -1,12 +1,21 @@
 ---
 id: 18612
 title: "Victor Buck Services - 20 Years of Experience in Outsourcing Services: A Strong and Flexible Global Partner for the Financial, Healthcare, Insurance and Telco Industries"
-award_year: 2021
+year: 2021
 published: 2021-02-04 15:21:55
 published_gmt: 2021-02-04 15:21:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/victor-buck-services-20-years-of-experience-in-outsourcing-services-a-strong-and-flexible-global-partner-for-the-financial-healthcare-insurance-and-telco-industries/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8b0ebd62b7a76c46d6738dbdcf13dc828a435712f5b648d839592eff806866d6
 canonical: 18612-victor-buck-services-20-years-of-experience-in-outsourcing-services-a-strong-and.json
 ---

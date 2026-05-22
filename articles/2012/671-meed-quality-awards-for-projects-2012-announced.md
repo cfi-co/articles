@@ -1,12 +1,21 @@
 ---
 id: 671
 title: "MEED Quality Awards for Projects 2012 Announced"
-award_year: 2012
+year: 2012
 published: 2012-05-28 12:34:04
 published_gmt: 2012-05-28 11:34:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2012/05/meed-quality-awards-for-projects-2012-announced/"
 categories: ["Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4264ecbd10a21136b440d3c86ac3581216d6b984f002814f764df58607a36124
 canonical: 671-meed-quality-awards-for-projects-2012-announced.json
 ---

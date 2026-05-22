@@ -1,12 +1,21 @@
 ---
 id: 6625
 title: "Zurich Insurance Company: Insurance in Latin America - Economic Growth Brings New Opportunities"
-award_year: 2014
+year: 2014
 published: 2014-02-13 11:03:19
 published_gmt: 2014-02-13 11:03:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/02/zurich-insurance-company-insurance-in-latin-america-economic-growth-brings-new-opportunities/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 857ff01986ccf50227d4f7840233b1d23f4a8430421796b1a566c7262d989cbf
 canonical: 6625-zurich-insurance-company-insurance-in-latin-america-economic-growth-brings-new-o.json
 ---

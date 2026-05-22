@@ -1,12 +1,21 @@
 ---
 id: 19897
 title: "Hemisfério Sul Investimentos (HSI) No Compromise: Nothing but the Best Will Do for Pioneers of Brazil’s Real Estate Sector"
-award_year: 2021
+year: 2021
 published: 2021-07-12 15:55:19
 published_gmt: 2021-07-12 14:55:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/maximo-lima-nothing-but-the-best-will-do-for-brazils-real-estate-sector/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 35864ee10268a770ae35361ddb89d6d21b1df51fe6610650d9b360a1de9fe7de
 canonical: 19897-maximo-lima-nothing-but-the-best-will-do-for-brazils-real-estate-sector.json
 ---

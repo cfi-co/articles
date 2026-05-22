@@ -1,12 +1,21 @@
 ---
 id: 5567
 title: "Hildegunn Kyvik Nordås: Why Do Countries Regulate Differently and How Does It Affect Trade?"
-award_year: 2013
+year: 2013
 published: 2013-10-24 13:58:20
 published_gmt: 2013-10-24 12:58:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/10/hildegunn-kyvik-nordas-why-do-countries-regulate-differently-and-how-does-it-affect-trade/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 218e95342b670e4ffaa095cccc252121e9322e13bf4c45ea18dd52dd9561c783
 canonical: 5567-hildegunn-kyvik-nordas-why-do-countries-regulate-differently-and-how-does-it-aff.json
 ---

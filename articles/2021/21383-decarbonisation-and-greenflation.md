@@ -1,12 +1,21 @@
 ---
 id: 21383
 title: "Decarbonisation and “Greenflation”"
-award_year: 2021
+year: 2021
 published: 2021-12-20 06:09:57
 published_gmt: 2021-12-20 06:09:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2021/12/decarbonisation-and-greenflation/"
 categories: ["Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1b01deaab696162b39c641a21cbb4f15aa78d02661dc688e4ebc5146951303e8
 canonical: 21383-decarbonisation-and-greenflation.json
 ---

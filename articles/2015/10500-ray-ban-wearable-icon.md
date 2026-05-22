@@ -1,12 +1,21 @@
 ---
 id: 10500
 title: "Ray-Ban: Wearable Icon"
-award_year: 2015
+year: 2015
 published: 2015-10-06 11:51:05
 published_gmt: 2015-10-06 10:51:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2015/10/ray-ban-wearable-icon/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: af506f4b786363ed29d6c3a6b1131ad14196327eeab4c80234a0564ba9ed768d
 canonical: 10500-ray-ban-wearable-icon.json
 ---

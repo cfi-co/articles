@@ -1,12 +1,21 @@
 ---
 id: 13168
 title: "Mukhisa Kituyi: Growing Intra-African Trade Flows"
-award_year: 2018
+year: 2018
 published: 2018-09-12 12:28:24
 published_gmt: 2018-09-12 11:28:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/uncategorized/2018/09/mukhisa-kituyi-growing-intra-african-trade-flows/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5c55d10fe6f0455317ce36b8d9eb0d38d4e40a8757a1b6026a445cdf201c5d83
 canonical: 13168-mukhisa-kituyi-growing-intra-african-trade-flows.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 13954
 title: "An Exclusive Interview with Gabriel Chaleplis, Founder: The Leader That Makes Leaders"
-award_year: 2019
+year: 2019
 published: 2019-08-21 21:19:08
 published_gmt: 2019-08-21 20:19:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/08/an-exclusive-interview-with-gabriel-chaleplis-founder-the-leader-that-makes-leaders/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7420820f5727eacbd6eee793b8cb6fd4781b5679b07c51daa586d6aec4576c20
 canonical: 13954-an-exclusive-interview-with-gabriel-chaleplis-founder-the-leader-that-makes-lead.json
 ---

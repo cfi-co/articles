@@ -1,12 +1,21 @@
 ---
 id: 17904
 title: "Fed Chair Powell: “Recovering to a Different Economy”"
-award_year: 2020
+year: 2020
 published: 2020-11-13 19:06:11
 published_gmt: 2020-11-13 19:06:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/11/fed-chair-powell-recovering-to-a-different-economy/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 054a93540a3cbdfeab8bdff0ee7e980eec6b22d1b0f23eabe7ed022e8743810b
 canonical: 17904-fed-chair-powell-recovering-to-a-different-economy.json
 ---

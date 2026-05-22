@@ -1,12 +1,21 @@
 ---
 id: 8162
 title: "Deutsche Börse and Thai Exchange Join Sustainable Stock Exchanges Initiative"
-award_year: 2014
+year: 2014
 published: 2014-10-07 15:44:17
 published_gmt: 2014-10-07 14:44:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/10/deutsche-borse-and-thai-exchange-join-sustainable-stock-exchanges-initiative/"
 categories: ["Asia Pacific", "Europe", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 22d174a24ecfd65109d313f71349ff8d4bdc48b7e272e47348a2b78ac7da5be3
 canonical: 8162-deutsche-borse-and-thai-exchange-join-sustainable-stock-exchanges-initiative.json
 ---

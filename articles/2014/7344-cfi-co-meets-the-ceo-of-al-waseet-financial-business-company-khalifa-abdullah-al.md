@@ -1,12 +1,21 @@
 ---
 id: 7344
 title: "CFI.co Meets the CEO of Al-Waseet Financial Business Company: Khalifa Abdullah Al-Ajeel"
-award_year: 2014
+year: 2014
 published: 2014-03-01 19:11:04
 published_gmt: 2014-03-01 19:11:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/03/cfi-co-meets-the-ceo-of-al-waseet-financial-business-company-khalifa-abdullah-al-ajeel/"
 categories: ["Corporate Leaders", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 20cd6eb581afcdbdcfc79946f028499457b2142fe1fab60c68d136d7eddeb135
 canonical: 7344-cfi-co-meets-the-ceo-of-al-waseet-financial-business-company-khalifa-abdullah-al.json
 ---

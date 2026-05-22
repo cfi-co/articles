@@ -1,12 +1,21 @@
 ---
 id: 28365
 title: "The AI Era Is Rewriting the Business Education Playbook: Opportunities for Global Economic Competitiveness"
-award_year: 2026
+year: 2026
 published: 2026-03-26 09:21:00
 published_gmt: 2026-03-26 09:21:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2026/03/the-ai-era-is-rewriting-the-business-education-playbook-opportunities-for-global-economic-competitiveness/"
 categories: ["Finance", "Innovation &amp; Technology", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5830f5b639e292214d6470ed178aae21d619fa21efb877f829c0399465eaf602
 canonical: 28365-the-ai-era-is-rewriting-the-business-education-playbook-opportunities-for-global.json
 ---

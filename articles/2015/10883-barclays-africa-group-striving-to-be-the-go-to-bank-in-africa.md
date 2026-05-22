@@ -1,12 +1,21 @@
 ---
 id: 10883
 title: "Barclays Africa Group: Striving to Be the ‘Go-To’ Bank in Africa"
-award_year: 2015
+year: 2015
 published: 2015-07-22 11:48:57
 published_gmt: 2015-07-22 10:48:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2015/07/barclays-africa-group-striving-to-be-the-go-to-bank-in-africa/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ad8530e704d6230d3ef66727364e6235077337b3be0fb884c2c96a83b9bd9121
 canonical: 10883-barclays-africa-group-striving-to-be-the-go-to-bank-in-africa.json
 ---

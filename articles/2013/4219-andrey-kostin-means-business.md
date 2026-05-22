@@ -1,12 +1,21 @@
 ---
 id: 4219
 title: "Andrey Kostin Means Business"
-award_year: 2013
+year: 2013
 published: 2013-05-29 14:14:03
 published_gmt: 2013-05-29 14:14:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/05/andrey-kostin-means-business/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c51e5c14b11e4ce0f52bea07cd74aea0761179d05302f6ec504b3373519c7e20
 canonical: 4219-andrey-kostin-means-business.json
 ---

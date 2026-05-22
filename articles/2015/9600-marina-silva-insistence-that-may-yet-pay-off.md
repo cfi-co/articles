@@ -1,12 +1,21 @@
 ---
 id: 9600
 title: "Marina Silva: Insistence That May Yet Pay Off"
-award_year: 2015
+year: 2015
 published: 2015-04-02 09:20:13
 published_gmt: 2015-04-02 08:20:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2015/04/marina-silva-insistence-that-may-yet-pay-off/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8991dc7c730a2119d90ce32dcf1a7259bf69c25d8a693da0654c11304f0a06e8
 canonical: 9600-marina-silva-insistence-that-may-yet-pay-off.json
 ---

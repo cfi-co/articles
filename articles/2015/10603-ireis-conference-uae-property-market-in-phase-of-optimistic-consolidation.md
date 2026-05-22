@@ -1,12 +1,21 @@
 ---
 id: 10603
 title: "IREIS Conference: UAE Property Market in Phase of Optimistic Consolidation"
-award_year: 2015
+year: 2015
 published: 2015-10-30 14:07:38
 published_gmt: 2015-10-30 14:07:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/10/ireis-conference-uae-property-market-in-phase-of-optimistic-consolidation/"
 categories: ["Events", "Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6b303b83fb23f15c69adde6ac6fed13e04a0c4c0a7cb5b109996a3296845df51
 canonical: 10603-ireis-conference-uae-property-market-in-phase-of-optimistic-consolidation.json
 ---

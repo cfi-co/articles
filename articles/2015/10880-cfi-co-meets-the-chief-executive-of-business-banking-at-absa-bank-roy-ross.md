@@ -1,12 +1,21 @@
 ---
 id: 10880
 title: "CFI.co Meets the Chief Executive of Business Banking at Absa Bank: Roy Ross"
-award_year: 2015
+year: 2015
 published: 2015-04-22 11:25:55
 published_gmt: 2015-04-22 10:25:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2015/04/cfi-co-meets-the-chief-executive-of-business-banking-at-absa-bank-roy-ross/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a34382cdefd2844331315c164219690bf17d8d074f6cb4fa0ac72f4e49d7dbe4
 canonical: 10880-cfi-co-meets-the-chief-executive-of-business-banking-at-absa-bank-roy-ross.json
 ---

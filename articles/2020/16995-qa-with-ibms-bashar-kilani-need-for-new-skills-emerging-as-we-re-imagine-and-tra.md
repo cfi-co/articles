@@ -1,12 +1,21 @@
 ---
 id: 16995
 title: "Q&A with IBM's Bashar Kilani: Need for New Skills Emerging as We Re-Imagine and Transition to the New Normal"
-award_year: 2020
+year: 2020
 published: 2020-09-18 12:36:45
 published_gmt: 2020-09-18 11:36:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2020/09/qa-with-ibms-bashar-kilani-need-for-new-skills-emerging-as-we-re-imagine-and-transition-to-the-new-normal/"
 categories: ["Middle East", "Special Features", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eff7f1de99ebef5d3f52a599356e44035f66e69ed88f4bd330d63e73f9a25c3e
 canonical: 16995-qa-with-ibms-bashar-kilani-need-for-new-skills-emerging-as-we-re-imagine-and-tra.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 13488
 title: "Annual Investment Meeting 2019 to Host Strategic Sessions to Draw Foreign Direct Investments"
-award_year: 2019
+year: 2019
 published: 2019-04-07 08:22:54
 published_gmt: 2019-04-07 07:22:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2019/04/annual-investment-meeting-2019-to-host-strategic-sessions-to-draw-foreign-direct-investments/"
 categories: ["Economics &amp; Convergence", "Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f8a95dac0beaf863fa54f04e51ccc8d264da10c49cc23b05b84f2fd342c1a507
 canonical: 13488-annual-investment-meeting-2019-to-host-strategic-sessions-to-draw-foreign-direct.json
 ---

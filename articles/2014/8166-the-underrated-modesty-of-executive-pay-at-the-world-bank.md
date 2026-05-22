@@ -1,12 +1,21 @@
 ---
 id: 8166
 title: "The Underrated Modesty of Executive Pay at the World Bank"
-award_year: 2014
+year: 2014
 published: 2014-10-08 11:00:28
 published_gmt: 2014-10-08 10:00:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/10/the-underrated-modesty-of-executive-pay-at-the-world-bank/"
 categories: ["Banking", "Europe", "Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2cf4260b6c6e5e5032ef3c92a305236ab25210cbf1fc4db791f32697cd7cbeee
 canonical: 8166-the-underrated-modesty-of-executive-pay-at-the-world-bank.json
 ---

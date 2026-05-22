@@ -1,12 +1,21 @@
 ---
 id: 4576
 title: "Angola’s Sovereign Wealth Fund Announces Investment Policy"
-award_year: 2013
+year: 2013
 published: 2013-07-11 08:34:56
 published_gmt: 2013-07-11 07:34:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/07/angolas-sovereign-wealth-fund-announces-investment-policy/"
 categories: ["Africa", "Banking", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9069775ffe4b4b4551a56319bb8306d4f82332585e56bb1c4e4dbe24007092f3
 canonical: 4576-angolas-sovereign-wealth-fund-announces-investment-policy.json
 ---

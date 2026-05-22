@@ -1,12 +1,21 @@
 ---
 id: 6816
 title: "EU Statement on Crimea"
-award_year: 2014
+year: 2014
 published: 2014-03-17 11:50:38
 published_gmt: 2014-03-17 11:50:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/03/eu-statement-on-crimea/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 30e18ed4a926c6260021d992414c3c39ff2eff6724417ee25700714cad138d6c
 canonical: 6816-eu-statement-on-crimea.json
 ---

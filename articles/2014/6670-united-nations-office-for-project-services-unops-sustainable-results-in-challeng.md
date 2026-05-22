@@ -1,12 +1,21 @@
 ---
 id: 6670
 title: "United Nations Office for Project Services (UNOPS): Sustainable Results in Challenging Environments"
-award_year: 2014
+year: 2014
 published: 2014-02-19 16:01:32
 published_gmt: 2014-02-19 16:01:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/02/united-nations-office-for-project-services-unops-sustainable-results-in-challenging-environments/"
 categories: ["Africa", "Asia Pacific", "Latin America", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8c888c34f1ea9c778a6b9efcc6576ce91727a27f0fbc7409219c07796a286ba0
 canonical: 6670-united-nations-office-for-project-services-unops-sustainable-results-in-challeng.json
 ---

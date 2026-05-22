@@ -1,12 +1,21 @@
 ---
 id: 19271
 title: "A Possible Tug-of-war Between the Fed and the Markets"
-award_year: 2021
+year: 2021
 published: 2021-03-25 07:52:58
 published_gmt: 2021-03-25 07:52:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2021/03/a-possible-tug-of-war-between-the-fed-and-the-markets/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2013a4cfee02f523d6452ad2c9bcec541ad4aada9abd8aefdc6e74eeb9845987
 canonical: 19271-a-possible-tug-of-war-between-the-fed-and-the-markets.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 25118
 title: "Be Your 'Authentic Self' at  Couche-Tard’s Global Stores"
-award_year: 2023
+year: 2023
 published: 2023-04-24 17:05:53
 published_gmt: 2023-04-24 16:05:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2023/04/couche-tards-global-stores/"
 categories: ["Corporate", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5b0543dd8d50cf0c4db04a5688010db309569229ffdc707ed5aa5a824b8b7631
 canonical: 25118-be-your-authentic-self-at-couche-tards-global-stores.json
 ---

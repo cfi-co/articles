@@ -1,12 +1,21 @@
 ---
 id: 16046
 title: "Toronto Finance International: Toronto Takes Its Place at the Head Table of North American Finance"
-award_year: 2020
+year: 2020
 published: 2020-10-26 15:59:39
 published_gmt: 2020-10-26 15:59:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2020/10/toronto-finance-international-toronto-takes-its-place-at-the-head-table-of-north-american-finance/"
 categories: ["Banking", "Corporate", "Corporate Leaders", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 21dd405e5096ac1c686e394f6e01283bd47162fa7b22464ace63c311e5cc64d6
 canonical: 16046-toronto-finance-international-toronto-takes-its-place-at-the-head-table-of-north.json
 ---

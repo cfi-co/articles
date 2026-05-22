@@ -1,12 +1,21 @@
 ---
 id: 4980
 title: "Kiran Shaw and Biocon: What a Team"
-award_year: 2013
+year: 2013
 published: 2013-08-13 09:27:32
 published_gmt: 2013-08-13 08:27:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/08/kiran-shaw-and-biocon-what-a-team/"
 categories: ["Asia Pacific", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 701bacb8e06e49953969be1a635e7fd5de7c9d88b163b69ae8f121034e9190f7
 canonical: 4980-kiran-shaw-and-biocon-what-a-team.json
 ---

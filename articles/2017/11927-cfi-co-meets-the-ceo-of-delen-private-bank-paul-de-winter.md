@@ -1,12 +1,21 @@
 ---
 id: 11927
 title: "CFI.co Meets the CEO of Delen Private Bank: Paul De Winter"
-award_year: 2017
+year: 2017
 published: 2017-10-06 10:36:41
 published_gmt: 2017-10-06 09:36:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-ceo-of-delen-private-bank-paul-de-winter/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b390c68eeaddaead72b3195b8c0f4ee481ba310496f5bfd46d5fb9e9d93e593f
 canonical: 11927-cfi-co-meets-the-ceo-of-delen-private-bank-paul-de-winter.json
 ---

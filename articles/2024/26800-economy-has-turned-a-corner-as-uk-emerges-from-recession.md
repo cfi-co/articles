@@ -1,12 +1,21 @@
 ---
 id: 26800
 title: "Economy has ‘Turned a Corner’ as UK Emerges from Recession"
-award_year: 2024
+year: 2024
 published: 2024-05-10 11:17:19
 published_gmt: 2024-05-10 10:17:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/05/economy-has-turned-a-corner-as-uk-emerges-from-recession/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 430b5e8c98c9f1a6bd8ab8902093d31b6665f7c880bcd9ddd0fa55aa9c0df63f
 canonical: 26800-economy-has-turned-a-corner-as-uk-emerges-from-recession.json
 ---

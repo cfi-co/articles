@@ -1,12 +1,21 @@
 ---
 id: 16615
 title: "Building a Thriving Business Ecosystem at the Intersection of Global Growth Markets"
-award_year: 2020
+year: 2020
 published: 2020-08-14 13:38:27
 published_gmt: 2020-08-14 12:38:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/08/building-a-thriving-business-ecosystem-at-the-intersection-of-global-growth-markets/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9fe54b8c59b0248572b5e07de9ca7f9140640a483295bb5977f0d52838abfcca
 canonical: 16615-building-a-thriving-business-ecosystem-at-the-intersection-of-global-growth-mark.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27460
 title: "Understanding Body Language: Secret Weapon in Negotiation"
-award_year: 2025
+year: 2025
 published: 2025-01-08 09:26:25
 published_gmt: 2025-01-08 09:26:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2025/01/understanding-body-language-secret-weapon-in-negotiation/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: acb2cb350a56d7a2444fab2953fc7cd49b3fe5b52c1495d772d500885fe60790
 canonical: 27460-understanding-body-language-secret-weapon-in-negotiation.json
 ---

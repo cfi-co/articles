@@ -1,12 +1,21 @@
 ---
 id: 24146
 title: "Cambodia’s Wing Bank: Art of Becoming ‘Necessary’ — and Creating a Bank for Every Cambodian"
-award_year: 2022
+year: 2022
 published: 2022-12-11 12:07:49
 published_gmt: 2022-12-11 12:07:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2022/12/cambodias-wing-bank-art-of-becoming-necessary-and-creating-a-bank-for-every-cambodian/"
 categories: ["Asia Pacific", "Banking"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2ae75ae41c5874767f39a9432b9282bef34ca257782a0b573ee83584fa9fd248
 canonical: 24146-cambodias-wing-bank-art-of-becoming-necessary-and-creating-a-bank-for-every-camb.json
 ---

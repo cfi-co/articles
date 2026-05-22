@@ -1,12 +1,21 @@
 ---
 id: 12839
 title: "Ian Fletcher, IBM: Fourth Industrial Revolution - Positioning for Change"
-award_year: 2018
+year: 2018
 published: 2018-08-01 15:55:49
 published_gmt: 2018-08-01 14:55:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2018/08/ian-fletcher-fourth-industrial-revolution-positioning-for-change/"
 categories: ["North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ad105e0c572934f7a820c99d57f16811f760cbd81d0fa744c45baf0916b92466
 canonical: 12839-ian-fletcher-fourth-industrial-revolution-positioning-for-change.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 1807
 title: "New ‘Pacific Alliance’ Upbeat and Seeking Competitive Advantages"
-award_year: 2012
+year: 2012
 published: 2012-08-19 19:08:50
 published_gmt: 2012-08-19 18:08:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/08/new-pacific-alliance-upbeat-seeking-competitive-advantages/"
 categories: ["Banking", "Finance", "Latin America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8bf6a3b0b3aef1b437545502fa74df30509a325b9e03059e680d2f4f7ad1b5a6
 canonical: 1807-new-pacific-alliance-upbeat-seeking-competitive-advantages.json
 ---

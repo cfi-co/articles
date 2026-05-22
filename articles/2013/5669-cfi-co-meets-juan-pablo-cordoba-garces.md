@@ -1,12 +1,21 @@
 ---
 id: 5669
 title: "CFI.co Meets Juan Pablo Córdoba Garcés"
-award_year: 2013
+year: 2013
 published: 2013-10-07 16:55:30
 published_gmt: 2013-10-07 15:55:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/10/cfi-co-meets-juan-pablo-cordoba-garces/"
 categories: ["Corporate Leaders", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 14e8086c12eb45f620462fca580b26c8bb3ea279e39475c8ecaf51a299ec6560
 canonical: 5669-cfi-co-meets-juan-pablo-cordoba-garces.json
 ---

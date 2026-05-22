@@ -1,12 +1,21 @@
 ---
 id: 9519
 title: "Bill Clinton: Words of Real Value"
-award_year: 2015
+year: 2015
 published: 2015-03-10 12:22:09
 published_gmt: 2015-03-10 12:22:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2015/03/bill-clinton-words-of-real-value/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5204f9e3dbf82e237c9f76f723f50d27dad952dc6ff6792eaf4d108538d73e6f
 canonical: 9519-bill-clinton-words-of-real-value.json
 ---

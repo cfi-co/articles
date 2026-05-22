@@ -1,12 +1,21 @@
 ---
 id: 3183
 title: "Nigeria's Ngozi Okonjo-Iweala: Fearless Opponent of Corruption"
-award_year: 2013
+year: 2013
 published: 2013-03-05 16:53:28
 published_gmt: 2013-03-05 16:53:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/03/nigerias-ngozi-okonjo-iweala-fearless-opponent-of-corruption/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e8208d6294964aa58a6248c39afdf2589e5884f0ed2d57e7acf61ee0743b16dd
 canonical: 3183-nigerias-ngozi-okonjo-iweala-fearless-opponent-of-corruption.json
 ---

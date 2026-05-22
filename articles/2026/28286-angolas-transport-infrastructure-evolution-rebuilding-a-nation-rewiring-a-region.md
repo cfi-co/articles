@@ -1,12 +1,22 @@
 ---
 id: 28286
 title: "Angola’s Transport & Infrastructure Evolution: Rebuilding a Nation, Rewiring a Region"
-award_year: 2026
+year: 2026
 published: 2026-02-16 12:02:40
 published_gmt: 2026-02-16 12:02:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2026/02/angolas-transport-infrastructure-evolution-rebuilding-a-nation-rewiring-a-region/"
 categories: ["Africa", "Corporate"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "Eaglestone Management"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 070ce7cf3515ff349147e2407a3ccafee8cc4bb46a66eb1e99739472c01541f7
 canonical: 28286-angolas-transport-infrastructure-evolution-rebuilding-a-nation-rewiring-a-region.json
 ---

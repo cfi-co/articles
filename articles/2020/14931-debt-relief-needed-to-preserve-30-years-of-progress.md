@@ -1,12 +1,21 @@
 ---
 id: 14931
 title: "Debt Relief Needed to Preserve 30 Years of Progress"
-award_year: 2020
+year: 2020
 published: 2020-04-15 15:53:43
 published_gmt: 2020-04-15 14:53:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/debt-relief-needed-to-preserve-30-years-of-progress/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 888ec56309641915aaac62e0e4ae422c05a7e0f0ca202160ce60a5f6cfac4675
 canonical: 14931-debt-relief-needed-to-preserve-30-years-of-progress.json
 ---

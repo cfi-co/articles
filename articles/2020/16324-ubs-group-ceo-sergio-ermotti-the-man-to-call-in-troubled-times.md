@@ -1,12 +1,21 @@
 ---
 id: 16324
 title: "UBS Group CEO Sergio Ermotti: The Man to Call in Troubled Times"
-award_year: 2020
+year: 2020
 published: 2020-07-01 13:42:12
 published_gmt: 2020-07-01 12:42:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2020/07/ubs-group-ceo-sergio-ermotti-the-man-to-call-in-troubled-times/"
 categories: ["Banking", "Corporate Leaders", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d8ba7c38ddb882b478f23e4aadeb544a75600e6205f0fe3d94d271b1ecf99797
 canonical: 16324-ubs-group-ceo-sergio-ermotti-the-man-to-call-in-troubled-times.json
 ---

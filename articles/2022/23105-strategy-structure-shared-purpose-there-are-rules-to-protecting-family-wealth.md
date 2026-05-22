@@ -1,12 +1,21 @@
 ---
 id: 23105
 title: "Strategy, Structure, Shared Purpose: There are Rules to Protecting Family Wealth"
-award_year: 2022
+year: 2022
 published: 2022-11-11 09:00:48
 published_gmt: 2022-11-11 09:00:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/11/strategy-structure-shared-purpose-there-are-rules-to-protecting-family-wealth/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 205ff109e1e6e0eaf677ad4a0ab3dcf62f736babfc9d611d4ca5d613156a8de7
 canonical: 23105-strategy-structure-shared-purpose-there-are-rules-to-protecting-family-wealth.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21957
 title: "PGM Global Inc: Global Recognition Rewards Niche Services, Transition Management, and a Comprehensive Strategy"
-award_year: 2022
+year: 2022
 published: 2022-05-18 07:43:26
 published_gmt: 2022-05-18 06:43:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/pgm-global-inc-global-recognition-rewards-niche-services-transition-management-and-a-comprehensive-strategy/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4d5b6243ed811c04dbb3a538c3d6eabbe000c66289aca9ca4171709c3807fa82
 canonical: 21957-pgm-global-inc-global-recognition-rewards-niche-services-transition-management-a.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21966
 title: "SegurCaixa Adeslas: A Strategy Based on Value Creation — and a Track Record of Innovation"
-award_year: 2022
+year: 2022
 published: 2022-05-19 06:31:27
 published_gmt: 2022-05-19 05:31:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/segurcaixa-adeslas-a-strategy-based-on-value-creation-and-a-track-record-of-innovation/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3ca47e7ce10438f837aa0ddd9e6f94473597a9551c7482d0d7d313e018f3938c
 canonical: 21966-segurcaixa-adeslas-a-strategy-based-on-value-creation-and-a-track-record-of-inno.json
 ---

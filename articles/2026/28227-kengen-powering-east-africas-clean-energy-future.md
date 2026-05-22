@@ -1,12 +1,22 @@
 ---
 id: 28227
 title: "KenGen Powering East Africa’s Clean Energy Future"
-award_year: 2026
+year: 2026
 published: 2026-01-22 13:19:57
 published_gmt: 2026-01-22 13:19:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2026/01/kengen-powering-east-africas-clean-energy-future/"
 categories: ["Africa", "Corporate", "Energy", "Technology"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "Kenya Electricity Generating Company PLC (KenGen)"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: df9c779e29038de81929c273a1e43bcd90e580e09e8db164eae3e1034a0a6998
 canonical: 28227-kengen-powering-east-africas-clean-energy-future.json
 ---

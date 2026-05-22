@@ -1,12 +1,21 @@
 ---
 id: 11820
 title: "CFI.co Meets the Fiduciaria de Occidente Management Team: An Effective and Practical Approach"
-award_year: 2017
+year: 2017
 published: 2017-09-01 12:24:06
 published_gmt: 2017-09-01 11:24:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-fiduciaria-de-occidente-management-team-an-effective-and-practical-approach/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6105ab7b4b7164dd9ce0568f83809695075facfc3fa20a531d3d5ebe2b034e2e
 canonical: 11820-cfi-co-meets-the-fiduciaria-de-occidente-management-team-an-effective-and-practi.json
 ---

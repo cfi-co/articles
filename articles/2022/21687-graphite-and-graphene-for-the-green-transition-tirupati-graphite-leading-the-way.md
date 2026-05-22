@@ -1,12 +1,21 @@
 ---
 id: 21687
 title: "Graphite and Graphene for the Green Transition: Tirupati Graphite Leading the Way"
-award_year: 2022
+year: 2022
 published: 2022-04-05 16:08:38
 published_gmt: 2022-04-05 15:08:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/04/graphite-and-graphene-for-the-green-transition-tirupati-graphite-leading-the-way/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5a22e90f4e9c41a0d455bc7ebe84380eab86bfa81792193633291cabf8878a7c
 canonical: 21687-graphite-and-graphene-for-the-green-transition-tirupati-graphite-leading-the-way.json
 ---

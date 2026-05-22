@@ -1,12 +1,21 @@
 ---
 id: 24668
 title: "MauBank CEO is a Lifelong Learner — with No Fear of Tough Lessons"
-award_year: 2023
+year: 2023
 published: 2023-01-26 13:06:13
 published_gmt: 2023-01-26 13:06:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/01/maubank-ceo-is-a-lifelong-learner-with-no-fear-of-tough-lessons/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 05f9a59a5b41a3dc96b134e3df89425cfea1a52a213308de92fe677a0cef7442
 canonical: 24668-maubank-ceo-is-a-lifelong-learner-with-no-fear-of-tough-lessons.json
 ---

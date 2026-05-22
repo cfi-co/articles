@@ -1,12 +1,21 @@
 ---
 id: 28037
 title: "David Neeleman: The High-Flyer with ADHD - How a Restless Mind Revolutionised Air Travel"
-award_year: 2025
+year: 2025
 published: 2025-11-04 12:40:28
 published_gmt: 2025-11-04 12:40:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2025/11/david-neeleman-the-high-flyer-with-adhd-how-a-restless-mind-revolutionised-air-travel/"
 categories: ["Heroes", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eaa7a5dae81368a855465f768e5e46b63be00f0dfd0a5259910f105e2defea4d
 canonical: 28037-david-neeleman-the-high-flyer-with-adhd-how-a-restless-mind-revolutionised-air-t.json
 ---

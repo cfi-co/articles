@@ -1,12 +1,21 @@
 ---
 id: 17510
 title: "PwC Bermuda: New Tech and Cybercrime Top List of Concerns in Reinsurance Survey"
-award_year: 2020
+year: 2020
 published: 2020-01-23 13:04:20
 published_gmt: 2020-01-23 13:04:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/01/pwc-bermuda-new-tech-and-cybercrime-top-list-of-concerns-in-reinsurance-survey/"
 categories: ["CFI.co Meets", "Corporate", "Corporate Leaders"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bb4d96458f11bd288352e3f55c7c236114e707be5317a0aeb593fcd42a30ec10
 canonical: 17510-pwc-bermuda-new-tech-and-cybercrime-top-list-of-concerns-in-reinsurance-survey.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 6715
 title: "KPMG: India - Banking on New Banks"
-award_year: 2014
+year: 2014
 published: 2014-02-25 13:07:48
 published_gmt: 2014-02-25 13:07:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/02/kpmg-india-banking-on-new-banks/"
 categories: ["Asia Pacific", "Banking", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f23c5a5f01e31cc338ae879aef262a94a384666de03e33d29fc1eb6e8a63162b
 canonical: 6715-kpmg-india-banking-on-new-banks.json
 ---

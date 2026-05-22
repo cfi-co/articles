@@ -1,12 +1,21 @@
 ---
 id: 26151
 title: "Gimme an E! Gimme an S! Gimme a G! What Does that Spell? Future Prosperity — and a Healthy Planet"
-award_year: 2023
+year: 2023
 published: 2023-10-11 09:48:52
 published_gmt: 2023-10-11 08:48:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2023/10/mbh-bank-future-prosperity-and-a-healthy-planet/"
 categories: ["Banking", "Banking &amp; Finance", "Corporate", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d4a81e8243d7f22aa185a1d90a13a8e178270b3d3cdac204d44f67a23f566d04
 canonical: 26151-mbh-bank-future-prosperity-and-a-healthy-planet.json
 ---

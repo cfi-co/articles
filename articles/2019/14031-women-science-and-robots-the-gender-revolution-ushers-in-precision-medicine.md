@@ -1,12 +1,21 @@
 ---
 id: 14031
 title: "Women, Science and Robots: The Gender (R)evolution Ushers-in Precision Medicine"
-award_year: 2019
+year: 2019
 published: 2019-09-18 21:44:19
 published_gmt: 2019-09-18 20:44:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2019/09/women-science-and-robots-the-gender-revolution-ushers-in-precision-medicine/"
 categories: ["Europe", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f9410332d6039c86cae0f2fecb08496f0fc6208849deeae54a7b5e6b7965a7fa
 canonical: 14031-women-science-and-robots-the-gender-revolution-ushers-in-precision-medicine.json
 ---

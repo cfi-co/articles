@@ -1,12 +1,21 @@
 ---
 id: 1004
 title: "Barclays' Libor Rate Fixing Leads to Resignations"
-award_year: 2012
+year: 2012
 published: 2012-07-05 17:24:11
 published_gmt: 2012-07-05 16:24:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/07/barclays-libor-rate-fixing-leads-to-resignations/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8941da51c4ee9e0e737f4f1b78f16b004e9467b4f487ef0ff80b03a859845f2b
 canonical: 1004-barclays-libor-rate-fixing-leads-to-resignations.json
 ---

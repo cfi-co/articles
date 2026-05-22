@@ -1,12 +1,21 @@
 ---
 id: 20210
 title: "Lord Waverley: Quest for Balance and Unity Hampered by Blurred Lines and Differing Standards"
-award_year: 2021
+year: 2021
 published: 2021-07-15 11:51:00
 published_gmt: 2021-07-15 10:51:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2021/07/lord-waverley-quest-for-balance-and-unity-hampered-by-blurred-lines-and-differing-standards/"
 categories: ["Columnists", "Europe"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7caed6306e200b2be0761756d8879f0b6ea97e57c1f74fc3def06b977064f608
 canonical: 20210-lord-waverley-quest-for-balance-and-unity-hampered-by-blurred-lines-and-differin.json
 ---

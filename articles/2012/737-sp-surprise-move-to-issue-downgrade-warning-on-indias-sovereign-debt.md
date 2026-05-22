@@ -1,12 +1,21 @@
 ---
 id: 737
 title: "S&P Surprise Move to Issue Downgrade Warning on India’s Sovereign Debt"
-award_year: 2012
+year: 2012
 published: 2012-06-08 10:02:30
 published_gmt: 2012-06-08 09:02:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2012/06/sp-surprise-move-to-issue-downgrade-warning-on-indias-sovereign-debt/"
 categories: ["Asia Pacific", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b21b4de03ae311dd8e3d1a4623a1a9e6416faf6cd0f52367a654f23497bc8584
 canonical: 737-sp-surprise-move-to-issue-downgrade-warning-on-indias-sovereign-debt.json
 ---

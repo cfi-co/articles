@@ -1,12 +1,21 @@
 ---
 id: 21960
 title: "The Fog of War: The Tragic Triumph of Hope Over Experience - The Folly of Great Powers"
-award_year: 2022
+year: 2022
 published: 2022-05-18 16:09:10
 published_gmt: 2022-05-18 15:09:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/05/the-fog-of-war-the-tragic-triumph-of-hope-over-experience-the-folly-of-great-powers/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0925bfff3750e8590ce704c9571e3b7436539729b607022add881d4c40bd5b49
 canonical: 21960-the-fog-of-war-the-tragic-triumph-of-hope-over-experience-the-folly-of-great-pow.json
 ---

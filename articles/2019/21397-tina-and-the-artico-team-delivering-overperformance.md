@@ -1,12 +1,21 @@
 ---
 id: 21397
 title: "TINA and the ARTICO Team: Delivering Overperformance"
-award_year: 2019
+year: 2019
 published: 2019-01-21 10:42:00
 published_gmt: 2019-01-21 10:42:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/01/tina-and-the-artico-team-delivering-overperformance/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3590ba358fa678d4469698b01ca8a76c15e8eba615a3c7e13cd9b79708a79655
 canonical: 21397-tina-and-the-artico-team-delivering-overperformance.json
 ---

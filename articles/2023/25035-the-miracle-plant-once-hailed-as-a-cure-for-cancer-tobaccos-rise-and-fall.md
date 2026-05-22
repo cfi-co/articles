@@ -1,12 +1,21 @@
 ---
 id: 25035
 title: "The ‘Miracle’ Plant Once Hailed as a Cure for Cancer: Tobacco’s Rise ... and Fall"
-award_year: 2023
+year: 2023
 published: 2023-03-23 13:54:01
 published_gmt: 2023-03-23 13:54:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2023/03/the-miracle-plant-once-hailed-as-a-cure-for-cancer-tobaccos-rise-and-fall/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d81b119bd148c26ffaf8fae036cdbe5e92a15ca52d6a8da750d1b3f8a3b87544
 canonical: 25035-the-miracle-plant-once-hailed-as-a-cure-for-cancer-tobaccos-rise-and-fall.json
 ---

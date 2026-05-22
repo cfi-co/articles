@@ -1,12 +1,21 @@
 ---
 id: 27363
 title: "Johan Thijs: Steering KBC to Continued Success"
-award_year: 2024
+year: 2024
 published: 2024-12-09 08:43:06
 published_gmt: 2024-12-09 08:43:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/12/johan-thijs-steering-kbc-to-continued-success/"
 categories: ["Banking", "Banking &amp; Finance", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8fdd97a4de5de5fd0bc65236afd2b67bdcf76bb5c6a113abe7f2284a3dc6aa5f
 canonical: 27363-johan-thijs-steering-kbc-to-continued-success.json
 ---

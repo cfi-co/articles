@@ -1,12 +1,21 @@
 ---
 id: 24915
 title: "Ajay Banga, former Mastercard CEO"
-award_year: 2023
+year: 2023
 published: 2023-03-21 08:37:46
 published_gmt: 2023-03-21 08:37:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/03/ajay-banga-former-mastercard-ceo/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ae2117ecb022b77ac4c7634e9de3161b1e2cae7014ccb1ddc10ed29e87c5dc84
 canonical: 24915-ajay-banga-former-mastercard-ceo.json
 ---

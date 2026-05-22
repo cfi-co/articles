@@ -1,12 +1,21 @@
 ---
 id: 26426
 title: "Belarusian Entrepreneur Denis Primakov Is Developing an Efficient System for Transporting Perishable Products"
-award_year: 2023
+year: 2023
 published: 2023-11-16 12:16:40
 published_gmt: 2023-11-16 12:16:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/projects/2023/11/belarusian-entrepreneur-denis-primakov-is-developing-an-efficient-system-for-transporting-perishable-products/"
 categories: ["Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6746e8274e5524c6f35ee88bd857432477af8bcfd9a243677658d877822e38dc
 canonical: 26426-belarusian-entrepreneur-denis-primakov-is-developing-an-efficient-system-for-tra.json
 ---

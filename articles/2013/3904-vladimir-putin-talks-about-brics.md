@@ -1,12 +1,21 @@
 ---
 id: 3904
 title: "Vladimir Putin Talks About BRICS"
-award_year: 2013
+year: 2013
 published: 2013-05-13 15:36:48
 published_gmt: 2013-05-13 14:36:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/05/vladimir-putin-talks-about-brics/"
 categories: ["Asia Pacific", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 896bcb1e648c4aedb302aa8bd9090d9506f747a5e669a9091dbebb342c5f9909
 canonical: 3904-vladimir-putin-talks-about-brics.json
 ---

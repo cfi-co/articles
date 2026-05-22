@@ -1,12 +1,21 @@
 ---
 id: 15731
 title: "CFI.co Meets the Chairman & CEO of Image Nation Abu Dhabi: Mohamed Al Mubarak & Michael Garin"
-award_year: 2016
+year: 2016
 published: 2016-07-16 11:11:46
 published_gmt: 2016-07-16 10:11:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/07/cfi-co-meets-the-chairman-ceo-of-image-nation-abu-dhabi-mohamed-al-mubarak-michael-garin/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a05bffd339d19419282b8ee807968757eccd8700e26a5354ef64989a17ec12fc
 canonical: 15731-cfi-co-meets-the-chairman-ceo-of-image-nation-abu-dhabi-mohamed-al-mubarak-micha.json
 ---

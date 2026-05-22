@@ -12,8 +12,21 @@
         "Finance",
         "Latin America"
     ],
+    "classification": {
+        "content_class": "editorial_analysis",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<a href=\"http://capitalfinanceint.com/news/wp-content/uploads/2012/07/itau.jpg\"><img class=\"alignright size-full wp-image-1028\" title=\"itau\" src=\"http://capitalfinanceint.com/news/wp-content/uploads/2012/07/itau.jpg\" alt=\"\" width=\"259\" height=\"194\" /></a>Itaú Unibanco announced on Tuesday an agreement with the Banco BMG to offer, distribution and marketing of payroll services.\n\nThe joint venture will be called banco Itaú BMG Factored, and Itaú Unibanco will hold the control with 70% of the total capital of the new entity, while BMG will have the 30% remaining.\n\nThe initial equity capital will be US$ 500 milllion.\n\n\"Itaú Unibanco will contribute with their economic and financial capacity, administrative experience and controls and the BMG will contribute with their commercial and operational expertise, as well as the technological platform necessary for the development of the activities of the joint venture,\" said ITA in a statement to the market.\n\n<a href=\"http://capitalfinanceint.com/news/wp-content/uploads/2012/07/banco-bmg.jpg\"><img class=\"alignleft size-full wp-image-1029\" title=\"banco-bmg\" src=\"http://capitalfinanceint.com/news/wp-content/uploads/2012/07/banco-bmg.jpg\" alt=\"\" width=\"259\" height=\"194\" /></a>In addition, the joint venture will share \"distribution channels with the BMG and shall have the right to finance 70% of claims reflected originated by such distribution channels. The remaining 30% will be hired directly by BMG. \"\n\nAccording to BMG, the Association will bring improvement in their leverage ratios, \"with consequent release of capital required, bearing in mind that approximately 70% of payroll credits will be carried out signings by the joint venture.\"\n\nThe Bank also highlights the strengthening of brand, as \"an important part of your business payroll loans will be held in association with Itaú Unibanco, Latin America's biggest private bank.\"",
     "content_sha256": "0966dbd91f3f3aa12089ef887fbb4dea56775c8183319fbd95a60a95323b66c3",
-    "record_sha256": "9108b16d22313d388e16e2987c4f0e9ba3d011b687404200cca1bdad4f0773f8"
+    "record_sha256": "7319895c211307cd4bdd5d351cd63b292710c57086e467756fc623bc517d096a"
 }

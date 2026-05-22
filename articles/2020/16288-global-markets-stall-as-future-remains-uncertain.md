@@ -1,12 +1,21 @@
 ---
 id: 16288
 title: "Global Markets Stall as Future Remains Uncertain"
-award_year: 2020
+year: 2020
 published: 2020-07-14 14:12:06
 published_gmt: 2020-07-14 13:12:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/07/global-markets-stall-as-future-remains-uncertain/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e32ff445f0dab40432d71a0a539b80e071dc37524a1c9c21b55a3291f629f12c
 canonical: 16288-global-markets-stall-as-future-remains-uncertain.json
 ---

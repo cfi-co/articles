@@ -1,12 +1,21 @@
 ---
 id: 10843
 title: "CFI.co Meets the CEO of JSW Energy: Sanjay Sagar"
-award_year: 2016
+year: 2016
 published: 2016-01-21 15:55:29
 published_gmt: 2016-01-21 15:55:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-jsw-energy-sanjay-sagar/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 219a00f84295927303766c072e56247230a087414686f20e75620434fb734931
 canonical: 10843-cfi-co-meets-the-ceo-of-jsw-energy-sanjay-sagar.json
 ---

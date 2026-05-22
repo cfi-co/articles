@@ -1,12 +1,21 @@
 ---
 id: 26925
 title: "Biden Exits 2024 Presidential Race, Endorses Kamala Harris"
-award_year: 2024
+year: 2024
 published: 2024-07-21 21:42:09
 published_gmt: 2024-07-21 20:42:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2024/07/biden-exits-2024-presidential-race-endorses-kamala-harris/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 600c72f973db02edeaa31a0ef148d2a59d4ca7becd5067360f87a11bac007093
 canonical: 26925-biden-exits-2024-presidential-race-endorses-kamala-harris.json
 ---

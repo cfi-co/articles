@@ -1,12 +1,21 @@
 ---
 id: 16638
 title: "CEO of McKinsey Spain and Portugal: Alejandro Beltrán — Pandemic Accelerates Changes Already Underway"
-award_year: 2020
+year: 2020
 published: 2020-08-17 22:47:08
 published_gmt: 2020-08-17 21:47:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/08/alejandro-beltran-ceo-mckinsey-spain-and-portugal-pandemic-accelerates-changes-already-underway/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 381428e57e60d0f9ea23ba17f9037def7566c2d3b18630170b35fab24987140a
 canonical: 16638-alejandro-beltran-ceo-mckinsey-spain-and-portugal-pandemic-accelerates-changes-a.json
 ---

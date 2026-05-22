@@ -1,12 +1,21 @@
 ---
 id: 8727
 title: "World Bank MENA Chief Economist: Towards a New Social Contract in the Middle East and North Africa"
-award_year: 2015
+year: 2015
 published: 2015-01-16 11:28:30
 published_gmt: 2015-01-16 11:28:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/01/world-bank-mena-chief-economist-towards-a-new-social-contract-in-the-middle-east-and-north-africa/"
 categories: ["Africa", "Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c2a4cfc49e76b77623ae2bfa81c7453277d4e83152405e08231bd37641fdda9d
 canonical: 8727-world-bank-mena-chief-economist-towards-a-new-social-contract-in-the-middle-east.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26001
 title: "Seventy Years of Experience, Billions in AUM and Multiple CFI.co Awards — La Trobe Financial is simply ‘Killing it’"
-award_year: 2023
+year: 2023
 published: 2023-09-05 09:47:43
 published_gmt: 2023-09-05 08:47:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2023/09/la-trobe-financial-seventy-years-of-experience-billions-in-aum-and-multiple-cfi-co-awards/"
 categories: ["Asia Pacific", "Corporate", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dbbf409d49093ca0b7749213ecf6f1d4a7bf403f236220397ab237dcf3b3ebf8
 canonical: 26001-seventy-years-of-experience-billions-in-aum-and-multiple-cfi-co-awards-la-trobe-.json
 ---

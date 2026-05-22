@@ -1,12 +1,21 @@
 ---
 id: 24384
 title: "BBE Chief Victor van der Kwast Uses Life Experience to Guide His Hand in Finance"
-award_year: 2023
+year: 2023
 published: 2023-01-09 15:10:24
 published_gmt: 2023-01-09 15:10:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2023/01/bbe-chief-victor-van-der-kwast-uses-life-experience-to-guide-his-hand-in-finance/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fc1b033bde5e513ac9d10823a9f155b2f8616a1ae2f4f5776dd7a696f0ba4c23
 canonical: 24384-bbe-chief-victor-van-der-kwast-uses-life-experience-to-guide-his-hand-in-finance.json
 ---

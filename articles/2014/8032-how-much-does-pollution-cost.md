@@ -1,12 +1,21 @@
 ---
 id: 8032
 title: "How Much Does Pollution Cost?"
-award_year: 2014
+year: 2014
 published: 2014-09-18 14:54:12
 published_gmt: 2014-09-18 13:54:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2014/09/how-much-does-pollution-cost/"
 categories: ["Latin America", "Oil &amp; Mining", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dede05caedd89d1249d3b19cbbb89130d8ec79dc77d52ac814f537e111eeea69
 canonical: 8032-how-much-does-pollution-cost.json
 ---

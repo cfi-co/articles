@@ -1,12 +1,21 @@
 ---
 id: 10619
 title: "Ross Jackson: Eurozone - The End Game"
-award_year: 2015
+year: 2015
 published: 2015-11-10 14:07:10
 published_gmt: 2015-11-10 14:07:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2015/11/ross-jackson-eurozone-the-end-game/"
 categories: ["Banking", "Columnists", "Europe", "Finance"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1bddaf922ec0b993e97736a2d82120fc7fb618ae6d5334849be45594c829a544
 canonical: 10619-ross-jackson-eurozone-the-end-game.json
 ---

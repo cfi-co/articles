@@ -1,12 +1,21 @@
 ---
 id: 27647
 title: "Rate Holds Dominate as Major Central Banks Navigate a Fragile Global Economy"
-award_year: 2025
+year: 2025
 published: 2025-03-21 12:29:23
 published_gmt: 2025-03-21 12:29:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/03/rate-holds-dominate-as-major-central-banks-navigate-a-fragile-global-economy/"
 categories: ["Asia Pacific", "Banking", "Europe", "Finance", "Markets", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e102dd5c93e5d19d1bbea2557a4b98510673f62f5ce5e20f61d641232d14cb75
 canonical: 27647-rate-holds-dominate-as-major-central-banks-navigate-a-fragile-global-economy.json
 ---

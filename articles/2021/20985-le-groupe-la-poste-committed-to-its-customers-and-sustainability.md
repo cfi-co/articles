@@ -1,12 +1,21 @@
 ---
 id: 20985
 title: "Le Groupe La Poste: Committed to its Customers — and Sustainability"
-award_year: 2021
+year: 2021
 published: 2021-11-06 16:17:59
 published_gmt: 2021-11-06 16:17:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/le-groupe-la-poste-committed-to-its-customers-and-sustainability/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0b68d79ecdbe2b2b5c3f4e2f924e9dc65c7d886025498cd71bcd0028842759e1
 canonical: 20985-le-groupe-la-poste-committed-to-its-customers-and-sustainability.json
 ---

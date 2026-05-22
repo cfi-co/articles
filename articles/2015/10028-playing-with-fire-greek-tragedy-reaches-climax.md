@@ -1,12 +1,21 @@
 ---
 id: 10028
 title: "Playing with Fire: Greek Tragedy Reaches Climax"
-award_year: 2015
+year: 2015
 published: 2015-06-16 14:00:18
 published_gmt: 2015-06-16 13:00:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/06/playing-with-fire-greek-tragedy-reaches-climax/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c3ba7ca375846f79c5d43759e2aa207afbc7a3c6f163e6cff9d09cfe2d2c93ac
 canonical: 10028-playing-with-fire-greek-tragedy-reaches-climax.json
 ---

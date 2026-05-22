@@ -1,12 +1,21 @@
 ---
 id: 19812
 title: "Deloitte: Changes on the Horizon for Europe’s Alternative Investment Fund Market"
-award_year: 2021
+year: 2021
 published: 2021-06-11 07:03:37
 published_gmt: 2021-06-11 06:03:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2021/06/deloitte-changes-on-the-horizon-for-europes-alternative-investment-fund-market/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ea3283cc437c8863e3caf8ba994620cee7c4a2e52c77a0be5b7e54ced2c0a005
 canonical: 19812-deloitte-changes-on-the-horizon-for-europes-alternative-investment-fund-market.json
 ---

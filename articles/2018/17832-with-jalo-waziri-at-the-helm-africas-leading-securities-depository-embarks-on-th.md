@@ -1,12 +1,21 @@
 ---
 id: 17832
 title: "With Jalo-Waziri at the Helm: Africa’s Leading Securities Depository Embarks on Three-Year Plan"
-award_year: 2018
+year: 2018
 published: 2018-10-10 09:19:09
 published_gmt: 2018-10-10 08:19:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2018/10/with-jalo-waziri-at-the-helm-africas-leading-securities-depository-embarks-on-three-year-plan/"
 categories: ["Africa", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5678a5db891bf5b8c033871ace37a9bcec196511d9d8abaeb591a9dee15e1e9d
 canonical: 17832-with-jalo-waziri-at-the-helm-africas-leading-securities-depository-embarks-on-th.json
 ---

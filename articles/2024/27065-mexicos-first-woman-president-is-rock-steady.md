@@ -1,12 +1,21 @@
 ---
 id: 27065
 title: "Mexico’s First Woman President is Rock Steady"
-award_year: 2024
+year: 2024
 published: 2024-08-23 11:25:26
 published_gmt: 2024-08-23 10:25:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2024/08/mexicos-first-woman-president-is-rock-steady/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fd77f2a54e41a912ae96762fbf44c628cbe72b4802bdbfd61172dd0ec0015179
 canonical: 27065-mexicos-first-woman-president-is-rock-steady.json
 ---

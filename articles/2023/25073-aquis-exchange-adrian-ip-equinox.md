@@ -1,12 +1,21 @@
 ---
 id: 25073
 title: "Taking on Giants, and Winning: Aquis Exchange Shares Equinox Benefits with Trading Ecosystem"
-award_year: 2023
+year: 2023
 published: 2023-04-12 15:17:41
 published_gmt: 2023-04-12 14:17:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/2023/04/aquis-exchange-adrian-ip-equinox"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fb066d34d6787f8cf2fb09817551b22afb90d0433627692eb765751b63a18261
 canonical: 25073-aquis-exchange-adrian-ip-equinox.json
 ---

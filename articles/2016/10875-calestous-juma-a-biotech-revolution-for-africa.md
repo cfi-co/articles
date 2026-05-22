@@ -1,12 +1,21 @@
 ---
 id: 10875
 title: "Calestous Juma: A Biotech Revolution for Africa"
-award_year: 2016
+year: 2016
 published: 2016-01-21 16:29:04
 published_gmt: 2016-01-21 16:29:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2016/01/calestous-juma-a-biotech-revolution-for-africa/"
 categories: ["Africa", "Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b585ea7a53a21b40918c00834e50d364b8b17a7c799c7cb6a9e560f2a07235b2
 canonical: 10875-calestous-juma-a-biotech-revolution-for-africa.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8128
 title: "Europe’s Original Sin and the Dangers of Doing Good"
-award_year: 2014
+year: 2014
 published: 2014-10-02 10:27:15
 published_gmt: 2014-10-02 09:27:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/10/europes-original-sin-and-the-dangers-of-doing-good/"
 categories: ["Africa", "Europe", "Latin America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 54e70f3d0e91cd222d5727324f34e9e8eb5981048f5621da37bf263124710e6a
 canonical: 8128-europes-original-sin-and-the-dangers-of-doing-good.json
 ---

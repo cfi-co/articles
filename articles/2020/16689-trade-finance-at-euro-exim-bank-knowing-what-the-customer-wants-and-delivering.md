@@ -1,12 +1,21 @@
 ---
 id: 16689
 title: "Trade Finance at Euro Exim Bank: Knowing What the Customer Wants and Delivering"
-award_year: 2020
+year: 2020
 published: 2020-08-20 12:48:53
 published_gmt: 2020-08-20 11:48:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/08/trade-finance-at-euro-exim-bank-knowing-what-the-customer-wants-and-delivering/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2f5faf3bfac01530be4a3220cd5065960a35ac7fac6579021eced6f1223d04ce
 canonical: 16689-trade-finance-at-euro-exim-bank-knowing-what-the-customer-wants-and-delivering.json
 ---

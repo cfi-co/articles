@@ -1,12 +1,21 @@
 ---
 id: 12503
 title: "Christian Mumenthaler, CEO of Swiss Re: Insuring Future Growth"
-award_year: 2018
+year: 2018
 published: 2018-05-16 11:44:09
 published_gmt: 2018-05-16 10:44:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2018/05/christian-mumenthaler-ceo-of-swiss-re-insuring-future-growth/"
 categories: ["Europe", "Portraits"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 196aa786149c567e147a8ce2ecb42d3d25eb733a2853dfe3e137b02c53767300
 canonical: 12503-christian-mumenthaler-ceo-of-swiss-re-insuring-future-growth.json
 ---

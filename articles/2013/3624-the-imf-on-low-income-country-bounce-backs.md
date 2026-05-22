@@ -1,12 +1,21 @@
 ---
 id: 3624
 title: "The IMF on Low Income Country Bounce Backs"
-award_year: 2013
+year: 2013
 published: 2013-04-10 10:12:45
 published_gmt: 2013-04-10 10:12:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/04/the-imf-on-low-income-country-bounce-backs/"
 categories: ["Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 937375daa7261820a0b7456e6ba9144188449d344bf59257e973590dd110be0b
 canonical: 3624-the-imf-on-low-income-country-bounce-backs.json
 ---

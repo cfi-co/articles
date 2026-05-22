@@ -1,12 +1,21 @@
 ---
 id: 8145
 title: "Mukhisa Kituyi, UNCTAD: Sustainable Stock Exchanges and the 21st Century Challenge for Global Finance"
-award_year: 2014
+year: 2014
 published: 2014-10-06 12:03:05
 published_gmt: 2014-10-06 11:03:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/10/mukhisa-kituyi-unctad-sustainable-stock-exchanges-and-the-21st-century-challenge-for-global-finance/"
 categories: ["Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 54333b0751887020ef8cf49a48ccabe08ef21777a1b92fe097b50d5be5aaa843
 canonical: 8145-mukhisa-kituyi-unctad-sustainable-stock-exchanges-and-the-21st-century-challenge.json
 ---

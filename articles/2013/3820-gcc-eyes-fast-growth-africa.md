@@ -1,12 +1,21 @@
 ---
 id: 3820
 title: "GCC Eyes Fast Growth Africa"
-award_year: 2013
+year: 2013
 published: 2013-05-07 10:49:05
 published_gmt: 2013-05-07 09:49:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/05/gcc-eyes-fast-growth-africa/"
 categories: ["Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6ee95185adbfca15bf3690fea718ca37f9f29b97faa7debe4a4d737ca2263b48
 canonical: 3820-gcc-eyes-fast-growth-africa.json
 ---

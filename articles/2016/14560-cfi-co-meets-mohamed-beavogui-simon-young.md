@@ -1,12 +1,21 @@
 ---
 id: 14560
 title: "CFI.co Meets Mohamed Beavogui & Simon Young"
-award_year: 2016
+year: 2016
 published: 2016-05-20 14:01:55
 published_gmt: 2016-05-20 13:01:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/05/cfi-co-meets-mohamed-beavogui-simon-young/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 11dc2822e14ae945f807aafc5dbaad2b2940414a7fb514ec51dbbba50b751b6f
 canonical: 14560-cfi-co-meets-mohamed-beavogui-simon-young.json
 ---

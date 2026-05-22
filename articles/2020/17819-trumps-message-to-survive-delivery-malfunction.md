@@ -1,12 +1,21 @@
 ---
 id: 17819
 title: "Trumpism 2.0: Message to Survive Delivery Malfunction"
-award_year: 2020
+year: 2020
 published: 2020-11-09 10:47:02
 published_gmt: 2020-11-09 10:47:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/11/trumps-message-to-survive-delivery-malfunction/"
 categories: ["Brave New World", "North America", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ffc8ccc98283c8a17aa98fa94ee7e79d279400e396ef845b49edf2477baedb32
 canonical: 17819-trumps-message-to-survive-delivery-malfunction.json
 ---

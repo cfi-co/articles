@@ -1,12 +1,21 @@
 ---
 id: 11087
 title: "Energy for the Masses: Raiders of the Lost Promise - The Holy Grail of Nuclear Fusion"
-award_year: 2016
+year: 2016
 published: 2016-03-23 16:10:12
 published_gmt: 2016-03-23 16:10:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2016/03/energy-masses-raiders-lost-promise-holy-grail-nuclear-fusion/"
 categories: ["Energy", "Europe", "Oil &amp; Mining", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cdfb62122e49390e0db184951a6b8fbbbe4d2b87f84444bea9c14e69e561298a
 canonical: 11087-energy-masses-raiders-lost-promise-holy-grail-nuclear-fusion.json
 ---

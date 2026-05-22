@@ -1,12 +1,21 @@
 ---
 id: 10076
 title: "Enhancing Integration, Unlocking Investment in West Africa"
-award_year: 2015
+year: 2015
 published: 2015-06-26 14:17:39
 published_gmt: 2015-06-26 13:17:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/06/enhancing-integration-unlocking-investment-in-west-africa/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cac31a49d8c8f19c934a2cf5365f0b000795c8e527bd82fd25befc60d5be7096
 canonical: 10076-enhancing-integration-unlocking-investment-in-west-africa.json
 ---

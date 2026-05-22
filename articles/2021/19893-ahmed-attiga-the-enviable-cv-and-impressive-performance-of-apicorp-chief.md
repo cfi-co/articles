@@ -1,12 +1,21 @@
 ---
 id: 19893
 title: "Ahmed Attiga: The Enviable CV and Impressive Performance of APICORP Chief"
-award_year: 2021
+year: 2021
 published: 2021-07-13 13:03:00
 published_gmt: 2021-07-13 12:03:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/ahmed-attiga-the-enviable-cv-and-impressive-performance-of-apicorp-chief/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7ac12c2fc84dd30ebb424fb1a84e1199f6c8d82c8a1305f65aadd63d1ae90d03
 canonical: 19893-ahmed-attiga-the-enviable-cv-and-impressive-performance-of-apicorp-chief.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26975
 title: "Raiffeisen Certificates: Investing in Capital Markets — with Protection"
-award_year: 2024
+year: 2024
 published: 2024-08-06 10:42:22
 published_gmt: 2024-08-06 09:42:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/08/raiffeisen-certificates-investing-in-capital-markets-with-protection/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c7675437e2b4f1df406c89c42830310afeaf4f08751690cde5903f4cd2d61e38
 canonical: 26975-raiffeisen-certificates-investing-in-capital-markets-with-protection.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 17977
 title: "World Bank's Vice President for Infrastructure: Now is the Time to Rethink Transport and Logistics"
-award_year: 2020
+year: 2020
 published: 2020-11-19 10:56:07
 published_gmt: 2020-11-19 10:56:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2020/11/transport-and-logistics-world-banks-vice-president-for-infrastructure-now-is-the-time-to-rethink/"
 categories: ["Banking", "Brave New World", "Finance", "Multilaterals", "Projects", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 24f46db53ca9d862f0390ca93644b9f7d9fbf54260fa34ae9b6faf1bb1f0e8b0
 canonical: 17977-transport-and-logistics-world-banks-vice-president-for-infrastructure-now-is-the.json
 ---

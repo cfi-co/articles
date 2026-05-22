@@ -1,12 +1,21 @@
 ---
 id: 22433
 title: "IMF: Turbulence and the Lessons of History"
-award_year: 2022
+year: 2022
 published: 2022-07-19 14:05:21
 published_gmt: 2022-07-19 13:05:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/07/imf-turbulence-and-the-lessons-of-history/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8db0fe48a308bb67e5b6df6c1774ee3cc6ee4a9dd11072d9a47d107eb8175742
 canonical: 22433-imf-turbulence-and-the-lessons-of-history.json
 ---

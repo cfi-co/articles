@@ -1,12 +1,21 @@
 ---
 id: 20284
 title: "Book Review: Numerology, Mystery, Romance… and the Development of an App"
-award_year: 2021
+year: 2021
 published: 2021-07-29 07:38:31
 published_gmt: 2021-07-29 06:38:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/reviews/2021/07/book-review-numerology-mystery-romance-and-the-development-of-an-app/"
 categories: ["North America", "Reviews", "Technology"]
+content_class: review
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 72fd671b280e9b68f2f3dd9d11800dfa3b21dac558eb47aebd42d79ce52763dd
 canonical: 20284-book-review-numerology-mystery-romance-and-the-development-of-an-app.json
 ---

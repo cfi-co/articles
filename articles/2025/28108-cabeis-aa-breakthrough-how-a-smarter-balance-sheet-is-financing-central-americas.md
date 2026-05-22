@@ -1,12 +1,21 @@
 ---
 id: 28108
 title: "CABEI’s AA+ Breakthrough: How a Smarter Balance Sheet Is Financing Central America’s Next Growth Chapter"
-award_year: 2025
+year: 2025
 published: 2025-11-27 12:46:24
 published_gmt: 2025-11-27 12:46:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2025/11/cabeis-aa-breakthrough-how-a-smarter-balance-sheet-is-financing-central-americas-next-growth-chapter/"
 categories: ["Banking", "Finance", "Latin America", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a7d99607a515a5f12222d973fb57eebb6a12601f8047690dcf013085b3b3774e
 canonical: 28108-cabeis-aa-breakthrough-how-a-smarter-balance-sheet-is-financing-central-americas.json
 ---

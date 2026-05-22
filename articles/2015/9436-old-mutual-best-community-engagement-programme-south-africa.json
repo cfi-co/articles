@@ -8,8 +8,21 @@
     "published_gmt": "2015-02-01 09:02:10",
     "modified_gmt": "2019-06-25 18:10:18",
     "categories": [],
+    "classification": {
+        "content_class": "editorial_analysis",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>Responsibility is at the heart of Old Mutual’s  success over the past 165 years and the CFI.co judging panel is impressed  to see that core value has been translated into the community work of this financial group.</strong></p>\r\n<p style=\"text-align: justify;\">The panel feels that the way Old Mutual has used this core value of the business stands out as an example to others across the word. Many companies have extensive community engagement programmes but what sets Old Mutual apart is the way the company delivers directly through its business. By effectively leveraging the group’s key strengths the impact goes far further than the value of money spent. Old Mutual has perfected this approach over the years and stands out as an example of what can be achieved for the benefit of communities by combining responsibility and keen intelligence.</p>",
     "content_sha256": "b9053aa8e95c66aee30774250a78166a7d87acb773b2f1e207c429ecbde715ef",
-    "record_sha256": "b1e498d17fea74afc5d5cc632f7eb2f50a5b488ab0b85a20e8908ed519127f5d"
+    "record_sha256": "eaf24251599ad2133c141fe132141436e8cb2d8611c831510e78551a6655984f"
 }

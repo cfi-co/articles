@@ -1,12 +1,21 @@
 ---
 id: 13139
 title: "Didier Drogba: Just Do It"
-award_year: 2018
+year: 2018
 published: 2018-09-12 12:24:07
 published_gmt: 2018-09-12 11:24:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/09/didier-drogba-just-do-it/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 24a570cb9a1f513cec57749892b76d36ff82d9952e164b8df991fbb7313cb82e
 canonical: 13139-didier-drogba-just-do-it.json
 ---

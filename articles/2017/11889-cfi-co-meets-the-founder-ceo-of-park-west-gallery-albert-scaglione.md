@@ -1,12 +1,21 @@
 ---
 id: 11889
 title: "CFI.co Meets the Founder & CEO of Park West Gallery: Albert Scaglione"
-award_year: 2017
+year: 2017
 published: 2017-09-08 11:35:24
 published_gmt: 2017-09-08 10:35:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-founder-ceo-of-park-west-gallery-albert-scaglione/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 896bff3b747c3f3e401f4af1faa75d3e087f055b93fbafc06265c1d68688f2be
 canonical: 11889-cfi-co-meets-the-founder-ceo-of-park-west-gallery-albert-scaglione.json
 ---

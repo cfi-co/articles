@@ -1,12 +1,21 @@
 ---
 id: 25890
 title: "A One-Day Commitment for a Lifetime of Freedom"
-award_year: 2023
+year: 2023
 published: 2023-08-15 11:50:57
 published_gmt: 2023-08-15 10:50:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/08/a-one-day-commitment-for-a-lifetime-of-freedom/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f72e9770dbfcb7cf3f000899ced433f7d06410360d3190c39d8364e1b82fba81
 canonical: 25890-a-one-day-commitment-for-a-lifetime-of-freedom.json
 ---

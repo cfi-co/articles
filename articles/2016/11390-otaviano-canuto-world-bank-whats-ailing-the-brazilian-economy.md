@@ -1,12 +1,21 @@
 ---
 id: 11390
 title: "Otaviano Canuto, World Bank: What’s Ailing the Brazilian Economy?"
-award_year: 2016
+year: 2016
 published: 2016-11-23 14:02:32
 published_gmt: 2016-11-23 14:02:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2016/11/otaviano-canuto-world-bank-whats-ailing-the-brazilian-economy/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a79edefa41478b66098c65ab24ea955da605317f45dd7c26f968e10774b6dd40
 canonical: 11390-otaviano-canuto-world-bank-whats-ailing-the-brazilian-economy.json
 ---

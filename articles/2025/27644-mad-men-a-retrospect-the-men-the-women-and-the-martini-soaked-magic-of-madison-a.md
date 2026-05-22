@@ -1,12 +1,21 @@
 ---
 id: 27644
 title: "\"Mad Men\": A Retrospect - The Men, The Women, and the Martini-Soaked Magic of Madison Avenue"
-award_year: 2025
+year: 2025
 published: 2025-03-20 08:20:47
 published_gmt: 2025-03-20 08:20:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2025/03/mad-men-a-retrospect-the-men-the-women-and-the-martini-soaked-magic-of-madison-avenue/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 50e209663a702e86367e6636981f274a2305b95756d3d47cb4974bff6590922d
 canonical: 27644-mad-men-a-retrospect-the-men-the-women-and-the-martini-soaked-magic-of-madison-a.json
 ---

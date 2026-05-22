@@ -1,12 +1,21 @@
 ---
 id: 18716
 title: "Pavilion Global Markets: Global Recognition in Two Niche Services, Transition Management and Global Portfolio Strategy"
-award_year: 2021
+year: 2021
 published: 2021-02-10 11:37:09
 published_gmt: 2021-02-10 11:37:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/cfi-co-meets/2021/02/pavilion-global-markets-global-recognition-in-two-niche-services-transition-management-and-global-portfolio-strategy/"
 categories: ["CFI.co Meets", "Corporate"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 23ca73dc5459baaee58d531dc1600fc4e08192e6dca2b7b3b87efd356eebfdaa
 canonical: 18716-pavilion-global-markets-global-recognition-in-two-niche-services-transition-mana.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27687
 title: "The Promise and Pressure of the UK’s AI Aspirations"
-award_year: 2025
+year: 2025
 published: 2025-04-10 15:16:31
 published_gmt: 2025-04-10 14:16:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2025/04/the-promise-and-pressure-of-the-uks-ai-aspirations/"
 categories: ["Europe", "Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 08870dff24cdeba01198bf6f96038683fc948aab84964b4fd6cca1c4e862d7e5
 canonical: 27687-the-promise-and-pressure-of-the-uks-ai-aspirations.json
 ---

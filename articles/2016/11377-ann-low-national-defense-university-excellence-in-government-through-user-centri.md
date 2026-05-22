@@ -1,12 +1,21 @@
 ---
 id: 11377
 title: "Ann Low, National Defense University: Excellence in Government through User-Centric Design"
-award_year: 2016
+year: 2016
 published: 2016-11-17 16:27:45
 published_gmt: 2016-11-17 16:27:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2016/11/ann-low-national-defense-university-excellence-in-government-through-user-centric-design/"
 categories: ["North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3a3809f6f507a681813ba02ce16d44eba59766456d7b41e00ac4dc7d600cdbf8
 canonical: 11377-ann-low-national-defense-university-excellence-in-government-through-user-centri.json
 ---

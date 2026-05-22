@@ -1,12 +1,21 @@
 ---
 id: 4761
 title: "Super-Size My Pay: US Fast Food Workers Walk Off Job"
-award_year: 2013
+year: 2013
 published: 2013-08-01 09:42:25
 published_gmt: 2013-08-01 08:42:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/08/super-size-my-pay-us-fast-food-workers-walk-off-job/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f548a4f7d5def8e18f7b4963d60258783e382e9dd83032be0e24a3e78204c3b0
 canonical: 4761-super-size-my-pay-us-fast-food-workers-walk-off-job.json
 ---

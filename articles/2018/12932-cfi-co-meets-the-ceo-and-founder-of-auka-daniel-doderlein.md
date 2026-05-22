@@ -1,12 +1,21 @@
 ---
 id: 12932
 title: "CFI.co Meets the CEO and Founder of Auka: Daniel Döderlein"
-award_year: 2018
+year: 2018
 published: 2018-09-25 13:33:35
 published_gmt: 2018-09-25 12:33:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/09/cfi-co-meets-the-ceo-and-founder-of-auka-daniel-doderlein/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dc4a1058b8c019503cfcc8ba4042dc7ea991974e87e07fdc4b243169f461b189
 canonical: 12932-cfi-co-meets-the-ceo-and-founder-of-auka-daniel-doderlein.json
 ---

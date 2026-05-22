@@ -1,12 +1,21 @@
 ---
 id: 11959
 title: "CFI.co Meets the Management Team: Fideicomiso Hipotecario"
-award_year: 2017
+year: 2017
 published: 2017-10-09 13:54:15
 published_gmt: 2017-10-09 12:54:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-management-team-fideicomiso-hipotecario/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cc0dafe71787c523068d12a3451c9e93919ec393c1e73b1a3d3f8f61ba7a2a2d
 canonical: 11959-cfi-co-meets-the-management-team-fideicomiso-hipotecario.json
 ---

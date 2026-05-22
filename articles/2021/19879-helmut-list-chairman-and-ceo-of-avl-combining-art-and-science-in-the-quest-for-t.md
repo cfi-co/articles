@@ -1,12 +1,21 @@
 ---
 id: 19879
 title: "Helmut List, Chairman and CEO of AVL: Combining Art and Science in the Quest for True Sustainable Mobility"
-award_year: 2021
+year: 2021
 published: 2021-07-12 15:40:56
 published_gmt: 2021-07-12 14:40:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/helmut-list-chairman-and-ceo-of-avl-combining-art-and-science-in-the-quest-for-true-sustainable-mobility/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d51f67f131f956dd2b384a9e8eaf5c06665691f9ed08ea28ee80a6945bdd6120
 canonical: 19879-helmut-list-chairman-and-ceo-of-avl-combining-art-and-science-in-the-quest-for-t.json
 ---

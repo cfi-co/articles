@@ -1,12 +1,21 @@
 ---
 id: 2498
 title: "What has the Internet Done for the Economy?"
-award_year: 2012
+year: 2012
 published: 2012-11-03 10:57:02
 published_gmt: 2012-11-03 10:57:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2012/11/what-has-the-internet-done-for-the-economy/"
 categories: ["Finance", "North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f1731adc3de1e4b1c140c5e3a4a26fa123716e6f482cc06814259a5eda2ca8ec
 canonical: 2498-what-has-the-internet-done-for-the-economy.json
 ---

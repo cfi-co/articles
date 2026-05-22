@@ -1,12 +1,21 @@
 ---
 id: 15694
 title: "Financial Services CEO Puts the Pedal to Metal and ADGM Goes Scorching Ahead"
-award_year: 2019
+year: 2019
 published: 2019-08-12 13:40:40
 published_gmt: 2019-08-12 12:40:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/08/financial-services-ceo-puts-the-pedal-to-metal-and-adgm-goes-scorching-ahead/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a00bb30414d760dd519bab49c21986633e817ab07285df4f63637ea4a2d19c5f
 canonical: 15694-financial-services-ceo-puts-the-pedal-to-metal-and-adgm-goes-scorching-ahead.json
 ---

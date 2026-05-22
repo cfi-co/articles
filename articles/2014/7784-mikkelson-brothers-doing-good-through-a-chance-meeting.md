@@ -1,12 +1,21 @@
 ---
 id: 7784
 title: "Mikkelson Brothers: Doing Good through a Chance Meeting"
-award_year: 2014
+year: 2014
 published: 2014-08-11 10:07:19
 published_gmt: 2014-08-11 09:07:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2014/08/mikkelson-brothers-doing-good-through-a-chance-meeting/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7fc35bb29c6fdf46c44ca6f2756e44e235ebbbf1d6312e7d8c27beea904a054c
 canonical: 7784-mikkelson-brothers-doing-good-through-a-chance-meeting.json
 ---

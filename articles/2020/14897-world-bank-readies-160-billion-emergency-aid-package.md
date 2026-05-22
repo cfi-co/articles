@@ -1,12 +1,21 @@
 ---
 id: 14897
 title: "World Bank Readies $160 Billion Emergency Aid Package"
-award_year: 2020
+year: 2020
 published: 2020-04-09 18:28:11
 published_gmt: 2020-04-09 17:28:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/04/world-bank-readies-160-billion-emergency-aid-package/"
 categories: ["Finance", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4fe5827d6f5f8820f988ce0f9d4d0abda0f8ff56b4b54389cb75ed1e524d6d41
 canonical: 14897-world-bank-readies-160-billion-emergency-aid-package.json
 ---

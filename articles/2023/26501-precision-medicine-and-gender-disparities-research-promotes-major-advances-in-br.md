@@ -1,12 +1,21 @@
 ---
 id: 26501
 title: "Precision Medicine and Gender Disparities: Research Promotes Major Advances in Brain Health"
-award_year: 2023
+year: 2023
 published: 2023-12-07 08:21:07
 published_gmt: 2023-12-07 08:21:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/12/precision-medicine-and-gender-disparities-research-promotes-major-advances-in-brain-health/"
 categories: ["Europe", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c09ade86b8ad549383ad86c5d8122726674a34c0baf55d4700ae4385cd8f8573
 canonical: 26501-precision-medicine-and-gender-disparities-research-promotes-major-advances-in-br.json
 ---

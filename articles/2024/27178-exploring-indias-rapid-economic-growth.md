@@ -1,12 +1,21 @@
 ---
 id: 27178
 title: "Exploring India's Rapid Economic Growth"
-award_year: 2024
+year: 2024
 published: 2024-10-04 13:33:00
 published_gmt: 2024-10-04 12:33:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2024/10/exploring-indias-rapid-economic-growth/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: af19cf9dceef758d345803c2490b4d84b569962881b96adec3dbbf52c58d9b79
 canonical: 27178-exploring-indias-rapid-economic-growth.json
 ---

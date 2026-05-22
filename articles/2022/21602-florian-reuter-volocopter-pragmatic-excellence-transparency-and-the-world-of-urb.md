@@ -1,12 +1,21 @@
 ---
 id: 21602
 title: "Florian Reuter, Volocopter: ‘Pragmatic Excellence’, Transparency, and the World of Urban Air Mobility"
-award_year: 2022
+year: 2022
 published: 2022-02-28 20:09:42
 published_gmt: 2022-02-28 20:09:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/02/florian-reuter-volocopter-pragmatic-excellence-transparency-and-the-world-of-urban-air-mobility/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b5301297f836c181b361ae1d7e80dbb7dc10a3f048be5315a3f3d2d95ae86886
 canonical: 21602-florian-reuter-volocopter-pragmatic-excellence-transparency-and-the-world-of-urb.json
 ---

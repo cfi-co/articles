@@ -1,12 +1,21 @@
 ---
 id: 27094
 title: "It’s All About Strategy — and  Eurofer Has That Under Control"
-award_year: 2024
+year: 2024
 published: 2024-09-06 10:04:09
 published_gmt: 2024-09-06 09:04:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/09/its-all-about-strategy-and-eurofer-has-that-under-control/"
 categories: ["Corporate Leaders", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d79bf96702adc4f4495768497506d7b06f0ee40c2112317fa11f8bb60f23cfcb
 canonical: 27094-its-all-about-strategy-and-eurofer-has-that-under-control.json
 ---

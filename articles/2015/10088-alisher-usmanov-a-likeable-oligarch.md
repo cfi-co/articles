@@ -1,12 +1,21 @@
 ---
 id: 10088
 title: "Alisher Usmanov: A Likeable Oligarch"
-award_year: 2015
+year: 2015
 published: 2015-06-29 12:36:03
 published_gmt: 2015-06-29 11:36:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2015/06/alisher-usmanov-a-likeable-oligarch/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d01045ffa68da4bd92031312edf4faf816c966c0378624b04d13cd93da25da14
 canonical: 10088-alisher-usmanov-a-likeable-oligarch.json
 ---

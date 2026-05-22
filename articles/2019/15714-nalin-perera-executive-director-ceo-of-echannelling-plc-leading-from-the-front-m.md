@@ -1,12 +1,21 @@
 ---
 id: 15714
 title: "Nalin Perera, Executive Director & CEO of eChannelling PLC Leading From the Front: Meet Sri Lankan Whirlwind Perera"
-award_year: 2019
+year: 2019
 published: 2019-07-12 13:50:07
 published_gmt: 2019-07-12 12:50:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/07/nalin-perera-executive-director-ceo-of-echannelling-plc-leading-from-the-front-meet-sri-lankan-whirlwind-perera/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7a0023fc1414b7232295de521dfffe584598db0ae8b8567f2300e814dab3e60e
 canonical: 15714-nalin-perera-executive-director-ceo-of-echannelling-plc-leading-from-the-front-m.json
 ---

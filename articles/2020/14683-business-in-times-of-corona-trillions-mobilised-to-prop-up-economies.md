@@ -1,12 +1,21 @@
 ---
 id: 14683
 title: "Business in Times of Corona: Trillions mobilised to Prop Up Economies"
-award_year: 2020
+year: 2020
 published: 2020-03-20 10:48:54
 published_gmt: 2020-03-20 10:48:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2020/03/business-in-times-of-corona-trillions-mobilised-to-prop-up-economies/"
 categories: ["Sustainability", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7b1249a191e98cf3fd0159af4b8aa799d027ffc129460409c0d3dee69dab4233
 canonical: 14683-business-in-times-of-corona-trillions-mobilised-to-prop-up-economies.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8524
 title: "World Bank: International Food Prices Hit Four-Year Low"
-award_year: 2014
+year: 2014
 published: 2014-12-12 10:04:41
 published_gmt: 2014-12-12 10:04:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/12/world-bank-international-food-prices-hit-four-year-low/"
 categories: ["Africa", "Asia Pacific", "Europe", "Latin America", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b7b0c882cbbe75436fb795ececdd782dc2055ac795f06a143350f62b8b184c72
 canonical: 8524-world-bank-international-food-prices-hit-four-year-low.json
 ---

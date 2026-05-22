@@ -1,12 +1,21 @@
 ---
 id: 4187
 title: "Salman Khan: Standing In for Newton"
-award_year: 2013
+year: 2013
 published: 2013-05-23 11:58:51
 published_gmt: 2013-05-23 11:58:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2013/05/salman-khan-standing-in-for-newton/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 14e09523d0bd010dbe9047d64ed90e05c5e2474145a9280e2be213b76417696f
 canonical: 4187-salman-khan-standing-in-for-newton.json
 ---

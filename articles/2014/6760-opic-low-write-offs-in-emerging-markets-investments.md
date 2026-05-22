@@ -1,12 +1,21 @@
 ---
 id: 6760
 title: "OPIC: Low Write-Offs in Emerging Markets Investments"
-award_year: 2014
+year: 2014
 published: 2014-03-05 09:00:14
 published_gmt: 2014-03-05 09:00:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/03/opic-low-write-offs-in-emerging-markets-investments/"
 categories: ["Africa", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 008696fa6b5d51a0f0423ca29b8b0d09c1238f73cd06cb4564ec6fce10d59012
 canonical: 6760-opic-low-write-offs-in-emerging-markets-investments.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 18568
 title: "Professor Robert Anthony, Anthony & Cie: A Specialist in Many Fields with a Passion for All Things Financial and Family Office"
-award_year: 2021
+year: 2021
 published: 2021-02-01 17:24:15
 published_gmt: 2021-02-01 17:24:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/cfi-co-meets/2021/02/professor-robert-anthony-anthony-cie-a-specialist-in-many-fields-with-a-passion-for-all-things-financial-and-family-office/"
 categories: ["CFI.co Meets"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 001ff8352d6b9e4e90d3ede90554238e16a0085a96c251c8af116b886da4b0a2
 canonical: 18568-professor-robert-anthony-anthony-cie-a-specialist-in-many-fields-with-a-passion-.json
 ---

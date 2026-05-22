@@ -1,12 +1,21 @@
 ---
 id: 6051
 title: "NEPAD: Towards the AU Agenda 2063 - Africa Building Momentum From a Decade of Achievement"
-award_year: 2013
+year: 2013
 published: 2013-11-18 12:44:54
 published_gmt: 2013-11-18 12:44:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/11/nepad-towards-the-au-agenda-2063-africa-building-momentum-from-a-decade-of-achievement/"
 categories: ["Africa", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7e53fd033d760ca6857d1c84424d675b2712e12c11d08e52ab793707e19c1ad9
 canonical: 6051-nepad-towards-the-au-agenda-2063-africa-building-momentum-from-a-decade-of-achie.json
 ---

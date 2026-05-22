@@ -1,12 +1,21 @@
 ---
 id: 20354
 title: "OctaFX Launching in Europe: A Global Forex Broker that Means What it Says and Sticks to its Word"
-award_year: 2021
+year: 2021
 published: 2021-08-12 11:44:47
 published_gmt: 2021-08-12 10:44:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/octafx-launching-in-europe-a-global-forex-broker-that-means-what-it-says-and-sticks-to-its-word/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9029c7a5201cd7bb78199d794ebdffcd1451a672c9541fa150715e8518141e2b
 canonical: 20354-octafx-launching-in-europe-a-global-forex-broker-that-means-what-it-says-and-sti.json
 ---

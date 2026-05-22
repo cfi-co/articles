@@ -1,12 +1,21 @@
 ---
 id: 16085
 title: "Wey Education: Wey to go! Education Group has Interests of Students at Heart"
-award_year: 2019
+year: 2019
 published: 2019-10-02 12:55:35
 published_gmt: 2019-10-02 11:55:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/10/wey-education-wey-to-go-education-group-has-interests-of-students-at-heart/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7f79e71ae5deb429f264fa263963693d394874727677876706453e83f43d51a4
 canonical: 16085-wey-education-wey-to-go-education-group-has-interests-of-students-at-heart.json
 ---

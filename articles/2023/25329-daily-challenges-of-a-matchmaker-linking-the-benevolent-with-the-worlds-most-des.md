@@ -1,12 +1,21 @@
 ---
 id: 25329
 title: "Daily Challenges of a Matchmaker: Linking the Benevolent with the World’s Most Deserving Projects"
-award_year: 2023
+year: 2023
 published: 2023-04-27 14:46:11
 published_gmt: 2023-04-27 13:46:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/04/daily-challenges-of-a-matchmaker-linking-the-benevolent-with-the-worlds-most-deserving-projects/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b7ef3c1a2c675c34e93691dd2eced9f7b2fc403673d62d3491a810c5ac66bf02
 canonical: 25329-daily-challenges-of-a-matchmaker-linking-the-benevolent-with-the-worlds-most-des.json
 ---

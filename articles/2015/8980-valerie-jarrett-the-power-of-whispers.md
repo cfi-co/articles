@@ -1,12 +1,21 @@
 ---
 id: 8980
 title: "Valerie Jarrett: The Power of Whispers"
-award_year: 2015
+year: 2015
 published: 2015-02-19 14:51:55
 published_gmt: 2015-02-19 14:51:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2015/02/valerie-jarrett-the-power-of-whispers/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6ea2bcfb1d91bb2044eaf3bbf52efac1d635eb17df438a739849d1d0d4baa5a1
 canonical: 8980-valerie-jarrett-the-power-of-whispers.json
 ---

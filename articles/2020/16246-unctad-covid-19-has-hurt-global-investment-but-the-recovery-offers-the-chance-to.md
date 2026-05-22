@@ -1,12 +1,21 @@
 ---
 id: 16246
 title: "UNCTAD: COVID-19 Has Hurt Global Investment but the Recovery Offers the Chance to Build a More Sustainable Economy"
-award_year: 2020
+year: 2020
 published: 2020-07-10 10:51:54
 published_gmt: 2020-07-10 09:51:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/07/unctad-covid-19-has-hurt-global-investment-but-the-recovery-offers-the-chance-to-build-a-more-sustainable-economy/"
 categories: ["Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a442bba56bece544488fb0688c92b0a9d1eddfb3114d1a6a51c640caae64c7a4
 canonical: 16246-unctad-covid-19-has-hurt-global-investment-but-the-recovery-offers-the-chance-to.json
 ---

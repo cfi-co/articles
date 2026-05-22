@@ -1,12 +1,21 @@
 ---
 id: 8969
 title: "Sustainable Stock Exchanges - A Conversation with Nasdaq Vice-Chairperson: Sandy Frucher"
-award_year: 2015
+year: 2015
 published: 2015-02-18 11:31:36
 published_gmt: 2015-02-18 11:31:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/02/sustainable-stock-exchanges-a-conversation-with-nasdaq-vice-chairperson-sandy-frucher/"
 categories: ["Finance", "North America", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 66d012f4e52855016795825a220c6b322cb72a3092d5366746407a73d0df7f82
 canonical: 8969-sustainable-stock-exchanges-a-conversation-with-nasdaq-vice-chairperson-sandy-fr.json
 ---

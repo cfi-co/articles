@@ -1,12 +1,21 @@
 ---
 id: 2768
 title: "Dilma Rousseff: \"You have one hour to solve this problem.\""
-award_year: 2012
+year: 2012
 published: 2012-12-17 13:00:50
 published_gmt: 2012-12-17 13:00:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2012/12/dilma-rousseff-you-have-one-hour-to-solve-this-problem/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 621b55f0beb9f352ff9dde2f1d1d7500bbaff66b6d596d8c124932ff3ed74bad
 canonical: 2768-dilma-rousseff-you-have-one-hour-to-solve-this-problem.json
 ---

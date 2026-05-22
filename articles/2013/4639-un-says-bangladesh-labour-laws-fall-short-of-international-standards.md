@@ -1,12 +1,21 @@
 ---
 id: 4639
 title: "UN Says Bangladesh Labour Laws Fall Short of International Standards"
-award_year: 2013
+year: 2013
 published: 2013-07-24 09:00:04
 published_gmt: 2013-07-24 08:00:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/07/un-says-bangladesh-labour-laws-fall-short-of-international-standards/"
 categories: ["Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7b24ef9b46df25776fa4c9e9b7355e79ecc3eff9703aaf98e9ac74dac02a21b2
 canonical: 4639-un-says-bangladesh-labour-laws-fall-short-of-international-standards.json
 ---

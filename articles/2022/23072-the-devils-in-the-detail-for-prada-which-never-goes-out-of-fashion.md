@@ -1,12 +1,21 @@
 ---
 id: 23072
 title: "The Devil’s in the Detail for Prada, Which Never Goes Out of Fashion"
-award_year: 2022
+year: 2022
 published: 2022-08-18 12:42:47
 published_gmt: 2022-08-18 11:42:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2022/08/the-devils-in-the-detail-for-prada-which-never-goes-out-of-fashion/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 79a3dda203ea591c37dae0decd978d3ecf2773c2afe70bef15584445b1e3db6f
 canonical: 23072-the-devils-in-the-detail-for-prada-which-never-goes-out-of-fashion.json
 ---

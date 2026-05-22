@@ -1,12 +1,21 @@
 ---
 id: 11066
 title: "Science-Based Emissions Targets: A New Foundation for Corporate Climate Action"
-award_year: 2016
+year: 2016
 published: 2016-03-10 13:42:56
 published_gmt: 2016-03-10 13:42:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2016/03/science-based-emissions-targets-new-foundation-corporate-climate-action/"
 categories: ["Europe", "Finance", "Governance &amp; Legal", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f817b732c5a5f4cbff47963b6601c49d6c183ada6c36bdc92cdf1f62fbad0440
 canonical: 11066-science-based-emissions-targets-new-foundation-corporate-climate-action.json
 ---

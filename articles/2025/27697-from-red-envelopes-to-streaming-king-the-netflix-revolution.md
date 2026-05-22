@@ -1,12 +1,21 @@
 ---
 id: 27697
 title: "From Red Envelopes to Streaming King: The Netflix Revolution"
-award_year: 2025
+year: 2025
 published: 2025-04-28 08:09:36
 published_gmt: 2025-04-28 07:09:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2025/04/from-red-envelopes-to-streaming-king-the-netflix-revolution/"
 categories: ["North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 84e4e5d3eb3b1d3c8e737970586446611dce4ba2ae166a262bfb8d7390df56bd
 canonical: 27697-from-red-envelopes-to-streaming-king-the-netflix-revolution.json
 ---

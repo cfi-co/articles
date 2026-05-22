@@ -1,12 +1,21 @@
 ---
 id: 28340
 title: "Asian Development Bank: The World Isn’t Flat, but Government Data Is"
-award_year: 2026
+year: 2026
 published: 2026-03-05 12:49:23
 published_gmt: 2026-03-05 12:49:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2026/03/asian-development-bank-the-world-isnt-flat-but-government-data-is/"
 categories: ["Asia Pacific", "Banking"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2a270ee8356361db44d0b604f6575b9c734f3871f0ddce5bf0bcaa89baa4c331
 canonical: 28340-asian-development-bank-the-world-isnt-flat-but-government-data-is.json
 ---

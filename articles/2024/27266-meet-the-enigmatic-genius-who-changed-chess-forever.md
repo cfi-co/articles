@@ -1,12 +1,21 @@
 ---
 id: 27266
 title: "Meet the Enigmatic Genius Who Changed Chess Forever"
-award_year: 2024
+year: 2024
 published: 2024-11-08 14:03:33
 published_gmt: 2024-11-08 14:03:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2024/11/meet-the-enigmatic-genius-who-changed-chess-forever/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7ff265cacbd3ada6dd206c14b9f0eb994da26159f572bb16469dc311a5ef7ce3
 canonical: 27266-meet-the-enigmatic-genius-who-changed-chess-forever.json
 ---

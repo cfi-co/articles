@@ -1,12 +1,21 @@
 ---
 id: 20642
 title: "Uzbekistan Celebrates 3,000-Year Heritage with Largest Science Event of its Kind"
-award_year: 2021
+year: 2021
 published: 2021-09-16 13:39:47
 published_gmt: 2021-09-16 12:39:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2021/09/uzbekistan-celebrates-3000-year-heritage-with-largest-science-event-of-its-kind/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 447c4583685b537d3d44d13cd58d92e36156fca7f2cb370d2cb4935e01069556
 canonical: 20642-uzbekistan-celebrates-3000-year-heritage-with-largest-science-event-of-its-kind.json
 ---

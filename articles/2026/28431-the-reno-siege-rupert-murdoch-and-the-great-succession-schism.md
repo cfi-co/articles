@@ -1,12 +1,21 @@
 ---
 id: 28431
 title: "The Reno Siege: Rupert Murdoch and the Great Succession Schism"
-award_year: 2026
+year: 2026
 published: 2026-05-05 14:03:42
 published_gmt: 2026-05-05 13:03:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2026/05/the-reno-siege-rupert-murdoch-and-the-great-succession-schism/"
 categories: ["Finance", "Finance &amp; People", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b24f3c31ec64d47f808894d0778fd4b086a0241ce744ec0f93c034ffecc432a4
 canonical: 28431-the-reno-siege-rupert-murdoch-and-the-great-succession-schism.json
 ---

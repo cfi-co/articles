@@ -1,12 +1,21 @@
 ---
 id: 5067
 title: "Use of Chemical Weapons in Damascus: UN Voices Deep Shock and Concern"
-award_year: 2013
+year: 2013
 published: 2013-08-22 15:08:26
 published_gmt: 2013-08-22 14:08:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/08/use-of-chemical-weapons-in-damascus-un-voices-deep-shock-and-concern/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a1dbbe78e84dba12feea02832a32241e5b58d35ebee336cb53e8973730cd8432
 canonical: 5067-use-of-chemical-weapons-in-damascus-un-voices-deep-shock-and-concern.json
 ---

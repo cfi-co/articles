@@ -1,12 +1,21 @@
 ---
 id: 27562
 title: "New Wealth Wave: How the Rich Are Getting Richer — and Younger"
-award_year: 2025
+year: 2025
 published: 2025-02-12 16:31:31
 published_gmt: 2025-02-12 16:31:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2025/02/new-wealth-wave-how-the-rich-are-getting-richer-and-younger/"
 categories: ["Finance", "Lifestyle", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bffde58f916f9e77e48f12a81581c78d37349488705054c56b3a8ea012ca1f8f
 canonical: 27562-new-wealth-wave-how-the-rich-are-getting-richer-and-younger.json
 ---

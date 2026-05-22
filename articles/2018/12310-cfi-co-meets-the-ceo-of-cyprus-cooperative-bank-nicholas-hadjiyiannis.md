@@ -1,12 +1,21 @@
 ---
 id: 12310
 title: "CFI.co Meets the CEO of Cyprus Cooperative Bank: Nicholas Hadjiyiannis"
-award_year: 2018
+year: 2018
 published: 2018-02-16 11:43:53
 published_gmt: 2018-02-16 11:43:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/02/cfi-co-meets-the-ceo-of-cyprus-cooperative-bank-nicholas-hadjiyiannis/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8de34313765ac206f2d70cc58f816dc71c6c1904169ed6e8c44f52ac9c700e39
 canonical: 12310-cfi-co-meets-the-ceo-of-cyprus-cooperative-bank-nicholas-hadjiyiannis.json
 ---

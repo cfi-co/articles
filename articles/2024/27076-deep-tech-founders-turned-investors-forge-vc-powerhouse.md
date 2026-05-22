@@ -1,12 +1,21 @@
 ---
 id: 27076
 title: "‘Deep-Tech’ Founders-Turned-Investors Forge VC Powerhouse"
-award_year: 2024
+year: 2024
 published: 2024-08-29 10:55:06
 published_gmt: 2024-08-29 09:55:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/08/deep-tech-founders-turned-investors-forge-vc-powerhouse/"
 categories: ["Europe", "Finance", "Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4004d0ac474c05ddeca44f604f8cd1ee53e73ee4474ffa4b752909a14661b80b
 canonical: 27076-deep-tech-founders-turned-investors-forge-vc-powerhouse.json
 ---

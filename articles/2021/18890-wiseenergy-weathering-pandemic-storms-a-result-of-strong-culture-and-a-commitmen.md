@@ -1,12 +1,21 @@
 ---
 id: 18890
 title: "WiseEnergy: Weathering Pandemic Storms a Result of Strong Culture and a Commitment to Clients and Mission"
-award_year: 2021
+year: 2021
 published: 2021-03-01 13:47:11
 published_gmt: 2021-03-01 13:47:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/03/wiseenergy-weathering-pandemic-storms-a-result-of-strong-culture-and-a-commitment-to-clients-and-mission/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ac1de1e1c5597aff65527dbfe17768462f8da31a887475d8796fa4e9aed37087
 canonical: 18890-wiseenergy-weathering-pandemic-storms-a-result-of-strong-culture-and-a-commitmen.json
 ---

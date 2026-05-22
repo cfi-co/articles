@@ -1,12 +1,21 @@
 ---
 id: 27357
 title: "North America's Bold New Frontier: Silicon Valley's Impact and Beyond"
-award_year: 2024
+year: 2024
 published: 2024-12-05 13:19:01
 published_gmt: 2024-12-05 13:19:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2024/12/north-americas-bold-new-frontier-silicon-valleys-impact-and-beyond/"
 categories: ["North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b597c3973754cc2c117db5e24af1bc9497c67b7adc1a106f7e0ae67d8128ba3c
 canonical: 27357-north-americas-bold-new-frontier-silicon-valleys-impact-and-beyond.json
 ---

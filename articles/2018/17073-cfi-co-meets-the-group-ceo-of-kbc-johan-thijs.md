@@ -1,12 +1,21 @@
 ---
 id: 17073
 title: "CFI.co Meets the Group CEO of KBC: Johan Thijs"
-award_year: 2018
+year: 2018
 published: 2018-03-01 13:39:03
 published_gmt: 2018-03-01 13:39:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/03/cfi-co-meets-the-group-ceo-of-kbc-johan-thijs/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 129eeeee3d1f60c467db75333f36bb759929206a5e4271eee86b5ed7b9b3f76e
 canonical: 17073-cfi-co-meets-the-group-ceo-of-kbc-johan-thijs.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 16675
 title: "European Investment Bank: A United Europe Can Emerge Stronger From the Pandemic"
-award_year: 2020
+year: 2020
 published: 2020-08-20 11:45:18
 published_gmt: 2020-08-20 10:45:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/08/european-investment-bank-a-united-europe-can-emerge-stronger-from-the-pandemic/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a10c078072559f6412af307ad17d29942a5c506d0497ee13f7b34090df973620
 canonical: 16675-european-investment-bank-a-united-europe-can-emerge-stronger-from-the-pandemic.json
 ---

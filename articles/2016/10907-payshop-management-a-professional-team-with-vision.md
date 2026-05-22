@@ -1,12 +1,21 @@
 ---
 id: 10907
 title: "PayShop Management: A Professional Team with Vision"
-award_year: 2016
+year: 2016
 published: 2016-01-21 22:27:18
 published_gmt: 2016-01-21 22:27:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/01/payshop-management-a-professional-team-with-vision/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 97359c6f7f0d39ec81f32e700b04d76d7d7915ae80ae077f0031a90691be4939
 canonical: 10907-payshop-management-a-professional-team-with-vision.json
 ---

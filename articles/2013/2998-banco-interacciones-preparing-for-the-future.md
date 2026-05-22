@@ -1,12 +1,21 @@
 ---
 id: 2998
 title: "Banco Interacciones - Preparing For the Future"
-award_year: 2013
+year: 2013
 published: 2013-01-29 11:44:22
 published_gmt: 2013-01-29 11:44:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/01/banco-interacciones-preparing-for-the-future/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5f0feef325adb7f98349163e3af8cb7a2dc4df2cabd570a474815490f7913177
 canonical: 2998-banco-interacciones-preparing-for-the-future.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21663
 title: "Making Expo 2020 Deeply Personal: How Accenture Helped Put the Visitor at the Heart of the World's Greatest Show"
-award_year: 2022
+year: 2022
 published: 2022-03-22 05:49:54
 published_gmt: 2022-03-22 05:49:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/events/2022/03/making-expo-2020-deeply-personal-how-accenture-helped-put-the-visitor-at-the-heart-of-the-worlds-greatest-show/"
 categories: ["Events", "Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1dca03b95f4bd3bc9f52ccb8dba10e883374acc7f1393ce69a31cf14ddaa7eb8
 canonical: 21663-making-expo-2020-deeply-personal-how-accenture-helped-put-the-visitor-at-the-hea.json
 ---

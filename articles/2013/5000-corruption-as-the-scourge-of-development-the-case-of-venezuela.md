@@ -1,12 +1,21 @@
 ---
 id: 5000
 title: "Corruption as the Scourge of Development: The Case of Venezuela"
-award_year: 2013
+year: 2013
 published: 2013-08-14 10:50:51
 published_gmt: 2013-08-14 09:50:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/08/corruption-as-the-scourge-of-development-the-case-of-venezuela/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 166913ea2c24c1469c55e1d1c5444be9dd03f7ec9fc8f3561c54f455b6bbe374
 canonical: 5000-corruption-as-the-scourge-of-development-the-case-of-venezuela.json
 ---

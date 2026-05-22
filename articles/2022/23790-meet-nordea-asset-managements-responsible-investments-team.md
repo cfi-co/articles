@@ -1,12 +1,21 @@
 ---
 id: 23790
 title: "Meet Nordea Asset Management’s Responsible Investments Team"
-award_year: 2022
+year: 2022
 published: 2022-11-01 09:09:37
 published_gmt: 2022-11-01 09:09:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/11/meet-nordea-asset-managements-responsible-investments-team/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d194dc752a488b8ccba384f2ccfaca3c7fe2ca4bfdad1f525d3d5d4a94931b56
 canonical: 23790-meet-nordea-asset-managements-responsible-investments-team.json
 ---

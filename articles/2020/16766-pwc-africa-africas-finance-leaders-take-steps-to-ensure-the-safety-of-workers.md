@@ -1,12 +1,21 @@
 ---
 id: 16766
 title: "PwC Africa: Africa’s Finance Leaders Take Steps to Ensure the Safety of Workers"
-award_year: 2020
+year: 2020
 published: 2020-08-27 11:19:53
 published_gmt: 2020-08-27 10:19:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2020/08/pwc-africa-africas-finance-leaders-take-steps-to-ensure-the-safety-of-workers/"
 categories: ["Africa", "Finance", "Governance &amp; Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 65f076b54e6af7788029fbadb2604efe3c327ea7a3c2dd7ada4071c260ccfb0a
 canonical: 16766-pwc-africa-africas-finance-leaders-take-steps-to-ensure-the-safety-of-workers.json
 ---

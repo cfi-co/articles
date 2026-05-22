@@ -1,12 +1,21 @@
 ---
 id: 20873
 title: "Meet the SATORP Team: Guardians of the Rolls-Royce of Refineries"
-award_year: 2021
+year: 2021
 published: 2021-10-28 11:54:10
 published_gmt: 2021-10-28 10:54:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/10/meet-the-satorp-team-guardians-of-the-rolls-royce-of-refineries/"
 categories: ["Corporate", "Energy"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 187108892263c60821922383125d4c0549225b0a8e05db0914b634725a501471
 canonical: 20873-meet-the-satorp-team-guardians-of-the-rolls-royce-of-refineries.json
 ---

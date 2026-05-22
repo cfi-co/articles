@@ -1,12 +1,21 @@
 ---
 id: 24601
 title: "La Trobe Financial: On Top Down Under"
-award_year: 2023
+year: 2023
 published: 2023-01-16 17:31:36
 published_gmt: 2023-01-16 17:31:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/01/la-trobe-financial-on-top-down-under/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8defae1a57e43a47d7404e8a22ac5bc6e98d16c47139664ee1cb44062936b144
 canonical: 24601-la-trobe-financial-on-top-down-under.json
 ---

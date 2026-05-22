@@ -1,12 +1,21 @@
 ---
 id: 26854
 title: "There’s More to Britain than London: Focus on Regions, Advises Think-Tank"
-award_year: 2024
+year: 2024
 published: 2024-06-12 14:09:40
 published_gmt: 2024-06-12 13:09:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2024/06/theres-more-to-britain-than-london-focus-on-regions-advises-think-tank/"
 categories: ["Brave New World", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 16768a2e1d868a4aaf72912420d476dd49dd90a8b44bd618f9d8b418a497f86b
 canonical: 26854-theres-more-to-britain-than-london-focus-on-regions-advises-think-tank.json
 ---

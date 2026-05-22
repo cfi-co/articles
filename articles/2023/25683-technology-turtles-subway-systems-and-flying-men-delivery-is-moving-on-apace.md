@@ -1,12 +1,21 @@
 ---
 id: 25683
 title: "Technology, Turtles, Subway  Systems and Flying Men — Delivery is Moving on Apace"
-award_year: 2023
+year: 2023
 published: 2023-06-26 13:43:58
 published_gmt: 2023-06-26 12:43:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/06/technology-turtles-subway-systems-and-flying-men-delivery-is-moving-on-apace/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1f19b0fb8349193c865fff27721faee9aad0457b87904485a1a89894a8291105
 canonical: 25683-technology-turtles-subway-systems-and-flying-men-delivery-is-moving-on-apace.json
 ---

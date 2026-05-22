@@ -1,12 +1,21 @@
 ---
 id: 10953
 title: "PwC: Oil & Gas in Africa - Planning a Response to the Price Drop"
-award_year: 2016
+year: 2016
 published: 2016-01-29 10:14:58
 published_gmt: 2016-01-29 10:14:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2016/01/pwc-oil-gas-in-africa-planning-a-response-to-the-price-drop/"
 categories: ["Africa", "Energy", "Finance", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e1a7e5764aea49c426dc0d7af647bd59ff93b1dfc40049d1242ea26f736b1027
 canonical: 10953-pwc-oil-gas-in-africa-planning-a-response-to-the-price-drop.json
 ---

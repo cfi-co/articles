@@ -1,12 +1,21 @@
 ---
 id: 21374
 title: "MTR Corporation Finance Director Herbert Hui: Cool Head and Strong Hand at the MTR Tiller"
-award_year: 2021
+year: 2021
 published: 2021-12-18 05:41:08
 published_gmt: 2021-12-18 05:41:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/12/mtr-corporation-finance-director-herbert-hui-cool-head-and-strong-hand-at-the-mtr-tiller/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e8e794442c5adce7e650d7fc68635d8402088cb6162762cf9e5d0fff43a9408d
 canonical: 21374-mtr-corporation-finance-director-herbert-hui-cool-head-and-strong-hand-at-the-mt.json
 ---

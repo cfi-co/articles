@@ -1,12 +1,21 @@
 ---
 id: 473
 title: "Gold Becomes Peru’s Main Export Item in the First Quarter of 2012"
-award_year: 2012
+year: 2012
 published: 2012-05-11 11:56:40
 published_gmt: 2012-05-11 10:56:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2012/05/gold-becomes-perus-main-export-item-in-the-first-quarter-of-2012/"
 categories: ["Finance", "Latin America", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9018f8365c931aa088816ae9d5a5c5fea7d1cb74b22dd08c478bbcc43a18d689
 canonical: 473-gold-becomes-perus-main-export-item-in-the-first-quarter-of-2012.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8271
 title: "UNCDF: Enabling Transformation - Investing in the Local Needs of Women"
-award_year: 2014
+year: 2014
 published: 2014-10-24 13:07:53
 published_gmt: 2014-10-24 12:07:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/10/uncdf-enabling-transformation-investing-in-the-local-needs-of-women/"
 categories: ["Africa", "Asia Pacific", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 294695a3dd3e63c50a12a0a20b688f01df6b6d62d6ec596cd5cde18a01ea8640
 canonical: 8271-uncdf-enabling-transformation-investing-in-the-local-needs-of-women.json
 ---

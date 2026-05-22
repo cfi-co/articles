@@ -1,12 +1,21 @@
 ---
 id: 11571
 title: "Article 50 Invoked: For All the Wrong Reasons"
-award_year: 2017
+year: 2017
 published: 2017-04-03 08:04:27
 published_gmt: 2017-04-03 07:04:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2017/04/article-50-invoked-for-all-the-wrong-reasons/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3d0e5d1a8d7e848a7e8d97624b3c1829a37b5971641aaa351798e4185a4feec8
 canonical: 11571-article-50-invoked-for-all-the-wrong-reasons.json
 ---

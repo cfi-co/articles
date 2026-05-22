@@ -1,12 +1,21 @@
 ---
 id: 18455
 title: "Europe Drifts Away as its US Bogeyman Prepares to Leave"
-award_year: 2021
+year: 2021
 published: 2021-01-18 12:29:35
 published_gmt: 2021-01-18 12:29:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/01/europe-to-strengthen-the-euro-over-dollar/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 535378935496884cb3a8517593e9470d3e73305d230b8ad24dd8b068e6472cd8
 canonical: 18455-europe-to-strengthen-the-euro-over-dollar.json
 ---

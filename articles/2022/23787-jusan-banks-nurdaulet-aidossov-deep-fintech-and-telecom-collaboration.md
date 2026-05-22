@@ -1,12 +1,21 @@
 ---
 id: 23787
 title: "Jusan Bank's Nurdaulet Aidossov: Deep Fintech and Telecom Collaboration"
-award_year: 2022
+year: 2022
 published: 2022-10-31 10:16:42
 published_gmt: 2022-10-31 10:16:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2022/10/jusan-banks-nurdaulet-aidossov-deep-fintech-and-telecom-collaboration/"
 categories: ["Asia Pacific", "Banking"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5070356f3e1d2aba88f1bbb40cc1313d8aca46868972c7f5e675d2d621e9b870
 canonical: 23787-jusan-banks-nurdaulet-aidossov-deep-fintech-and-telecom-collaboration.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 18553
 title: "Jeffrey Phlegar: A CEO with a Full Plate, an Open Mind — and a Commitment to ESG Integration"
-award_year: 2021
+year: 2021
 published: 2021-02-01 15:25:55
 published_gmt: 2021-02-01 15:25:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/cfi-co-meets/2021/02/jeffrey-phlegar-a-ceo-with-a-full-plate-an-open-mind-and-a-commitment-to-esg-integration/"
 categories: ["CFI.co Meets"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ccc5eb2992f5a6b9e9cb7a6c9302ad1be3bf0000f5e97b42c66a46defbf26a93
 canonical: 18553-jeffrey-phlegar-a-ceo-with-a-full-plate-an-open-mind-and-a-commitment-to-esg-int.json
 ---

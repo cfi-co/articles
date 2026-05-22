@@ -1,12 +1,21 @@
 ---
 id: 15745
 title: "Heidelberg University (CSI) on Financial Innovation: Unleashing Full Potential of Impact Investing"
-award_year: 2020
+year: 2020
 published: 2020-06-18 12:23:07
 published_gmt: 2020-06-18 11:23:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/06/heidelberg-university-csi-on-financial-innovation-unleashing-full-potential-of-impact-investing/"
 categories: ["Finance", "Innovation &amp; Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 47794834f82ec8402bc7bfc222cfe2a2efd7566166ce642565de4e6690eb6a3b
 canonical: 15745-heidelberg-university-csi-on-financial-innovation-unleashing-full-potential-of-i.json
 ---

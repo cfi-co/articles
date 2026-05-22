@@ -1,12 +1,21 @@
 ---
 id: 9303
 title: "Piketty’s Capital: A Problem Analysed In-Depth but not Solved"
-award_year: 2015
+year: 2015
 published: 2015-02-28 14:41:29
 published_gmt: 2015-02-28 14:41:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/reviews/2015/02/pikettys-capital-a-problem-analysed-in-depth-but-not-solved/"
 categories: ["Reviews"]
+content_class: review
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 727b4c346aa0cb8bcd5313cd610b8880fa1d881aeaee45642be400345598d054
 canonical: 9303-pikettys-capital-a-problem-analysed-in-depth-but-not-solved.json
 ---

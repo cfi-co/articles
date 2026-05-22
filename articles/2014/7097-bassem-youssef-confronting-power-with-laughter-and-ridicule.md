@@ -1,12 +1,21 @@
 ---
 id: 7097
 title: "Bassem Youssef: Confronting Power with Laughter and Ridicule"
-award_year: 2014
+year: 2014
 published: 2014-05-01 14:42:05
 published_gmt: 2014-05-01 13:42:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/05/bassem-youssef-confronting-power-with-laughter-and-ridicule/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 99f4de02caddc3cc3fbc5ca6980d0724fb2aa21271df15402f3a7d9d9844d6e3
 canonical: 7097-bassem-youssef-confronting-power-with-laughter-and-ridicule.json
 ---

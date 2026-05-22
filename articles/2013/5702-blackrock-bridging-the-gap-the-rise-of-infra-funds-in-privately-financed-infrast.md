@@ -1,12 +1,21 @@
 ---
 id: 5702
 title: "BlackRock: Bridging the Gap - The Rise of Infra Funds in Privately Financed Infrastructure"
-award_year: 2013
+year: 2013
 published: 2013-10-29 14:03:37
 published_gmt: 2013-10-29 14:03:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/10/blackrock-bridging-the-gap-the-rise-of-infra-funds-in-privately-financed-infrastructure/"
 categories: ["Europe", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8de96d23c0ffe3fdbf1f742c478b3360f173d7e0a103c56191dd4c9266bcfe27
 canonical: 5702-blackrock-bridging-the-gap-the-rise-of-infra-funds-in-privately-financed-infrast.json
 ---

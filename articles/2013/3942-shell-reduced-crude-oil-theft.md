@@ -1,12 +1,21 @@
 ---
 id: 3942
 title: "Shell: Reduced Crude Oil Theft"
-award_year: 2013
+year: 2013
 published: 2013-05-09 11:59:10
 published_gmt: 2013-05-09 11:59:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/05/shell-reduced-crude-oil-theft/"
 categories: ["Africa", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a46a879639247f57b0c38d8f745ea9d3819518b6f4f8596bf9a685dfe1adebcb
 canonical: 3942-shell-reduced-crude-oil-theft.json
 ---

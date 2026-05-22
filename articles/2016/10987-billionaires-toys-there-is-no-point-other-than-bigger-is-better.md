@@ -1,12 +1,21 @@
 ---
 id: 10987
 title: "Billionaires’ Toys: There Is No Point other than Bigger is Better"
-award_year: 2016
+year: 2016
 published: 2016-02-11 11:00:37
 published_gmt: 2016-02-11 11:00:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2016/02/billionaires-toys-there-is-no-point-other-than-bigger-is-better/"
 categories: ["Lifestyle", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3c3ad4d8b35b72a8a0ec66262ca5ee4c0aba208d89ca331d38dda33bbf7aeba5
 canonical: 10987-billionaires-toys-there-is-no-point-other-than-bigger-is-better.json
 ---

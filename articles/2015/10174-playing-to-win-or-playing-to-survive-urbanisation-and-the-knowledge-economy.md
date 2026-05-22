@@ -1,12 +1,21 @@
 ---
 id: 10174
 title: "Playing to Win or Playing to Survive? Urbanisation and the Knowledge Economy"
-award_year: 2015
+year: 2015
 published: 2015-08-07 14:33:32
 published_gmt: 2015-08-07 13:33:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/08/playing-to-win-or-playing-to-survive-urbanisation-and-the-knowledge-economy/"
 categories: ["Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6008e55d3b9bcf15b20db5ad0ec0ec2b7aaa3db077597cb9515c853829a79c42
 canonical: 10174-playing-to-win-or-playing-to-survive-urbanisation-and-the-knowledge-economy.json
 ---

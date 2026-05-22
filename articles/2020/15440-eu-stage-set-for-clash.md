@@ -1,12 +1,21 @@
 ---
 id: 15440
 title: "EU: Stage Set for Clash"
-award_year: 2020
+year: 2020
 published: 2020-05-26 08:58:38
 published_gmt: 2020-05-26 07:58:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/05/eu-stage-set-for-clash/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e4e49f9424df839c8c883314f9c42ae833841bfa132c916134166cc7369d3e61
 canonical: 15440-eu-stage-set-for-clash.json
 ---

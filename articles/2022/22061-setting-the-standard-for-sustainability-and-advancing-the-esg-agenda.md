@@ -1,12 +1,21 @@
 ---
 id: 22061
 title: "Setting the Standard for  Sustainability and  Advancing the ESG Agenda"
-award_year: 2022
+year: 2022
 published: 2022-05-19 14:44:16
 published_gmt: 2022-05-19 13:44:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/setting-the-standard-for-sustainability-and-advancing-the-esg-agenda/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ca385cd468545abd212e87c9d032d58a5b0a8210154def4c7631fb53910cb0ce
 canonical: 22061-setting-the-standard-for-sustainability-and-advancing-the-esg-agenda.json
 ---

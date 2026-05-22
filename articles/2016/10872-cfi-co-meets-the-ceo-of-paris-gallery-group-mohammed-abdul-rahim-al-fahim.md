@@ -1,12 +1,21 @@
 ---
 id: 10872
 title: "CFI.co Meets the CEO of Paris Gallery Group: Mohammed Abdul Rahim Al Fahim"
-award_year: 2016
+year: 2016
 published: 2016-01-21 16:24:04
 published_gmt: 2016-01-21 16:24:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-paris-gallery-group-mohammed-abdul-rahim-al-fahim/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0e773974544ae758f99b4f3f14f7460cf2b6fc5eeb6a2b866640f9c35cceae3b
 canonical: 10872-cfi-co-meets-the-ceo-of-paris-gallery-group-mohammed-abdul-rahim-al-fahim.json
 ---

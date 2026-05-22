@@ -1,12 +1,21 @@
 ---
 id: 19143
 title: "Hard-Hit but Striking Back: Dubai Finds Correct Balance"
-award_year: 2021
+year: 2021
 published: 2021-03-16 19:58:10
 published_gmt: 2021-03-16 19:58:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/03/dubai-real-estate-hard-hit-but-striking-back-finds-correct-balance/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 680c3cfcece6e158200cafcb427c0776cd60319ae74b529514878baee2baa716
 canonical: 19143-dubai-real-estate-hard-hit-but-striking-back-finds-correct-balance.json
 ---

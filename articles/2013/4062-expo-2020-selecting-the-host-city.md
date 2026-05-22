@@ -1,12 +1,21 @@
 ---
 id: 4062
 title: "Expo 2020: Selecting the Host City"
-award_year: 2013
+year: 2013
 published: 2013-05-20 10:40:47
 published_gmt: 2013-05-20 09:40:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/05/expo-2020-selecting-the-host-city/"
 categories: ["Asia Pacific", "Latin America", "Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6a97c391ff8dfffb6e4aaf69d164bffb26a26b3e1a0226d2c4e961bf051ccaa0
 canonical: 4062-expo-2020-selecting-the-host-city.json
 ---

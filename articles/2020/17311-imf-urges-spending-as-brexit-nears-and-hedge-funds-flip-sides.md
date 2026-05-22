@@ -1,12 +1,21 @@
 ---
 id: 17311
 title: "Brexit Nears, Hedge Funds Flip Sides, and IMF Urges Spending"
-award_year: 2020
+year: 2020
 published: 2020-10-16 16:07:18
 published_gmt: 2020-10-16 15:07:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/10/imf-urges-spending-as-brexit-nears-and-hedge-funds-flip-sides/"
 categories: ["Europe", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: af405526f85ba3efd2829ad9a3cde5317e2ca681ee963a093913d8d49f3c8cc7
 canonical: 17311-imf-urges-spending-as-brexit-nears-and-hedge-funds-flip-sides.json
 ---

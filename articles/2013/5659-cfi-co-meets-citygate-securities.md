@@ -1,12 +1,21 @@
 ---
 id: 5659
 title: "CFI.co Meets Citygate Securities"
-award_year: 2013
+year: 2013
 published: 2013-10-07 16:38:57
 published_gmt: 2013-10-07 15:38:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/10/cfi-co-meets-citygate-securities/"
 categories: ["Asia Pacific", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 85d662277061e582124d9e70997db909e7ff2fffbf0f49ed8a1bb8ab06a43761
 canonical: 5659-cfi-co-meets-citygate-securities.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26932
 title: "Norvestor: Leading the Charge in Sustainable Private Equity Transformation"
-award_year: 2024
+year: 2024
 published: 2024-07-22 13:14:18
 published_gmt: 2024-07-22 12:14:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2024/07/norvestor-leading-the-charge-in-sustainable-private-equity-transformation/"
 categories: ["Corporate", "Energy", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6545c1f77860c60a971f96198dde96a9c42747dfef0d3553bc072933346fe85b
 canonical: 26932-norvestor-leading-the-charge-in-sustainable-private-equity-transformation.json
 ---

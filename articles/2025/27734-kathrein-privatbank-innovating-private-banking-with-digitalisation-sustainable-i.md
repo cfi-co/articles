@@ -1,12 +1,21 @@
 ---
 id: 27734
 title: "Kathrein Privatbank: Innovating Private Banking with Digitalisation, Sustainable Investing, and Regional Expansion"
-award_year: 2025
+year: 2025
 published: 2025-05-16 12:32:58
 published_gmt: 2025-05-16 11:32:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2025/05/kathrein-privatbank-innovating-private-banking-with-digitalisation-sustainable-investing-and-regional-expansion/"
 categories: ["Banking", "Corporate", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eee328ba5fbba2b3ddcfc832d432435f16a20a0a55c1d007f20d2dfa289511cf
 canonical: 27734-kathrein-privatbank-innovating-private-banking-with-digitalisation-sustainable-i.json
 ---

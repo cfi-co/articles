@@ -1,12 +1,21 @@
 ---
 id: 424
 title: "Mines and Money Beijing 2012"
-award_year: 2012
+year: 2012
 published: 2012-02-28 12:55:02
 published_gmt: 2012-02-28 12:55:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2012/02/mines-and-money-beijing-2012/"
 categories: ["Asia Pacific", "Finance", "Oil &amp; Mining", "Projects", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a456ed5448e80480e7d9c46b724e2d99f1e266a90cddf0a1d36739fe76552bc2
 canonical: 424-mines-and-money-beijing-2012.json
 ---

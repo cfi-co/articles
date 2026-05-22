@@ -1,12 +1,21 @@
 ---
 id: 19554
 title: "A COVID-19 Silver Lining: Precision Medicine for Brain & Mental Health"
-award_year: 2021
+year: 2021
 published: 2021-04-22 07:13:42
 published_gmt: 2021-04-22 06:13:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2021/04/a-covid-19-silver-lining-precision-medicine-for-brain-mental-health/"
 categories: ["Brave New World", "Europe", "Technology", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 38c56637561988d930777d21f5df93ca0a2765452466f88df429d24792a6e3ba
 canonical: 19554-a-covid-19-silver-lining-precision-medicine-for-brain-mental-health.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 13095
 title: "Amina J Mohammed: Energy for Sustainable Goals"
-award_year: 2018
+year: 2018
 published: 2018-10-19 13:21:20
 published_gmt: 2018-10-19 12:21:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/wif2018/2018/10/amina-j-mohammed-energy-for-sustainable-goals/"
 categories: ["WIF2018"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 137cafed1e3b3ec5aa7083d79c136314c6235cee6f31b7eddcfdfef45e59d085
 canonical: 13095-amina-j-mohammed-energy-for-sustainable-goals.json
 ---

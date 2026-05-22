@@ -1,12 +1,21 @@
 ---
 id: 11040
 title: "SpaceX: Making a Splash in Privatised Space Exploration"
-award_year: 2016
+year: 2016
 published: 2016-02-19 14:05:12
 published_gmt: 2016-02-19 14:05:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2016/02/spacex-making-a-splash-in-privatised-space-exploration/"
 categories: ["CSR", "Finance", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a2fb4cda3b50c8b217afcc2370b0a848b09b9709dd5256a6b76d61c9036b578e
 canonical: 11040-spacex-making-a-splash-in-privatised-space-exploration.json
 ---

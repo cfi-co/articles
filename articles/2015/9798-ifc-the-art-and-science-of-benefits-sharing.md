@@ -1,12 +1,21 @@
 ---
 id: 9798
 title: "IFC: The Art and Science of Benefits Sharing"
-award_year: 2015
+year: 2015
 published: 2015-06-01 15:15:11
 published_gmt: 2015-06-01 14:15:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/06/ifc-the-art-and-science-of-benefits-sharing/"
 categories: ["Africa", "Asia Pacific", "Finance", "Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: daf12d60a0b2c3c665bc5fb8ad5b48146b6b86ab78a345719dd56dc6e34db555
 canonical: 9798-ifc-the-art-and-science-of-benefits-sharing.json
 ---

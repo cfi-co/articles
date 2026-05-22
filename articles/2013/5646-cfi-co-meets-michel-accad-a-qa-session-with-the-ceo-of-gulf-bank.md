@@ -1,12 +1,21 @@
 ---
 id: 5646
 title: "CFI.co Meets Michel Accad: A Q&A Session with the CEO of Gulf Bank"
-award_year: 2013
+year: 2013
 published: 2013-10-07 16:29:47
 published_gmt: 2013-10-07 15:29:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/10/cfi-co-meets-michel-accad-a-qa-session-with-the-ceo-of-gulf-bank/"
 categories: ["Banking", "Corporate Leaders", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 82b9c53908b0efa85ecdea8cde27796ca5c1240538d2e8602163158f221bec49
 canonical: 5646-cfi-co-meets-michel-accad-a-qa-session-with-the-ceo-of-gulf-bank.json
 ---

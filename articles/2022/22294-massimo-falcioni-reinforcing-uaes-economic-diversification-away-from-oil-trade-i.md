@@ -1,12 +1,21 @@
 ---
 id: 22294
 title: "Massimo Falcioni: Reinforcing UAE’s Economic Diversification Away from Oil Trade in a Co-operative Way"
-award_year: 2022
+year: 2022
 published: 2022-07-06 09:00:19
 published_gmt: 2022-07-06 08:00:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2022/07/massimo-falcioni-reinforcing-uaes-economic-diversification-away-from-oil-trade-in-a-co-operative-way/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5bb420abcb117234fe38a3c41f76dd48a0f109faab31e4143344412b27341aad
 canonical: 22294-massimo-falcioni-reinforcing-uaes-economic-diversification-away-from-oil-trade-i.json
 ---

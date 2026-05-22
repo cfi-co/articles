@@ -1,12 +1,21 @@
 ---
 id: 155
 title: "J.P.Morgan on Egypt: Parliamentary Elections Passed First Test"
-award_year: 2011
+year: 2011
 published: 2011-12-05 14:08:19
 published_gmt: 2011-12-05 14:08:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2011/12/j-p-morgan-on-egypt-parliamentary-elections-passed-first-test/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ed3ad0a29fa65e8e7db526bfde68c7e61d076cf8eb8484746531cdc50740adf0
 canonical: 155-j-p-morgan-on-egypt-parliamentary-elections-passed-first-test.json
 ---

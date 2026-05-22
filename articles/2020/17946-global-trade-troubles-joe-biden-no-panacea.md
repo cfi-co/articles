@@ -1,12 +1,21 @@
 ---
 id: 17946
 title: "Joe Biden No Panacea to Global Trade Troubles"
-award_year: 2020
+year: 2020
 published: 2020-11-16 15:16:44
 published_gmt: 2020-11-16 15:16:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/11/global-trade-troubles-joe-biden-no-panacea/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 91eab4b6a40f417d082d2f6b522f22350f80d9325cff12b706e3dbe706212198
 canonical: 17946-global-trade-troubles-joe-biden-no-panacea.json
 ---

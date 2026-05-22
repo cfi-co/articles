@@ -1,12 +1,21 @@
 ---
 id: 25790
 title: "A Focus on People and Productivity Has Taken this El Salvador Bank to New Heights — in Just Three Years"
-award_year: 2023
+year: 2023
 published: 2023-07-20 13:12:27
 published_gmt: 2023-07-20 12:12:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2023/07/banco-hipotecario-focus-on-people-and-productivity/"
 categories: ["Banking", "Corporate", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c6ed1f15e43fd1bcfb9642941fbf1dee32580ecbf3f0d25febcda73c09219b9b
 canonical: 25790-a-focus-on-people-and-productivity-has-taken-this-el-salvador-bank-to-new-height.json
 ---

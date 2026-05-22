@@ -1,12 +1,21 @@
 ---
 id: 10110
 title: "Rachida Dati: Brawn and Brains French Style"
-award_year: 2015
+year: 2015
 published: 2015-07-08 13:42:12
 published_gmt: 2015-07-08 12:42:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/07/rachida-dati-brawn-and-brains-french-style/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d44f81aa75c07e4b11141896607fcd69b090523f30a1f7d3a4a976db03bbe941
 canonical: 10110-rachida-dati-brawn-and-brains-french-style.json
 ---

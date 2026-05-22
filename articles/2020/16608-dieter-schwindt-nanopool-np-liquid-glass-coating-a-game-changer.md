@@ -1,12 +1,21 @@
 ---
 id: 16608
 title: "Nanopool: NP Liquid Glass Coating - A Game Changer"
-award_year: 2020
+year: 2020
 published: 2020-08-14 13:23:18
 published_gmt: 2020-08-14 12:23:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/08/dieter-schwindt-nanopool-np-liquid-glass-coating-a-game-changer/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d9a4241b2a359f39a3e13d6bb3b48ae9e29ea550e2c8d7d90abfe99be845a59c
 canonical: 16608-dieter-schwindt-nanopool-np-liquid-glass-coating-a-game-changer.json
 ---

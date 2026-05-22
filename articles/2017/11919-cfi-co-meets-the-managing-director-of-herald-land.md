@@ -1,12 +1,21 @@
 ---
 id: 11919
 title: "CFI.co Meets the Managing Director of Herald Land: Bob Clarke"
-award_year: 2017
+year: 2017
 published: 2017-10-06 10:28:16
 published_gmt: 2017-10-06 09:28:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-managing-director-of-herald-land/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 92ecd3667e1511ce5d8e5f020c0ec0063711ad6ab22d9321993a892b5fd8f17a
 canonical: 11919-cfi-co-meets-the-managing-director-of-herald-land.json
 ---

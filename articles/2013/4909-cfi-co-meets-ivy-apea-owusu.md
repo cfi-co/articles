@@ -1,12 +1,21 @@
 ---
 id: 4909
 title: "CFI.co Meets Ivy Apea Owusu"
-award_year: 2013
+year: 2013
 published: 2013-07-04 15:23:08
 published_gmt: 2013-07-04 14:23:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/07/cfi-co-meets-ivy-apea-owusu/"
 categories: ["Africa", "Corporate Leaders", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3308d545f69a6abb292226f1c27db9d9420e0d76d624c8d63b0ddac2a4d55853
 canonical: 4909-cfi-co-meets-ivy-apea-owusu.json
 ---

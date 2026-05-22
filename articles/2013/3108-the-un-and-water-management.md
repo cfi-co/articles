@@ -1,12 +1,21 @@
 ---
 id: 3108
 title: "THE UN and Water Management"
-award_year: 2013
+year: 2013
 published: 2013-02-14 02:43:22
 published_gmt: 2013-02-14 02:43:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2013/02/the-un-and-water-management/"
 categories: ["Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2904c19ee3a9a50ac829ec2f7fd0f4f250e6d7982941a998ac5393b87cb69914
 canonical: 3108-the-un-and-water-management.json
 ---

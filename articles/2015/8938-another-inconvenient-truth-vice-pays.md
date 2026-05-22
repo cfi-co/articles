@@ -1,12 +1,21 @@
 ---
 id: 8938
 title: "Another Inconvenient Truth: Vice Pays"
-award_year: 2015
+year: 2015
 published: 2015-02-12 12:36:42
 published_gmt: 2015-02-12 12:36:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/02/another-inconvenient-truth-vice-pays/"
 categories: ["Europe", "Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ab2a200f783b43205b5cfb22e433d0a94158d4c5040e891168718b9758424b60
 canonical: 8938-another-inconvenient-truth-vice-pays.json
 ---

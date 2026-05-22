@@ -1,12 +1,21 @@
 ---
 id: 7553
 title: "Urban Energy Efficiency Key to Mexico’s Ambitious Goals for Energy and Low Carbon Growth"
-award_year: 2014
+year: 2014
 published: 2014-07-04 10:54:18
 published_gmt: 2014-07-04 09:54:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2014/07/urban-energy-efficiency-key-to-mexicos-ambitious-goals-for-energy-and-low-carbon-growth/"
 categories: ["Latin America", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 93777a871d5af418bf828fdc32a58b3b84540ac6871a7637f1775ebd7916e855
 canonical: 7553-urban-energy-efficiency-key-to-mexicos-ambitious-goals-for-energy-and-low-carbon.json
 ---

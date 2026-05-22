@@ -1,12 +1,21 @@
 ---
 id: 15428
 title: "OECD: Key Takeaways From the Third OECD Conference on Private Finance to Realise the SDGs"
-award_year: 2020
+year: 2020
 published: 2020-05-22 10:37:40
 published_gmt: 2020-05-22 09:37:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/05/oecd-key-takeaways-from-the-third-oecd-conference-on-private-finance-to-realise-the-sdgs/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 385ce2f8256b65f5925cc4bd7802351b49453e0d8e8c11b84053dd208eda7329
 canonical: 15428-oecd-key-takeaways-from-the-third-oecd-conference-on-private-finance-to-realise-.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 3361
 title: "Dr Mahathir Bin Mohamad says: \"Face up to the New Economic Reality\""
-award_year: 2013
+year: 2013
 published: 2013-03-20 12:29:58
 published_gmt: 2013-03-20 12:29:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/03/dr-mahathir-bin-mohamad-says-face-up-to-the-new-economic-reality/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a69db910e0cd595e9ab139aa54bc590b605299daaab2ee0dbe8e6cc78cf995a7
 canonical: 3361-dr-mahathir-bin-mohamad-says-face-up-to-the-new-economic-reality.json
 ---

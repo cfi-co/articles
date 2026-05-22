@@ -1,12 +1,21 @@
 ---
 id: 19602
 title: "Bonds: Name of the Game for Cool (and Resilient) Operators"
-award_year: 2021
+year: 2021
 published: 2021-05-05 14:18:58
 published_gmt: 2021-05-05 13:18:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/05/bonds-name-of-the-game-for-cool-and-resilient-operators/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 115a70a8123891e2ea06760e632e16827315078531a2f04179c518a98d90e52e
 canonical: 19602-bonds-name-of-the-game-for-cool-and-resilient-operators.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 20060
 title: "BancSabadell d’Andorra: Top Performing Funds for a Sustainable and Innovative Future"
-award_year: 2021
+year: 2021
 published: 2021-06-27 18:41:45
 published_gmt: 2021-06-27 17:41:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/06/bancsabadell-dandorra-top-performing-funds-for-a-sustainable-and-innovative-future/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c05e13ffe3c8c2c4531cf8bce72f2c1e5e3615bab698cba60b503dbe5df59691
 canonical: 20060-bancsabadell-dandorra-top-performing-funds-for-a-sustainable-and-innovative-futu.json
 ---

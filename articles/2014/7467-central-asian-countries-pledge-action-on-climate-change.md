@@ -1,12 +1,21 @@
 ---
 id: 7467
 title: "Central Asian Countries Pledge Action on Climate Change"
-award_year: 2014
+year: 2014
 published: 2014-06-18 10:38:35
 published_gmt: 2014-06-18 09:38:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/06/central-asian-countries-pledge-action-on-climate-change/"
 categories: ["Asia Pacific", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 65c38bff9381748c8eaf2a9cf548b682d8f6921f7637e1945eee97a8246038f3
 canonical: 7467-central-asian-countries-pledge-action-on-climate-change.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8021
 title: "Strategy&: Meeting the Big Data Challenge"
-award_year: 2014
+year: 2014
 published: 2014-09-16 12:02:03
 published_gmt: 2014-09-16 11:02:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/09/strategy-meeting-the-big-data-challenge/"
 categories: ["Europe", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 177a70f550a65defc109e60e590907248d264979e7c803c8914487e225264563
 canonical: 8021-strategy-meeting-the-big-data-challenge.json
 ---

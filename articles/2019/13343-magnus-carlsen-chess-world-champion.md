@@ -1,12 +1,21 @@
 ---
 id: 13343
 title: "Magnus Carlsen: In Pursuit of Perfection and Committed to the Art of Chess"
-award_year: 2019
+year: 2019
 published: 2019-01-16 13:05:21
 published_gmt: 2019-01-16 13:05:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2019/01/magnus-carlsen-chess-world-champion/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c97f53ca2e567c0f969722145baef1b2d72eb28873924592fcd297a029a21cd4
 canonical: 13343-magnus-carlsen-chess-world-champion.json
 ---

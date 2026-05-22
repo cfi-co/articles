@@ -1,12 +1,21 @@
 ---
 id: 17491
 title: "ACTIVE RE: Willingness to Embrace Opportunity Brings its Own, Enduring Rewards"
-award_year: 2020
+year: 2020
 published: 2020-01-23 12:48:59
 published_gmt: 2020-01-23 12:48:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/01/active-re-willingness-to-embrace-opportunity-brings-its-own-enduring-rewards/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4ea71d2e2f4c3555d5ee0f5c4a73a12cc96532d5379b4fa6a1208ac2d47951d7
 canonical: 17491-active-re-willingness-to-embrace-opportunity-brings-its-own-enduring-rewards.json
 ---

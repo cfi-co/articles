@@ -1,12 +1,21 @@
 ---
 id: 27767
 title: "Uzbekistan Investment Forum: Economic Momentum Meets Strategic Maturity"
-award_year: 2025
+year: 2025
 published: 2025-06-11 14:11:29
 published_gmt: 2025-06-11 13:11:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2025/06/uzbekistan-investment-forum-economic-momentum-meets-strategic-maturity/"
 categories: ["Asia Pacific", "Events", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f745a565cc29d9805703b2f4e95954b1a724f4ca1ed27b93a2ff396c1751ee54
 canonical: 27767-uzbekistan-investment-forum-economic-momentum-meets-strategic-maturity.json
 ---

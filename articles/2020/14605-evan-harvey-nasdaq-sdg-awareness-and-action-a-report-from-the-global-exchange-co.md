@@ -1,12 +1,21 @@
 ---
 id: 14605
 title: "Evan Harvey, Nasdaq: SDG Awareness and Action - A Report From the Global Exchange Community"
-award_year: 2020
+year: 2020
 published: 2020-02-17 16:24:54
 published_gmt: 2020-02-17 16:24:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/02/evan-harvey-nasdaq-sdg-awareness-and-action-a-report-from-the-global-exchange-community/"
 categories: ["Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 240d2d38a639460d1fc1286aa0b3cf176e293e279dc880745d675437f347c066
 canonical: 14605-evan-harvey-nasdaq-sdg-awareness-and-action-a-report-from-the-global-exchange-co.json
 ---

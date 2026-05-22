@@ -1,12 +1,21 @@
 ---
 id: 5405
 title: "UN: Towards a Rights-based Approach to Migration"
-award_year: 2013
+year: 2013
 published: 2013-10-07 08:59:25
 published_gmt: 2013-10-07 07:59:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/10/un-towards-a-rights-based-approach-to-migration/"
 categories: ["Africa", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8bec76f55da4d8f14a224f719271738e38eb10f4d036e5a191cef969c9e0dc57
 canonical: 5405-un-towards-a-rights-based-approach-to-migration.json
 ---

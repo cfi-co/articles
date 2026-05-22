@@ -1,12 +1,21 @@
 ---
 id: 14772
 title: "Harvard Business School on Impact-Weighted Accounts: the Missing Piece in Economy Puzzle"
-award_year: 2020
+year: 2020
 published: 2020-03-31 11:18:08
 published_gmt: 2020-03-31 10:18:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/03/harvard-business-school-on-impact-weighted-accounts-the-missing-piece-in-economy-puzzle/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e4ba048416b269118ac6d0ab889001253ed0e289ddc3382b08a62c3c5b45ced9
 canonical: 14772-harvard-business-school-on-impact-weighted-accounts-the-missing-piece-in-economy.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 17212
 title: "Canada - This Is Our Time to Be Kind"
-award_year: 2020
+year: 2020
 published: 2020-10-12 17:53:23
 published_gmt: 2020-10-12 16:53:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/10/canada-this-is-our-time-to-be-kind/"
 categories: ["North America", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 137bd53064489a999d36824310b17ce5d5659cfa6afc2106b588cb15c08856fd
 canonical: 17212-canada-this-is-our-time-to-be-kind.json
 ---

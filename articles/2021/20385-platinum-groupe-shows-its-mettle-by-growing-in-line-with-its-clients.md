@@ -1,12 +1,21 @@
 ---
 id: 20385
 title: "Platinum Groupe Shows its Mettle by Growing In-line with its Clients"
-award_year: 2021
+year: 2021
 published: 2021-08-12 10:14:26
 published_gmt: 2021-08-12 09:14:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/platinum-groupe-shows-its-mettle-by-growing-in-line-with-its-clients/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c8aa4f23a59315578247d8d4c5fda748e9009593d10377b578c03ea103204c39
 canonical: 20385-platinum-groupe-shows-its-mettle-by-growing-in-line-with-its-clients.json
 ---

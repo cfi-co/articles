@@ -1,12 +1,21 @@
 ---
 id: 27933
 title: "Bridging the Gap: How AI Can Enhance Transparency, Governance and Unlock Africa’s Economic Potential Through FDI"
-award_year: 2025
+year: 2025
 published: 2025-09-12 15:17:13
 published_gmt: 2025-09-12 14:17:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2025/09/bridging-the-gap-how-ai-can-enhance-transparency-governance-and-unlock-africas-economic-potential-through-fdi/"
 categories: ["Africa", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f2f691b4c71a8e592ad0f54ee712bb6bc49a2b4e810676db8b4f1b2f6dfe3ac7
 canonical: 27933-bridging-the-gap-how-ai-can-enhance-transparency-governance-and-unlock-africas-e.json
 ---

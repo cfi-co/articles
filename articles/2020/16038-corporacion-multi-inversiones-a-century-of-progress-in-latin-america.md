@@ -1,12 +1,21 @@
 ---
 id: 16038
 title: "Corporación Multi-Inversiones: A Century of Progress & Development in Latin America"
-award_year: 2020
+year: 2020
 published: 2020-05-01 17:20:20
 published_gmt: 2020-05-01 16:20:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2020/05/corporacion-multi-inversiones-a-century-of-progress-in-latin-america/"
 categories: ["Corporate", "Corporate Leaders", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7b4d365824c7657449ab8b6888fa7eba14e254156f18b162a4dd4c6e17c9391f
 canonical: 16038-corporacion-multi-inversiones-a-century-of-progress-in-latin-america.json
 ---

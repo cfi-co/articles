@@ -1,12 +1,21 @@
 ---
 id: 17409
 title: "CEO of Reitan Convenience AS: Johannes Sangnes"
-award_year: 2020
+year: 2020
 published: 2020-01-05 11:33:29
 published_gmt: 2020-01-05 11:33:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/01/ceo-of-reitan-convenience-as-johannes-sangnes/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: af23a9f8801e402fc66526b4e4287765ab1cf45966033c41c1d66208904f2ac3
 canonical: 17409-ceo-of-reitan-convenience-as-johannes-sangnes.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 4431
 title: "Lagarde on the Prerequisites for a Strong Global Economy"
-award_year: 2013
+year: 2013
 published: 2013-06-24 09:00:07
 published_gmt: 2013-06-24 08:00:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/06/lagarde-on-the-prerequisites-for-a-strong-global-economy/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6a44bf1cff5d46a27cc7c375f0bbc026193857f40b6136e713d4be9bf216ac3f
 canonical: 4431-lagarde-on-the-prerequisites-for-a-strong-global-economy.json
 ---

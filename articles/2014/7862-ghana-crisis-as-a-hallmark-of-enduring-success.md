@@ -1,12 +1,21 @@
 ---
 id: 7862
 title: "Ghana: Crisis as a Hallmark of Enduring Success"
-award_year: 2014
+year: 2014
 published: 2014-08-26 10:34:44
 published_gmt: 2014-08-26 09:34:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/08/ghana-crisis-as-a-hallmark-of-enduring-success/"
 categories: ["Africa", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 979bb3992ba0f3e6dbab1785e973eda2262cfcad7ce20eeffe98f1c26a0e3748
 canonical: 7862-ghana-crisis-as-a-hallmark-of-enduring-success.json
 ---

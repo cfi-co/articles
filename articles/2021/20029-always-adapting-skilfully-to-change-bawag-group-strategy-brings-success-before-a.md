@@ -1,12 +1,21 @@
 ---
 id: 20029
 title: "Always Adapting Skilfully to Change: BAWAG Group Strategy Brings Success Before and During Covid Year"
-award_year: 2021
+year: 2021
 published: 2021-06-24 18:32:15
 published_gmt: 2021-06-24 17:32:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/06/always-adapting-skilfully-to-change-bawag-group-strategy-brings-success-before-and-during-covid-year/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 988051263cb88715b073277556cdee06948577bfc1dc7575f6cecb6dbc911283
 canonical: 20029-always-adapting-skilfully-to-change-bawag-group-strategy-brings-success-before-a.json
 ---

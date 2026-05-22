@@ -1,12 +1,21 @@
 ---
 id: 11743
 title: "CFI.co Meets the CEO of Aluminium Bahrain: Tim Murray"
-award_year: 2017
+year: 2017
 published: 2017-08-03 15:46:58
 published_gmt: 2017-08-03 14:46:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-of-aluminium-bahrain-tim-murray/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cb6d45a4bbc9c97772e5f75832f43136c744d6d69a697081e716bdc1e921032e
 canonical: 11743-cfi-co-meets-the-ceo-of-aluminium-bahrain-tim-murray.json
 ---

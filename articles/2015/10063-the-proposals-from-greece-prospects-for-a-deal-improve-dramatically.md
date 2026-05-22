@@ -1,12 +1,21 @@
 ---
 id: 10063
 title: "The Proposals from Greece: Prospects for a Deal Improve Dramatically"
-award_year: 2015
+year: 2015
 published: 2015-06-23 17:20:39
 published_gmt: 2015-06-23 16:20:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/06/the-proposals-from-greece-prospects-for-a-deal-improve-dramatically/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dab92ee9c90bc036c515d3161184e02812a6b8474770a683def615cfa23028bd
 canonical: 10063-the-proposals-from-greece-prospects-for-a-deal-improve-dramatically.json
 ---

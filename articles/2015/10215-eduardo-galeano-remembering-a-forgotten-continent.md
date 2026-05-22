@@ -1,12 +1,21 @@
 ---
 id: 10215
 title: "Eduardo Galeano: Remembering a Forgotten Continent"
-award_year: 2015
+year: 2015
 published: 2015-08-17 14:33:15
 published_gmt: 2015-08-17 13:33:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/obituaries/2015/08/eduardo-galeano-remembering-a-forgotten-continent/"
 categories: ["Obituaries"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d96eb23061460d4aed9fede1ec4ee88adede84d6795cbb1a24fc4a4b5f1c65b5
 canonical: 10215-eduardo-galeano-remembering-a-forgotten-continent.json
 ---

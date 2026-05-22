@@ -1,12 +1,21 @@
 ---
 id: 4186
 title: "Up to Full Capacity with London's Andrew Likierman"
-award_year: 2013
+year: 2013
 published: 2013-05-23 11:58:40
 published_gmt: 2013-05-23 11:58:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/05/up-to-full-capacity-with-londons-andrew-likierman/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8a0d812b70d658cdc860078c3fbb2ce0d5b6efbe4057f8df3dd475085fc786b8
 canonical: 4186-up-to-full-capacity-with-londons-andrew-likierman.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 9589
 title: "UN Trade Report Calls on Governments to Improve Environment for E-Commerce"
-award_year: 2015
+year: 2015
 published: 2015-03-31 12:39:19
 published_gmt: 2015-03-31 11:39:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2015/03/un-trade-report-calls-on-governments-to-improve-environment-for-e-commerce/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e963c810586c363071551de2de254b0428f2e2c6b9fa7ca1e0551e6c0a38bfa6
 canonical: 9589-un-trade-report-calls-on-governments-to-improve-environment-for-e-commerce.json
 ---

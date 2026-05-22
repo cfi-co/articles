@@ -1,12 +1,21 @@
 ---
 id: 21220
 title: "Inflation, Used Cars, Silicon Chips and Supply-Demand: Links in a Worrying Chain"
-award_year: 2021
+year: 2021
 published: 2021-11-25 10:41:49
 published_gmt: 2021-11-25 10:41:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/11/inflation-used-cars-silicon-chips-and-supply-demand-links-in-a-worrying-chain/"
 categories: ["Brave New World", "North America", "Sustainability", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a79d633677e5f71b50644d31eda3108a03570019cec996c8fa0acefd8fa09d66
 canonical: 21220-inflation-used-cars-silicon-chips-and-supply-demand-links-in-a-worrying-chain.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 19742
 title: "Anna Radulovski: ‘Mompreneur’ Shares Struggles and Wins: is This the Next Unicorn in the Making…?"
-award_year: 2021
+year: 2021
 published: 2021-05-26 11:22:45
 published_gmt: 2021-05-26 10:22:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2021/05/anna-radulovski-mompreneur-shares-struggles-and-wins-is-this-the-next-unicorn-in-the-making/"
 categories: ["Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 88cfeec68f5fca09909b67e2e57e9a5b5f2d057a8e7ff724cf18db6af8b853fa
 canonical: 19742-anna-radulovski-mompreneur-shares-struggles-and-wins-is-this-the-next-unicorn-in.json
 ---

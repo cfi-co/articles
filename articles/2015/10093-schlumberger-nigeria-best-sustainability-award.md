@@ -1,12 +1,21 @@
 ---
 id: 10093
 title: "<br>Schlumberger Nigeria: Best Sustainability Award"
-award_year: 2015
+year: 2015
 published: 2015-06-30 16:53:28
 published_gmt: 2015-06-30 15:53:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a6c6916905acd5d1a770e888d74ee11677025062ceae79d8dc7d7abe5af8219d
 canonical: 10093-schlumberger-nigeria-best-sustainability-award.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27898
 title: "Lord Waverley: Africa Enters an Age of Optimism"
-award_year: 2025
+year: 2025
 published: 2025-09-07 16:47:19
 published_gmt: 2025-09-07 15:47:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2025/09/africa-enters-an-age-of-optimism/"
 categories: ["Africa", "Europe", "Projects", "Special Features"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7660ef0a1658772b85b57fa26173bdb9fc7984148f46619043100715df445c74
 canonical: 27898-africa-enters-an-age-of-optimism.json
 ---

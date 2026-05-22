@@ -1,12 +1,21 @@
 ---
 id: 5006
 title: "Our Hero Justina Mutale: Postive Runway"
-award_year: 2013
+year: 2013
 published: 2013-08-14 09:00:13
 published_gmt: 2013-08-14 08:00:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/08/our-hero-justina-mutale-postive-runway/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1ed9c88c61f492c5f8cee26d8ddbac23eebae16e1f97d8206455d4ee39369553
 canonical: 5006-our-hero-justina-mutale-postive-runway.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 9699
 title: "Evan Harvey, Nasdaq: Stock Exchanges, European  Capital Markets, and Sustainability"
-award_year: 2015
+year: 2015
 published: 2015-04-29 12:22:04
 published_gmt: 2015-04-29 11:22:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/04/evan-harvey-nasdaq-stock-exchanges-european-capital-markets-and-sustainability/"
 categories: ["Europe", "Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c416d407dce5b1c66b35619ffa99398a37ebe7fabca7ee08181e854b280def4a
 canonical: 9699-evan-harvey-nasdaq-stock-exchanges-european-capital-markets-and-sustainability.json
 ---

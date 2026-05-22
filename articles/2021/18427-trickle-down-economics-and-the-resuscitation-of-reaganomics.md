@@ -1,12 +1,21 @@
 ---
 id: 18427
 title: "The Sudden Fall and Coming Resuscitation of Reaganomics"
-award_year: 2021
+year: 2021
 published: 2021-01-12 10:02:31
 published_gmt: 2021-01-12 10:02:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/01/trickle-down-economics-and-the-resuscitation-of-reaganomics/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 67b39f0b0ef9c58c53011e3029730272de4169e43abe50fd9d485af686e4cf27
 canonical: 18427-trickle-down-economics-and-the-resuscitation-of-reaganomics.json
 ---

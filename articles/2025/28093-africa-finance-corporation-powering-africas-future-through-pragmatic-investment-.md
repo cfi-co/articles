@@ -1,12 +1,21 @@
 ---
 id: 28093
 title: "Africa Finance Corporation: Powering Africa’s Future Through Pragmatic Investment and Infrastructure"
-award_year: 2025
+year: 2025
 published: 2025-11-12 09:27:09
 published_gmt: 2025-11-12 09:27:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2025/11/africa-finance-corporation-powering-africas-future-through-pragmatic-investment-and-infrastructure/"
 categories: ["Africa", "Corporate", "Finance", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d5a095d4077c6a105c4063fb82aa9ec797eacaba1ac46f47d497ac6730441146
 canonical: 28093-africa-finance-corporation-powering-africas-future-through-pragmatic-investment-.json
 ---

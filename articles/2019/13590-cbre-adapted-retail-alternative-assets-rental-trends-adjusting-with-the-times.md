@@ -1,12 +1,21 @@
 ---
 id: 13590
 title: "CBRE - Adapted Retail & Alternative Assets: Rental Trends  Adjusting With the Times"
-award_year: 2019
+year: 2019
 published: 2019-05-21 16:53:14
 published_gmt: 2019-05-21 15:53:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2019/05/cbre-adapted-retail-alternative-assets-rental-trends-adjusting-with-the-times/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: daa898ae8e8a25a126c686934c874184cca89ef80db5a44c57ae8d0a68943b16
 canonical: 13590-cbre-adapted-retail-alternative-assets-rental-trends-adjusting-with-the-times.json
 ---

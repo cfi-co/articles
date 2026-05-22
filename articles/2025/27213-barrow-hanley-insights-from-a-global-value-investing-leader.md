@@ -1,12 +1,21 @@
 ---
 id: 27213
 title: "Barrow Hanley: Insights from a Global Value Investing Leader"
-award_year: 2025
+year: 2025
 published: 2025-11-24 08:00:45
 published_gmt: 2025-11-24 08:00:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/11/barrow-hanley-insights-from-a-global-value-investing-leader/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 407fd4b82be90a2b6c2adc68aa6cfb84df82ef7b34d71de24aa09045f6a57775
 canonical: 27213-barrow-hanley-insights-from-a-global-value-investing-leader.json
 ---

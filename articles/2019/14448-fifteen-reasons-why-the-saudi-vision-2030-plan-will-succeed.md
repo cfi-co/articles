@@ -1,12 +1,21 @@
 ---
 id: 14448
 title: "Fifteen Reasons Why the Saudi Vision 2030 Plan Will Succeed"
-award_year: 2019
+year: 2019
 published: 2019-12-18 17:47:22
 published_gmt: 2019-12-18 17:47:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2019/12/fifteen-reasons-why-the-saudi-vision-2030-plan-will-succeed/"
 categories: ["Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 62699a0fa74b8af7bcaaaa0b3238fdd7e24fc66520ec039f6e216cf878616779
 canonical: 14448-fifteen-reasons-why-the-saudi-vision-2030-plan-will-succeed.json
 ---

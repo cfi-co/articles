@@ -1,12 +1,21 @@
 ---
 id: 4724
 title: "Bentley Motors Middle East: World's Biggest Workshop in Dubai"
-award_year: 2013
+year: 2013
 published: 2013-07-31 15:20:57
 published_gmt: 2013-07-31 14:20:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2013/07/worlds-biggest-workshop-in-dubai/"
 categories: ["Lifestyle", "Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bcfb72cdca4ab9877c542b6a72a230bf7b390b66563b5f3b0b246df469da602d
 canonical: 4724-worlds-biggest-workshop-in-dubai.json
 ---

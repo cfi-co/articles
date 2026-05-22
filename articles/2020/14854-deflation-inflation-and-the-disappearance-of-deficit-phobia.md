@@ -1,12 +1,21 @@
 ---
 id: 14854
 title: "Deflation, Inflation, and the Disappearance of Deficit Phobia"
-award_year: 2020
+year: 2020
 published: 2020-04-07 14:51:50
 published_gmt: 2020-04-07 13:51:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/04/deflation-inflation-and-the-disappearance-of-deficit-phobia/"
 categories: ["Finance", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e144f005ff7829578e16c6e5190b16df6db113c7023617f81277cdfc3be63bd2
 canonical: 14854-deflation-inflation-and-the-disappearance-of-deficit-phobia.json
 ---

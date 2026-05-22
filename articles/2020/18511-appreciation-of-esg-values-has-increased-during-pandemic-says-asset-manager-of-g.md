@@ -1,12 +1,21 @@
 ---
 id: 18511
 title: "Appreciation of ESG Values Has Increased During Pandemic, says Asset Manager of Goldman Sachs Sheila Patel"
-award_year: 2020
+year: 2020
 published: 2020-12-13 07:21:24
 published_gmt: 2020-12-13 07:21:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/12/appreciation-of-esg-values-has-increased-during-pandemic-says-asset-manager-of-goldman-sachs-sheila-patel/"
 categories: ["CFI.co Meets", "Corporate Leaders", "North America"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d967b4a76640ae8d69c2b9dd2fbdc0f864791e7740563e004e238fd7b2d21a7c
 canonical: 18511-appreciation-of-esg-values-has-increased-during-pandemic-says-asset-manager-of-g.json
 ---

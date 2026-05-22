@@ -1,12 +1,21 @@
 ---
 id: 26848
 title: "João Pedro Oliveira e Costa: Banco BPI’s Compassionate Touch"
-award_year: 2024
+year: 2024
 published: 2024-06-07 12:23:10
 published_gmt: 2024-06-07 11:23:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/06/joao-pedro-oliveira-e-costa-banco-bpis-compassionate-touch/"
 categories: ["Banking", "Banking &amp; Finance", "Corporate", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2a89f1063b58c4f3dfcb6ffc0ad0345afaf0f5a8f0aaccfbb8dc8ba46b7b4b90
 canonical: 26848-joao-pedro-oliveira-e-costa-banco-bpis-compassionate-touch.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8170
 title: "James Zhan, UNCTAD: Investing in Sustainable Development Goals"
-award_year: 2014
+year: 2014
 published: 2014-10-09 14:01:00
 published_gmt: 2014-10-09 13:01:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/10/james-zhan-unctad-investing-in-sustainable-development-goals/"
 categories: ["Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 724fcae6efe45568606d27e3d58b635b98c88080aec929c0850aae6d48c1dedd
 canonical: 8170-james-zhan-unctad-investing-in-sustainable-development-goals.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21018
 title: "SHARE NOW - Sharing is Caring, Cool, and Convenient: a  Pioneer of Sustainable Urban Mobility"
-award_year: 2021
+year: 2021
 published: 2021-11-09 15:49:22
 published_gmt: 2021-11-09 15:49:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/share-now-sharing-is-caring-cool-and-convenient-a-pioneer-of-sustainable-urban-mobility/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3379009a67b2db364fa96307ed292999dbaba41307c714cf4d1db539d91bac78
 canonical: 21018-share-now-sharing-is-caring-cool-and-convenient-a-pioneer-of-sustainable-urban-m.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 9654
 title: "Countries and Oil Companies Agree to End Routine Gas Flaring"
-award_year: 2015
+year: 2015
 published: 2015-04-17 15:29:44
 published_gmt: 2015-04-17 14:29:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2015/04/countries-and-oil-companies-agree-to-end-routine-gas-flaring/"
 categories: ["Latin America", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 924bd0252f141b436a84d424059d27b5abd83e022b9fd47447d010f14b314844
 canonical: 9654-countries-and-oil-companies-agree-to-end-routine-gas-flaring.json
 ---

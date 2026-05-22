@@ -1,12 +1,21 @@
 ---
 id: 27209
 title: "Canada’s Spirit of Innovation: A Tradition of Entrepreneurship"
-award_year: 2024
+year: 2024
 published: 2024-10-18 12:50:21
 published_gmt: 2024-10-18 11:50:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2024/10/canadas-spirit-of-innovation-a-tradition-of-entrepreneurship/"
 categories: ["North America", "Start-Ups"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e1ca6635a53267dff239e91317ca6fbb15131041613cdddc9446cf4c2a8c74bd
 canonical: 27209-canadas-spirit-of-innovation-a-tradition-of-entrepreneurship.json
 ---

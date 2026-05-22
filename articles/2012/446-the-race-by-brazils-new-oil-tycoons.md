@@ -1,12 +1,21 @@
 ---
 id: 446
 title: "The Race by Brazil’s New Oil Tycoons"
-award_year: 2012
+year: 2012
 published: 2012-03-07 14:47:54
 published_gmt: 2012-03-07 14:47:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/03/the-race-by-brazils-new-oil-tycoons/"
 categories: ["Africa", "Latin America", "Oil &amp; Mining", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 43f7f21b155343551d02e71f699093306358f467cf74ede0b43bcb31eb07756a
 canonical: 446-the-race-by-brazils-new-oil-tycoons.json
 ---

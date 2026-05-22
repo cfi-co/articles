@@ -1,12 +1,21 @@
 ---
 id: 22054
 title: "Gavin Christensen: Shared Values at Kickstart Management"
-award_year: 2022
+year: 2022
 published: 2022-05-19 14:36:42
 published_gmt: 2022-05-19 13:36:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/start-ups/2022/05/gavin-christensen-shared-values-at-kickstart-management/"
 categories: ["Corporate", "Start-Ups"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 85ed62416b93bff508e9b259d410cd593069b9f4480f2b5876079b792ac2417c
 canonical: 22054-gavin-christensen-shared-values-at-kickstart-management.json
 ---

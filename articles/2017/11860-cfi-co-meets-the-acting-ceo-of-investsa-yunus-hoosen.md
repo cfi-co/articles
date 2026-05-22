@@ -1,12 +1,21 @@
 ---
 id: 11860
 title: "CFI.co Meets the Acting CEO of InvestSA: Yunus Hoosen"
-award_year: 2017
+year: 2017
 published: 2017-09-05 11:53:56
 published_gmt: 2017-09-05 10:53:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-acting-ceo-of-investsa-yunus-hoosen/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 62da0593a598a320b34fd3bcb22e0a8f296835745918735e9931ea1ee6d16c3b
 canonical: 11860-cfi-co-meets-the-acting-ceo-of-investsa-yunus-hoosen.json
 ---

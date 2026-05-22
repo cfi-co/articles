@@ -1,12 +1,21 @@
 ---
 id: 6954
 title: "Michael Joseph: Banking for the Masses Fuels Mobile Networks"
-award_year: 2014
+year: 2014
 published: 2014-04-10 10:25:39
 published_gmt: 2014-04-10 09:25:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/04/michael-joseph-banking-for-the-masses-fuels-mobile-networks/"
 categories: ["Africa", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 85cfff5d2aa3b01021dd7d662afe734761f26537205df163ca2763d8609756b9
 canonical: 6954-michael-joseph-banking-for-the-masses-fuels-mobile-networks.json
 ---

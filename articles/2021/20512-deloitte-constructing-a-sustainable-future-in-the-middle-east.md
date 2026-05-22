@@ -1,12 +1,21 @@
 ---
 id: 20512
 title: "Deloitte: Constructing a Sustainable Future in the Middle East"
-award_year: 2021
+year: 2021
 published: 2021-08-26 11:50:11
 published_gmt: 2021-08-26 10:50:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2021/08/deloitte-constructing-a-sustainable-future-in-the-middle-east/"
 categories: ["Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 85d952cd3dc815d0b7b9b8f15d716721359be24509b66075db762d2d0c25ba9f
 canonical: 20512-deloitte-constructing-a-sustainable-future-in-the-middle-east.json
 ---

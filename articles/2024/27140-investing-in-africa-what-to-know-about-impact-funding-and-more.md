@@ -1,12 +1,21 @@
 ---
 id: 27140
 title: "Investing in Africa: What to Know About Impact Funding… and More"
-award_year: 2024
+year: 2024
 published: 2024-09-18 11:41:46
 published_gmt: 2024-09-18 10:41:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2024/09/investing-in-africa-what-to-know-about-impact-funding-and-more/"
 categories: ["Africa", "Banking", "Corporate", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 67379be6c2a441dfe63d28e2443718a0e2e622c5cc63bba6e897b0f7c72c46d4
 canonical: 27140-investing-in-africa-what-to-know-about-impact-funding-and-more.json
 ---

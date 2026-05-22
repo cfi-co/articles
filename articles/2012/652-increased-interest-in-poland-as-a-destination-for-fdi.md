@@ -1,12 +1,21 @@
 ---
 id: 652
 title: "Increased Interest in Poland as a Destination for FDI"
-award_year: 2012
+year: 2012
 published: 2012-05-24 17:04:03
 published_gmt: 2012-05-24 16:04:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2012/05/increased-interest-in-poland-as-a-destination-for-fdi/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0d4ab624299c0ab966c6889b3813998b7d511e7f4dc1ebde299bc23952e10e5e
 canonical: 652-increased-interest-in-poland-as-a-destination-for-fdi.json
 ---

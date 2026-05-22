@@ -1,12 +1,21 @@
 ---
 id: 15262
 title: "Schalke 04 Fighting for Its Life and Soul"
-award_year: 2020
+year: 2020
 published: 2020-05-05 15:08:04
 published_gmt: 2020-05-05 14:08:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/05/schalke-04-fighting-for-its-life-and-soul/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0e0a020308e21a9755f3503f6939829281d9d26b2e9b3595b44674040e17c453
 canonical: 15262-schalke-04-fighting-for-its-life-and-soul.json
 ---

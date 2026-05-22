@@ -1,12 +1,21 @@
 ---
 id: 22048
 title: "QNB ALAHLI: Covering All of a Country’s Financial Needs — but Never Losing that Personal Touch"
-award_year: 2022
+year: 2022
 published: 2022-05-19 14:14:44
 published_gmt: 2022-05-19 13:14:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2022/05/qnb-alahli-covering-all-of-a-countrys-financial-needs-but-never-losing-that-personal-touch/"
 categories: ["Banking", "Corporate", "Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 81e5ab570143d191e6a52c5c1b0433182da7695b55a000e5ef6fdd2596d57c87
 canonical: 22048-qnb-alahli-covering-all-of-a-countrys-financial-needs-but-never-losing-that-pers.json
 ---

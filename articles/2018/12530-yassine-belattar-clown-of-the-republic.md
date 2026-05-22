@@ -1,12 +1,21 @@
 ---
 id: 12530
 title: "Yassine Belattar: Clown of the Republic"
-award_year: 2018
+year: 2018
 published: 2018-05-12 12:57:26
 published_gmt: 2018-05-12 11:57:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/05/yassine-belattar-clown-of-the-republic/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 21ea753d5983f5d43037c017ed435b507e285dd237ed432b3945a0e698a60d81
 canonical: 12530-yassine-belattar-clown-of-the-republic.json
 ---

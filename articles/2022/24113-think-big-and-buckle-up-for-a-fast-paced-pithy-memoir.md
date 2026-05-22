@@ -1,12 +1,21 @@
 ---
 id: 24113
 title: "Think Big and Buckle-Up for a Fast-Paced, Pithy Memoir"
-award_year: 2022
+year: 2022
 published: 2022-12-01 06:45:18
 published_gmt: 2022-12-01 06:45:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/reviews/2022/12/think-big-and-buckle-up-for-a-fast-paced-pithy-memoir/"
 categories: ["Lifestyle", "North America", "Reviews"]
+content_class: review
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d0e8a1bfd48e8cdffbd35143160ddfe9d7a08cd4d9ae7491987a3ea9730cddf0
 canonical: 24113-think-big-and-buckle-up-for-a-fast-paced-pithy-memoir.json
 ---

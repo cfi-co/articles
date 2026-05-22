@@ -1,12 +1,21 @@
 ---
 id: 205
 title: "Forum to Promote Trade and Investment Relations Latam-India"
-award_year: 2012
+year: 2012
 published: 2012-03-06 14:29:00
 published_gmt: 2012-03-06 14:29:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2012/03/forum-to-promote-trade-and-investment-relations-latam-india/"
 categories: ["Asia Pacific", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 283f34c7b97f071c2ede6880f02067f5bfa21e59a8db575c8572ef57d0a03be1
 canonical: 205-forum-to-promote-trade-and-investment-relations-latam-india.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 22491
 title: "OECD: Only Scale and Development Impact Will Help Us Reach the SDG Mountain Summit"
-award_year: 2022
+year: 2022
 published: 2022-07-28 08:42:05
 published_gmt: 2022-07-28 07:42:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2022/07/oecd-only-scale-and-development-impact-will-help-us-reach-the-sdg-mountain-summit/"
 categories: ["Europe", "Multilaterals", "Special Features", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aee3f567a4cd61cb46dcf27a52c3f055f142f00a091cd0668a4a28dec9eaa042
 canonical: 22491-oecd-only-scale-and-development-impact-will-help-us-reach-the-sdg-mountain-summi.json
 ---

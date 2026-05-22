@@ -1,12 +1,21 @@
 ---
 id: 12080
 title: "Serena Williams: Writing Her Own Script for Success"
-award_year: 2018
+year: 2018
 published: 2018-02-12 12:57:35
 published_gmt: 2018-02-12 12:57:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/02/serena-williams-writing-her-own-script-for-success/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3bb8e7c9e34e9b0f252dca8805f9e6f6d1365bb536e8e68f57f841febcea160b
 canonical: 12080-serena-williams-writing-her-own-script-for-success.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 16227
 title: "Rishi Sunak: The Safest Pair of Hands for Mission Impossible"
-award_year: 2020
+year: 2020
 published: 2020-07-08 12:54:34
 published_gmt: 2020-07-08 11:54:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/07/rishi-sunak-the-safest-pair-of-hands-for-mission-impossible/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3d8cf350e60b433f40ed9753ed8c6e91b86638f20a401ba575c3df6eef2a1281
 canonical: 16227-rishi-sunak-the-safest-pair-of-hands-for-mission-impossible.json
 ---

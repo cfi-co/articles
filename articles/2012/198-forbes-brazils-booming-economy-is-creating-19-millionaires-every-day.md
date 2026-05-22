@@ -1,12 +1,21 @@
 ---
 id: 198
 title: "Forbes: Brazil's Booming Economy Is Creating 19 'Millionaires' Every Day"
-award_year: 2012
+year: 2012
 published: 2012-03-06 14:25:10
 published_gmt: 2012-03-06 14:25:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2012/03/forbes-brazils-booming-economy-is-creating-19-millionaires-every-day/"
 categories: ["Latin America", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 94036ddaa2ba3d29f60c3799e2996a43e5ae4b60fc3a01eeb7fae7b40f2f3705
 canonical: 198-forbes-brazils-booming-economy-is-creating-19-millionaires-every-day.json
 ---

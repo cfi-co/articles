@@ -1,12 +1,21 @@
 ---
 id: 6879
 title: "World Bank: Helping Electrification Efforts in DRC"
-award_year: 2014
+year: 2014
 published: 2014-03-28 12:28:10
 published_gmt: 2014-03-28 12:28:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/03/world-bank-helping-electrification-efforts-in-drc/"
 categories: ["Africa", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7194d57af94ac4dc41970ee866227a8d92b92a08f3a1cadab1dbfb46627f7fcd
 canonical: 6879-world-bank-helping-electrification-efforts-in-drc.json
 ---

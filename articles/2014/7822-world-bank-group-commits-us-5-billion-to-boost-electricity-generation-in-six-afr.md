@@ -1,12 +1,21 @@
 ---
 id: 7822
 title: "World Bank Group Commits US$ 5 Billion to Boost Electricity Generation in Six African Countries"
-award_year: 2014
+year: 2014
 published: 2014-08-19 11:21:56
 published_gmt: 2014-08-19 10:21:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/08/world-bank-group-commits-us-5-billion-to-boost-electricity-generation-in-six-african-countries/"
 categories: ["Africa", "North America", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 28b34e3c1bef84cf79925c2be2e10e3cd24983950d04fd8bcaae034abed319e4
 canonical: 7822-world-bank-group-commits-us-5-billion-to-boost-electricity-generation-in-six-afr.json
 ---

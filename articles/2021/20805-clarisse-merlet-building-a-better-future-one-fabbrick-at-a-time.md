@@ -1,12 +1,21 @@
 ---
 id: 20805
 title: "Clarisse Merlet: Building a Better Future, One FabBRICK at a Time"
-award_year: 2021
+year: 2021
 published: 2021-10-18 15:42:18
 published_gmt: 2021-10-18 14:42:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2021/10/clarisse-merlet-building-a-better-future-one-fabbrick-at-a-time/"
 categories: ["Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c63f14ac8de15be98fe51c880ff6cce92a7fa7b9c27f82fc5de0336aec39f8b7
 canonical: 20805-clarisse-merlet-building-a-better-future-one-fabbrick-at-a-time.json
 ---

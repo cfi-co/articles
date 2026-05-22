@@ -1,12 +1,21 @@
 ---
 id: 25969
 title: "An Acronym with History and an Eye on the Future: LBBW’s ‘Niche’ is Global, and Growing"
-award_year: 2023
+year: 2023
 published: 2023-09-01 16:41:35
 published_gmt: 2023-09-01 15:41:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2023/09/an-acronym-with-history-and-an-eye-on-the-future-lbbws-niche-is-global-and-growing/"
 categories: ["Banking", "Banking &amp; Finance", "Corporate", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9f48a0b255e144ed6b5f9638dc6f7153b004318800bbba2c14f400dc751b2f6e
 canonical: 25969-an-acronym-with-history-and-an-eye-on-the-future-lbbws-niche-is-global-and-growi.json
 ---

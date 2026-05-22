@@ -1,12 +1,21 @@
 ---
 id: 27117
 title: "N Justin Chinyanta: A Pan-African Plan Hatched Back in 1992, with a Dream"
-award_year: 2024
+year: 2024
 published: 2024-09-12 13:05:18
 published_gmt: 2024-09-12 12:05:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2024/09/n-justin-chinyanta-a-pan-african-plan-hatched-back-in-1992-with-a-dream/"
 categories: ["Africa", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e3851eeeb85cf571b349545d6cff82e5aee07fbbd9ab7cb0317f36c0073ea8cf
 canonical: 27117-n-justin-chinyanta-a-pan-african-plan-hatched-back-in-1992-with-a-dream.json
 ---

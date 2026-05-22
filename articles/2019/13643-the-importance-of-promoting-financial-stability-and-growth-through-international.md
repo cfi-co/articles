@@ -1,12 +1,21 @@
 ---
 id: 13643
 title: "The Importance of Promoting Financial Stability and Growth through International Regulatory Coherence"
-award_year: 2019
+year: 2019
 published: 2019-06-19 10:05:27
 published_gmt: 2019-06-19 09:05:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2019/06/the-importance-of-promoting-financial-stability-and-growth-through-international-regulatory-coherence/"
 categories: ["Banking &amp; Finance", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d72527c7c8917230c24a7fac06703fbbce8bf48ceae61dcb9dc3fdac0efe4e6a
 canonical: 13643-the-importance-of-promoting-financial-stability-and-growth-through-international.json
 ---

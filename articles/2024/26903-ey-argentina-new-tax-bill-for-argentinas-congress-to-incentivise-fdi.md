@@ -1,12 +1,21 @@
 ---
 id: 26903
 title: "EY Argentina: New Tax Bill for Argentina’s Congress to ‘Incentivise FDI’"
-award_year: 2024
+year: 2024
 published: 2024-07-08 13:47:04
 published_gmt: 2024-07-08 12:47:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2024/07/ey-argentina-new-tax-bill-for-argentinas-congress-to-incentivise-fdi/"
 categories: ["Latin America", "Markets"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 41e04bfc2ae686192163e9203d94c9a121d2fc9bc73e0f7b20ca41d6bf4f1719
 canonical: 26903-ey-argentina-new-tax-bill-for-argentinas-congress-to-incentivise-fdi.json
 ---

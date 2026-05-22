@@ -1,12 +1,21 @@
 ---
 id: 18354
 title: "Geoffrey Okamoto, First Deputy Managing Director of the IMF: Knightmare Uncertainty"
-award_year: 2020
+year: 2020
 published: 2020-12-21 11:51:23
 published_gmt: 2020-12-21 11:51:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/12/geoffrey-okamoto-first-deputy-managing-director-of-the-imf-knightmare-uncertainty/"
 categories: ["Finance", "Multilaterals", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fc681ddb9f24a2ef64a2f185e75dadf558bae24b77cf0f3d27190a09c179fe14
 canonical: 18354-geoffrey-okamoto-first-deputy-managing-director-of-the-imf-knightmare-uncertaint.json
 ---

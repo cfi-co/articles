@@ -1,12 +1,21 @@
 ---
 id: 14978
 title: "Tinkering with a Spanish Proposal"
-award_year: 2020
+year: 2020
 published: 2020-04-22 15:35:00
 published_gmt: 2020-04-22 14:35:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/tinkering-with-a-spanish-proposal/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d085d2061e1674440de365006ce3022b32d917a11b568236076edb572ac4a1cf
 canonical: 14978-tinkering-with-a-spanish-proposal.json
 ---

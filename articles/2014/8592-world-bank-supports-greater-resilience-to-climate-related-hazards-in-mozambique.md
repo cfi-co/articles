@@ -1,12 +1,21 @@
 ---
 id: 8592
 title: "World Bank Supports Greater Resilience to Climate Related Hazards in Mozambique"
-award_year: 2014
+year: 2014
 published: 2014-12-24 10:33:32
 published_gmt: 2014-12-24 10:33:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/12/world-bank-supports-greater-resilience-to-climate-related-hazards-in-mozambique/"
 categories: ["Africa", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 864198f6e739a3f31ac551393ffd47415bdec72a4105545e9f89f29b5cd66998
 canonical: 8592-world-bank-supports-greater-resilience-to-climate-related-hazards-in-mozambique.json
 ---

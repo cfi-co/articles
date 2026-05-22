@@ -1,12 +1,21 @@
 ---
 id: 20524
 title: "Matchmaking Private Finance and Green Infrastructure"
-award_year: 2021
+year: 2021
 published: 2021-08-27 15:50:09
 published_gmt: 2021-08-27 14:50:09
 author: "CFI.co Editorial"
 url: "https://blog.cfi.co/finance/2021/08/matchmaking-private-finance-and-green-infrastructure/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a193206942fa58a04b482bb54315e3a10a140d4e382f54aa86b048576afbac9d
 canonical: 20524-matchmaking-private-finance-and-green-infrastructure.json
 ---

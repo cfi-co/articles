@@ -1,12 +1,21 @@
 ---
 id: 17445
 title: "Rokel Commercial Bank: This ‘Gateway’ Bank Named After a River Knows How to Flow and Grow"
-award_year: 2020
+year: 2020
 published: 2020-01-05 12:13:13
 published_gmt: 2020-01-05 12:13:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/01/rokel-commercial-bank-this-gateway-bank-named-after-a-river-knows-how-to-flow-and-grow/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 085854c6cbc2696c542b8e0b114e60144af4855e21037729edbe1bafe1d5571c
 canonical: 17445-rokel-commercial-bank-this-gateway-bank-named-after-a-river-knows-how-to-flow-an.json
 ---

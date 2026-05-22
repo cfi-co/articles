@@ -1,12 +1,21 @@
 ---
 id: 12198
 title: "World Bank: Infrastructure Financing Options - Bankable Projects for Private Investors"
-award_year: 2017
+year: 2017
 published: 2017-11-29 13:17:46
 published_gmt: 2017-11-29 13:17:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2017/11/world-bank-infrastructure-financing-options-bankable-projects-for-private-investors/"
 categories: ["Finance", "Multilaterals", "North America", "Oil &amp; Mining", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aca28134855c147c2955ecf1bd931bd8ddd776c36e37b8b350d8f5c2a970aab2
 canonical: 12198-world-bank-infrastructure-financing-options-bankable-projects-for-private-invest.json
 ---

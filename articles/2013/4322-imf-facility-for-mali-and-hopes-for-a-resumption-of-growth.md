@@ -1,12 +1,21 @@
 ---
 id: 4322
 title: "IMF Facility for Mali: And Hopes for a Resumption of Growth"
-award_year: 2013
+year: 2013
 published: 2013-06-11 08:17:36
 published_gmt: 2013-06-11 07:17:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/06/imf-facility-for-mali-and-hopes-for-a-resumption-of-growth/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d750944581f30677fb78e2334e8ca5817b2e51d8c063d5dd362de11e194f0bcc
 canonical: 4322-imf-facility-for-mali-and-hopes-for-a-resumption-of-growth.json
 ---

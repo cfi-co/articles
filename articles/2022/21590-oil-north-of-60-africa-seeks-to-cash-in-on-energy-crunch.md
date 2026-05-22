@@ -1,12 +1,21 @@
 ---
 id: 21590
 title: "Oil North of 60: Africa Seeks to Cash in on Energy Crunch"
-award_year: 2022
+year: 2022
 published: 2022-02-23 15:02:47
 published_gmt: 2022-02-23 15:02:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/02/oil-north-of-60-africa-seeks-to-cash-in-on-energy-crunch/"
 categories: ["Africa", "Brave New World", "Energy"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 28534ce45a55952e5a1e6d64cd80edcb391c1102bf38e4d248e9f2ed7986d806
 canonical: 21590-oil-north-of-60-africa-seeks-to-cash-in-on-energy-crunch.json
 ---

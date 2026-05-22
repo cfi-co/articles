@@ -1,12 +1,21 @@
 ---
 id: 16711
 title: "Bermuda Stock Exchange (BSX):  Electronic Exchange Takes an Island to Leading Status for Global Listings"
-award_year: 2020
+year: 2020
 published: 2020-08-20 13:09:50
 published_gmt: 2020-08-20 12:09:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/08/bermuda-stock-exchange-bsx-electronic-exchange-takes-an-island-to-leading-status-for-global-listings/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: daf6f6531fa71033fb85da530c779dd906f51d230e625d3266a13a7b948c791d
 canonical: 16711-bermuda-stock-exchange-bsx-electronic-exchange-takes-an-island-to-leading-status.json
 ---

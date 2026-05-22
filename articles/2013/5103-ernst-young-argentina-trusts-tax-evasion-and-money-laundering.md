@@ -1,12 +1,21 @@
 ---
 id: 5103
 title: "Ernst & Young, Argentina: Trusts, Tax Evasion and Money Laundering"
-award_year: 2013
+year: 2013
 published: 2013-08-28 16:40:56
 published_gmt: 2013-08-28 15:40:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/08/ernst-young-argentina-trusts-tax-evasion-and-money-laundering/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9b78878bf8b7e11854ed16656078fc44e3ded4708258b8a81c45ed5553ffc77d
 canonical: 5103-ernst-young-argentina-trusts-tax-evasion-and-money-laundering.json
 ---

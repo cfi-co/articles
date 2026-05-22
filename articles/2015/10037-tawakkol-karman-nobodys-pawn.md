@@ -1,12 +1,21 @@
 ---
 id: 10037
 title: "Tawakkol Karman: Nobody’s Pawn"
-award_year: 2015
+year: 2015
 published: 2015-06-17 16:19:34
 published_gmt: 2015-06-17 15:19:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2015/06/tawakkol-karman-nobodys-pawn/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1c24a9c3e98e266921716426240101919e7577e8e881468f3df9a0d83d7effb4
 canonical: 10037-tawakkol-karman-nobodys-pawn.json
 ---

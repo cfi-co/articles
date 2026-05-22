@@ -1,12 +1,21 @@
 ---
 id: 25111
 title: "Constant Improvement, Constant Investment — a Simple Recipe for Banking Success and Recognition"
-award_year: 2023
+year: 2023
 published: 2023-04-24 17:14:32
 published_gmt: 2023-04-24 16:14:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2023/04/afghanistan-international-bank-aib-constant-improvement-constant-investment"
 categories: ["Banking", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cb959fa7db0f071c4c3c9904a5c7d6ea9135acf57483513ad6ead2685b1c4433
 canonical: 25111-constant-improvement-constant-investment-a-simple-recipe-for-banking-success-and.json
 ---

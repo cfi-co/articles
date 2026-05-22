@@ -1,12 +1,21 @@
 ---
 id: 23199
 title: "Generali Investments CEE: Leading by Example, with Proximity to Clients and a Firm Sustainability Focus"
-award_year: 2022
+year: 2022
 published: 2022-07-01 15:37:00
 published_gmt: 2022-07-01 14:37:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/07/generali-investments-cee-leading-by-example-with-proximity-to-clients-and-a-firm-sustainability-focus/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 56379dfb7f243d85d252190eac532ac2637d827431fd6af085916e882c686f9f
 canonical: 23199-generali-investments-cee-leading-by-example-with-proximity-to-clients-and-a-firm.json
 ---

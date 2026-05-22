@@ -1,12 +1,21 @@
 ---
 id: 16833
 title: "Sweden - A Controversial Approach Belatedly Vindicated"
-award_year: 2020
+year: 2020
 published: 2020-09-03 13:25:35
 published_gmt: 2020-09-03 12:25:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/09/sweden-a-controversial-approach-belatedly-vindicated/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 41419d5ef19e78f3c4b26df8e2a88f8472e27d7d45a3ea0f42a6f670191c2c5f
 canonical: 16833-sweden-a-controversial-approach-belatedly-vindicated.json
 ---

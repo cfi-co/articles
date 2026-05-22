@@ -1,12 +1,21 @@
 ---
 id: 13354
 title: "Andrés Manuel López Obrador: The Remaking of Mexico"
-award_year: 2019
+year: 2019
 published: 2019-01-16 13:17:09
 published_gmt: 2019-01-16 13:17:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2019/01/andres-manuel-lopez-obrador-the-remaking-of-mexico/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5d82ba1669f5db4f78a835119c5aa5c42476ba3a407432dd8afea00eed82099a
 canonical: 13354-andres-manuel-lopez-obrador-the-remaking-of-mexico.json
 ---

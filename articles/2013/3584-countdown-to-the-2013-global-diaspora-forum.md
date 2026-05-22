@@ -1,12 +1,21 @@
 ---
 id: 3584
 title: "Countdown to the 2013 Global Diaspora Forum"
-award_year: 2013
+year: 2013
 published: 2013-04-08 17:11:59
 published_gmt: 2013-04-08 17:11:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2013/04/countdown-to-the-2013-global-diaspora-forum/"
 categories: ["North America", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c79d0bb331589c08c94e769d0cc27e21562e58b8d0c1186efb43ede2c7bb767b
 canonical: 3584-countdown-to-the-2013-global-diaspora-forum.json
 ---

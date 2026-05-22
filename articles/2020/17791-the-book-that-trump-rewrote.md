@@ -1,12 +1,21 @@
 ---
 id: 17791
 title: "The Book That Trump Rewrote"
-award_year: 2020
+year: 2020
 published: 2020-11-05 13:04:01
 published_gmt: 2020-11-05 13:04:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/11/the-book-that-trump-rewrote/"
 categories: ["North America", "US Election 2020", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ce3cebffc2a8d84ecba390e0db9e8133788c02c41ff467afcc891d7850b3fbce
 canonical: 17791-the-book-that-trump-rewrote.json
 ---

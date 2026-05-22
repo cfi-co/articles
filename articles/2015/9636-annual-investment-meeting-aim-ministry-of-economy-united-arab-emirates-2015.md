@@ -1,12 +1,21 @@
 ---
 id: 9636
 title: "Annual Investment Meeting (AIM), Ministry of Economy, United Arab Emirates, 2015"
-award_year: 2015
+year: 2015
 published: 2015-04-13 11:34:47
 published_gmt: 2015-04-13 10:34:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/04/annual-investment-meeting-aim-ministry-of-economy-united-arab-emirates-2015/"
 categories: ["Finance", "Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c3be285fb5f834934720b3393163293f03e98d878f34b26fa4b8ffe2d0f712eb
 canonical: 9636-annual-investment-meeting-aim-ministry-of-economy-united-arab-emirates-2015.json
 ---

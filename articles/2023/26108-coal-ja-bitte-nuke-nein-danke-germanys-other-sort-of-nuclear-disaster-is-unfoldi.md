@@ -1,12 +1,21 @@
 ---
 id: 26108
 title: "Coal, Ja Bitte, Nuke, Nein Danke: Germany’s Other Sort of Nuclear ‘Disaster’ is Unfolding"
-award_year: 2023
+year: 2023
 published: 2023-09-27 12:11:29
 published_gmt: 2023-09-27 11:11:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/09/coal-ja-bitte-nuke-nein-danke-germanys-other-sort-of-nuclear-disaster-is-unfolding/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1123baeec313eef287b859cde6c1bc0f936258a0ddfac8a97999ae0daf2998e9
 canonical: 26108-coal-ja-bitte-nuke-nein-danke-germanys-other-sort-of-nuclear-disaster-is-unfoldi.json
 ---

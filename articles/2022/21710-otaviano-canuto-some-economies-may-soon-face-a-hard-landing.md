@@ -1,12 +1,21 @@
 ---
 id: 21710
 title: "Otaviano Canuto: Some Economies May Soon Face a Hard Landing"
-award_year: 2022
+year: 2022
 published: 2022-04-14 06:45:35
 published_gmt: 2022-04-14 05:45:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2022/04/otaviano-canuto-some-economies-may-soon-face-a-hard-landing/"
 categories: ["Economics &amp; Convergence", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7393e12d193f5e9872b4409db1a052208084ae03e9ba48a45905e8647d977335
 canonical: 21710-otaviano-canuto-some-economies-may-soon-face-a-hard-landing.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 10887
 title: "CFI.co Meets the Chairman and CEO of Elwan Group: Ibrahim I Elwan"
-award_year: 2016
+year: 2016
 published: 2016-01-21 22:13:19
 published_gmt: 2016-01-21 22:13:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-chairman-and-ceo-of-elwan-group-ibrahim-i-elwan/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4eb957082fb93cdb1817ba16b1622240486df4878ae9901caf22fe314a269c5d
 canonical: 10887-cfi-co-meets-the-chairman-and-ceo-of-elwan-group-ibrahim-i-elwan.json
 ---

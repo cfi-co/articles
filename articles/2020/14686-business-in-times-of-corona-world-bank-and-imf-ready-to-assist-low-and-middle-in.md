@@ -1,12 +1,21 @@
 ---
 id: 14686
 title: "Business in Times of Corona: World Bank and IMF Ready to Assist Low- and Middle-Income Countries"
-award_year: 2020
+year: 2020
 published: 2020-03-20 14:14:25
 published_gmt: 2020-03-20 14:14:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2020/03/business-in-times-of-corona-world-bank-and-imf-ready-to-assist-low-and-middle-income-countries/"
 categories: ["Sustainability", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 45fe40bba2cdf16d1c7a485f68b18814eed695765ace9d5b8199956d7c337fbb
 canonical: 14686-business-in-times-of-corona-world-bank-and-imf-ready-to-assist-low-and-middle-in.json
 ---

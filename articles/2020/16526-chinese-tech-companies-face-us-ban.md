@@ -1,12 +1,21 @@
 ---
 id: 16526
 title: "Chinese Tech Companies Face US Ban"
-award_year: 2020
+year: 2020
 published: 2020-08-10 15:39:33
 published_gmt: 2020-08-10 14:39:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/08/chinese-tech-companies-face-us-ban/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: be1727944af330c445264949dc7c759a42cd072bb49a2a988141e08bdfb19671
 canonical: 16526-chinese-tech-companies-face-us-ban.json
 ---

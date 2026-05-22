@@ -1,12 +1,21 @@
 ---
 id: 14057
 title: "Ameet Nathwani: Big Pharma, Big Changes to Traditional Ways of Thinking"
-award_year: 2019
+year: 2019
 published: 2019-10-01 08:45:38
 published_gmt: 2019-10-01 07:45:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2019/10/ameet-nathwani-big-pharma-big-changes-to-traditional-ways-of-thinking/"
 categories: ["Asia Pacific", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8fd3143c184f7f0eec8408e5a3eaadcce9d9240c1b437f9aa3087729e28ca045
 canonical: 14057-ameet-nathwani-big-pharma-big-changes-to-traditional-ways-of-thinking.json
 ---

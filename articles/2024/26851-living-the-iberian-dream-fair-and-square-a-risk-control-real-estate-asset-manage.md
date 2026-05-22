@@ -1,12 +1,21 @@
 ---
 id: 26851
 title: "Living the Iberian Dream, Fair and Square: A Risk-Control Real Estate Asset Management Firm"
-award_year: 2024
+year: 2024
 published: 2024-06-11 12:02:47
 published_gmt: 2024-06-11 11:02:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/06/living-the-iberian-dream-fair-and-square-a-risk-control-real-estate-asset-management-firm/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: acf0cfb320b8a507af6c8f2037802fb4e5a50e39c16a6748711836991da41176
 canonical: 26851-living-the-iberian-dream-fair-and-square-a-risk-control-real-estate-asset-manage.json
 ---

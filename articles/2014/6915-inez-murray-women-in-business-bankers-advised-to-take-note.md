@@ -1,12 +1,21 @@
 ---
 id: 6915
 title: "Inez Murray: Women in Business - Bankers Advised to Take Note"
-award_year: 2014
+year: 2014
 published: 2014-04-03 12:30:36
 published_gmt: 2014-04-03 11:30:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/04/inez-murray-women-in-business-bankers-advised-to-take-note/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 129158551626fcafb34a3e6633e9e83d416d5fa5a51b64d0bdf9672aa1a68b77
 canonical: 6915-inez-murray-women-in-business-bankers-advised-to-take-note.json
 ---

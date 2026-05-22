@@ -1,12 +1,21 @@
 ---
 id: 10962
 title: "Liya Kebede: Millionaire with a Heart"
-award_year: 2016
+year: 2016
 published: 2016-02-02 14:52:34
 published_gmt: 2016-02-02 14:52:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2016/02/liya-kebede/"
 categories: ["Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0c71813832b34bb6bc71f133ffc26eb347166398d80674375ca6f8aa61570973
 canonical: 10962-liya-kebede.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 17745
 title: "CFI.co Meets the CEO of enso GmbH: Dr Georg Kühhas"
-award_year: 2016
+year: 2016
 published: 2016-04-02 20:24:44
 published_gmt: 2016-04-02 19:24:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/04/cfi-co-meets-the-ceo-of-enso-gmbh-dr-georg-kuhhas/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 87d3fa1527be01321100009bc2f23da3a9524fe021856a4d02175c082017567e
 canonical: 17745-cfi-co-meets-the-ceo-of-enso-gmbh-dr-georg-kuhhas.json
 ---

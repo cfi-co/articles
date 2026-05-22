@@ -1,12 +1,21 @@
 ---
 id: 24694
 title: "Time to Talk Day - Supporting Staff with Mental Health this Winter"
-award_year: 2023
+year: 2023
 published: 2023-02-02 12:02:08
 published_gmt: 2023-02-02 12:02:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2023/02/time-to-talk-day-supporting-staff-with-mental-health-this-winter/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 73c81bed9d067fb3d4283b05c11b54801dfb27fc686b8ce8bae7192c887775e4
 canonical: 24694-time-to-talk-day-supporting-staff-with-mental-health-this-winter.json
 ---

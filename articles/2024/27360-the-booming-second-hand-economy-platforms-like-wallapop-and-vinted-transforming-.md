@@ -1,12 +1,21 @@
 ---
 id: 27360
 title: "The Booming Second-Hand Economy: Platforms Like Wallapop and Vinted Transforming Markets"
-award_year: 2024
+year: 2024
 published: 2024-12-06 12:46:28
 published_gmt: 2024-12-06 12:46:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2024/12/the-booming-second-hand-economy-platforms-like-wallapop-and-vinted-transforming-markets/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 371867716d83648cc8d03a955f394b368782e5be5834f141de6e0f396546abce
 canonical: 27360-the-booming-second-hand-economy-platforms-like-wallapop-and-vinted-transforming-.json
 ---

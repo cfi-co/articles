@@ -1,12 +1,21 @@
 ---
 id: 19541
 title: "Dr Chitwan Malhotra: Healthcare Hands Meet Across the Waters in Push for Rebuild"
-award_year: 2021
+year: 2021
 published: 2021-04-19 13:28:14
 published_gmt: 2021-04-19 12:28:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2021/04/dr-chitwan-malhotra-healthcare-hands-meet-across-the-waters-in-push-for-rebuild/"
 categories: ["Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 533368245f157a1c075a97764675eb4dd380725dc22303cc9b6615d7f9a171d3
 canonical: 19541-dr-chitwan-malhotra-healthcare-hands-meet-across-the-waters-in-push-for-rebuild.json
 ---

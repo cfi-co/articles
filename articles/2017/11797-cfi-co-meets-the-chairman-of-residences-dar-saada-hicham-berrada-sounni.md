@@ -1,12 +1,21 @@
 ---
 id: 11797
 title: "CFI.co Meets the Chairman of Résidences Dar Saada: Hicham Berrada Sounni"
-award_year: 2017
+year: 2017
 published: 2017-08-31 13:32:29
 published_gmt: 2017-08-31 12:32:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-chairman-of-residences-dar-saada-hicham-berrada-sounni/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 519ee3bc59443411db54c7a99e23c2aa3d9a9feaa9dc27972d839aed5071adb2
 canonical: 11797-cfi-co-meets-the-chairman-of-residences-dar-saada-hicham-berrada-sounni.json
 ---

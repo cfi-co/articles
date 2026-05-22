@@ -1,12 +1,21 @@
 ---
 id: 26282
 title: "From Little Things, Big Things Grow: Ostoul’s Acorn Becoming an Oak"
-award_year: 2019
+year: 2019
 published: 2019-05-30 15:28:15
 published_gmt: 2019-05-30 14:28:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2019/05/from-little-things-big-things-grow-ostoul-capital-group/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 756ec02170e9eabcd8de7509900453d1d2e001923eae449e77da79e920814440
 canonical: 26282-from-little-things-big-things-grow-ostouls-acorn-becoming-an-oak.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 11136
 title: "Ann Makosinski: A Beautiful Mind"
-award_year: 2016
+year: 2016
 published: 2016-04-20 15:06:42
 published_gmt: 2016-04-20 14:06:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2016/04/ann-makosinski-beautiful-mind/"
 categories: ["Heroes", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3f49cedfc6b0a11d6a1cf0b7f45753074b53b7268f14639953e67ac4a28bf205
 canonical: 11136-ann-makosinski-beautiful-mind.json
 ---

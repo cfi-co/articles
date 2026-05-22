@@ -1,12 +1,21 @@
 ---
 id: 8529
 title: "World Bank Supports Efforts to Achieve Growth with Equity and to Develop Cities in Colombia"
-award_year: 2014
+year: 2014
 published: 2014-12-15 09:34:42
 published_gmt: 2014-12-15 09:34:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/12/world-bank-supports-efforts-to-achieve-growth-with-equity-and-to-develop-cities-in-colombia/"
 categories: ["Finance", "Latin America", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2b2945bb04ea572af4221dd68723363f72fad94c6f41bd11c446e6b104fb297b
 canonical: 8529-world-bank-supports-efforts-to-achieve-growth-with-equity-and-to-develop-cities-.json
 ---

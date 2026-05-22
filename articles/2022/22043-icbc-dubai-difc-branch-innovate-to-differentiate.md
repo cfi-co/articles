@@ -1,12 +1,21 @@
 ---
 id: 22043
 title: "ICBC Dubai (DIFC) Branch: Innovate to Differentiate"
-award_year: 2022
+year: 2022
 published: 2022-05-19 14:12:35
 published_gmt: 2022-05-19 13:12:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2022/05/icbc-dubai-difc-branch-innovate-to-differentiate/"
 categories: ["Corporate", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 74efb59b44e72f896fe49ea25fabea29298bba8a1437b0564711b4aa285463fd
 canonical: 22043-icbc-dubai-difc-branch-innovate-to-differentiate.json
 ---

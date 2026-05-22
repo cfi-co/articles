@@ -1,12 +1,21 @@
 ---
 id: 2837
 title: "UN Downgrades Economic Forecasts for 2013/14"
-award_year: 2013
+year: 2013
 published: 2013-01-02 20:11:23
 published_gmt: 2013-01-02 20:11:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/01/un-downgrades-economic-forecasts-for-201314/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Latin America", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e1ebbd86f6000aed8d09483ab7e0494a4d2ffd0b677bf83d58015de57bb9b00
 canonical: 2837-un-downgrades-economic-forecasts-for-201314.json
 ---

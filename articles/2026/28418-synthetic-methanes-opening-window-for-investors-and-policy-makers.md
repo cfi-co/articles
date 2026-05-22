@@ -1,12 +1,21 @@
 ---
 id: 28418
 title: "Synthetic Methane’s Opening Window for Investors and Policy Makers"
-award_year: 2026
+year: 2026
 published: 2026-04-24 09:00:21
 published_gmt: 2026-04-24 08:00:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2026/04/synthetic-methanes-opening-window-for-investors-and-policy-makers/"
 categories: ["Oil &amp; Mining", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ae9805b4513bca1ce7047a78f375fbb8bd5b243bd19f66eed5b3851010defce8
 canonical: 28418-synthetic-methanes-opening-window-for-investors-and-policy-makers.json
 ---

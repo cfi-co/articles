@@ -1,12 +1,21 @@
 ---
 id: 7360
 title: "Nicholas Brady: Soccer Finance and the Pragmatist Who Fixed a Debt Crisis"
-award_year: 2014
+year: 2014
 published: 2014-05-27 15:40:00
 published_gmt: 2014-05-27 14:40:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/05/nicholas-brady-soccer-finance-and-the-pragmatist-who-fixed-a-debt-crisis/"
 categories: ["Europe", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e503f657693a20949ed3c406eebd3a50c8be972ec0c2022a5caa2edbd5bfa012
 canonical: 7360-nicholas-brady-soccer-finance-and-the-pragmatist-who-fixed-a-debt-crisis.json
 ---

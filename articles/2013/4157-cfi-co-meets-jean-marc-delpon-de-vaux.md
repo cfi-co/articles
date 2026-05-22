@@ -1,12 +1,21 @@
 ---
 id: 4157
 title: "CFI.co Meets Jean-Marc Delpon de Vaux"
-award_year: 2013
+year: 2013
 published: 2013-05-13 13:14:13
 published_gmt: 2013-05-13 13:14:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/05/cfi-co-meets-jean-marc-delpon-de-vaux/"
 categories: ["Corporate Leaders", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 23729437075a6069adce3824a44ab34c5c0efa544ea106c95cf77f243f28409d
 canonical: 4157-cfi-co-meets-jean-marc-delpon-de-vaux.json
 ---

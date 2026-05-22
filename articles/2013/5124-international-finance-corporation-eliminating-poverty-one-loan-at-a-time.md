@@ -1,12 +1,21 @@
 ---
 id: 5124
 title: "IFC - International Finance Corporation: Eliminating Poverty, One Loan at a Time"
-award_year: 2013
+year: 2013
 published: 2013-08-30 10:05:01
 published_gmt: 2013-08-30 09:05:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/08/international-finance-corporation-eliminating-poverty-one-loan-at-a-time/"
 categories: ["Africa", "Finance", "Latin America", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bd4ec6c34f5d218c684601fed2e81712e32ad26980c8dd1c5efe982942a5c7c4
 canonical: 5124-international-finance-corporation-eliminating-poverty-one-loan-at-a-time.json
 ---

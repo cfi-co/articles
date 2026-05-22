@@ -1,12 +1,21 @@
 ---
 id: 21655
 title: "Lord Waverley: First In, Best Dressed — UK’s Bid to Join Key Regional Trade Agreement"
-award_year: 2022
+year: 2022
 published: 2022-03-18 05:52:39
 published_gmt: 2022-03-18 05:52:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2022/03/lord-waverley-first-in-best-dressed-uks-bid-to-join-key-regional-trade-agreement/"
 categories: ["Asia Pacific", "Columnists", "Europe"]
+content_class: opinion_column
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 235d42aff69bc7f0902fd67bd1d87a6406c13219a656ffa531f483ff71bda266
 canonical: 21655-lord-waverley-first-in-best-dressed-uks-bid-to-join-key-regional-trade-agreement.json
 ---

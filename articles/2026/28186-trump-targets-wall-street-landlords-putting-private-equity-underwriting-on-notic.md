@@ -1,12 +1,21 @@
 ---
 id: 28186
 title: "Trump Targets Wall Street Landlords, Putting Private-Equity Underwriting on Notice"
-award_year: 2026
+year: 2026
 published: 2026-01-08 10:07:39
 published_gmt: 2026-01-08 10:07:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2026/01/trump-targets-wall-street-landlords-putting-private-equity-underwriting-on-notice/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a4c105dae48bf6d65a8c4e0796e51d3ff5b09ac05f059c27cd3c4a15a860ef08
 canonical: 28186-trump-targets-wall-street-landlords-putting-private-equity-underwriting-on-notic.json
 ---

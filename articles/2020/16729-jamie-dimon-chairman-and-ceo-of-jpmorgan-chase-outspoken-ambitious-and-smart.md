@@ -1,12 +1,21 @@
 ---
 id: 16729
 title: "Chairman and CEO of JPMorgan Chase Jamie Dimon: Outspoken, Ambitious, and Smart"
-award_year: 2020
+year: 2020
 published: 2020-08-24 19:39:05
 published_gmt: 2020-08-24 18:39:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/08/jamie-dimon-chairman-and-ceo-of-jpmorgan-chase-outspoken-ambitious-and-smart/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ecfd0be9ccd6fcbafd02d2b995a3b2301dd6480bd1cdaacb45b3b1b95c9576ed
 canonical: 16729-jamie-dimon-chairman-and-ceo-of-jpmorgan-chase-outspoken-ambitious-and-smart.json
 ---

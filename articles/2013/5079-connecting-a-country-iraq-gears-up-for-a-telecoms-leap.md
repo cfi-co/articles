@@ -1,12 +1,21 @@
 ---
 id: 5079
 title: "Connecting a Country: Iraq Gears Up for a Telecoms Leap"
-award_year: 2013
+year: 2013
 published: 2013-08-23 10:23:05
 published_gmt: 2013-08-23 09:23:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/08/connecting-a-country-iraq-gears-up-for-a-telecoms-leap/"
 categories: ["Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: deab42f39ad97c6c44f2469e520d1b564f46cd03481e8c9c3eb9865c0137363b
 canonical: 5079-connecting-a-country-iraq-gears-up-for-a-telecoms-leap.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 4771
 title: "CFI.co Meets Rashesh Shah"
-award_year: 2013
+year: 2013
 published: 2013-07-01 10:34:42
 published_gmt: 2013-07-01 09:34:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/07/cfi-co-meets-rashesh-shah-2/"
 categories: ["Asia Pacific", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: db8dafa8044203cd7acdaf94cad2498644067785cdeb790085bb091f5037942e
 canonical: 4771-cfi-co-meets-rashesh-shah-2.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 20492
 title: "EY: Argentina’s Need for Tax Reforms, and How They Could Be Achieved"
-award_year: 2021
+year: 2021
 published: 2021-08-19 19:00:36
 published_gmt: 2021-08-19 18:00:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/governance-legal/2021/08/ey-argentinas-need-for-tax-reforms-and-how-they-could-be-achieved/"
 categories: ["Governance &amp; Legal", "Latin America", "Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2b6fbd574591993772d9630e97e13a3e472398624e0c197efaaa46211ae61706
 canonical: 20492-ey-argentinas-need-for-tax-reforms-and-how-they-could-be-achieved.json
 ---

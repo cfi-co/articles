@@ -1,12 +1,21 @@
 ---
 id: 27514
 title: "Butcher, Baker, Candlestick Maker: Are the Skilled Trades Safe from AI?"
-award_year: 2025
+year: 2025
 published: 2025-01-23 09:39:23
 published_gmt: 2025-01-23 09:39:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2025/01/butcher-baker-candlestick-maker-are-the-skilled-trades-safe-from-ai/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b8e7428c5f3f56c4a4e5682131209a873c407d5acc40b34ef59dfb044afc6ce3
 canonical: 27514-butcher-baker-candlestick-maker-are-the-skilled-trades-safe-from-ai.json
 ---

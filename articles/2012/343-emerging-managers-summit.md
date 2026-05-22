@@ -1,12 +1,21 @@
 ---
 id: 343
 title: "Emerging Managers Summit"
-award_year: 2012
+year: 2012
 published: 2012-05-15 14:58:14
 published_gmt: 2012-05-15 13:58:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/05/emerging-managers-summit/"
 categories: ["Africa", "Asia Pacific", "Banking", "Finance", "Latin America", "Middle East", "North America", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8321212154cda638be1fce46465491231a5582fe8501b48273d2e984b9b2d7ea
 canonical: 343-emerging-managers-summit.json
 ---

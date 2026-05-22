@@ -1,12 +1,21 @@
 ---
 id: 12415
 title: "EY: Argentina - Aspects of the Labour & Social Security Reform"
-award_year: 2018
+year: 2018
 published: 2018-04-05 10:31:46
 published_gmt: 2018-04-05 09:31:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2018/04/ey-argentina-aspects-of-the-labour-social-security-reform/"
 categories: ["Finance", "Governance &amp; Legal", "Latin America", "Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f95b9a973b8be46568b80ae39ccf751aa2268953940b74e756135a1a727bed47
 canonical: 12415-ey-argentina-aspects-of-the-labour-social-security-reform.json
 ---

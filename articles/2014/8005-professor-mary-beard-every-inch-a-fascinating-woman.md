@@ -1,12 +1,21 @@
 ---
 id: 8005
 title: "Professor Mary Beard: Every Inch a Fascinating Woman"
-award_year: 2014
+year: 2014
 published: 2014-09-12 12:44:24
 published_gmt: 2014-09-12 11:44:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/09/professor-mary-beard-every-inch-a-fascinating-woman/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cc8d5bbd7c7d6ffcafe80a57aa92dbaab5d2524e55edd7bdbe8986d1ee8e9560
 canonical: 8005-professor-mary-beard-every-inch-a-fascinating-woman.json
 ---

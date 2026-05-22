@@ -1,12 +1,21 @@
 ---
 id: 16063
 title: "FBS: Sharing ‘Inside Line’ and Tech Advances with Clients"
-award_year: 2020
+year: 2020
 published: 2020-05-01 19:12:51
 published_gmt: 2020-05-01 18:12:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/05/fbs-sharing-inside-line-and-tech-advances-with-clients/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 784f2e41c021d609e0a1bb364074db22070141d2b292d7e59581c88f4766a5f0
 canonical: 16063-fbs-sharing-inside-line-and-tech-advances-with-clients.json
 ---

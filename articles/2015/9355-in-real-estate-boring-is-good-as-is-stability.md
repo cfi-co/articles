@@ -1,12 +1,21 @@
 ---
 id: 9355
 title: "In Real Estate, Boring Is Good as Is Stability"
-award_year: 2015
+year: 2015
 published: 2015-03-01 13:20:54
 published_gmt: 2015-03-01 13:20:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/projects/2015/03/in-real-estate-boring-is-good-as-is-stability/"
 categories: ["Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1133acc0022930fce1de7bb0a1f5a3fbe5b449bf786a8150b9097ec84aaeca17
 canonical: 9355-in-real-estate-boring-is-good-as-is-stability.json
 ---

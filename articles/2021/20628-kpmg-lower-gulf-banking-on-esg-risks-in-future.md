@@ -1,12 +1,21 @@
 ---
 id: 20628
 title: "KPMG Lower Gulf: Banking on ESG Risks in Future"
-award_year: 2021
+year: 2021
 published: 2021-09-14 18:40:28
 published_gmt: 2021-09-14 17:40:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2021/09/kpmg-lower-gulf-banking-on-esg-risks-in-future/"
 categories: ["Banking &amp; Finance", "Finance", "Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5b204e2b1208bf1c06df62bfe1058cd54359aca2178710f26f2a2e44d56daf2f
 canonical: 20628-kpmg-lower-gulf-banking-on-esg-risks-in-future.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27524
 title: "NJMPF: Empowering Financial Literacy & Exemplary Leadership"
-award_year: 2025
+year: 2025
 published: 2025-01-27 09:30:54
 published_gmt: 2025-01-27 09:30:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2025/01/njmpf-empowering-financial-literacy-exemplary-leadership/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 04f86c3636592ef6890d3e4c253438dd0c6a63b5e1f7f6bc83a13c7ea711a9ec
 canonical: 27524-njmpf-empowering-financial-literacy-exemplary-leadership.json
 ---

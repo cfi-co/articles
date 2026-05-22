@@ -1,12 +1,21 @@
 ---
 id: 21812
 title: "The Dawn of Everything: A New History of Humanity - A Non-Linear Anarchist Reading of World History"
-award_year: 2022
+year: 2022
 published: 2022-05-11 08:45:09
 published_gmt: 2022-05-11 07:45:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/05/the-dawn-of-everything-a-new-history-of-humanity-a-non-linear-anarchist-reading-of-world-history/"
 categories: ["Brave New World", "Reviews"]
+content_class: review
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e785325d8b5897fa7bfa713fcf6be3162b116ea9b365373cc5fb3914f343d34d
 canonical: 21812-the-dawn-of-everything-a-new-history-of-humanity-a-non-linear-anarchist-reading-.json
 ---

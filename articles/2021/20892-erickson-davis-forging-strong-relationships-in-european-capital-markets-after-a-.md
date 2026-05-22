@@ -1,12 +1,21 @@
 ---
 id: 20892
 title: "Erickson Davis: Forging Strong Relationships in European Capital Markets After a Return to the Fold"
-award_year: 2021
+year: 2021
 published: 2021-10-29 10:57:04
 published_gmt: 2021-10-29 09:57:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2021/10/erickson-davis-forging-strong-relationships-in-european-capital-markets-after-a-return-to-the-fold/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 155f6dd3864a1f6a77329733d2279ba52ea0d87c06458809da8bfaaf892449cf
 canonical: 20892-erickson-davis-forging-strong-relationships-in-european-capital-markets-after-a-.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 20308
 title: "OECD: Business as Usual? Forget About That, and Prepare for Novel and Impactful Variations on a Theme"
-award_year: 2021
+year: 2021
 published: 2021-08-03 07:19:19
 published_gmt: 2021-08-03 06:19:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2021/08/oecd-business-as-usual-forget-about-that-and-prepare-for-novel-and-impactful-variations-on-a-theme/"
 categories: ["Finance", "Governance &amp; Legal", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 12dff4c144e078b2a1317a44e7c3a400101a92d619509c596df2e6d47345bf23
 canonical: 20308-oecd-business-as-usual-forget-about-that-and-prepare-for-novel-and-impactful-var.json
 ---

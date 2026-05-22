@@ -1,12 +1,21 @@
 ---
 id: 27144
 title: "AI and the Democratisation of Financial Services: Navigating Opportunities and Challenges for Inclusive Prosperity"
-award_year: 2024
+year: 2024
 published: 2024-09-18 16:24:06
 published_gmt: 2024-09-18 15:24:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2024/09/ai-and-the-democratisation-of-financial-services-navigating-opportunities-and-challenges-for-inclusive-prosperity/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0c4084a61778369637b702a6be30d439f376ad8c46f6e2741fd28d855038853a
 canonical: 27144-ai-and-the-democratisation-of-financial-services-navigating-opportunities-and-ch.json
 ---

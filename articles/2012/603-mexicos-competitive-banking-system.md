@@ -1,12 +1,21 @@
 ---
 id: 603
 title: "Mexico’s Competitive Banking System"
-award_year: 2012
+year: 2012
 published: 2012-05-21 12:05:40
 published_gmt: 2012-05-21 11:05:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/05/mexicos-competitive-banking-system/"
 categories: ["Banking", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9521cf0ae96a2235a71f2be56241f22ad2ebf820a7203a2044329afd0846dc23
 canonical: 603-mexicos-competitive-banking-system.json
 ---

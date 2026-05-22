@@ -1,12 +1,21 @@
 ---
 id: 20172
 title: "National Finance: Enhancing Digital Capabilities"
-award_year: 2021
+year: 2021
 published: 2021-07-12 11:55:33
 published_gmt: 2021-07-12 10:55:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/national-finance-enhancing-digital-capabilities/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5424d9bc024ee7c5a7e1a5063cafc99429072f9b047603257979e47b86c60b36
 canonical: 20172-national-finance-enhancing-digital-capabilities.json
 ---

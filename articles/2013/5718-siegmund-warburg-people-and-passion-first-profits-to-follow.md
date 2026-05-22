@@ -1,12 +1,21 @@
 ---
 id: 5718
 title: "Siegmund Warburg: People and Passion First - Profits to Follow"
-award_year: 2013
+year: 2013
 published: 2013-10-31 12:55:08
 published_gmt: 2013-10-31 12:55:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/10/siegmund-warburg-people-and-passion-first-profits-to-follow/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 50ef4332a4590e4f855003ec159f6a159d917775c9baf973fbd0d76173ca3527
 canonical: 5718-siegmund-warburg-people-and-passion-first-profits-to-follow.json
 ---

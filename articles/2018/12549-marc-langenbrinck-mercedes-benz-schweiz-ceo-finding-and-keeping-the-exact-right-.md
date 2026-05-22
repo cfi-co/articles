@@ -1,12 +1,21 @@
 ---
 id: 12549
 title: "Marc Langenbrinck, Mercedes-Benz Schweiz CEO: Finding and Keeping the Exact Right Competitive Angle"
-award_year: 2018
+year: 2018
 published: 2018-05-17 12:03:57
 published_gmt: 2018-05-17 11:03:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2018/05/marc-langenbrinck-mercedes-benz-schweiz-ceo-finding-and-keeping-the-exact-right-competitive-angle/"
 categories: ["Lifestyle", "Portraits"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 14befd0c74e57fa7edcd0300c831042f1bfc93a97623d40c5d534c5362b71612
 canonical: 12549-marc-langenbrinck-mercedes-benz-schweiz-ceo-finding-and-keeping-the-exact-right-.json
 ---

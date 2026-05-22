@@ -1,12 +1,21 @@
 ---
 id: 7904
 title: "CFI.co Meets the CEO of Banco del País: María del Rosario Selman-Housein"
-award_year: 2014
+year: 2014
 published: 2014-07-07 15:53:39
 published_gmt: 2014-07-07 14:53:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/07/cfi-co-meets-the-ceo-of-banco-del-pais-maria-del-rosario-selman-housein/"
 categories: ["Banking", "Corporate Leaders", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e533f5a640d4f6cf40683d6fa3edd6a172be42c7570795a53ae608b3aa1ed78
 canonical: 7904-cfi-co-meets-the-ceo-of-banco-del-pais-maria-del-rosario-selman-housein.json
 ---

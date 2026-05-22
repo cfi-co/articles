@@ -1,12 +1,21 @@
 ---
 id: 15037
 title: "Turbulence in African Skies"
-award_year: 2020
+year: 2020
 published: 2020-04-27 14:59:00
 published_gmt: 2020-04-27 13:59:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/turbulence-in-african-skies/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5e9dcb9145d9325f6aea501c0991c3dd8f3889884a5804fcd3d2a97b967fac7e
 canonical: 15037-turbulence-in-african-skies.json
 ---

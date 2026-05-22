@@ -1,12 +1,21 @@
 ---
 id: 21950
 title: "Fitch Ratings: Enduring Focus on ESG and Sustainability Projects at Leading Credit Ratings Provider"
-award_year: 2022
+year: 2022
 published: 2022-05-18 07:38:58
 published_gmt: 2022-05-18 06:38:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/csr/2022/05/fitch-ratings-enduring-focus-on-esg-and-sustainability-projects-at-leading-credit-ratings-provider/"
 categories: ["CSR", "Corporate", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: afcd5498527b84aedeaa92d96d6dc71d803b6123ec531f2ce3e99bc3a957f04a
 canonical: 21950-fitch-ratings-enduring-focus-on-esg-and-sustainability-projects-at-leading-credi.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 17651
 title: "CEO & General Manager Ugo Loeser of ARCA Fondi SGR: Shaping the Future of Asset Management with History of Experience and Reliability"
-award_year: 2020
+year: 2020
 published: 2020-10-26 16:13:13
 published_gmt: 2020-10-26 16:13:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/10/ceo-general-manager-ugo-loeser-of-arca-fondi-sgr-shaping-the-future-of-asset-management-with-history-of-experience-and-reliability/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5ff53b0a44c23647493b81780dcf651a25ffeaf85646e71f6175cc2dd9f2548c
 canonical: 17651-ceo-general-manager-ugo-loeser-of-arca-fondi-sgr-shaping-the-future-of-asset-man.json
 ---

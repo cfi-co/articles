@@ -1,12 +1,21 @@
 ---
 id: 26984
 title: "ARTICO Equity Team at Serafin Asset Management: Sustainable Investing Will Work — If the Performance is Right"
-award_year: 2024
+year: 2024
 published: 2024-07-30 14:21:38
 published_gmt: 2024-07-30 13:21:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2024/07/artico-equity-team-at-serafin-asset-management-sustainable-investing-will-work-if-the-performance-is-right/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3932f80348d4971d05176fdc89b24f50136808c49486040b0de3021bb836838d
 canonical: 26984-artico-equity-team-at-serafin-asset-management-sustainable-investing-will-work-i.json
 ---

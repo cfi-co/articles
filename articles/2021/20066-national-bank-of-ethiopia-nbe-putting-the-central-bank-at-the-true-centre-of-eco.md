@@ -1,12 +1,21 @@
 ---
 id: 20066
 title: "National Bank of Ethiopia (NBE): Putting the Central Bank at the True Centre of Economic Revival"
-award_year: 2021
+year: 2021
 published: 2021-06-28 12:34:51
 published_gmt: 2021-06-28 11:34:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/06/national-bank-of-ethiopia-nbe-putting-the-central-bank-at-the-true-centre-of-economic-revival/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d73f5e2ec783d5e5f11c6d92015011ce71796714f8d81aaa73327e3d14fe35b5
 canonical: 20066-national-bank-of-ethiopia-nbe-putting-the-central-bank-at-the-true-centre-of-eco.json
 ---

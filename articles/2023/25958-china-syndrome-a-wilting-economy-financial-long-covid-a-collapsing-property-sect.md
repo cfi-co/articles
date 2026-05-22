@@ -1,12 +1,21 @@
 ---
 id: 25958
 title: "China Syndrome: A Wilting Economy, Financial ‘Long-Covid’, a Collapsing Property Sector — and the Spectre of Deflation Hovering Nearby"
-award_year: 2023
+year: 2023
 published: 2023-08-31 11:49:19
 published_gmt: 2023-08-31 10:49:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2023/08/china-syndrome-a-wilting-economy-financial-long-covid-a-collapsing-property-sector-and-the-spectre-of-deflation-hovering-nearby/"
 categories: ["Asia Pacific", "Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7ad52ac8f273cb157a93183ba7f256cadb5aeae30429bf79beea254af988c97e
 canonical: 25958-china-syndrome-a-wilting-economy-financial-long-covid-a-collapsing-property-sect.json
 ---

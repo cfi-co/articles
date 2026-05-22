@@ -1,12 +1,21 @@
 ---
 id: 26522
 title: "The CEO's message is explicit: True passion is a prerequisite for success in this sector"
-award_year: 2023
+year: 2023
 published: 2023-12-20 17:10:36
 published_gmt: 2023-12-20 17:10:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/12/philip-engel-carlsson-true-passion-is-a-prerequisite-for-success/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a8cf2941cab6354038706bce997980eb48490b034bf4b780e98c76a4edb44229
 canonical: 26522-philip-engel-carlsson-true-passion-is-a-prerequisite-for-success.json
 ---

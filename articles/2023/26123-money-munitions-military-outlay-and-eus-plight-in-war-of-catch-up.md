@@ -1,12 +1,21 @@
 ---
 id: 26123
 title: "Money, Munitions, Military Outlay, and EU’s Plight in War of ‘Catch-up’"
-award_year: 2023
+year: 2023
 published: 2023-10-04 11:02:46
 published_gmt: 2023-10-04 10:02:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/10/money-munitions-military-outlay-and-eus-plight-in-war-of-catch-up/"
 categories: ["Brave New World", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b508aa8020dfc7b752c776ea201a15c172323d8d9ac221c7d05c7bdb5b5e741f
 canonical: 26123-money-munitions-military-outlay-and-eus-plight-in-war-of-catch-up.json
 ---

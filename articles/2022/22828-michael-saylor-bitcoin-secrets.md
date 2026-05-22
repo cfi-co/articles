@@ -1,12 +1,21 @@
 ---
 id: 22828
 title: "Michael Saylor: How to Make Money with Bitcoin"
-award_year: 2022
+year: 2022
 published: 2022-08-05 10:11:13
 published_gmt: 2022-08-05 09:11:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2022/08/michael-saylor-bitcoin-secrets/"
 categories: ["Banking", "Banking &amp; Finance", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6b9868f915c2873f1e6342844fa3f9a6c97bf0cfd56dd2437f8c7927d20c8d34
 canonical: 22828-michael-saylor-bitcoin-secrets.json
 ---

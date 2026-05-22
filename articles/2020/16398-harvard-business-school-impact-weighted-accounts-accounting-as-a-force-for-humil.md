@@ -1,12 +1,21 @@
 ---
 id: 16398
 title: "Harvard Business School Impact-Weighted Accounts: Accounting as a Force for Humility and Prosperity"
-award_year: 2020
+year: 2020
 published: 2020-07-23 10:04:22
 published_gmt: 2020-07-23 09:04:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/07/harvard-business-school-impact-weighted-accounts-accounting-as-a-force-for-humility-and-prosperity/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ed6b74e25a8a0d16502d36027cc6236de29cc1672697210bcb782fdbbedfbd08
 canonical: 16398-harvard-business-school-impact-weighted-accounts-accounting-as-a-force-for-humil.json
 ---

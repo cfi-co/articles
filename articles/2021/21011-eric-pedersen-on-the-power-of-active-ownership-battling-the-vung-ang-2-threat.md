@@ -1,12 +1,21 @@
 ---
 id: 21011
 title: "Eric Pedersen on The Power of Active Ownership: Battling the Vung Ang 2 Threat"
-award_year: 2021
+year: 2021
 published: 2021-11-09 15:41:30
 published_gmt: 2021-11-09 15:41:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/eric-pedersen-on-the-power-of-active-ownership-battling-the-vung-ang-2-threat/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9b31f0a921f6467cfcf44ff5ec3bba4685db12dd656a6c247686b60021d850eb
 canonical: 21011-eric-pedersen-on-the-power-of-active-ownership-battling-the-vung-ang-2-threat.json
 ---

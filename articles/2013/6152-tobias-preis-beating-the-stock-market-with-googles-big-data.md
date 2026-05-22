@@ -1,12 +1,21 @@
 ---
 id: 6152
 title: "Tobias Preis: Beating the Stock Market with Google’s Big Data"
-award_year: 2013
+year: 2013
 published: 2013-12-03 09:37:33
 published_gmt: 2013-12-03 09:37:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2013/12/tobias-preis-beating-the-stock-market-with-googles-big-data/"
 categories: ["North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 66f74ddb8cb6e213e31a37053060a9a22a0a03137a8379c604fcbe55069ba70c
 canonical: 6152-tobias-preis-beating-the-stock-market-with-googles-big-data.json
 ---

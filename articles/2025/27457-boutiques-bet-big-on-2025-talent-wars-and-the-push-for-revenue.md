@@ -1,12 +1,21 @@
 ---
 id: 27457
 title: "Boutiques Bet Big on 2025: Talent Wars and the Push for Revenue"
-award_year: 2025
+year: 2025
 published: 2025-01-07 10:32:09
 published_gmt: 2025-01-07 10:32:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2025/01/boutiques-bet-big-on-2025-talent-wars-and-the-push-for-revenue/"
 categories: ["Banking", "Europe", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ee467b61c6f100699046a236bc8ae62358f29e82c56b06857df698a9eaabf04f
 canonical: 27457-boutiques-bet-big-on-2025-talent-wars-and-the-push-for-revenue.json
 ---

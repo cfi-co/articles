@@ -1,12 +1,21 @@
 ---
 id: 27123
 title: "The Stop Killing Games Campaign: Players Up in Arms About Loss of Online Support for Digital Worlds"
-award_year: 2024
+year: 2024
 published: 2024-09-16 10:57:41
 published_gmt: 2024-09-16 09:57:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2024/09/the-stop-killing-games-campaign-players-up-in-arms-about-loss-of-online-support-for-digital-worlds/"
 categories: ["Innovation &amp; Technology", "North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0cae30d408b68bd0605d3247cdded46c2055b9289d043e9a983738d71d31d8b7
 canonical: 27123-the-stop-killing-games-campaign-players-up-in-arms-about-loss-of-online-support-.json
 ---

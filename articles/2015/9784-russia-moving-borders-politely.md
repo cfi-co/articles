@@ -1,12 +1,21 @@
 ---
 id: 9784
 title: "Russia - Moving Borders Politely"
-award_year: 2015
+year: 2015
 published: 2015-05-27 16:45:18
 published_gmt: 2015-05-27 15:45:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/05/russia-moving-borders-politely/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ac6cc1d9dd933174ec09ffe704e656f8b5eb49f5bef67c2653282302d6d74388
 canonical: 9784-russia-moving-borders-politely.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8045
 title: "Otaviano Canuto, World Bank Group: Liquidity Glut, Infrastructure Finance Drought and Development Banks"
-award_year: 2014
+year: 2014
 published: 2014-09-19 12:09:27
 published_gmt: 2014-09-19 11:09:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/09/liquidity-glut-infrastructure-finance-drought-and-development-banks/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Middle East", "North America", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9a41d59e5c829474ec8a1e0d40ca43f7b7771d42c40d748581249d09d775702f
 canonical: 8045-liquidity-glut-infrastructure-finance-drought-and-development-banks.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 28142
 title: "Sanae Takaichi - Becoming Japan’s First Female Prime Minister"
-award_year: 2025
+year: 2025
 published: 2025-12-08 13:39:34
 published_gmt: 2025-12-08 13:39:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2025/12/sanae-takaichi-becoming-japans-first-female-prime-minister/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9064c1f10aa1252bbd209d191bd652c4114627058714ea91039c34543a641aa1
 canonical: 28142-sanae-takaichi-becoming-japans-first-female-prime-minister.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 5799
 title: "Bullish on Chile: Elections Prompt New Thinking"
-award_year: 2013
+year: 2013
 published: 2013-11-08 09:02:21
 published_gmt: 2013-11-08 09:02:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/11/bullish-on-chile-elections-prompt-new-thinking/"
 categories: ["Finance", "Latin America", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: baebc0a68bf7ccfbd44009e11e89dfdbb3c6672887e48131c9d5e43677a5e242
 canonical: 5799-bullish-on-chile-elections-prompt-new-thinking.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 13987
 title: "Mohamed A El-Erian: America’s Unusual Recovery is  Now Also its Longest"
-award_year: 2019
+year: 2019
 published: 2019-09-03 10:35:59
 published_gmt: 2019-09-03 09:35:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2019/09/mohamed-a-el-erian-americas-unusual-recovery-is-now-also-its-longest/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4aacd3066e53e9fed592961ac79280d5cfe093f0ade807be60e70c20964f41e7
 canonical: 13987-mohamed-a-el-erian-americas-unusual-recovery-is-now-also-its-longest.json
 ---

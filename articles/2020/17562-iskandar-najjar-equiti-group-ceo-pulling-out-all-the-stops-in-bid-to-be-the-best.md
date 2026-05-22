@@ -1,12 +1,21 @@
 ---
 id: 17562
 title: "Iskandar Najjar, Equiti Group CEO - Pulling Out All the Stops in Bid to Be the Best: Equiti Group at the Forefront of Fintech Sector"
-award_year: 2020
+year: 2020
 published: 2020-10-23 15:04:30
 published_gmt: 2020-10-23 14:04:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/10/iskandar-najjar-equiti-group-ceo-pulling-out-all-the-stops-in-bid-to-be-the-best-equiti-group-at-the-forefront-of-fintech-sector/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 529adb79e9e60d5841a94205fb22e7961c01dff6a4f76c92adaff5958d31d219
 canonical: 17562-iskandar-najjar-equiti-group-ceo-pulling-out-all-the-stops-in-bid-to-be-the-best.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 19607
 title: "SPORTFIVE Plays the Game to Win – On Behalf of Its Loyal Customers"
-award_year: 2021
+year: 2021
 published: 2021-05-06 12:34:23
 published_gmt: 2021-05-06 11:34:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/05/sportfive-plays-the-game-to-win-on-behalf-of-its-loyal-customers/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 52fb3c13b2440d2da70cd8287fbbeb0364f3edadf1aeb9bd3b4a5451c68658ce
 canonical: 19607-sportfive-plays-the-game-to-win-on-behalf-of-its-loyal-customers.json
 ---

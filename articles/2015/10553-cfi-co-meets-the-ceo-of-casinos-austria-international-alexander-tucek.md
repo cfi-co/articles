@@ -1,12 +1,21 @@
 ---
 id: 10553
 title: "CFI.co Meets the CEO of Casinos Austria International: Alexander Tucek"
-award_year: 2015
+year: 2015
 published: 2015-08-01 12:44:24
 published_gmt: 2015-08-01 11:44:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2015/08/cfi-co-meets-the-ceo-of-casinos-austria-international-alexander-tucek/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6689430929897ed7049fdfac3843ececec9eedea886b34316b4291174a78e464
 canonical: 10553-cfi-co-meets-the-ceo-of-casinos-austria-international-alexander-tucek.json
 ---

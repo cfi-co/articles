@@ -1,12 +1,21 @@
 ---
 id: 1603
 title: "DESERTEC: Clean Power From Deserts"
-award_year: 2012
+year: 2012
 published: 2012-08-12 18:31:33
 published_gmt: 2012-08-12 17:31:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/08/desertec-clean-power-from-deserts/"
 categories: ["Africa", "Asia Pacific", "Europe", "Oil &amp; Mining", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c48cb4487a1062c543ccc96f39bc3b61c1bdbb411ef78961b12a8706ed0912ce
 canonical: 1603-desertec-clean-power-from-deserts.json
 ---

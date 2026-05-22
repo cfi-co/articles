@@ -1,12 +1,21 @@
 ---
 id: 15919
 title: "Aby Lijtszain: Founded First Company at Age of 20 — and Hasn’t Looked Back"
-award_year: 2020
+year: 2020
 published: 2020-07-01 14:06:19
 published_gmt: 2020-07-01 13:06:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/07/aby-lijtszain-founded-first-company-at-age-of-20-and-hasnt-looked-back/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4ba965719605081fea4fd9d21a60644309e174c8e01c4e71dbf332c72e7f4d9f
 canonical: 15919-aby-lijtszain-founded-first-company-at-age-of-20-and-hasnt-looked-back.json
 ---

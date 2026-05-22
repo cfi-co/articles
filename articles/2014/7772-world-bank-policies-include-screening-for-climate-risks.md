@@ -1,12 +1,21 @@
 ---
 id: 7772
 title: "World Bank Policies Include Screening for Climate Risks"
-award_year: 2014
+year: 2014
 published: 2014-08-07 11:45:57
 published_gmt: 2014-08-07 10:45:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/08/world-bank-policies-include-screening-for-climate-risks/"
 categories: ["Africa", "Asia Pacific", "Europe", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c0f8222c46957c6e6d80842b5cd7f255fb71c081e80d1ce7287a9971fc505cd1
 canonical: 7772-world-bank-policies-include-screening-for-climate-risks.json
 ---

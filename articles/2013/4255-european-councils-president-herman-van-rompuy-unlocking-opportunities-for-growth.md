@@ -1,12 +1,21 @@
 ---
 id: 4255
 title: "European Council’s President, Herman Van Rompuy: Unlocking Opportunities for Growth and Competitiveness"
-award_year: 2013
+year: 2013
 published: 2013-06-04 15:33:46
 published_gmt: 2013-06-04 15:33:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/06/european-councils-president-herman-van-rompuy-unlocking-opportunities-for-growth-and-competitiveness/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2590a398f52d9708186e44feca668914c721439fed2902a47e15b4d0c6d7e97f
 canonical: 4255-european-councils-president-herman-van-rompuy-unlocking-opportunities-for-growth.json
 ---

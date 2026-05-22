@@ -1,12 +1,21 @@
 ---
 id: 2724
 title: "Global Wage Report"
-award_year: 2012
+year: 2012
 published: 2012-12-12 08:00:19
 published_gmt: 2012-12-12 08:00:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2012/12/global-wage-report/"
 categories: ["Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eb55b023fc3b01232e741fe680765120489c949f21ab280164a9d991572553a9
 canonical: 2724-global-wage-report.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8918
 title: "Europe & Greece: The Gathering of the Perfect Storm"
-award_year: 2015
+year: 2015
 published: 2015-02-09 15:15:24
 published_gmt: 2015-02-09 15:15:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/02/europe-greece-the-gathering-of-the-perfect-storm/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 119f550f410a456f248c180df1cbceec274bbea07860aa87196809d95cf175bc
 canonical: 8918-europe-greece-the-gathering-of-the-perfect-storm.json
 ---

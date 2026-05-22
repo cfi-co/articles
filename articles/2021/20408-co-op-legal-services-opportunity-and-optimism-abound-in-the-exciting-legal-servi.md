@@ -1,12 +1,21 @@
 ---
 id: 20408
 title: "Co-op Legal Services: Opportunity and Optimism Abound in the Exciting Legal Services Sector"
-award_year: 2021
+year: 2021
 published: 2021-08-12 16:39:48
 published_gmt: 2021-08-12 15:39:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/co-op-legal-services-opportunity-and-optimism-abound-in-the-exciting-legal-services-sector/"
 categories: ["Corporate", "Governance &amp; Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 90b94664dd44cb17da83c33e70fee0a92b4c4cee0c86934e9b2a846a910455b2
 canonical: 20408-co-op-legal-services-opportunity-and-optimism-abound-in-the-exciting-legal-servi.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 13440
 title: "AIM Startup 2019 Unveils Summit Agenda"
-award_year: 2019
+year: 2019
 published: 2019-02-20 14:44:47
 published_gmt: 2019-02-20 14:44:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2019/02/aim-startup-2019-unveils-summit-agenda/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 05a91cc4760d4dfde9ccedf8cdfb1001e14f9daf555cb980b3bd44c79e0d7f29
 canonical: 13440-aim-startup-2019-unveils-summit-agenda.json
 ---

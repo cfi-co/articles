@@ -1,12 +1,21 @@
 ---
 id: 13367
 title: "Alexandria Ocasio-Cortez: Young Congresswoman Refuses to Play Nice"
-award_year: 2019
+year: 2019
 published: 2019-02-04 13:34:59
 published_gmt: 2019-02-04 13:34:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2019/02/alexandria-ocasio-cortez-young-congresswoman-refuses-to-play-nice/"
 categories: ["Heroes", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1bca19fd5cd06ad4cdda286c33be933307f44025d5ce4de963afcf7be4143048
 canonical: 13367-alexandria-ocasio-cortez-young-congresswoman-refuses-to-play-nice.json
 ---

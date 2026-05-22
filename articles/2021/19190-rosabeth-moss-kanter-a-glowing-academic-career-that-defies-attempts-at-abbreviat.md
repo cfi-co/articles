@@ -1,12 +1,21 @@
 ---
 id: 19190
 title: "Rosabeth Moss Kanter: A Glowing Academic Career that Defies Attempts at Abbreviation"
-award_year: 2021
+year: 2021
 published: 2021-03-18 08:36:37
 published_gmt: 2021-03-18 08:36:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/heroes/2021/03/rosabeth-moss-kanter-a-glowing-academic-career-that-defies-attempts-at-abbreviation/"
 categories: ["Heroes", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ff8fc8a71700ce3740dd857a52a54f4604493cb3a4fc40ded5ea8e64f3e024bf
 canonical: 19190-rosabeth-moss-kanter-a-glowing-academic-career-that-defies-attempts-at-abbreviat.json
 ---

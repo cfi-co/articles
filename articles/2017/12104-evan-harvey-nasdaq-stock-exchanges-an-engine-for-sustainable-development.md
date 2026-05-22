@@ -1,12 +1,21 @@
 ---
 id: 12104
 title: "Evan Harvey, Nasdaq: Stock Exchanges - An Engine for Sustainable Development"
-award_year: 2017
+year: 2017
 published: 2017-10-25 12:55:49
 published_gmt: 2017-10-25 11:55:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2017/10/evan-harvey-nasdaq-stock-exchanges-an-engine-for-sustainable-development/"
 categories: ["CSR", "Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bce2ac0f7fee62760ffc87b50606ac32993add6b84d176804f17f32b84440430
 canonical: 12104-evan-harvey-nasdaq-stock-exchanges-an-engine-for-sustainable-development.json
 ---

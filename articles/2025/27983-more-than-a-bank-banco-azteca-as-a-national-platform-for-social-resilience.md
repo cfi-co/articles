@@ -1,12 +1,21 @@
 ---
 id: 27983
 title: "More Than a Bank: Banco Azteca as a National Platform for Social Resilience"
-award_year: 2025
+year: 2025
 published: 2025-10-13 19:02:13
 published_gmt: 2025-10-13 18:02:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2025/10/more-than-a-bank-banco-azteca-as-a-national-platform-for-social-resilience/"
 categories: ["Banking", "Banking &amp; Finance", "CSR", "Corporate", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 591cdec85ff7a0bd0c4682bc21042e4525f6cc554820fff8f387bfecda19abd4
 canonical: 27983-more-than-a-bank-banco-azteca-as-a-national-platform-for-social-resilience.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 9162
 title: "King Abdullah II: An Insistent Appeal to Moderation and Reason"
-award_year: 2015
+year: 2015
 published: 2015-02-27 17:11:52
 published_gmt: 2015-02-27 17:11:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2015/02/king-abdullah-ii-an-insistent-appeal-to-moderation-and-reason/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d132f513f82c37f25719642ae001f486d106bd48238fa0e108d571af33ea0d45
 canonical: 9162-king-abdullah-ii-an-insistent-appeal-to-moderation-and-reason.json
 ---

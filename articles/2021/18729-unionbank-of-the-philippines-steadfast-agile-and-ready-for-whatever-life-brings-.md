@@ -1,12 +1,21 @@
 ---
 id: 18729
 title: "UnionBank of the Philippines: Steadfast, Agile and Ready for Whatever Life Brings - a Bank Behind its People"
-award_year: 2021
+year: 2021
 published: 2021-02-10 11:54:18
 published_gmt: 2021-02-10 11:54:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/unionbank-of-the-philippines-steadfast-agile-and-ready-for-whatever-life-brings-a-bank-behind-its-people/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 698469bc0c551fd731028eba0f9f2403df18044d78a0d76d48bb83334aff2bff
 canonical: 18729-unionbank-of-the-philippines-steadfast-agile-and-ready-for-whatever-life-brings-.json
 ---

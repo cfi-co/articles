@@ -1,12 +1,21 @@
 ---
 id: 26132
 title: "The View From Belgium: Top Banker Pleads for Caution"
-award_year: 2023
+year: 2023
 published: 2023-10-08 17:28:50
 published_gmt: 2023-10-08 16:28:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2023/10/the-view-from-belgium-top-banker-pleads-for-caution/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b75b6b371164e107cac82485b47d98735ff6bd4e05033414d7940f8b9118aa19
 canonical: 26132-the-view-from-belgium-top-banker-pleads-for-caution.json
 ---

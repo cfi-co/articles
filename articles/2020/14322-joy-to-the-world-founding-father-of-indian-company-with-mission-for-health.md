@@ -1,12 +1,21 @@
 ---
 id: 14322
 title: "Joy to the World — Founding Father of Indian Company with Mission for Health"
-award_year: 2020
+year: 2020
 published: 2020-01-01 10:41:59
 published_gmt: 2020-01-01 10:41:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2020/01/joy-to-the-world-founding-father-of-indian-company-with-mission-for-health/"
 categories: ["Asia Pacific", "Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4bc61c95c465de65047f5dd9e1451dd79e5ad14fb151dc4efc3a5f824b8925b5
 canonical: 14322-joy-to-the-world-founding-father-of-indian-company-with-mission-for-health.json
 ---

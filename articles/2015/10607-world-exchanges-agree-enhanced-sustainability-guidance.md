@@ -1,12 +1,21 @@
 ---
 id: 10607
 title: "World Exchanges Agree Enhanced Sustainability Guidance"
-award_year: 2015
+year: 2015
 published: 2015-11-04 11:42:07
 published_gmt: 2015-11-04 11:42:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2015/11/world-exchanges-agree-enhanced-sustainability-guidance/"
 categories: ["Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eba2cd50e9257721ac344956fff747d9f43f170893853ed052a2eb2f4559dd4c
 canonical: 10607-world-exchanges-agree-enhanced-sustainability-guidance.json
 ---

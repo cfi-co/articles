@@ -1,12 +1,21 @@
 ---
 id: 20371
 title: "Vector Group’s Solid History and Sound Strategies Stand It in Good Stead Across Decades and Sectors"
-award_year: 2021
+year: 2021
 published: 2021-08-12 14:25:48
 published_gmt: 2021-08-12 13:25:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/vector-groups-solid-history-and-sound-strategies-stand-it-in-good-stead-across-decades-and-sectors/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d56ae50d23a8991d2918bceb7b729a80b16efd54f03153c37f4bb3bbc7761a0d
 canonical: 20371-vector-groups-solid-history-and-sound-strategies-stand-it-in-good-stead-across-d.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 28000
 title: "The Unseen Shift: How Creeping Normality Rewrites Our World"
-award_year: 2025
+year: 2025
 published: 2025-10-21 12:57:25
 published_gmt: 2025-10-21 11:57:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2025/10/the-unseen-shift-how-creeping-normality-rewrites-our-world/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f1a6803c04a212a7b53cadff44c4d9b46bc6a1e02ad584bfaee77210ed04584f
 canonical: 28000-the-unseen-shift-how-creeping-normality-rewrites-our-world.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 3864
 title: "Koofi and the Changing Face of Afghanistan"
-award_year: 2013
+year: 2013
 published: 2013-05-08 09:21:20
 published_gmt: 2013-05-08 08:21:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/05/koofi-and-the-changing-face-of-afghanistan/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 236b1c1205c9ddf179ef14d6a30ea50b659da0ad952bf13b3f8f141ff79771f9
 canonical: 3864-koofi-and-the-changing-face-of-afghanistan.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 3603
 title: "IDB Approves US$ 617 Million in Development Funding"
-award_year: 2013
+year: 2013
 published: 2013-04-09 09:03:26
 published_gmt: 2013-04-09 08:03:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/04/idb-approves-us-617-million-in-development-funding/"
 categories: ["Finance", "Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7e4d9295cb0938a5530a6f7ac6256f574600126e187ee98cbc1baaf1cae26be5
 canonical: 3603-idb-approves-us-617-million-in-development-funding.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 14080
 title: "Ghana Get You: African Nation’s IT Experts are Filling the Skills Gap"
-award_year: 2019
+year: 2019
 published: 2019-10-02 15:16:24
 published_gmt: 2019-10-02 14:16:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2019/10/ghana-get-you-african-nations-it-experts-are-filling-the-skills-gap/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dca4fe58d63f72ae10c7cd2a548c4dd41bce3fbde8ded64331dbf3002d391287
 canonical: 14080-ghana-get-you-african-nations-it-experts-are-filling-the-skills-gap.json
 ---

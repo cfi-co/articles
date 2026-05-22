@@ -1,12 +1,21 @@
 ---
 id: 12319
 title: "CFI.co Meets the CEO of Fidelis Finance: Abdoulaye Kouafilann Sory"
-award_year: 2018
+year: 2018
 published: 2018-05-30 10:16:13
 published_gmt: 2018-05-30 09:16:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/05/cfi-co-meets-the-ceo-of-fidelis-finance-abdoulaye-kouafilann-sory/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cd5ba9e90018ef1496ed7c0fa6c9d791c865c4efc277e3d3bdfef80eb27046ab
 canonical: 12319-cfi-co-meets-the-ceo-of-fidelis-finance-abdoulaye-kouafilann-sory.json
 ---

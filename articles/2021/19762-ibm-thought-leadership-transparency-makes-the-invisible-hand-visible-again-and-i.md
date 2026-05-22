@@ -1,12 +1,21 @@
 ---
 id: 19762
 title: "IBM Thought Leadership: Transparency Makes the Invisible Hand Visible Again, And Inclusive"
-award_year: 2021
+year: 2021
 published: 2021-06-07 18:52:59
 published_gmt: 2021-06-07 17:52:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2021/06/ibm-thought-leadership-transparency-makes-the-invisible-hand-visible-again-and-inclusive/"
 categories: ["Banking", "Finance", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b9dde7e40309afece7ffe6601510551319f95531c12f6ed70feaa91ab313234d
 canonical: 19762-ibm-thought-leadership-transparency-makes-the-invisible-hand-visible-again-and-i.json
 ---

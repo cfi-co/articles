@@ -1,12 +1,21 @@
 ---
 id: 17603
 title: "Metito: Group with a Grasp of Synergy and Solidity"
-award_year: 2020
+year: 2020
 published: 2020-10-26 15:24:40
 published_gmt: 2020-10-26 15:24:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2020/10/mutaz-ghandour-ceo-metito-group-a-grasp-of-synergy-and-solidity/"
 categories: ["Corporate", "Corporate Leaders", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c1201279c780b0502309b17b45ffcaa02c1e557943ed303c8a5ca2d9a1500680
 canonical: 17603-mutaz-ghandour-ceo-metito-group-a-grasp-of-synergy-and-solidity.json
 ---

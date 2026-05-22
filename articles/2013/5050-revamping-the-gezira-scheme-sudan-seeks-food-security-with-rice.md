@@ -1,12 +1,21 @@
 ---
 id: 5050
 title: "Revamping the Gezira Scheme: Sudan Seeks Food Security with Rice"
-award_year: 2013
+year: 2013
 published: 2013-08-20 11:13:11
 published_gmt: 2013-08-20 10:13:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/08/revamping-the-gezira-scheme-sudan-seeks-food-security-with-rice/"
 categories: ["Africa", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 72b831280c6b7800706aba315f6edafc8a8ad4decb64062c374d4178d711366c
 canonical: 5050-revamping-the-gezira-scheme-sudan-seeks-food-security-with-rice.json
 ---

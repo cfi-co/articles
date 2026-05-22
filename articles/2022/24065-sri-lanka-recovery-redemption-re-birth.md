@@ -1,12 +1,21 @@
 ---
 id: 24065
 title: "Sri Lanka: Recovery, Redemption & Re-Birth"
-award_year: 2022
+year: 2022
 published: 2022-11-23 07:30:14
 published_gmt: 2022-11-23 07:30:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2022/11/sri-lanka-recovery-redemption-re-birth/"
 categories: ["Asia Pacific", "Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d8103f1dbf9ea527abec0ba4fd6d7b55a8bdbb1d5aa21d2320da8248fee42c49
 canonical: 24065-sri-lanka-recovery-redemption-re-birth.json
 ---

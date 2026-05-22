@@ -1,12 +1,21 @@
 ---
 id: 28265
 title: "The Pivot: Unlocking the Central African Republic’s Substantial Resource Frontier"
-award_year: 2026
+year: 2026
 published: 2026-02-13 10:29:50
 published_gmt: 2026-02-13 10:29:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2026/02/the-pivot-unlocking-the-central-african-republics-substantial-resource-frontier/"
 categories: ["Africa", "Oil &amp; Mining", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 95020fe0fa15086595ca9b27c4fa7564248b07434fba6723ae41f1d0e9a244d5
 canonical: 28265-the-pivot-unlocking-the-central-african-republics-substantial-resource-frontier.json
 ---

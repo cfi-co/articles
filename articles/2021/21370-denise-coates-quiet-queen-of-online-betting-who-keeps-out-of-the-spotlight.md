@@ -1,12 +1,21 @@
 ---
 id: 21370
 title: "Denise Coates Earns More Than Elon Musk, Would You Believe?"
-award_year: 2021
+year: 2021
 published: 2021-12-17 05:16:08
 published_gmt: 2021-12-17 05:16:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2021/12/denise-coates-quiet-queen-of-online-betting-who-keeps-out-of-the-spotlight/"
 categories: ["Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7089a22439dbdf57dbf84c970ce7ce08bab483079b923e513d7af425fa25d9dd
 canonical: 21370-denise-coates-quiet-queen-of-online-betting-who-keeps-out-of-the-spotlight.json
 ---

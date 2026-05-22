@@ -1,12 +1,21 @@
 ---
 id: 8314
 title: "Nigerian Stock Exchange Becomes a Full Member of World Federation of Exchanges"
-award_year: 2014
+year: 2014
 published: 2014-10-29 12:38:48
 published_gmt: 2014-10-29 12:38:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/10/nigerian-stock-exchange-becomes-a-full-member-of-world-federation-of-exchanges/"
 categories: ["Africa", "Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fb4d57d04c096179c487b4e598df253b6ab82d3c61f19967f6a28ce85db89d0f
 canonical: 8314-nigerian-stock-exchange-becomes-a-full-member-of-world-federation-of-exchanges.json
 ---

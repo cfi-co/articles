@@ -1,12 +1,21 @@
 ---
 id: 12490
 title: "Even Crypto Bulls Expect a Big Shake Out This Year: 'The market right now is just everyone wants a Lamborghini'"
-award_year: 2018
+year: 2018
 published: 2018-05-15 14:05:19
 published_gmt: 2018-05-15 13:05:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2018/05/even-crypto-bulls-expect-a-big-shake-out-this-year-the-market-right-now-is-just-everyone-wants-a-lamborghini/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cd1ce556bc4549b7880734973185dc740c30bd64576b18010e653df53905bbc6
 canonical: 12490-even-crypto-bulls-expect-a-big-shake-out-this-year-the-market-right-now-is-just-.json
 ---

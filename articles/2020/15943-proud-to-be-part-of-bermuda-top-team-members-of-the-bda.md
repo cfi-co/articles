@@ -1,12 +1,21 @@
 ---
 id: 15943
 title: "Proud to be Part of Bermuda: Top Team Members of the BDA"
-award_year: 2020
+year: 2020
 published: 2020-07-01 14:50:25
 published_gmt: 2020-07-01 13:50:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/07/proud-to-be-part-of-bermuda-top-team-members-of-the-bda/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fa3d8d3e1a03eac72271f637976cc5b9cd4e31c2db34f409a0eb12f12c17f169
 canonical: 15943-proud-to-be-part-of-bermuda-top-team-members-of-the-bda.json
 ---

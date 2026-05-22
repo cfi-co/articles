@@ -1,12 +1,21 @@
 ---
 id: 11892
 title: "CFI.co Meets the President and CEO of RCBC: Gil A Buenaventura"
-award_year: 2017
+year: 2017
 published: 2017-09-12 10:53:23
 published_gmt: 2017-09-12 09:53:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-president-and-ceo-of-rcbc-gil-a-buenaventura/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6f963c83ee34f7d70716a18d06e8fa90c3b4b73faf7e5cdcfdc99e3e607fcb06
 canonical: 11892-cfi-co-meets-the-president-and-ceo-of-rcbc-gil-a-buenaventura.json
 ---

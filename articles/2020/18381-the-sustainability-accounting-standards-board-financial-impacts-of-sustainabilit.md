@@ -1,12 +1,21 @@
 ---
 id: 18381
 title: "The Sustainability Accounting Standards Board: Financial Impacts of Sustainability - Connecting Businesses and Investors"
-award_year: 2020
+year: 2020
 published: 2020-12-22 22:53:44
 published_gmt: 2020-12-22 22:53:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/12/the-sustainability-accounting-standards-board-financial-impacts-of-sustainability-connecting-businesses-and-investors/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 39f9e49c07c1e2d159873fcf3bfd23ea42c2dc72255cfe3f38a70705b6bec225
 canonical: 18381-the-sustainability-accounting-standards-board-financial-impacts-of-sustainabilit.json
 ---

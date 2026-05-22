@@ -1,12 +1,21 @@
 ---
 id: 21913
 title: "Head of International Banking at Bank One Carl Chirwa: Banking the Future in a Post-Covid-19 World"
-award_year: 2022
+year: 2022
 published: 2022-05-18 06:20:24
 published_gmt: 2022-05-18 05:20:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/head-of-international-banking-at-bank-one-carl-chirwa-banking-the-future-in-a-post-covid-19-world/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3ff91b05141df009b0462d3ef8d3120bf5c6db19c38299d8510b121623a95c7e
 canonical: 21913-head-of-international-banking-at-bank-one-carl-chirwa-banking-the-future-in-a-po.json
 ---

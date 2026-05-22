@@ -1,12 +1,21 @@
 ---
 id: 15556
 title: "Argentina Looks Good, Brazil Not So Much"
-award_year: 2020
+year: 2020
 published: 2020-06-04 12:56:20
 published_gmt: 2020-06-04 11:56:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/06/argentina-defaults-but-looks-good-brazil-not-so-much/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8dc437b0a6787a8c2dadd6ac47fb8e3184eb7875fef3fa01833e3ac052277ab0
 canonical: 15556-argentina-defaults-but-looks-good-brazil-not-so-much.json
 ---

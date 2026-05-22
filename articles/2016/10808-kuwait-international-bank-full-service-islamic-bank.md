@@ -1,12 +1,21 @@
 ---
 id: 10808
 title: "Kuwait International Bank (KIB): Full Service Islamic Bank"
-award_year: 2016
+year: 2016
 published: 2016-01-18 16:53:35
 published_gmt: 2016-01-18 16:53:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2016/01/kuwait-international-bank-full-service-islamic-bank/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fc21b0d91938a9baba4fd0226297752c6a12df2e446182f8d99aee12e211428b
 canonical: 10808-kuwait-international-bank-full-service-islamic-bank.json
 ---

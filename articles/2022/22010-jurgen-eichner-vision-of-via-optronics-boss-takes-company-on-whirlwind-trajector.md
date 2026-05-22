@@ -1,12 +1,21 @@
 ---
 id: 22010
 title: "Jürgen Eichner: Vision of VIA optronics Boss Takes Company on Whirlwind Trajectory"
-award_year: 2022
+year: 2022
 published: 2022-05-19 12:44:41
 published_gmt: 2022-05-19 11:44:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/jurgen-eichner-vision-of-via-optronics-boss-takes-company-on-whirlwind-trajectory/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ab0ec7d2604b307e0a49d76e5c54091f66b84da9f26bf1e92fc49c9695414b48
 canonical: 22010-jurgen-eichner-vision-of-via-optronics-boss-takes-company-on-whirlwind-trajector.json
 ---

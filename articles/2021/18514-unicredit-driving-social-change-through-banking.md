@@ -1,12 +1,21 @@
 ---
 id: 18514
 title: "UniCredit: Driving Social Change Through Banking"
-award_year: 2021
+year: 2021
 published: 2021-01-26 18:04:52
 published_gmt: 2021-01-26 18:04:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/01/unicredit-driving-social-change-through-banking/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f3efe830edc044ac273e5b850ba779a24e8774e8a0b3b0c8f0b154a269417e64
 canonical: 18514-unicredit-driving-social-change-through-banking.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 13995
 title: "Malpass Shows Pragmatism and Relevant Smarts in his New Role"
-award_year: 2019
+year: 2019
 published: 2019-09-11 08:53:02
 published_gmt: 2019-09-11 07:53:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2019/09/malpass-shows-pragmatism-and-relevant-smarts-in-his-new-role/"
 categories: ["Banking", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aa8b35bfb1c8dfaf9fd9fd24d2f880b60258609de1ee684f182c610f18e8d58e
 canonical: 13995-malpass-shows-pragmatism-and-relevant-smarts-in-his-new-role.json
 ---

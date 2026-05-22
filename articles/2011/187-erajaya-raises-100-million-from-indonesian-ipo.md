@@ -1,12 +1,21 @@
 ---
 id: 187
 title: "Erajaya Raises $100 Million From Indonesian IPO"
-award_year: 2011
+year: 2011
 published: 2011-12-06 17:18:24
 published_gmt: 2011-12-06 17:18:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2011/12/erajaya-raises-100-million-from-indonesian-ipo/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 81c5af000b20ed58b6966c482094011cd94b0be6c68b4a66de831c0dec2d0bbf
 canonical: 187-erajaya-raises-100-million-from-indonesian-ipo.json
 ---

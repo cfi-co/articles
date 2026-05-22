@@ -1,12 +1,21 @@
 ---
 id: 4894
 title: "Sheri McCoy: The Avon Lady"
-award_year: 2013
+year: 2013
 published: 2013-08-06 09:01:49
 published_gmt: 2013-08-06 08:01:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2013/08/sheri-mccoy-the-avon-lady/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 73dbae555de644c4775da6ae03284a368de37de49c7538c32905d90caf544c65
 canonical: 4894-sheri-mccoy-the-avon-lady.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 7482
 title: "India in a Strong Position to Tap Global Growth"
-award_year: 2014
+year: 2014
 published: 2014-06-20 12:34:00
 published_gmt: 2014-06-20 11:34:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/06/india-in-a-strong-position-to-tap-global-growth/"
 categories: ["Asia Pacific", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7a9393a04d0df0ba35df56e99f154d56341ab48374f1695baa041bbe99392082
 canonical: 7482-india-in-a-strong-position-to-tap-global-growth.json
 ---

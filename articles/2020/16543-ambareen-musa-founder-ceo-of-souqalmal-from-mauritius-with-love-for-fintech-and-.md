@@ -1,12 +1,21 @@
 ---
 id: 16543
 title: "Ambareen Musa, Founder & CEO of Souqalmal: From Mauritius with Love for Fintech, and lots of Ambition"
-award_year: 2020
+year: 2020
 published: 2020-08-11 14:47:46
 published_gmt: 2020-08-11 13:47:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2020/08/ambareen-musa-founder-ceo-of-souqalmal-from-mauritius-with-love-for-fintech-and-lots-of-ambition/"
 categories: ["Africa", "Start-Ups"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b5344403a3c3cdef0b4b23fed91882210b5da9cdbde3b1dda5e7d4e236857ace
 canonical: 16543-ambareen-musa-founder-ceo-of-souqalmal-from-mauritius-with-love-for-fintech-and-.json
 ---

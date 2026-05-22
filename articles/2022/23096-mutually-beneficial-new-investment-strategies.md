@@ -1,12 +1,21 @@
 ---
 id: 23096
 title: "Mutually Beneficial New Investment Strategies"
-award_year: 2022
+year: 2022
 published: 2022-08-23 08:12:09
 published_gmt: 2022-08-23 07:12:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/08/mutually-beneficial-new-investment-strategies/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a2b4ce9d6b1c5ebe564ee91c7a65e43badac38f3a1dccc9011f8fe12affecf40
 canonical: 23096-mutually-beneficial-new-investment-strategies.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21005
 title: "Arthur Huang: ‘We Take a lot of Risks — That’s How we Grow’"
-award_year: 2021
+year: 2021
 published: 2021-11-09 14:49:31
 published_gmt: 2021-11-09 14:49:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/heroes/2021/11/arthur-huang-we-take-a-lot-of-risks-thats-how-we-grow/"
 categories: ["Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b1d8ea2ac68f1ce88754c1961df0c4efdf1478e30f566018046760ce747cdf7c
 canonical: 21005-arthur-huang-we-take-a-lot-of-risks-thats-how-we-grow.json
 ---

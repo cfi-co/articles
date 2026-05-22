@@ -1,12 +1,21 @@
 ---
 id: 23523
 title: "VR Headsets, Cyborgs and Legal Wrangles: Welcome to the Virtual Music World"
-award_year: 2022
+year: 2022
 published: 2022-09-26 08:30:50
 published_gmt: 2022-09-26 07:30:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2022/09/vr-headsets-cyborgs-and-legal-wrangles-welcome-to-the-virtual-music-world/"
 categories: ["Lifestyle", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 79c0797ed4fc93f22bea45cc6131c69a80c5e8ad4346ebcc4721fd691ca88e4a
 canonical: 23523-vr-headsets-cyborgs-and-legal-wrangles-welcome-to-the-virtual-music-world.json
 ---

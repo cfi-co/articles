@@ -1,12 +1,21 @@
 ---
 id: 21441
 title: "Taiwan’s Chunghwa Telecom Takes Private 5G Tech to the Next Level"
-award_year: 2022
+year: 2022
 published: 2022-01-09 14:35:08
 published_gmt: 2022-01-09 14:35:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2022/01/taiwans-chunghwa-telecom-takes-private-5g-tech-to-the-next-level/"
 categories: ["Asia Pacific", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 814a80da157a3cd9635f310f44ef61b10cae58631f8a4a96692156609c901db7
 canonical: 21441-taiwans-chunghwa-telecom-takes-private-5g-tech-to-the-next-level.json
 ---

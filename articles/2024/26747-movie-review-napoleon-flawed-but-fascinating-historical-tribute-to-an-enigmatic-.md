@@ -1,12 +1,21 @@
 ---
 id: 26747
 title: "Movie Review - Napoleon: Flawed but Fascinating Historical Tribute to an Enigmatic Emperor"
-award_year: 2024
+year: 2024
 published: 2024-04-02 12:56:25
 published_gmt: 2024-04-02 11:56:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2024/04/movie-review-napoleon-flawed-but-fascinating-historical-tribute-to-an-enigmatic-emperor/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 53a54805e79ed1d2134d7196defa32ace54dbae46eb7352bcb2846a828aa1348
 canonical: 26747-movie-review-napoleon-flawed-but-fascinating-historical-tribute-to-an-enigmatic-.json
 ---

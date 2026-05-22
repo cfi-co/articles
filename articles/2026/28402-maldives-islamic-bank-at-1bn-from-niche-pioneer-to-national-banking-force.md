@@ -1,12 +1,21 @@
 ---
 id: 28402
 title: "Maldives Islamic Bank at $1bn: From Niche Pioneer to National Banking Force"
-award_year: 2026
+year: 2026
 published: 2026-04-22 11:39:46
 published_gmt: 2026-04-22 10:39:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2026/04/maldives-islamic-bank-at-1bn-from-niche-pioneer-to-national-banking-force/"
 categories: ["Asia Pacific", "Banking", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 92929722b6bfe8e5480f591c6ad104d866a1dcff753868bcf84faa8049c0c416
 canonical: 28402-maldives-islamic-bank-at-1bn-from-niche-pioneer-to-national-banking-force.json
 ---

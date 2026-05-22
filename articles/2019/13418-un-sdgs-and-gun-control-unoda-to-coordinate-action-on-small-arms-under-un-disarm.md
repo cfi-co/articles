@@ -1,12 +1,21 @@
 ---
 id: 13418
 title: "UN SDGs and Gun Control: UNODA to Coordinate Action on Small Arms Under UN Disarmament Agenda"
-award_year: 2019
+year: 2019
 published: 2019-02-04 16:25:24
 published_gmt: 2019-02-04 16:25:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2019/02/un-sdgs-and-gun-control-unoda-to-coordinate-action-on-small-arms-under-un-disarmament-agenda/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: abd593988f5257c2416343f60d35096eef8369d123abf16eefdefc65e7dfc8e7
 canonical: 13418-un-sdgs-and-gun-control-unoda-to-coordinate-action-on-small-arms-under-un-disarm.json
 ---

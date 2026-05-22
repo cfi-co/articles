@@ -1,12 +1,21 @@
 ---
 id: 25019
 title: "Daniel Lubetzky, Aiming High and Digging Deep to Engender a More Peaceful World"
-award_year: 2023
+year: 2023
 published: 2023-03-22 15:10:56
 published_gmt: 2023-03-22 15:10:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/03/daniel-lubetzky-kind-founder/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d74fa85890a9735d35db5c50488613066fef78e54cd1e3c4b816b4cf7363aca4
 canonical: 25019-daniel-lubetzky-kind-founder.json
 ---

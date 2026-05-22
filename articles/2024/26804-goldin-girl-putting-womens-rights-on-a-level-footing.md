@@ -1,12 +1,21 @@
 ---
 id: 26804
 title: "Goldin Girl: Putting Women’s Rights on a Level Footing"
-award_year: 2024
+year: 2024
 published: 2024-05-16 13:57:53
 published_gmt: 2024-05-16 12:57:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/heroes/2024/05/goldin-girl-putting-womens-rights-on-a-level-footing/"
 categories: ["Heroes", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f6c192e7d319b4edc11226b60b8fc3cf2f5727e47d9ebe21c7f64b84b803b4da
 canonical: 26804-goldin-girl-putting-womens-rights-on-a-level-footing.json
 ---

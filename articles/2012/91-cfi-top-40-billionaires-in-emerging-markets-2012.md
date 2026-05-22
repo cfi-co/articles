@@ -1,12 +1,21 @@
 ---
 id: 91
 title: "CFI Top 40 Billionaires in Emerging Markets 2012"
-award_year: 2012
+year: 2012
 published: 2012-02-28 13:11:17
 published_gmt: 2012-02-28 13:11:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/02/cfi-top-40-billionaires-in-emerging-markets-2012/"
 categories: ["Africa", "Asia Pacific", "Latin America", "Lifestyle", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e9b1c1dd80168e72a9f932bcc5062999dd17ebec79ba8355c430ac14cdcba1e5
 canonical: 91-cfi-top-40-billionaires-in-emerging-markets-2012.json
 ---

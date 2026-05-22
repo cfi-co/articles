@@ -1,12 +1,21 @@
 ---
 id: 19926
 title: "BBVA Asset Management: Going Global in the Battle to Bring Sustainability to the Wider World of Investment"
-award_year: 2021
+year: 2021
 published: 2021-07-12 15:44:35
 published_gmt: 2021-07-12 14:44:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/bbva-asset-management-going-global-in-the-battle-to-bring-sustainability-to-the-wider-world-of-investment/"
 categories: ["Corporate", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 446fada51acb2f562c0c3550d31e5662bb6d31f33f7585b56774ad1cb5d73348
 canonical: 19926-bbva-asset-management-going-global-in-the-battle-to-bring-sustainability-to-the-.json
 ---

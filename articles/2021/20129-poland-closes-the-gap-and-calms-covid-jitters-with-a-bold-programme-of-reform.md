@@ -1,12 +1,21 @@
 ---
 id: 20129
 title: "Poland Closes the Gap and Calms Covid Jitters with a Bold Programme of Reform"
-award_year: 2021
+year: 2021
 published: 2021-07-08 15:36:30
 published_gmt: 2021-07-08 14:36:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/07/poland-closes-the-gap-and-calms-covid-jitters-with-a-bold-programme-of-reform/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f705ed500bc02aadd637de3a7732a3548cf9f8154d60e46a12386aef8012480d
 canonical: 20129-poland-closes-the-gap-and-calms-covid-jitters-with-a-bold-programme-of-reform.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8605
 title: "World Bank Approves Financing for Nepal Grid Solar and Energy Efficiency Project"
-award_year: 2014
+year: 2014
 published: 2014-12-31 09:00:27
 published_gmt: 2014-12-31 09:00:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/12/world-bank-approves-financing-for-nepal-grid-solar-and-energy-efficiency-project/"
 categories: ["Asia Pacific", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 94c5380519235ce281d36dd8a0bd555ae1723bc577a9b9af41a210a41faaf57f
 canonical: 8605-world-bank-approves-financing-for-nepal-grid-solar-and-energy-efficiency-project.json
 ---

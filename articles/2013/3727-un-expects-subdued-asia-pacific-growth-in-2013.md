@@ -1,12 +1,21 @@
 ---
 id: 3727
 title: "UN Expects Subdued Asia-Pacific Growth in 2013"
-award_year: 2013
+year: 2013
 published: 2013-04-24 09:53:43
 published_gmt: 2013-04-24 08:53:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/04/un-expects-subdued-asia-pacific-growth-in-2013/"
 categories: ["Asia Pacific", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 11fff1dd5989c7e0fe328e3eba7d9fae0a9e4a2e5fb1d0156e5cf4fd67843584
 canonical: 3727-un-expects-subdued-asia-pacific-growth-in-2013.json
 ---

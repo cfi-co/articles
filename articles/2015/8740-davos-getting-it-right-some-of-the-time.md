@@ -1,12 +1,21 @@
 ---
 id: 8740
 title: "Davos: Getting It Right Some of the Time"
-award_year: 2015
+year: 2015
 published: 2015-01-19 15:00:02
 published_gmt: 2015-01-19 15:00:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/01/davos-getting-it-right-some-of-the-time/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 563f2ae0bd71e288ff2dfb5c225c5fea7ed8c6d68fb4ba19a0d4a038b0044e9e
 canonical: 8740-davos-getting-it-right-some-of-the-time.json
 ---

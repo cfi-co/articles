@@ -1,12 +1,21 @@
 ---
 id: 21624
 title: "Change, Challenge, Autonomy and Teamwork: Secrets of SENER Group's Andrés Sendagorta"
-award_year: 2022
+year: 2022
 published: 2022-03-09 08:48:49
 published_gmt: 2022-03-09 08:48:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/03/change-challenge-autonomy-and-teamwork-secrets-of-sener-groups-andres-sendagorta/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c2d60932af6840af6984056cd5bbafc9aad2c2292955cd37eb05bab3402adcda
 canonical: 21624-change-challenge-autonomy-and-teamwork-secrets-of-sener-groups-andres-sendagorta.json
 ---

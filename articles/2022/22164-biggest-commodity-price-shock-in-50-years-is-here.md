@@ -1,12 +1,21 @@
 ---
 id: 22164
 title: "Biggest Commodity Price Shock in 50 Years is Here"
-award_year: 2022
+year: 2022
 published: 2022-06-01 06:27:47
 published_gmt: 2022-06-01 05:27:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/markets/2022/06/biggest-commodity-price-shock-in-50-years-is-here/"
 categories: ["Finance", "Markets", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bb433d66f405bb0bba8834a55d38df44a0324a6ec1c5d1cf76ca79a9365861d8
 canonical: 22164-biggest-commodity-price-shock-in-50-years-is-here.json
 ---

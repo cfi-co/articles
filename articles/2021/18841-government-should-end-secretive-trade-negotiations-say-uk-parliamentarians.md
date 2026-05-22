@@ -1,12 +1,21 @@
 ---
 id: 18841
 title: "Government Should End Secretive Trade Negotiations, say UK Parliamentarians"
-award_year: 2021
+year: 2021
 published: 2021-02-24 10:17:45
 published_gmt: 2021-02-24 10:17:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2021/02/government-should-end-secretive-trade-negotiations-say-uk-parliamentarians/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d36a000938ca2aa83fb9432d1eb05c91304ae0091654b7bfb5afb6b5ac81812a
 canonical: 18841-government-should-end-secretive-trade-negotiations-say-uk-parliamentarians.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8158
 title: "Angela Merkel: Managing Europe’s Manifest Destiny"
-award_year: 2014
+year: 2014
 published: 2014-10-07 10:19:39
 published_gmt: 2014-10-07 09:19:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/10/angela-merkel-managing-europes-manifest-destiny/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 38d0464a87f943fa1cc98d194404dbcddf8b3ac898c7d52c70e3068be510bf68
 canonical: 8158-angela-merkel-managing-europes-manifest-destiny.json
 ---

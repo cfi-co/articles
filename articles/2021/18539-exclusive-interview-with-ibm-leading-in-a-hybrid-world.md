@@ -1,12 +1,21 @@
 ---
 id: 18539
 title: "Exclusive Interview with IBM: Leading in a Hybrid World"
-award_year: 2021
+year: 2021
 published: 2021-02-01 12:22:12
 published_gmt: 2021-02-01 12:22:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2021/02/exclusive-interview-with-ibm-leading-in-a-hybrid-world/"
 categories: ["Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7900d866b57e9620b42ed125f8fd6f32e68b5be1df87bcf87c7eed6108376e70
 canonical: 18539-exclusive-interview-with-ibm-leading-in-a-hybrid-world.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 20196
 title: "Balsam Al-Ayoub: Cut and Thrust for Multi-talented Philanthropist"
-award_year: 2021
+year: 2021
 published: 2021-07-13 15:58:41
 published_gmt: 2021-07-13 14:58:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2021/07/balsam-al-ayoub-cut-and-thrust-for-multi-talented-philanthropist/"
 categories: ["Heroes", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 137151beb6fde7b92c1c634e7f11976e4e4a9dc8ccbd7a16a0ea93cae2537df2
 canonical: 20196-balsam-al-ayoub-cut-and-thrust-for-multi-talented-philanthropist.json
 ---

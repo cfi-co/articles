@@ -1,12 +1,21 @@
 ---
 id: 16716
 title: "EQDOM, subsidiary of SOCIETE GENERALE GROUP: Inclusivity, Fintech Power and Agility Provides Competitive Edge to Moroccan Consumer Credit Provider"
-award_year: 2020
+year: 2020
 published: 2020-08-20 13:15:36
 published_gmt: 2020-08-20 12:15:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/08/eqdom-subsidiary-of-societe-generale-group-inclusivity-fintech-power-and-agility-provides-competitive-edge-to-moroccan-consumer-credit-provider/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d3fae58a4a4ce8f93014b730939d6dbe89b374240f50a59640c65ec4d63c8166
 canonical: 16716-eqdom-subsidiary-of-societe-generale-group-inclusivity-fintech-power-and-agility.json
 ---

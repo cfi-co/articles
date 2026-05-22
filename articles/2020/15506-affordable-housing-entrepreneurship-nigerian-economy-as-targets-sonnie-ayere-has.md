@@ -1,12 +1,21 @@
 ---
 id: 15506
 title: "Affordable Housing, Entrepreneurship, Nigerian Economy as Targets:  Sonnie Ayere Has the Experience to Make It Happen"
-award_year: 2020
+year: 2020
 published: 2020-06-01 13:38:20
 published_gmt: 2020-06-01 12:38:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/06/sonnie-ayere-affordable-housing-entrepreneurship-nigerian-economy/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 657bf3d9f6af06a7605d1bf9395f482b70090bc0c7215dacbf387e2ba149b2ab
 canonical: 15506-affordable-housing-entrepreneurship-nigerian-economy-as-targets-sonnie-ayere-has.json
 ---

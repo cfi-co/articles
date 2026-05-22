@@ -1,12 +1,21 @@
 ---
 id: 16101
 title: "The Credit Direct Story: Audacity, Innovation, and a Heart for Inclusiveness"
-award_year: 2019
+year: 2019
 published: 2019-10-02 13:13:28
 published_gmt: 2019-10-02 12:13:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/10/the-credit-direct-story-audacity-innovation-and-a-heart-for-inclusiveness/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7fa571bcbb244e09ff493c145155b1bc416e2e908d2c0ead641497a47f3488fa
 canonical: 16101-the-credit-direct-story-audacity-innovation-and-a-heart-for-inclusiveness.json
 ---

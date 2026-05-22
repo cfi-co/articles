@@ -1,12 +1,21 @@
 ---
 id: 7403
 title: "China’s Growth Moderates with Continued Economic Transformation"
-award_year: 2014
+year: 2014
 published: 2014-06-09 10:40:46
 published_gmt: 2014-06-09 09:40:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/06/chinas-growth-moderates-with-continued-economic-transformation/"
 categories: ["Asia Pacific", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2106ee03e6b7b6bcb3938206df488865535977c7b6f8719224c5c4125c4e6a6b
 canonical: 7403-chinas-growth-moderates-with-continued-economic-transformation.json
 ---

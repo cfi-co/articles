@@ -1,12 +1,21 @@
 ---
 id: 7879
 title: "CFI.co Meets the CEO of SSF: Sam Shawki Fawaz"
-award_year: 2014
+year: 2014
 published: 2014-07-07 15:01:42
 published_gmt: 2014-07-07 14:01:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/07/cfi-co-meets-the-ceo-of-ssf-sam-shawki-fawaz/"
 categories: ["Corporate Leaders", "Middle East", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c2b3dffdefec4035a18223818a2ca39cdf5ada1496cbc6369012070068980765
 canonical: 7879-cfi-co-meets-the-ceo-of-ssf-sam-shawki-fawaz.json
 ---

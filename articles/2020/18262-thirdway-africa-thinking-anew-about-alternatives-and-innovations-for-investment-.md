@@ -1,12 +1,21 @@
 ---
 id: 18262
 title: "Thirdway Africa: ‘Thinking Anew’ about Alternatives and Innovations for Investment in Africa"
-award_year: 2020
+year: 2020
 published: 2020-12-09 19:15:59
 published_gmt: 2020-12-09 19:15:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2020/12/thirdway-africa-thinking-anew-about-alternatives-and-innovations-for-investment-in-africa/"
 categories: ["Africa", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 99dff13818fb09069d786c2c5c0153e545d4bd45112705b0ae482faa8dccab2e
 canonical: 18262-thirdway-africa-thinking-anew-about-alternatives-and-innovations-for-investment-.json
 ---

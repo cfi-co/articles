@@ -1,12 +1,21 @@
 ---
 id: 18508
 title: "The First Days: The Need for Speed in US Politics"
-award_year: 2021
+year: 2021
 published: 2021-01-22 08:05:33
 published_gmt: 2021-01-22 08:05:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/01/us-democracy-the-need-for-speed-in-politics/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 119db8892f8eb88d84192eb44b1c6cffb32e4839ef63f13030f97c5491e94b4d
 canonical: 18508-us-democracy-the-need-for-speed-in-politics.json
 ---

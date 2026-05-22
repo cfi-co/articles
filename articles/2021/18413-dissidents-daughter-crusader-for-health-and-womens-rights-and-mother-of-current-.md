@@ -1,12 +1,21 @@
 ---
 id: 18413
 title: "Dissident’s Daughter, Crusader for Health and Women’s Rights: Sheikha Moza bint Nasser al-Missned"
-award_year: 2021
+year: 2021
 published: 2021-01-11 14:06:54
 published_gmt: 2021-01-11 14:06:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2021/01/dissidents-daughter-crusader-for-health-and-womens-rights-and-mother-of-current-emir-of-qatar-sheikha-moza-bint-nasser-al-missned/"
 categories: ["Heroes", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 35f989f021c3f884dc34f4c279aa3c576afd9e3dcd6019adb2297c93293d65d0
 canonical: 18413-dissidents-daughter-crusader-for-health-and-womens-rights-and-mother-of-current-.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 26913
 title: "Accenture: Embracing Cloud Based Operating Models"
-award_year: 2024
+year: 2024
 published: 2024-07-12 11:57:24
 published_gmt: 2024-07-12 10:57:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2024/07/accenture-embracing-cloud-based-operating-models/"
 categories: ["Middle East", "Start-Ups", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d97b27e0d30971d25546adc58e58599ce3e1eb2e315592c4c44ac0269c952651
 canonical: 26913-accenture-embracing-cloud-based-operating-models.json
 ---

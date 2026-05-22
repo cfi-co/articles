@@ -1,12 +1,21 @@
 ---
 id: 11924
 title: "CFI.co Meets the CEO and Chairman of FFA Private Bank: Jean Riachi"
-award_year: 2017
+year: 2017
 published: 2017-10-06 10:31:43
 published_gmt: 2017-10-06 09:31:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-ceo-and-chairman-of-ffa-private-bank-jean-riachi/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6e6bbdd322ed6ff48d3cfc7a3f0f6cb6f61abbc52e342ad9fef5b283b764d4a8
 canonical: 11924-cfi-co-meets-the-ceo-and-chairman-of-ffa-private-bank-jean-riachi.json
 ---

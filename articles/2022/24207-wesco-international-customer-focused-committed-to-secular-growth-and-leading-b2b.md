@@ -1,12 +1,21 @@
 ---
 id: 24207
 title: "Wesco International Leading B2B Supply Chain"
-award_year: 2022
+year: 2022
 published: 2022-12-19 19:13:15
 published_gmt: 2022-12-19 19:13:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2022/12/wesco-international-customer-focused-committed-to-secular-growth-and-leading-b2b-supply-chain/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0a6954b59c39c3dcbc25ff44ca7a2af623dcea0c1b4c29cce8215c0e5298e2d2
 canonical: 24207-wesco-international-customer-focused-committed-to-secular-growth-and-leading-b2b.json
 ---

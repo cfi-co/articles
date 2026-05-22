@@ -1,12 +1,21 @@
 ---
 id: 16404
 title: "Lockheed Martin President and CEO Jim Taiclet: Next-Generation Battlefield Integration"
-award_year: 2020
+year: 2020
 published: 2020-07-24 10:35:34
 published_gmt: 2020-07-24 09:35:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/07/lockheed-martin-president-and-ceo-jim-taiclet-next-generation-battlefield-integration/"
 categories: ["Corporate Leaders", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c0fce7b1a09f38a67cf41bb2999c08db2a30bc15df9da0183f3656d44b14ea87
 canonical: 16404-lockheed-martin-president-and-ceo-jim-taiclet-next-generation-battlefield-integr.json
 ---

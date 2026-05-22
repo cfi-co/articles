@@ -1,12 +1,21 @@
 ---
 id: 20802
 title: "GNB GA - Change, Challenge, and Reward: Portuguese Firm takes Teamwork to a Whole New Level"
-award_year: 2021
+year: 2021
 published: 2021-10-18 13:03:52
 published_gmt: 2021-10-18 12:03:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/10/gnb-ga-change-challenge-and-reward-portuguese-firm-takes-teamwork-to-a-whole-new-level/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1b4b3c472daf1fb4fa897be6a868b5dc6c3df85693086b0eabb3743e060cec63
 canonical: 20802-gnb-ga-change-challenge-and-reward-portuguese-firm-takes-teamwork-to-a-whole-new.json
 ---

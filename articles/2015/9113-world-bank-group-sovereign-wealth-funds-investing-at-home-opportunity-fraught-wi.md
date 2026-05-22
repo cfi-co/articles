@@ -1,12 +1,21 @@
 ---
 id: 9113
 title: "World Bank Group: Sovereign Wealth Funds Investing at  Home - Opportunity Fraught with Risk"
-award_year: 2015
+year: 2015
 published: 2015-02-23 13:32:32
 published_gmt: 2015-02-23 13:32:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/02/world-bank-group-sovereign-wealth-funds-investing-at-home-opportunity-fraught-with-risk/"
 categories: ["Africa", "Oil &amp; Mining", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 266eb0620f87295a60472b08a18df53320b60f347d64895a1397d9b8037f2176
 canonical: 9113-world-bank-group-sovereign-wealth-funds-investing-at-home-opportunity-fraught-wi.json
 ---

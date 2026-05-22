@@ -1,12 +1,21 @@
 ---
 id: 23866
 title: "Dr Rak Vorrakitpokatorn: Taking the Steps to Sustainability"
-award_year: 2022
+year: 2022
 published: 2022-11-02 14:28:53
 published_gmt: 2022-11-02 14:28:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/11/dr-rak-vorrakitpokatorn-the-steps-to-sustainability/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4182548761e4bfc40a169c81416bceadb03d08ef20f88b498504e376a7dc43a2
 canonical: 23866-dr-rak-vorrakitpokatorn-the-steps-to-sustainability.json
 ---

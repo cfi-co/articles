@@ -1,12 +1,21 @@
 ---
 id: 10552
 title: "CFI.co Meets the CEO of Professional Traders: Sushant Buttan"
-award_year: 2015
+year: 2015
 published: 2015-08-01 12:25:00
 published_gmt: 2015-08-01 11:25:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2015/08/cfi-co-meets-the-ceo-of-professional-traders-sushant-buttan/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7190cc0b041d5efb867cbc70305ac40ce3b49084fe8a878f7924b2f06856600a
 canonical: 10552-cfi-co-meets-the-ceo-of-professional-traders-sushant-buttan.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 27405
 title: "The Economics of Christmas"
-award_year: 2024
+year: 2024
 published: 2024-12-17 08:20:41
 published_gmt: 2024-12-17 08:20:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2024/12/the-economics-of-christmas/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f6dbdf0c5ae04a783368e1d2f504aa556b2d23cf2ce57d3ab095ba054ebc3004
 canonical: 27405-the-economics-of-christmas.json
 ---

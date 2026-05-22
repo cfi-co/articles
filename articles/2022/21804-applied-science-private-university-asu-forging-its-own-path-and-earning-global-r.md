@@ -1,12 +1,21 @@
 ---
 id: 21804
 title: "Applied Science Private University (ASU): Forging its Own Path and Earning Global Respect - Jordan’s Pioneer in World of Private Universities"
-award_year: 2022
+year: 2022
 published: 2022-05-10 15:08:34
 published_gmt: 2022-05-10 14:08:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/applied-science-private-university-asu-forging-its-own-path-and-earning-global-respect-jordans-pioneer-in-world-of-private-universities/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6e08f9a65f1fbd2ea040b4569c8522a6d65c92496b0450ef8af71cb1d35a952f
 canonical: 21804-applied-science-private-university-asu-forging-its-own-path-and-earning-global-r.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 16684
 title: "Pavilion Global Markets Ltd. - Transition Management and the Pandemic: When to Act in Periods of Higher Market Volatility"
-award_year: 2020
+year: 2020
 published: 2020-08-20 12:41:59
 published_gmt: 2020-08-20 11:41:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/08/pavilion-global-markets-ltd-transition-management-and-the-pandemic-when-to-act-in-periods-of-higher-market-volatility/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4f5f874dc2cec6ebccac94dfc11d7d7ce9eab2ca70259f17b2b715c8d429e494
 canonical: 16684-pavilion-global-markets-ltd-transition-management-and-the-pandemic-when-to-act-i.json
 ---

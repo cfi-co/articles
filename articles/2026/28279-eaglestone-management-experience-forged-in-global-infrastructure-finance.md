@@ -1,12 +1,22 @@
 ---
 id: 28279
 title: "Eaglestone Management: Experience Forged in Global Infrastructure Finance"
-award_year: 2026
+year: 2026
 published: 2026-02-16 11:48:50
 published_gmt: 2026-02-16 11:48:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2026/02/eaglestone-management-experience-forged-in-global-infrastructure-finance/"
 categories: ["Africa", "CFI.co Meets", "Corporate Leaders"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "Eaglestone Management"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ed5113861689b24c80386b78e68d6a60faba9778bcb994df2acd836b7eb90420
 canonical: 28279-eaglestone-management-experience-forged-in-global-infrastructure-finance.json
 ---

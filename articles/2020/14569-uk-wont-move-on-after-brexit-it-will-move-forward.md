@@ -1,12 +1,21 @@
 ---
 id: 14569
 title: "UK Won’t ‘Move On’ After Brexit: It Will Move Forward"
-award_year: 2020
+year: 2020
 published: 2020-01-22 08:56:56
 published_gmt: 2020-01-22 08:56:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/01/uk-wont-move-on-after-brexit-it-will-move-forward/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ddab929d2b374ceae5cddd9962693dc71b0fea2b6aea46b77fba23518a84731d
 canonical: 14569-uk-wont-move-on-after-brexit-it-will-move-forward.json
 ---

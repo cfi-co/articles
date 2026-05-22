@@ -1,12 +1,21 @@
 ---
 id: 27097
 title: "Continued Improvement and Resilience – The Path to Banking Success and a Strong Reputation"
-award_year: 2024
+year: 2024
 published: 2024-09-09 13:13:58
 published_gmt: 2024-09-09 12:13:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2024/09/continued-improvement-and-resilience-the-path-to-banking-success-and-a-strong-reputation/"
 categories: ["Asia Pacific", "Banking", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 49fc214d5965e778d85737768b0ea95482f8a3d9b00e3ff9aafe0699875bbcb9
 canonical: 27097-continued-improvement-and-resilience-the-path-to-banking-success-and-a-strong-re.json
 ---

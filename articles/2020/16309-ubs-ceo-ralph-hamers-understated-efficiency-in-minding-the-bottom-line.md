@@ -1,12 +1,21 @@
 ---
 id: 16309
 title: "UBS CEO Ralph Hamers: Understated Efficiency in Minding the Bottom Line"
-award_year: 2020
+year: 2020
 published: 2020-07-16 10:47:23
 published_gmt: 2020-07-16 09:47:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2020/07/ubs-ceo-ralph-hamers-understated-efficiency-in-minding-the-bottom-line/"
 categories: ["Banking", "Corporate Leaders", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: efab817a2fb43a3c2df2ba79016d09ac8785358b017a5c1a1b5c8b89a6e8f81a
 canonical: 16309-ubs-ceo-ralph-hamers-understated-efficiency-in-minding-the-bottom-line.json
 ---

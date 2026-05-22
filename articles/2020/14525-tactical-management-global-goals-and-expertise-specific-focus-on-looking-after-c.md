@@ -1,12 +1,21 @@
 ---
 id: 14525
 title: "Tactical Management:  Global Goals and Expertise, Specific Focus on Looking After Client Needs"
-award_year: 2020
+year: 2020
 published: 2020-01-14 14:20:58
 published_gmt: 2020-01-14 14:20:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2020/01/tactical-management-global-goals-and-expertise-specific-focus-on-looking-after-client-needs/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8c895ece67c79107aa9adcbe82f1bd511d351b5555c5294d9421c0e29d9a4370
 canonical: 14525-tactical-management-global-goals-and-expertise-specific-focus-on-looking-after-c.json
 ---

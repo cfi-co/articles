@@ -1,12 +1,21 @@
 ---
 id: 17082
 title: "EY Germany: Champion in Professional Services"
-award_year: 2018
+year: 2018
 published: 2018-03-01 13:50:15
 published_gmt: 2018-03-01 13:50:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2018/03/ey-germany-champion-in-professional-services/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 20b59e3d6faf2fed6166a63df92f462a956fa4aa95c681a2596593e168bf7a38
 canonical: 17082-ey-germany-champion-in-professional-services.json
 ---

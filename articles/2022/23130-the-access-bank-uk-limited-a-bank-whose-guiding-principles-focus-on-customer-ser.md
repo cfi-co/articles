@@ -1,12 +1,21 @@
 ---
 id: 23130
 title: "The Access Bank UK Limited: Focus on Customer Service and Innovative Solutions"
-award_year: 2022
+year: 2022
 published: 2022-08-23 17:02:30
 published_gmt: 2022-08-23 16:02:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/08/the-access-bank-uk-limited-a-bank-whose-guiding-principles-focus-on-customer-service-and-innovative-solutions/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 57bc923c46e837bf17ec6ba4a06a9091d078694e429c9da2ccfb615b655f7692
 canonical: 23130-the-access-bank-uk-limited-a-bank-whose-guiding-principles-focus-on-customer-ser.json
 ---

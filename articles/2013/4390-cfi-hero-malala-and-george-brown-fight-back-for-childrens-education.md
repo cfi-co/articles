@@ -1,12 +1,21 @@
 ---
 id: 4390
 title: "CFI Hero Malala and Gordon Brown Fight Back for Children’s Education"
-award_year: 2013
+year: 2013
 published: 2013-06-18 08:35:52
 published_gmt: 2013-06-18 07:35:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/06/cfi-hero-malala-and-george-brown-fight-back-for-childrens-education/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d70e908f6cb846275d26b20d951a014667e3b953da617e6359cfa153f8d22b32
 canonical: 4390-cfi-hero-malala-and-george-brown-fight-back-for-childrens-education.json
 ---

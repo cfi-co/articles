@@ -1,12 +1,21 @@
 ---
 id: 27662
 title: "From Strength to Strength: Peak Re Expands its Role as a Trusted Reinsurance Partner in Emerging Asia"
-award_year: 2025
+year: 2025
 published: 2025-03-28 20:16:11
 published_gmt: 2025-03-28 20:16:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2025/03/from-strength-to-strength-peak-re-expands-its-role-as-a-trusted-reinsurance-partner-in-emerging-asia/"
 categories: ["Asia Pacific", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b73fa469a2abdeca1ac7c3b8aec3a0385fc5eb346d0b8cc4be365f7e5e1ff693
 canonical: 27662-from-strength-to-strength-peak-re-expands-its-role-as-a-trusted-reinsurance-part.json
 ---

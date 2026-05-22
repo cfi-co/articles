@@ -1,12 +1,21 @@
 ---
 id: 16059
 title: "Change, Change, Change: With Sustainability at the Very Core, Transformation Poses No Threat"
-award_year: 2020
+year: 2020
 published: 2020-05-01 19:08:49
 published_gmt: 2020-05-01 18:08:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/05/change-change-change-with-sustainability-at-the-very-core-transformation-poses-no-threat/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 476e262328a280aab364613ae0a269fcff2fde7bd0375233c7ab2caa75f1f06b
 canonical: 16059-change-change-change-with-sustainability-at-the-very-core-transformation-poses-n.json
 ---

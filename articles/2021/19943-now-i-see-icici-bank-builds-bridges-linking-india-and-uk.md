@@ -1,12 +1,21 @@
 ---
 id: 19943
 title: "Now I See: ICICI Bank Builds Bridges Linking India and UK"
-award_year: 2021
+year: 2021
 published: 2021-07-13 12:40:49
 published_gmt: 2021-07-13 11:40:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/now-i-see-icici-bank-builds-bridges-linking-india-and-uk/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ea28c83d3546e320f84d0a803e3283b4ac344db0dcf8914d1bef65428ccaad01
 canonical: 19943-now-i-see-icici-bank-builds-bridges-linking-india-and-uk.json
 ---

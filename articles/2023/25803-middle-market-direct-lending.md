@@ -1,12 +1,21 @@
 ---
 id: 25803
 title: "Middle-Market Direct Lending"
-award_year: 2023
+year: 2023
 published: 2023-07-20 14:07:46
 published_gmt: 2023-07-20 13:07:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2023/07/middle-market-direct-lending/"
 categories: ["Banking", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 62522069778b254a17f21331a5598b33dffa9a501e6c6cc1de396889a55d6ec2
 canonical: 25803-middle-market-direct-lending.json
 ---

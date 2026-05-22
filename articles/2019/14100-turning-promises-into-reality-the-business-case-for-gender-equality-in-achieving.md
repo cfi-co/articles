@@ -1,12 +1,21 @@
 ---
 id: 14100
 title: "Turning Promises Into Reality – The Business Case for Gender Equality in Achieving the SDGs"
-award_year: 2019
+year: 2019
 published: 2019-10-08 20:24:02
 published_gmt: 2019-10-08 19:24:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2019/10/turning-promises-into-reality-the-business-case-for-gender-equality-in-achieving-the-sdgs/"
 categories: ["North America", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 83892798ddde3e1f3024b9aaa603983e921dbc3728bb3e681e2a37cfa2612888
 canonical: 14100-turning-promises-into-reality-the-business-case-for-gender-equality-in-achieving.json
 ---

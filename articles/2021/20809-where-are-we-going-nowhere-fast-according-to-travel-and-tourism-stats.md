@@ -1,12 +1,21 @@
 ---
 id: 20809
 title: "Where are We Going? Nowhere, Fast, According to Travel and Tourism Stats"
-award_year: 2021
+year: 2021
 published: 2021-10-18 16:24:46
 published_gmt: 2021-10-18 15:24:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2021/10/where-are-we-going-nowhere-fast-according-to-travel-and-tourism-stats/"
 categories: ["Brave New World", "Lifestyle", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cbca775d6a0ae5a1f7f5b179b659808b8a5bab5196328fc0c05cf2934488ffdb
 canonical: 20809-where-are-we-going-nowhere-fast-according-to-travel-and-tourism-stats.json
 ---

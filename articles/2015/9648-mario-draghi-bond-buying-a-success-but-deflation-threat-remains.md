@@ -1,12 +1,21 @@
 ---
 id: 9648
 title: "Mario Draghi: Bond Buying a Success but Deflation Threat Remains"
-award_year: 2015
+year: 2015
 published: 2015-04-16 12:58:59
 published_gmt: 2015-04-16 11:58:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/04/mario-draghi-bond-buying-a-success-but-deflation-threat-remains/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 178c6f7a754dfe86a49ce8b3bea4c8f9c06ce25741952ebad6c66673b9618c1b
 canonical: 9648-mario-draghi-bond-buying-a-success-but-deflation-threat-remains.json
 ---

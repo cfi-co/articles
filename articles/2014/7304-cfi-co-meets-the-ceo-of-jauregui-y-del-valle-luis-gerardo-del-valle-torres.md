@@ -1,12 +1,21 @@
 ---
 id: 7304
 title: "CFI.co Meets the CEO of Jáuregui y Del Valle: Luis Gerardo del Valle Torres"
-award_year: 2014
+year: 2014
 published: 2014-03-01 18:49:28
 published_gmt: 2014-03-01 18:49:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2014/03/cfi-co-meets-the-ceo-of-jauregui-y-del-valle-luis-gerardo-del-valle-torres/"
 categories: ["Corporate Leaders", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 85e84acfda2d2797116aa229702f635258d4ea94ede9bf1756b1ada4853f4f60
 canonical: 7304-cfi-co-meets-the-ceo-of-jauregui-y-del-valle-luis-gerardo-del-valle-torres.json
 ---

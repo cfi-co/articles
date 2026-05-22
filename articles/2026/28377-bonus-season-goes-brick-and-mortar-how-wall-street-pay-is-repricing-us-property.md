@@ -1,12 +1,21 @@
 ---
 id: 28377
 title: "Bonus Season Goes Brick-and-Mortar: How Wall Street Pay Is Repricing US Property"
-award_year: 2026
+year: 2026
 published: 2026-04-15 23:04:13
 published_gmt: 2026-04-15 22:04:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2026/04/bonus-season-goes-brick-and-mortar-how-wall-street-pay-is-repricing-us-property/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6cfedbb2968424ee26f005217df26e298c53970e26f9a5ee54330b947671dcd7
 canonical: 28377-bonus-season-goes-brick-and-mortar-how-wall-street-pay-is-repricing-us-property.json
 ---

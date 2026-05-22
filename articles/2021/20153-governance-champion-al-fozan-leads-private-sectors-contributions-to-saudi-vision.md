@@ -1,12 +1,21 @@
 ---
 id: 20153
 title: "Governance Champion Al Fozan Leads Private Sector’s Contributions to Saudi Vision 2030 — and a Sustainable Future"
-award_year: 2021
+year: 2021
 published: 2021-07-08 19:48:58
 published_gmt: 2021-07-08 18:48:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/governance-champion-al-fozan-leads-private-sectors-contributions-to-saudi-vision-2030-and-a-sustainable-future/"
 categories: ["Corporate", "Events"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 90ebeb84100063423fd170512a8ee7a8f20ba982cf6f60cc64b306aae4b0091c
 canonical: 20153-governance-champion-al-fozan-leads-private-sectors-contributions-to-saudi-vision.json
 ---

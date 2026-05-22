@@ -1,12 +1,21 @@
 ---
 id: 1401
 title: "“The Entrepreneur” - A Sense of Balance "
-award_year: 2012
+year: 2012
 published: 2012-08-07 11:19:37
 published_gmt: 2012-08-07 10:19:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2012/08/the-entrepreneur-a-sense-of-balance/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0ff354ef0ddbd2ad1f7d5ffa0db237c90105c83b795f031b7a291bb9b578fde8
 canonical: 1401-the-entrepreneur-a-sense-of-balance.json
 ---

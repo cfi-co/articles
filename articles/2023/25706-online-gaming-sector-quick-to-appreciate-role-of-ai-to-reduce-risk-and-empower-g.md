@@ -1,12 +1,21 @@
 ---
 id: 25706
 title: "Online Gaming Sector Quick to Appreciate Role of AI to Reduce Risk — and Empower Growth"
-award_year: 2023
+year: 2023
 published: 2023-07-03 20:09:33
 published_gmt: 2023-07-03 19:09:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/07/online-gaming-sector-quick-to-appreciate-role-of-ai-to-reduce-risk-and-empower-growth/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 37b82e1e19234959d301d1a05a6db33e7bad152040f5c8e427f9174d65757be5
 canonical: 25706-online-gaming-sector-quick-to-appreciate-role-of-ai-to-reduce-risk-and-empower-g.json
 ---

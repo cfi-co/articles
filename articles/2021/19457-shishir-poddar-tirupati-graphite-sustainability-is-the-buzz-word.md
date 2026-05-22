@@ -1,12 +1,21 @@
 ---
 id: 19457
 title: "Shishir Poddar & Tirupati Graphite: Sustainability is the Buzz Word"
-award_year: 2021
+year: 2021
 published: 2021-04-09 16:43:13
 published_gmt: 2021-04-09 15:43:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/04/shishir-poddar-tirupati-graphite-sustainability-is-the-buzz-word/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2eceaf50745af1bed629403d67c97d0c528ae363e76330f515b9e926c870258b
 canonical: 19457-shishir-poddar-tirupati-graphite-sustainability-is-the-buzz-word.json
 ---

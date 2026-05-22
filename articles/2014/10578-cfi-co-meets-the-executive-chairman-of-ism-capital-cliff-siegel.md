@@ -1,12 +1,21 @@
 ---
 id: 10578
 title: "CFI.co Meets the Executive Chairman of ISM Capital: Cliff Siegel"
-award_year: 2014
+year: 2014
 published: 2014-10-27 11:38:03
 published_gmt: 2014-10-27 11:38:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2014/10/cfi-co-meets-the-executive-chairman-of-ism-capital-cliff-siegel/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 11a19a11272a94dbccd166fa6598b794d790c78f98e96e7d0249911e8192d47d
 canonical: 10578-cfi-co-meets-the-executive-chairman-of-ism-capital-cliff-siegel.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 23090
 title: "Dollar Dominance: Greenback Will Endure Current Hardships"
-award_year: 2022
+year: 2022
 published: 2022-08-22 16:32:51
 published_gmt: 2022-08-22 15:32:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2022/08/dollar-dominance-greenback-will-endure-current-hardships/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4b7b2d4e4163a0fe5fbb8876a26a62ba0197990262585d05b5fbf38681c0c7dd
 canonical: 23090-dollar-dominance-greenback-will-endure-current-hardships.json
 ---

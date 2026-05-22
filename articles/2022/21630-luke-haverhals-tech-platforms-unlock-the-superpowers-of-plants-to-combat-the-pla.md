@@ -1,12 +1,21 @@
 ---
 id: 21630
 title: "Luke Haverhals: Tech Platforms Unlock the Superpowers of Plants to Combat the Plastic Menace"
-award_year: 2022
+year: 2022
 published: 2022-03-11 10:57:51
 published_gmt: 2022-03-11 10:57:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/heroes/2022/03/luke-haverhals-tech-platforms-unlock-the-superpowers-of-plants-to-combat-the-plastic-menace/"
 categories: ["Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 43aeddaccb001b47f3df555b96c8f40ff28f4b14ac2167f15857ecbad375e5b0
 canonical: 21630-luke-haverhals-tech-platforms-unlock-the-superpowers-of-plants-to-combat-the-pla.json
 ---

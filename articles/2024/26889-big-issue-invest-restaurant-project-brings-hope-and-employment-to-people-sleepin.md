@@ -1,12 +1,21 @@
 ---
 id: 26889
 title: "Big Issue Invest Restaurant Project Brings Hope and Employment to People Sleeping Rough in London"
-award_year: 2024
+year: 2024
 published: 2024-06-27 12:01:02
 published_gmt: 2024-06-27 11:01:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2024/06/big-issue-invest-restaurant-project-brings-hope-and-employment-to-people-sleeping-rough-in-london/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cfbc7c985fa5823cec00dce1e247d8b1048b58e8b8028485dd48cd5581465dab
 canonical: 26889-big-issue-invest-restaurant-project-brings-hope-and-employment-to-people-sleepin.json
 ---

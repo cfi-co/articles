@@ -1,12 +1,21 @@
 ---
 id: 20034
 title: "Texans Sports Star JJ Watt has Acumen, Altruism, and Ability"
-award_year: 2021
+year: 2021
 published: 2021-06-24 19:15:40
 published_gmt: 2021-06-24 18:15:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2021/06/texans-sports-star-jj-watt-has-acumen-altruism-and-ability/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3871ca854ccd4afe3e0d6348acd6e7a369863e460c23d67dbb8f3671d0a9d984
 canonical: 20034-texans-sports-star-jj-watt-has-acumen-altruism-and-ability.json
 ---

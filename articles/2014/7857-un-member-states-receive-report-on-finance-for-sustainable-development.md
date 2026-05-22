@@ -1,12 +1,21 @@
 ---
 id: 7857
 title: "UN Member States Receive Report on Finance for Sustainable Development"
-award_year: 2014
+year: 2014
 published: 2014-08-22 12:46:48
 published_gmt: 2014-08-22 11:46:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/08/un-member-states-receive-report-on-finance-for-sustainable-development/"
 categories: ["Africa", "Latin America", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7cfa8a87062dc101ffd19953af965115f147bc9beee5fc2032489252e9da20b0
 canonical: 7857-un-member-states-receive-report-on-finance-for-sustainable-development.json
 ---

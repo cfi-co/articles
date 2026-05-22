@@ -1,12 +1,21 @@
 ---
 id: 14547
 title: "Lord Waverley: Brexit and Trade - The UK Must Now Be Flexible, Opportunistic & Respectfully Machiavellian"
-award_year: 2018
+year: 2018
 published: 2018-10-20 13:07:34
 published_gmt: 2018-10-20 12:07:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2018/10/lord-waverley-brexit-and-trade-the-uk-must-now-be-flexible-opportunistic-respectfully-machiavellian/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 65e107b54482265eb5983fd488a2a758602a5ec6c37558f7aee7c5fe73d47aac
 canonical: 14547-lord-waverley-brexit-and-trade-the-uk-must-now-be-flexible-opportunistic-respect.json
 ---

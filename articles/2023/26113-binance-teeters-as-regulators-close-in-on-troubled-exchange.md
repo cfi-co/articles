@@ -1,12 +1,21 @@
 ---
 id: 26113
 title: "Binance Teeters as Regulators Close-in on Troubled Exchange"
-award_year: 2023
+year: 2023
 published: 2023-09-28 19:37:49
 published_gmt: 2023-09-28 18:37:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/09/binance-teeters-as-regulators-close-in-on-troubled-exchange/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 96d5636cdd4f78717b7e638c87d2562e9e3edef95fdc8abef39229343b9894d8
 canonical: 26113-binance-teeters-as-regulators-close-in-on-troubled-exchange.json
 ---

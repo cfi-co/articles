@@ -1,12 +1,21 @@
 ---
 id: 1680
 title: "Kuala Lumpur: ‘The Next Big Thing’ in Asia-Pacific Business Circles"
-award_year: 2012
+year: 2012
 published: 2012-08-13 13:11:42
 published_gmt: 2012-08-13 12:11:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2012/08/kuala-lumpur-the-next-big-thing-in-asia-pacific-business-circles/"
 categories: ["Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 37d12e48719b8b199b0c18326398c4a9ae40efd3a4485d115b9cf2b3239be82a
 canonical: 1680-kuala-lumpur-the-next-big-thing-in-asia-pacific-business-circles.json
 ---

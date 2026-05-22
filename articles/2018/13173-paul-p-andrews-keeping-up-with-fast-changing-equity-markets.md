@@ -1,12 +1,21 @@
 ---
 id: 13173
 title: "Paul P Andrews: Keeping Up with Fast-Changing Equity Markets"
-award_year: 2018
+year: 2018
 published: 2018-09-12 12:28:23
 published_gmt: 2018-09-12 11:28:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/uncategorized/2018/09/paul-p-andrews-keeping-up-with-fast-changing-equity-markets/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 599737a8ab08946b10346a9b069e1d0edce4a16099018254b022c70d2d5e3181
 canonical: 13173-paul-p-andrews-keeping-up-with-fast-changing-equity-markets.json
 ---

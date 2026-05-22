@@ -1,12 +1,21 @@
 ---
 id: 26713
 title: "Vector Casa de Bolsa: Five Decades Driving the Growth of the Mexican Economy"
-award_year: 2024
+year: 2024
 published: 2024-03-04 12:29:22
 published_gmt: 2024-03-04 12:29:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2024/03/vector-casa-de-bolsa-five-decades-driving-the-growth-of-the-mexican-economy/"
 categories: ["Finance", "Latin America", "Markets"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5fe456a2ac6e92621d7e348edaac78ee61bedf84fbeec0b9e1d0176b68a85913
 canonical: 26713-vector-casa-de-bolsa-five-decades-driving-the-growth-of-the-mexican-economy.json
 ---

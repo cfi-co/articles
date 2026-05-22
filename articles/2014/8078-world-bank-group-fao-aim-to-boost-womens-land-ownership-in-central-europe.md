@@ -1,12 +1,21 @@
 ---
 id: 8078
 title: "World Bank Group, FAO Aim to Boost Women's Land Ownership in Central Europe"
-award_year: 2014
+year: 2014
 published: 2014-09-23 11:22:31
 published_gmt: 2014-09-23 10:22:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/09/world-bank-group-fao-aim-to-boost-womens-land-ownership-in-central-europe/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6ce967fd2ec4c3e6e30a35c08ca58e8f398f4b8942f84eae728a6b648acf0600
 canonical: 8078-world-bank-group-fao-aim-to-boost-womens-land-ownership-in-central-europe.json
 ---

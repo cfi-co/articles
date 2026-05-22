@@ -1,12 +1,21 @@
 ---
 id: 20263
 title: "Piotr Zawistowski, TGE - 20 Years of Safe Trading: Trading – Guaranteeing – Educating"
-award_year: 2021
+year: 2021
 published: 2021-07-27 09:00:10
 published_gmt: 2021-07-27 08:00:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/piotr-zawistowski-tge-20-years-of-safe-trading-trading-guaranteeing-educating/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 69cbf8a7e642f9193bcc2a74fe747761c8e4f70642f605d2e02a20dbdb4a11bb
 canonical: 20263-piotr-zawistowski-tge-20-years-of-safe-trading-trading-guaranteeing-educating.json
 ---

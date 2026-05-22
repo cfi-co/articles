@@ -1,12 +1,21 @@
 ---
 id: 23749
 title: "Inflation - Beyond the Headlines and Beyond the Borders: Specialised Investment Research and Analysis from PGM Global Inc."
-award_year: 2022
+year: 2022
 published: 2022-10-27 14:54:14
 published_gmt: 2022-10-27 13:54:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/10/inflation-beyond-the-headlines-and-beyond-the-borders-specialised-investment-research-and-analysis-from-pgm-global-inc/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9eb697d5b4a84504cced33bf3749fbe391f1aad70e34fb5dacb51bae2fcebded
 canonical: 23749-inflation-beyond-the-headlines-and-beyond-the-borders-specialised-investment-res.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 21042
 title: "Unity Willis Towers Watson: Old as the Ages, Wise as the Hills, a Global Leader with History and Scope"
-award_year: 2021
+year: 2021
 published: 2021-11-09 16:42:11
 published_gmt: 2021-11-09 16:42:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/unity-willis-towers-watson-old-as-the-ages-wise-as-the-hills-a-global-leader-with-history-and-scope/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0b2dbd12c554a2cd5dff574243c8e260324c9065bb92e6ff426e035fc4c8c31d
 canonical: 21042-unity-willis-towers-watson-old-as-the-ages-wise-as-the-hills-a-global-leader-wit.json
 ---

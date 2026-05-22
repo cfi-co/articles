@@ -1,12 +1,21 @@
 ---
 id: 12941
 title: "CFI.co Meets the Banque de Développement de Guinée Management: Banking for Nation-Building"
-award_year: 2018
+year: 2018
 published: 2018-07-12 12:30:11
 published_gmt: 2018-07-12 11:30:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/07/cfi-co-meets-the-banque-de-developpement-de-guinee-management-banking-for-nation-building/"
 categories: ["CFI.co Meets", "Corporate Leaders"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0af6809e22127be57a2967185e5aadd760633b4c8808fbbdfa23ffde084fc998
 canonical: 12941-cfi-co-meets-the-banque-de-developpement-de-guinee-management-banking-for-nation.json
 ---

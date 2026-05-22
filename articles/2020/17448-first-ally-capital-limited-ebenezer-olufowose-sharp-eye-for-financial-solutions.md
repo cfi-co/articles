@@ -1,12 +1,21 @@
 ---
 id: 17448
 title: "First Ally Capital: Ebenezer Olufowose has Sharp Eye for Financial Solutions"
-award_year: 2020
+year: 2020
 published: 2020-01-08 12:15:24
 published_gmt: 2020-01-08 12:15:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/01/first-ally-capital-limited-ebenezer-olufowose-sharp-eye-for-financial-solutions/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bd8a3d38efe2bdaa5689f47d19e2aef63374e8194002835d7627ad22e72964e4
 canonical: 17448-first-ally-capital-limited-ebenezer-olufowose-sharp-eye-for-financial-solutions.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8214
 title: "WIF: Start-Up Democracy Tunisia Steals the Show"
-award_year: 2014
+year: 2014
 published: 2014-10-15 10:12:07
 published_gmt: 2014-10-15 09:12:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/10/wif-2014-start-up-democracy-tunisia-steals-the-show/"
 categories: ["Africa", "Europe", "Finance", "Start-Ups", "Sustainability", "WIF"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1df506dfa1b8f2ca929fc9d9aff7f0d7e294f39c726ce2ab77c89ec42f4e7694
 canonical: 8214-wif-2014-start-up-democracy-tunisia-steals-the-show.json
 ---

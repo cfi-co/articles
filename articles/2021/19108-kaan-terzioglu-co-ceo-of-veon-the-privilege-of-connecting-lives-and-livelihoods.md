@@ -1,12 +1,21 @@
 ---
 id: 19108
 title: "Kaan Terzioğlu, Co-CEO of VEON: The Privilege of Connecting Lives and Livelihoods"
-award_year: 2021
+year: 2021
 published: 2021-03-16 08:08:29
 published_gmt: 2021-03-16 08:08:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/03/kaan-terzioglu-co-ceo-of-veon-the-privilege-of-connecting-lives-and-livelihoods/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 40ae4b6989378036445da72dc1a7fe84c6af49a27a2a432ad6ebf2ed8552ada0
 canonical: 19108-kaan-terzioglu-co-ceo-of-veon-the-privilege-of-connecting-lives-and-livelihoods.json
 ---

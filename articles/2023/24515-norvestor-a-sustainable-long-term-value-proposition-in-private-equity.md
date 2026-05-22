@@ -1,12 +1,21 @@
 ---
 id: 24515
 title: "Norvestor: A Sustainable Long-Term Value Proposition in Private Equity"
-award_year: 2023
+year: 2023
 published: 2023-01-12 17:45:05
 published_gmt: 2023-01-12 17:45:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/01/norvestor-a-sustainable-long-term-value-proposition-in-private-equity/"
 categories: ["Corporate", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: feb4f17d15e1138884a728ead93cd00c207a17c81ef78e4cd8ecc3e5331b369d
 canonical: 24515-norvestor-a-sustainable-long-term-value-proposition-in-private-equity.json
 ---

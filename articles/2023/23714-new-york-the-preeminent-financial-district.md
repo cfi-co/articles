@@ -1,12 +1,21 @@
 ---
 id: 23714
 title: "New York — the preeminent financial district"
-award_year: 2023
+year: 2023
 published: 2023-01-04 12:25:26
 published_gmt: 2023-01-04 12:25:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2023/01/new-york-the-preeminent-financial-district/"
 categories: ["Banking &amp; Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cd72943c4b257294bc1f5824eba76908e0957682755fbfd5454b51aa37112b91
 canonical: 23714-new-york-the-preeminent-financial-district.json
 ---

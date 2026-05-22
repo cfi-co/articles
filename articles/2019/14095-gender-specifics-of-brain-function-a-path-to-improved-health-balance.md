@@ -1,12 +1,21 @@
 ---
 id: 14095
 title: "Gender Specifics of Brain Function: a Path to Improved Health Balance"
-award_year: 2019
+year: 2019
 published: 2019-10-08 10:26:25
 published_gmt: 2019-10-08 09:26:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2019/10/gender-specifics-of-brain-function-a-path-to-improved-health-balance/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 111c9d32fce23ee5f059d47243ba0e5a5317c1ea8c35d437321591083d1afdbc
 canonical: 14095-gender-specifics-of-brain-function-a-path-to-improved-health-balance.json
 ---

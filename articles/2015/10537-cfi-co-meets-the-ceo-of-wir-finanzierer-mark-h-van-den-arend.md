@@ -1,12 +1,21 @@
 ---
 id: 10537
 title: "CFI.co Meets the CEO of WIR Finanzierer: Mark H van den Arend"
-award_year: 2015
+year: 2015
 published: 2015-09-01 14:12:46
 published_gmt: 2015-09-01 13:12:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2015/09/cfi-co-meets-the-ceo-of-wir-finanzierer-mark-h-van-den-arend/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b571d05597e38969b4c05b422ce9daf27d8f5b0d86678d718cec45df796dffe3
 canonical: 10537-cfi-co-meets-the-ceo-of-wir-finanzierer-mark-h-van-den-arend.json
 ---

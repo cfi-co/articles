@@ -1,12 +1,21 @@
 ---
 id: 20634
 title: "Click OK and Call Me in the Morning — How Online has Changed Shopping for Meds"
-award_year: 2021
+year: 2021
 published: 2021-09-16 13:24:55
 published_gmt: 2021-09-16 12:24:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/09/click-ok-and-call-me-in-the-morning-how-online-has-changed-shopping-for-meds/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fa097a41f3a28659d03e5ac09d8241b8a42b0ef23d257e0a909931d8883f29e7
 canonical: 20634-click-ok-and-call-me-in-the-morning-how-online-has-changed-shopping-for-meds.json
 ---

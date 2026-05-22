@@ -1,12 +1,21 @@
 ---
 id: 7966
 title: "FACRA: How Investors Can Help Build SMEs in Angola - The Missing Middle"
-award_year: 2014
+year: 2014
 published: 2014-09-04 11:11:08
 published_gmt: 2014-09-04 10:11:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/09/facra-how-investors-can-help-build-smes-in-angola-the-missing-middle/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5bcc68556f2e503be85d9fd5e9208b77f05b5e9d262cdf9413e746cf7f8584ba
 canonical: 7966-facra-how-investors-can-help-build-smes-in-angola-the-missing-middle.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 1033
 title: "WTO: The Changing Nature of Global Trade"
-award_year: 2012
+year: 2012
 published: 2012-07-12 10:45:54
 published_gmt: 2012-07-12 09:45:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2012/07/wto-the-changing-nature-of-global-trade/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cf224ada7e2c59a2e45194990058c924096f6efffd8de6be0a97a22fee241fc5
 canonical: 1033-wto-the-changing-nature-of-global-trade.json
 ---

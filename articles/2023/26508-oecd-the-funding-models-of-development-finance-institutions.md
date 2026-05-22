@@ -1,12 +1,21 @@
 ---
 id: 26508
 title: "OECD: The Funding Models of Development Finance Institutions"
-award_year: 2023
+year: 2023
 published: 2023-12-11 08:36:44
 published_gmt: 2023-12-11 08:36:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/multilaterals/2023/12/oecd-the-funding-models-of-development-finance-institutions/"
 categories: ["Africa", "Europe", "Finance", "Multilaterals", "North America", "Special Features"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e6382502c9ebcf5162765d25f5042a0c8dd9cd74696fa59a550f0da546bd8012
 canonical: 26508-oecd-the-funding-models-of-development-finance-institutions.json
 ---

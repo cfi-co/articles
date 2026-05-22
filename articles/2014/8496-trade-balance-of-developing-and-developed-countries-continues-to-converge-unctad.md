@@ -1,12 +1,21 @@
 ---
 id: 8496
 title: "Trade Balance of Developing and Developed Countries Continues to Converge, UNCTAD Statistics Show"
-award_year: 2014
+year: 2014
 published: 2014-12-09 11:08:18
 published_gmt: 2014-12-09 11:08:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/12/trade-balance-of-developing-and-developed-countries-continues-to-converge-unctad-statistics-show/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Latin America", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9287a63f71309cce508f03a51404e790796c1ead5c0eaae4f84ff7e4735146c9
 canonical: 8496-trade-balance-of-developing-and-developed-countries-continues-to-converge-unctad.json
 ---

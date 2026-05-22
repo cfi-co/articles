@@ -1,12 +1,21 @@
 ---
 id: 17151
 title: "Reshma Sohoni: An Identity and an Ambition Forged Through a Lifetime of Migration — and Adaptation"
-award_year: 2020
+year: 2020
 published: 2020-10-06 10:19:28
 published_gmt: 2020-10-06 09:19:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/10/reshma-sohoni-an-identity-and-an-ambition-forged-through-a-lifetime-of-migration-and-adaptation/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3e3fb42a70a02af4f4ea206f656e494d6c56ac7eb59a0e22dfbdc1d4fd7c7048
 canonical: 17151-reshma-sohoni-an-identity-and-an-ambition-forged-through-a-lifetime-of-migration.json
 ---

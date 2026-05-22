@@ -1,12 +1,21 @@
 ---
 id: 21466
 title: "Jenny Just: The Deck Should Be Stacked — with Tech"
-award_year: 2022
+year: 2022
 published: 2022-01-17 11:43:04
 published_gmt: 2022-01-17 11:43:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2022/01/jenny-just-the-deck-should-be-stacked-with-tech/"
 categories: ["Heroes", "North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e3a13de603089ec320be727acb7a91fa17408f719e30f85dda7ee2a4a8671a86
 canonical: 21466-jenny-just-the-deck-should-be-stacked-with-tech.json
 ---

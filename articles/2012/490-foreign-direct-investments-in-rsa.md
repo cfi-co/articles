@@ -1,12 +1,21 @@
 ---
 id: 490
 title: "Foreign Direct Investments in RSA"
-award_year: 2012
+year: 2012
 published: 2012-05-17 11:20:04
 published_gmt: 2012-05-17 10:20:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/05/foreign-direct-investments-in-rsa/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5dd14d9b5eee95b86274603d260078b3896a92155ad67d88858ddb82b213f4fd
 canonical: 490-foreign-direct-investments-in-rsa.json
 ---

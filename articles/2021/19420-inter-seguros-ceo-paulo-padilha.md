@@ -1,12 +1,21 @@
 ---
 id: 19420
 title: "Inter Seguros CEO: Paulo Padilha"
-award_year: 2021
+year: 2021
 published: 2021-04-08 16:55:47
 published_gmt: 2021-04-08 15:55:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/04/inter-seguros-ceo-paulo-padilha/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3e06f85924169dfb0ed81790f7bec7ff8f60d275209823c150b7bcbebc414fe3
 canonical: 19420-inter-seguros-ceo-paulo-padilha.json
 ---

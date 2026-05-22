@@ -1,12 +1,21 @@
 ---
 id: 8342
 title: "University of Chicago Booth School of Business: Questioning the Economic Effects of a Booming Real Estate Market"
-award_year: 2014
+year: 2014
 published: 2014-11-03 06:20:08
 published_gmt: 2014-11-03 06:20:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/11/university-of-chicago-booth-school-of-business-questioning-the-economic-effects-of-a-booming-real-estate-market/"
 categories: ["Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0bea896442b0edc6afb233ae02ece5c8521840d2c527fc08eeb85a66aa78d7d0
 canonical: 8342-university-of-chicago-booth-school-of-business-questioning-the-economic-effects-.json
 ---

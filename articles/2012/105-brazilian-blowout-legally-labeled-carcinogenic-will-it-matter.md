@@ -1,12 +1,21 @@
 ---
 id: 105
 title: "Brazilian Blowout Legally Labeled Carcinogenic ... Will It Matter?"
-award_year: 2012
+year: 2012
 published: 2012-02-02 16:31:45
 published_gmt: 2012-02-02 16:31:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2012/02/brazilian-blowout-legally-labeled-carcinogenic-will-it-matter/"
 categories: ["Latin America", "Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cdb372921bee5ef026b05466abf189238e75f7fae50c5936423a17bf7153409c
 canonical: 105-brazilian-blowout-legally-labeled-carcinogenic-will-it-matter.json
 ---

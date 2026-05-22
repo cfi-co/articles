@@ -1,12 +1,21 @@
 ---
 id: 3050
 title: "Frontier Asia and Hopes for More Inclusive Growth"
-award_year: 2013
+year: 2013
 published: 2013-02-08 09:14:45
 published_gmt: 2013-02-08 09:14:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/02/frontier-asia-and-hopes-for-more-inclusive-growth/"
 categories: ["Asia Pacific", "Banking", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5841bb33e314c4f94ec3cef5f5ba6cd89a9d6bd5c930e931e02f3c7f7b6627d4
 canonical: 3050-frontier-asia-and-hopes-for-more-inclusive-growth.json
 ---

@@ -1,12 +1,22 @@
 ---
 id: 28025
 title: "Building with Passion: How Heike Arbter Shaped Raiffeisen’s Certificates Franchise"
-award_year: 2025
+year: 2025
 published: 2025-11-09 09:00:54
 published_gmt: 2025-11-09 09:00:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2025/11/building-with-passion-how-heike-arbter-shaped-raiffeisens-certificates-franchise/"
 categories: ["Banking", "CFI.co Meets", "Corporate Leaders", "Europe"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "Raiffeisen Bank International AG"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 584803e15bbc53a7e44977b610d2b7713155410698bcd6ce852c72735a5bc520
 canonical: 28025-building-with-passion-how-heike-arbter-shaped-raiffeisens-certificates-franchise.json
 ---

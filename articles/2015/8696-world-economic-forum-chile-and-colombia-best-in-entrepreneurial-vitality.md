@@ -1,12 +1,21 @@
 ---
 id: 8696
 title: "World Economic Forum: Chile and Colombia Best in Entrepreneurial Vitality"
-award_year: 2015
+year: 2015
 published: 2015-01-12 14:15:00
 published_gmt: 2015-01-12 14:15:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/01/world-economic-forum-chile-and-colombia-best-in-entrepreneurial-vitality/"
 categories: ["Africa", "Europe", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1b0ad73169984c22394428f9401f749085a9d07ab9bfe51bac9719ef6d848c8d
 canonical: 8696-world-economic-forum-chile-and-colombia-best-in-entrepreneurial-vitality.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 24213
 title: "Full Steam Ahead: MTR Boss Jacob Kam Chak-pui Puts Company Right on Track"
-award_year: 2022
+year: 2022
 published: 2022-12-19 20:25:16
 published_gmt: 2022-12-19 20:25:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/12/full-steam-ahead-mtr-boss-jacob-kam-chak-pui-puts-company-right-on-track/"
 categories: ["Asia Pacific", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8a5c6d2fbaeae44accf32f2d82487369894a0748ead5097e7674981bdeaf6790
 canonical: 24213-full-steam-ahead-mtr-boss-jacob-kam-chak-pui-puts-company-right-on-track.json
 ---

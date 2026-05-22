@@ -1,12 +1,21 @@
 ---
 id: 27478
 title: "Why Coffee and Chocolate Prices Are Heating Up in 2025"
-award_year: 2025
+year: 2025
 published: 2025-01-13 13:38:24
 published_gmt: 2025-01-13 13:38:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/01/why-coffee-and-chocolate-prices-are-heating-up-in-2025/"
 categories: ["Europe", "Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 00c4e3d94ed677229ad815282e56e73896ac61634260bcee86c629f30c511f51
 canonical: 27478-why-coffee-and-chocolate-prices-are-heating-up-in-2025.json
 ---

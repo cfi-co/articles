@@ -1,12 +1,21 @@
 ---
 id: 21620
 title: "The Great Dictator Becomes More and More Isolated"
-award_year: 2022
+year: 2022
 published: 2022-03-07 17:58:22
 published_gmt: 2022-03-07 17:58:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/03/the-great-dictator-becomes-more-and-more-isolated/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6fa522457487d1eddd390fceaa8661cc689eedc5b35f9d4aaa04fddd8e17ad70
 canonical: 21620-the-great-dictator-becomes-more-and-more-isolated.json
 ---

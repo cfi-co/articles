@@ -1,12 +1,21 @@
 ---
 id: 12952
 title: "Adrian Owen: Brain Whisperer"
-award_year: 2018
+year: 2018
 published: 2018-09-24 16:57:11
 published_gmt: 2018-09-24 15:57:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/09/adrian-owen-brain-whisperer/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3b69d24ca5a887ec714a554dd4509704ffe90a3bf4034e046782a4c1efca62cc
 canonical: 12952-adrian-owen-brain-whisperer.json
 ---

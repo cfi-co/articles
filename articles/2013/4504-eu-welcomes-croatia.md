@@ -1,12 +1,21 @@
 ---
 id: 4504
 title: "EU Welcomes Croatia"
-award_year: 2013
+year: 2013
 published: 2013-07-02 11:27:41
 published_gmt: 2013-07-02 10:27:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/07/eu-welcomes-croatia/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: de997aeb2aea76d53303bbcdb7a58e4714c0f123f96b5229c7ceebeaf5fc066b
 canonical: 4504-eu-welcomes-croatia.json
 ---

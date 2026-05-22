@@ -1,12 +1,21 @@
 ---
 id: 1858
 title: "Frugality, Education, Infrastructure and Attitude Change is Needed in the West: We Should Not Rely on Keynesian Nostrums to Pull Us Through"
-award_year: 2012
+year: 2012
 published: 2012-08-20 00:01:44
 published_gmt: 2012-08-19 23:01:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2012/08/frugality-education-infrastructure-and-attitude-change-is-needed-in-the-west-we-should-not-rely-on-keynesian-nostrums-to-pull-us-through/"
 categories: ["Asia Pacific", "Banking", "Europe", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 49bde04c71d003580f97cefed7f564d58f826d440039e0086d058bc702761c73
 canonical: 1858-frugality-education-infrastructure-and-attitude-change-is-needed-in-the-west-we-.json
 ---

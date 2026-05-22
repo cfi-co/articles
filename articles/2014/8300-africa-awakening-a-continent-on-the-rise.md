@@ -1,12 +1,21 @@
 ---
 id: 8300
 title: "Africa Awakening: A Continent on the Rise"
-award_year: 2014
+year: 2014
 published: 2014-10-27 12:57:40
 published_gmt: 2014-10-27 12:57:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/10/africa-awakening-a-continent-on-the-rise/"
 categories: ["Africa", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 84ca6b4a30230c1b4d2837bc6463fedee6bf8c20878dac054c92bb2d9ffa6fa8
 canonical: 8300-africa-awakening-a-continent-on-the-rise.json
 ---

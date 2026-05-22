@@ -1,12 +1,21 @@
 ---
 id: 28152
 title: "'Sanaenomics': The Abenomics 2.0 Shift from Deflation to Security"
-award_year: 2025
+year: 2025
 published: 2025-12-15 07:32:13
 published_gmt: 2025-12-15 07:32:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2025/12/sanaenomics-the-abenomics-2-0-shift-from-deflation-to-security/"
 categories: ["Asia Pacific", "Economics &amp; Convergence"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c52bbecb17f77b3dcc365edb028424cbe60745e873c57d9f08294c8b954e391a
 canonical: 28152-sanaenomics-the-abenomics-2-0-shift-from-deflation-to-security.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 22220
 title: "Greenbacks for a Green Future: It’s the Cost of Decarbonisation"
-award_year: 2022
+year: 2022
 published: 2022-06-09 06:25:55
 published_gmt: 2022-06-09 05:25:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2022/06/greenbacks-for-a-green-future-its-the-cost-of-decarbonisation/"
 categories: ["North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 06ff57eeb4e2fa3a7914309432539a0527398966cda8006cc249bd24c8abfa08
 canonical: 22220-greenbacks-for-a-green-future-its-the-cost-of-decarbonisation.json
 ---

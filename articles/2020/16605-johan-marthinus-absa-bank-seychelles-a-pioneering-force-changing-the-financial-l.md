@@ -1,12 +1,21 @@
 ---
 id: 16605
 title: "Johan Marthinus - Absa Bank Seychelles: A Pioneering Force Changing the Financial Landscape"
-award_year: 2020
+year: 2020
 published: 2020-08-14 12:38:44
 published_gmt: 2020-08-14 11:38:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/08/johan-marthinus-absa-bank-seychelles-a-pioneering-force-changing-the-financial-landscape/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6165c7abbb37bcbc912917aca9c1c4edde999e8ec838fdc3b13e36ad3e8855d7
 canonical: 16605-johan-marthinus-absa-bank-seychelles-a-pioneering-force-changing-the-financial-l.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 11637
 title: "Evan Harvey, Nasdaq: ESG Reporting - Six Reasons Why"
-award_year: 2017
+year: 2017
 published: 2017-06-05 10:57:30
 published_gmt: 2017-06-05 09:57:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2017/06/evan-harvey-nasdaq-esg-reporting-six-reasons-why/"
 categories: ["Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6169510b2cda37e22e9589a0457877709ccdbffe4559eb57de79aa97d14b0bc3
 canonical: 11637-evan-harvey-nasdaq-esg-reporting-six-reasons-why.json
 ---

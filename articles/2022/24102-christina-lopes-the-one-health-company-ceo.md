@@ -1,12 +1,21 @@
 ---
 id: 24102
 title: "Christina Lopes, The One Health Company CEO and Co-founder: A Trailblazer for Canine Cancer Care"
-award_year: 2022
+year: 2022
 published: 2022-11-28 14:50:05
 published_gmt: 2022-11-28 14:50:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2022/11/christina-lopes-the-one-health-company-ceo/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ed238dd1fb02c185bdbbf1e0ffbea0e7d9d8449b17c52173d6f072ded8c58ea4
 canonical: 24102-christina-lopes-the-one-health-company-ceo.json
 ---

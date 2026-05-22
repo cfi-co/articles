@@ -1,12 +1,21 @@
 ---
 id: 21794
 title: "ORBIAN: Optimised Supplier Strategies and Ongoing Recognition"
-award_year: 2022
+year: 2022
 published: 2022-05-06 13:43:51
 published_gmt: 2022-05-06 12:43:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/orbian-optimised-supplier-strategies-and-ongoing-recognition/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8f420904814bd6edd04b9325a51010cb23f5d90a0ef016385b6e3c83e79229f7
 canonical: 21794-orbian-optimised-supplier-strategies-and-ongoing-recognition.json
 ---

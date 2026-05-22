@@ -1,12 +1,21 @@
 ---
 id: 12479
 title: "Jerome Powell, Chair of the Federal Reserve: The End of Easy Money"
-award_year: 2018
+year: 2018
 published: 2018-05-04 12:01:24
 published_gmt: 2018-05-04 11:01:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/special-features/2018/05/jerome-powell-chair-of-the-federal-reserve-the-end-of-easy-money/"
 categories: ["Special Features"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 753f1eb22e9f562caa749ac8b489a61c4846eb87e9cec11b5abbd968e584402e
 canonical: 12479-jerome-powell-chair-of-the-federal-reserve-the-end-of-easy-money.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 865
 title: "Bank for International Settlements – General Manager’s Speech: It’s Time to Address the Root Causes"
-award_year: 2012
+year: 2012
 published: 2012-06-27 11:39:19
 published_gmt: 2012-06-27 10:39:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/06/bank-for-international-settlements-general-managers-speech-its-time-to-address-the-root-causes/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eedc2fab908dbe30a0dd233f588db2f52bea9d1317e501ca7209cb642320996c
 canonical: 865-bank-for-international-settlements-general-managers-speech-its-time-to-address-t.json
 ---

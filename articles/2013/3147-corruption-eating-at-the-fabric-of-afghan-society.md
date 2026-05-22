@@ -1,12 +1,21 @@
 ---
 id: 3147
 title: "Corruption: Eating at the Fabric of Afghan Society"
-award_year: 2013
+year: 2013
 published: 2013-02-26 14:43:08
 published_gmt: 2013-02-26 14:43:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/02/corruption-eating-at-the-fabric-of-afghan-society/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c87ccfd1963379a48fc063824c3f6d4c87c48c852d0dc53ca485e5ef0585c664
 canonical: 3147-corruption-eating-at-the-fabric-of-afghan-society.json
 ---

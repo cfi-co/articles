@@ -1,12 +1,21 @@
 ---
 id: 12946
 title: "Michel Barnier: Keep Calm and Carry On"
-award_year: 2018
+year: 2018
 published: 2018-09-24 17:04:07
 published_gmt: 2018-09-24 16:04:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/09/michel-barnier-keep-calm-and-carry-on/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e0cdf5977abc0614d2c4200fa8b9189493492096f62e95ba77164fe5a671ab48
 canonical: 12946-michel-barnier-keep-calm-and-carry-on.json
 ---

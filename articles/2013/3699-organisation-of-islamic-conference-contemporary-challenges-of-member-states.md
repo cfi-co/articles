@@ -1,12 +1,21 @@
 ---
 id: 3699
 title: "Organisation of Islamic Conference: Contemporary Challenges of Member States"
-award_year: 2013
+year: 2013
 published: 2013-04-19 10:14:22
 published_gmt: 2013-04-19 09:14:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/04/organisation-of-islamic-conference-contemporary-challenges-of-member-states/"
 categories: ["Africa", "Asia Pacific", "Latin America", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d38582c11a0eed0565ffd01a3d923e0f4efb16585030ecd6759de95e756fecd0
 canonical: 3699-organisation-of-islamic-conference-contemporary-challenges-of-member-states.json
 ---

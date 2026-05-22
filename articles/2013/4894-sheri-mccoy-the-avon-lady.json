@@ -10,8 +10,21 @@
     "categories": [
         "North America"
     ],
+    "classification": {
+        "content_class": "editorial_analysis",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"alignright size-full wp-image-4901\" alt=\"Sheri McCoy\" src=\"https://cfi.co/wp-content/uploads/2013/08/Sheri-McCoy.jpg\" width=\"183\" height=\"275\" />Sheri McCoy is one of the relatively few global business leaders to have risen through the ranks of a major multinational.</strong> Having been overlooked in the search for a CEO at Johnson &amp; Johnson, where she had risen to the position of vice-chairman during her 30 year career, she has taken on that role at Avon. It may be fair to say that Johnson &amp; Johnson’s loss has been Avon’s gain. McCoy did not take over the leadership of Avon at the easiest of times: the company’s financial reputation was at a low ebb following the SEC probe into bribery charges and the business model was under pressure in key markets. Avon needed a new leader and in McCoy they not only have someone whose personal value set is an excellent match with that of the company but at chief executive that also brings to bear the ability to identify  and exploit new opportunities and focus on the bottom line. Given Avon’s first quarter 2013 results there would appear to be good reason for the  optimistic view that a successful new chapter in Avon’s long history is about to open. We wish Sheri McCoy and Avon well as the Company continues to empower women across the globe.</p>",
     "content_sha256": "73dbae555de644c4775da6ae03284a368de37de49c7538c32905d90caf544c65",
-    "record_sha256": "c76f59489ff5ff949603bef2d06fb80c17f8b49818f23f7f619ac3dff79a4038"
+    "record_sha256": "2ba0bba054dc7b5d10c982fb848aaaf3af776b919531b57840ff3d2dc5ef31fd"
 }

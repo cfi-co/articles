@@ -1,12 +1,21 @@
 ---
 id: 17943
 title: "Don’t Expect Miracles from the Multilaterals"
-award_year: 2020
+year: 2020
 published: 2020-11-16 14:43:44
 published_gmt: 2020-11-16 14:43:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/11/dont-expect-miracles-from-the-multilaterals/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 423372e860e6235e69592d6caacf8649cbe51ea3efb51124abec88725efec6d9
 canonical: 17943-dont-expect-miracles-from-the-multilaterals.json
 ---

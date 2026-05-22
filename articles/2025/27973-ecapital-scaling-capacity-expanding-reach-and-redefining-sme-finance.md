@@ -1,12 +1,21 @@
 ---
 id: 27973
 title: "eCapital: Scaling Capacity, Expanding Reach, and Redefining SME Finance"
-award_year: 2025
+year: 2025
 published: 2025-09-30 12:20:16
 published_gmt: 2025-09-30 11:20:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2025/09/ecapital-scaling-capacity-expanding-reach-and-redefining-sme-finance/"
 categories: ["Corporate", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ddbf6a08590beb7a4b10d0d2539690d4181a67b97f236f4e9bdbf27d4f22ff39
 canonical: 27973-ecapital-scaling-capacity-expanding-reach-and-redefining-sme-finance.json
 ---

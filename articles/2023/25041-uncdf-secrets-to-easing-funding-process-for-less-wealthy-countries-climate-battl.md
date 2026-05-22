@@ -1,12 +1,21 @@
 ---
 id: 25041
 title: "UNCDF: Secrets to Easing Funding Process for Less Wealthy Countries’ Climate Battle"
-award_year: 2023
+year: 2023
 published: 2023-03-28 14:54:37
 published_gmt: 2023-03-28 13:54:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2023/03/uncdf-secrets-to-easing-funding-process-for-less-wealthy-countries-climate-battle/"
 categories: ["Middle East", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bb6d6ee97206320ab4e3faa22d0091e8034ec031ba5c5bbcb23e72c19e6d9c54
 canonical: 25041-uncdf-secrets-to-easing-funding-process-for-less-wealthy-countries-climate-battl.json
 ---

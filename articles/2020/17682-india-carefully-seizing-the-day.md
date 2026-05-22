@@ -1,12 +1,21 @@
 ---
 id: 17682
 title: "India: Carefully Seizing the Day"
-award_year: 2020
+year: 2020
 published: 2020-10-27 13:22:21
 published_gmt: 2020-10-27 13:22:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/10/india-carefully-seizing-the-day/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3455233eb2c543981d1b3879537d703fc75c1c52343c2712ed83442a151b54df
 canonical: 17682-india-carefully-seizing-the-day.json
 ---

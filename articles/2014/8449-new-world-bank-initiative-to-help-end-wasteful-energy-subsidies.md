@@ -1,12 +1,21 @@
 ---
 id: 8449
 title: "New World Bank Initiative to Help End Wasteful Energy Subsidies"
-award_year: 2014
+year: 2014
 published: 2014-11-27 15:29:33
 published_gmt: 2014-11-27 15:29:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/11/new-world-bank-initiative-to-help-end-wasteful-energy-subsidies/"
 categories: ["Europe", "Oil &amp; Mining", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5a20a2291c4da945360905c1dc612baa332bbd25fb7f17c1e0cde7435a2c2869
 canonical: 8449-new-world-bank-initiative-to-help-end-wasteful-energy-subsidies.json
 ---

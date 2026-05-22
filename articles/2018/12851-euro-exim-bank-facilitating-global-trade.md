@@ -1,12 +1,21 @@
 ---
 id: 12851
 title: "Euro Exim Bank: Facilitating Global Trade"
-award_year: 2018
+year: 2018
 published: 2018-08-02 13:27:41
 published_gmt: 2018-08-02 12:27:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2018/08/euro-exim-bank-facilitating-global-trade/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2052fc79c0de8b714e2fc2e52f1a907a39640cfb3ade79a2e8747be09e8c37a5
 canonical: 12851-euro-exim-bank-facilitating-global-trade.json
 ---

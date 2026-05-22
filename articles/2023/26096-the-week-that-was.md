@@ -1,12 +1,21 @@
 ---
 id: 26096
 title: "The Week That Was... 39"
-award_year: 2023
+year: 2023
 published: 2023-09-25 10:50:16
 published_gmt: 2023-09-25 09:50:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2023/09/the-week-that-was-39/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7c14fe6642f505bd488b12927de544c30dc2b24c96bb23e25eaac3cfe56e33cd
 canonical: 26096-the-week-that-was.json
 ---

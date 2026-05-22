@@ -1,12 +1,21 @@
 ---
 id: 4599
 title: "Nelson Mandela: Giant of Our Times"
-award_year: 2013
+year: 2013
 published: 2013-07-17 09:34:59
 published_gmt: 2013-07-17 08:34:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/07/nelson-mandela-giant-of-our-times/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0ce2a83aad7d773996e43bf293af10d2c652c13e050bf6c8b9a344e6c693fbcd
 canonical: 4599-nelson-mandela-giant-of-our-times.json
 ---

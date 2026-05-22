@@ -1,12 +1,21 @@
 ---
 id: 20311
 title: "Green Bonds: How Active Management Aims to Make the Most of a Dynamic Sector"
-award_year: 2021
+year: 2021
 published: 2021-08-04 17:02:55
 published_gmt: 2021-08-04 16:02:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2021/08/green-bonds-how-active-management-aims-to-make-the-most-of-a-dynamic-sector/"
 categories: ["Energy", "Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 752cae6023aabd90a766e0ed15b0498cdc8cdcc7e76bbbaa0e1d5c917af927ea
 canonical: 20311-green-bonds-how-active-management-aims-to-make-the-most-of-a-dynamic-sector.json
 ---

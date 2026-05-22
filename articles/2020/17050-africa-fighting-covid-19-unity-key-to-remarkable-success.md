@@ -1,12 +1,21 @@
 ---
 id: 17050
 title: "Africa - Unity Key to Remarkable Success in Fighting Covid-19"
-award_year: 2020
+year: 2020
 published: 2020-09-24 12:18:20
 published_gmt: 2020-09-24 11:18:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/09/africa-fighting-covid-19-unity-key-to-remarkable-success/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d3705df9c3b843dc1172cf61a5ba10b57759a88acf326e45187caae5240b9595
 canonical: 17050-africa-fighting-covid-19-unity-key-to-remarkable-success.json
 ---

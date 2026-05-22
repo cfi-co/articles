@@ -1,12 +1,21 @@
 ---
 id: 748
 title: "Dimon: Traders at JPMorgan Chase may face Bonus Clawbacks as Punishment"
-award_year: 2012
+year: 2012
 published: 2012-06-14 22:31:22
 published_gmt: 2012-06-14 21:31:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/06/dimon-traders-at-jpmorgan-chase-may-face-bonus-clawbacks-as-punishment/"
 categories: ["Banking", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ed2e47b4cec841cb7c5ba3fbb5009b10a842d45d055c937540d3c020c533be7d
 canonical: 748-dimon-traders-at-jpmorgan-chase-may-face-bonus-clawbacks-as-punishment.json
 ---

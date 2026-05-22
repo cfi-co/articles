@@ -1,12 +1,21 @@
 ---
 id: 19935
 title: "AVL: Embracing Change and Driving Future Mobility Trends"
-award_year: 2021
+year: 2021
 published: 2021-07-12 15:39:49
 published_gmt: 2021-07-12 14:39:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/avl-embracing-change-and-driving-future-mobility-trends/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dd028c7fdd0338c97038b56bc2ac5486752cb166c0aa83ce4880798ab57852cf
 canonical: 19935-avl-embracing-change-and-driving-future-mobility-trends.json
 ---

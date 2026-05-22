@@ -1,12 +1,21 @@
 ---
 id: 7289
 title: "CFI.co Meets the CEO of Amaar Group: Munif Treish"
-award_year: 2014
+year: 2014
 published: 2014-01-02 18:37:59
 published_gmt: 2014-01-02 18:37:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/01/cfi-co-meets-the-ceo-of-amaar-group-munif-treish/"
 categories: ["Corporate Leaders", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d03c0928c3096de59128772cc0b0a243893ba08d125796c02416989a78c01bd3
 canonical: 7289-cfi-co-meets-the-ceo-of-amaar-group-munif-treish.json
 ---

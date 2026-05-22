@@ -1,12 +1,21 @@
 ---
 id: 4041
 title: "Prof Kearney Goes for Triple Crown"
-award_year: 2013
+year: 2013
 published: 2013-05-21 16:19:38
 published_gmt: 2013-05-21 15:19:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/05/prof-kearney-goes-for-triple-crown/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2ed111b3599e90580aed60f23a20a2b1d6ef4df313f5e5624f2b1718c68ad96f
 canonical: 4041-prof-kearney-goes-for-triple-crown.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 17949
 title: "Moderna Delivers Booster Shot for Wavering Markets"
-award_year: 2020
+year: 2020
 published: 2020-11-17 16:35:22
 published_gmt: 2020-11-17 16:35:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/11/moderna-vaccine-delivers-booster-shot-for-wavering-markets/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 656b5b0c44690492d7bb4591d5f5ac7e28a04867a8e94f5d91b44a3689a42bd3
 canonical: 17949-moderna-vaccine-delivers-booster-shot-for-wavering-markets.json
 ---

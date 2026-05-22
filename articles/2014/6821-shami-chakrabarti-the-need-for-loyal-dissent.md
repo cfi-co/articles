@@ -1,12 +1,21 @@
 ---
 id: 6821
 title: "Shami Chakrabarti: The Need for Loyal Dissent"
-award_year: 2014
+year: 2014
 published: 2014-03-18 09:42:13
 published_gmt: 2014-03-18 09:42:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/03/shami-chakrabarti-the-need-for-loyal-dissent/"
 categories: ["Europe", "Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 632f0d737d1964000586e6291f54225aad8eace6d6bf85481ae751e0bf9661bb
 canonical: 6821-shami-chakrabarti-the-need-for-loyal-dissent.json
 ---

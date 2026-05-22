@@ -1,12 +1,21 @@
 ---
 id: 9724
 title: "Martha Lane-Fox: Dot Everyone to Reclaim the Net for Civil Society"
-award_year: 2015
+year: 2015
 published: 2015-05-06 16:13:34
 published_gmt: 2015-05-06 15:13:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/05/martha-lane-fox-dot-everyone-to-reclaim-the-net-for-civil-society/"
 categories: ["Europe", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 20f6881e564dbde0632cde0cf262ebc8109c365a56f3bf1d0ac5da305c7d611e
 canonical: 9724-martha-lane-fox-dot-everyone-to-reclaim-the-net-for-civil-society.json
 ---

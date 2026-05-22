@@ -1,12 +1,21 @@
 ---
 id: 21406
 title: "Former Student Protest Leader Claims Presidency in Chile"
-award_year: 2021
+year: 2021
 published: 2021-12-24 06:45:42
 published_gmt: 2021-12-24 06:45:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2021/12/former-student-protest-leader-claims-presidency-in-chile/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ae29ee9cd13f9f26dd9fe817336d88cdba28b3949cf2da56e727f74929e492b8
 canonical: 21406-former-student-protest-leader-claims-presidency-in-chile.json
 ---

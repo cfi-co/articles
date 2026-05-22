@@ -1,12 +1,21 @@
 ---
 id: 8602
 title: "World Bank to Promote High-Quality Innovations in Kazakhstan"
-award_year: 2014
+year: 2014
 published: 2014-12-30 14:48:40
 published_gmt: 2014-12-30 14:48:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/12/world-bank-to-promote-high-quality-innovations-in-kazakhstan/"
 categories: ["Asia Pacific", "Innovation &amp; Technology", "Projects", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: abf0c599525ba904d3dfec47febf04530a335a3f4ccefb184ee104399099f374
 canonical: 8602-world-bank-to-promote-high-quality-innovations-in-kazakhstan.json
 ---

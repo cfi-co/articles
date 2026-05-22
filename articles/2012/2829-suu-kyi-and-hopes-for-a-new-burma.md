@@ -1,12 +1,21 @@
 ---
 id: 2829
 title: "Suu Kyi and Hopes for a New Burma"
-award_year: 2012
+year: 2012
 published: 2012-12-28 11:55:11
 published_gmt: 2012-12-28 11:55:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2012/12/suu-kyi-and-hopes-for-a-new-burma/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b9dd655588ea12b503d8ad3920d3abe1de04e4600a09e7d238fbc611d5fc20ed
 canonical: 2829-suu-kyi-and-hopes-for-a-new-burma.json
 ---

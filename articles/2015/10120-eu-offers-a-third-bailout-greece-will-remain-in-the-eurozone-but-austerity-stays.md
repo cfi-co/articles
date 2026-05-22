@@ -1,12 +1,21 @@
 ---
 id: 10120
 title: "EU Offers a Third Bailout: Greece Will Remain in the Eurozone but Austerity Stays too"
-award_year: 2015
+year: 2015
 published: 2015-07-13 16:24:27
 published_gmt: 2015-07-13 15:24:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/07/eu-offers-a-third-bailout-greece-will-remain-in-the-eurozone-but-austerity-stays-too/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e8f5b458063916ca4960df65e88474fa056fa23b7c1728414de82bf6d2f8ebf3
 canonical: 10120-eu-offers-a-third-bailout-greece-will-remain-in-the-eurozone-but-austerity-stays.json
 ---

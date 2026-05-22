@@ -1,12 +1,21 @@
 ---
 id: 8584
 title: "China’s High-Speed Rail: the Rapid Growth of a New Travel Option"
-award_year: 2014
+year: 2014
 published: 2014-12-22 10:25:56
 published_gmt: 2014-12-22 10:25:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/12/chinas-high-speed-rail-the-rapid-growth-of-a-new-travel-option/"
 categories: ["Asia Pacific", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b8b51266dd83c88b8c659a7f59cf5a94ced4fe5ee6006f8da6c0b3c8523e201b
 canonical: 8584-chinas-high-speed-rail-the-rapid-growth-of-a-new-travel-option.json
 ---

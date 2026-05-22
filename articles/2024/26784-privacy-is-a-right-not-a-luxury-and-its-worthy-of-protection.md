@@ -1,12 +1,21 @@
 ---
 id: 26784
 title: "Privacy is a Right, Not a Luxury – and it’s Worthy of Protection"
-award_year: 2024
+year: 2024
 published: 2024-04-29 10:29:29
 published_gmt: 2024-04-29 09:29:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2024/04/privacy-is-a-right-not-a-luxury-and-its-worthy-of-protection/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2ef60d6bae6ef29a218e49c0cd49f63b89a8ab1c8cab91f85173cda193be8bff
 canonical: 26784-privacy-is-a-right-not-a-luxury-and-its-worthy-of-protection.json
 ---

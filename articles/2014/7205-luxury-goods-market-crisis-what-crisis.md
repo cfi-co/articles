@@ -1,12 +1,21 @@
 ---
 id: 7205
 title: "Luxury Goods Market: Crisis? What Crisis?"
-award_year: 2014
+year: 2014
 published: 2014-05-16 14:52:22
 published_gmt: 2014-05-16 13:52:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2014/05/luxury-goods-market-crisis-what-crisis/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1f2061d5c0282ad2dff68041f77871d9c061158100c2b557b8478f1ba42b1bde
 canonical: 7205-luxury-goods-market-crisis-what-crisis.json
 ---

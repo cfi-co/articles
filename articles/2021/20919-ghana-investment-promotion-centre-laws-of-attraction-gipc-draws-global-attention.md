@@ -1,12 +1,21 @@
 ---
 id: 20919
 title: "Ghana Investment Promotion Centre: Laws of Attraction - GIPC Draws Global Attention to the Investment Opportunities in Ghana"
-award_year: 2021
+year: 2021
 published: 2021-11-01 10:42:40
 published_gmt: 2021-11-01 10:42:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/ghana-investment-promotion-centre-laws-of-attraction-gipc-draws-global-attention-to-the-investment-opportunities-in-ghana/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: baded3aa3f4bba7df6b453651eed7494337f985bb40ef98e50684ff5c442cbee
 canonical: 20919-ghana-investment-promotion-centre-laws-of-attraction-gipc-draws-global-attention.json
 ---

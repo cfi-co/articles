@@ -1,12 +1,21 @@
 ---
 id: 21984
 title: "Asymmetry, Risk, Reward & Commitment: Balancing Acts are EMCORE’s Stock-in-Trade"
-award_year: 2022
+year: 2022
 published: 2022-05-19 07:13:41
 published_gmt: 2022-05-19 06:13:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/asymmetry-risk-reward-commitment-balancing-acts-are-emcores-stock-in-trade/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f1192070d912cc91059dad72ac6524dbdf8cbed0f60d8bf6c5eb87617a56a80d
 canonical: 21984-asymmetry-risk-reward-commitment-balancing-acts-are-emcores-stock-in-trade.json
 ---

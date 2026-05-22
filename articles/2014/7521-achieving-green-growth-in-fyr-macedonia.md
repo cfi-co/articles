@@ -1,12 +1,21 @@
 ---
 id: 7521
 title: "Achieving Green Growth in FYR Macedonia"
-award_year: 2014
+year: 2014
 published: 2014-06-27 11:02:30
 published_gmt: 2014-06-27 10:02:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/06/achieving-green-growth-in-fyr-macedonia/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 02011037d8016e757475ad9023dc609ecfbea3d654e919550da602e5c3e230fd
 canonical: 7521-achieving-green-growth-in-fyr-macedonia.json
 ---

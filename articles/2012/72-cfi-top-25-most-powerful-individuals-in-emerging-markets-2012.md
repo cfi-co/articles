@@ -1,12 +1,21 @@
 ---
 id: 72
 title: "CFI Top 25 Most Powerful Individuals in Emerging Markets 2012"
-award_year: 2012
+year: 2012
 published: 2012-02-28 14:49:45
 published_gmt: 2012-02-28 14:49:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/02/cfi-top-25-most-powerful-individuals-in-emerging-markets-2012/"
 categories: ["Africa", "Asia Pacific", "Latin America", "Lifestyle", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 45b2175a73d094a664e004b8621c4dd7a1aebc779bd33785766da858ff3a7ccd
 canonical: 72-cfi-top-25-most-powerful-individuals-in-emerging-markets-2012.json
 ---

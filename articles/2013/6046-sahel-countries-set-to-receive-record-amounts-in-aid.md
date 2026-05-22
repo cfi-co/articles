@@ -1,12 +1,21 @@
 ---
 id: 6046
 title: "Sahel Countries Set to Receive Record Amounts in Aid"
-award_year: 2013
+year: 2013
 published: 2013-11-15 12:32:44
 published_gmt: 2013-11-15 12:32:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/11/sahel-countries-set-to-receive-record-amounts-in-aid/"
 categories: ["Africa", "Europe", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0f514b0e009ce8569990f15261108ba737808850e5e1efe9561466e9b0b040ec
 canonical: 6046-sahel-countries-set-to-receive-record-amounts-in-aid.json
 ---

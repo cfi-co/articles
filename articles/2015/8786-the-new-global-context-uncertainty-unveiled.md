@@ -1,12 +1,21 @@
 ---
 id: 8786
 title: "The New Global Context - Uncertainty Unveiled"
-award_year: 2015
+year: 2015
 published: 2015-01-21 12:47:06
 published_gmt: 2015-01-21 12:47:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/01/the-new-global-context-uncertainty-unveiled/"
 categories: ["Europe", "Finance", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e32e1b9b53a24fbde5b00d842f9f0a3a3fbc9bafffc035a52c11dfcfbdfb944
 canonical: 8786-the-new-global-context-uncertainty-unveiled.json
 ---

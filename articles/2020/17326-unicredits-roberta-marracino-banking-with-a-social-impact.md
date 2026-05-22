@@ -1,12 +1,21 @@
 ---
 id: 17326
 title: "UniCredit’s Roberta Marracino: Banking with a Social Impact"
-award_year: 2020
+year: 2020
 published: 2020-12-14 14:59:38
 published_gmt: 2020-12-14 14:59:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2020/12/unicredits-roberta-marracino-banking-with-a-social-impact/"
 categories: ["Banking", "Corporate Leaders", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3a7866a0825283b0ab5abc4167f2adb2f65c5591a0f020c4ffd4761cce64cf2a
 canonical: 17326-unicredits-roberta-marracino-banking-with-a-social-impact.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 25919
 title: "Inverted Yield Curves and Central Bankers Pull Focus to the Tetons as BRICS Founders"
-award_year: 2023
+year: 2023
 published: 2023-08-24 10:31:04
 published_gmt: 2023-08-24 09:31:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/08/inverted-yield-curves-and-central-bankers-pull-focus-to-the-tetons-as-brics-founders/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 015eaed4ae3c9a7a547b1dca76b895ce643ac45b67c370c1e4fb23b593f45cf6
 canonical: 25919-inverted-yield-curves-and-central-bankers-pull-focus-to-the-tetons-as-brics-foun.json
 ---

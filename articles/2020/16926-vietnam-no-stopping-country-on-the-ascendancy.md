@@ -1,12 +1,21 @@
 ---
 id: 16926
 title: "Vietnam - No Stopping Country on the Ascendancy"
-award_year: 2020
+year: 2020
 published: 2020-09-14 12:51:49
 published_gmt: 2020-09-14 11:51:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/09/vietnam-no-stopping-country-on-the-ascendancy/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a7b687029bcb83ad8110fc1fc139d1c79cc8bcdf938edd099a5f248c5754b49d
 canonical: 16926-vietnam-no-stopping-country-on-the-ascendancy.json
 ---

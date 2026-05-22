@@ -1,12 +1,21 @@
 ---
 id: 25859
 title: "Tech-Up Transition for Philippines Bank has Swept the Nation Along Towards an Enticing Digital Future"
-award_year: 2023
+year: 2023
 published: 2023-07-31 11:37:19
 published_gmt: 2023-07-31 10:37:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2023/07/tech-up-transition-for-union-bank-of-the-philippines/"
 categories: ["Asia Pacific", "Banking", "Corporate", "Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c940cbc2caf6e07f5aa0b4afc8a50686f1911e3be0c3035195c33e94d8675b32
 canonical: 25859-tech-up-transition-for-union-bank-of-the-philippines.json
 ---

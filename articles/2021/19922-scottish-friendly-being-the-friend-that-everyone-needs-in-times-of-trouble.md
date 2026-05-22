@@ -1,12 +1,21 @@
 ---
 id: 19922
 title: "Scottish Friendly: Being the Friend that Everyone Needs in Times of Trouble"
-award_year: 2021
+year: 2021
 published: 2021-07-13 12:56:13
 published_gmt: 2021-07-13 11:56:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/scottish-friendly-being-the-friend-that-everyone-needs-in-times-of-trouble/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5494afd37bd3d0a5cd6f1c514e03adfcc0886fc8472c0689fb0ef16fdaf8659f
 canonical: 19922-scottish-friendly-being-the-friend-that-everyone-needs-in-times-of-trouble.json
 ---

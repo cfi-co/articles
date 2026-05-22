@@ -1,12 +1,21 @@
 ---
 id: 12008
 title: "Jean-Claude Juncker"
-award_year: 2017
+year: 2017
 published: 2017-09-12 12:57:46
 published_gmt: 2017-09-12 11:57:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2017/09/jean-claude-juncker/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c54b45ab395e9a5210e1d75d6094fcb6d6c9c53164b47807f178514a2ceac8e5
 canonical: 12008-jean-claude-juncker.json
 ---

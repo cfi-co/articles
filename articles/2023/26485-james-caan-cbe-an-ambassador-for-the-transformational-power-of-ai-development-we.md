@@ -1,12 +1,21 @@
 ---
 id: 26485
 title: "James Caan CBE, an Ambassador for the Transformational Power of AI Development, Welcomes the £500m Boost for AI Development in the Autumn Statement"
-award_year: 2023
+year: 2023
 published: 2023-11-23 13:15:02
 published_gmt: 2023-11-23 13:15:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/11/james-caan-cbe-an-ambassador-for-the-transformational-power-of-ai-development-welcomes-the-500m-boost-for-ai-development-in-the-autumn-statement/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bcce99ec0ef4b6ab2fe51b8406e71ed5ce12fe78868180ffd32c9fc46dc0f485
 canonical: 26485-james-caan-cbe-an-ambassador-for-the-transformational-power-of-ai-development-we.json
 ---

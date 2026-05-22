@@ -1,12 +1,21 @@
 ---
 id: 18665
 title: "Colliers: Ireland’s Slow Recovery Contains Some Real Reasons for Optimism"
-award_year: 2021
+year: 2021
 published: 2021-02-04 19:07:54
 published_gmt: 2021-02-04 19:07:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/colliers-irelands-slow-recovery-contains-some-real-reasons-for-optimism/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 82a0bcdf45e7f0d50261742739f697cd0fb752c0a2aad1c658f7ee14cbe1c824
 canonical: 18665-colliers-irelands-slow-recovery-contains-some-real-reasons-for-optimism.json
 ---

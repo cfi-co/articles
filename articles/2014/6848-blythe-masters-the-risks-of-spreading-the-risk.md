@@ -1,12 +1,21 @@
 ---
 id: 6848
 title: "Blythe Masters: The Risks of Spreading the Risk"
-award_year: 2014
+year: 2014
 published: 2014-03-24 14:06:11
 published_gmt: 2014-03-24 14:06:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/03/blythe-masters-the-risks-of-spreading-the-risk/"
 categories: ["Banking", "Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fd0e8e2a164e5195e4ac16b96790b2ab15be2441d18c9f0f3b51314abb0c7469
 canonical: 6848-blythe-masters-the-risks-of-spreading-the-risk.json
 ---

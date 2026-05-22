@@ -1,12 +1,21 @@
 ---
 id: 27632
 title: "Mary Wells Lawrence: The Woman Who Redefined Advertising"
-award_year: 2025
+year: 2025
 published: 2025-03-12 15:14:34
 published_gmt: 2025-03-12 15:14:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2025/03/mary-wells-lawrence-the-woman-who-redefined-advertising/"
 categories: ["Heroes", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9c88bc1cfef33a50dd595985037deaf565ed9fde932b5e90b21e76e333891b42
 canonical: 27632-mary-wells-lawrence-the-woman-who-redefined-advertising.json
 ---

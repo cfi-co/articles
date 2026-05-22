@@ -1,12 +1,21 @@
 ---
 id: 23745
 title: "Carlo Giugovaz, Supernovae Labs: Innovation, Inspiration, Experience and a Passion for Financial Industry Challenges"
-award_year: 2022
+year: 2022
 published: 2022-10-27 14:48:50
 published_gmt: 2022-10-27 13:48:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/10/carlo-giugovaz-supernovae-labs-innovation-inspiration-experience-and-a-passion-for-financial-industry-challenges/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 208e61f47e2fd9cb68bf251507aa6e8e677b340b65a42843d5f9fa60e856420f
 canonical: 23745-carlo-giugovaz-supernovae-labs-innovation-inspiration-experience-and-a-passion-f.json
 ---

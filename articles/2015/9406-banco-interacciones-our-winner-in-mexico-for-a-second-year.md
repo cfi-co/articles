@@ -1,12 +1,21 @@
 ---
 id: 9406
 title: "Banco Interacciones: Our Winner in Mexico for a Second Year"
-award_year: 2015
+year: 2015
 published: 2015-02-01 14:02:25
 published_gmt: 2015-02-01 14:02:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 16b3ccb2fdd7d45a016310b20785bbe97fc9b9c0d8b35d96bf983e9b2549b44f
 canonical: 9406-banco-interacciones-our-winner-in-mexico-for-a-second-year.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 24282
 title: "China’s Economy Is in Flux. Here’s What Businesses Need to Know"
-award_year: 2023
+year: 2023
 published: 2023-01-04 12:20:49
 published_gmt: 2023-01-04 12:20:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/01/chinas-economy-is-in-flux-heres-what-businesses-need-to-know/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c3ceb5034d1e7f5abfa39bbd3b201f648c5e507f0fac44ea65c060013949b7ad
 canonical: 24282-chinas-economy-is-in-flux-heres-what-businesses-need-to-know.json
 ---

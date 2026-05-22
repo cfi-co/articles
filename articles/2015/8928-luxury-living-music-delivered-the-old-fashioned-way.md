@@ -1,12 +1,21 @@
 ---
 id: 8928
 title: "Luxury Living: Music Delivered the Old-Fashioned Way"
-award_year: 2015
+year: 2015
 published: 2015-02-10 15:30:26
 published_gmt: 2015-02-10 15:30:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2015/02/luxury-living-music-delivered-the-old-fashioned-way/"
 categories: ["Lifestyle", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2ba8a588abe2b21479bc022dc0c19df6231f57ffa474c8d8b40a8d46d015a5f5
 canonical: 8928-luxury-living-music-delivered-the-old-fashioned-way.json
 ---

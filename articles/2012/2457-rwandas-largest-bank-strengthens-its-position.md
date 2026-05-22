@@ -1,12 +1,21 @@
 ---
 id: 2457
 title: "Rwanda’s Largest Bank Strengthens Its Position"
-award_year: 2012
+year: 2012
 published: 2012-10-26 18:26:00
 published_gmt: 2012-10-26 18:26:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/10/rwandas-largest-bank-strengthens-its-position/"
 categories: ["Africa", "Banking", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8ccd0df60b0e43c92264d50738b2d50df39fb10d68fc36d846432caffd36b1e8
 canonical: 2457-rwandas-largest-bank-strengthens-its-position.json
 ---

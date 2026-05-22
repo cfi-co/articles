@@ -1,12 +1,21 @@
 ---
 id: 26373
 title: "Ithra Director Who Followed His Passion to Ignite Saudi's Creative Economy"
-award_year: 2023
+year: 2023
 published: 2023-11-15 10:18:59
 published_gmt: 2023-11-15 10:18:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2023/11/abdullah-alrashid-ithra-director-who-followed-his-passion-to-ignite-saudis-creative-economy/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f62779421cd4a8cc1b3fa704c699621a58deff9d4bbbf021827f548f71c44b3b
 canonical: 26373-ithra-director-who-followed-his-passion-to-ignite-saudis-creative-economy.json
 ---

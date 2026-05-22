@@ -1,12 +1,21 @@
 ---
 id: 27653
 title: "Lee Clow: The Enigma of Cool"
-award_year: 2025
+year: 2025
 published: 2025-03-25 12:21:58
 published_gmt: 2025-03-25 12:21:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/heroes/2025/03/lee-clow-the-enigma-of-cool/"
 categories: ["Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4982c94e409a107cb83eacfebf4b7fd0d267ccff344df8a6d90f6b57266873c3
 canonical: 27653-lee-clow-the-enigma-of-cool.json
 ---

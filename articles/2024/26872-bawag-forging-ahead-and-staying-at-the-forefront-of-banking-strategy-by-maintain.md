@@ -1,12 +1,21 @@
 ---
 id: 26872
 title: "BAWAG Forging Ahead and Staying at the Forefront of Banking Strategy by Maintaining a Long-Term Focus"
-award_year: 2024
+year: 2024
 published: 2024-07-10 11:25:10
 published_gmt: 2024-07-10 10:25:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2024/07/bawag-forging-ahead-and-staying-at-the-forefront-of-banking-strategy-by-maintaining-a-long-term-focus/"
 categories: ["Banking", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fce407c21e7b82039142173efc5e3216d7386b0a42e0cebc913a415f954cb492
 canonical: 26872-bawag-forging-ahead-and-staying-at-the-forefront-of-banking-strategy-by-maintain.json
 ---

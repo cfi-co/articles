@@ -1,12 +1,21 @@
 ---
 id: 21740
 title: "VM Finance Poised to Lead Property Financing for SMEs"
-award_year: 2022
+year: 2022
 published: 2022-05-03 15:37:39
 published_gmt: 2022-05-03 14:37:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/vm-finance-poised-to-lead-property-financing-for-smes/"
 categories: ["Corporate", "SMEs"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d90835968bf49dc2f79d39c84403817bbe9a0d6482b3eddd4278943218845594
 canonical: 21740-vm-finance-poised-to-lead-property-financing-for-smes.json
 ---

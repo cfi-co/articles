@@ -1,12 +1,21 @@
 ---
 id: 22918
 title: "Melonee Wise, Robots Taking Over"
-award_year: 2022
+year: 2022
 published: 2022-08-09 14:35:01
 published_gmt: 2022-08-09 13:35:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2022/08/melonee-wise-fetch-robotics-zebra-technologies/"
 categories: ["North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d7c6269230179ea36756c2248b7f035af1d689f97f0d3dc5252dc49f518c5d61
 canonical: 22918-melonee-wise-fetch-robotics-zebra-technologies.json
 ---

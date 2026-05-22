@@ -1,12 +1,21 @@
 ---
 id: 11937
 title: "CFI.co Meets the Founding CEO & MD of The Access Bank UK: Jamie Simmonds"
-award_year: 2017
+year: 2017
 published: 2017-10-06 11:05:50
 published_gmt: 2017-10-06 10:05:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-founding-ceo-md-of-the-access-bank-uk-jamie-simmonds/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 28f7cf19537f6910aa26de5b622454138c150959fc338b9b13a3af95e01c6f44
 canonical: 11937-cfi-co-meets-the-founding-ceo-md-of-the-access-bank-uk-jamie-simmonds.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8001
 title: "Mr Cameron Throws a Tantrum and Loses an Agenda"
-award_year: 2014
+year: 2014
 published: 2014-09-11 12:13:32
 published_gmt: 2014-09-11 11:13:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/09/mr-cameron-throws-a-tantrum-and-loses-an-agenda/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d6493fa838f468c09ed370f633413f610b022cfb6205be56d33ec5a4a57f567d
 canonical: 8001-mr-cameron-throws-a-tantrum-and-loses-an-agenda.json
 ---

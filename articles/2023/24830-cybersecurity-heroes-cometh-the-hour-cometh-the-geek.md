@@ -1,12 +1,21 @@
 ---
 id: 24830
 title: "Cybersecurity Heroes: Cometh the Hour, Cometh the Geek"
-award_year: 2023
+year: 2023
 published: 2023-03-03 15:10:51
 published_gmt: 2023-03-03 15:10:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2023/03/cybersecurity-heroes-cometh-the-hour-cometh-the-geek/"
 categories: ["North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5406314f6338170cdeb09da484c3f0a9353bb99af0d967c95101b5ec2210d6c9
 canonical: 24830-cybersecurity-heroes-cometh-the-hour-cometh-the-geek.json
 ---

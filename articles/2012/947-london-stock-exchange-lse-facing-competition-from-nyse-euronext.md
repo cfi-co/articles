@@ -1,12 +1,21 @@
 ---
 id: 947
 title: "London Stock Exchange (LSE) Facing Competition from NYSE Euronext"
-award_year: 2012
+year: 2012
 published: 2012-07-02 14:44:32
 published_gmt: 2012-07-02 13:44:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2012/07/london-stock-exchange-lse-facing-competition-from-nyse-euronext/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f2cb930b73fec7d02862393fb61c11d0904a2adb4641c117bcac5be22d8fd157
 canonical: 947-london-stock-exchange-lse-facing-competition-from-nyse-euronext.json
 ---

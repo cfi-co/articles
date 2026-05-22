@@ -1,12 +1,21 @@
 ---
 id: 18494
 title: "Out with the Old: President Biden Sets to Work, COVID Top Priority"
-award_year: 2021
+year: 2021
 published: 2021-01-21 13:48:10
 published_gmt: 2021-01-21 13:48:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/01/out-with-the-old-president-biden-first-acts-covid-top-priority/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1d302c7cf576a1ad91d64add5d8ece366fb9319c66f78b3c9ed4794e03604283
 canonical: 18494-out-with-the-old-president-biden-first-acts-covid-top-priority.json
 ---

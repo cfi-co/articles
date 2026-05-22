@@ -1,12 +1,21 @@
 ---
 id: 20934
 title: "Containers Printers: Sustainability is Non-Negotiable for a Packaging Firm with a Conscience"
-award_year: 2021
+year: 2021
 published: 2021-11-01 16:16:37
 published_gmt: 2021-11-01 16:16:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/containers-printers-sustainability-is-non-negotiable-for-a-packaging-firm-with-a-conscience/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 198a0f64f23182f66f0022840844e6e8c412a994b9a4a00f9692682ba94e2693
 canonical: 20934-containers-printers-sustainability-is-non-negotiable-for-a-packaging-firm-with-a.json
 ---

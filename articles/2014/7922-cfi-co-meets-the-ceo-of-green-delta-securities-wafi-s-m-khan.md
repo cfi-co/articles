@@ -1,12 +1,21 @@
 ---
 id: 7922
 title: "CFI.co Meets the CEO of Green Delta Securities: Wafi S M Khan"
-award_year: 2014
+year: 2014
 published: 2014-07-07 16:27:09
 published_gmt: 2014-07-07 15:27:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/07/cfi-co-meets-the-ceo-of-green-delta-securities-wafi-s-m-khan/"
 categories: ["Asia Pacific", "Corporate Leaders", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 24b8932a7d2e56f07e7b599197baf01af5abb8944a621d2b1fc0f5c09f0ee74c
 canonical: 7922-cfi-co-meets-the-ceo-of-green-delta-securities-wafi-s-m-khan.json
 ---

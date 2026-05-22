@@ -1,12 +1,21 @@
 ---
 id: 26046
 title: "Blue Lagoon: An Otherworldly Experience"
-award_year: 2018
+year: 2018
 published: 2018-02-22 10:27:13
 published_gmt: 2018-02-22 10:27:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2018/02/blue-lagoon-an-otherworldly-experience/"
 categories: ["Corporate", "Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b396820ad7cde9ad777882b57dbf24664420abedd7aed3eb173a77b38705489b
 canonical: 26046-blue-lagoon-an-otherworldly-experience.json
 ---

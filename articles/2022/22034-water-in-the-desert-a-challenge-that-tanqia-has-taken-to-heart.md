@@ -1,12 +1,21 @@
 ---
 id: 22034
 title: "Water in the Desert: A Challenge that TANQIA has Taken to Heart"
-award_year: 2022
+year: 2022
 published: 2022-05-19 14:02:57
 published_gmt: 2022-05-19 13:02:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/projects/2022/05/water-in-the-desert-a-challenge-that-tanqia-has-taken-to-heart/"
 categories: ["Corporate", "Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 67829f561f65ef175b3d63a35fdff764f9b3b206c6f1e5eb786e833780a91ece
 canonical: 22034-water-in-the-desert-a-challenge-that-tanqia-has-taken-to-heart.json
 ---

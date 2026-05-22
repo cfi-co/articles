@@ -1,12 +1,21 @@
 ---
 id: 440
 title: "Santander Committed to Brazil as Major Contributor to Bank’s Profits"
-award_year: 2012
+year: 2012
 published: 2012-05-14 11:28:36
 published_gmt: 2012-05-14 10:28:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/05/santander-committed-to-brazil-as-major-contributor-to-banks-profits/"
 categories: ["Banking", "Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b26bcfb1544a34df9deb267bb2ad987065c151cfb7e4f490acc4c4c3473c3620
 canonical: 440-santander-committed-to-brazil-as-major-contributor-to-banks-profits.json
 ---

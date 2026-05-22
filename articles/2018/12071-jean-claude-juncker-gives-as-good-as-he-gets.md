@@ -1,12 +1,21 @@
 ---
 id: 12071
 title: "Jean-Claude Juncker: Gives as Good as He Gets"
-award_year: 2018
+year: 2018
 published: 2018-03-12 09:28:09
 published_gmt: 2018-03-12 09:28:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2018/03/jean-claude-juncker-gives-as-good-as-he-gets/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7692bd9e24453828c68f26df1034213b4e6284c002994775b38e160001aec622
 canonical: 12071-jean-claude-juncker-gives-as-good-as-he-gets.json
 ---

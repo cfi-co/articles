@@ -1,12 +1,21 @@
 ---
 id: 16380
 title: "EU Cements Union and Recovery Package"
-award_year: 2020
+year: 2020
 published: 2020-07-21 15:18:29
 published_gmt: 2020-07-21 14:18:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/07/eu-cements-union-and-recovery-package/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 719c399d26c71b18618d3a4360ae81077b116d901dc575d7145ea27b10b59fe6
 canonical: 16380-eu-cements-union-and-recovery-package.json
 ---

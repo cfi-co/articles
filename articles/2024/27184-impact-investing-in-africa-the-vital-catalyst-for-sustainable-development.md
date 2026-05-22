@@ -1,12 +1,21 @@
 ---
 id: 27184
 title: "Impact Investing in Africa: The Vital Catalyst for Sustainable Development"
-award_year: 2024
+year: 2024
 published: 2024-10-09 14:19:33
 published_gmt: 2024-10-09 13:19:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2024/10/impact-investing-in-africa-the-vital-catalyst-for-sustainable-development/"
 categories: ["Africa"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f826773bc86675b1dab76595a6c26fb3c68eeb5e3fcd8cb009c8c552aa31113e
 canonical: 27184-impact-investing-in-africa-the-vital-catalyst-for-sustainable-development.json
 ---

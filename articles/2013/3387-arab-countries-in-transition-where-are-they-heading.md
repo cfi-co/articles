@@ -1,12 +1,21 @@
 ---
 id: 3387
 title: "Arab Countries In Transition: Where are they Heading?"
-award_year: 2013
+year: 2013
 published: 2013-03-22 14:29:09
 published_gmt: 2013-03-22 14:29:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/03/arab-countries-in-transition-where-are-they-heading/"
 categories: ["Asia Pacific", "Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0c8db631c7ce702db402a05fafc1a8cf98f4a540b4799c2b38c96ec46ee7c486
 canonical: 3387-arab-countries-in-transition-where-are-they-heading.json
 ---

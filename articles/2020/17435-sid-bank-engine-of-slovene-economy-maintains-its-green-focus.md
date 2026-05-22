@@ -1,12 +1,21 @@
 ---
 id: 17435
 title: "SID Bank: Engine of Slovene Economy Maintains Its Green Focus"
-award_year: 2020
+year: 2020
 published: 2020-01-05 11:57:02
 published_gmt: 2020-01-05 11:57:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/01/sid-bank-engine-of-slovene-economy-maintains-its-green-focus/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 59a19de5125b1e7d87f827dc30693d2256011a3db0fdb82646168ee04d0c774b
 canonical: 17435-sid-bank-engine-of-slovene-economy-maintains-its-green-focus.json
 ---

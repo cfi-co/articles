@@ -1,12 +1,21 @@
 ---
 id: 21675
 title: "AVEVA: Software is the Key to Sustainable Industries"
-award_year: 2022
+year: 2022
 published: 2022-03-30 04:40:03
 published_gmt: 2022-03-30 03:40:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2022/03/aveva-software-is-the-key-to-sustainable-industries/"
 categories: ["Corporate", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6f9fd92e1a70305750e32ab2ccf56a36a0baa5b3bce17f3b7778cc313774a5bf
 canonical: 21675-aveva-software-is-the-key-to-sustainable-industries.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 20063
 title: "A Man for All Seasons and All Reasons: NBE Governor Takes Bank to the Forefront"
-award_year: 2021
+year: 2021
 published: 2021-06-28 12:32:57
 published_gmt: 2021-06-28 11:32:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/06/yinager-dessie-nbe-governor-takes-bank-to-the-forefront/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 28ca4151bb6b8ce6b56b5a2e2aba666701b53fb3c0a9536a574ec3a8792c4b88
 canonical: 20063-yinager-dessie-nbe-governor-takes-bank-to-the-forefront.json
 ---

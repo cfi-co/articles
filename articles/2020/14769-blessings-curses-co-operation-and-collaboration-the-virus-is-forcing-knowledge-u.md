@@ -1,12 +1,21 @@
 ---
 id: 14769
 title: "Blessings, Curses, Co-operation and Collaboration – the Virus is Forcing Knowledge upon us"
-award_year: 2020
+year: 2020
 published: 2020-03-30 17:05:30
 published_gmt: 2020-03-30 16:05:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/03/blessings-curses-co-operation-and-collaboration-the-virus-is-forcing-knowledge-upon-us/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7fca9c7906eb4a8fbeb9466c9db655b0474be584f961f77ad0f1341f05ff2b51
 canonical: 14769-blessings-curses-co-operation-and-collaboration-the-virus-is-forcing-knowledge-u.json
 ---

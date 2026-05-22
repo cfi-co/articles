@@ -1,12 +1,21 @@
 ---
 id: 157
 title: "Bank of America Merrill Lynch on Egypt: First Hurdle Passed, More On the Way"
-award_year: 2011
+year: 2011
 published: 2011-12-04 14:09:02
 published_gmt: 2011-12-04 14:09:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2011/12/bank-of-america-merrill-lynch-on-egypt-first-hurdle-passed-more-on-the-way/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aae9c5d5607d2ffa2e31ddc8af948cd5521ea297b78771c2abc1be99e4055b4f
 canonical: 157-bank-of-america-merrill-lynch-on-egypt-first-hurdle-passed-more-on-the-way.json
 ---

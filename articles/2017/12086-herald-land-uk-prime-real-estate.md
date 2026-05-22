@@ -1,12 +1,21 @@
 ---
 id: 12086
 title: "Herald Land: UK Prime Real Estate"
-award_year: 2017
+year: 2017
 published: 2017-10-18 14:25:51
 published_gmt: 2017-10-18 13:25:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2017/10/herald-land-uk-prime-real-estate/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eea3dc1902e48b04ff7cb1f33aec722061b962a913462773468d592f02dc5480
 canonical: 12086-herald-land-uk-prime-real-estate.json
 ---

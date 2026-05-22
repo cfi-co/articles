@@ -1,12 +1,21 @@
 ---
 id: 19869
 title: "Investment House: Team Efforts Bring Qatari Company to the Fore, with Rewards, Awards, and Exciting Plans for the Future"
-award_year: 2021
+year: 2021
 published: 2021-06-18 10:40:26
 published_gmt: 2021-06-18 09:40:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2021/06/investment-house-team-efforts-bring-qatari-company-to-the-fore-with-rewards-awards-and-exciting-plans-for-the-future/"
 categories: ["Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f5b8a55cfaca049ee99f903f7fb00274324ade618f63dde6305e66e6ec6b352a
 canonical: 19869-investment-house-team-efforts-bring-qatari-company-to-the-fore-with-rewards-awar.json
 ---

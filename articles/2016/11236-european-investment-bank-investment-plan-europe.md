@@ -1,12 +1,21 @@
 ---
 id: 11236
 title: "European Investment Bank: Investment Plan for Europe"
-award_year: 2016
+year: 2016
 published: 2016-06-14 12:02:43
 published_gmt: 2016-06-14 11:02:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2016/06/european-investment-bank-investment-plan-europe/"
 categories: ["Banking", "Banking &amp; Finance", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bced3eb42062d6ffe91e5ea8c5f4ce16bbd3f3b0cf988f56760814245358a7da
 canonical: 11236-european-investment-bank-investment-plan-europe.json
 ---

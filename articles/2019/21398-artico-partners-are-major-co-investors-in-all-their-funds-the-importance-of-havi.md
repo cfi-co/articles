@@ -1,12 +1,21 @@
 ---
 id: 21398
 title: "ARTICO Partners Are Major Co-Investors in all their Funds: The Importance of Having Skin in the Game"
-award_year: 2019
+year: 2019
 published: 2019-01-21 10:42:01
 published_gmt: 2019-01-21 10:42:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/01/artico-partners-are-major-co-investors-in-all-their-funds-the-importance-of-having-skin-in-the-game/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d3e9c8bad07c16427122c66783376b03f90ac534bfddd9df7633ac09979ccfad
 canonical: 21398-artico-partners-are-major-co-investors-in-all-their-funds-the-importance-of-havi.json
 ---

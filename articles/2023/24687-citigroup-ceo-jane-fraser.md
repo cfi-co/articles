@@ -1,12 +1,21 @@
 ---
 id: 24687
 title: "Citigroup CEO Jane Fraser"
-award_year: 2023
+year: 2023
 published: 2023-02-01 15:48:53
 published_gmt: 2023-02-01 15:48:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2023/02/citigroup-ceo-jane-fraser/"
 categories: ["Banking", "Banking &amp; Finance", "CFI.co Meets", "Corporate Leaders", "Finance", "North America"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e61284d50435650bd7b14640fc066bb4676df1727a9da27156b28d4fa25d6fd6
 canonical: 24687-citigroup-ceo-jane-fraser.json
 ---

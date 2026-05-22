@@ -1,12 +1,21 @@
 ---
 id: 25234
 title: "A Tunisian Transformation: BIAT is Driven by Civic Duty, Concern for the Planet, and Prudent Risk-Avoidance"
-award_year: 2023
+year: 2023
 published: 2023-04-25 19:27:40
 published_gmt: 2023-04-25 18:27:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2023/04/banque-internationale-arabe-de-tunisie-biat-a-tunisian-transformation"
 categories: ["Africa", "Banking"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 39f020fb34256e24558072794b13df38b9dd4950f95cfa329abaf857f41a4a4b
 canonical: 25234-a-tunisian-transformation-biat-is-driven-by-civic-duty-concern-for-the-planet-an.json
 ---

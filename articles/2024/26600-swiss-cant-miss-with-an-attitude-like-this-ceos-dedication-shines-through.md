@@ -1,12 +1,21 @@
 ---
 id: 26600
 title: "Swiss Can’t Miss with an Attitude like This — CEO’s Dedication Shines Through"
-award_year: 2024
+year: 2024
 published: 2024-01-16 11:41:55
 published_gmt: 2024-01-16 11:41:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/01/giacomo-balzarini-ceos-dedication-shines-through/"
 categories: ["Corporate", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d35b34411d8ac8b8244796b8873afaae4b10d718d2a9bcc1453a452d2e4bba32
 canonical: 26600-swiss-cant-miss-with-an-attitude-like-this-ceos-dedication-shines-through.json
 ---

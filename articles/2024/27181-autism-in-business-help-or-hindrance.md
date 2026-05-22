@@ -1,12 +1,21 @@
 ---
 id: 27181
 title: "Autism in Business: Help, or Hindrance?"
-award_year: 2024
+year: 2024
 published: 2024-10-07 14:16:41
 published_gmt: 2024-10-07 13:16:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/10/autism-in-business-help-or-hindrance/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e5d160446c0ba5dee5fbf270f188526e85cafef5b50b740f4bbf317e104e49bc
 canonical: 27181-autism-in-business-help-or-hindrance.json
 ---

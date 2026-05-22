@@ -1,12 +1,21 @@
 ---
 id: 20276
 title: "Otaviano Canuto: Are We on the Verge of a New Commodity Super-Cycle?"
-award_year: 2021
+year: 2021
 published: 2021-07-28 11:46:54
 published_gmt: 2021-07-28 10:46:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/economics-convergence/2021/07/otaviano-canuto-are-we-on-the-verge-of-a-new-commodity-super-cycle/"
 categories: ["Economics &amp; Convergence", "Finance", "Markets", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ddf182745f1483a6071992c0f72fded252f14cd86c9c3d93905ccd47828436ff
 canonical: 20276-otaviano-canuto-are-we-on-the-verge-of-a-new-commodity-super-cycle.json
 ---

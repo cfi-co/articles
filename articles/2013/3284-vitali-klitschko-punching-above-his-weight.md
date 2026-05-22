@@ -1,12 +1,21 @@
 ---
 id: 3284
 title: "Vitali Klitschko: Punching Above His Weight"
-award_year: 2013
+year: 2013
 published: 2013-03-13 17:10:06
 published_gmt: 2013-03-13 17:10:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/03/vitali-klitschko-punching-above-his-weight/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9e3615833b42553d8ce23b2313e4787555ef20349489cd38eec83a959e9f367e
 canonical: 3284-vitali-klitschko-punching-above-his-weight.json
 ---

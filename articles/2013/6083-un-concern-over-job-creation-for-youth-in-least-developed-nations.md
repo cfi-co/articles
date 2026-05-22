@@ -1,12 +1,21 @@
 ---
 id: 6083
 title: "UN Concern over Job Creation for Youth in Least developed Nations"
-award_year: 2013
+year: 2013
 published: 2013-11-21 12:27:36
 published_gmt: 2013-11-21 12:27:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/11/un-concern-over-job-creation-for-youth-in-least-developed-nations/"
 categories: ["Africa", "Asia Pacific", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a2d5baf712f1cc7d038959307836e0006385cd633d51b4a132a072c8eb8feadb
 canonical: 6083-un-concern-over-job-creation-for-youth-in-least-developed-nations.json
 ---

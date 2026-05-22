@@ -1,12 +1,21 @@
 ---
 id: 20113
 title: "Ørsted: Danish Power Company Driving the World’s Carbon-Neutral Bus"
-award_year: 2021
+year: 2021
 published: 2021-07-06 08:25:26
 published_gmt: 2021-07-06 07:25:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2021/07/orsted-danish-power-company-driving-the-worlds-carbon-neutral-bus/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a411f88c78ec2de23de051b803c1197ce224e2bd15f588d23b6001ea3ed508ef
 canonical: 20113-orsted-danish-power-company-driving-the-worlds-carbon-neutral-bus.json
 ---

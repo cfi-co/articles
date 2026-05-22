@@ -1,12 +1,21 @@
 ---
 id: 13524
 title: "Chile Minister of Economy, Development, and Tourism José Ramón Valente: Escaping the Middle-Income Trap"
-award_year: 2019
+year: 2019
 published: 2019-04-24 10:34:17
 published_gmt: 2019-04-24 09:34:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2019/04/chile-minister-of-economy-development-and-tourism-jose-ramon-valente-escaping-the-middle-income-trap-and-securing-a-second-glorious-30-years/"
 categories: ["Latin America", "Multilaterals"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a46de375c1c188a9c25b5e38b848a7a433961565c567507253cb33a5aef07e8d
 canonical: 13524-chile-minister-of-economy-development-and-tourism-jose-ramon-valente-escaping-th.json
 ---

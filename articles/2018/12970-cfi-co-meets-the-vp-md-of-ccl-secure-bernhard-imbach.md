@@ -1,12 +1,21 @@
 ---
 id: 12970
 title: "CFI.co Meets the VP & MD of CCL Secure: Bernhard Imbach"
-award_year: 2018
+year: 2018
 published: 2018-09-24 15:04:37
 published_gmt: 2018-09-24 14:04:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/09/cfi-co-meets-the-vp-md-of-ccl-secure-bernhard-imbach/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 16053ffd1faa2d382b18f2cd0a734444bed63983dad6b06101334dd82ed80ee6
 canonical: 12970-cfi-co-meets-the-vp-md-of-ccl-secure-bernhard-imbach.json
 ---

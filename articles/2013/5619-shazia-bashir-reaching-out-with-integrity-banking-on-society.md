@@ -1,12 +1,21 @@
 ---
 id: 5619
 title: "Shazia Bashir: Reaching Out with Integrity - Banking on Society"
-award_year: 2013
+year: 2013
 published: 2013-10-28 10:24:23
 published_gmt: 2013-10-28 10:24:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/10/shazia-bashir-reaching-out-with-integrity-banking-on-society/"
 categories: ["Asia Pacific", "Banking"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9186d36007169951a483f59e697837692601f76e480735438c7383492da12c23
 canonical: 5619-shazia-bashir-reaching-out-with-integrity-banking-on-society.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 17718
 title: "Corporate America Weighing Its Options, Drifting Towards Biden"
-award_year: 2020
+year: 2020
 published: 2020-11-02 18:13:56
 published_gmt: 2020-11-02 18:13:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/11/corporate-america-weighing-its-options-drifting-towards-biden/"
 categories: ["North America", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6c6edee0f2dbc4d20ac76607ef14ba7a955846701f7693e9c07a1431041257f5
 canonical: 17718-corporate-america-weighing-its-options-drifting-towards-biden.json
 ---

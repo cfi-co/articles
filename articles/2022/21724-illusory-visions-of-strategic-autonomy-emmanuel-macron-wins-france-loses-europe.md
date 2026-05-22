@@ -1,12 +1,21 @@
 ---
 id: 21724
 title: "Illusory Visions of Strategic Autonomy: Emmanuel Macron Wins France, Loses Europe"
-award_year: 2022
+year: 2022
 published: 2022-04-25 12:26:25
 published_gmt: 2022-04-25 11:26:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/04/illusory-visions-of-strategic-autonomy-emmanuel-macron-wins-france-loses-europe/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e06761c7a2778f30fd582c5a1885f829c0c1291087eafbc153817078dcfd2273
 canonical: 21724-illusory-visions-of-strategic-autonomy-emmanuel-macron-wins-france-loses-europe.json
 ---

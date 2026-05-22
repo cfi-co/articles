@@ -1,12 +1,21 @@
 ---
 id: 15735
 title: "South Africa and the Struggle for Reform"
-award_year: 2020
+year: 2020
 published: 2020-06-16 11:52:02
 published_gmt: 2020-06-16 10:52:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/06/reform-in-south-africa-the-struggle/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 44e33967c33a8321ca54ac6dd477a059d6f3bdb02aa7012b594fe2ab9f4b93c2
 canonical: 15735-reform-in-south-africa-the-struggle.json
 ---

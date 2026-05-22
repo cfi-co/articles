@@ -1,12 +1,21 @@
 ---
 id: 20982
 title: "Bon Courage: Hard Work, a Tight Team and a Bold Approach Have Taken Le Groupe La Poste Ahead"
-award_year: 2021
+year: 2021
 published: 2021-11-06 16:16:30
 published_gmt: 2021-11-06 16:16:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/diane-abrahams-a-bold-approach-have-taken-le-groupe-la-poste-ahead/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3e817f52a2ba716f303efdbde518fd3c481b1b4c0da4958efddb63bf51c33427
 canonical: 20982-diane-abrahams-a-bold-approach-have-taken-le-groupe-la-poste-ahead.json
 ---

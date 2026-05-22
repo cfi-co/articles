@@ -1,12 +1,21 @@
 ---
 id: 7191
 title: "Andy Green: Inspiring a New Generation of Engineers"
-award_year: 2014
+year: 2014
 published: 2014-05-14 12:38:39
 published_gmt: 2014-05-14 11:38:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/05/andy-green-inspiring-a-new-generation-of-engineers/"
 categories: ["Europe", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 30121199916d5f2384f831a5be054390db05b4f70ce646cb495090f3b3f33865
 canonical: 7191-andy-green-inspiring-a-new-generation-of-engineers.json
 ---

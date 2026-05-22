@@ -1,12 +1,21 @@
 ---
 id: 15877
 title: "EY on COVID-19 Pandemic: An Opportunity for Reinvention of Family Enterprises"
-award_year: 2020
+year: 2020
 published: 2020-07-01 09:49:50
 published_gmt: 2020-07-01 08:49:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2020/07/ey-on-covid-19-pandemic-an-opportunity-for-reinvention-of-family-enterprises/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5f3a5dca36159ccd629ec52488c6b939f73fd73365a418f5d004265810ba4188
 canonical: 15877-ey-on-covid-19-pandemic-an-opportunity-for-reinvention-of-family-enterprises.json
 ---

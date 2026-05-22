@@ -1,12 +1,21 @@
 ---
 id: 19949
 title: "ICBC Middle East: Resilience in Times of Crisis"
-award_year: 2021
+year: 2021
 published: 2021-07-12 16:00:11
 published_gmt: 2021-07-12 15:00:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/icbc-middle-east-resilience-in-times-of-crisis/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d47f1264f8c70510a3a87c7cd36eedcc08e8cbbc807f65225e50202f4a3531d2
 canonical: 19949-icbc-middle-east-resilience-in-times-of-crisis.json
 ---

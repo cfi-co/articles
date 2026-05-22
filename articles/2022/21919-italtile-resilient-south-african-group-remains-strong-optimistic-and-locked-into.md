@@ -1,12 +1,21 @@
 ---
 id: 21919
 title: "Italtile: Resilient South African Group Remains Strong, Optimistic and Locked-into its Ethical Stance"
-award_year: 2022
+year: 2022
 published: 2022-05-18 06:26:31
 published_gmt: 2022-05-18 05:26:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/italtile-resilient-south-african-group-remains-strong-optimistic-and-locked-into-its-ethical-stance/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d817e5c1b3bb001025c7c27d48627e414c1ac4ce539aac72e116699c88513d90
 canonical: 21919-italtile-resilient-south-african-group-remains-strong-optimistic-and-locked-into.json
 ---

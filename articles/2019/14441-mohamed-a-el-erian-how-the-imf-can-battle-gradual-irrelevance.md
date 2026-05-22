@@ -1,12 +1,21 @@
 ---
 id: 14441
 title: "Mohamed A El-Erian: How the IMF Can Battle Gradual Irrelevance"
-award_year: 2019
+year: 2019
 published: 2019-12-18 15:15:13
 published_gmt: 2019-12-18 15:15:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2019/12/mohamed-a-el-erian-how-the-imf-can-battle-gradual-irrelevance/"
 categories: ["Finance", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eaa8ff4c882a318b5173a01ed2f7bc50be55677b62039073acc6ea56ed978b65
 canonical: 14441-mohamed-a-el-erian-how-the-imf-can-battle-gradual-irrelevance.json
 ---

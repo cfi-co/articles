@@ -1,12 +1,21 @@
 ---
 id: 27996
 title: "LegalOne: Driving Innovation and Financial Inclusion for National Development"
-award_year: 2025
+year: 2025
 published: 2025-10-17 09:33:43
 published_gmt: 2025-10-17 08:33:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2025/10/legalone-driving-innovation-and-financial-inclusion-for-national-development/"
 categories: ["Asia Pacific", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d51d1608097e861129c5e8567284a95acf25ab197c9dd8667043a7611d70ebe
 canonical: 27996-legalone-driving-innovation-and-financial-inclusion-for-national-development.json
 ---

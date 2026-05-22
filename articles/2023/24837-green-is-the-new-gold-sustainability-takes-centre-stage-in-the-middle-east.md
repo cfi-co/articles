@@ -1,12 +1,21 @@
 ---
 id: 24837
 title: "Green is the New Gold: Sustainability Takes Centre Stage in the Middle East"
-award_year: 2023
+year: 2023
 published: 2023-03-07 16:07:21
 published_gmt: 2023-03-07 16:07:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2023/03/green-is-the-new-gold-sustainability-takes-centre-stage-in-the-middle-east/"
 categories: ["Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 20bb6efd2147e096d5e570f129627f1ce09b63174efea41ca182124dae628903
 canonical: 24837-green-is-the-new-gold-sustainability-takes-centre-stage-in-the-middle-east.json
 ---

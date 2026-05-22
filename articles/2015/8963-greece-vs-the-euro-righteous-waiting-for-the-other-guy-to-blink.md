@@ -1,12 +1,21 @@
 ---
 id: 8963
 title: "Greece vs The Euro Righteous: Waiting for the Other Guy to Blink"
-award_year: 2015
+year: 2015
 published: 2015-02-17 15:42:46
 published_gmt: 2015-02-17 15:42:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2015/02/greece-vs-the-euro-righteous-waiting-for-the-other-guy-to-blink/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f9dfce2eccacea67b730bb3c4e648b9997120058cb4d89f9d52b20bf65bf5910
 canonical: 8963-greece-vs-the-euro-righteous-waiting-for-the-other-guy-to-blink.json
 ---

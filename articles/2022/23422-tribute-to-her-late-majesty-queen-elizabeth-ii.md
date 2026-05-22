@@ -1,12 +1,21 @@
 ---
 id: 23422
 title: "Tribute to Her Late Majesty Queen Elizabeth II"
-award_year: 2022
+year: 2022
 published: 2022-09-12 13:49:44
 published_gmt: 2022-09-12 12:49:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2022/09/tribute-to-her-late-majesty-queen-elizabeth-ii/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d14b1e9d0908b611b33ad1ea22eafa21379b72c8ec0fd742ee3fdb76da40a96f
 canonical: 23422-tribute-to-her-late-majesty-queen-elizabeth-ii.json
 ---

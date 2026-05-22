@@ -1,12 +1,21 @@
 ---
 id: 10709
 title: "Michael Pettis: China - What the New Currency Regime Means and How It Affects the World"
-award_year: 2015
+year: 2015
 published: 2015-12-16 10:58:53
 published_gmt: 2015-12-16 10:58:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/12/michael-pettis-china-what-the-new-currency-regime-means-and-how-it-affects-the-world/"
 categories: ["Asia Pacific", "Economics &amp; Convergence", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a3034565cd708fcaf12f9d9568c6e775b554208f19ec30dcd959f6c7af87d514
 canonical: 10709-michael-pettis-china-what-the-new-currency-regime-means-and-how-it-affects-the-w.json
 ---

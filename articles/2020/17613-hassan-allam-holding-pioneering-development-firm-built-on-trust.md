@@ -1,12 +1,21 @@
 ---
 id: 17613
 title: "Hassan Allam Holding: Pioneering Development Firm Built on Trust"
-award_year: 2020
+year: 2020
 published: 2020-10-26 15:33:04
 published_gmt: 2020-10-26 15:33:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2020/10/hassan-allam-holding-pioneering-development-firm-built-on-trust/"
 categories: ["Africa", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8181c1973caff26eead01403ec77d490ea79000366db80b3a3e780e07ff56355
 canonical: 17613-hassan-allam-holding-pioneering-development-firm-built-on-trust.json
 ---

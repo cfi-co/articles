@@ -1,12 +1,22 @@
 ---
 id: 28290
 title: "Orchestrating the Transition: enso Group Builds the Enabling Structures for Reliable Clean Power"
-award_year: 2026
+year: 2026
 published: 2026-02-16 12:18:57
 published_gmt: 2026-02-16 12:18:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2026/02/orchestrating-the-transition-enso-group-builds-the-enabling-structures-for-reliable-clean-power/"
 categories: ["Africa", "Corporate", "Energy"]
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "enso"
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3e18ca2305b3daf72e4c316edf9c532ced7297d12bdb01c040959cbc6bb1b9be
 canonical: 28290-orchestrating-the-transition-enso-group-builds-the-enabling-structures-for-relia.json
 ---

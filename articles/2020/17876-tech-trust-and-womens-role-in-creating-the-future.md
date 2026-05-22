@@ -1,12 +1,21 @@
 ---
 id: 17876
 title: "Tech, Trust, and Women’s Role in Creating the Future"
-award_year: 2020
+year: 2020
 published: 2020-11-12 11:20:00
 published_gmt: 2020-11-12 11:20:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/11/tech-trust-and-womens-role-in-creating-the-future/"
 categories: ["North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cf5d2290d96a537328ef0b3743fc4bd8493669186fd2953e1a3e21eab2a357df
 canonical: 17876-tech-trust-and-womens-role-in-creating-the-future.json
 ---

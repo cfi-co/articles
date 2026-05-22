@@ -1,12 +1,21 @@
 ---
 id: 24815
 title: "Film Review - Blonde: Is Marilyn Biopic a Bombshell ... or a Bust?"
-award_year: 2023
+year: 2023
 published: 2023-02-23 15:57:48
 published_gmt: 2023-02-23 15:57:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2023/02/film-review-blonde-is-marilyn-biopic-a-bombshell-or-a-bust/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 86dd6c60c93c25243bb0f211a42ffb970383325d21df564827ae6da255bd58bc
 canonical: 24815-film-review-blonde-is-marilyn-biopic-a-bombshell-or-a-bust.json
 ---

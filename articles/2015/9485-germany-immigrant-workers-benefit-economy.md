@@ -1,12 +1,21 @@
 ---
 id: 9485
 title: "Germany: Immigrant Workers Benefit Economy"
-award_year: 2015
+year: 2015
 published: 2015-03-04 13:12:06
 published_gmt: 2015-03-04 13:12:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/03/germany-immigrant-workers-benefit-economy/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0ba3f94053dd0f43988fe6cb551d764d5cfc905bf20196c15f5ee880712ecff2
 canonical: 9485-germany-immigrant-workers-benefit-economy.json
 ---

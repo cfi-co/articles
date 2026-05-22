@@ -1,12 +1,21 @@
 ---
 id: 4421
 title: "WTO’s Lamy: The Deeper European Crisis"
-award_year: 2013
+year: 2013
 published: 2013-06-21 10:05:12
 published_gmt: 2013-06-21 10:05:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/06/wtos-lamy-the-deeper-european-crisis/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1b30683a35991aaebff705ea0fee27caecc7470139c9c4e92bf0aacf69278b5f
 canonical: 4421-wtos-lamy-the-deeper-european-crisis.json
 ---

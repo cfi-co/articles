@@ -1,12 +1,21 @@
 ---
 id: 27091
 title: "Generational Call-to-Arms in the Fight to Save Our World"
-award_year: 2024
+year: 2024
 published: 2024-09-05 12:30:02
 published_gmt: 2024-09-05 11:30:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/09/generational-call-to-arms-in-the-fight-to-save-our-world/"
 categories: ["Europe", "Oil &amp; Mining", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ea73aadceb16c9bcfae9f7fb755e889f8d806133b2be36d71442680975c7daf9
 canonical: 27091-generational-call-to-arms-in-the-fight-to-save-our-world.json
 ---

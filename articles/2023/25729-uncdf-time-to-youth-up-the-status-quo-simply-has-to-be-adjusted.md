@@ -1,12 +1,21 @@
 ---
 id: 25729
 title: "UNCDF: Time to ‘Youth-Up’ - the Status Quo Simply Has to Be Adjusted"
-award_year: 2023
+year: 2023
 published: 2023-07-06 11:56:03
 published_gmt: 2023-07-06 10:56:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2023/07/uncdf-time-to-youth-up-the-status-quo-simply-has-to-be-adjusted/"
 categories: ["Africa", "Asia Pacific", "Multilaterals", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 59a68fc5194fcdd05601e80a60edb4b52e95fee7ffade42f2950d1b2ca452c1f
 canonical: 25729-uncdf-time-to-youth-up-the-status-quo-simply-has-to-be-adjusted.json
 ---

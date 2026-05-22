@@ -1,12 +1,21 @@
 ---
 id: 21736
 title: "From Bear to Bull: Warren Buffett Casts a Vote of Confidence in US Stock Market"
-award_year: 2022
+year: 2022
 published: 2022-05-03 07:45:13
 published_gmt: 2022-05-03 06:45:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/05/from-bear-to-bull-warren-buffett-casts-a-vote-of-confidence-in-us-stock-market/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 84f7a124f206b1e5cc3f49fff17f3daaaf098350310c0d1b16315e998c74a606
 canonical: 21736-from-bear-to-bull-warren-buffett-casts-a-vote-of-confidence-in-us-stock-market.json
 ---

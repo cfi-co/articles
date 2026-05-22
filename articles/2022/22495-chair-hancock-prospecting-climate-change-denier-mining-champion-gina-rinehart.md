@@ -1,12 +1,21 @@
 ---
 id: 22495
 title: "Climate change denier, Mining Champion, Sworn Enemy of Green Policies — Gina Rinehart’s Lonely, Determined Path"
-award_year: 2022
+year: 2022
 published: 2022-07-28 11:10:37
 published_gmt: 2022-07-28 10:10:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/oil-and-mining/2022/07/chair-hancock-prospecting-climate-change-denier-mining-champion-gina-rinehart/"
 categories: ["Asia Pacific", "Corporate", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c3420f3b6cec4fef336fa83164be8709d1d1f1dff4818645247ea35beac3d3e2
 canonical: 22495-chair-hancock-prospecting-climate-change-denier-mining-champion-gina-rinehart.json
 ---

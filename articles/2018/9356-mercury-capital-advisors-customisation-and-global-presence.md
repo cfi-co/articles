@@ -1,12 +1,21 @@
 ---
 id: 9356
 title: "Mercury Capital Advisors: Customisation and  Global Presence"
-award_year: 2018
+year: 2018
 published: 2018-02-01 13:10:08
 published_gmt: 2018-02-01 13:10:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2018/02/mercury-capital-advisors-customisation-and-global-presence/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ab837d48559a5e421f1f75649da6b2ecf7531a5f80bfabd9ddddee6a5537d189
 canonical: 9356-mercury-capital-advisors-customisation-and-global-presence.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 17709
 title: "Tales of Shopkeepers, Trolley Cops, and Markets"
-award_year: 2020
+year: 2020
 published: 2020-10-29 14:41:06
 published_gmt: 2020-10-29 14:41:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/10/tales-of-shopkeepers-trolley-cops-and-markets/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dc262a7382e8d7b2bc49e2eceb7ee9628f4adeaa38bce10e63120e85956f8661
 canonical: 17709-tales-of-shopkeepers-trolley-cops-and-markets.json
 ---

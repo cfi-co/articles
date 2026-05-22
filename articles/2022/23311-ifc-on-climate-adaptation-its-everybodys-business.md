@@ -1,12 +1,21 @@
 ---
 id: 23311
 title: "IFC on Climate Adaptation: It's Everybody's Business"
-award_year: 2022
+year: 2022
 published: 2022-09-06 12:20:12
 published_gmt: 2022-09-06 11:20:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/09/ifc-on-climate-adaptation-its-everybodys-business/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c4a2b4f65703497eb87ea09635be0304c6353d71b0deaf3a1fc13b5fc21ee7b1
 canonical: 23311-ifc-on-climate-adaptation-its-everybodys-business.json
 ---

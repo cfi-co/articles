@@ -1,12 +1,21 @@
 ---
 id: 8438
 title: "How Thailand’s Solar Power Visionary Built an Industry with a Boost from IFC"
-award_year: 2014
+year: 2014
 published: 2014-11-25 13:36:58
 published_gmt: 2014-11-25 13:36:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/11/how-thailands-solar-power-visionary-built-an-industry-with-a-boost-from-ifc/"
 categories: ["Asia Pacific", "Finance", "Projects", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5c61a11495541e9613d8c0b8591c8bddff9351f9dd94f549c2ecd8a5b548a37f
 canonical: 8438-how-thailands-solar-power-visionary-built-an-industry-with-a-boost-from-ifc.json
 ---

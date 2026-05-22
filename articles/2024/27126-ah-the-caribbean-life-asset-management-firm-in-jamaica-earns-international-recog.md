@@ -1,12 +1,21 @@
 ---
 id: 27126
 title: "Ah, the Caribbean Life! Asset Management Firm in Jamaica Earns International Recognition"
-award_year: 2024
+year: 2024
 published: 2024-09-16 16:18:57
 published_gmt: 2024-09-16 15:18:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2024/09/ah-the-caribbean-life-asset-management-firm-in-jamaica-earns-international-recognition/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d94bfc9d2b4987181f569493494fa30f4c4010834cd314d90af7e3846eb48ea9
 canonical: 27126-ah-the-caribbean-life-asset-management-firm-in-jamaica-earns-international-recog.json
 ---

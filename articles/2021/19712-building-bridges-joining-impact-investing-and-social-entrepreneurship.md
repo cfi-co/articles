@@ -1,12 +1,21 @@
 ---
 id: 19712
 title: "Building Bridges: Joining Impact Investing and Social Entrepreneurship"
-award_year: 2021
+year: 2021
 published: 2021-05-20 08:10:17
 published_gmt: 2021-05-20 07:10:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2021/05/building-bridges-joining-impact-investing-and-social-entrepreneurship/"
 categories: ["Europe", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c10d80a9daab9614e461aca850cede6c37c333155ea4b0d071f736084b7ff7c5
 canonical: 19712-building-bridges-joining-impact-investing-and-social-entrepreneurship.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 2629
 title: "European Commission: Helping SMEs Seize Global Opportunities"
-award_year: 2012
+year: 2012
 published: 2012-12-05 18:25:06
 published_gmt: 2012-12-05 18:25:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2012/12/european-commission-helping-smes-seize-global-opportunities/"
 categories: ["Europe", "Finance", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fe679710954dc2eb756cb3f8f17f5eca9317a6cd0b5f985393364217c7752092
 canonical: 2629-european-commission-helping-smes-seize-global-opportunities.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 11833
 title: "CFI.co Meets the CEO of AnandRathi Private Wealth Management: Rakesh Rawal"
-award_year: 2017
+year: 2017
 published: 2017-09-01 12:41:33
 published_gmt: 2017-09-01 11:41:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/03/rakesh-rawal-ceo-of-anand-rathi-wealth-services-ltd-makings-of-a-great-ceo-professionalism-humility-and-being-a-good-human/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 69db4c7b4c6b11ba43f1029484e359c5e36dfb4aecc03872485f5fb9a4f7ce70
 canonical: 11833-cfi-co-meets-the-ceo-of-anandrathi-private-wealth-management-rakesh-rawal.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 25530
 title: "Championing CBDCs — Who’s Who in the Race?"
-award_year: 2023
+year: 2023
 published: 2023-06-01 11:15:41
 published_gmt: 2023-06-01 10:15:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/06/championing-cbdcs-whos-who-in-the-race/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d5ce40c8d6785ac25c764379be3dc868ee3109db6a669a9d03a69abd997703c5
 canonical: 25530-championing-cbdcs-whos-who-in-the-race.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 5329
 title: "WTO Forecasts Gradual Recovery Despite Cut in Trade Forecasts"
-award_year: 2013
+year: 2013
 published: 2013-09-26 11:35:11
 published_gmt: 2013-09-26 10:35:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/09/wto-forecasts-gradual-recovery-despite-cut-in-trade-forecasts/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Latin America", "Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 53e2433289197694adc3d5020521a43bc94e7a5afc9fb7185aaf24bd49332cb4
 canonical: 5329-wto-forecasts-gradual-recovery-despite-cut-in-trade-forecasts.json
 ---

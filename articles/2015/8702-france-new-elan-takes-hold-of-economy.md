@@ -1,12 +1,21 @@
 ---
 id: 8702
 title: "France – New Elan Takes Hold of Economy"
-award_year: 2015
+year: 2015
 published: 2015-01-13 14:13:34
 published_gmt: 2015-01-13 14:13:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/01/france-new-elan-takes-hold-of-economy/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4d0f5153af06dd19c3ed6cb5ca1bea9a03f4f11570a3a0890861640e6aad9334
 canonical: 8702-france-new-elan-takes-hold-of-economy.json
 ---

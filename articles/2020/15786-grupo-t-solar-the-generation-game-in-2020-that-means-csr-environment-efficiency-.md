@@ -1,12 +1,21 @@
 ---
 id: 15786
 title: "Grupo T-Solar - The Generation Game: In 2020, That Means CSR, Environment, Efficiency and Opportunities for All Employees"
-award_year: 2020
+year: 2020
 published: 2020-06-24 11:15:06
 published_gmt: 2020-06-24 10:15:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/06/grupo-t-solar-the-generation-game-in-2020-that-means-csr-environment-efficiency-and-opportunities-for-all-employees/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 57ccfe0fa39a8c246e878b1e500920e9892593df27a25daf1d78f94daffb34f3
 canonical: 15786-grupo-t-solar-the-generation-game-in-2020-that-means-csr-environment-efficiency-.json
 ---

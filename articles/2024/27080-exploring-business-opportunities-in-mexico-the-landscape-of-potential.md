@@ -1,12 +1,21 @@
 ---
 id: 27080
 title: "Exploring Business Opportunities in Mexico: The Landscape of Potential"
-award_year: 2024
+year: 2024
 published: 2024-08-30 09:26:52
 published_gmt: 2024-08-30 08:26:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2024/08/exploring-business-opportunities-in-mexico-the-landscape-of-potential/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 11fe49de3ac600d2286333518bf5bc9c9e9d09dfa81f870e316573ec8a929bab
 canonical: 27080-exploring-business-opportunities-in-mexico-the-landscape-of-potential.json
 ---

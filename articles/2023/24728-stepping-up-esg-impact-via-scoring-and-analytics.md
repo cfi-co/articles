@@ -1,12 +1,21 @@
 ---
 id: 24728
 title: "Stepping-up ESG Impact via Scoring and Analytics"
-award_year: 2023
+year: 2023
 published: 2023-02-06 13:32:09
 published_gmt: 2023-02-06 13:32:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2023/02/stepping-up-esg-impact-via-scoring-and-analytics/"
 categories: ["North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3d075bbd6305475467581b3dc5ba34cc9034b11735da8a86afc3c2e6bdd5c901
 canonical: 24728-stepping-up-esg-impact-via-scoring-and-analytics.json
 ---

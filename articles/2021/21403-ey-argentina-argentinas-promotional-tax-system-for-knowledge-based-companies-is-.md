@@ -1,12 +1,21 @@
 ---
 id: 21403
 title: "EY Argentina: Argentina's Promotional Tax System for Knowledge-based Companies is Gaining Ground in the Local Market"
-award_year: 2021
+year: 2021
 published: 2021-12-22 06:44:06
 published_gmt: 2021-12-22 06:44:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2021/12/ey-argentina-argentinas-promotional-tax-system-for-knowledge-based-companies-is-gaining-ground-in-the-local-market/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8293b276d07bd4e774f9fad28a6bd7a6294ed70cb6f9f84a7b36ba447d9f636e
 canonical: 21403-ey-argentina-argentinas-promotional-tax-system-for-knowledge-based-companies-is-.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 14711
 title: "Business in Times of Corona: Pandemic Puts Eurobonds Back on the Table"
-award_year: 2020
+year: 2020
 published: 2020-03-26 14:06:11
 published_gmt: 2020-03-26 14:06:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2020/03/business-in-times-of-corona-pandemic-puts-eurobonds-back-on-the-table/"
 categories: ["Sustainability", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8fd8d5d62de4a0ef31d4f9bb65fdbf919d27a394c55f6700365f21aa163cf0aa
 canonical: 14711-business-in-times-of-corona-pandemic-puts-eurobonds-back-on-the-table.json
 ---

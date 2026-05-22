@@ -1,12 +1,21 @@
 ---
 id: 6477
 title: "Fata Morgana in the High Alps: Musings on Davos"
-award_year: 2014
+year: 2014
 published: 2014-02-04 10:10:21
 published_gmt: 2014-02-04 10:10:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/02/fata-morgana-in-the-high-alps-musings-on-davos/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Middle East", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7ed2604633e9c35c769aafa7dd1db77d81913aae68f188eb1c84a6c85d4b19af
 canonical: 6477-fata-morgana-in-the-high-alps-musings-on-davos.json
 ---

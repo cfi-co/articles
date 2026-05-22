@@ -1,12 +1,21 @@
 ---
 id: 22156
 title: "Tamsin Lejeune: Saving the World in Style"
-award_year: 2022
+year: 2022
 published: 2022-05-31 13:01:33
 published_gmt: 2022-05-31 12:01:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2022/05/tamsin-lejeune-saving-the-world-in-style/"
 categories: ["Heroes", "Lifestyle", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8db25c14c29d7ebdafd29b37cc66606e550ee5cfee5faf0970f736c6977a1760
 canonical: 22156-tamsin-lejeune-saving-the-world-in-style.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 23726
 title: "The $130tn Opportunity in Sustainable Listed Real Assets"
-award_year: 2022
+year: 2022
 published: 2022-10-26 10:15:42
 published_gmt: 2022-10-26 09:15:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2022/10/the-130tn-opportunity-in-sustainable-listed-real-assets/"
 categories: ["Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6befda035860be9ae1013469fc780bc6ad9edeb8b922eba9f441a8a224a46f8a
 canonical: 23726-the-130tn-opportunity-in-sustainable-listed-real-assets.json
 ---

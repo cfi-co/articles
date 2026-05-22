@@ -1,12 +1,21 @@
 ---
 id: 17598
 title: "Gallatin Point Capital: Differentiated Capital via Industry Expertise and Bespoke Solutions"
-award_year: 2020
+year: 2020
 published: 2020-10-26 15:13:11
 published_gmt: 2020-10-26 15:13:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/10/gallatin-point-capital-differentiated-capital-via-industry-expertise-and-bespoke-solutions/"
 categories: ["Corporate", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c09aab12452fb9a17175ed0eac5c89f70a532a87f3638d7c4f688a73e73100ed
 canonical: 17598-gallatin-point-capital-differentiated-capital-via-industry-expertise-and-bespoke.json
 ---

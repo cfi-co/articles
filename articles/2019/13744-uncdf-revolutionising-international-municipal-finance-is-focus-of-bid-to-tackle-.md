@@ -1,12 +1,21 @@
 ---
 id: 13744
 title: "UNCDF: Revolutionising International Municipal Finance is Focus of Bid to Tackle Climate Change and Open Global Markets"
-award_year: 2019
+year: 2019
 published: 2019-07-23 12:58:08
 published_gmt: 2019-07-23 11:58:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2019/07/uncdf-revolutionising-international-municipal-finance-is-focus-of-bid-to-tackle-climate-change-and-open-global-markets/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eb4a14c1811e701de8b069af4276cf0a28e7d2b8b1ebad8aeae6c41ed09aad23
 canonical: 13744-uncdf-revolutionising-international-municipal-finance-is-focus-of-bid-to-tackle-.json
 ---

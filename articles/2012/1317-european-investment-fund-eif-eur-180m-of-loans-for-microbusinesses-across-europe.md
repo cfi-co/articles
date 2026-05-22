@@ -1,12 +1,21 @@
 ---
 id: 1317
 title: "European Investment Fund (EIF): EUR 180m of Loans for Microbusinesses Across Europe Under Progress Microfinance"
-award_year: 2012
+year: 2012
 published: 2012-08-02 11:51:04
 published_gmt: 2012-08-02 10:51:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/08/european-investment-fund-eif-eur-180m-of-loans-for-microbusinesses-across-europe-under-progress-microfinance/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d154aece907352e06d47054d6c34d09996cad374d170f16482e7c5c5afc6373a
 canonical: 1317-european-investment-fund-eif-eur-180m-of-loans-for-microbusinesses-across-europe.json
 ---

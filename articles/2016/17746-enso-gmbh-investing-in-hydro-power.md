@@ -1,12 +1,21 @@
 ---
 id: 17746
 title: "enso GmbH: Investing in Hydro Power"
-award_year: 2016
+year: 2016
 published: 2016-04-02 20:24:48
 published_gmt: 2016-04-02 19:24:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2016/04/enso-gmbh-investing-in-hydro-power/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4e4f848d18f163bcf201d0cda865d9691f848a307403f63543139544e8040231
 canonical: 17746-enso-gmbh-investing-in-hydro-power.json
 ---

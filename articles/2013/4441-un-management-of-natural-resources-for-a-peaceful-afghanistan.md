@@ -1,12 +1,21 @@
 ---
 id: 4441
 title: "UN: Management of Natural Resources for a Peaceful Afghanistan"
-award_year: 2013
+year: 2013
 published: 2013-06-25 10:28:27
 published_gmt: 2013-06-25 09:28:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/06/un-management-of-natural-resources-for-a-peaceful-afghanistan/"
 categories: ["Middle East", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6c0d6a2a613c4652ac17d57dbbcc06910f8d7fcce05f6e52191d89e4156d6ec0
 canonical: 4441-un-management-of-natural-resources-for-a-peaceful-afghanistan.json
 ---

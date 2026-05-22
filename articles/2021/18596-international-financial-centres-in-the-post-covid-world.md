@@ -1,12 +1,21 @@
 ---
 id: 18596
 title: "International Financial Centres in the Post-Covid World"
-award_year: 2021
+year: 2021
 published: 2021-02-02 14:24:42
 published_gmt: 2021-02-02 14:24:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/international-financial-centres-in-the-post-covid-world/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3891c9f944d68a5057cc9a5bc8b4adc04fc75d786a610cbe2157e8c4f7a82343
 canonical: 18596-international-financial-centres-in-the-post-covid-world.json
 ---

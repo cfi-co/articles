@@ -1,12 +1,21 @@
 ---
 id: 3420
 title: "Dilma Rousseff: Big Shoes Too"
-award_year: 2013
+year: 2013
 published: 2013-03-27 10:24:13
 published_gmt: 2013-03-27 10:24:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2013/03/dilma-rousseff-big-shoes-too/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9605baae09c9fa6e86e0bc1bc966b1c4f0379be692829236f0a5ba7e2af604b9
 canonical: 3420-dilma-rousseff-big-shoes-too.json
 ---

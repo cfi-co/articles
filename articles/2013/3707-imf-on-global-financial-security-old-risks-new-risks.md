@@ -1,12 +1,21 @@
 ---
 id: 3707
 title: "IMF on Global Financial Security: Old Risks, New Risks"
-award_year: 2013
+year: 2013
 published: 2013-04-22 08:44:35
 published_gmt: 2013-04-22 08:44:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/04/imf-on-global-financial-security-old-risks-new-risks/"
 categories: ["Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ab4c40f0fb04f887e494292e0de20528d8fcbf7ac6c10b136861e41c26e688ba
 canonical: 3707-imf-on-global-financial-security-old-risks-new-risks.json
 ---

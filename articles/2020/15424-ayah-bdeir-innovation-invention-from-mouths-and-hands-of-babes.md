@@ -1,12 +1,21 @@
 ---
 id: 15424
 title: "Ayah Bdeir: Innovation, Invention from Mouths and Hands of Babes"
-award_year: 2020
+year: 2020
 published: 2020-05-22 10:30:46
 published_gmt: 2020-05-22 09:30:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2020/05/ayah-bdeir-innovation-invention-from-mouths-and-hands-of-babes/"
 categories: ["Innovation &amp; Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 75acfc29e0c5da3497493c86e24673a3ef3381f6120266ca488f03414e008b91
 canonical: 15424-ayah-bdeir-innovation-invention-from-mouths-and-hands-of-babes.json
 ---

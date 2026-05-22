@@ -1,12 +1,21 @@
 ---
 id: 10965
 title: "Book Review: Private Island - Why Britain Now Belongs to Someone Else"
-award_year: 2018
+year: 2018
 published: 2018-02-05 13:44:29
 published_gmt: 2018-02-05 13:44:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2018/02/book-review-private-island-why-britain-now-belongs-to-someone-else/"
 categories: ["Europe", "Reviews"]
+content_class: review
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 167e09577f0dbdbbbaaf786bc49afb91d5e33ca21110d851c74a3ce2799bac0e
 canonical: 10965-book-review-private-island-why-britain-now-belongs-to-someone-else.json
 ---

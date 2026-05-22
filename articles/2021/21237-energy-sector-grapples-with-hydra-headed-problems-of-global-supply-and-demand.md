@@ -1,12 +1,21 @@
 ---
 id: 21237
 title: "Energy Sector Grapples with Hydra-Headed Problems of Global Supply and Demand"
-award_year: 2021
+year: 2021
 published: 2021-11-30 13:15:44
 published_gmt: 2021-11-30 13:15:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/energy/2021/11/energy-sector-grapples-with-hydra-headed-problems-of-global-supply-and-demand/"
 categories: ["Brave New World", "Energy", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ddb6270a4746299e27cc058cab5c1b60967b416b7ca99be6c95fa99cf3584b21
 canonical: 21237-energy-sector-grapples-with-hydra-headed-problems-of-global-supply-and-demand.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 12564
 title: "African Open Sky: The New Face of African Aviation"
-award_year: 2018
+year: 2018
 published: 2018-05-24 13:54:23
 published_gmt: 2018-05-24 12:54:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2018/05/african-open-sky-the-new-face-of-african-aviation/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7ff7fb2ef6aee2a7c2d3663b92f2cf89ceee028ad97667744709b82b060bfa1f
 canonical: 12564-african-open-sky-the-new-face-of-african-aviation.json
 ---

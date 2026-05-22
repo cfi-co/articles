@@ -1,12 +1,21 @@
 ---
 id: 23740
 title: "Interview with Georg Schwab & Stefan Schmid: AVL Reimagining Motion through Continuous Innovation"
-award_year: 2022
+year: 2022
 published: 2022-10-27 14:44:02
 published_gmt: 2022-10-27 13:44:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/10/interview-with-georg-schwab-stefan-schmid-avl-reimagining-motion-through-continuous-innovation/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a513cee9b6ad35553314635694dc13cc995d8dc8f7868a35279dca9599f81305
 canonical: 23740-interview-with-georg-schwab-stefan-schmid-avl-reimagining-motion-through-continu.json
 ---

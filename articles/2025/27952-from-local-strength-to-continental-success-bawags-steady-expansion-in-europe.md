@@ -1,12 +1,21 @@
 ---
 id: 27952
 title: "From Local Strength to Continental Success: BAWAG’s Steady Expansion in Europe"
-award_year: 2025
+year: 2025
 published: 2025-09-26 09:00:22
 published_gmt: 2025-09-26 08:00:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2025/09/from-local-strength-to-continental-success-bawags-steady-expansion-in-europe/"
 categories: ["Banking", "Corporate", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 464ec9e21195bb202045010bf48d49d6527242c986d1bfc7ccc5adbd6b407f8b
 canonical: 27952-from-local-strength-to-continental-success-bawags-steady-expansion-in-europe.json
 ---

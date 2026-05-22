@@ -1,12 +1,21 @@
 ---
 id: 5292
 title: "Looking for an Easy Fix: The Great Banking Crisis Five Years Later"
-award_year: 2013
+year: 2013
 published: 2013-09-17 09:34:06
 published_gmt: 2013-09-17 08:34:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2013/09/looking-for-an-easy-fix-the-great-banking-crisis-five-years-later/"
 categories: ["Banking", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 31e5c3908e04b45c09dcd5cfcfba778954f50084a002876ba7d40805148f7ba8
 canonical: 5292-looking-for-an-easy-fix-the-great-banking-crisis-five-years-later.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 582
 title: "Brazilian Brands Abroad"
-award_year: 2012
+year: 2012
 published: 2012-05-22 15:12:35
 published_gmt: 2012-05-22 14:12:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2012/05/brazilian-brands-abroad/"
 categories: ["Latin America", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 39592d92f195ba57b58afda800f6bfe9d712df1f50ee375a85e228e292f378a5
 canonical: 582-brazilian-brands-abroad.json
 ---

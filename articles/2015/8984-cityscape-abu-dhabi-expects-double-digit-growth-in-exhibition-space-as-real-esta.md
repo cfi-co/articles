@@ -1,12 +1,21 @@
 ---
 id: 8984
 title: "Cityscape Abu Dhabi Expects Double Digit Growth in Exhibition Space as Real Estate Market Stabilises"
-award_year: 2015
+year: 2015
 published: 2015-02-20 12:56:35
 published_gmt: 2015-02-20 12:56:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2015/02/cityscape-abu-dhabi-expects-double-digit-growth-in-exhibition-space-as-real-estate-market-stabilises/"
 categories: ["Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c87f68b03d24bc310ebeb0571287111a1d845e3f583239422591252286c8e7ab
 canonical: 8984-cityscape-abu-dhabi-expects-double-digit-growth-in-exhibition-space-as-real-esta.json
 ---

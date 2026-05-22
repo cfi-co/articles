@@ -1,12 +1,21 @@
 ---
 id: 16262
 title: "EU Prime Ministers Beat a Path to The Hague"
-award_year: 2020
+year: 2020
 published: 2020-07-12 16:53:24
 published_gmt: 2020-07-12 15:53:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/07/eu-prime-ministers-beat-a-path-to-the-hague/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: da8c03eb2ba220e2931f02125c37ad56b09f94c4e5d9d24bd27732d145eb93e6
 canonical: 16262-eu-prime-ministers-beat-a-path-to-the-hague.json
 ---

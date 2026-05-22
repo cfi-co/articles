@@ -1,12 +1,21 @@
 ---
 id: 22458
 title: "Steve Fechheimer: Brewing Up a Storm to Combat Climate Change"
-award_year: 2022
+year: 2022
 published: 2022-07-26 14:12:48
 published_gmt: 2022-07-26 13:12:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/heroes/2022/07/steve-fechheimer-brewing-up-a-storm-to-combat-climate-change/"
 categories: ["Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 126844ebecd0a6dc45d5c5f348c15ef4779a1ea023e203be8124de31fea1d9c3
 canonical: 22458-steve-fechheimer-brewing-up-a-storm-to-combat-climate-change.json
 ---

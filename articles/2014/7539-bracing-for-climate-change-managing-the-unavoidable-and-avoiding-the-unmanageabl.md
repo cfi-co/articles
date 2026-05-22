@@ -1,12 +1,21 @@
 ---
 id: 7539
 title: "Bracing for Climate Change: Managing the Unavoidable and Avoiding the Unmanageable"
-award_year: 2014
+year: 2014
 published: 2014-07-02 09:32:25
 published_gmt: 2014-07-02 08:32:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/07/bracing-for-climate-change-managing-the-unavoidable-and-avoiding-the-unmanageable/"
 categories: ["Europe", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 048431f057ec57da829dea08e52fa36e429da93dd3c91577419e3e836eead410
 canonical: 7539-bracing-for-climate-change-managing-the-unavoidable-and-avoiding-the-unmanageabl.json
 ---

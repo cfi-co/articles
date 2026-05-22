@@ -1,12 +1,21 @@
 ---
 id: 8446
 title: "Mo Farah: Running for Fun, Profit and Charity"
-award_year: 2014
+year: 2014
 published: 2014-11-26 11:55:37
 published_gmt: 2014-11-26 11:55:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/11/mo-farah-running-for-fun-profit-and-charity/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f3346c3fb317dcdaada149d5441be6f30b9abba467d62ac8dcf618b10ec177d2
 canonical: 8446-mo-farah-running-for-fun-profit-and-charity.json
 ---

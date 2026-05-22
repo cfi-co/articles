@@ -1,12 +1,21 @@
 ---
 id: 27672
 title: "The Midas Touch, or Not So Much? The Mythical Metal vs Shares"
-award_year: 2025
+year: 2025
 published: 2025-04-02 13:07:57
 published_gmt: 2025-04-02 12:07:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/04/the-midas-touch-or-not-so-much-the-mythical-metal-vs-shares/"
 categories: ["Finance", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4f9e210e4c823712d967dba6e1e7ef162fcdf5d2ee2d4b6df3466534f7967c99
 canonical: 27672-the-midas-touch-or-not-so-much-the-mythical-metal-vs-shares.json
 ---

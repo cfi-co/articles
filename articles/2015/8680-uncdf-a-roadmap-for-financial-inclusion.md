@@ -1,12 +1,21 @@
 ---
 id: 8680
 title: "UNCDF: A Roadmap for Financial Inclusion"
-award_year: 2015
+year: 2015
 published: 2015-01-09 13:24:20
 published_gmt: 2015-01-09 13:24:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/01/uncdf-a-roadmap-for-financial-inclusion/"
 categories: ["Africa", "Finance", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e7a9ccf8d977e7cb27fd691522b1fa5a68da22493fa124c3e204ca92b8cee1c7
 canonical: 8680-uncdf-a-roadmap-for-financial-inclusion.json
 ---

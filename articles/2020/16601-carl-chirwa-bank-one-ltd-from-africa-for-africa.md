@@ -1,12 +1,21 @@
 ---
 id: 16601
 title: "Bank One Ltd: From Africa, for Africa, with a Wealth of Regional Understanding"
-award_year: 2020
+year: 2020
 published: 2020-08-14 12:35:30
 published_gmt: 2020-08-14 11:35:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/08/carl-chirwa-bank-one-ltd-from-africa-for-africa/"
 categories: ["Corporate", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b6b7f6ccd3d33cc3e40c5c9a097fcaf9d279678217e3711cc8206b63fbbfe98b
 canonical: 16601-carl-chirwa-bank-one-ltd-from-africa-for-africa.json
 ---

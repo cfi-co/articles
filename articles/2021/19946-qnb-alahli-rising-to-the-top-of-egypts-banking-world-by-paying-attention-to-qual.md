@@ -1,12 +1,21 @@
 ---
 id: 19946
 title: "QNB ALAHLI: Rising to the Top of Egypt’s Banking World – by Paying Attention to Quality Service"
-award_year: 2021
+year: 2021
 published: 2021-07-13 12:45:43
 published_gmt: 2021-07-13 11:45:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/qnb-alahli-rising-to-the-top-of-egypts-banking-world-by-paying-attention-to-quality-service/"
 categories: ["Corporate", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5dd6d47b6327725d4f28cecd1b18f67c49253dec145abf17054df4a26fbf6511
 canonical: 19946-qnb-alahli-rising-to-the-top-of-egypts-banking-world-by-paying-attention-to-qual.json
 ---

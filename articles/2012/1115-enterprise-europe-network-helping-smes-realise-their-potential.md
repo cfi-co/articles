@@ -1,12 +1,21 @@
 ---
 id: 1115
 title: "Enterprise Europe Network: Helping SMEs Realise their Potential"
-award_year: 2012
+year: 2012
 published: 2012-07-24 15:02:15
 published_gmt: 2012-07-24 14:02:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2012/07/enterprise-europe-network-helping-smes-realise-their-potential/"
 categories: ["Europe", "Finance", "Projects", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0559eb2b6ea7334797c8576ef3a52fc238dfe4ad4d2ce24fcaeaf666a54527bf
 canonical: 1115-enterprise-europe-network-helping-smes-realise-their-potential.json
 ---

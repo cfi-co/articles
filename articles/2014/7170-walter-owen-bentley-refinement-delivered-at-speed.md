@@ -1,12 +1,21 @@
 ---
 id: 7170
 title: "Walter Owen Bentley: Refinement Delivered at Speed"
-award_year: 2014
+year: 2014
 published: 2014-05-12 12:17:53
 published_gmt: 2014-05-12 11:17:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2014/05/walter-owen-bentley-refinement-delivered-at-speed/"
 categories: ["Europe", "Lifestyle", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ac473ec433b6dd97dd2b87613ce693d75fd4571a7a83e973c92e86e3bf41e502
 canonical: 7170-walter-owen-bentley-refinement-delivered-at-speed.json
 ---

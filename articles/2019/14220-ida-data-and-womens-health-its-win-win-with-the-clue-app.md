@@ -1,12 +1,21 @@
 ---
 id: 14220
 title: "Ida, Data and Women’s Health: It’s Win-Win with the Clue App"
-award_year: 2019
+year: 2019
 published: 2019-10-15 09:32:52
 published_gmt: 2019-10-15 08:32:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2019/10/ida-data-and-womens-health-its-win-win-with-the-clue-app/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1c9cda1462ba8b18e3f659288bb0c3b1e64d9149b6656248b9787d9ace24d35c
 canonical: 14220-ida-data-and-womens-health-its-win-win-with-the-clue-app.json
 ---

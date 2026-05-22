@@ -1,12 +1,21 @@
 ---
 id: 7329
 title: "CFI.co Meets the CEO of RAK Insurance: Andrew Smith"
-award_year: 2014
+year: 2014
 published: 2014-03-01 19:04:21
 published_gmt: 2014-03-01 19:04:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2014/03/cfi-co-meets-the-ceo-of-rak-insurance-andrew-smith/"
 categories: ["Corporate Leaders", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fb931da6fdad50d9b0cf949d1c3d5ca94b6d3b81d0a99df5e2e1cbe3f781794c
 canonical: 7329-cfi-co-meets-the-ceo-of-rak-insurance-andrew-smith.json
 ---

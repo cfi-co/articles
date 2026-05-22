@@ -1,12 +1,21 @@
 ---
 id: 7363
 title: "UN Labour Report Shows Solid Return for National Investments in Quality Jobs"
-award_year: 2014
+year: 2014
 published: 2014-05-28 11:16:18
 published_gmt: 2014-05-28 10:16:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/05/un-labour-report-shows-solid-return-for-national-investments-in-quality-jobs/"
 categories: ["Africa", "Europe", "Latin America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e9b26f099bbf4ffd1f075f2c30758d6a921c6054cf59b99ba326fd52258b5647
 canonical: 7363-un-labour-report-shows-solid-return-for-national-investments-in-quality-jobs.json
 ---

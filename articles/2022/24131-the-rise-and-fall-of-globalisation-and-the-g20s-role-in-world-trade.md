@@ -1,12 +1,21 @@
 ---
 id: 24131
 title: "The Rise and Fall of Globalisation — and the G20’s Role in World Trade"
-award_year: 2022
+year: 2022
 published: 2022-12-08 11:21:53
 published_gmt: 2022-12-08 11:21:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2022/12/the-rise-and-fall-of-globalisation-and-the-g20s-role-in-world-trade/"
 categories: ["Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4e50a2a56201d9ae7ec4926b4b1fdfb388678647aa87c5be63f37e727ea33fca
 canonical: 24131-the-rise-and-fall-of-globalisation-and-the-g20s-role-in-world-trade.json
 ---

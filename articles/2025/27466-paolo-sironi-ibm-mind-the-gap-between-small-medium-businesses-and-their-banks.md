@@ -1,12 +1,21 @@
 ---
 id: 27466
 title: "Paolo Sironi, IBM: Mind the Gap Between Small-Medium Businesses and Their Banks"
-award_year: 2025
+year: 2025
 published: 2025-01-09 10:32:42
 published_gmt: 2025-01-09 10:32:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2025/01/paolo-sironi-ibm-mind-the-gap-between-small-medium-businesses-and-their-banks/"
 categories: ["Banking", "Banking &amp; Finance", "Europe", "North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c6f826f2cb972e6bc163db07804dc28c11ba2f27becebf7bd9e95e060e7da043
 canonical: 27466-paolo-sironi-ibm-mind-the-gap-between-small-medium-businesses-and-their-banks.json
 ---

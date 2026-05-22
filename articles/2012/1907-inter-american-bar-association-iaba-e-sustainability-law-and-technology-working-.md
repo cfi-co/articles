@@ -1,12 +1,21 @@
 ---
 id: 1907
 title: "IABA: E-Sustainability - Law and Technology Working for the Environment"
-award_year: 2012
+year: 2012
 published: 2012-08-21 19:22:14
 published_gmt: 2012-08-21 18:22:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2012/08/inter-american-bar-association-iaba-e-sustainability-law-and-technology-working-for-the-environment/"
 categories: ["Latin America", "Legal", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a9f3b4bdab78ffe59a99857f22edae067d306d3442399679503a8d81d49d3e02
 canonical: 1907-inter-american-bar-association-iaba-e-sustainability-law-and-technology-working-.json
 ---

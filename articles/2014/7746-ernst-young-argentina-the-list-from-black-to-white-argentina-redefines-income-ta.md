@@ -1,12 +1,21 @@
 ---
 id: 7746
 title: "Ernst & Young, Argentina: The List from Black to White - Argentina Redefines Income Tax Law"
-award_year: 2014
+year: 2014
 published: 2014-08-05 11:39:51
 published_gmt: 2014-08-05 10:39:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2014/08/ernst-young-argentina-the-list-from-black-to-white-argentina-redefines-income-tax-law/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8172d7d8db7cee77e54593070dd96ab42be1c9ae6a148d61962208d3eb3f5d0f
 canonical: 7746-ernst-young-argentina-the-list-from-black-to-white-argentina-redefines-income-ta.json
 ---

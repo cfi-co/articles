@@ -1,12 +1,21 @@
 ---
 id: 25186
 title: "The Top Traits of a Great CEO"
-award_year: 2023
+year: 2023
 published: 2023-04-24 12:36:49
 published_gmt: 2023-04-24 11:36:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2023/04/the-top-traits-of-a-great-ceo/"
 categories: ["Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6fe5102bb102a0159bc48a08939a9244b4548876dfc1536730e765c97446642c
 canonical: 25186-the-top-traits-of-a-great-ceo.json
 ---

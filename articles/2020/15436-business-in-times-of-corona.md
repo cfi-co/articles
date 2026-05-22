@@ -1,12 +1,21 @@
 ---
 id: 15436
 title: "Business in Times of Corona"
-award_year: 2020
+year: 2020
 published: 2020-05-22 17:42:00
 published_gmt: 2020-05-22 16:42:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/05/business-in-times-of-corona/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 80249c1cfe84994942f4fc1d8cefcd906e9afe6755d12de2cee525131a3fcc5d
 canonical: 15436-business-in-times-of-corona.json
 ---

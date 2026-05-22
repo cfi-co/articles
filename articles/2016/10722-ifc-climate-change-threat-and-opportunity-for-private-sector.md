@@ -1,12 +1,21 @@
 ---
 id: 10722
 title: "IFC: Climate Change - Threat and Opportunity for Private Sector"
-award_year: 2016
+year: 2016
 published: 2016-01-06 13:25:03
 published_gmt: 2016-01-06 13:25:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2016/01/ifc-climate-change-threat-and-opportunity-for-private-sector/"
 categories: ["Europe", "Finance", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4125f03428886f02fb08cbbe6e2d30491b4b5f6bedfbdb0e6bb651a8391753ae
 canonical: 10722-ifc-climate-change-threat-and-opportunity-for-private-sector.json
 ---

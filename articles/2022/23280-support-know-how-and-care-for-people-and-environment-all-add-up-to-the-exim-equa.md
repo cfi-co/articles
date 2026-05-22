@@ -1,12 +1,21 @@
 ---
 id: 23280
 title: "Support, Know-how, and Care for People and Environment All Add Up to ‘the EXIM Equation’"
-award_year: 2022
+year: 2022
 published: 2022-09-06 08:50:27
 published_gmt: 2022-09-06 07:50:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/09/support-know-how-and-care-for-people-and-environment-all-add-up-to-the-exim-equation/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 89b78dfd1f7f4af175d349eba85524e2176d0713a04c1abc98a57858f13cbf54
 canonical: 23280-support-know-how-and-care-for-people-and-environment-all-add-up-to-the-exim-equa.json
 ---

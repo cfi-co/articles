@@ -1,12 +1,21 @@
 ---
 id: 1270
 title: "Institute for New Economic Thinking (INET) and INET Council on the Euro Zone Crisis (ICEC): Europe is Sleepwalking Towards Disaster of Incalculable Proportions"
-award_year: 2012
+year: 2012
 published: 2012-07-30 16:47:28
 published_gmt: 2012-07-30 15:47:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2012/07/institute-for-new-economic-thinking-inet-and-inet-council-on-the-euro-zone-crisis-icec-europe-is-sleepwalking-towards-disaster-of-incalculable-proportions/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c335c5b6ce7a2a5741e863c66be9173593ac4ac39e015ab7ac846c50c9e38508
 canonical: 1270-institute-for-new-economic-thinking-inet-and-inet-council-on-the-euro-zone-crisi.json
 ---

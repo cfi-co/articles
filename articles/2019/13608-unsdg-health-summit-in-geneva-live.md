@@ -1,12 +1,21 @@
 ---
 id: 13608
 title: "UNSDG Health Summit in Geneva: Live Coverage"
-award_year: 2019
+year: 2019
 published: 2019-05-25 15:26:55
 published_gmt: 2019-05-25 14:26:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/projects/2019/05/unsdg-health-summit-in-geneva-live/"
 categories: ["Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dbeab596a3f84ee177eb7b0fa61392aca1ed6fa9ca5a0903c33a08c7107a07a2
 canonical: 13608-unsdg-health-summit-in-geneva-live.json
 ---

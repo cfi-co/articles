@@ -1,12 +1,21 @@
 ---
 id: 4659
 title: "CBI: Encouraging Signs from the UK Jobs Market"
-award_year: 2013
+year: 2013
 published: 2013-07-29 09:00:57
 published_gmt: 2013-07-29 08:00:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/07/cbi-encouraging-signs-from-the-uk-jobs-market/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c82f5c9c6991ea8c623471473469e1b4cf60cd350865bc818601039eb4763cd8
 canonical: 4659-cbi-encouraging-signs-from-the-uk-jobs-market.json
 ---

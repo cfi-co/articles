@@ -1,12 +1,21 @@
 ---
 id: 26248
 title: "The Changing Face of Business Travel (and How Best to Reap the Benefits)"
-award_year: 2023
+year: 2023
 published: 2023-10-24 20:18:30
 published_gmt: 2023-10-24 19:18:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2023/10/the-changing-face-of-business-travel-and-how-best-to-reap-the-benefits/"
 categories: ["Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4cc33f1a9316794335a8f5d031c805bd04a0c7b4881c7fdab586900bcded3144
 canonical: 26248-the-changing-face-of-business-travel-and-how-best-to-reap-the-benefits.json
 ---

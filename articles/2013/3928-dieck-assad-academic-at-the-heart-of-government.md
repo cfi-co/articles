@@ -1,12 +1,21 @@
 ---
 id: 3928
 title: "Dieck-Assad, Academic at the Heart of Government"
-award_year: 2013
+year: 2013
 published: 2013-05-16 10:31:55
 published_gmt: 2013-05-16 10:31:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/latinamerica/2013/05/dieck-assad-academic-at-the-heart-of-government/"
 categories: ["Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 67309f04ae83a70df80f2c1ac101ec404c73227d83979656a76b8ad8e424c367
 canonical: 3928-dieck-assad-academic-at-the-heart-of-government.json
 ---

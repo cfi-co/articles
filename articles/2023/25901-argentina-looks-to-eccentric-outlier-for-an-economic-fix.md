@@ -1,12 +1,21 @@
 ---
 id: 25901
 title: "Argentina Looks to Eccentric Outlier For an Economic Fix"
-award_year: 2023
+year: 2023
 published: 2023-08-17 17:58:02
 published_gmt: 2023-08-17 16:58:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/08/argentina-looks-to-eccentric-outlier-for-an-economic-fix/"
 categories: ["Brave New World", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 52f7dc6eccd642e938e57d0c441c01d6c3f5ac2267620a8a4ce87fc69c17709a
 canonical: 25901-argentina-looks-to-eccentric-outlier-for-an-economic-fix.json
 ---

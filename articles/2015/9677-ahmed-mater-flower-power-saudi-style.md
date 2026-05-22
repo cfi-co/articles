@@ -1,12 +1,21 @@
 ---
 id: 9677
 title: "Ahmed Mater: Flower Power, Saudi-Style"
-award_year: 2015
+year: 2015
 published: 2015-04-22 15:55:36
 published_gmt: 2015-04-22 14:55:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2015/04/ahmed-mater-flower-power-saudi-style/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fdefc4802232a3c25036998033219962b796cd20aa1f532e3a755f9f2e90b12c
 canonical: 9677-ahmed-mater-flower-power-saudi-style.json
 ---

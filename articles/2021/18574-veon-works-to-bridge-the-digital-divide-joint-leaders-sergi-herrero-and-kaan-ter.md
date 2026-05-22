@@ -1,12 +1,21 @@
 ---
 id: 18574
 title: "VEON Works to Bridge the Digital Divide: Joint Leaders Sergi Herrero and Kaan Terzioğlu Show the Way"
-award_year: 2021
+year: 2021
 published: 2021-02-01 17:30:46
 published_gmt: 2021-02-01 17:30:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/cfi-co-meets/2021/02/veon-works-to-bridge-the-digital-divide-joint-leaders-sergi-herrero-and-kaan-terzioglu-show-the-way/"
 categories: ["CFI.co Meets"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 472e08f70076f7e25b90e0ae52e3b4ce508f64566bf8ec34157be24a4be9178c
 canonical: 18574-veon-works-to-bridge-the-digital-divide-joint-leaders-sergi-herrero-and-kaan-ter.json
 ---

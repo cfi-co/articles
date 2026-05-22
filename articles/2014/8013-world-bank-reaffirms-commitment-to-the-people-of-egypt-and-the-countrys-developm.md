@@ -1,12 +1,21 @@
 ---
 id: 8013
 title: "World Bank Reaffirms Commitment to the People of Egypt and the Country’s Development Priorities"
-award_year: 2014
+year: 2014
 published: 2014-09-15 12:51:52
 published_gmt: 2014-09-15 11:51:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2014/09/world-bank-reaffirms-commitment-to-the-people-of-egypt-and-the-countrys-development-priorities/"
 categories: ["Banking", "Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 627cebd19a84cfc63364c3533e05260dfcb518ebca1a4112f029f73d9aab9e53
 canonical: 8013-world-bank-reaffirms-commitment-to-the-people-of-egypt-and-the-countrys-developm.json
 ---

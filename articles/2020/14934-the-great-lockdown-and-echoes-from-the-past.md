@@ -1,12 +1,21 @@
 ---
 id: 14934
 title: "The Great Lockdown and Echoes from the Past"
-award_year: 2020
+year: 2020
 published: 2020-04-16 15:11:09
 published_gmt: 2020-04-16 14:11:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/the-great-lockdown-and-echoes-from-the-past/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9cbc40af09a4f951cdd61177c427a4234f10c4ec65e847866fa1ebf8317ee4bd
 canonical: 14934-the-great-lockdown-and-echoes-from-the-past.json
 ---

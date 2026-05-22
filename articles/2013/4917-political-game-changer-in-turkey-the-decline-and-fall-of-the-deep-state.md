@@ -1,12 +1,21 @@
 ---
 id: 4917
 title: "Political Game Changer in Turkey: The Decline and Fall of the Deep State"
-award_year: 2013
+year: 2013
 published: 2013-08-07 09:42:09
 published_gmt: 2013-08-07 08:42:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/08/political-game-changer-in-turkey-the-decline-and-fall-of-the-deep-state/"
 categories: ["Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4d14cd1d47cdb209848937e904b5086974dc20a36a3de4336a6613786b868414
 canonical: 4917-political-game-changer-in-turkey-the-decline-and-fall-of-the-deep-state.json
 ---

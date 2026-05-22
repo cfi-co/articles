@@ -1,12 +1,21 @@
 ---
 id: 8798
 title: "World Economic Forum: Less Is More and Other Wisdom from Davos"
-award_year: 2015
+year: 2015
 published: 2015-01-22 13:22:28
 published_gmt: 2015-01-22 13:22:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2015/01/world-economic-forum-less-is-more-and-other-wisdom-from-davos/"
 categories: ["Banking", "Europe", "Finance", "North America", "WEF"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3c7ecef29e8810f8def4d5b36e50c4addc5125edc8b3c9f27319313b71b3b1b0
 canonical: 8798-world-economic-forum-less-is-more-and-other-wisdom-from-davos.json
 ---

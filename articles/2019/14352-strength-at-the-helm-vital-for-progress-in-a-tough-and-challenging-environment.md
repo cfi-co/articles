@@ -1,12 +1,21 @@
 ---
 id: 14352
 title: "Strength at the Helm: Vital for Progress in a Tough and Challenging Environment"
-award_year: 2019
+year: 2019
 published: 2019-11-14 09:51:40
 published_gmt: 2019-11-14 09:51:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2019/11/strength-at-the-helm-vital-for-progress-in-a-tough-and-challenging-environment/"
 categories: ["Corporate Leaders", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4d1b00e18b11008a72c776cd5ce8751cc1cc918516b3f94abbd580e671dd15a9
 canonical: 14352-strength-at-the-helm-vital-for-progress-in-a-tough-and-challenging-environment.json
 ---

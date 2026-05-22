@@ -1,12 +1,21 @@
 ---
 id: 18164
 title: "Stock Markets Celebrate Whilst Real Economy Mourns"
-award_year: 2020
+year: 2020
 published: 2020-12-01 14:25:11
 published_gmt: 2020-12-01 14:25:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/12/stock-markets-celebrate-whilst-real-economy-mourns/"
 categories: ["Brave New World", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 708af8df3173f5bbf1357263d5fae817873b932e6237688f66a022b15ccdd70b
 canonical: 18164-stock-markets-celebrate-whilst-real-economy-mourns.json
 ---

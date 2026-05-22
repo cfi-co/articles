@@ -1,12 +1,21 @@
 ---
 id: 11657
 title: "IFC: Energy Storage Can Open Doors to Clean Energy Solutions in Emerging Markets"
-award_year: 2017
+year: 2017
 published: 2017-06-17 12:43:53
 published_gmt: 2017-06-17 11:43:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2017/06/ifc-energy-storage-can-open-doors-to-clean-energy-solutions-in-emerging-markets/"
 categories: ["Asia Pacific", "Energy", "Sustainability", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c72ec0ef21884bca6874f89c63fb93cf599fc123090dd6bfb252941ba09aaaa6
 canonical: 11657-ifc-energy-storage-can-open-doors-to-clean-energy-solutions-in-emerging-markets.json
 ---

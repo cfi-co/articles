@@ -1,12 +1,21 @@
 ---
 id: 25262
 title: "Rebecca Carter: Wise Words on Solar Energy"
-award_year: 2023
+year: 2023
 published: 2023-05-03 13:19:56
 published_gmt: 2023-05-03 12:19:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2023/05/rebecca-carter-wise-words-on-solar-energy/"
 categories: ["Corporate", "Energy"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3b152f7b7a62fcdf7f9623c2c721fb4c387bca4b0d08dd1a2cb2e3ede0d94a05
 canonical: 25262-rebecca-carter-wise-words-on-solar-energy.json
 ---

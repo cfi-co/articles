@@ -1,12 +1,21 @@
 ---
 id: 8514
 title: "UN Reports Potential for Gradual Return to Global Growth, Foresees Risks, Uncertainties"
-award_year: 2014
+year: 2014
 published: 2014-12-11 11:40:04
 published_gmt: 2014-12-11 11:40:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/12/un-reports-potential-for-gradual-return-to-global-growth-foresees-risks-uncertainties/"
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Latin America", "Middle East", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8bd151e42f9dcdb8add1dc316091c19a510394ff9e8fe517423d848d135e3bf7
 canonical: 8514-un-reports-potential-for-gradual-return-to-global-growth-foresees-risks-uncertai.json
 ---

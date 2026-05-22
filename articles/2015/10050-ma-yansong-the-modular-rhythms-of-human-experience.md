@@ -1,12 +1,21 @@
 ---
 id: 10050
 title: "Ma Yansong: The Modular Rhythms of Human Experience"
-award_year: 2015
+year: 2015
 published: 2015-06-23 13:47:54
 published_gmt: 2015-06-23 12:47:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2015/06/ma-yansong-the-modular-rhythms-of-human-experience/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ea9dc0a83e66febd88e8a785b8f6e5286216694c34d40ee5b368a244a3aada34
 canonical: 10050-ma-yansong-the-modular-rhythms-of-human-experience.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 9139
 title: "New World Bank Green Bond Is a Story of Market Growth and Innovation"
-award_year: 2015
+year: 2015
 published: 2015-02-26 14:32:25
 published_gmt: 2015-02-26 14:32:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2015/02/new-world-bank-green-bond-is-a-story-of-market-growth-and-innovation/"
 categories: ["Asia Pacific", "Banking", "Europe", "Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d59e16096a32cfb3b67aea9ead7bc70874b71b9f989ef75aff8ea597599203c7
 canonical: 9139-new-world-bank-green-bond-is-a-story-of-market-growth-and-innovation.json
 ---

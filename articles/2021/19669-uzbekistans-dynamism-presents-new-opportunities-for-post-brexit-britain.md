@@ -1,12 +1,21 @@
 ---
 id: 19669
 title: "Uzbekistan’s Dynamism Presents New Opportunities for Post-Brexit Britain"
-award_year: 2021
+year: 2021
 published: 2021-05-12 07:17:47
 published_gmt: 2021-05-12 06:17:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/hidden-gems/2021/05/uzbekistans-dynamism-presents-new-opportunities-for-post-brexit-britain/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d86fed2cd652b5b5878da9c515a90caf321eac6dc08ae147362c3ed503e66854
 canonical: 19669-uzbekistans-dynamism-presents-new-opportunities-for-post-brexit-britain.json
 ---

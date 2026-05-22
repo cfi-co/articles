@@ -1,12 +1,21 @@
 ---
 id: 13135
 title: "Nikolaj Coster-WaLdau: Indomitable"
-award_year: 2018
+year: 2018
 published: 2018-09-12 12:24:08
 published_gmt: 2018-09-12 11:24:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2018/09/nikolaj-coster-waldau-indomitable/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 077e96910297fe64d204196908810be418256572e96b56e62c86a69f6bf17cb3
 canonical: 13135-nikolaj-coster-waldau-indomitable.json
 ---

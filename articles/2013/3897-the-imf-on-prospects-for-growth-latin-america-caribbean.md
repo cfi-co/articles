@@ -1,12 +1,21 @@
 ---
 id: 3897
 title: "The IMF on Prospects for Growth:  Latin America & Caribbean"
-award_year: 2013
+year: 2013
 published: 2013-05-10 10:23:50
 published_gmt: 2013-05-10 09:23:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/05/the-imf-on-prospects-for-growth-latin-america-caribbean/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 50794397f11a74d4585e15115346572d0885ccf986fa7e79ba397268f836b81e
 canonical: 3897-the-imf-on-prospects-for-growth-latin-america-caribbean.json
 ---

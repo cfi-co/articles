@@ -1,12 +1,21 @@
 ---
 id: 22021
 title: "In the Face of Grim Challenges, Uzbekistan Forges Ahead on Privatisation"
-award_year: 2022
+year: 2022
 published: 2022-05-19 13:11:30
 published_gmt: 2022-05-19 12:11:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2022/05/in-the-face-of-grim-challenges-uzbekistan-forges-ahead-on-privatisation/"
 categories: ["Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6e53c4d391a19f5b1f6e79e2264ba72c80a3c421b48efa8cad45b6f6081150be
 canonical: 22021-in-the-face-of-grim-challenges-uzbekistan-forges-ahead-on-privatisation.json
 ---

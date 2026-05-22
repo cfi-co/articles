@@ -1,12 +1,21 @@
 ---
 id: 10584
 title: "CFI.co Meets the CEO of Dunn Loren Merrifield: Sonnie Ayere"
-award_year: 2014
+year: 2014
 published: 2014-10-27 11:41:35
 published_gmt: 2014-10-27 11:41:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2014/10/cfi-co-meets-the-ceo-of-dunn-loren-merrifield-sonnie-ayere/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0fe1490f77a882bfe4c1fbc24982a04c9077e4f160ee8db903bbc6bf79e53fc0
 canonical: 10584-cfi-co-meets-the-ceo-of-dunn-loren-merrifield-sonnie-ayere.json
 ---

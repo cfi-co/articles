@@ -1,12 +1,21 @@
 ---
 id: 20409
 title: "Caoilionn Hurley - Listener, Learner, Thinker, Chief: Secrets of an MD"
-award_year: 2021
+year: 2021
 published: 2021-08-12 16:44:14
 published_gmt: 2021-08-12 15:44:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/caoilionn-hurley-listener-learner-thinker-chief-secrets-of-an-md/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4ff60d8eb656fb4a8909e3f8293d4c7cdf5c06535f9a7eb6390b272b4e2d362a
 canonical: 20409-caoilionn-hurley-listener-learner-thinker-chief-secrets-of-an-md.json
 ---

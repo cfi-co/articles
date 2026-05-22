@@ -1,12 +1,21 @@
 ---
 id: 19847
 title: "Brand new Brand: Kaleido Puts Harmony, Colour and Passion into its New Look"
-award_year: 2021
+year: 2021
 published: 2021-06-15 12:42:10
 published_gmt: 2021-06-15 11:42:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/06/brand-new-brand-kaleido-privatbank-puts-harmony-colour-and-passion-into-its-new-look/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8897fb695b34e49368f47f19d9e89a0b73d5f0029e789e91c144c5d3590155a9
 canonical: 19847-brand-new-brand-kaleido-privatbank-puts-harmony-colour-and-passion-into-its-new-.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 18030
 title: "ARA: REIT Pioneer Wins Recognition for its Transformative Efforts in Sustainability"
-award_year: 2020
+year: 2020
 published: 2020-11-24 10:29:36
 published_gmt: 2020-11-24 10:29:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/11/ara-asset-management-reit-pioneer-wins-recognition-for-its-transformative-efforts-in-sustainability/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fcffb8e2e684cc350230232b20ea9913ca505629b13ca04ee1d20f5ddb20eacb
 canonical: 18030-ara-asset-management-reit-pioneer-wins-recognition-for-its-transformative-effort.json
 ---

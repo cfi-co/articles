@@ -1,12 +1,21 @@
 ---
 id: 7561
 title: "From Germany to South Africa – The Oppenheimers: Diamonds Are Not Forever"
-award_year: 2014
+year: 2014
 published: 2014-07-07 12:13:32
 published_gmt: 2014-07-07 11:13:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/07/from-germany-to-south-africa-the-oppenheimers-diamonds-are-not-forever/"
 categories: ["Africa", "Europe", "Lifestyle"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 301fa755f0793c28c424821f6eb1eb04a3554da25f8cf5e795febc6c761372be
 canonical: 7561-from-germany-to-south-africa-the-oppenheimers-diamonds-are-not-forever.json
 ---

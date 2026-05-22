@@ -1,12 +1,21 @@
 ---
 id: 27399
 title: "The Great ‘Ex-Retire Hire’: Over-50s Plugging Labour Shortages"
-award_year: 2024
+year: 2024
 published: 2024-12-13 09:28:12
 published_gmt: 2024-12-13 09:28:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2024/12/the-great-ex-retire-hire-over-50s-plugging-labour-shortages/"
 categories: ["Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4153c0af9ab77618f26ac2cd4aee71798312e9861c2d075e9284697048fc76c4
 canonical: 27399-the-great-ex-retire-hire-over-50s-plugging-labour-shortages.json
 ---

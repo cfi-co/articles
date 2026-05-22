@@ -1,12 +1,21 @@
 ---
 id: 25895
 title: "Behold the New War: Same as the Old War, but it Comes with an App"
-award_year: 2023
+year: 2023
 published: 2023-08-15 12:10:57
 published_gmt: 2023-08-15 11:10:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2023/08/behold-the-new-war-same-as-the-old-war-but-it-comes-with-an-app/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 496006ec7d60a7f0786da9ab71b859afdaf96dd4fe487e5d773ff32d98088273
 canonical: 25895-behold-the-new-war-same-as-the-old-war-but-it-comes-with-an-app.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 14801
 title: "The Great Equaliser That Was Not"
-award_year: 2020
+year: 2020
 published: 2020-04-02 15:05:32
 published_gmt: 2020-04-02 14:05:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/04/the-great-equaliser-that-was-not/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b8be976311ea9a2e14ba776d5ffa005ac57d31b432e569ed7de0ad1c3c17ab72
 canonical: 14801-the-great-equaliser-that-was-not.json
 ---

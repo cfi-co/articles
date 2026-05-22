@@ -1,12 +1,21 @@
 ---
 id: 23431
 title: "General Mediterranean Holding: More Titles and Honours Than Your Average Captain of Industry"
-award_year: 2022
+year: 2022
 published: 2022-09-13 08:23:43
 published_gmt: 2022-09-13 07:23:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/09/general-mediterranean-holding-more-titles-and-honours-than-your-average-captain-of-industry/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 29d208e9b8bdd59122ca013184376dc3e4a5cdf5a61d89e08e79eb7c5ab1461c
 canonical: 23431-general-mediterranean-holding-more-titles-and-honours-than-your-average-captain-.json
 ---

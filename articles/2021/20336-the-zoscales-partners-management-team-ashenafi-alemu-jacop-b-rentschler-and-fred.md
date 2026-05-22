@@ -1,12 +1,21 @@
 ---
 id: 20336
 title: "The Zoscales Partners Management Team: Ashenafi Alemu, Jacop B. Rentschler and Frederick Kambo"
-award_year: 2021
+year: 2021
 published: 2021-08-06 11:18:45
 published_gmt: 2021-08-06 10:18:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/the-zoscales-partners-management-team-ashenafi-alemu-jacop-b-rentschler-and-frederick-kambo/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e7a3d5b325e86f894971dc35795ace2aade5f0a7d49cb08f075e0b9c4944d458
 canonical: 20336-the-zoscales-partners-management-team-ashenafi-alemu-jacop-b-rentschler-and-fred.json
 ---

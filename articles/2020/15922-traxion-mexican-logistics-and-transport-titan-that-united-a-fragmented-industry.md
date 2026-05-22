@@ -1,12 +1,21 @@
 ---
 id: 15922
 title: "Traxion: Mexican Logistics and Transport Titan that United a Fragmented Industry"
-award_year: 2020
+year: 2020
 published: 2020-07-01 14:08:00
 published_gmt: 2020-07-01 13:08:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2020/07/traxion-mexican-logistics-and-transport-titan-that-united-a-fragmented-industry/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4de7c76b1b48c01642ede6ef41c91284ac20234ad76808edd32ba83f34fd7ec0
 canonical: 15922-traxion-mexican-logistics-and-transport-titan-that-united-a-fragmented-industry.json
 ---

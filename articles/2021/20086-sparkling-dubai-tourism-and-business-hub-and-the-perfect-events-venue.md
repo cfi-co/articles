@@ -1,12 +1,21 @@
 ---
 id: 20086
 title: "Sparkling Dubai: Tourism and Business Hub — and the  Perfect Events Venue"
-award_year: 2021
+year: 2021
 published: 2021-01-05 14:47:18
 published_gmt: 2021-01-05 14:47:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/events/2021/01/sparkling-dubai-tourism-and-business-hub-and-the-perfect-events-venue/"
 categories: ["Events", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 54c1319253cbb66988904ee00a8dbcbdb1d26def19eb04e5a514321509528f4a
 canonical: 20086-sparkling-dubai-tourism-and-business-hub-and-the-perfect-events-venue.json
 ---

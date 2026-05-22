@@ -1,12 +1,21 @@
 ---
 id: 9471
 title: "The Surprising Vitality and Resilience of NASDAQ"
-award_year: 2015
+year: 2015
 published: 2015-03-03 12:57:09
 published_gmt: 2015-03-03 12:57:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2015/03/the-surprising-vitality-and-resilience-of-nasdaq/"
 categories: ["Banking", "Finance", "North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4d6f91a6db49dc7c4d90c9797be56e6e015dda9ee11ed0e8f1c0a2f0346c5ff8
 canonical: 9471-the-surprising-vitality-and-resilience-of-nasdaq.json
 ---

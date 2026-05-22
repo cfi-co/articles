@@ -1,12 +1,21 @@
 ---
 id: 16525
 title: "IBM CEO Arvind Krishna: Preparing Big Blue for a Quantum Leap"
-award_year: 2020
+year: 2020
 published: 2020-08-10 15:37:38
 published_gmt: 2020-08-10 14:37:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/08/arvind-krishna-ibm-ceo-preparing-big-blue-for-a-quantum-leap/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bda9b0aefe880f8f37555dba6617bc907f52db90fd827c3b72e23407678285f6
 canonical: 16525-arvind-krishna-ibm-ceo-preparing-big-blue-for-a-quantum-leap.json
 ---

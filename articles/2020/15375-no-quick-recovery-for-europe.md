@@ -1,12 +1,21 @@
 ---
 id: 15375
 title: "No Quick Recovery for Europe"
-award_year: 2020
+year: 2020
 published: 2020-05-18 14:46:26
 published_gmt: 2020-05-18 13:46:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/05/no-quick-recovery-for-europe/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a5ebc1b4555e2eea90060083b733caca99567fca66f9de5fb6f928f7087f96c8
 canonical: 15375-no-quick-recovery-for-europe.json
 ---

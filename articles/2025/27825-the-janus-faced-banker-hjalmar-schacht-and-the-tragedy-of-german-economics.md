@@ -1,12 +1,21 @@
 ---
 id: 27825
 title: "The Janus-Faced Banker: Hjalmar Schacht and the Tragedy of German Economics"
-award_year: 2025
+year: 2025
 published: 2025-07-22 13:16:34
 published_gmt: 2025-07-22 12:16:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2025/07/the-janus-faced-banker-hjalmar-schacht-and-the-tragedy-of-german-economics/"
 categories: ["Economics &amp; Convergence", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 43de8a21f4b84107dbe0904460fc071e1748f00731f7881b309531c871a1233e
 canonical: 27825-the-janus-faced-banker-hjalmar-schacht-and-the-tragedy-of-german-economics.json
 ---

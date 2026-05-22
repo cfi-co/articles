@@ -1,12 +1,21 @@
 ---
 id: 4148
 title: "CFI.co Meets Didelou Falobi"
-award_year: 2013
+year: 2013
 published: 2013-05-10 13:10:42
 published_gmt: 2013-05-10 13:10:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/05/cfi-co-meets-didelou-falobi/"
 categories: ["Africa", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b544fd255034e12eed061867e562ece6aa5384087cd2df8c94ab89ce2ef90f47
 canonical: 4148-cfi-co-meets-didelou-falobi.json
 ---

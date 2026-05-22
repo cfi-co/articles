@@ -1,12 +1,21 @@
 ---
 id: 6463
 title: "PwC, South Africa: Entertainment & Media in Africa - On the Move, Changing Shape & Going Mobile"
-award_year: 2014
+year: 2014
 published: 2014-02-03 11:13:43
 published_gmt: 2014-02-03 11:13:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/02/pwc-south-africa-entertainment-media-in-africa-on-the-move-changing-shape-going-mobile/"
 categories: ["Africa", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 56328035886e808512ed09f4b400b6ebc724edee7b68ddbd1b4318034061bafc
 canonical: 6463-pwc-south-africa-entertainment-media-in-africa-on-the-move-changing-shape-going-.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 4297
 title: "Baker and McKenzie: Impact of a New UK Regulatory Framework on Capital Markets"
-award_year: 2013
+year: 2013
 published: 2013-06-07 11:16:02
 published_gmt: 2013-06-07 11:16:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/06/baker-and-mckenzie-impact-of-a-new-uk-regulatory-framework-on-capital-markets/"
 categories: ["Europe", "Legal"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f070c34a1923b2c556dd79f0bf0b1b17e326ccf6f00b46687599fd3171668a18
 canonical: 4297-baker-and-mckenzie-impact-of-a-new-uk-regulatory-framework-on-capital-markets.json
 ---

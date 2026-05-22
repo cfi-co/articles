@@ -1,12 +1,21 @@
 ---
 id: 20391
 title: "Deutsche Oppenheim Family Office AG: Diversification During Financial Crisis Showing Dividends for Family Office"
-award_year: 2021
+year: 2021
 published: 2021-08-12 16:24:02
 published_gmt: 2021-08-12 15:24:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/deutsche-oppenheim-family-office-ag-diversification-during-financial-crisis-showing-dividends-for-family-office/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fb19cd62089b7a304bc98dc83b44aa6b93baada05ad89fe22a892b0c7f69d637
 canonical: 20391-deutsche-oppenheim-family-office-ag-diversification-during-financial-crisis-show.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 4268
 title: "Riordan Brings Strong Leadership to Daniels"
-award_year: 2013
+year: 2013
 published: 2013-06-05 14:37:22
 published_gmt: 2013-06-05 14:37:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2013/06/riordan-brings-strong-leadership-to-daniels/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ee678655ecd643a64d7dba4cf7c18b758bbf220f0aa239fb1f9df61cafad0034
 canonical: 4268-riordan-brings-strong-leadership-to-daniels.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 15974
 title: "Tobias Prestel and Katja Muelheim: Bringing Together Family Offices to Make the World a Better Place"
-award_year: 2020
+year: 2020
 published: 2020-05-01 16:00:50
 published_gmt: 2020-05-01 15:00:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/05/tobias-prestel-and-katja-muelheim-bringing-together-family-offices-to-make-the-world-a-better-place/"
 categories: ["Corporate Leaders", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 10470e87832ee9a633c9aa096d41babb157ca6ecaa4cc97df7670a5a9c99f859
 canonical: 15974-tobias-prestel-and-katja-muelheim-bringing-together-family-offices-to-make-the-w.json
 ---

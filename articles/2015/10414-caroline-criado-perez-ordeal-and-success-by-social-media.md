@@ -1,12 +1,21 @@
 ---
 id: 10414
 title: "Caroline Criado-Perez: Ordeal and Success by Social Media"
-award_year: 2015
+year: 2015
 published: 2015-08-28 14:38:31
 published_gmt: 2015-08-28 13:38:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2015/08/caroline-criado-perez-ordeal-and-success-by-social-media/"
 categories: ["Portraits"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9483308a19a1ca3830d41e113742f11241026ccf79e60639a51eec260031f418
 canonical: 10414-caroline-criado-perez-ordeal-and-success-by-social-media.json
 ---

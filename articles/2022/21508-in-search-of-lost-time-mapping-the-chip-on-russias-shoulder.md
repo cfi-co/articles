@@ -1,12 +1,21 @@
 ---
 id: 21508
 title: "In Search of Lost Time: Mapping the Chip on Russia’s Shoulder"
-award_year: 2022
+year: 2022
 published: 2022-01-27 18:27:53
 published_gmt: 2022-01-27 18:27:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/01/in-search-of-lost-time-mapping-the-chip-on-russias-shoulder/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9341464f03da33e78af7d9aafb6a4fb69eb16d18b06e041c03bc1022646fadf8
 canonical: 21508-in-search-of-lost-time-mapping-the-chip-on-russias-shoulder.json
 ---

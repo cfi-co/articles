@@ -1,12 +1,21 @@
 ---
 id: 12964
 title: "CFI.co Meets the Management of The Indian Hotels Company Limited (IHCL): Puneet Chhatwal & Beejal Desai"
-award_year: 2018
+year: 2018
 published: 2018-07-12 12:50:52
 published_gmt: 2018-07-12 11:50:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/07/cfi-co-meets-the-management-of-the-indian-hotels-company-limited-ihcl-puneet-chhatwal-beejal-desai/"
 categories: ["CFI.co Meets", "Corporate Leaders"]
+content_class: interview
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b86055ff01233d098b33bad32afc7c60d9501640906258f5457dfb793754a22b
 canonical: 12964-cfi-co-meets-the-management-of-the-indian-hotels-company-limited-ihcl-puneet-chh.json
 ---

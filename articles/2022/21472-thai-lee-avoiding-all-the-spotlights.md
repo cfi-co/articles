@@ -1,12 +1,21 @@
 ---
 id: 21472
 title: "Thai Lee: Avoiding All the Spotlights"
-award_year: 2022
+year: 2022
 published: 2022-01-21 12:14:44
 published_gmt: 2022-01-21 12:14:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/heroes/2022/01/thai-lee-avoiding-all-the-spotlights/"
 categories: ["Heroes"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bc572519ee3232bc55467c64c68eba8c46a1f4f9d542da2b0e4b9de88775447f
 canonical: 21472-thai-lee-avoiding-all-the-spotlights.json
 ---

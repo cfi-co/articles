@@ -1,12 +1,21 @@
 ---
 id: 4513
 title: "Braggarts Become Leaders"
-award_year: 2013
+year: 2013
 published: 2013-07-03 11:14:12
 published_gmt: 2013-07-03 10:14:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2013/07/braggarts-become-leaders/"
 categories: ["North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3937f8436af0882c164a631e898390873776153c577181987dff4808ecbe73e6
 canonical: 4513-braggarts-become-leaders.json
 ---

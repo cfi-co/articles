@@ -1,12 +1,21 @@
 ---
 id: 988
 title: "BRIC Stocks Now Out of Favour … Later to Be an Incredible Investment Opportunity"
-award_year: 2012
+year: 2012
 published: 2012-07-04 09:38:37
 published_gmt: 2012-07-04 08:38:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/07/bric-stocks-now-out-of-favour-later-to-be-an-incredible-investment-opportunity/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Middle East", "Oil &amp; Mining", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 32d97dbaa354501db7a2de60bb19865a3b2eb89bfbf87c04055c9b3162fa9b2f
 canonical: 988-bric-stocks-now-out-of-favour-later-to-be-an-incredible-investment-opportunity.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8723
 title: "US Welcomed at Davos as the New Emerging Market"
-award_year: 2015
+year: 2015
 published: 2015-01-16 10:19:42
 published_gmt: 2015-01-16 10:19:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2015/01/us-welcomed-at-davos-as-the-new-emerging-market/"
 categories: ["Banking", "Europe", "Finance", "Latin America", "Middle East", "North America", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b99dba6029202af153d38a183d176527f45b3c95eabd9db8ff033204f1130e40
 canonical: 8723-us-welcomed-at-davos-as-the-new-emerging-market.json
 ---

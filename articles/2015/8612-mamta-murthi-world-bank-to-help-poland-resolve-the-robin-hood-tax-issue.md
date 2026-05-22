@@ -1,12 +1,21 @@
 ---
 id: 8612
 title: "Mamta Murthi: World Bank to Help Poland Resolve the \"Robin Hood\" Tax Issue"
-award_year: 2015
+year: 2015
 published: 2015-01-02 09:00:14
 published_gmt: 2015-01-02 09:00:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2015/01/mamta-murthi-world-bank-to-help-poland-resolve-the-robin-hood-tax-issue/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d8c8aeae48a9715641e4c295266989e6ed9d7159b924ddb974290dd73f9def4
 canonical: 8612-mamta-murthi-world-bank-to-help-poland-resolve-the-robin-hood-tax-issue.json
 ---

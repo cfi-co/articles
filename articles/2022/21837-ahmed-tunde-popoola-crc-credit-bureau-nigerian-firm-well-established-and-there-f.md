@@ -1,12 +1,21 @@
 ---
 id: 21837
 title: "Ahmed 'Tunde Popoola, CRC Credit Bureau: Nigerian Firm Well-Established — and There for the Long Haul"
-award_year: 2022
+year: 2022
 published: 2022-05-13 12:00:38
 published_gmt: 2022-05-13 11:00:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/05/ahmed-tunde-popoola-crc-credit-bureau-nigerian-firm-well-established-and-there-for-the-long-haul/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5e25042ac3f852692cc4ddcf857152831d0be2b50369cd67467b0a46955cc888
 canonical: 21837-ahmed-tunde-popoola-crc-credit-bureau-nigerian-firm-well-established-and-there-f.json
 ---

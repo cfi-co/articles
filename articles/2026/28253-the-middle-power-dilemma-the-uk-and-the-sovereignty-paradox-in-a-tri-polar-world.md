@@ -1,12 +1,21 @@
 ---
 id: 28253
 title: "The Middle Power Dilemma: The UK and the Sovereignty Paradox in a Tri-Polar World"
-award_year: 2026
+year: 2026
 published: 2026-02-05 11:31:29
 published_gmt: 2026-02-05 11:31:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2026/02/the-middle-power-dilemma-the-uk-and-the-sovereignty-paradox-in-a-tri-polar-world/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2c498118d50c0c768f19051677977cbe85973bc33983e11172f38bd0063ac795
 canonical: 28253-the-middle-power-dilemma-the-uk-and-the-sovereignty-paradox-in-a-tri-polar-world.json
 ---

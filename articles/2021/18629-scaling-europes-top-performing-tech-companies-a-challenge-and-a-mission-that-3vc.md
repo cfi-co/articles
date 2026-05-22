@@ -1,12 +1,21 @@
 ---
 id: 18629
 title: "Scaling Europe’s Top-Performing Tech Companies: A Challenge and a Mission that 3VC Accepts"
-award_year: 2021
+year: 2021
 published: 2021-02-04 15:49:12
 published_gmt: 2021-02-04 15:49:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/02/scaling-europes-top-performing-tech-companies-a-challenge-and-a-mission-that-3vc-accepts/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 719f6c84df28b448cc69e4867ac107ab80db8781e679a2fec1bc083cc057b527
 canonical: 18629-scaling-europes-top-performing-tech-companies-a-challenge-and-a-mission-that-3vc.json
 ---

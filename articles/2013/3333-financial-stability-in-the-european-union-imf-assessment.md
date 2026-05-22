@@ -1,12 +1,21 @@
 ---
 id: 3333
 title: "Financial Stability in the European Union: IMF Assessment"
-award_year: 2013
+year: 2013
 published: 2013-03-18 14:02:47
 published_gmt: 2013-03-18 14:02:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2013/03/financial-stability-in-the-european-union-imf-assessment/"
 categories: ["Europe", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e26ffd2c8f406b4a2537ab27bf3062e23db0ac23e38d0c24c98e7e220a1ff813
 canonical: 3333-financial-stability-in-the-european-union-imf-assessment.json
 ---

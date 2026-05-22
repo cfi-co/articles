@@ -1,12 +1,21 @@
 ---
 id: 27024
 title: "‘Leaders Must be Bold’ — a Fearless Lagos Credit Bureau CEO Speaks Out"
-award_year: 2024
+year: 2024
 published: 2024-08-12 12:53:08
 published_gmt: 2024-08-12 11:53:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2024/08/leaders-must-be-bold-a-fearless-lagos-credit-bureau-ceo-speaks-out/"
 categories: ["Africa", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 21db0b13eeb20a383ec57d1256128192583a8bb40d4f1520c3726b0fb4bcc475
 canonical: 27024-leaders-must-be-bold-a-fearless-lagos-credit-bureau-ceo-speaks-out.json
 ---

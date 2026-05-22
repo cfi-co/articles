@@ -1,12 +1,21 @@
 ---
 id: 23627
 title: "UN Chief: Countries Bound for COP27 Must Make Climate Action ‘The Top Global Priority’"
-award_year: 2022
+year: 2022
 published: 2022-10-04 13:45:48
 published_gmt: 2022-10-04 12:45:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/brave-new-world/2022/10/un-chief-countries-bound-for-cop27-must-make-climate-action-the-top-global-priority/"
 categories: ["Brave New World"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9ede954bb5aa9d544e738122c8b42658aa3c1b7690f037ad3dfa82588f8e851d
 canonical: 23627-un-chief-countries-bound-for-cop27-must-make-climate-action-the-top-global-prior.json
 ---

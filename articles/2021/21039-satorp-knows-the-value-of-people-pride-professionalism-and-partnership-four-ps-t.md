@@ -1,12 +1,21 @@
 ---
 id: 21039
 title: "SATORP Knows the Value of People, Pride, Professionalism, and Partnership: Four Ps That Are Keeping This Giant Refinery At The Top of Its Game"
-award_year: 2021
+year: 2021
 published: 2021-11-09 16:39:20
 published_gmt: 2021-11-09 16:39:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/11/satorp-knows-the-value-of-people-pride-professionalism-and-partnership-four-ps-that-are-keeping-this-giant-refinery-at-the-top-of-its-game/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 66de9bee317411bba53a521bb52c0b9e14f26562d155d28838e24903aebe96ba
 canonical: 21039-satorp-knows-the-value-of-people-pride-professionalism-and-partnership-four-ps-t.json
 ---

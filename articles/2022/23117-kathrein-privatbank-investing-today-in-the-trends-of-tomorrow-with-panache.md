@@ -1,12 +1,21 @@
 ---
 id: 23117
 title: "Kathrein Privatbank: Investing Today in the Trends of Tomorrow — with Panache"
-award_year: 2022
+year: 2022
 published: 2022-07-02 13:23:00
 published_gmt: 2022-07-02 12:23:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2022/07/kathrein-privatbank-investing-today-in-the-trends-of-tomorrow-with-panache/"
 categories: ["Banking", "Corporate Leaders", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fd2ebe28030ad23d4c14429eaf628bf70cf07a1c40f2f5ea99d0c42aa9a9ce37
 canonical: 23117-kathrein-privatbank-investing-today-in-the-trends-of-tomorrow-with-panache.json
 ---

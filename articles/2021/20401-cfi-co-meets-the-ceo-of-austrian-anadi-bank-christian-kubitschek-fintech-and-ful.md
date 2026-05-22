@@ -1,12 +1,21 @@
 ---
 id: 20401
 title: "CFI.co Meets the CEO of Austrian Anadi Bank - Christian Kubitschek: “FinTech and Full-Service Bank is Not a Contradiction”"
-award_year: 2021
+year: 2021
 published: 2021-08-12 16:30:50
 published_gmt: 2021-08-12 15:30:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/cfi-co-meets-the-ceo-of-austrian-anadi-bank-christian-kubitschek-fintech-and-full-service-bank-is-not-a-contradiction/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 432742ee18745c909ecadd142fdf70376a3e4b86f84ecf56a62238e3e9fd13a0
 canonical: 20401-cfi-co-meets-the-ceo-of-austrian-anadi-bank-christian-kubitschek-fintech-and-ful.json
 ---

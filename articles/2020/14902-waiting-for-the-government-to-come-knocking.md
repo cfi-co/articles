@@ -1,12 +1,21 @@
 ---
 id: 14902
 title: "Waiting for the Government to Come Knocking"
-award_year: 2020
+year: 2020
 published: 2020-04-10 12:14:55
 published_gmt: 2020-04-10 11:14:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2020/04/waiting-for-the-government-to-come-knocking/"
 categories: ["North America", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ab877e653d73a65cac16657e3e1dbf5989c474f38f046af5158c52b90cef07cd
 canonical: 14902-waiting-for-the-government-to-come-knocking.json
 ---

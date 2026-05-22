@@ -1,12 +1,21 @@
 ---
 id: 26142
 title: "When Environmental Considerations Are a Driving Force, Banking Needs a Keen Eye — and Unfailing Dedication"
-award_year: 2023
+year: 2023
 published: 2023-10-11 08:58:04
 published_gmt: 2023-10-11 07:58:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2023/10/andras-puskas-deputy-ceo-and-cso-mbh-bank/"
 categories: ["Banking", "Banking &amp; Finance", "Europe"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cb80a57d625456a1652f944df38a2fdd4c0d1e56dda7f7fafd2f22f5ba5714ea
 canonical: 26142-when-environmental-considerations-are-a-driving-force-banking-needs-a-keen-eye-a.json
 ---

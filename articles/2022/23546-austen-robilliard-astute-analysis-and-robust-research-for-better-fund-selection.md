@@ -1,12 +1,21 @@
 ---
 id: 23546
 title: "Austen Robilliard: Astute Analysis and Robust Research for Better Fund Selection"
-award_year: 2022
+year: 2022
 published: 2022-09-27 17:46:44
 published_gmt: 2022-09-27 16:46:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2022/09/austen-robilliard-astute-analysis-and-robust-research-for-better-fund-selection/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 24893241a1dec600d8343258bfae83c5851c194c014476e012a2ac923fb771df
 canonical: 23546-austen-robilliard-astute-analysis-and-robust-research-for-better-fund-selection.json
 ---

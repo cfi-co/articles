@@ -1,12 +1,21 @@
 ---
 id: 1083
 title: "World Bank Group: Create Jobs by Focusing Industries to be Competitive"
-award_year: 2012
+year: 2012
 published: 2012-07-23 22:28:58
 published_gmt: 2012-07-23 21:28:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2012/07/ifc-create-jobs-by-focusing-industries-to-be-competitive/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "North America", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 501e350839c208255f1f480ccc020a1f18f3fdf6d2c86a8dabe526e98992aa0c
 canonical: 1083-ifc-create-jobs-by-focusing-industries-to-be-competitive.json
 ---

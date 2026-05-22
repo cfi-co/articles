@@ -1,12 +1,21 @@
 ---
 id: 3762
 title: "IMF: Anything that Works to Create Jobs"
-award_year: 2013
+year: 2013
 published: 2013-04-29 11:23:25
 published_gmt: 2013-04-29 11:23:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/04/imf-anything-that-works-to-create-jobs/"
 categories: ["Asia Pacific", "Finance", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0d0fd0c6a4d3a3a6375b6c83ba153c2d4b33a0b26802959f58338b481bd5a876
 canonical: 3762-imf-anything-that-works-to-create-jobs.json
 ---

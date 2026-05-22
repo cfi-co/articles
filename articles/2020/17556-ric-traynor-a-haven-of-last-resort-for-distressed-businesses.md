@@ -1,12 +1,21 @@
 ---
 id: 17556
 title: "Ric Traynor: A Haven of Last Resort for Distressed Businesses"
-award_year: 2020
+year: 2020
 published: 2020-10-23 14:59:03
 published_gmt: 2020-10-23 13:59:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2020/10/ric-traynor-a-haven-of-last-resort-for-distressed-businesses/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 01f5d35ec53aa6cb82adf35dd93f38d22d3db88136e3d4dca961e714f5a976a6
 canonical: 17556-ric-traynor-a-haven-of-last-resort-for-distressed-businesses.json
 ---

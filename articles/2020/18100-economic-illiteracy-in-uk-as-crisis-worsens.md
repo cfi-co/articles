@@ -1,12 +1,21 @@
 ---
 id: 18100
 title: "UK Struggles with Economic Illiteracy as Crisis Worsens"
-award_year: 2020
+year: 2020
 published: 2020-11-26 15:53:12
 published_gmt: 2020-11-26 15:53:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2020/11/economic-illiteracy-in-uk-as-crisis-worsens/"
 categories: ["Brave New World", "Europe", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 45bb1f71d594294a961d9e8b91f52f2b7ace5fecf8ece29974440362b2b9efa2
 canonical: 18100-economic-illiteracy-in-uk-as-crisis-worsens.json
 ---

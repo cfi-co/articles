@@ -1,12 +1,21 @@
 ---
 id: 4593
 title: "IMF: KSA Is One of The Top G-20 Performers"
-award_year: 2013
+year: 2013
 published: 2013-07-15 10:53:22
 published_gmt: 2013-07-15 09:53:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2013/07/imf-ksa-is-one-of-the-top-g-20-performers/"
 categories: ["Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 35ed5383b0f95ec2953d26d3463e49a4fbcd244d696015794e5f3e09c2f4d2cd
 canonical: 4593-imf-ksa-is-one-of-the-top-g-20-performers.json
 ---

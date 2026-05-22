@@ -1,12 +1,21 @@
 ---
 id: 14781
 title: "Business in Times of Corona: The Lure of Rustbelts When Lean Is No Longer Mean"
-award_year: 2020
+year: 2020
 published: 2020-04-01 14:54:00
 published_gmt: 2020-04-01 13:54:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2020/04/business-in-times-of-corona-the-lure-of-rustbelts-when-lean-is-no-longer-mean/"
 categories: ["Sustainability", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3b94fefdb705f290dc9cd78cb7ac477df43006c55070d4957d27be860acb27a0
 canonical: 14781-business-in-times-of-corona-the-lure-of-rustbelts-when-lean-is-no-longer-mean.json
 ---

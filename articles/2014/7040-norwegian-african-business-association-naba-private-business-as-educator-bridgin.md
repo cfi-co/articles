@@ -1,12 +1,21 @@
 ---
 id: 7040
 title: "Norwegian-African Business Association (NABA): Private Business as Educator - Bridging Africa’s Job-Skills Gap"
-award_year: 2014
+year: 2014
 published: 2014-04-24 09:53:29
 published_gmt: 2014-04-24 08:53:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/04/norwegian-african-business-association-naba-private-business-as-educator-bridging-africas-job-skills-gap/"
 categories: ["Africa", "Europe", "Projects", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 992b7345ee3fe4219c9facf38b63d630a133f6ae22735743712cfcac57f1a3f5
 canonical: 7040-norwegian-african-business-association-naba-private-business-as-educator-bridgin.json
 ---

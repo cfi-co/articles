@@ -1,12 +1,21 @@
 ---
 id: 28117
 title: "Can Google Escape Nvidia’s Gravity?"
-award_year: 2025
+year: 2025
 published: 2025-11-26 12:39:22
 published_gmt: 2025-11-26 12:39:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2025/11/can-google-escape-nvidias-gravity/"
 categories: ["North America", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ce64223122ba8a819e90f959a074c6c8b6148b0d20d32ae7c75f7712396c4823
 canonical: 28117-can-google-escape-nvidias-gravity.json
 ---

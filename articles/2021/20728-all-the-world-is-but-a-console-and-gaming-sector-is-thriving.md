@@ -1,12 +1,21 @@
 ---
 id: 20728
 title: "All the World is But a Console, and Gaming Sector is Thriving"
-award_year: 2021
+year: 2021
 published: 2021-09-27 10:48:21
 published_gmt: 2021-09-27 09:48:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2021/09/all-the-world-is-but-a-console-and-gaming-sector-is-thriving/"
 categories: ["Brave New World", "Lifestyle", "c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bfcc19e0128463c93fd0e3dd1f5af16cd068eebecbb004cb0ee66cd9b2997f27
 canonical: 20728-all-the-world-is-but-a-console-and-gaming-sector-is-thriving.json
 ---

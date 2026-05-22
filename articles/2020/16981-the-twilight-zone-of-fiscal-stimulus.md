@@ -1,12 +1,21 @@
 ---
 id: 16981
 title: "The Twilight Zone of Fiscal Stimulus"
-award_year: 2020
+year: 2020
 published: 2020-09-17 11:23:42
 published_gmt: 2020-09-17 10:23:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/c-19/2020/09/the-twilight-zone-of-fiscal-stimulus/"
 categories: ["c-19"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3821976cb86c8dade41c5e092fec6267e53b4f69e4c448a414b093ac778b6857
 canonical: 16981-the-twilight-zone-of-fiscal-stimulus.json
 ---

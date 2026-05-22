@@ -11,8 +11,21 @@
         "Asia Pacific",
         "Finance"
     ],
+    "classification": {
+        "content_class": "editorial_analysis",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><a href=\"http://capitalfinanceint.com/news/wp-content/uploads/2012/07/nomura-1.jpg\"><img class=\"alignleft size-full wp-image-958\" title=\"nomura-1\" src=\"http://capitalfinanceint.com/news/wp-content/uploads/2012/07/nomura-1.jpg\" alt=\"\" width=\"284\" height=\"177\" /></a>Nomura is facing a new insider trading scandal. Nomura Holdings admitted to sweeping breaches of safeguards on confidential client information and will slash top executives' pay and shut an equity sales desk as Japan's largest brokerage seeks to resolve a damaging insider trading probe.</p>\n<p style=\"text-align: justify;\">Nomura said CEO Kenichi Watanabe's pay would be halved for six months to take responsibility for the brokerage's third insider trading scandal since he took charge four years ago. In the year to end-March, 59-year-old Watanabe was paid US $1.6 million, including options.</p>\n<p style=\"text-align: justify;\">Nomura has 27,000 employees and is Japans largest asset manager with US$ one trillion from private clients alone.</p>\n<p style=\"text-align: justify;\">Nomura reported profits of $141 million for the 12 months fiscal year ending March 31<sup>st</sup>, 2012. This was a better result than in 2009 when the company lost $7.1 Billion. Nomura has $29 billion in shareholders equity. Nomura’s shares pay a current dividend yield of 2%.</p>",
     "content_sha256": "73f8abf6f41e16184047dbc90ed55dafb0317558c547a96377a1458cf01ec1f0",
-    "record_sha256": "6db67cf4a37b146325edcd07d7ff1feeed9411850d8f9c84c279dd4762beb957"
+    "record_sha256": "d3f804f9b69a064f3f3f27bdf98f643f4fcf6904cb3b3e20478988ff892858c0"
 }

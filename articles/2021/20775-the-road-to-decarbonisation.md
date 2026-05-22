@@ -1,12 +1,21 @@
 ---
 id: 20775
 title: "The Road to Decarbonisation"
-award_year: 2021
+year: 2021
 published: 2021-10-07 08:05:16
 published_gmt: 2021-10-07 07:05:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/sustainability/2021/10/the-road-to-decarbonisation/"
 categories: ["Energy", "North America", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a05a14032e2f69eb660322abe9aa70435974f4027fb7bd79b051456e9e38f22a
 canonical: 20775-the-road-to-decarbonisation.json
 ---

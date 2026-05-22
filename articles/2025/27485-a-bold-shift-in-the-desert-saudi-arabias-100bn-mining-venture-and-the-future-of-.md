@@ -1,12 +1,21 @@
 ---
 id: 27485
 title: "A Bold Shift in the Desert: Saudi Arabia’s $100bn Mining Venture and the Future of Battery Metals"
-award_year: 2025
+year: 2025
 published: 2025-01-16 15:09:11
 published_gmt: 2025-01-16 15:09:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/oil-and-mining/2025/01/a-bold-shift-in-the-desert-saudi-arabias-100bn-mining-venture-and-the-future-of-battery-metals/"
 categories: ["Energy", "Middle East", "Oil &amp; Mining"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0153e8cfa5be4f34b17eec3dd46361a5ad2328436ce29e808a42e0cf859595d5
 canonical: 27485-a-bold-shift-in-the-desert-saudi-arabias-100bn-mining-venture-and-the-future-of-.json
 ---

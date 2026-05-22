@@ -1,12 +1,21 @@
 ---
 id: 16098
 title: "Simba Group, Nigeria: Strategy Written in Pencil, Values Engraved in Stone"
-award_year: 2019
+year: 2019
 published: 2019-10-02 13:10:59
 published_gmt: 2019-10-02 12:10:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2019/10/simba-group-nigeria-strategy-written-in-pencil-values-engraved-in-stone/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 44d12778de715ece0cfac6d2ab7d3ead2b31fc24ee33f8ad4847ed8b927e7636
 canonical: 16098-simba-group-nigeria-strategy-written-in-pencil-values-engraved-in-stone.json
 ---

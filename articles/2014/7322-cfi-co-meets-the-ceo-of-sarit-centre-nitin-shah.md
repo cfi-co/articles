@@ -1,12 +1,21 @@
 ---
 id: 7322
 title: "CFI.co Meets the CEO of Sarit Centre: Nitin Shah"
-award_year: 2014
+year: 2014
 published: 2014-03-01 18:01:48
 published_gmt: 2014-03-01 18:01:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/03/cfi-co-meets-the-ceo-of-sarit-centre-nitin-shah/"
 categories: ["Africa", "Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 62b150591f2e8b91b92abfada9340eb24b0bfdc47d253c87c3f2fb5f1d1f82aa
 canonical: 7322-cfi-co-meets-the-ceo-of-sarit-centre-nitin-shah.json
 ---

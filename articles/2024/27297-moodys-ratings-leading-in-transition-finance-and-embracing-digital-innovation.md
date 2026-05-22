@@ -1,12 +1,21 @@
 ---
 id: 27297
 title: "Moody's Ratings: Leading in Transition Finance, and Embracing Digital Innovation"
-award_year: 2024
+year: 2024
 published: 2024-11-18 14:23:32
 published_gmt: 2024-11-18 14:23:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2024/11/moodys-ratings-leading-in-transition-finance-and-embracing-digital-innovation/"
 categories: ["Finance", "Latin America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e33ad2f7665d660355b28515833bdee51a9ba27276dad76f9ed6c044df148c6f
 canonical: 27297-moodys-ratings-leading-in-transition-finance-and-embracing-digital-innovation.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 20392
 title: "Vladislav Gounas: Whenever in Doubt, Choose Passive Over Active Investing"
-award_year: 2021
+year: 2021
 published: 2021-08-12 16:26:02
 published_gmt: 2021-08-12 15:26:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/vladislav-gounas-whenever-in-doubt-choose-passive-over-active-investing/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 671af7241020894fdf9d7f45a945eca402a09bb251db411459035ecee9709257
 canonical: 20392-vladislav-gounas-whenever-in-doubt-choose-passive-over-active-investing.json
 ---

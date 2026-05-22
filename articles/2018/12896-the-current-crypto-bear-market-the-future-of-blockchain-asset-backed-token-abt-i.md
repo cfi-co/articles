@@ -1,12 +1,21 @@
 ---
 id: 12896
 title: "The Current Crypto Bear Market & The Future of Blockchain – Asset Backed Token (ABT) ICOs"
-award_year: 2018
+year: 2018
 published: 2018-09-05 16:11:18
 published_gmt: 2018-09-05 15:11:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2018/09/the-current-crypto-bear-market-the-future-of-blockchain-asset-backed-token-abt-icos/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d662bbf4d71d5e1c6fa35054dbb8abe8bf6648211ab93496898679f9da79d753
 canonical: 12896-the-current-crypto-bear-market-the-future-of-blockchain-asset-backed-token-abt-i.json
 ---

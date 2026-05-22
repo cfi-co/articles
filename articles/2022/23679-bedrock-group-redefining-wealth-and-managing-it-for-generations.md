@@ -1,12 +1,21 @@
 ---
 id: 23679
 title: "Bedrock Group Redefining Wealth — and Managing It for Generations"
-award_year: 2022
+year: 2022
 published: 2022-10-19 08:50:23
 published_gmt: 2022-10-19 07:50:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2022/10/bedrock-group-redefining-wealth-and-managing-it-for-generations/"
 categories: ["Europe", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1c25f6e1d1af4cfbe10161017088091c3e20877cf12bac4b8f645e91d6f7c8c6
 canonical: 23679-bedrock-group-redefining-wealth-and-managing-it-for-generations.json
 ---

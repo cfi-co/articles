@@ -1,12 +1,21 @@
 ---
 id: 26694
 title: "ESG Leadership Trends, from ‘Woke Capitalism’ to ‘Quiet Sustainability’"
-award_year: 2024
+year: 2024
 published: 2024-02-22 10:47:14
 published_gmt: 2024-02-22 10:47:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2024/02/esg-leadership-trends-from-woke-capitalism-to-quiet-sustainability/"
 categories: ["CSR", "Europe", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e58e96f6349986023b334e8c11cfa110c2e4a71853960f6862b1d39e4e500fb5
 canonical: 26694-esg-leadership-trends-from-woke-capitalism-to-quiet-sustainability.json
 ---

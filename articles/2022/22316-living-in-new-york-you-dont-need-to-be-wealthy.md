@@ -1,12 +1,21 @@
 ---
 id: 22316
 title: "New York, New York Still has the ‘Welcome’ Mat Out, but it Helps if you’re Wealthy…"
-award_year: 2022
+year: 2022
 published: 2022-07-07 16:10:49
 published_gmt: 2022-07-07 15:10:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/lifestyle/2022/07/living-in-new-york-youre-welcome-but-it-helps-if-youre-wealthy/"
 categories: ["Lifestyle", "North America"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8f3ab49d6b9d26127701e5d84c7557fdfa9ee90b514dc96b7489c577ef564598
 canonical: 22316-living-in-new-york-you-dont-need-to-be-wealthy.json
 ---

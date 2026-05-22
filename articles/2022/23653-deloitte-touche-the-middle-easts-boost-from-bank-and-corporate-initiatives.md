@@ -1,12 +1,21 @@
 ---
 id: 23653
 title: "Deloitte & Touche: The Middle East's Boost From Bank and Corporate Initiatives"
-award_year: 2022
+year: 2022
 published: 2022-10-11 08:26:24
 published_gmt: 2022-10-11 07:26:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2022/10/deloitte-touche-the-middle-easts-boost-from-bank-and-corporate-initiatives/"
 categories: ["Banking", "Finance", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f25309a5b62d7cd5aff5d0cb2fde031476fd7025e0575ca676bdb8826287b6c5
 canonical: 23653-deloitte-touche-the-middle-easts-boost-from-bank-and-corporate-initiatives.json
 ---

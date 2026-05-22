@@ -1,12 +1,21 @@
 ---
 id: 6167
 title: "Princess Ameerah Al-Taweel: Saudi Princess at Forefront of Women´s Lib - “We Want Change”"
-award_year: 2013
+year: 2013
 published: 2013-12-05 11:38:19
 published_gmt: 2013-12-05 11:38:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2013/12/princess-ameerah-al-taweel-saudi-princess-at-forefront-of-womens-lib-we-want-change/"
 categories: ["Middle East", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8c80fa34a1aa434d53f0c2b735d0071552c6d08c4ae2511cfc337cd893e8d074
 canonical: 6167-princess-ameerah-al-taweel-saudi-princess-at-forefront-of-womens-lib-we-want-cha.json
 ---

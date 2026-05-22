@@ -1,12 +1,21 @@
 ---
 id: 27325
 title: "Cornelius Vanderbilt: The ‘Commodore’ Who Steamed Straight Ahead to Glory"
-award_year: 2024
+year: 2024
 published: 2024-11-26 10:19:52
 published_gmt: 2024-11-26 10:19:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/northamerica/2024/11/cornelius-vanderbilt-the-commodore-who-steamed-straight-ahead-to-glory/"
 categories: ["Lifestyle", "North America", "Portraits"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 05a4fa26cc234af070f93dead545eff6cc1ea3682f0c52df48ccf2616cfa3d2d
 canonical: 27325-cornelius-vanderbilt-the-commodore-who-steamed-straight-ahead-to-glory.json
 ---

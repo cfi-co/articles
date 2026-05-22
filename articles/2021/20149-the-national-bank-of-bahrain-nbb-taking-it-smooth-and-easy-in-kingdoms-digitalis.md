@@ -1,12 +1,21 @@
 ---
 id: 20149
 title: "The National Bank of Bahrain (NBB): Taking it Smooth and Easy in Kingdom’s Digitalisation Drive"
-award_year: 2021
+year: 2021
 published: 2021-07-08 19:44:15
 published_gmt: 2021-07-08 18:44:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/07/the-national-bank-of-bahrain-nbb-taking-it-smooth-and-easy-in-kingdoms-digitalisation-drive/"
 categories: ["Corporate", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cfa656700f1c42751f58c76e053d1194ec080cc9b76789d3f748d2ac36f8e9cb
 canonical: 20149-the-national-bank-of-bahrain-nbb-taking-it-smooth-and-easy-in-kingdoms-digitalis.json
 ---

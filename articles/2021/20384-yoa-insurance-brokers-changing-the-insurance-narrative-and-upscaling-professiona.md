@@ -1,12 +1,21 @@
 ---
 id: 20384
 title: "YOA Insurance Brokers: Changing the Insurance Narrative — and Upscaling Professionalism"
-award_year: 2021
+year: 2021
 published: 2021-08-12 10:13:46
 published_gmt: 2021-08-12 09:13:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/yoa-insurance-brokers-changing-the-insurance-narrative-and-upscaling-professionalism/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8973f0d00007924521376c7f94ad806b0c0daa0475ff54bfc86daa7dd51ca4ad
 canonical: 20384-yoa-insurance-brokers-changing-the-insurance-narrative-and-upscaling-professiona.json
 ---

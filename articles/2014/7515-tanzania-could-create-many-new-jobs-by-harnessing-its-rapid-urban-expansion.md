@@ -1,12 +1,21 @@
 ---
 id: 7515
 title: "Tanzania Could Create Many New Jobs by Harnessing its Rapid Urban Expansion"
-award_year: 2014
+year: 2014
 published: 2014-06-26 09:40:19
 published_gmt: 2014-06-26 08:40:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2014/06/tanzania-could-create-many-new-jobs-by-harnessing-its-rapid-urban-expansion/"
 categories: ["Africa", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ca38e6f02338ba50b664531d9ab36ea3addc19365c733c951dd65fb3c7b36c61
 canonical: 7515-tanzania-could-create-many-new-jobs-by-harnessing-its-rapid-urban-expansion.json
 ---

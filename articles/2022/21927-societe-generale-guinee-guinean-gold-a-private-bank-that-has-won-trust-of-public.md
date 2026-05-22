@@ -1,12 +1,21 @@
 ---
 id: 21927
 title: "Société Générale Guinée - Guinean Gold: a Private Bank That Has Won Trust of Public"
-award_year: 2022
+year: 2022
 published: 2022-05-18 06:54:49
 published_gmt: 2022-05-18 05:54:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2022/05/societe-generale-guinee-guinean-gold-a-private-bank-that-has-won-trust-of-public/"
 categories: ["Africa", "Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 832066da6bee7edb5b8259c5dbed0ca2014ec32bc83085647294d8fc55927dee
 canonical: 21927-societe-generale-guinee-guinean-gold-a-private-bank-that-has-won-trust-of-public.json
 ---

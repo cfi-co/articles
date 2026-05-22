@@ -1,12 +1,21 @@
 ---
 id: 27546
 title: "The Restaurant Industry: A Recipe for Disaster or Resilience?"
-award_year: 2025
+year: 2025
 published: 2025-02-05 12:19:18
 published_gmt: 2025-02-05 12:19:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/projects/2025/02/the-restaurant-industry-a-recipe-for-disaster-or-resilience/"
 categories: ["Asia Pacific", "Latin America", "Projects"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3f97af22d09883201f052a1cff28c9a25f7ff22a97c87f9e37823c9992d7d5d5
 canonical: 27546-the-restaurant-industry-a-recipe-for-disaster-or-resilience.json
 ---

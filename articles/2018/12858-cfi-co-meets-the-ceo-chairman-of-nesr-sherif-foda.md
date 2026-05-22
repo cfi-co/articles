@@ -1,12 +1,21 @@
 ---
 id: 12858
 title: "CFI.co Meets the CEO & Chairman of NESR: Sherif Foda"
-award_year: 2018
+year: 2018
 published: 2018-08-09 11:53:56
 published_gmt: 2018-08-09 10:53:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2018/08/cfi-co-meets-the-ceo-chairman-of-nesr-sherif-foda/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0932d47b68e60409acd26add601d86746eab54bd2bd516a57e79546c97cad947
 canonical: 12858-cfi-co-meets-the-ceo-chairman-of-nesr-sherif-foda.json
 ---

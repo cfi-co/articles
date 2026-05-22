@@ -1,12 +1,21 @@
 ---
 id: 26220
 title: "Embracing ESG Transformation: Turning Ambitions Into Action"
-award_year: 2023
+year: 2023
 published: 2023-10-16 12:40:09
 published_gmt: 2023-10-16 11:40:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2023/10/embracing-esg-transformation-turning-ambitions-into-action/"
 categories: ["CSR", "Europe", "Finance", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0edd2989c336a72fe6a732d6ae51da081b500599619e797102d81f92bf6b8059
 canonical: 26220-embracing-esg-transformation-turning-ambitions-into-action.json
 ---

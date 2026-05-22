@@ -1,12 +1,21 @@
 ---
 id: 20335
 title: "Zoscales Partners: Invest Where It matters"
-award_year: 2021
+year: 2021
 published: 2021-08-06 11:15:39
 published_gmt: 2021-08-06 10:15:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2021/08/zoscales-partners-invest-where-it-matters/"
 categories: ["Corporate"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eb61c6d4ba85812cde376633277a44a8e9a50758da861fe660d572bb5cd99529
 canonical: 20335-zoscales-partners-invest-where-it-matters.json
 ---

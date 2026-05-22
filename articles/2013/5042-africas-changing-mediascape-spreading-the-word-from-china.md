@@ -1,12 +1,21 @@
 ---
 id: 5042
 title: "Africa’s Changing Mediascape: Spreading the Word from China"
-award_year: 2013
+year: 2013
 published: 2013-08-19 10:12:08
 published_gmt: 2013-08-19 09:12:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2013/08/africas-changing-mediascape-spreading-the-word-from-china/"
 categories: ["Africa", "Asia Pacific"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e6421a06576bdf90ed32d20038325970ad88a39206254127c3f4544fba66ee46
 canonical: 5042-africas-changing-mediascape-spreading-the-word-from-china.json
 ---

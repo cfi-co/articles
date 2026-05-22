@@ -1,12 +1,21 @@
 ---
 id: 20220
 title: "Dame Jessica Ennis-Hill: ‘Cheap Childcare’ Led to Winning Athletics Career, Jokes Ennis-Hill"
-award_year: 2021
+year: 2021
 published: 2021-07-20 14:46:58
 published_gmt: 2021-07-20 13:46:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/editors-picks/2021/07/dame-jessica-ennis-hill-cheap-childcare-led-to-winning-athletics-career-jokes-ennis-hill/"
 categories: ["Europe", "Portraits"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 17e6a3318feaa741f1191f4f3649590f1ce61af7db551eb201f689f9489385d8
 canonical: 20220-dame-jessica-ennis-hill-cheap-childcare-led-to-winning-athletics-career-jokes-en.json
 ---

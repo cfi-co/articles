@@ -1,12 +1,21 @@
 ---
 id: 26875
 title: "Asian Development Bank: Pathways to Transform Food Systems in Asia-Pacific Region"
-award_year: 2024
+year: 2024
 published: 2024-06-19 12:44:20
 published_gmt: 2024-06-19 11:44:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2024/06/asian-development-bank-pathways-to-transform-food-systems-in-asia-pacific-region/"
 categories: ["Asia Pacific", "Energy", "Sustainability"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6b0ab405fbea7186adf03f6d8fa9f38cd0a611bd9b615e9579be1e2b788fab02
 canonical: 26875-asian-development-bank-pathways-to-transform-food-systems-in-asia-pacific-region.json
 ---

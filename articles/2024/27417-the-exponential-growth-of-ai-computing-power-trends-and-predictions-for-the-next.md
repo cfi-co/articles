@@ -1,12 +1,21 @@
 ---
 id: 27417
 title: "The Exponential Growth of AI Computing Power: Trends and Predictions for the Next Five Years"
-award_year: 2024
+year: 2024
 published: 2024-12-18 15:33:51
 published_gmt: 2024-12-18 15:33:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/technology/2024/12/the-exponential-growth-of-ai-computing-power-trends-and-predictions-for-the-next-five-years/"
 categories: ["Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ecafd9b063069a9361da3ea08cf969f7f8555a7e77265d1466eab935b43cdac7
 canonical: 27417-the-exponential-growth-of-ai-computing-power-trends-and-predictions-for-the-next.json
 ---

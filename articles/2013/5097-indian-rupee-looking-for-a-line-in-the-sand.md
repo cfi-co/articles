@@ -1,12 +1,21 @@
 ---
 id: 5097
 title: "Indian Rupee Looking for a Line in the Sand"
-award_year: 2013
+year: 2013
 published: 2013-08-23 09:15:20
 published_gmt: 2013-08-23 08:15:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2013/08/indian-rupee-looking-for-a-line-in-the-sand/"
 categories: ["Asia Pacific", "Finance"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d0245c1412b2b38687ba20c78efb5cdd57d48c756dcd249b30b0cd07da5d03d1
 canonical: 5097-indian-rupee-looking-for-a-line-in-the-sand.json
 ---

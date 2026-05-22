@@ -1,12 +1,21 @@
 ---
 id: 14312
 title: "Ostec: Best IT Infrastructure Solutions West Africa 2019"
-award_year: 2019
+year: 2019
 published: 2019-10-28 10:43:25
 published_gmt: 2019-10-28 10:43:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2019/ostec-best-it-infrastructure-solutions-west-africa-2019/"
 categories: []
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6ba437a6adb3f2bd270c7717b20b25e1be6af9104b6703b40d6f2f68beb3d584
 canonical: 14312-ostec-best-it-infrastructure-solutions-west-africa-2019.json
 ---

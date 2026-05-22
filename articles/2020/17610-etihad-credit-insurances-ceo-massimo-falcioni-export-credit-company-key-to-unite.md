@@ -1,12 +1,21 @@
 ---
 id: 17610
 title: "Etihad Credit Insurance's CEO Massimo Falcioni: Export Credit Company Key to United Arab Emirates Resilience"
-award_year: 2020
+year: 2020
 published: 2020-10-26 15:28:41
 published_gmt: 2020-10-26 15:28:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/middleeast/2020/10/etihad-credit-insurances-ceo-massimo-falcioni-export-credit-company-key-to-united-arab-emirates-resilience/"
 categories: ["Corporate", "Corporate Leaders", "Middle East"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c01888d7df307b6f09a7497d161f99d96fd8cfabd22dab26c90358729a84dc61
 canonical: 17610-etihad-credit-insurances-ceo-massimo-falcioni-export-credit-company-key-to-unite.json
 ---

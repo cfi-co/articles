@@ -1,12 +1,21 @@
 ---
 id: 10918
 title: "CFI.co Meets the CEO of Inversis Banco: Javier Povedano"
-award_year: 2016
+year: 2016
 published: 2016-01-21 22:34:45
 published_gmt: 2016-01-21 22:34:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-inversis-banco-javier-povedano/"
 categories: ["Corporate Leaders"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6b72fd251dadfce70d8506159f38c72d1555cdeb09a23cf43befbc5d7ae661d8
 canonical: 10918-cfi-co-meets-the-ceo-of-inversis-banco-javier-povedano.json
 ---

@@ -1,12 +1,21 @@
 ---
 id: 8029
 title: "The IT Scene in China: Alibaba’s New ‘Open Sesame’ Financing"
-award_year: 2014
+year: 2014
 published: 2014-09-17 15:15:14
 published_gmt: 2014-09-17 14:15:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/asia-pacific/2014/09/the-it-scene-in-china-alibabas-new-open-sesame-financing/"
 categories: ["Asia Pacific", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d10be00c3bbe61827a558591580a14bdcd40a324331fcc9f2470260b4dcca611
 canonical: 8029-the-it-scene-in-china-alibabas-new-open-sesame-financing.json
 ---
