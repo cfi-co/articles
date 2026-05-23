@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 496d0c06f3b47a8ed8555a8ffc997a2e7bb7a4bcb366daedd44704694e754a70
 canonical: 11340-venezuela-economy-sinks-bond-markets-take-heart.json
 ---
