@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717210432
+wayback_snapshot_url: "http://web.archive.org/web/20190717210432/https://cfi.co/asia-pacific/2015/04/proposed-china-pakistan-economic-corridor-with-a-price-tag-of-46-billion/"
 content_sha256: caaf7b19486070a9987781a700d72ddb6bb28af08f1df951170d7839d95287bc
 canonical: 9664-proposed-china-pakistan-economic-corridor-with-a-price-tag-of-46-billion.json
 ---
