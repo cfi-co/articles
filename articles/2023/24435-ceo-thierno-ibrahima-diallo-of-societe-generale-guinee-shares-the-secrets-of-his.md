@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230110131100
+wayback_snapshot_url: "http://web.archive.org/web/20230110131100/https://cfi.co/africa/2023/01/ceo-thierno-ibrahima-diallo-of-societe-generale-guinee-shares-the-secrets-of-his-career/"
 content_sha256: c7a23b1767fe407c8e0ab4dddd53ef0a482d276d822ceaab0cd90569a1b9cb72
 canonical: 24435-ceo-thierno-ibrahima-diallo-of-societe-generale-guinee-shares-the-secrets-of-his.json
 ---
