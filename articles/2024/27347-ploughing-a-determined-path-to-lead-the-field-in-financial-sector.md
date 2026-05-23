@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250124133454
+wayback_snapshot_url: "http://web.archive.org/web/20250124133454/https://cfi.co/africa/2024/12/ploughing-a-determined-path-to-lead-the-field-in-financial-sector/"
 content_sha256: 6528b5f44b91b7794bb4d367bab269d8a1fb52ee505d0cdcc28674fce909c164
 canonical: 27347-ploughing-a-determined-path-to-lead-the-field-in-financial-sector.json
 ---
