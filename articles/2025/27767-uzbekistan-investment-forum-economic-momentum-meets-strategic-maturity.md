@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250710143436
+wayback_snapshot_url: "http://web.archive.org/web/20250710143436/https://cfi.co/asia-pacific/2025/06/uzbekistan-investment-forum-economic-momentum-meets-strategic-maturity/"
 content_sha256: f745a565cc29d9805703b2f4e95954b1a724f4ca1ed27b93a2ff396c1751ee54
 canonical: 27767-uzbekistan-investment-forum-economic-momentum-meets-strategic-maturity.json
 ---
