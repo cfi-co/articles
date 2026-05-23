@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200421180158
+wayback_snapshot_url: "http://web.archive.org/web/20200421180158/https://cfi.co/finance/2020/01/jim-oneill-a-living-wage-for-capitalism/"
 content_sha256: 384c9e6f6595f99391843cacb3289f57026eb36d19f97c04404c68c154fa2bb9
 canonical: 14538-jim-oneill-a-living-wage-for-capitalism.json
 ---
