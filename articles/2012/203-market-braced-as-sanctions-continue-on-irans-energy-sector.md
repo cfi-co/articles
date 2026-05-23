@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724024001
+wayback_snapshot_url: "http://web.archive.org/web/20190724024001/https://cfi.co/europe/2012/03/market-braced-as-sanctions-continue-on-irans-energy-sector/"
 content_sha256: bed3e3ef9a6acd6cafbc80c96e04ce2413d82dcdf29756894ad0a18fbd330ce2
 canonical: 203-market-braced-as-sanctions-continue-on-irans-energy-sector.json
 ---
