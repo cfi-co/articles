@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200408071409
+wayback_snapshot_url: "http://web.archive.org/web/20200408071409/https://cfi.co/northamerica/2020/04/book-review-the-ride-of-a-lifetime-by-robert-iger-igers-wild-ride-to-the-top-of-the-happiest-place-on-earth/"
 content_sha256: bab2fc6b5a27d64433829f5eb9d003b4693f2fbe93189f551486f11920c96de8
 canonical: 14805-book-review-the-ride-of-a-lifetime-by-robert-iger-igers-wild-ride-to-the-top-of-.json
 ---
