@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 7a0030e4dfdfe716c6d038538d37eb71985b8084e6367ea456e41aa2611596cf
 canonical: 24036-michael-scherb-ceo-appian-capital-advisory.json
 ---
