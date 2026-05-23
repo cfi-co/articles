@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241211101029
+wayback_snapshot_url: "http://web.archive.org/web/20241211101029/https://cfi.co/northamerica/2024/12/from-pharmacy-giant-to-turnaround-target-can-sycamore-partners-revive-walgreens/"
 content_sha256: 5911b859a39c55bddcaa267d8a0daee80c6cad56b02f14722ffbc2afde8876b5
 canonical: 27379-from-pharmacy-giant-to-turnaround-target-can-sycamore-partners-revive-walgreens.json
 ---
