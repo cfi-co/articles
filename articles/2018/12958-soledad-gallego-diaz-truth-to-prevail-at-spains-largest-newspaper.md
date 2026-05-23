@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200621214713
+wayback_snapshot_url: "http://web.archive.org/web/20200621214713/https://cfi.co/editors-picks/2018/09/soledad-gallego-diaz-truth-to-prevail-at-spains-largest-newspaper/"
 content_sha256: 0a9f6e98a690e8fd041fa5eeb31cb7084f161471bb36999802fd8040b48a688c
 canonical: 12958-soledad-gallego-diaz-truth-to-prevail-at-spains-largest-newspaper.json
 ---
