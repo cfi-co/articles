@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240917145620
+wayback_snapshot_url: "http://web.archive.org/web/20240917145620/https://cfi.co/africa/2024/09/supporting-african-businesses-a-focus-on-sustainability-and-close-customer-relationships/"
 content_sha256: d62d2e813850ab99c0c868c7bf5ac6e59b8312bd0640890f474b2e74acba9e27
 canonical: 27100-supporting-african-businesses-a-focus-on-sustainability-and-close-customer-relat.json
 ---
