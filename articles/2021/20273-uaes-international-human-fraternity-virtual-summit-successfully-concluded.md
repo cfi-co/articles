@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210813165501
+wayback_snapshot_url: "http://web.archive.org/web/20210813165501/https://cfi.co/menu/events/2021/02/uaes-international-human-fraternity-virtual-summit-successfully-concluded/"
 content_sha256: 61ed9beb07d2d40c2a7c41cea7d25170f3e0ee28be4b360a99cb10284f99a490
 canonical: 20273-uaes-international-human-fraternity-virtual-summit-successfully-concluded.json
 ---
