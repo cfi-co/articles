@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 69f22a4c18a87c870063ecee82dfc0abdc39e691247f9aa4043dbe30123c70e8
 canonical: 22284-quantitative-tightening-and-capital-flows-to-emerging-markets.json
 ---
