@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220516140004
+wayback_snapshot_url: "http://web.archive.org/web/20220516140004/https://cfi.co/brave-new-world/2022/05/plus-ca-change-mired-in-multiple-crises-lebanon-votes-for-continuity/"
 content_sha256: fb7d326dc27df2d499c53a7ac677c3051503530452193a1c7890da3910c36638
 canonical: 21844-plus-ca-change-mired-in-multiple-crises-lebanon-votes-for-continuity.json
 ---
