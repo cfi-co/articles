@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140827160424
+wayback_snapshot_url: "http://web.archive.org/web/20140827160424/http://cfi.co/africa/2014/01/cfi-co-meets-the-regional-ceo-of-britam-stephen-wandera/"
 content_sha256: 5f8790117d4e1be09a758a6bf40777fffc2c8c7792711cc8a5ecd9b8867768a1
 canonical: 7268-cfi-co-meets-the-regional-ceo-of-britam-stephen-wandera.json
 ---
