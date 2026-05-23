@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240420125004
+wayback_snapshot_url: "http://web.archive.org/web/20240420125004/https://cfi.co/menu/multilaterals/2024/03/world-bank-how-to-accelerate-growth-and-progress-in-developing-economies/"
 content_sha256: d6a05b1bf50d1390b98a4a787c3c7198698e7262fb9401a28d12a8c2990cd5b1
 canonical: 26739-world-bank-how-to-accelerate-growth-and-progress-in-developing-economies.json
 ---
