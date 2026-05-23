@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200622194552
+wayback_snapshot_url: "http://web.archive.org/web/20200622194552/https://cfi.co/c-19/2020/04/otaviano-canuto-channels-of-transmission-of-coronavirus-to-developing-economies-from-abroad/"
 content_sha256: 4195cc4191175bb8607d69bbf740c0a4b687c0b4811cce35aa8b3364c5e8cd76
 canonical: 15072-otaviano-canuto-channels-of-transmission-of-coronavirus-to-developing-economies-.json
 ---
