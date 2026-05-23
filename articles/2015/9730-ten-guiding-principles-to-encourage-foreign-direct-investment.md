@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190722120448
+wayback_snapshot_url: "http://web.archive.org/web/20190722120448/https://cfi.co/finance/2015/05/ten-guiding-principles-to-encourage-foreign-direct-investment/"
 content_sha256: 4047289631cb92db9ff6f75625c3ddf15d0359f56a8bf0295eaf664e69ab0afd
 canonical: 9730-ten-guiding-principles-to-encourage-foreign-direct-investment.json
 ---
