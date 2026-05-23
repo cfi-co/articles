@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190507120200
+wayback_snapshot_url: "http://web.archive.org/web/20190507120200/https://cfi.co/latinamerica/2019/04/chile-minister-of-economy-development-and-tourism-jose-ramon-valente-escaping-the-middle-income-trap-and-securing-a-second-glorious-30-years/"
 content_sha256: a46de375c1c188a9c25b5e38b848a7a433961565c567507253cb33a5aef07e8d
 canonical: 13524-chile-minister-of-economy-development-and-tourism-jose-ramon-valente-escaping-th.json
 ---
