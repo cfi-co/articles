@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221203054312
+wayback_snapshot_url: "http://web.archive.org/web/20221203054312/https://cfi.co/menu/corporate/2022/10/inflation-beyond-the-headlines-and-beyond-the-borders-specialised-investment-research-and-analysis-from-pgm-global-inc/"
 content_sha256: 9eb697d5b4a84504cced33bf3749fbe391f1aad70e34fb5dacb51bae2fcebded
 canonical: 23749-inflation-beyond-the-headlines-and-beyond-the-borders-specialised-investment-res.json
 ---
