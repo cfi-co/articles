@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720032234
+wayback_snapshot_url: "http://web.archive.org/web/20190720032234/https://cfi.co/finance/2018/07/kenneth-rogoff-are-emerging-markets-the-canary-in-the-financial-coal-mine/"
 content_sha256: 88a931ff49e69c6c4d416b85648de24656436cbcf2ee0bef550aacf8b35288c3
 canonical: 12788-kenneth-rogoff-are-emerging-markets-the-canary-in-the-financial-coal-mine.json
 ---
