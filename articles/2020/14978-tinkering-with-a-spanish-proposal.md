@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200515005513
+wayback_snapshot_url: "http://web.archive.org/web/20200515005513/https://cfi.co/c-19/2020/04/tinkering-with-a-spanish-proposal/"
 content_sha256: d085d2061e1674440de365006ce3022b32d917a11b568236076edb572ac4a1cf
 canonical: 14978-tinkering-with-a-spanish-proposal.json
 ---
