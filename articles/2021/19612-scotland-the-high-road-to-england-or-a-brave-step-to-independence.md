@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210506213519
+wayback_snapshot_url: "http://web.archive.org/web/20210506213519/https://cfi.co/europe/2021/05/scotland-the-high-road-to-england-or-a-brave-step-to-independence/"
 content_sha256: 3d2322af31a443713119fafda97a787c40f591ba0170e8160928dc7ef78ea408
 canonical: 19612-scotland-the-high-road-to-england-or-a-brave-step-to-independence.json
 ---
