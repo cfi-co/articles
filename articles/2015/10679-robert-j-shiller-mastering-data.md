@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228092036
+wayback_snapshot_url: "http://web.archive.org/web/20210228092036/https://cfi.co/editors-picks/2015/11/robert-j-shiller-mastering-data/"
 content_sha256: 481a7fd2740d5017a7a9e7bf4650510f3e6d6205dde90c0050cb7b689e9b6b04
 canonical: 10679-robert-j-shiller-mastering-data.json
 ---
