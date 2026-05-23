@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: a0cd5232213be3b7f6a83ce6c21f87c0b8644ce892e3ef388f2edc80814d17e3
 canonical: 14680-business-in-times-of-corona-the-human-factor.json
 ---
