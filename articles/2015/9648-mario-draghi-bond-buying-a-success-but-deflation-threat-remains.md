@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717214232
+wayback_snapshot_url: "http://web.archive.org/web/20190717214232/https://cfi.co/europe/2015/04/mario-draghi-bond-buying-a-success-but-deflation-threat-remains/"
 content_sha256: 178c6f7a754dfe86a49ce8b3bea4c8f9c06ce25741952ebad6c66673b9618c1b
 canonical: 9648-mario-draghi-bond-buying-a-success-but-deflation-threat-remains.json
 ---
