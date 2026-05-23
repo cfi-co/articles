@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916085131
+wayback_snapshot_url: "http://web.archive.org/web/20190916085131/https://cfi.co/finance/2012/12/global-wage-report/"
 content_sha256: eb55b023fc3b01232e741fe680765120489c949f21ab280164a9d991572553a9
 canonical: 2724-global-wage-report.json
 ---
