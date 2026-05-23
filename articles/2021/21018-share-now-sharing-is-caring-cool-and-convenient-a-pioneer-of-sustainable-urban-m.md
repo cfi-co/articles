@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220626000729
+wayback_snapshot_url: "http://web.archive.org/web/20220626000729/https://cfi.co/menu/corporate/2021/11/share-now-sharing-is-caring-cool-and-convenient-a-pioneer-of-sustainable-urban-mobility/"
 content_sha256: 3379009a67b2db364fa96307ed292999dbaba41307c714cf4d1db539d91bac78
 canonical: 21018-share-now-sharing-is-caring-cool-and-convenient-a-pioneer-of-sustainable-urban-m.json
 ---
