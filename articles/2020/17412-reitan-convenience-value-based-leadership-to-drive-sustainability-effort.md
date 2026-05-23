@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228104335
+wayback_snapshot_url: "http://web.archive.org/web/20210228104335/https://cfi.co/menu/corporate/2020/01/reitan-convenience-value-based-leadership-to-drive-sustainability-effort/"
 content_sha256: da3b89c4f297d3d07f27eca49dd427c28f995e8655f21806331c887da39b2d1d
 canonical: 17412-reitan-convenience-value-based-leadership-to-drive-sustainability-effort.json
 ---
