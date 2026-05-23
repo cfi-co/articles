@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210209120327
+wayback_snapshot_url: "http://web.archive.org/web/20210209120327/https://cfi.co/europe/2021/02/be-a-people-person-networking-is-the-path-to-business-success/"
 content_sha256: 322e419c8131bf9649b5dd2c658ca6a7dc7e365c5789277aa606c7d9f1c49111
 canonical: 18676-be-a-people-person-networking-is-the-path-to-business-success.json
 ---
