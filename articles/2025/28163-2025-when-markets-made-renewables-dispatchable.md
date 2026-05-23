@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260107165750
+wayback_snapshot_url: "http://web.archive.org/web/20260107165750/https://cfi.co/sustainability/2025/12/2025-when-markets-made-renewables-dispatchable/"
 content_sha256: fe55c916be0aa361c9140e5fdf5bcd7020c349d8a186eacfdf03396e51280fcc
 canonical: 28163-2025-when-markets-made-renewables-dispatchable.json
 ---
