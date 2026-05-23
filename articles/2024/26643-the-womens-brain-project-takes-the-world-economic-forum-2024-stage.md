@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240225150135
+wayback_snapshot_url: "http://web.archive.org/web/20240225150135/https://cfi.co/europe/2024/02/the-womens-brain-project-takes-the-world-economic-forum-2024-stage/"
 content_sha256: d7bc4ba1d2955abdecd415cbc470bc10610df5dad35ff7dc34b6a4e4ac566ee6
 canonical: 26643-the-womens-brain-project-takes-the-world-economic-forum-2024-stage.json
 ---
