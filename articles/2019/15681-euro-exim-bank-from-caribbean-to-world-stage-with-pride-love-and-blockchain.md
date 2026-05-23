@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: fc1b51d22227d6c7837a34d5e7b15658ed02fdf434a67393f64ab0a765597733
 canonical: 15681-euro-exim-bank-from-caribbean-to-world-stage-with-pride-love-and-blockchain.json
 ---
