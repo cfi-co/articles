@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240623215305
+wayback_snapshot_url: "http://web.archive.org/web/20240623215305/https://cfi.co/brave-new-world/2023/09/coal-ja-bitte-nuke-nein-danke-germanys-other-sort-of-nuclear-disaster-is-unfolding/"
 content_sha256: 1123baeec313eef287b859cde6c1bc0f936258a0ddfac8a97999ae0daf2998e9
 canonical: 26108-coal-ja-bitte-nuke-nein-danke-germanys-other-sort-of-nuclear-disaster-is-unfoldi.json
 ---
