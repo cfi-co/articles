@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190820141450
+wayback_snapshot_url: "http://web.archive.org/web/20190820141450/https://cfi.co/finance/2014/11/participants-at-cityscape-kuwait-showcase-latest-unique-projects-services/"
 content_sha256: fd7c661dbd65fa520d6017a159744f6238e5199d5a2b015eed241d3a2a336cc3
 canonical: 8407-participants-at-cityscape-kuwait-showcase-latest-unique-projects-services.json
 ---
