@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250919150627
+wayback_snapshot_url: "http://web.archive.org/web/20250919150627/https://cfi.co/projects/2025/09/strategic-fdi-how-developing-economies-can-attract-investment-that-transforms/"
 content_sha256: 60a415a078de86970e7f092809f0164157f358c5292839a033a237610a2e8aa9
 canonical: 27941-strategic-fdi-how-developing-economies-can-attract-investment-that-transforms.json
 ---
