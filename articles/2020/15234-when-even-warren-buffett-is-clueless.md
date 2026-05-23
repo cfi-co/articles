@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200918195133
+wayback_snapshot_url: "http://web.archive.org/web/20200918195133/https://cfi.co/c-19/2020/05/when-even-warren-buffett-is-clueless/"
 content_sha256: 66f21fab27b44cc667839b0deb8435a9f0e64cb7af99edc67d93e48af1c24da2
 canonical: 15234-when-even-warren-buffett-is-clueless.json
 ---
