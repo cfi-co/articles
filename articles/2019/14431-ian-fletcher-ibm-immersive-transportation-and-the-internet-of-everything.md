@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200919070256
+wayback_snapshot_url: "http://web.archive.org/web/20200919070256/https://cfi.co/technology/2019/08/ian-fletcher-ibm-immersive-transportation-and-the-internet-of-everything/"
 content_sha256: dab33316089789acaf07a05974736cb94e16ceedc98853c4d61a98558dc8c067
 canonical: 14431-ian-fletcher-ibm-immersive-transportation-and-the-internet-of-everything.json
 ---
