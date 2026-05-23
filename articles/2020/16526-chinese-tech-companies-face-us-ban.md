@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200919183120
+wayback_snapshot_url: "http://web.archive.org/web/20200919183120/https://cfi.co/c-19/2020/08/chinese-tech-companies-face-us-ban/"
 content_sha256: be1727944af330c445264949dc7c759a42cd072bb49a2a988141e08bdfb19671
 canonical: 16526-chinese-tech-companies-face-us-ban.json
 ---
