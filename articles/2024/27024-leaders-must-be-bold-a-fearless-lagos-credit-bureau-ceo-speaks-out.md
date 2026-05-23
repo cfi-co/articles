@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 21db0b13eeb20a383ec57d1256128192583a8bb40d4f1520c3726b0fb4bcc475
 canonical: 27024-leaders-must-be-bold-a-fearless-lagos-credit-bureau-ceo-speaks-out.json
 ---
