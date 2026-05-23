@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200927053009
+wayback_snapshot_url: "http://web.archive.org/web/20200927053009/https://cfi.co/menu/corporate/2019/07/deutsche-oppenheim-family-office-ag-three-pillars-that-ensure-solid-support-at-leading-family-office/"
 content_sha256: 41653cde21887a0b20137ab7606df978bbe0ea31232175fa5aea7f9b6e8301f6
 canonical: 15671-deutsche-oppenheim-family-office-ag-three-pillars-that-ensure-solid-support-at-l.json
 ---
