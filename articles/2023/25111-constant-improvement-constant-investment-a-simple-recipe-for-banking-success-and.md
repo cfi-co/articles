@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603022435
+wayback_snapshot_url: "http://web.archive.org/web/20230603022435/https://cfi.co/asia-pacific/2023/04/afghanistan-international-bank-aib-constant-improvement-constant-investment"
 content_sha256: cb959fa7db0f071c4c3c9904a5c7d6ea9135acf57483513ad6ead2685b1c4433
 canonical: 25111-constant-improvement-constant-investment-a-simple-recipe-for-banking-success-and.json
 ---
