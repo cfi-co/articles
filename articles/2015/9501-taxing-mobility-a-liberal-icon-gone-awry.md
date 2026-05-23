@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 8442df5324bbd3decdd2883624ca0c632618bfec447d3cace4007d57625fc83e
 canonical: 9501-taxing-mobility-a-liberal-icon-gone-awry.json
 ---
