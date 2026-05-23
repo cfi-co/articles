@@ -16,7 +16,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251206000720
+wayback_snapshot_url: "http://web.archive.org/web/20251206000720/https://cfi.co/banking/2025/11/raiffeisen-certificates-two-decades-of-passion-precision-and-purpose/"
 content_sha256: f2bcad48dfa8101a1ebfe9590181b112406414895ea7c492b1e456e2832bf715
 canonical: 28028-raiffeisen-certificates-two-decades-of-passion-precision-and-purpose.json
 ---
