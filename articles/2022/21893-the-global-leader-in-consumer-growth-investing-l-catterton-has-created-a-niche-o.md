@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625221455
+wayback_snapshot_url: "http://web.archive.org/web/20220625221455/https://cfi.co/menu/corporate/2022/05/the-global-leader-in-consumer-growth-investing-l-catterton-has-created-a-niche-of-its-own/"
 content_sha256: e7157ee0f8563ae2fa7371c4590283d2b66b6dad800bf97ff96b16a8d0f9f413
 canonical: 21893-the-global-leader-in-consumer-growth-investing-l-catterton-has-created-a-niche-o.json
 ---
