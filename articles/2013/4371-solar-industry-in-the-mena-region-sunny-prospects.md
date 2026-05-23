@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140816001109
+wayback_snapshot_url: "http://web.archive.org/web/20140816001109/http://cfi.co/africa/2013/06/solar-industry-in-the-mena-region-sunny-prospects/"
 content_sha256: 8b90519b3902859ccca0fcc9e1350b9c23b330652640971e76ec7f7eec747532
 canonical: 4371-solar-industry-in-the-mena-region-sunny-prospects.json
 ---
