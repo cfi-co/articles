@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190820141947
+wayback_snapshot_url: "http://web.archive.org/web/20190820141947/https://cfi.co/africa/2012/06/ominous-signs-for-international-investment/"
 content_sha256: c5e2171b4a51ac3082d449da42ea50e551c34ddead27fdb089e8e355fecd23b6
 canonical: 901-ominous-signs-for-international-investment.json
 ---
