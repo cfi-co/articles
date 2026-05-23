@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210803062532
+wayback_snapshot_url: "http://web.archive.org/web/20210803062532/https://cfi.co/finance/2021/08/oecd-business-as-usual-forget-about-that-and-prepare-for-novel-and-impactful-variations-on-a-theme/"
 content_sha256: 12dff4c144e078b2a1317a44e7c3a400101a92d619509c596df2e6d47345bf23
 canonical: 20308-oecd-business-as-usual-forget-about-that-and-prepare-for-novel-and-impactful-var.json
 ---
