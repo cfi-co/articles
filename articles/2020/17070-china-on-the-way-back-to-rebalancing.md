@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201023003816
+wayback_snapshot_url: "http://web.archive.org/web/20201023003816/https://cfi.co/asia-pacific/2020/09/china-on-the-way-back-to-rebalancing/"
 content_sha256: c79cc95272331a48a5ad42ecc18ddcaed9a6d68cfaacbb70c1688c0b939ce5c2
 canonical: 17070-china-on-the-way-back-to-rebalancing.json
 ---
