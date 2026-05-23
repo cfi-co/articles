@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251003111056
+wayback_snapshot_url: "http://web.archive.org/web/20251003111056/https://cfi.co/banking/2025/10/berenberg-investment-consulting-innovation-at-the-heart-of-institutional-advisory/"
 content_sha256: fcc3f9445e31c9099f470a615ef8c5ab602b025bdb7d5a24aca98be4a16d93a5
 canonical: 27976-berenberg-investment-consulting-innovation-at-the-heart-of-institutional-advisor.json
 ---
