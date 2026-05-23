@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230313102043
+wayback_snapshot_url: "http://web.archive.org/web/20230313102043/https://cfi.co/sustainability/2023/03/the-rise-and-rise-of-esg-from-investment-and-worker-safety-to-the-ethics-of-the-defence-industry/"
 content_sha256: 4ee3edd5a5826f62765ee809e5eaae6e61a300b1fd83996d0e72f62352975f02
 canonical: 24865-the-rise-and-rise-of-esg-from-investment-and-worker-safety-to-the-ethics-of-the-.json
 ---
