@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230323022747
+wayback_snapshot_url: "http://web.archive.org/web/20230323022747/https://cfi.co/menu/corporate/2019/01/infinity-solar-vision-of-transition-that-began-with-a-revolution/"
 content_sha256: 2dda56349959f0175cc3d4cf6c7c70bf229efb67b455901799ec5c69ca8452d0
 canonical: 22911-infinity-solar-vision-of-transition-that-began-with-a-revolution.json
 ---
