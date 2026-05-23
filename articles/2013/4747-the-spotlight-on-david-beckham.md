@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826032845
+wayback_snapshot_url: "http://web.archive.org/web/20140826032845/http://cfi.co/europe/2013/08/the-spotlight-on-david-beckham/"
 content_sha256: 72cf54b8e4e5cb5e84a17efd095930940b937d653fa71c677afc96d5b5ffd435
 canonical: 4747-the-spotlight-on-david-beckham.json
 ---
