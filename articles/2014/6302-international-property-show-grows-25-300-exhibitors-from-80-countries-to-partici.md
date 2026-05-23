@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327164937
+wayback_snapshot_url: "http://web.archive.org/web/20140327164937/http://cfi.co/middleeast/2014/01/international-property-show-grows-25-300-exhibitors-from-80-countries-to-participate-from-8-to-10-april-in-dubai/"
 content_sha256: 67353c082cdc8d1ee4672f4d1cc6974643ad5b8139ac621187263dd47cbf9759
 canonical: 6302-international-property-show-grows-25-300-exhibitors-from-80-countries-to-partici.json
 ---
