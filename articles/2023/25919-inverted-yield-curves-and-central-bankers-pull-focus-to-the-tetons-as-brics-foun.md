@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230824095312
+wayback_snapshot_url: "http://web.archive.org/web/20230824095312/https://cfi.co/brave-new-world/2023/08/inverted-yield-curves-and-central-bankers-pull-focus-to-the-tetons-as-brics-founders/"
 content_sha256: 015eaed4ae3c9a7a547b1dca76b895ce643ac45b67c370c1e4fb23b593f45cf6
 canonical: 25919-inverted-yield-curves-and-central-bankers-pull-focus-to-the-tetons-as-brics-foun.json
 ---
