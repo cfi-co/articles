@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825094038
+wayback_snapshot_url: "http://web.archive.org/web/20190825094038/https://cfi.co/menu/obituaries/2018/05/obituary-stephen-hawking-1942-2018/"
 content_sha256: c1fbff5de44bd77bff1ba6fc271b6dd91d8fcb0ef28220b6824ee803ebdb1224
 canonical: 12556-obituary-stephen-hawking-1942-2018.json
 ---
