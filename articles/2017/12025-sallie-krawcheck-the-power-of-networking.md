@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200921030819
+wayback_snapshot_url: "http://web.archive.org/web/20200921030819/https://cfi.co/editors-picks/2017/09/sallie-krawcheck-the-power-of-networking/"
 content_sha256: bfe16997bf87c2afefd0820ed82dc64d3f06187ea16690840f50927cfe6486e5
 canonical: 12025-sallie-krawcheck-the-power-of-networking.json
 ---
