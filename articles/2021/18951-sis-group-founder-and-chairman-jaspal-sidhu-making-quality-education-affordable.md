@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210315175926
+wayback_snapshot_url: "http://web.archive.org/web/20210315175926/https://cfi.co/menu/corporate/2021/03/sis-group-founder-and-chairman-jaspal-sidhu-making-quality-education-affordable/"
 content_sha256: 43809d9bee9438a107eeaafcfe03bb8c43c6a700111309542778d445e82c0f14
 canonical: 18951-sis-group-founder-and-chairman-jaspal-sidhu-making-quality-education-affordable.json
 ---
