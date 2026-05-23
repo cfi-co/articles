@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191017061748
+wayback_snapshot_url: "http://web.archive.org/web/20191017061748/https://cfi.co/africa/2014/08/world-bank-group-commits-us-5-billion-to-boost-electricity-generation-in-six-african-countries/"
 content_sha256: 28b34e3c1bef84cf79925c2be2e10e3cd24983950d04fd8bcaae034abed319e4
 canonical: 7822-world-bank-group-commits-us-5-billion-to-boost-electricity-generation-in-six-afr.json
 ---
