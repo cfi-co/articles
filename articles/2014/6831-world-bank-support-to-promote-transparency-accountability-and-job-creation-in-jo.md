@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826035409
+wayback_snapshot_url: "http://web.archive.org/web/20140826035409/http://cfi.co/finance/2014/03/world-bank-support-to-promote-transparency-accountability-and-job-creation-in-jordan/"
 content_sha256: 8220980569322b87a342f84171a74d69e9b97270196ad9c15a8ab864c8e09663
 canonical: 6831-world-bank-support-to-promote-transparency-accountability-and-job-creation-in-jo.json
 ---
