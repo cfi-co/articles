@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050512
+wayback_snapshot_url: "http://web.archive.org/web/20190823050512/https://cfi.co/asia-pacific/2013/04/islamic-development-bank-member-country-partnership-strategy/"
 content_sha256: 78a98905534651d0c1d16fb4a9e005be6d1085b3606aa4deb347714a7b5f62db
 canonical: 3746-islamic-development-bank-member-country-partnership-strategy.json
 ---
