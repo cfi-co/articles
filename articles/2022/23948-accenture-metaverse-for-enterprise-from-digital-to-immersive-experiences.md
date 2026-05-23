@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221110132253
+wayback_snapshot_url: "http://web.archive.org/web/20221110132253/https://cfi.co/middleeast/2022/11/accenture-metaverse-for-enterprise-from-digital-to-immersive-experiences/"
 content_sha256: 716d5b1215987c3257adf4ee263770418c9a9bd7dffcb4a5d8c6be8f66c1a824
 canonical: 23948-accenture-metaverse-for-enterprise-from-digital-to-immersive-experiences.json
 ---
