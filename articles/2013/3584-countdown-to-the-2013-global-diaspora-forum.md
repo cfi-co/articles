@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050302
+wayback_snapshot_url: "http://web.archive.org/web/20190823050302/https://cfi.co/northamerica/2013/04/countdown-to-the-2013-global-diaspora-forum/"
 content_sha256: c79d0bb331589c08c94e769d0cc27e21562e58b8d0c1186efb43ede2c7bb767b
 canonical: 3584-countdown-to-the-2013-global-diaspora-forum.json
 ---
