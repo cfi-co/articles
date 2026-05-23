@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050041
+wayback_snapshot_url: "http://web.archive.org/web/20190818050041/https://cfi.co/banking/2012/07/barclays-libor-rate-fixing-leads-to-resignations/"
 content_sha256: 8941da51c4ee9e0e737f4f1b78f16b004e9467b4f487ef0ff80b03a859845f2b
 canonical: 1004-barclays-libor-rate-fixing-leads-to-resignations.json
 ---
