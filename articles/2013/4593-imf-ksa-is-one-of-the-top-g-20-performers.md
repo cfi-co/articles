@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191013204243
+wayback_snapshot_url: "http://web.archive.org/web/20191013204243/https://cfi.co/finance/2013/07/imf-ksa-is-one-of-the-top-g-20-performers/"
 content_sha256: 35ed5383b0f95ec2953d26d3463e49a4fbcd244d696015794e5f3e09c2f4d2cd
 canonical: 4593-imf-ksa-is-one-of-the-top-g-20-performers.json
 ---
