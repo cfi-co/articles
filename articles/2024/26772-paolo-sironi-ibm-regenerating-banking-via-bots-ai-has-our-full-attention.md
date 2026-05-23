@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240517124650
+wayback_snapshot_url: "http://web.archive.org/web/20240517124650/https://cfi.co/technology/2024/04/paolo-sironi-ibm-regenerating-banking-via-bots-ai-has-our-full-attention/"
 content_sha256: ef19b64cb5e10b8573b63bc2a8d3a58170b6af62d84fb08a09cd80d3b40d94ba
 canonical: 26772-paolo-sironi-ibm-regenerating-banking-via-bots-ai-has-our-full-attention.json
 ---
