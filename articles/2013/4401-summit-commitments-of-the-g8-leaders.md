@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191021052239
+wayback_snapshot_url: "http://web.archive.org/web/20191021052239/https://cfi.co/europe/2013/06/summit-commitments-of-the-g8-leaders/"
 content_sha256: 09ef23bd8826b1466fe046736347b0a270c87c625dc8ffebab873fdf018636f2
 canonical: 4401-summit-commitments-of-the-g8-leaders.json
 ---
