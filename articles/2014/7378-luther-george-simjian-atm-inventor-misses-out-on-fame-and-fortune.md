@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140705081312
+wayback_snapshot_url: "http://web.archive.org/web/20140705081312/http://cfi.co/technology/2014/06/luther-george-simjian-atm-inventor-misses-out-on-fame-and-fortune/"
 content_sha256: 4c0940a4201b12be90e1969c45bb7da2484c0278ce56ae6e3bbb5471cb1c78ba
 canonical: 7378-luther-george-simjian-atm-inventor-misses-out-on-fame-and-fortune.json
 ---
