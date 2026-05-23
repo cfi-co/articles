@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200918230417
+wayback_snapshot_url: "http://web.archive.org/web/20200918230417/https://cfi.co/editors-picks/2017/10/lucy-worsley-bringing-the-past-to-life/"
 content_sha256: fb6916d4e29d07a68f8133d39a5c26ab5c6cf096910b6d9ee5bca58ddd80f95b
 canonical: 12064-lucy-worsley-bringing-the-past-to-life.json
 ---
