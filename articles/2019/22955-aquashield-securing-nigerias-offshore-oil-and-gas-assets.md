@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221026013115
+wayback_snapshot_url: "http://web.archive.org/web/20221026013115/https://cfi.co/menu/corporate/2019/05/aquashield-securing-nigerias-offshore-oil-and-gas-assets/"
 content_sha256: f9972e474aff4e4b9b5feff8e342f55914f23855db05aef003c32452887bfa91
 canonical: 22955-aquashield-securing-nigerias-offshore-oil-and-gas-assets.json
 ---
