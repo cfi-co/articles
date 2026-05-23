@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240229190313
+wayback_snapshot_url: "http://web.archive.org/web/20240229190313/https://cfi.co/middle-east/2024/01/ethra-invest-a-focus-on-integrity-and-excellence/"
 content_sha256: ededfd0df78654188bb454dd6d31f45353f23beb92076be2847ec5e16d804636
 canonical: 26580-modern-alchemy-no-spells-and-incantations-just-a-focus-on-integrity-and-excellen.json
 ---
