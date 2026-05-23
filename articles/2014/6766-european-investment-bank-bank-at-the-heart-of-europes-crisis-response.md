@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140625173605
+wayback_snapshot_url: "http://web.archive.org/web/20140625173605/http://cfi.co/banking/2014/03/european-investment-bank-bank-at-the-heart-of-europes-crisis-response/"
 content_sha256: bf14ba332a60d19b7e58d2838dcddf780afcffbdbb24e48315cec0349b61e483
 canonical: 6766-european-investment-bank-bank-at-the-heart-of-europes-crisis-response.json
 ---
