@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200924123737
+wayback_snapshot_url: "http://web.archive.org/web/20200924123737/https://cfi.co/corporate-leaders/2019/07/wide-experience-and-many-talents-make-grant-a-ghanaian-treasure/"
 content_sha256: 693e19c975cebfb451ee3158ea256661a1de3cf3e5e06f507081cfc86bc17f8b
 canonical: 15684-wide-experience-and-many-talents-make-grant-a-ghanaian-treasure.json
 ---
