@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180708200811
+wayback_snapshot_url: "http://web.archive.org/web/20180708200811/http://cfi.co/banking/2015/01/world-economic-forum-less-is-more-and-other-wisdom-from-davos/"
 content_sha256: 3c7ecef29e8810f8def4d5b36e50c4addc5125edc8b3c9f27319313b71b3b1b0
 canonical: 8798-world-economic-forum-less-is-more-and-other-wisdom-from-davos.json
 ---
