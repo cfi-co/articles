@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050703
+wayback_snapshot_url: "http://web.archive.org/web/20190818050703/https://cfi.co/banking/2014/07/cfi-co-meets-the-ceo-of-investbank-muntaser-dawwas/"
 content_sha256: c3f72a50f68de266e8481d9a957c2ad095c53d84343208b81890130ab27847b0
 canonical: 7894-cfi-co-meets-the-ceo-of-investbank-muntaser-dawwas.json
 ---
