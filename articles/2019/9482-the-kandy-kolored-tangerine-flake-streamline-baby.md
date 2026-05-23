@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717211159
+wayback_snapshot_url: "http://web.archive.org/web/20190717211159/https://cfi.co/menu/the-editors-list/2019/03/the-kandy-kolored-tangerine-flake-streamline-baby/"
 content_sha256: cbc569baa5e2732044a78ea7a3d87d0e9f4b784e5992b9b6978086d83aaa58b2
 canonical: 9482-the-kandy-kolored-tangerine-flake-streamline-baby.json
 ---
