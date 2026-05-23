@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825102852
+wayback_snapshot_url: "http://web.archive.org/web/20190825102852/https://cfi.co/menu/special-features/2018/05/jerome-powell-chair-of-the-federal-reserve-the-end-of-easy-money/"
 content_sha256: 753f1eb22e9f562caa749ac8b489a61c4846eb87e9cec11b5abbd968e584402e
 canonical: 12479-jerome-powell-chair-of-the-federal-reserve-the-end-of-easy-money.json
 ---
