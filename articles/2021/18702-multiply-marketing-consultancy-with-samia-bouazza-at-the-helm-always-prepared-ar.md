@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210216144457
+wayback_snapshot_url: "http://web.archive.org/web/20210216144457/https://cfi.co/menu/cfi-co-meets/2021/02/multiply-marketing-consultancy-with-samia-bouazza-at-the-helm-always-prepared-armed-with-the-latest-tech-determined-to-be-the-best/"
 content_sha256: b65bc30ab0a8dff824418c53a471066346fc588df1ccc79ba7d2746c9d0e698b
 canonical: 18702-multiply-marketing-consultancy-with-samia-bouazza-at-the-helm-always-prepared-ar.json
 ---
