@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050524
+wayback_snapshot_url: "http://web.archive.org/web/20190823050524/https://cfi.co/africa/2012/10/rwandas-largest-bank-strengthens-its-position/"
 content_sha256: 8ccd0df60b0e43c92264d50738b2d50df39fb10d68fc36d846432caffd36b1e8
 canonical: 2457-rwandas-largest-bank-strengthens-its-position.json
 ---
