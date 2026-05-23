@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418045917
+wayback_snapshot_url: "http://web.archive.org/web/20210418045917/https://cfi.co/corporate-leaders/2020/04/richard-hausmann-elekta-breakthrough-cancer-treatment-technology/"
 content_sha256: ef0b70350b8ef29933884aa6bad7c165fa99d061fe488e0ad0de8de65a96c825
 canonical: 15065-richard-hausmann-elekta-breakthrough-cancer-treatment-technology.json
 ---
