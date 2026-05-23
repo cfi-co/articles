@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825102535
+wayback_snapshot_url: "http://web.archive.org/web/20190825102535/https://cfi.co/corporate-leaders/2014/10/cfi-co-meets-the-founder-and-ceo-of-optimum-asset-management-alberto-matta/"
 content_sha256: 92a2c4294b163c55ba453148291e1270b9d4f06f1dcd40bdca13b814af94615c
 canonical: 10581-cfi-co-meets-the-founder-and-ceo-of-optimum-asset-management-alberto-matta.json
 ---
