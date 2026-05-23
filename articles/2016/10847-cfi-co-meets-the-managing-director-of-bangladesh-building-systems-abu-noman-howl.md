@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818134046
+wayback_snapshot_url: "http://web.archive.org/web/20190818134046/https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-managing-director-of-bangladesh-building-systems-abu-noman-howlader/"
 content_sha256: 673cacd37c5c07403de1178c456c23dd85cd30fabbf2fb93632880ac27fb6084
 canonical: 10847-cfi-co-meets-the-managing-director-of-bangladesh-building-systems-abu-noman-howl.json
 ---
