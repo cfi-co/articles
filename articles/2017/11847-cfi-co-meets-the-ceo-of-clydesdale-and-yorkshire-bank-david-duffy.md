@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916085742
+wayback_snapshot_url: "http://web.archive.org/web/20190916085742/https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-ceo-of-clydesdale-and-yorkshire-bank-david-duffy/"
 content_sha256: 9e1608b87f1fd996ad2aed37780988f91f1cb5a3372dff36fe987b081c398431
 canonical: 11847-cfi-co-meets-the-ceo-of-clydesdale-and-yorkshire-bank-david-duffy.json
 ---
