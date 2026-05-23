@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241218154438
+wayback_snapshot_url: "http://web.archive.org/web/20241218154438/https://cfi.co/technology/2024/12/the-exponential-growth-of-ai-computing-power-trends-and-predictions-for-the-next-five-years/"
 content_sha256: ecafd9b063069a9361da3ea08cf969f7f8555a7e77265d1466eab935b43cdac7
 canonical: 27417-the-exponential-growth-of-ai-computing-power-trends-and-predictions-for-the-next.json
 ---
