@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: e9b26f099bbf4ffd1f075f2c30758d6a921c6054cf59b99ba326fd52258b5647
 canonical: 7363-un-labour-report-shows-solid-return-for-national-investments-in-quality-jobs.json
 ---
