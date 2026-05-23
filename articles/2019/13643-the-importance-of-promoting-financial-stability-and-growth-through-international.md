@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723010756
+wayback_snapshot_url: "http://web.archive.org/web/20190723010756/https://cfi.co/finance/2019/06/the-importance-of-promoting-financial-stability-and-growth-through-international-regulatory-coherence/"
 content_sha256: d72527c7c8917230c24a7fac06703fbbce8bf48ceae61dcb9dc3fdac0efe4e6a
 canonical: 13643-the-importance-of-promoting-financial-stability-and-growth-through-international.json
 ---
