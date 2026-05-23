@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210120164356
+wayback_snapshot_url: "http://web.archive.org/web/20210120164356/https://cfi.co/northamerica/2021/01/former-president-promises-to-return-in-some-form/"
 content_sha256: 4a41d4d2c0c46bfa0c911c7ae7a0c1b54e89a8b69e019780451b4cbd0237502a
 canonical: 18475-former-president-promises-to-return-in-some-form.json
 ---
