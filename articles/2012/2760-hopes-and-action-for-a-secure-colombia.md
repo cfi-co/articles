@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050444
+wayback_snapshot_url: "http://web.archive.org/web/20190823050444/https://cfi.co/editors-picks/2012/12/hopes-and-action-for-a-secure-colombia/"
 content_sha256: f2b8e614bd3f78a3d276f805c3b38de0b9a9c82924e0822ed79c576258d9b079
 canonical: 2760-hopes-and-action-for-a-secure-colombia.json
 ---
