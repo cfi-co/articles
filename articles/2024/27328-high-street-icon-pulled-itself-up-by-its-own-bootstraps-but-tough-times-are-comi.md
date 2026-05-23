@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241207060756
+wayback_snapshot_url: "http://web.archive.org/web/20241207060756/https://cfi.co/europe/2024/11/high-street-icon-pulled-itself-up-by-its-own-bootstraps-but-tough-times-are-coming/"
 content_sha256: ce69ced5b7a9583dd745ae650b7642dc8dc1bb252bcf5251dca4485351198dcf
 canonical: 27328-high-street-icon-pulled-itself-up-by-its-own-bootstraps-but-tough-times-are-comi.json
 ---
