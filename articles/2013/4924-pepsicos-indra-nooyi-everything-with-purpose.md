@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 003dc79c49893e38fd6c949ac5b658c924994cd2786e2fb1629b1d7166bb1052
 canonical: 4924-pepsicos-indra-nooyi-everything-with-purpose.json
 ---
