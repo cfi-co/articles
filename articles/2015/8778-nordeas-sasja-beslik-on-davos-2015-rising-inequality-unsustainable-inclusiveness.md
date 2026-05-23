@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916085154
+wayback_snapshot_url: "http://web.archive.org/web/20190916085154/https://cfi.co/banking/2015/01/nordeas-sasja-beslik-on-davos-2015-rising-inequality-unsustainable-inclusiveness-answer/"
 content_sha256: d71c9f8904de1679c26b2eb5f1c7d1e80eb2685816795290cf364514ae41a4b4
 canonical: 8778-nordeas-sasja-beslik-on-davos-2015-rising-inequality-unsustainable-inclusiveness.json
 ---
