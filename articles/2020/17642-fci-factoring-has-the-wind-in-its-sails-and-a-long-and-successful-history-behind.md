@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201101104644
+wayback_snapshot_url: "http://web.archive.org/web/20201101104644/https://cfi.co/menu/corporate/2020/10/fci-factoring-has-the-wind-in-its-sails-and-a-long-and-successful-history-behind-it/"
 content_sha256: f1a5a81c59bceaf9789b67ac8404aa24227004564665631f26fe2cfffc9ae3a6
 canonical: 17642-fci-factoring-has-the-wind-in-its-sails-and-a-long-and-successful-history-behind.json
 ---
