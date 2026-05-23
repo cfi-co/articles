@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 3f3d7382ecce565d07b657106ddfc5af7839eae828f934befd2e2c1a90545a05
 canonical: 20357-carticas-triple-threat-three-women-leading-the-way-on-emerging-markets-and-esg.json
 ---
