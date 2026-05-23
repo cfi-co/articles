@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201022230411
+wayback_snapshot_url: "http://web.archive.org/web/20201022230411/https://cfi.co/corporate-leaders/2018/03/cfi-co-meets-the-group-ceo-of-kbc-johan-thijs/"
 content_sha256: 129eeeee3d1f60c467db75333f36bb759929206a5e4271eee86b5ed7b9b3f76e
 canonical: 17073-cfi-co-meets-the-group-ceo-of-kbc-johan-thijs.json
 ---
