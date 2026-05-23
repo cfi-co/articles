@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720182413
+wayback_snapshot_url: "http://web.archive.org/web/20190720182413/https://cfi.co/africa/2013/06/nigerias-minister-of-agriculture-sustainability-and-growth-in-investments-from-private-sector-but-banks-overcharge/"
 content_sha256: 731012a3e45cf3657f0808c79ba655cacfaf1276476e1a1abb7dbc73f1b6077b
 canonical: 4340-nigerias-minister-of-agriculture-sustainability-and-growth-in-investments-from-p.json
 ---
