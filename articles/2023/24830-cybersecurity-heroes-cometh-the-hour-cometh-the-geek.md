@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230307045812
+wayback_snapshot_url: "http://web.archive.org/web/20230307045812/https://cfi.co/northamerica/2023/03/cybersecurity-heroes-cometh-the-hour-cometh-the-geek/"
 content_sha256: 5406314f6338170cdeb09da484c3f0a9353bb99af0d967c95101b5ec2210d6c9
 canonical: 24830-cybersecurity-heroes-cometh-the-hour-cometh-the-geek.json
 ---
