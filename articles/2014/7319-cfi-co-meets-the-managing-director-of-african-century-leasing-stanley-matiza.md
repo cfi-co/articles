@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140705171030
+wayback_snapshot_url: "http://web.archive.org/web/20140705171030/http://cfi.co/africa/2014/03/cfi-co-meets-the-managing-director-of-african-century-leasing-stanley-matiza/"
 content_sha256: 4cce893441798abd942e88441bfa2edc2fa955e52f5e8cc2d7da115ee844a90a
 canonical: 7319-cfi-co-meets-the-managing-director-of-african-century-leasing-stanley-matiza.json
 ---
