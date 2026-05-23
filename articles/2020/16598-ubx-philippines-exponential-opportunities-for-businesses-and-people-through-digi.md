@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 9db13f67496d9de2e417a58eee493cd9a363345d5cd83694c54aaec9f24141d6
 canonical: 16598-ubx-philippines-exponential-opportunities-for-businesses-and-people-through-digi.json
 ---
