@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251002151140
+wayback_snapshot_url: "http://web.archive.org/web/20251002151140/https://cfi.co/africa/2025/09/africas-777bn-opportunity-why-local-capital-must-power-the-energy-transition/"
 content_sha256: e2be9f61f9f6e7eb1bf2e0b3685b08151a0989e506e7392ca5766832fc397bb2
 canonical: 27918-africas-775bn-opportunity-why-local-capital-must-power-the-energy-transition.json
 ---
