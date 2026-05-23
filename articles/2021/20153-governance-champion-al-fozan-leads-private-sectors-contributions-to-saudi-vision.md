@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724023558
+wayback_snapshot_url: "http://web.archive.org/web/20210724023558/https://cfi.co/menu/corporate/2021/07/governance-champion-al-fozan-leads-private-sectors-contributions-to-saudi-vision-2030-and-a-sustainable-future/"
 content_sha256: 90ebeb84100063423fd170512a8ee7a8f20ba982cf6f60cc64b306aae4b0091c
 canonical: 20153-governance-champion-al-fozan-leads-private-sectors-contributions-to-saudi-vision.json
 ---
