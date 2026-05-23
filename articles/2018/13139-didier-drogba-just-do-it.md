@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200625014901
+wayback_snapshot_url: "http://web.archive.org/web/20200625014901/https://cfi.co/editors-picks/2018/09/didier-drogba-just-do-it/"
 content_sha256: 24a570cb9a1f513cec57749892b76d36ff82d9952e164b8df991fbb7313cb82e
 canonical: 13139-didier-drogba-just-do-it.json
 ---
