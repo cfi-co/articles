@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720035512
+wayback_snapshot_url: "http://web.archive.org/web/20190720035512/https://cfi.co/menu/must-reads/2018/02/zen-and-the-art-of-motorcycle-maintenance-an-inquiry-into-values/"
 content_sha256: d92b07a12d4d9b17e70ce42e4727bdb7372d1dcf3bf565b0bf36a2585f8f5188
 canonical: 9231-zen-and-the-art-of-motorcycle-maintenance-an-inquiry-into-values.json
 ---
