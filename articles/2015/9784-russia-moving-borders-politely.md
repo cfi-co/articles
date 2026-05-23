@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720035219
+wayback_snapshot_url: "http://web.archive.org/web/20190720035219/https://cfi.co/europe/2015/05/russia-moving-borders-politely/"
 content_sha256: ac6cc1d9dd933174ec09ffe704e656f8b5eb49f5bef67c2653282302d6d74388
 canonical: 9784-russia-moving-borders-politely.json
 ---
