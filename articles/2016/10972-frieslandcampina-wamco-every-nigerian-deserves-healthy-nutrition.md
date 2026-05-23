@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418063522
+wayback_snapshot_url: "http://web.archive.org/web/20210418063522/https://cfi.co/menu/corporate/2016/02/frieslandcampina-wamco-every-nigerian-deserves-healthy-nutrition/"
 content_sha256: f3af4d6468740e84f6aa8daa394d58d1bf8b761156f93fffb2a1cb7e93e24407
 canonical: 10972-frieslandcampina-wamco-every-nigerian-deserves-healthy-nutrition.json
 ---
