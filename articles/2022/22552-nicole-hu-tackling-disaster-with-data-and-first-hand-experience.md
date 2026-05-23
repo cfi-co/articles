@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220814191801
+wayback_snapshot_url: "http://web.archive.org/web/20220814191801/https://cfi.co/northamerica/2022/08/nicole-hu-tackling-disaster-with-data-and-first-hand-experience/"
 content_sha256: e4a49ddecaf5f1efa8cdceac8ac290b579c23a566b27abe1540f464ebc9d45fc
 canonical: 22552-nicole-hu-tackling-disaster-with-data-and-first-hand-experience.json
 ---
