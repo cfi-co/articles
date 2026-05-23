@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210826114459
+wayback_snapshot_url: "http://web.archive.org/web/20210826114459/https://cfi.co/sustainability/2021/08/deloitte-constructing-a-sustainable-future-in-the-middle-east/"
 content_sha256: 85d952cd3dc815d0b7b9b8f15d716721359be24509b66075db762d2d0c25ba9f
 canonical: 20512-deloitte-constructing-a-sustainable-future-in-the-middle-east.json
 ---
