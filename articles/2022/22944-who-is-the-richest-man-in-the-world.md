@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928183822
+wayback_snapshot_url: "http://web.archive.org/web/20220928183822/https://cfi.co/finance-people/2022/08/who-is-the-richest-man-in-the-world/"
 content_sha256: ca1d4634061fa96556c21e7ade62d00edad0ba3a564fff3922c2d1128144dc03
 canonical: 22944-who-is-the-richest-man-in-the-world.json
 ---
