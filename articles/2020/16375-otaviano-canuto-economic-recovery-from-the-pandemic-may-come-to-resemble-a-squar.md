@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200727083913
+wayback_snapshot_url: "http://web.archive.org/web/20200727083913/https://cfi.co/northamerica/2020/07/otaviano-canuto-economic-recovery-from-the-pandemic-may-come-to-resemble-a-square-root/"
 content_sha256: 3c78428f20b9ae035fea693958e730047ce63e4dab49e71863872b09423b008c
 canonical: 16375-otaviano-canuto-economic-recovery-from-the-pandemic-may-come-to-resemble-a-squar.json
 ---
