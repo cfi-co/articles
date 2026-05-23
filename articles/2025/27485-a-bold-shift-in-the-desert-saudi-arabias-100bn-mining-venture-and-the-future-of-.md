@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250116174520
+wayback_snapshot_url: "http://web.archive.org/web/20250116174520/https://cfi.co/oil-and-mining/2025/01/a-bold-shift-in-the-desert-saudi-arabias-100bn-mining-venture-and-the-future-of-battery-metals/"
 content_sha256: 0153e8cfa5be4f34b17eec3dd46361a5ad2328436ce29e808a42e0cf859595d5
 canonical: 27485-a-bold-shift-in-the-desert-saudi-arabias-100bn-mining-venture-and-the-future-of-.json
 ---
