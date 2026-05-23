@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720040125
+wayback_snapshot_url: "http://web.archive.org/web/20190720040125/https://cfi.co/technology/2018/08/regtech-to-the-rescue/"
 content_sha256: 68504df2fb33a3cec6813d4bd665eac3f305b48ff7c3d5d29ce01fc2e52f3f20
 canonical: 12867-regtech-to-the-rescue.json
 ---
