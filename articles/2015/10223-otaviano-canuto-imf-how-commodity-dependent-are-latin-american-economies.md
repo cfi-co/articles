@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: ed939db072bd4d19cec3e2e0e8a7b2be73a001dbb6acd18db2abaa67d6531ab6
 canonical: 10223-otaviano-canuto-imf-how-commodity-dependent-are-latin-american-economies.json
 ---
