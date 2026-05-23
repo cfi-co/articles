@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916085803
+wayback_snapshot_url: "http://web.archive.org/web/20190916085803/https://cfi.co/africa/2015/01/world-economic-forum-chile-and-colombia-best-in-entrepreneurial-vitality/"
 content_sha256: 1b0ad73169984c22394428f9401f749085a9d07ab9bfe51bac9719ef6d848c8d
 canonical: 8696-world-economic-forum-chile-and-colombia-best-in-entrepreneurial-vitality.json
 ---
