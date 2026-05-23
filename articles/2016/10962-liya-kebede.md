@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170926165644
+wayback_snapshot_url: "http://web.archive.org/web/20170926165644/http://cfi.co/editors-picks/2016/02/liya-kebede/"
 content_sha256: 0c71813832b34bb6bc71f133ffc26eb347166398d80674375ca6f8aa61570973
 canonical: 10962-liya-kebede.json
 ---
