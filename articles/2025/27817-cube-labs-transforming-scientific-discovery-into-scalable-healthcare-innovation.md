@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250901132307
+wayback_snapshot_url: "http://web.archive.org/web/20250901132307/https://cfi.co/europe/2025/09/cube-labs-transforming-scientific-discovery-into-scalable-healthcare-innovation/"
 content_sha256: 5041421484808cf776d060f67511f66925c3c7657ab17aafd5d7fd73d5386ede
 canonical: 27817-cube-labs-transforming-scientific-discovery-into-scalable-healthcare-innovation.json
 ---
