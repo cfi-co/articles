@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170920234530
+wayback_snapshot_url: "http://web.archive.org/web/20170920234530/http://cfi.co/europe/2016/03/ross-jackson-stemming-flow-refugees-holistic-approach/"
 content_sha256: 23dbff06fdf1e18d1137c15247825fb2384e466894726f079e4bd144b46f7d57
 canonical: 11055-ross-jackson-stemming-flow-refugees-holistic-approach.json
 ---
