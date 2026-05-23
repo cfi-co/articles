@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180705212444
+wayback_snapshot_url: "http://web.archive.org/web/20180705212444/http://cfi.co/banking/2015/01/greece-the-primacy-of-politics-to-provide-a-solution/"
 content_sha256: ad1d9ad4118a4290c7f585ed328b41bb0ebd9000fa5ce18e93c7e4e970f10c28
 canonical: 8819-greece-the-primacy-of-politics-to-provide-a-solution.json
 ---
