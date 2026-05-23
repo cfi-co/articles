@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190721112316
+wayback_snapshot_url: "http://web.archive.org/web/20190721112316/https://cfi.co/banking/2014/07/cfi-co-meets-the-ceo-of-banco-del-pais-maria-del-rosario-selman-housein/"
 content_sha256: 8e533f5a640d4f6cf40683d6fa3edd6a172be42c7570795a53ae608b3aa1ed78
 canonical: 7904-cfi-co-meets-the-ceo-of-banco-del-pais-maria-del-rosario-selman-housein.json
 ---
