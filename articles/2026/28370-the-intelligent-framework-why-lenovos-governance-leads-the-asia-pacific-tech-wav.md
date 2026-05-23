@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 10bfb8f2944dda714038a12022355a1871fcfc9f9a5f0dba45c5e1648110e9b7
 canonical: 28370-the-intelligent-framework-why-lenovos-governance-leads-the-asia-pacific-tech-wav.json
 ---
