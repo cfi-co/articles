@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240623222032
+wayback_snapshot_url: "http://web.archive.org/web/20240623222032/https://cfi.co/middleeast/2024/06/the-role-of-the-chief-artificial-intelligence-officer-caio/"
 content_sha256: 4e14834746715c981128144e01c87a00956fc0a3fb6d1b1c8520be1cdc8e0c2f
 canonical: 26834-the-role-of-the-chief-artificial-intelligence-officer-caio.json
 ---
