@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050315
+wayback_snapshot_url: "http://web.archive.org/web/20190818050315/https://cfi.co/editors-picks/2019/01/bill-mitchell-saving-capitalism-from-itself/"
 content_sha256: 0e3ede4b6ba0e72b144f6dc7b7aba71620e7ca829c5ceb6aec0f20c557cd787f
 canonical: 13363-bill-mitchell-saving-capitalism-from-itself.json
 ---
