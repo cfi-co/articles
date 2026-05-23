@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625225444
+wayback_snapshot_url: "http://web.archive.org/web/20220625225444/https://cfi.co/menu/corporate/2021/05/convergence-partners-executive-chairman-andile-ngcaba-tech-is-at-the-heart-of-things-for-this-believer-in-the-power-and-potential-of-the-internet/"
 content_sha256: 0fce0f20f1cfaf574b1a39a780e85092050cd51c91970bbf7ab6831a6b978f77
 canonical: 19635-convergence-partners-executive-chairman-andile-ngcaba-tech-is-at-the-heart-of-th.json
 ---
