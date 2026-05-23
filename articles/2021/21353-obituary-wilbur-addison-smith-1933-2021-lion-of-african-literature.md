@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211215071356
+wayback_snapshot_url: "http://web.archive.org/web/20211215071356/https://cfi.co/editors-picks/2021/12/obituary-wilbur-addison-smith-1933-2021-lion-of-african-literature/"
 content_sha256: 9d2e0617f5f41beb39eeb53300befebe90d30befb8da4f8189a9ba5923eab6ff
 canonical: 21353-obituary-wilbur-addison-smith-1933-2021-lion-of-african-literature.json
 ---
