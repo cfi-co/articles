@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818134758
+wayback_snapshot_url: "http://web.archive.org/web/20190818134758/https://cfi.co/europe/2014/01/cfi-co-meets-the-chairman-of-ezentis-manuel-garcia-duran/"
 content_sha256: aacc7826199674c5a2c42e3bfafa9fbdecadc5f38c6d06d018cb87f370a9d8f3
 canonical: 7258-cfi-co-meets-the-chairman-of-ezentis-manuel-garcia-duran.json
 ---
