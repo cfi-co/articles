@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140328144638
+wayback_snapshot_url: "http://web.archive.org/web/20140328144638/http://cfi.co/banking/2013/10/andre-esteves-no-limit-to-ambition-looking-to-dominate-the-world/"
 content_sha256: fa76809102a1987270f2298a80470002a5bdff6b0b7533d4d1f8d7b2118d0782
 canonical: 5563-andre-esteves-no-limit-to-ambition-looking-to-dominate-the-world.json
 ---
