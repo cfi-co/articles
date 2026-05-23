@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916044222
+wayback_snapshot_url: "http://web.archive.org/web/20190916044222/https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-of-touch-bank-andrei-kozliar/"
 content_sha256: cda5ab99b7a58dc3e412df925271a270f0b49bf3fa17f0f3d1b57592b0097a29
 canonical: 11780-cfi-co-meets-the-ceo-of-touch-bank-andrei-kozliar.json
 ---
