@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813165218
+wayback_snapshot_url: "http://web.archive.org/web/20200813165218/https://cfi.co/corporate-leaders/2018/07/cfi-co-meets-the-ceo-of-ghana-investment-promotion-centre-yofi-grant/"
 content_sha256: 293d80585f96e0d440b388d00a0645e4dd54fac614fbad330a474aaa790e90d9
 canonical: 12939-cfi-co-meets-the-ceo-of-ghana-investment-promotion-centre-yofi-grant.json
 ---
