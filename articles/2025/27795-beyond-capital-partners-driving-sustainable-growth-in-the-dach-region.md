@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250720064347
+wayback_snapshot_url: "http://web.archive.org/web/20250720064347/https://cfi.co/finance/2025/07/beyond-capital-partners-driving-sustainable-growth-in-the-dach-region/"
 content_sha256: 56757e14433209573061bba205442f1ef809001d404115905b97af8ba4d1993a
 canonical: 27795-beyond-capital-partners-driving-sustainable-growth-in-the-dach-region.json
 ---
