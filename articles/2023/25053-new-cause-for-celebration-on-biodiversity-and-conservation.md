@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230519055451
+wayback_snapshot_url: "http://web.archive.org/web/20230519055451/https://cfi.co/sustainability/2023/03/new-cause-for-celebration-on-biodiversity-and-conservation/"
 content_sha256: c559bb3601ead6ccfe2d3074952bd7d3877f4a965ea80bd0f58457b6866816ad
 canonical: 25053-new-cause-for-celebration-on-biodiversity-and-conservation.json
 ---
