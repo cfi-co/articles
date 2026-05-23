@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200626113921
+wayback_snapshot_url: "http://web.archive.org/web/20200626113921/https://cfi.co/editors-picks/2018/02/peter-sloterdijk-shaping-a-multipolar-national-debate/"
 content_sha256: bf39f92bd41420f7915643e9186e347c4296c7ed6e7a792e7e682b1ca4887fba
 canonical: 12507-peter-sloterdijk-shaping-a-multipolar-national-debate.json
 ---
