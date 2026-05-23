@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200918071447
+wayback_snapshot_url: "http://web.archive.org/web/20200918071447/https://cfi.co/editors-picks/2017/09/guy-verhofstadt/"
 content_sha256: 2412493cb2af02cbca18c902e546b0fb74ee356deff75763f27af00b694f936d
 canonical: 11976-guy-verhofstadt.json
 ---
