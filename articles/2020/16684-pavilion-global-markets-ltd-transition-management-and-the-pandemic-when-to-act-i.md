@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200919185512
+wayback_snapshot_url: "http://web.archive.org/web/20200919185512/https://cfi.co/menu/corporate/2020/08/pavilion-global-markets-ltd-transition-management-and-the-pandemic-when-to-act-in-periods-of-higher-market-volatility/"
 content_sha256: 4f5f874dc2cec6ebccac94dfc11d7d7ce9eab2ca70259f17b2b715c8d429e494
 canonical: 16684-pavilion-global-markets-ltd-transition-management-and-the-pandemic-when-to-act-i.json
 ---
