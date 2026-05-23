@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: a464f2cb81a7ca782817eb56e71d45b7940b8f419d949da2f6599e8ba7d27b96
 canonical: 28376-the-perfect-storm-in-energy-infrastructure-high-density-hydro-cost-deflation-and.json
 ---
