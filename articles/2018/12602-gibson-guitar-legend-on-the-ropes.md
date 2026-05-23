@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825101749
+wayback_snapshot_url: "http://web.archive.org/web/20190825101749/https://cfi.co/menu/lifestyle-menu/2018/05/gibson-guitar-legend-on-the-ropes/"
 content_sha256: fc7306fc22ea423cca406fb146174fa73bf5b87f69f531eaccf3128a740e40cb
 canonical: 12602-gibson-guitar-legend-on-the-ropes.json
 ---
