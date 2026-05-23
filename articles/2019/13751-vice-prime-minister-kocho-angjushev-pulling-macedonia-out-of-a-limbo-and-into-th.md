@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190725003542
+wayback_snapshot_url: "http://web.archive.org/web/20190725003542/https://cfi.co/europe/2019/07/vice-prime-minister-kocho-angjushev-pulling-macedonia-out-of-a-limbo-and-into-the-european-union/"
 content_sha256: bb31feaa715c61841d295c1531e16f4e9c5f7ee0d3a12a93d3b7387a549c4216
 canonical: 13751-vice-prime-minister-kocho-angjushev-pulling-macedonia-out-of-a-limbo-and-into-th.json
 ---
