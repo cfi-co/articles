@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230323020857
+wayback_snapshot_url: "http://web.archive.org/web/20230323020857/https://cfi.co/menu/corporate/2022/04/societe-generale-congo-innovation-in-congo-puts-societe-generale-in-leadership-position/"
 content_sha256: 4edd69e9eddfc45e1505d1d57c969d2ca65e7d01ec1824aa92e2f4a1a3806635
 canonical: 23356-societe-generale-congo-innovation-in-congo-puts-societe-generale-in-leadership-p.json
 ---
