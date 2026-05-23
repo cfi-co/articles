@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190820143327
+wayback_snapshot_url: "http://web.archive.org/web/20190820143327/https://cfi.co/finance/2015/07/adel-s-al-ghamdi-saudi-stock-exchange-opts-for-quality/"
 content_sha256: 08478e4f682e25c7879481aa454799315e6187b40baff7757b3fc759f70ddd92
 canonical: 10160-adel-s-al-ghamdi-saudi-stock-exchange-opts-for-quality.json
 ---
