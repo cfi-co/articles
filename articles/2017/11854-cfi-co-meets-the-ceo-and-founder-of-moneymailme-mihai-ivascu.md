@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916085731
+wayback_snapshot_url: "http://web.archive.org/web/20190916085731/https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-ceo-and-founder-of-moneymailme-mihai-ivascu/"
 content_sha256: 087143af7978b420e4d1cb906e69cb69fe05cf13e51568495a1419c3dc6ef370
 canonical: 11854-cfi-co-meets-the-ceo-and-founder-of-moneymailme-mihai-ivascu.json
 ---
