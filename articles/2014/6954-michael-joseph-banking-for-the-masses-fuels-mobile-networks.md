@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 85cfff5d2aa3b01021dd7d662afe734761f26537205df163ca2763d8609756b9
 canonical: 6954-michael-joseph-banking-for-the-masses-fuels-mobile-networks.json
 ---
