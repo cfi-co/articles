@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241112192316
+wayback_snapshot_url: "http://web.archive.org/web/20241112192316/https://cfi.co/northamerica/2024/10/the-future-of-north-america-navigating-knowns-and-unknowns/"
 content_sha256: 727f6764f933b191469da3ea103e83deb8643964c9476d89195fc38fc565eaaf
 canonical: 27198-the-future-of-north-america-navigating-knowns-and-unknowns.json
 ---
