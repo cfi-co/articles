@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050224
+wayback_snapshot_url: "http://web.archive.org/web/20190823050224/https://cfi.co/finance/2013/04/the-imf-on-low-income-country-bounce-backs/"
 content_sha256: 937375daa7261820a0b7456e6ba9144188449d344bf59257e973590dd110be0b
 canonical: 3624-the-imf-on-low-income-country-bounce-backs.json
 ---
