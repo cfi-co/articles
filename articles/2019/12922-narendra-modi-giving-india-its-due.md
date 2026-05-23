@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825101406
+wayback_snapshot_url: "http://web.archive.org/web/20190825101406/https://cfi.co/asia-pacific/2019/05/narendra-modi-giving-india-its-due/"
 content_sha256: a4074b2e0e5be06140f7f1f7fac595b94f3e62340c5d0f1d14ad91be7bb0e4b3
 canonical: 12922-narendra-modi-giving-india-its-due.json
 ---
