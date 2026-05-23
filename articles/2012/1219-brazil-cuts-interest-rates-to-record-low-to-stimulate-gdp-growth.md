@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190820141247
+wayback_snapshot_url: "http://web.archive.org/web/20190820141247/https://cfi.co/banking/2012/07/brazil-cuts-interest-rates-to-record-low-to-stimulate-gdp-growth/"
 content_sha256: 44511bb36f41a9474ceb48438542b4e00fa80284f70e97874856c233e1fff5b4
 canonical: 1219-brazil-cuts-interest-rates-to-record-low-to-stimulate-gdp-growth.json
 ---
