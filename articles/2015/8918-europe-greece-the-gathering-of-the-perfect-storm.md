@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190716163953
+wayback_snapshot_url: "http://web.archive.org/web/20190716163953/https://cfi.co/europe/2015/02/europe-greece-the-gathering-of-the-perfect-storm/"
 content_sha256: 119f550f410a456f248c180df1cbceec274bbea07860aa87196809d95cf175bc
 canonical: 8918-europe-greece-the-gathering-of-the-perfect-storm.json
 ---
