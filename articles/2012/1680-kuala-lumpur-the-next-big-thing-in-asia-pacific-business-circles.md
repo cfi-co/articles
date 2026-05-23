@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818053002
+wayback_snapshot_url: "http://web.archive.org/web/20190818053002/https://cfi.co/asia-pacific/2012/08/kuala-lumpur-the-next-big-thing-in-asia-pacific-business-circles/"
 content_sha256: 37d12e48719b8b199b0c18326398c4a9ae40efd3a4485d115b9cf2b3239be82a
 canonical: 1680-kuala-lumpur-the-next-big-thing-in-asia-pacific-business-circles.json
 ---
