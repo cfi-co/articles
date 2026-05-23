@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191014233600
+wayback_snapshot_url: "http://web.archive.org/web/20191014233600/https://cfi.co/europe/2013/08/reef-of-contention-spain-talks-tough-on-gibraltar/"
 content_sha256: 2a3392915654b61f51443656906f4771b91e4ab4564fd38409a562e63976d83c
 canonical: 4880-reef-of-contention-spain-talks-tough-on-gibraltar.json
 ---
