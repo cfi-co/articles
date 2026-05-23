@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724031827
+wayback_snapshot_url: "http://web.archive.org/web/20190724031827/https://cfi.co/asia-pacific/2013/10/shazia-bashir-reaching-out-with-integrity-banking-on-society/"
 content_sha256: 9186d36007169951a483f59e697837692601f76e480735438c7383492da12c23
 canonical: 5619-shazia-bashir-reaching-out-with-integrity-banking-on-society.json
 ---
