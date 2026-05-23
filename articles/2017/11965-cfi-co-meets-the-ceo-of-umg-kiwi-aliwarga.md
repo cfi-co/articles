@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180417022211
+wayback_snapshot_url: "http://web.archive.org/web/20180417022211/http://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-ceo-of-umg-kiwi-aliwarga/"
 content_sha256: 468eca09a84bc5aaa5c5df62cd838e1200d4041b47ad3ae6d2f55bd2e4af7162
 canonical: 11965-cfi-co-meets-the-ceo-of-umg-kiwi-aliwarga.json
 ---
