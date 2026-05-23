@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200920104535
+wayback_snapshot_url: "http://web.archive.org/web/20200920104535/https://cfi.co/asia-pacific/2020/08/asian-development-bank-urban-transport-can-rebuild-to-create-a-greener-future/"
 content_sha256: d1b71ab7948edd40319e4050308a38bdf3630b6446487bc2abd0a896023ef01c
 canonical: 16462-asian-development-bank-urban-transport-can-rebuild-to-create-a-greener-future.json
 ---
