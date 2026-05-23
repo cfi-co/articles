@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180209205247
+wayback_snapshot_url: "http://web.archive.org/web/20180209205247/http://cfi.co/africa/2014/10/world-bank-group-can-resource-financed-infrastructure-fix-the-natural-resource-curse/"
 content_sha256: 3d9668ae6f07bc38783e1a311ba4079428112575339ba3a0b1b13b41d4e36e68
 canonical: 8187-world-bank-group-can-resource-financed-infrastructure-fix-the-natural-resource-c.json
 ---
