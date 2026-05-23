@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826130255
+wayback_snapshot_url: "http://web.archive.org/web/20140826130255/http://cfi.co/africa/2014/03/volume-of-investments-boosting-the-real-estate-sector-reflected-at-largest-ever-edition-of-cityscape-egypt/"
 content_sha256: ee405c8360d253d40a7bbfd23095ab4f0b61f00ee3135d0183144b4956cf6c5e
 canonical: 6872-volume-of-investments-boosting-the-real-estate-sector-reflected-at-largest-ever-.json
 ---
