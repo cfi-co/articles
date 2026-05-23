@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720182312
+wayback_snapshot_url: "http://web.archive.org/web/20190720182312/https://cfi.co/asia-pacific/2013/05/vladimir-putin-talks-about-brics/"
 content_sha256: 896bcb1e648c4aedb302aa8bd9090d9506f747a5e669a9091dbebb342c5f9909
 canonical: 3904-vladimir-putin-talks-about-brics.json
 ---
