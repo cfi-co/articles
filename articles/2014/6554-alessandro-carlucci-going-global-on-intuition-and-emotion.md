@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140209011327
+wayback_snapshot_url: "http://web.archive.org/web/20140209011327/http://cfi.co/latinamerica/2014/02/alessandro-carlucci-going-global-on-intuition-and-emotion/"
 content_sha256: adbbbc9690a8d759aa86b554a7b7e2f3e76e596f4a8a8f8974375e08e68f238f
 canonical: 6554-alessandro-carlucci-going-global-on-intuition-and-emotion.json
 ---
