@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190721111008
+wayback_snapshot_url: "http://web.archive.org/web/20190721111008/https://cfi.co/europe/2013/06/cbi-position-on-the-g8-tax-agenda/"
 content_sha256: 87f8c734478575ebfbed42af7ac95b617fffeb13308f15793aba3f1b7a07b029
 canonical: 4383-cbi-position-on-the-g8-tax-agenda.json
 ---
