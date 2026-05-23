@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170921234210
+wayback_snapshot_url: "http://web.archive.org/web/20170921234210/http://cfi.co/finance/2015/10/book-review-squeezing-cash-out-of-milliseconds/"
 content_sha256: 992d4e8cc202a5a35756886bb280b5cf59365e41d97cf68278fb0ceeee297dbd
 canonical: 10572-book-review-squeezing-cash-out-of-milliseconds.json
 ---
