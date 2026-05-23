@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190820141921
+wayback_snapshot_url: "http://web.archive.org/web/20190820141921/https://cfi.co/europe/2012/06/the-euro-crisis-should-distract-on-rio20-agreement/"
 content_sha256: 7f3c4a8636d2986ee50b855dd821deee9e641c5b04dd0c164f66de77ff911baf
 canonical: 713-the-euro-crisis-should-distract-on-rio20-agreement.json
 ---
