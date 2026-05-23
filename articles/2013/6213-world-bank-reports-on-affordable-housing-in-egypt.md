@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327083321
+wayback_snapshot_url: "http://web.archive.org/web/20140327083321/http://cfi.co/finance/2013/12/world-bank-reports-on-affordable-housing-in-egypt/"
 content_sha256: 17507effcb9bdc38ffea45a5361dad1f5f61e346f07bcc2d092abbeb87dd014d
 canonical: 6213-world-bank-reports-on-affordable-housing-in-egypt.json
 ---
