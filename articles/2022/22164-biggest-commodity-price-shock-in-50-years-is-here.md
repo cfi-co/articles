@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220601052958
+wayback_snapshot_url: "http://web.archive.org/web/20220601052958/https://cfi.co/menu/markets/2022/06/biggest-commodity-price-shock-in-50-years-is-here/"
 content_sha256: bb433d66f405bb0bba8834a55d38df44a0324a6ec1c5d1cf76ca79a9365861d8
 canonical: 22164-biggest-commodity-price-shock-in-50-years-is-here.json
 ---
