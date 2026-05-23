@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231206173835
+wayback_snapshot_url: "http://web.archive.org/web/20231206173835/https://cfi.co/europe/2023/11/oliver-platsch-and-andreas-grassl-renaio-assets/"
 content_sha256: 7094fe7dff8032c6632032e4b30c7d1e87bc58c9225ac2d001066133003ed2bd
 canonical: 26419-oliver-platsch-and-andreas-grassl-renaio-assets.json
 ---
