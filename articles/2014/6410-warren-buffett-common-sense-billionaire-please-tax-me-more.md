@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140209004305
+wayback_snapshot_url: "http://web.archive.org/web/20140209004305/http://cfi.co/northamerica/2014/01/warren-buffett-common-sense-billionaire-please-tax-me-more/"
 content_sha256: 6d65b5ac0ef5d69e67c0c7001c443aa7a06168a193715d090d29d1bc42b703a9
 canonical: 6410-warren-buffett-common-sense-billionaire-please-tax-me-more.json
 ---
