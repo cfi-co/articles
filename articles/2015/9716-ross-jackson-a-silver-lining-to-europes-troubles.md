@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20171209052051
+wayback_snapshot_url: "http://web.archive.org/web/20171209052051/http://cfi.co/europe/2015/05/ross-jackson-a-silver-lining-to-europes-troubles/"
 content_sha256: 4b5b418702fe99a72adc71e02cf192d6182a1b4a475bf786507471640565910a
 canonical: 9716-ross-jackson-a-silver-lining-to-europes-troubles.json
 ---
