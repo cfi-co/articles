@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724090518
+wayback_snapshot_url: "http://web.archive.org/web/20190724090518/https://cfi.co/asia-pacific/2018/06/ifc-on-climate-smart-investment-a-gateway-for-green-growth-in-south-asia/"
 content_sha256: 7120537724ebd36d84bf093550101bfec6875ec57e92622c00fa6cd50ab36a72
 canonical: 12639-ifc-on-climate-smart-investment-a-gateway-for-green-growth-in-south-asia.json
 ---
