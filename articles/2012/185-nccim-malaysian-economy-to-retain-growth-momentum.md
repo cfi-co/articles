@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132202
+wayback_snapshot_url: "http://web.archive.org/web/20190818132202/https://cfi.co/asia-pacific/2012/02/nccim-malaysian-economy-to-retain-growth-momentum/"
 content_sha256: 1a501709babf2416e8114f9556346ca093229feadbd0eac27ead28483a70addb
 canonical: 185-nccim-malaysian-economy-to-retain-growth-momentum.json
 ---
