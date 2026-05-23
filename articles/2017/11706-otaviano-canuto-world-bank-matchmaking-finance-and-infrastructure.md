@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20171026011834
+wayback_snapshot_url: "http://web.archive.org/web/20171026011834/http://cfi.co/finance/2017/07/otaviano-canuto-world-bank-matchmaking-finance-and-infrastructure/"
 content_sha256: e7b75c7ace985f6b68446503db8e2c63d24f959aba20fb0d42725f86fe65577b
 canonical: 11706-otaviano-canuto-world-bank-matchmaking-finance-and-infrastructure.json
 ---
