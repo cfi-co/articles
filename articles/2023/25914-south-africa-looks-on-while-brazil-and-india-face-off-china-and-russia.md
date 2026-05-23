@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230823105240
+wayback_snapshot_url: "http://web.archive.org/web/20230823105240/https://cfi.co/brave-new-world/2023/08/south-africa-looks-on-while-brazil-and-india-face-off-china-and-russia/"
 content_sha256: 164d44b8e32b6a748c549ea7c4dc6c87be0b585f9da89a45d53334c24cc8f324
 canonical: 25914-south-africa-looks-on-while-brazil-and-india-face-off-china-and-russia.json
 ---
