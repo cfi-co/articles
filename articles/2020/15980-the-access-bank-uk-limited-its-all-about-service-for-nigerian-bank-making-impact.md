@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200919031535
+wayback_snapshot_url: "http://web.archive.org/web/20200919031535/https://cfi.co/banking/2020/05/the-access-bank-uk-limited-its-all-about-service-for-nigerian-bank-making-impact-on-the-world/"
 content_sha256: c1a08de51bc012628fa3b285787d2eac0d6552aa6c9abab95b5493c78e96c34f
 canonical: 15980-the-access-bank-uk-limited-its-all-about-service-for-nigerian-bank-making-impact.json
 ---
