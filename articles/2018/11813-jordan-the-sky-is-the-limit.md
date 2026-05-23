@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723012554
+wayback_snapshot_url: "http://web.archive.org/web/20190723012554/https://cfi.co/finance/2018/09/jordan-the-sky-is-the-limit/"
 content_sha256: 4b72e24994d58aaf4ef5de7bfb0dbfa3d878b7e2a3a90f8dd301262a672dfe4e
 canonical: 11813-jordan-the-sky-is-the-limit.json
 ---
