@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200919223602
+wayback_snapshot_url: "http://web.archive.org/web/20200919223602/https://cfi.co/menu/corporate/2020/08/bermuda-stock-exchange-bsx-electronic-exchange-takes-an-island-to-leading-status-for-global-listings/"
 content_sha256: daf6f6531fa71033fb85da530c779dd906f51d230e625d3266a13a7b948c791d
 canonical: 16711-bermuda-stock-exchange-bsx-electronic-exchange-takes-an-island-to-leading-status.json
 ---
