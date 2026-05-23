@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20171106233200
+wayback_snapshot_url: "http://web.archive.org/web/20171106233200/http://cfi.co/europe/2017/11/sanctions-the-united-kingdom-acts/"
 content_sha256: 337d7f8d2c566d62e48cd5b7f3707d199ea65d4ca62f639c09c919a079ac37a9
 canonical: 12150-sanctions-the-united-kingdom-acts.json
 ---
