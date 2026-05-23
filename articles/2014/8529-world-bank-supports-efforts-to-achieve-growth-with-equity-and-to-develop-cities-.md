@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191014231438
+wayback_snapshot_url: "http://web.archive.org/web/20191014231438/https://cfi.co/finance/2014/12/world-bank-supports-efforts-to-achieve-growth-with-equity-and-to-develop-cities-in-colombia/"
 content_sha256: 2b2945bb04ea572af4221dd68723363f72fad94c6f41bd11c446e6b104fb297b
 canonical: 8529-world-bank-supports-efforts-to-achieve-growth-with-equity-and-to-develop-cities-.json
 ---
