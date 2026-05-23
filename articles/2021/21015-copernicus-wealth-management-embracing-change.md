@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220119081821
+wayback_snapshot_url: "http://web.archive.org/web/20220119081821/https://cfi.co/menu/corporate/2021/11/copernicus-wealth-management-embracing-change/"
 content_sha256: 82cfc75a514478c5712b09a7e429d3c9b9c58ed200f1b1eb814d2f76a9bb9981
 canonical: 21015-copernicus-wealth-management-embracing-change.json
 ---
