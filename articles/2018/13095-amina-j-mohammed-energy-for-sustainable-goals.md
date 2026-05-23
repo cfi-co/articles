@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720031838
+wayback_snapshot_url: "http://web.archive.org/web/20190720031838/https://cfi.co/wif2018/2018/10/amina-j-mohammed-energy-for-sustainable-goals/"
 content_sha256: 137cafed1e3b3ec5aa7083d79c136314c6235cee6f31b7eddcfdfef45e59d085
 canonical: 13095-amina-j-mohammed-energy-for-sustainable-goals.json
 ---
