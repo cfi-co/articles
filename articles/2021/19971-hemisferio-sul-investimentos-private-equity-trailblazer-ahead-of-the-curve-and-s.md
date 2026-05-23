@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920110047
+wayback_snapshot_url: "http://web.archive.org/web/20210920110047/https://cfi.co/menu/corporate/2021/07/hemisferio-sul-investimentos-private-equity-trailblazer-ahead-of-the-curve-and-still-gunning-for-gold/"
 content_sha256: e2db570d54e0c890bd326c5fc8bb8f44aa47f4a4ee16e8216590a12b7479f66a
 canonical: 19971-hemisferio-sul-investimentos-private-equity-trailblazer-ahead-of-the-curve-and-s.json
 ---
