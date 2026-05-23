@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20171004125639
+wayback_snapshot_url: "http://web.archive.org/web/20171004125639/http://cfi.co/europe/2015/09/unctad-investment-and-enterprise-division-an-investment-perspective-on-international-taxation/"
 content_sha256: 8e0643e5dbde195d3c3a864f0996aca756d51735d41f1d88e82cd7efb12ce657
 canonical: 10426-unctad-investment-and-enterprise-division-an-investment-perspective-on-internati.json
 ---
