@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240605140545
+wayback_snapshot_url: "http://web.archive.org/web/20240605140545/https://cfi.co/asia-pacific/2024/06/chinas-economic-growth-is-on-target-despite-challenges/"
 content_sha256: 0e5156ed89bfc625d8096a16e964b843d2a69ddce1d35abb8b0f68da2986e392
 canonical: 26837-chinas-economic-growth-is-on-target-despite-challenges.json
 ---
