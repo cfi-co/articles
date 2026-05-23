@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200921131409
+wayback_snapshot_url: "http://web.archive.org/web/20200921131409/https://cfi.co/c-19/2020/04/turbulence-in-african-skies/"
 content_sha256: 5e9dcb9145d9325f6aea501c0991c3dd8f3889884a5804fcd3d2a97b967fac7e
 canonical: 15037-turbulence-in-african-skies.json
 ---
