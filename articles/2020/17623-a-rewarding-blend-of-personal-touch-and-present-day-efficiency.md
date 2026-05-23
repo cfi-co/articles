@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201120180107
+wayback_snapshot_url: "http://web.archive.org/web/20201120180107/https://cfi.co/menu/corporate/2020/10/a-rewarding-blend-of-personal-touch-and-present-day-efficiency/"
 content_sha256: c86caa827824fe7d80443c226d41f524af11bc4d59fa59a9fd16de5997123c23
 canonical: 17623-a-rewarding-blend-of-personal-touch-and-present-day-efficiency.json
 ---
