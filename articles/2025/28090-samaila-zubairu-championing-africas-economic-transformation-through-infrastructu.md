@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251206000456
+wayback_snapshot_url: "http://web.archive.org/web/20251206000456/https://cfi.co/africa/2025/11/samaila-zubairu-championing-africas-economic-transformation-through-infrastructure-investment/"
 content_sha256: 6f4de1b0ece3ae307e1213f6e91f9e6342892514d80acafb5ca7c1309f7e5619
 canonical: 28090-samaila-zubairu-championing-africas-economic-transformation-through-infrastructu.json
 ---
