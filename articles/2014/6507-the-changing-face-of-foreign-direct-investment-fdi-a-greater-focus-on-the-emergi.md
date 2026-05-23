@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140209021716
+wayback_snapshot_url: "http://web.archive.org/web/20140209021716/http://cfi.co/finance/2014/02/the-changing-face-of-foreign-direct-investment-fdi-a-greater-focus-on-the-emerging-markets/"
 content_sha256: ac800ccb8a896cc2d540badf51105b8edd09d9ee26ef8ded380fb6933183a53f
 canonical: 6507-the-changing-face-of-foreign-direct-investment-fdi-a-greater-focus-on-the-emergi.json
 ---
