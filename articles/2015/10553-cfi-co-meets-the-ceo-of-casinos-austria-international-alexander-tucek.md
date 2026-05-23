@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724024516
+wayback_snapshot_url: "http://web.archive.org/web/20190724024516/https://cfi.co/corporate-leaders/2015/08/cfi-co-meets-the-ceo-of-casinos-austria-international-alexander-tucek/"
 content_sha256: 6689430929897ed7049fdfac3843ececec9eedea886b34316b4291174a78e464
 canonical: 10553-cfi-co-meets-the-ceo-of-casinos-austria-international-alexander-tucek.json
 ---
