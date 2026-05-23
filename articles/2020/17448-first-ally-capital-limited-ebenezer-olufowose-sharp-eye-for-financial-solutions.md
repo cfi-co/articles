@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230330015249
+wayback_snapshot_url: "http://web.archive.org/web/20230330015249/https://cfi.co/menu/corporate/2020/01/first-ally-capital-limited-ebenezer-olufowose-sharp-eye-for-financial-solutions/"
 content_sha256: bd8a3d38efe2bdaa5689f47d19e2aef63374e8194002835d7627ad22e72964e4
 canonical: 17448-first-ally-capital-limited-ebenezer-olufowose-sharp-eye-for-financial-solutions.json
 ---
