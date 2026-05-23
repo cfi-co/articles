@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826173648
+wayback_snapshot_url: "http://web.archive.org/web/20140826173648/http://cfi.co/middleeast/2013/07/military-takeover-in-egypt-un-appeals-for-restraint/"
 content_sha256: 2d11d6144a3c630415b159795da352330111c69a8857c0d6a46ec56d056f8c97
 canonical: 4520-military-takeover-in-egypt-un-appeals-for-restraint.json
 ---
