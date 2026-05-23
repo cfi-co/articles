@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210226104329
+wayback_snapshot_url: "http://web.archive.org/web/20210226104329/https://cfi.co/oil-and-mining/2016/05/pwc-nigeria-prosperity-beyond-oil/"
 content_sha256: 97b735566bf7b6bf64806e0d15d467340d0abd0a2ab453482db161da6aab0bde
 canonical: 11184-pwc-nigeria-prosperity-beyond-oil.json
 ---
