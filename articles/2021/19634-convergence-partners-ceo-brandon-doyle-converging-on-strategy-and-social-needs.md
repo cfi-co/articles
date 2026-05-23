@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630140022
+wayback_snapshot_url: "http://web.archive.org/web/20220630140022/https://cfi.co/menu/corporate/2021/05/convergence-partners-ceo-brandon-doyle-converging-on-strategy-and-social-needs/"
 content_sha256: d3cbd713997ce3c285fa8b8767621b4fce7db33fc19562b7db260cd86bc502f2
 canonical: 19634-convergence-partners-ceo-brandon-doyle-converging-on-strategy-and-social-needs.json
 ---
