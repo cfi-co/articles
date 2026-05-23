@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211028043031
+wayback_snapshot_url: "http://web.archive.org/web/20211028043031/https://cfi.co/lifestyle/2021/10/where-are-we-going-nowhere-fast-according-to-travel-and-tourism-stats/"
 content_sha256: cbca775d6a0ae5a1f7f5b179b659808b8a5bab5196328fc0c05cf2934488ffdb
 canonical: 20809-where-are-we-going-nowhere-fast-according-to-travel-and-tourism-stats.json
 ---
