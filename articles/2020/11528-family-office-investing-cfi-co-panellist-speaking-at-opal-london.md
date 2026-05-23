@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200414071338
+wayback_snapshot_url: "http://web.archive.org/web/20200414071338/https://cfi.co/menu/events/2020/01/family-office-investing-cfi-co-panellist-speaking-at-opal-london/"
 content_sha256: 5aef566e2aef73ce8258ebe08cd235548e536d4329ff81f0d9ccd442bc240949
 canonical: 11528-family-office-investing-cfi-co-panellist-speaking-at-opal-london.json
 ---
