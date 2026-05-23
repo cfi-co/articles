@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170914065538
+wayback_snapshot_url: "http://web.archive.org/web/20170914065538/http://cfi.co/africa/2015/02/world-bank-group-sovereign-wealth-funds-investing-at-home-opportunity-fraught-with-risk/"
 content_sha256: 266eb0620f87295a60472b08a18df53320b60f347d64895a1397d9b8037f2176
 canonical: 9113-world-bank-group-sovereign-wealth-funds-investing-at-home-opportunity-fraught-wi.json
 ---
