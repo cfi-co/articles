@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132626
+wayback_snapshot_url: "http://web.archive.org/web/20190818132626/https://cfi.co/africa/2015/07/statement-on-world-banks-2-1-billion-support-to-nigeria/"
 content_sha256: 98d14ce4a2cd792fa0382bc932323ced47bff2688218d800b557513e8e71855f
 canonical: 10137-statement-on-world-banks-2-1-billion-support-to-nigeria.json
 ---
