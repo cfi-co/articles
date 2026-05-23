@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250522232823
+wayback_snapshot_url: "http://web.archive.org/web/20250522232823/https://cfi.co/northamerica/2025/05/dough-ing-a-180-how-dominos-pizza-reclaimed-its-slice-of-the-pie/"
 content_sha256: c8e6be1e011e4b38c0ebdb0fbd36f93be5b5648c9949b3f975049152287b404c
 canonical: 27706-dough-ing-a-180-how-dominos-pizza-reclaimed-its-slice-of-the-pie.json
 ---
