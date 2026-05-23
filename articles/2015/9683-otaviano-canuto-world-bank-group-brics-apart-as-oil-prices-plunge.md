@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170929132216
+wayback_snapshot_url: "http://web.archive.org/web/20170929132216/http://cfi.co/africa/2015/04/otaviano-canuto-world-bank-group-brics-apart-as-oil-prices-plunge/"
 content_sha256: d8e7a458edc35de2fa4ffa55ff30df8dc277f9158c73b9357cbe8d6986c708b8
 canonical: 9683-otaviano-canuto-world-bank-group-brics-apart-as-oil-prices-plunge.json
 ---
