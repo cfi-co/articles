@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140827154300
+wayback_snapshot_url: "http://web.archive.org/web/20140827154300/http://cfi.co/editors-picks/2013/03/joyce-banda-showing-solidarity-with-the-people-of-malawi/"
 content_sha256: 8da6708abec08869f3c560c5fda73c8d13b98774dd37204c43555bbf3c8268ba
 canonical: 3201-joyce-banda-showing-solidarity-with-the-people-of-malawi.json
 ---
