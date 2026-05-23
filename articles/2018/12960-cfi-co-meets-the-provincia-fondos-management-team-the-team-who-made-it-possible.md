@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724085914
+wayback_snapshot_url: "http://web.archive.org/web/20190724085914/https://cfi.co/corporate-leaders/2018/09/cfi-co-meets-the-provincia-fondos-management-team-the-team-who-made-it-possible/"
 content_sha256: bbf4eb07bcb81393328a343dd5b29e83e269a5f12128faea801ec56d342db580
 canonical: 12960-cfi-co-meets-the-provincia-fondos-management-team-the-team-who-made-it-possible.json
 ---
