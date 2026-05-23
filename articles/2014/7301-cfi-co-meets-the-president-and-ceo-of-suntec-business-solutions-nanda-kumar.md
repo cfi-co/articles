@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916043305
+wayback_snapshot_url: "http://web.archive.org/web/20190916043305/https://cfi.co/asia-pacific/2014/01/cfi-co-meets-the-president-and-ceo-of-suntec-business-solutions-nanda-kumar/"
 content_sha256: 3b6e717416c5b574169ceaf1791fe600c143cc6bc3f58b743fcd55675feff132
 canonical: 7301-cfi-co-meets-the-president-and-ceo-of-suntec-business-solutions-nanda-kumar.json
 ---
