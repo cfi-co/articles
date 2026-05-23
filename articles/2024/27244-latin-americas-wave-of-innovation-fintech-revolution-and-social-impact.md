@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241106170148
+wayback_snapshot_url: "http://web.archive.org/web/20241106170148/https://cfi.co/latinamerica/2024/11/latin-americas-wave-of-innovation-fintech-revolution-and-social-impact/"
 content_sha256: 1e5d2bd3adbc3594d61a1e7417a9378803baeeca8f2dfc7db608438e8cfb1e64
 canonical: 27244-latin-americas-wave-of-innovation-fintech-revolution-and-social-impact.json
 ---
