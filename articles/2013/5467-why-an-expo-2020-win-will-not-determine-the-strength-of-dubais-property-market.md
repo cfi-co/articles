@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190508191448
+wayback_snapshot_url: "http://web.archive.org/web/20190508191448/https://cfi.co/finance/2013/10/why-an-expo-2020-win-will-not-determine-the-strength-of-dubais-property-market/"
 content_sha256: 0f9020256957d81b617c652b95123d83d5ea2977623883da853fd4baba2a5f2c
 canonical: 5467-why-an-expo-2020-win-will-not-determine-the-strength-of-dubais-property-market.json
 ---
