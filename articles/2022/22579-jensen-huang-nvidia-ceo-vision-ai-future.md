@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220813144717
+wayback_snapshot_url: "http://web.archive.org/web/20220813144717/https://cfi.co/technology/2022/08/jensen-huang-nvidia-ceo-vision-ai-future/"
 content_sha256: 11851d411c13e60aa28d972a2615e068b79637f3ff3ca579fce8049f3e28550e
 canonical: 22579-jensen-huang-nvidia-ceo-vision-ai-future.json
 ---
