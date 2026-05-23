@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240713135318
+wayback_snapshot_url: "http://web.archive.org/web/20240713135318/https://cfi.co/banking/2024/06/investing-in-a-future-that-has-never-seemed-brighter-a-true-pioneer-bank-in-mongolia/"
 content_sha256: 30b1e6b348ee7e26bcc02100a74e6aab7247c53234d4c17f7f6285050c9afba9
 canonical: 26857-investing-in-a-future-that-has-never-seemed-brighter-a-true-pioneer-bank-in-mong.json
 ---
