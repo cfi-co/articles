@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210429150806
+wayback_snapshot_url: "http://web.archive.org/web/20210429150806/https://cfi.co/sustainability/2021/04/asian-development-bank-towards-a-blue-deal-to-restore-the-worlds-oceans/"
 content_sha256: db6865bfa9027d267dd9efa90904a26aadf42c6ea4b02d8e7f9d252365558cbe
 canonical: 19581-asian-development-bank-towards-a-blue-deal-to-restore-the-worlds-oceans.json
 ---
