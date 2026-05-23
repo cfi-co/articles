@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210105142938
+wayback_snapshot_url: "http://web.archive.org/web/20210105142938/https://cfi.co/northamerica/2021/01/uncdf-women-as-builders-of-inclusive-digital-economies/"
 content_sha256: c8d001c24a43617346295c799d227bbf41a5555d2a4f8e38eacd9b3e2959bb92
 canonical: 18400-uncdf-women-as-builders-of-inclusive-digital-economies.json
 ---
