@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923174839
+wayback_snapshot_url: "http://web.archive.org/web/20230923174839/https://cfi.co/finance/2023/07/middle-market-direct-lending/"
 content_sha256: 62522069778b254a17f21331a5598b33dffa9a501e6c6cc1de396889a55d6ec2
 canonical: 25803-middle-market-direct-lending.json
 ---
