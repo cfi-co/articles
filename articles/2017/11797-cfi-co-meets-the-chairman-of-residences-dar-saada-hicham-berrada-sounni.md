@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916044217
+wayback_snapshot_url: "http://web.archive.org/web/20190916044217/https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-chairman-of-residences-dar-saada-hicham-berrada-sounni/"
 content_sha256: 519ee3bc59443411db54c7a99e23c2aa3d9a9feaa9dc27972d839aed5071adb2
 canonical: 11797-cfi-co-meets-the-chairman-of-residences-dar-saada-hicham-berrada-sounni.json
 ---
