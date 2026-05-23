@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220528103458
+wayback_snapshot_url: "http://web.archive.org/web/20220528103458/https://cfi.co/northamerica/2021/08/world-debt-anchor-to-keep-interest-rates-and-growth-low/"
 content_sha256: 5bb4bbd522bc46c572bba8f44ac1523fb433783bf683912999f9d7f5a40236fc
 canonical: 20498-world-debt-anchor-to-keep-interest-rates-and-growth-low.json
 ---
