@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603020128
+wayback_snapshot_url: "http://web.archive.org/web/20230603020128/https://cfi.co/africa/2023/04/tunis-international-bank-celebrating-40-years-of-innovation-growth-and-success"
 content_sha256: 5e3305c0da08658635ed91005a9669e5000ca8228d39fcbb8f8f5da8e69c71d9
 canonical: 25206-tunis-international-bank.json
 ---
