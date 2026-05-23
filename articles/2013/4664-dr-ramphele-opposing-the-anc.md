@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190917030131
+wayback_snapshot_url: "http://web.archive.org/web/20190917030131/https://cfi.co/africa/2013/07/dr-ramphele-opposing-the-anc/"
 content_sha256: 06d88545b34220ffa3e03ab652936e49024b8c3d833d3fd8bedc5b65ebfea56e
 canonical: 4664-dr-ramphele-opposing-the-anc.json
 ---
