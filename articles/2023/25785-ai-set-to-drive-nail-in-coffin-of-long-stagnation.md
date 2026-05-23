@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 4d6c7e6ea19ccfa49b469a906e8340847d7b268e602d483bf36ae164b01a1458
 canonical: 25785-ai-set-to-drive-nail-in-coffin-of-long-stagnation.json
 ---
