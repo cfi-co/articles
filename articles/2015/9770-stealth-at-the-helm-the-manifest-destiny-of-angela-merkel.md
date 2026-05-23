@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724025146
+wayback_snapshot_url: "http://web.archive.org/web/20190724025146/https://cfi.co/europe/2015/05/stealth-at-the-helm-the-manifest-destiny-of-angela-merkel/"
 content_sha256: c66f0195d611c08b2c045c2bb84d5b8fcff6383a2f1359295414135b7e7110f3
 canonical: 9770-stealth-at-the-helm-the-manifest-destiny-of-angela-merkel.json
 ---
