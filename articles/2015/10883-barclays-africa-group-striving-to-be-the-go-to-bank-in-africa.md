@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: ad8530e704d6230d3ef66727364e6235077337b3be0fb884c2c96a83b9bd9121
 canonical: 10883-barclays-africa-group-striving-to-be-the-go-to-bank-in-africa.json
 ---
