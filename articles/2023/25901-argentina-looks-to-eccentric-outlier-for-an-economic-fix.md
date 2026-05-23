@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923170724
+wayback_snapshot_url: "http://web.archive.org/web/20230923170724/https://cfi.co/brave-new-world/2023/08/argentina-looks-to-eccentric-outlier-for-an-economic-fix/"
 content_sha256: 52f7dc6eccd642e938e57d0c441c01d6c3f5ac2267620a8a4ce87fc69c17709a
 canonical: 25901-argentina-looks-to-eccentric-outlier-for-an-economic-fix.json
 ---
