@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825094058
+wayback_snapshot_url: "http://web.archive.org/web/20190825094058/https://cfi.co/africa/2018/01/african-governments-invest-in-skills-in-sciences-engineering-and-technology/"
 content_sha256: 0113c37853e3041a545500dbcd1762fd44a34c4167438764f06c186999aa03b3
 canonical: 10096-african-governments-invest-in-skills-in-sciences-engineering-and-technology.json
 ---
