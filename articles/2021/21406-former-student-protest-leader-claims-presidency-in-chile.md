@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220528112351
+wayback_snapshot_url: "http://web.archive.org/web/20220528112351/https://cfi.co/brave-new-world/2021/12/former-student-protest-leader-claims-presidency-in-chile/"
 content_sha256: ae29ee9cd13f9f26dd9fe817336d88cdba28b3949cf2da56e727f74929e492b8
 canonical: 21406-former-student-protest-leader-claims-presidency-in-chile.json
 ---
