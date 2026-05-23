@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241106224024
+wayback_snapshot_url: "http://web.archive.org/web/20241106224024/https://cfi.co/technology/2024/10/diversifying-economies-via-tech-hubs-middle-east-on-the-ascent/"
 content_sha256: fcba94baa0cb8b114ec2f73605375f31d79614c2ee487014e950b96b434e638e
 canonical: 27239-diversifying-economies-via-tech-hubs-middle-east-on-the-ascent.json
 ---
