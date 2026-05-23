@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201121121847
+wayback_snapshot_url: "http://web.archive.org/web/20201121121847/https://cfi.co/menu/corporate/2020/01/qa-with-ceo-of-insurance-corporation-of-afghanistan-jamal-asfour/"
 content_sha256: c21b4d1d4f8b81b9157fac9daed56b0329328d94043484ebbaa8ab2cc244a9ce
 canonical: 17532-qa-with-ceo-of-insurance-corporation-of-afghanistan-jamal-asfour.json
 ---
