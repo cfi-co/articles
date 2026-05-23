@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203225148
+wayback_snapshot_url: "http://web.archive.org/web/20201203225148/https://cfi.co/europe/2020/10/ferrexpo-heightened-esg-focus-taking-mining-company-to-new-level/"
 content_sha256: 7586cf2ee7395b5ecc297776af6701834d57b7c631211c5b2717b1036cf661da
 canonical: 17552-ferrexpo-heightened-esg-focus-taking-mining-company-to-new-level.json
 ---
