@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250124114506
+wayback_snapshot_url: "http://web.archive.org/web/20250124114506/https://cfi.co/finance/2025/01/the-midas-touch-physical-gold-vs-gold-shares/"
 content_sha256: a1f7f6836694068e91c0d7960d47efee0fdeda142a4330d3eec7b75bb4d545ee
 canonical: 27517-the-midas-touch-physical-gold-vs-gold-shares.json
 ---
