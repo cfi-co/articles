@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240308231511
+wayback_snapshot_url: "http://web.archive.org/web/20240308231511/https://cfi.co/latinamerica/2024/03/vector-casa-de-bolsa-five-decades-driving-the-growth-of-the-mexican-economy/"
 content_sha256: 5fe456a2ac6e92621d7e348edaac78ee61bedf84fbeec0b9e1d0176b68a85913
 canonical: 26713-vector-casa-de-bolsa-five-decades-driving-the-growth-of-the-mexican-economy.json
 ---
