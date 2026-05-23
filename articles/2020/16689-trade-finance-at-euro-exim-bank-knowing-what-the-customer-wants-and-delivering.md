@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211015223635
+wayback_snapshot_url: "http://web.archive.org/web/20211015223635/https://cfi.co/menu/corporate/2020/08/trade-finance-at-euro-exim-bank-knowing-what-the-customer-wants-and-delivering/"
 content_sha256: 2f5faf3bfac01530be4a3220cd5065960a35ac7fac6579021eced6f1223d04ce
 canonical: 16689-trade-finance-at-euro-exim-bank-knowing-what-the-customer-wants-and-delivering.json
 ---
