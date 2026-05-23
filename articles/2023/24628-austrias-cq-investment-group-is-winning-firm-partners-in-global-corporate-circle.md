@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230125145517
+wayback_snapshot_url: "http://web.archive.org/web/20230125145517/https://cfi.co/menu/corporate/2023/01/austrias-cq-investment-group-is-winning-firm-partners-in-global-corporate-circles/"
 content_sha256: fdecc0997247ccafbdf2e1f9d142fec76b35d73b9d17a6824a61c1d7c44acd8d
 canonical: 24628-austrias-cq-investment-group-is-winning-firm-partners-in-global-corporate-circle.json
 ---
