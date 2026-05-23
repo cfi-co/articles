@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813165719
+wayback_snapshot_url: "http://web.archive.org/web/20200813165719/https://cfi.co/europe/2020/06/responsible-investment-what-it-says-on-the-tin-with-added-punch-and-attention-to-detail/"
 content_sha256: 53c01a1e290531f6f9a83d29fe34f9af5ed4ef417a7fb9782c86c2d8650c4451
 canonical: 15614-responsible-investment-what-it-says-on-the-tin-with-added-punch-and-attention-to.json
 ---
