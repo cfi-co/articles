@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190721114239
+wayback_snapshot_url: "http://web.archive.org/web/20190721114239/https://cfi.co/asia-pacific/2013/06/un-calls-for-china-and-the-us-to-encourage-sustainable-development/"
 content_sha256: 0028cd72596e1d57f8a15b08f4d8be5b1c3e8a549b0e37677aa7a7143ef93721
 canonical: 4414-un-calls-for-china-and-the-us-to-encourage-sustainable-development.json
 ---
