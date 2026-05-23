@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921112830
+wayback_snapshot_url: "http://web.archive.org/web/20210921112830/https://cfi.co/menu/corporate/2019/03/rakesh-rawal-ceo-of-anand-rathi-wealth-services-ltd-makings-of-a-great-ceo-professionalism-humility-and-being-a-good-human/"
 content_sha256: 44b08f25a1dfac48a333c1f79b3209fa53143608515538b8727db18b52e48faa
 canonical: 20216-rakesh-rawal-ceo-of-anand-rathi-wealth-services-ltd-makings-of-a-great-ceo-profe.json
 ---
