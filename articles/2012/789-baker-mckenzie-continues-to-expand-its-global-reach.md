@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132458
+wayback_snapshot_url: "http://web.archive.org/web/20190818132458/https://cfi.co/africa/2012/06/baker-mckenzie-continues-to-expand-its-global-reach/"
 content_sha256: 76783be9fb3e7f5909a3b2ea2b7c8739126652c78e90f54b4cfe2a88592106a2
 canonical: 789-baker-mckenzie-continues-to-expand-its-global-reach.json
 ---
