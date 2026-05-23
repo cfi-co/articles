@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220921090026
+wayback_snapshot_url: "http://web.archive.org/web/20220921090026/https://cfi.co/europe/2022/09/paul-horrocks-oecd-risk-return-impact-sdg-aims-need-a-shift-of-focus/"
 content_sha256: fb16bd974b9d836c5ef6309adef4af75c58417a312155f8cc9d3ee8d8d315cbd
 canonical: 23511-paul-horrocks-oecd-risk-return-impact-sdg-aims-need-a-shift-of-focus.json
 ---
