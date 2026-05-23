@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190305163134
+wayback_snapshot_url: "http://web.archive.org/web/20190305163134/https://cfi.co/banking/2012/08/fruitful-relationships-clearing-and-settlement-in-brazil/"
 content_sha256: cc6aaa7a358ff486cfc4529eb9dd20b1be4f42a1f1666aa916566b7efda000b1
 canonical: 2012-fruitful-relationships-clearing-and-settlement-in-brazil.json
 ---
