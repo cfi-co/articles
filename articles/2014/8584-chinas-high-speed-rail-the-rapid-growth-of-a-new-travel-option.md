@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: b8b51266dd83c88b8c659a7f59cf5a94ced4fe5ee6006f8da6c0b3c8523e201b
 canonical: 8584-chinas-high-speed-rail-the-rapid-growth-of-a-new-travel-option.json
 ---
