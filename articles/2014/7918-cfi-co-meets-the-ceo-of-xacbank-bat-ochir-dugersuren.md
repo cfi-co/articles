@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: fcdde2f8f8e41c8f96f7457e93dd9fb67ccc46ee2ddee2bc47ec25b566a9589f
 canonical: 7918-cfi-co-meets-the-ceo-of-xacbank-bat-ochir-dugersuren.json
 ---
