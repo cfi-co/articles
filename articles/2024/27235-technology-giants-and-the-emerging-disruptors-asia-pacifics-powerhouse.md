@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 0258d052617553c906ba789227992d74331ca142e6ec805fbdd086249b89a490
 canonical: 27235-technology-giants-and-the-emerging-disruptors-asia-pacifics-powerhouse.json
 ---
