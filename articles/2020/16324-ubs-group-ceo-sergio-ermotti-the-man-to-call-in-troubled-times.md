@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200918132825
+wayback_snapshot_url: "http://web.archive.org/web/20200918132825/https://cfi.co/banking/2020/07/ubs-group-ceo-sergio-ermotti-the-man-to-call-in-troubled-times/"
 content_sha256: d8ba7c38ddb882b478f23e4aadeb544a75600e6205f0fe3d94d271b1ecf99797
 canonical: 16324-ubs-group-ceo-sergio-ermotti-the-man-to-call-in-troubled-times.json
 ---
