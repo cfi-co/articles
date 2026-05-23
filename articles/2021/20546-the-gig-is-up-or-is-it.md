@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924123943
+wayback_snapshot_url: "http://web.archive.org/web/20210924123943/https://cfi.co/c-19/2021/09/the-gig-is-up-or-is-it/"
 content_sha256: a346c4df5234b6fb1077c1306a89268c218eaa3bda42d0115097c929a1dbda81
 canonical: 20546-the-gig-is-up-or-is-it.json
 ---
