@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190128110330
+wayback_snapshot_url: "http://web.archive.org/web/20190128110330/https://cfi.co/africa/2019/01/world-bank-on-social-protection-in-africa-burkina-faso-mobile-childcare-scheme-could-transform-public-works/"
 content_sha256: f2cc0bbf9ae6fd7625263923bb8cf09beaaab0cf5a069d6efd39af809e4630ff
 canonical: 13382-world-bank-on-social-protection-in-africa-burkina-faso-mobile-childcare-scheme-c.json
 ---
