@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190922231722
+wayback_snapshot_url: "http://web.archive.org/web/20190922231722/https://cfi.co/middleeast/2014/08/hamza-najeeb-courageously-looking-for-answers/"
 content_sha256: 5f070243e8bb54f149b3473adf7cbb4b1e619979c3ed4c1db67c99b020108cb6
 canonical: 7757-hamza-najeeb-courageously-looking-for-answers.json
 ---
