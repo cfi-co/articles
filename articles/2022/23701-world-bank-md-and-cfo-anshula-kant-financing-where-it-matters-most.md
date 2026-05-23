@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221021073645
+wayback_snapshot_url: "http://web.archive.org/web/20221021073645/https://cfi.co/banking/2022/10/world-bank-md-and-cfo-anshula-kant-financing-where-it-matters-most/"
 content_sha256: 8fd51b3fd8cc92a72c7337213c3a7d3289eb7dbff453ec6b8d90e3a042de0892
 canonical: 23701-world-bank-md-and-cfo-anshula-kant-financing-where-it-matters-most.json
 ---
