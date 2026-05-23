@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240911210634
+wayback_snapshot_url: "http://web.archive.org/web/20240911210634/https://cfi.co/lifestyle/2024/08/the-world-sail-into-a-life-of-luxury-and-adventure/"
 content_sha256: 71d468883f4d72059c42b1c9229bc86a4b085239c5f50666bc1ce97926166c2f
 canonical: 27055-the-world-sail-into-a-life-of-luxury-and-adventure.json
 ---
