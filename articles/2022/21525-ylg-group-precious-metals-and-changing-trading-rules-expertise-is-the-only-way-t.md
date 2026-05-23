@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625225602
+wayback_snapshot_url: "http://web.archive.org/web/20220625225602/https://cfi.co/menu/corporate/2022/02/ylg-group-precious-metals-and-changing-trading-rules-expertise-is-the-only-way-to-navigate-the-space/"
 content_sha256: 5dce862a865808f8f37be4a820c63fc0da463bae08624317199cc40a83abf9e5
 canonical: 21525-ylg-group-precious-metals-and-changing-trading-rules-expertise-is-the-only-way-t.json
 ---
