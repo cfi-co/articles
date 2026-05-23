@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201023004041
+wayback_snapshot_url: "http://web.archive.org/web/20201023004041/https://cfi.co/finance/2020/09/otaviano-canuto-dependency-and-disconnect-of-u-s-financial-markets/"
 content_sha256: 6d758c1a93049889530e2aea819d28900758811e15ebc47cab266967eedb51e4
 canonical: 17035-otaviano-canuto-dependency-and-disconnect-of-u-s-financial-markets.json
 ---
