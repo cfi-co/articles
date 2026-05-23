@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724090239
+wayback_snapshot_url: "http://web.archive.org/web/20190724090239/https://cfi.co/banking/2017/05/otaviano-canuto-matheus-cavallari-world-bank-bloated-central-bank-balance-sheets/"
 content_sha256: 39e9db0cd64c1de533c27b9e8c820e6d7122fcaaa517c7689fe9e8a0313d93b6
 canonical: 11617-otaviano-canuto-matheus-cavallari-world-bank-bloated-central-bank-balance-sheets.json
 ---
