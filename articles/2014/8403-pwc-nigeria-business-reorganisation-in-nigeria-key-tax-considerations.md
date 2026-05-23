@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190722120701
+wayback_snapshot_url: "http://web.archive.org/web/20190722120701/https://cfi.co/africa/2014/11/pwc-nigeria-business-reorganisation-in-nigeria-key-tax-considerations/"
 content_sha256: 6095c198459e13929cc8b5536e03a83ea35ef17c1d691065f9781acee85302a3
 canonical: 8403-pwc-nigeria-business-reorganisation-in-nigeria-key-tax-considerations.json
 ---
