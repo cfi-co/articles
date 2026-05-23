@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818052337
+wayback_snapshot_url: "http://web.archive.org/web/20190818052337/https://cfi.co/europe/2018/03/jean-claude-juncker-gives-as-good-as-he-gets/"
 content_sha256: 7692bd9e24453828c68f26df1034213b4e6284c002994775b38e160001aec622
 canonical: 12071-jean-claude-juncker-gives-as-good-as-he-gets.json
 ---
