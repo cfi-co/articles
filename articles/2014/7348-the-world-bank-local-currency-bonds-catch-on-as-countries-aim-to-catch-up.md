@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140705153251
+wayback_snapshot_url: "http://web.archive.org/web/20140705153251/http://cfi.co/banking/2014/05/the-world-bank-local-currency-bonds-catch-on-as-countries-aim-to-catch-up/"
 content_sha256: 9fc9b1f1c959235ed0a2140631fceba62da99810a42ddae7a71d83db9ec4b778
 canonical: 7348-the-world-bank-local-currency-bonds-catch-on-as-countries-aim-to-catch-up.json
 ---
