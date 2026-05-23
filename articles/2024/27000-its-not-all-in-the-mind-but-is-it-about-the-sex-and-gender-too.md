@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240803145552
+wayback_snapshot_url: "http://web.archive.org/web/20240803145552/https://cfi.co/europe/2024/08/its-not-all-in-the-mind-but-is-it-about-the-sex-and-gender-too/"
 content_sha256: ed90e8b6734cb83ae2ebe2ec07cdff1e1a0b0335d70d3d49e143283ff1777545
 canonical: 27000-its-not-all-in-the-mind-but-is-it-about-the-sex-and-gender-too.json
 ---
