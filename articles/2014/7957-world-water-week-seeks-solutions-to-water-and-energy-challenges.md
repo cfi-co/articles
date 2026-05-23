@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20141001044630
+wayback_snapshot_url: "http://web.archive.org/web/20141001044630/http://cfi.co/europe/2014/09/world-water-week-seeks-solutions-to-water-and-energy-challenges/"
 content_sha256: 37b7d0034bd5b0decf943b0667b89f5f1b162f6f5280e060f6a0066a35654c1a
 canonical: 7957-world-water-week-seeks-solutions-to-water-and-energy-challenges.json
 ---
