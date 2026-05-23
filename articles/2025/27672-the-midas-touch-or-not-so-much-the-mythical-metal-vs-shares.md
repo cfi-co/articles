@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250403142907
+wayback_snapshot_url: "http://web.archive.org/web/20250403142907/https://cfi.co/finance/2025/04/the-midas-touch-or-not-so-much-the-mythical-metal-vs-shares/"
 content_sha256: 4f9e210e4c823712d967dba6e1e7ef162fcdf5d2ee2d4b6df3466534f7967c99
 canonical: 27672-the-midas-touch-or-not-so-much-the-mythical-metal-vs-shares.json
 ---
