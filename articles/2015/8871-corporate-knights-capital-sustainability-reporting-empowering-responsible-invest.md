@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050018
+wayback_snapshot_url: "http://web.archive.org/web/20190823050018/https://cfi.co/finance/2015/02/corporate-knights-capital-sustainability-reporting-empowering-responsible-investing-for-long-term-prosperity/"
 content_sha256: aea16fea312ed4b0e6074550d08057dc27151a6e903b15e8bcd7803e83082036
 canonical: 8871-corporate-knights-capital-sustainability-reporting-empowering-responsible-invest.json
 ---
