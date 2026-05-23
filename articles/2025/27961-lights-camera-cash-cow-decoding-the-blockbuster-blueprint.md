@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250926013717
+wayback_snapshot_url: "http://web.archive.org/web/20250926013717/https://cfi.co/lifestyle/2025/09/lights-camera-cash-cow-decoding-the-blockbuster-blueprint/"
 content_sha256: a7a8cd53bfbc3c9e452cae70c6622f0e81dda2cbf5302ff8b126e97f309d41a1
 canonical: 27961-lights-camera-cash-cow-decoding-the-blockbuster-blueprint.json
 ---
