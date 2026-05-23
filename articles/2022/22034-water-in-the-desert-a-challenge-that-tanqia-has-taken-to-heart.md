@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625225023
+wayback_snapshot_url: "http://web.archive.org/web/20220625225023/https://cfi.co/projects/2022/05/water-in-the-desert-a-challenge-that-tanqia-has-taken-to-heart/"
 content_sha256: 67829f561f65ef175b3d63a35fdff764f9b3b206c6f1e5eb786e833780a91ece
 canonical: 22034-water-in-the-desert-a-challenge-that-tanqia-has-taken-to-heart.json
 ---
