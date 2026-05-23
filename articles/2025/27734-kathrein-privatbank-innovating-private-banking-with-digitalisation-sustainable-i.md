@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: eee328ba5fbba2b3ddcfc832d432435f16a20a0a55c1d007f20d2dfa289511cf
 canonical: 27734-kathrein-privatbank-innovating-private-banking-with-digitalisation-sustainable-i.json
 ---
