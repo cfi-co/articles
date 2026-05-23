@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220528101016
+wayback_snapshot_url: "http://web.archive.org/web/20220528101016/https://cfi.co/brave-new-world/2022/04/a-perfect-storm-perfected-eu-battles-string-of-calamities/"
 content_sha256: 0ab4ed8e95ae9164e241b5dd70b7df34fabac779e22b204bdfc8fd4b93e39a3a
 canonical: 21715-a-perfect-storm-perfected-eu-battles-string-of-calamities.json
 ---
