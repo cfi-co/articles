@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20131001113134
+wayback_snapshot_url: "http://web.archive.org/web/20131001113134/http://cfi.co/africa/2013/09/wto-forecasts-gradual-recovery-despite-cut-in-trade-forecasts/"
 content_sha256: 53e2433289197694adc3d5020521a43bc94e7a5afc9fb7185aaf24bd49332cb4
 canonical: 5329-wto-forecasts-gradual-recovery-despite-cut-in-trade-forecasts.json
 ---
