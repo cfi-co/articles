@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140827143745
+wayback_snapshot_url: "http://web.archive.org/web/20140827143745/http://cfi.co/europe/2013/03/oxford-university-asset-stranding-risks-in-the-high-carbon-sector/"
 content_sha256: 5385b29d393e2fc91076b687b7388cd714a3cf40b86126b82801c1e4157e8184
 canonical: 3266-oxford-university-asset-stranding-risks-in-the-high-carbon-sector.json
 ---
