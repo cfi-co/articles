@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210518075517
+wayback_snapshot_url: "http://web.archive.org/web/20210518075517/https://cfi.co/europe/2021/05/oecd-blended-finance-institutional-role-in-responding-to-covd-19/"
 content_sha256: a1eff982aa00609414585765b8aaea72b457c402895c93d2041608febb86e3d4
 canonical: 19698-oecd-blended-finance-institutional-role-in-responding-to-covd-19.json
 ---
