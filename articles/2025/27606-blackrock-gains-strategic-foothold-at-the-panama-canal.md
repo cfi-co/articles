@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250322091114
+wayback_snapshot_url: "http://web.archive.org/web/20250322091114/https://cfi.co/finance/2025/03/blackrock-gains-strategic-foothold-at-the-panama-canal/"
 content_sha256: 7a20ed810dc5471a60a81b49e859ee276fd38bee1b54d0b968accbb04075a8ee
 canonical: 27606-blackrock-gains-strategic-foothold-at-the-panama-canal.json
 ---
