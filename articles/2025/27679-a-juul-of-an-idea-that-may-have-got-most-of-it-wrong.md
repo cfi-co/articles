@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250408154022
+wayback_snapshot_url: "http://web.archive.org/web/20250408154022/https://cfi.co/northamerica/2025/04/a-juul-of-an-idea-that-may-have-got-most-of-it-wrong/"
 content_sha256: 7f98d0fd8fd45f0157597c0fd72f4ee36e738d6b4e7c7d62675639ba9b6b3ee1
 canonical: 27679-a-juul-of-an-idea-that-may-have-got-most-of-it-wrong.json
 ---
