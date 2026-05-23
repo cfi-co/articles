@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240625221212
+wayback_snapshot_url: "http://web.archive.org/web/20240625221212/https://cfi.co/africa/2019/05/from-little-things-big-things-grow-ostoul-capital-group/"
 content_sha256: 756ec02170e9eabcd8de7509900453d1d2e001923eae449e77da79e920814440
 canonical: 26282-from-little-things-big-things-grow-ostouls-acorn-becoming-an-oak.json
 ---
