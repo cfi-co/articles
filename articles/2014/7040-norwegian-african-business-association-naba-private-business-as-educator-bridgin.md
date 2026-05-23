@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 992b7345ee3fe4219c9facf38b63d630a133f6ae22735743712cfcac57f1a3f5
 canonical: 7040-norwegian-african-business-association-naba-private-business-as-educator-bridgin.json
 ---
