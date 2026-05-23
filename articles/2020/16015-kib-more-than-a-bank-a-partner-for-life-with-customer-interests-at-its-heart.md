@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200920015505
+wayback_snapshot_url: "http://web.archive.org/web/20200920015505/https://cfi.co/corporate-leaders/2020/05/kib-more-than-a-bank-a-partner-for-life-with-customer-interests-at-its-heart/"
 content_sha256: c532e3365fa4ba08060d773c09b2d466805fc59d68a5198bc8e637820257361b
 canonical: 16015-kib-more-than-a-bank-a-partner-for-life-with-customer-interests-at-its-heart.json
 ---
