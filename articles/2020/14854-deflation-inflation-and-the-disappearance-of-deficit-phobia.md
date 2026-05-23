@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200424131048
+wayback_snapshot_url: "http://web.archive.org/web/20200424131048/https://cfi.co/finance/2020/04/deflation-inflation-and-the-disappearance-of-deficit-phobia/"
 content_sha256: e144f005ff7829578e16c6e5190b16df6db113c7023617f81277cdfc3be63bd2
 canonical: 14854-deflation-inflation-and-the-disappearance-of-deficit-phobia.json
 ---
