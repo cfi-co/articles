@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191013203727
+wayback_snapshot_url: "http://web.archive.org/web/20191013203727/https://cfi.co/asia-pacific/2014/06/central-asian-countries-pledge-action-on-climate-change/"
 content_sha256: 65c38bff9381748c8eaf2a9cf548b682d8f6921f7637e1945eee97a8246038f3
 canonical: 7467-central-asian-countries-pledge-action-on-climate-change.json
 ---
