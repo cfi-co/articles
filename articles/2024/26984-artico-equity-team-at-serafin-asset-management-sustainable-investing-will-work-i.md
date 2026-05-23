@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240804215907
+wayback_snapshot_url: "http://web.archive.org/web/20240804215907/https://cfi.co/finance/2024/07/artico-equity-team-at-serafin-asset-management-sustainable-investing-will-work-if-the-performance-is-right/"
 content_sha256: 3932f80348d4971d05176fdc89b24f50136808c49486040b0de3021bb836838d
 canonical: 26984-artico-equity-team-at-serafin-asset-management-sustainable-investing-will-work-i.json
 ---
