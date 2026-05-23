@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 3502dc892306db43e512179508891df8d281e7a24aec8e2d7272f0f57756818c
 canonical: 13257-evan-harvey-nasdaq-next-gen-esg-going-beyond-the-basics.json
 ---
