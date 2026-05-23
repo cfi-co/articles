@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230710054709
+wayback_snapshot_url: "http://web.archive.org/web/20230710054709/https://cfi.co/menu/corporate/2023/07/financial-inclusion-for-all-and-excellence-in-operations-el-salvadors-central-bank-sets-the-bar-high-for-others-to-follow/"
 content_sha256: b02ac88c72b04a1d5ed545b6968e0db2cb526f3c59565f35b18abebf6f4ff3b0
 canonical: 25740-financial-inclusion-for-all-and-excellence-in-operations-el-salvadors-central-ba.json
 ---
