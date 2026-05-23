@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250513164633
+wayback_snapshot_url: "http://web.archive.org/web/20250513164633/https://cfi.co/sustainability/2025/05/young-guns-how-business-prodigies-are-rewriting-the-rules-of-success/"
 content_sha256: 7d28d68d3157f8ecd1ab0e6e836340d772172973aab0347e9d6bdba023194606
 canonical: 27709-young-guns-how-business-prodigies-are-rewriting-the-rules-of-success.json
 ---
