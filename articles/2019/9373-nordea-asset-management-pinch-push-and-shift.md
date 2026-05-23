@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717205656
+wayback_snapshot_url: "http://web.archive.org/web/20190717205656/https://cfi.co/menu/corporate/2019/03/nordea-asset-management-pinch-push-and-shift/"
 content_sha256: 78f2e4e20008d4970a91b71f6f714e3411712f2df7ead5623edc261b451b59a1
 canonical: 9373-nordea-asset-management-pinch-push-and-shift.json
 ---
