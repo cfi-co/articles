@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050854
+wayback_snapshot_url: "http://web.archive.org/web/20190818050854/https://cfi.co/editors-picks/2019/01/satoshi-nakamoto-inventor-of-bitcoin-to-be-or-not-to-be/"
 content_sha256: 1fefc38ebe6815e5898b7f4f31fb74d2bee82eca5044feecf196f8079a02b948
 canonical: 13347-satoshi-nakamoto-inventor-of-bitcoin-to-be-or-not-to-be.json
 ---
