@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20150204061130
+wayback_snapshot_url: "http://web.archive.org/web/20150204061130/http://cfi.co/africa/2014/12/un-reports-potential-for-gradual-return-to-global-growth-foresees-risks-uncertainties/"
 content_sha256: 8bd151e42f9dcdb8add1dc316091c19a510394ff9e8fe517423d848d135e3bf7
 canonical: 8514-un-reports-potential-for-gradual-return-to-global-growth-foresees-risks-uncertai.json
 ---
