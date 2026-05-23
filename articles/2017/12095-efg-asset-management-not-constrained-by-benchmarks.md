@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200625004014
+wayback_snapshot_url: "http://web.archive.org/web/20200625004014/https://cfi.co/corporate-leaders/2017/10/efg-asset-management-not-constrained-by-benchmarks/"
 content_sha256: 4caf913796c54d68a2cf5707cfa634111cd80a430ed44e46f415a018b622a0de
 canonical: 12095-efg-asset-management-not-constrained-by-benchmarks.json
 ---
