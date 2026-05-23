@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200525135728
+wayback_snapshot_url: "http://web.archive.org/web/20200525135728/https://cfi.co/menu/reviews/2014/03/mauldin-and-teppers-code-red-reviewed-code-red-or-red-herring/"
 content_sha256: a54f467e431e68303b5e7bc8926fe80522e8a3d222d5bf1b6c7040f5f5ec1cf8
 canonical: 9395-mauldin-and-teppers-code-red-reviewed-code-red-or-red-herring.json
 ---
