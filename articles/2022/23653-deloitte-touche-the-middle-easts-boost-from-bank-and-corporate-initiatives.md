@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221011073059
+wayback_snapshot_url: "http://web.archive.org/web/20221011073059/https://cfi.co/banking/2022/10/deloitte-touche-the-middle-easts-boost-from-bank-and-corporate-initiatives/"
 content_sha256: f25309a5b62d7cd5aff5d0cb2fde031476fd7025e0575ca676bdb8826287b6c5
 canonical: 23653-deloitte-touche-the-middle-easts-boost-from-bank-and-corporate-initiatives.json
 ---
