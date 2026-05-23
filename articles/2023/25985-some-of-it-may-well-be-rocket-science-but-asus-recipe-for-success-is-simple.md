@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240225160014
+wayback_snapshot_url: "http://web.archive.org/web/20240225160014/https://cfi.co/middleeast/2023/09/some-of-it-may-well-be-rocket-science-but-asus-recipe-for-success-is-simple/"
 content_sha256: 5e4f386866c5698da6dee1ff1a45fe3fab6733bd9e17408b4e4492b62d67b847
 canonical: 25985-some-of-it-may-well-be-rocket-science-but-asus-recipe-for-success-is-simple.json
 ---
