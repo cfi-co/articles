@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630135537
+wayback_snapshot_url: "http://web.archive.org/web/20220630135537/https://cfi.co/menu/corporate/2021/11/laura-penna-pandemic-shines-a-light-on-plight-of-disadvantaged-communities-and-bolsters-social-impact-investment/"
 content_sha256: 16c046787261350f4585d85d5cbcd5d3657c7ae9e865949a43eb288db0701fb4
 canonical: 20974-laura-penna-pandemic-shines-a-light-on-plight-of-disadvantaged-communities-and-b.json
 ---
