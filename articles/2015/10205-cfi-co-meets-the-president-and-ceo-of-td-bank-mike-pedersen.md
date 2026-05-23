@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724030512
+wayback_snapshot_url: "http://web.archive.org/web/20190724030512/https://cfi.co/banking/2015/08/cfi-co-meets-the-president-and-ceo-of-td-bank-mike-pedersen/"
 content_sha256: 20d83a610469995a5717e69003a6912ce08dbbf82a4a56f1429672e6e9d041b1
 canonical: 10205-cfi-co-meets-the-president-and-ceo-of-td-bank-mike-pedersen.json
 ---
