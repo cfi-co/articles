@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422022945
+wayback_snapshot_url: "http://web.archive.org/web/20210422022945/https://cfi.co/corporate-leaders/2020/07/sergio-gusmao-suchodolski-development-bank-of-minas-gerais-bdmg/"
 content_sha256: 025635007a38185fabc0cbe782b2eb969865c1f9cea5577ef1bea4111d33ee4d
 canonical: 15884-sergio-gusmao-suchodolski-development-bank-of-minas-gerais-bdmg.json
 ---
