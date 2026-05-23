@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200408070836
+wayback_snapshot_url: "http://web.archive.org/web/20200408070836/https://cfi.co/asia-pacific/2020/01/joy-to-the-world-founding-father-of-indian-company-with-mission-for-health/"
 content_sha256: 4bc61c95c465de65047f5dd9e1451dd79e5ad14fb151dc4efc3a5f824b8925b5
 canonical: 14322-joy-to-the-world-founding-father-of-indian-company-with-mission-for-health.json
 ---
