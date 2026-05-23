@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200922044822
+wayback_snapshot_url: "http://web.archive.org/web/20200922044822/https://cfi.co/editors-picks/2017/09/david-davis/"
 content_sha256: 320552e9a228e4968a7c2af341d03325b6ad67317a7f31e81acce4f9c3f0513d
 canonical: 11980-david-davis.json
 ---
