@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825094557
+wayback_snapshot_url: "http://web.archive.org/web/20190825094557/https://cfi.co/europe/2019/02/un-sdgs-and-gun-control-unoda-to-coordinate-action-on-small-arms-under-un-disarmament-agenda/"
 content_sha256: abd593988f5257c2416343f60d35096eef8369d123abf16eefdefc65e7dfc8e7
 canonical: 13418-un-sdgs-and-gun-control-unoda-to-coordinate-action-on-small-arms-under-un-disarm.json
 ---
