@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724031906
+wayback_snapshot_url: "http://web.archive.org/web/20190724031906/https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-governor-of-the-central-bank-of-mauritius-rameswurlall-basant-roi/"
 content_sha256: 2c9f6a7e36a78ab65a981ba120e4afd07145ff3de7568a2dc6c0c3f49effccfb
 canonical: 11944-cfi-co-meets-the-governor-of-the-central-bank-of-mauritius-rameswurlall-basant-r.json
 ---
