@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: b5344403a3c3cdef0b4b23fed91882210b5da9cdbde3b1dda5e7d4e236857ace
 canonical: 16543-ambareen-musa-founder-ceo-of-souqalmal-from-mauritius-with-love-for-fintech-and-.json
 ---
