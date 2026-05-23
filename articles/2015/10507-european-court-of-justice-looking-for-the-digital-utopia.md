@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170926221351
+wayback_snapshot_url: "http://web.archive.org/web/20170926221351/http://cfi.co/europe/2015/10/european-court-of-justice-looking-for-the-digital-utopia/"
 content_sha256: 8805864d94d7cddbd8b0c4128436b9f75f2dd0cb2b42e187882afd29696724d5
 canonical: 10507-european-court-of-justice-looking-for-the-digital-utopia.json
 ---
