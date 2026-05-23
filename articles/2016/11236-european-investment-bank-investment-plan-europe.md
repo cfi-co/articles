@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210226104543
+wayback_snapshot_url: "http://web.archive.org/web/20210226104543/https://cfi.co/europe/2016/06/european-investment-bank-investment-plan-europe/"
 content_sha256: bced3eb42062d6ffe91e5ea8c5f4ce16bbd3f3b0cf988f56760814245358a7da
 canonical: 11236-european-investment-bank-investment-plan-europe.json
 ---
