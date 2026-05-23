@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200421211751
+wayback_snapshot_url: "http://web.archive.org/web/20200421211751/https://cfi.co/europe/2020/01/its-not-nuclear-physics-pension-fund-chief-champions-ethics-and-balance/"
 content_sha256: 0700668f88a98e44a9a6f10f3d21c260528ea1998fd90aa118bc89955e811a06
 canonical: 14522-its-not-nuclear-physics-pension-fund-chief-champions-ethics-and-balance.json
 ---
