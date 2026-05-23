@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720032024
+wayback_snapshot_url: "http://web.archive.org/web/20190720032024/https://cfi.co/corporate-leaders/2018/08/cfi-co-meets-the-ceo-chairman-of-nesr-sherif-foda/"
 content_sha256: 0932d47b68e60409acd26add601d86746eab54bd2bd516a57e79546c97cad947
 canonical: 12858-cfi-co-meets-the-ceo-chairman-of-nesr-sherif-foda.json
 ---
