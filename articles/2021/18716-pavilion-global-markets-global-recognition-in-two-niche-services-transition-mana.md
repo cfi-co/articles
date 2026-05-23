@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228095138
+wayback_snapshot_url: "http://web.archive.org/web/20210228095138/https://cfi.co/menu/cfi-co-meets/2021/02/pavilion-global-markets-global-recognition-in-two-niche-services-transition-management-and-global-portfolio-strategy/"
 content_sha256: 23ca73dc5459baaee58d531dc1600fc4e08192e6dca2b7b3b87efd356eebfdaa
 canonical: 18716-pavilion-global-markets-global-recognition-in-two-niche-services-transition-mana.json
 ---
