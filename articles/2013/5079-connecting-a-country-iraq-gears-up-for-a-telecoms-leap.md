@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327172154
+wayback_snapshot_url: "http://web.archive.org/web/20140327172154/http://cfi.co/middleeast/2013/08/connecting-a-country-iraq-gears-up-for-a-telecoms-leap/"
 content_sha256: deab42f39ad97c6c44f2469e520d1b564f46cd03481e8c9c3eb9865c0137363b
 canonical: 5079-connecting-a-country-iraq-gears-up-for-a-telecoms-leap.json
 ---
