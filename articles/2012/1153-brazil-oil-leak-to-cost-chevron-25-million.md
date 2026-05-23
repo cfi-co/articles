@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818051648
+wayback_snapshot_url: "http://web.archive.org/web/20190818051648/https://cfi.co/latinamerica/2012/07/brazil-oil-leak-to-cost-chevron-25-million/"
 content_sha256: 31ce75cda0dcc2a9585ffc437d9ec667c58ee7a497bbd2042e3768a0dbacb6bb
 canonical: 1153-brazil-oil-leak-to-cost-chevron-25-million.json
 ---
