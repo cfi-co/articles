@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191014234848
+wayback_snapshot_url: "http://web.archive.org/web/20191014234848/https://cfi.co/middleeast/2014/12/nearly-500000-new-residence-visas-issued-in-dubai-in-first-half-of-2014-indicating-flourishing-business-for-real-estate/"
 content_sha256: 731d5599586da7e4cfa92a9ecb9a5e634fe43e15a0f1a74c47b5073d66d6ef19
 canonical: 8461-nearly-500000-new-residence-visas-issued-in-dubai-in-first-half-of-2014-indicati.json
 ---
