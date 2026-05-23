@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230530110734
+wayback_snapshot_url: "http://web.archive.org/web/20230530110734/https://cfi.co/finance/2023/05/ey-haunted-by-phantom-income-and-at-the-mercy-of-economic-patterns-inflation-distorts-world-tax-systems/"
 content_sha256: bbd201331f23766b0c598e5e7169b8b31beb80389fa4bec166370107c6cea9f1
 canonical: 25521-ey-haunted-by-phantom-income-and-at-the-mercy-of-economic-patterns-inflation-dis.json
 ---
