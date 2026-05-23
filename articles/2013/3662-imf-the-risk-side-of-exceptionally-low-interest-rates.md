@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050452
+wayback_snapshot_url: "http://web.archive.org/web/20190823050452/https://cfi.co/africa/2013/04/imf-the-risk-side-of-exceptionally-low-interest-rates/"
 content_sha256: 16ae1291afcaa9e9e917da5171148b5fba2263ed5d5ad23deacaaae4c6e6c4a1
 canonical: 3662-imf-the-risk-side-of-exceptionally-low-interest-rates.json
 ---
