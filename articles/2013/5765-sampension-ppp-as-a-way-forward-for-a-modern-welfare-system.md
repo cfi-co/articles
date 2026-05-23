@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: f73a778802db966ce70e309616f9096672bfe9a2aeefc324d82575acd80372bc
 canonical: 5765-sampension-ppp-as-a-way-forward-for-a-modern-welfare-system.json
 ---
