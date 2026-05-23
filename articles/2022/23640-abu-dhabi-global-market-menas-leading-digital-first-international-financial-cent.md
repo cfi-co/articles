@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221006111218
+wayback_snapshot_url: "http://web.archive.org/web/20221006111218/https://cfi.co/middleeast/2022/10/abu-dhabi-global-market-menas-leading-digital-first-international-financial-centre-a-catalyst-for-economic-growth/"
 content_sha256: c33c5768c5faa3e31d442dcb93e44cfa5dbd3106892655fe7408e8c2686c792b
 canonical: 23640-abu-dhabi-global-market-menas-leading-digital-first-international-financial-cent.json
 ---
