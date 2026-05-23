@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614180204
+wayback_snapshot_url: "http://web.archive.org/web/20210614180204/https://cfi.co/europe/2021/05/lgx-hits-1000-sustainable-bonds-mark/"
 content_sha256: 275d41316663f0634b21c0e59c28ff5a297ceba331e78c44cd616666ad47ca0b
 canonical: 19705-lgx-hits-1000-sustainable-bonds-mark.json
 ---
