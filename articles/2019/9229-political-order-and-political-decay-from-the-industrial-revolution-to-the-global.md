@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723013225
+wayback_snapshot_url: "http://web.archive.org/web/20190723013225/https://cfi.co/menu/must-reads/2019/02/political-order-and-political-decay-from-the-industrial-revolution-to-the-globalization-of-democracy/"
 content_sha256: dc6854b17402d8b3498387bc969714070741ca130fff366e351dc5b05e59939b
 canonical: 9229-political-order-and-political-decay-from-the-industrial-revolution-to-the-global.json
 ---
