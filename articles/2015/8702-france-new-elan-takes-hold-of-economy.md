@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916043318
+wayback_snapshot_url: "http://web.archive.org/web/20190916043318/https://cfi.co/europe/2015/01/france-new-elan-takes-hold-of-economy/"
 content_sha256: 4d0f5153af06dd19c3ed6cb5ca1bea9a03f4f11570a3a0890861640e6aad9334
 canonical: 8702-france-new-elan-takes-hold-of-economy.json
 ---
