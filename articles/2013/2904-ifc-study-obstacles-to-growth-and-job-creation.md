@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818134945
+wayback_snapshot_url: "http://web.archive.org/web/20190818134945/https://cfi.co/africa/2013/01/ifc-study-obstacles-to-growth-and-job-creation/"
 content_sha256: 38dbb9a91c98c972bed70b150506cbd9874f86a3ce2b9aabbc83a81a75e2ae54
 canonical: 2904-ifc-study-obstacles-to-growth-and-job-creation.json
 ---
