@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220818115207
+wayback_snapshot_url: "http://web.archive.org/web/20220818115207/https://cfi.co/lifestyle/2022/08/the-devils-in-the-detail-for-prada-which-never-goes-out-of-fashion/"
 content_sha256: 79a3dda203ea591c37dae0decd978d3ecf2773c2afe70bef15584445b1e3db6f
 canonical: 23072-the-devils-in-the-detail-for-prada-which-never-goes-out-of-fashion.json
 ---
