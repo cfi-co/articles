@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240710132448
+wayback_snapshot_url: "http://web.archive.org/web/20240710132448/https://cfi.co/banking/2024/07/bawag-forging-ahead-and-staying-at-the-forefront-of-banking-strategy-by-maintaining-a-long-term-focus/"
 content_sha256: fce407c21e7b82039142173efc5e3216d7386b0a42e0cebc913a415f954cb492
 canonical: 26872-bawag-forging-ahead-and-staying-at-the-forefront-of-banking-strategy-by-maintain.json
 ---
