@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230209220618
+wayback_snapshot_url: "http://web.archive.org/web/20230209220618/https://cfi.co/finance/2023/02/in-conversation-with-managing-partner-of-worthwhile-capital-partners-christian-andersson/"
 content_sha256: a0778a9817f0caaf17577a1bd2be6443179c3c25b70960449382d84dea03c407
 canonical: 24732-in-conversation-with-managing-partner-of-worthwhile-capital-partners-christian-a.json
 ---
