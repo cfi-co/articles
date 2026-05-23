@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327051951
+wayback_snapshot_url: "http://web.archive.org/web/20140327051951/http://cfi.co/europe/2013/08/assaulting-freedom-to-protect-freedom-uk-government-gets-tough-on-press/"
 content_sha256: cc3b26885ca71ea54001b81c37189ed047897869cafcccd0bdb25abac6fe4aef
 canonical: 5060-assaulting-freedom-to-protect-freedom-uk-government-gets-tough-on-press.json
 ---
