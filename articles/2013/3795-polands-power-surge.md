@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: b2ef26df81356b836376d250a812537f4de7ebd4f50476bd0fa99c925c4585de
 canonical: 3795-polands-power-surge.json
 ---
