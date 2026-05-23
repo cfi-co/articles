@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724025839
+wayback_snapshot_url: "http://web.archive.org/web/20190724025839/https://cfi.co/editors-picks/2013/05/betsy-kawamura-and-empowering-nk-refugees/"
 content_sha256: 45f2963aaef7ce1359b9c7d25e3d9e8a848e6cd090ed54101710e212689a7a6d
 canonical: 3929-betsy-kawamura-and-empowering-nk-refugees.json
 ---
