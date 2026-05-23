@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240919172645
+wayback_snapshot_url: "http://web.archive.org/web/20240919172645/https://cfi.co/technology/2024/09/global-ai-governance-a-roadmap-for-ensuring-humanitys-future/"
 content_sha256: 2719ff439b0ecc200febcce56a0d86e6bd4c0a391057f2fcb8e2672e5e659f45
 canonical: 27147-global-ai-governance-a-roadmap-for-ensuring-humanitys-future.json
 ---
