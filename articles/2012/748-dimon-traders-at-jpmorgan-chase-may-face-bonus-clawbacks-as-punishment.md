@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818133449
+wayback_snapshot_url: "http://web.archive.org/web/20190818133449/https://cfi.co/banking/2012/06/dimon-traders-at-jpmorgan-chase-may-face-bonus-clawbacks-as-punishment/"
 content_sha256: ed2e47b4cec841cb7c5ba3fbb5009b10a842d45d055c937540d3c020c533be7d
 canonical: 748-dimon-traders-at-jpmorgan-chase-may-face-bonus-clawbacks-as-punishment.json
 ---
