@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200921194742
+wayback_snapshot_url: "http://web.archive.org/web/20200921194742/https://cfi.co/editors-picks/2018/05/yassine-belattar-clown-of-the-republic/"
 content_sha256: 21ea753d5983f5d43037c017ed435b507e285dd237ed432b3945a0e698a60d81
 canonical: 12530-yassine-belattar-clown-of-the-republic.json
 ---
