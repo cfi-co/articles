@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614190759
+wayback_snapshot_url: "http://web.archive.org/web/20210614190759/https://cfi.co/menu/corporate/2021/06/cfi-co-meets-the-md-of-curinde-jacqueline-jansen-and-her-dynamic-team-curacaos-booming-business-parks-are-in-safe-hands/"
 content_sha256: 01a89ef4196c60784805167a1f89cf992d2a98180883a722d85fd292455dd1d6
 canonical: 19827-cfi-co-meets-the-md-of-curinde-jacqueline-jansen-and-her-dynamic-team-curacaos-b.json
 ---
