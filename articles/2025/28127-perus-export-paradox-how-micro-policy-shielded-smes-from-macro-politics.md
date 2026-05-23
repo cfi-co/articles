@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260101123714
+wayback_snapshot_url: "http://web.archive.org/web/20260101123714/https://cfi.co/finance/2025/12/perus-export-paradox-how-micro-policy-shielded-smes-from-macro-politics/"
 content_sha256: 9cd746553d94a5f53b09adc5f842ccc74b5b31da750fe337de97c969dee4c0b5
 canonical: 28127-perus-export-paradox-how-micro-policy-shielded-smes-from-macro-politics.json
 ---
