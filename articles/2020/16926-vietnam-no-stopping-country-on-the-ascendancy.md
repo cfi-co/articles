@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200923163658
+wayback_snapshot_url: "http://web.archive.org/web/20200923163658/https://cfi.co/c-19/2020/09/vietnam-no-stopping-country-on-the-ascendancy/"
 content_sha256: a7b687029bcb83ad8110fc1fc139d1c79cc8bcdf938edd099a5f248c5754b49d
 canonical: 16926-vietnam-no-stopping-country-on-the-ascendancy.json
 ---
