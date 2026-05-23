@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170914151511
+wayback_snapshot_url: "http://web.archive.org/web/20170914151511/http://cfi.co/editors-picks/2015/10/adam-smith-the-original-economic-thinker/"
 content_sha256: ee629d6b7ca7fce9ace1aeb2d6f669687ce1cf4a53b2362471b8c707aa3caeef
 canonical: 10590-adam-smith-the-original-economic-thinker.json
 ---
