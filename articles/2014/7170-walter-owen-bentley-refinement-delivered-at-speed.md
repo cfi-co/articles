@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140519210146
+wayback_snapshot_url: "http://web.archive.org/web/20140519210146/http://cfi.co/europe/2014/05/walter-owen-bentley-refinement-delivered-at-speed/"
 content_sha256: ac473ec433b6dd97dd2b87613ce693d75fd4571a7a83e973c92e86e3bf41e502
 canonical: 7170-walter-owen-bentley-refinement-delivered-at-speed.json
 ---
