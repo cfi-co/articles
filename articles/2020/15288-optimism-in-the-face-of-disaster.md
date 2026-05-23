@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200511144725
+wayback_snapshot_url: "http://web.archive.org/web/20200511144725/https://cfi.co/c-19/2020/05/optimism-in-the-face-of-disaster/"
 content_sha256: 075a2c209037ef3320ee27cb13e809a1ca640a547c1b2f72903095143390f10c
 canonical: 15288-optimism-in-the-face-of-disaster.json
 ---
