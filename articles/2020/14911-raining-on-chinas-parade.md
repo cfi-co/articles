@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200923152457
+wayback_snapshot_url: "http://web.archive.org/web/20200923152457/https://cfi.co/c-19/2020/04/raining-on-chinas-parade/"
 content_sha256: 1fdb5483d33920422fa2e8c5b75a478be2546f8f2d2b833602ca35df47491c60
 canonical: 14911-raining-on-chinas-parade.json
 ---
