@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825095803
+wayback_snapshot_url: "http://web.archive.org/web/20190825095803/https://cfi.co/europe/2014/10/elif-shafak-exposing-the-moralising-slappers/"
 content_sha256: e78473f913b82c116ee30e4d5aa76c99f6215f664a1fabd7fb4a2703c8ba3048
 canonical: 8339-elif-shafak-exposing-the-moralising-slappers.json
 ---
