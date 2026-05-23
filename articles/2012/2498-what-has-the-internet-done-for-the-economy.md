@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916043431
+wayback_snapshot_url: "http://web.archive.org/web/20190916043431/https://cfi.co/finance/2012/11/what-has-the-internet-done-for-the-economy/"
 content_sha256: f1731adc3de1e4b1c140c5e3a4a26fa123716e6f482cc06814259a5eda2ca8ec
 canonical: 2498-what-has-the-internet-done-for-the-economy.json
 ---
