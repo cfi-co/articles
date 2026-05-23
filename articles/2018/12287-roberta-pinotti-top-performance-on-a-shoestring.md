@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132640
+wayback_snapshot_url: "http://web.archive.org/web/20190818132640/https://cfi.co/editors-picks/2018/07/roberta-pinotti-top-performance-on-a-shoestring/"
 content_sha256: 2069e21103533cb22a20f35de89b1719496148cf8eeefb531ac652e7effcbebe
 canonical: 12287-roberta-pinotti-top-performance-on-a-shoestring.json
 ---
