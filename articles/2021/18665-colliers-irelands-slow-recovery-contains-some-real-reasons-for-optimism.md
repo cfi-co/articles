@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418050631
+wayback_snapshot_url: "http://web.archive.org/web/20210418050631/https://cfi.co/menu/corporate/2021/02/colliers-irelands-slow-recovery-contains-some-real-reasons-for-optimism/"
 content_sha256: 82a0bcdf45e7f0d50261742739f697cd0fb752c0a2aad1c658f7ee14cbe1c824
 canonical: 18665-colliers-irelands-slow-recovery-contains-some-real-reasons-for-optimism.json
 ---
