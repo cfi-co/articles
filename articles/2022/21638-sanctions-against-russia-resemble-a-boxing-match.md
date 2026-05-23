@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 501d1d560c34d72f9b5b05229d9cf5632fa092e2fe22f7ee3fd0a44d89476256
 canonical: 21638-sanctions-against-russia-resemble-a-boxing-match.json
 ---
