@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241008012821
+wayback_snapshot_url: "http://web.archive.org/web/20241008012821/https://cfi.co/europe/2024/10/autism-in-business-help-or-hindrance/"
 content_sha256: e5d160446c0ba5dee5fbf270f188526e85cafef5b50b740f4bbf317e104e49bc
 canonical: 27181-autism-in-business-help-or-hindrance.json
 ---
