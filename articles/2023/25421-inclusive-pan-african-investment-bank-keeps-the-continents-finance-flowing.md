@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230512115741
+wayback_snapshot_url: "http://web.archive.org/web/20230512115741/https://cfi.co/africa/2023/05/inclusive-pan-african-investment-bank-keeps-the-continents-finance-flowing/"
 content_sha256: df233e9c6052f4716ba02f7f8ed35fcd38b1eccf519d0afb6bb450b1f1198b6a
 canonical: 25421-inclusive-pan-african-investment-bank-keeps-the-continents-finance-flowing.json
 ---
