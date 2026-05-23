@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724024439
+wayback_snapshot_url: "http://web.archive.org/web/20190724024439/https://cfi.co/lifestyle/2015/06/alisher-usmanov-a-likeable-oligarch/"
 content_sha256: d01045ffa68da4bd92031312edf4faf816c966c0378624b04d13cd93da25da14
 canonical: 10088-alisher-usmanov-a-likeable-oligarch.json
 ---
