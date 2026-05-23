@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210907054836
+wayback_snapshot_url: "http://web.archive.org/web/20210907054836/https://cfi.co/menu/editors-10/2021/09/mahendra-singh-dhoni-captain-cool-meets-his-younger-self-to-pass-on-business-tips/"
 content_sha256: a180aeb256e9d1910742168fe044e1f4019a638647fe370abb32c38141ff177d
 canonical: 20543-mahendra-singh-dhoni-captain-cool-meets-his-younger-self-to-pass-on-business-tip.json
 ---
