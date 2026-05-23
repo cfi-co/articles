@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191014231512
+wayback_snapshot_url: "http://web.archive.org/web/20191014231512/https://cfi.co/europe/2014/12/world-bank-framing-the-future-of-accountancy/"
 content_sha256: 2222283736828ca339c0238e4c9c9cb3950849cefa0357f07c05561266048ef5
 canonical: 8544-world-bank-framing-the-future-of-accountancy.json
 ---
