@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422031227
+wayback_snapshot_url: "http://web.archive.org/web/20210422031227/https://cfi.co/menu/corporate/2019/08/gabriel-chaleplis-leads-the-way-into-the-intelligent-future-of-betting-and-gaming/"
 content_sha256: d8c49f29f1837ed839e1c281db957f96221e5cade6ae69d3dfd3c820c092e9cd
 canonical: 13960-gabriel-chaleplis-leads-the-way-into-the-intelligent-future-of-betting-and-gamin.json
 ---
