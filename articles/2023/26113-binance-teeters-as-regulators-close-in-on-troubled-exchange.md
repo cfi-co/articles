@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230928192219
+wayback_snapshot_url: "http://web.archive.org/web/20230928192219/https://cfi.co/brave-new-world/2023/09/binance-teeters-as-regulators-close-in-on-troubled-exchange/"
 content_sha256: 96d5636cdd4f78717b7e638c87d2562e9e3edef95fdc8abef39229343b9894d8
 canonical: 26113-binance-teeters-as-regulators-close-in-on-troubled-exchange.json
 ---
