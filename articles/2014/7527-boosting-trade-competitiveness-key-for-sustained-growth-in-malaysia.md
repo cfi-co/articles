@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720032151
+wayback_snapshot_url: "http://web.archive.org/web/20190720032151/https://cfi.co/asia-pacific/2014/06/boosting-trade-competitiveness-key-for-sustained-growth-in-malaysia/"
 content_sha256: c67a23220ab660695436fd0df9699ab263245c73ea6d46b216571f5105f46771
 canonical: 7527-boosting-trade-competitiveness-key-for-sustained-growth-in-malaysia.json
 ---
