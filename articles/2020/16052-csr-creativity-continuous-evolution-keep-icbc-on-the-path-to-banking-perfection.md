@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813162606
+wayback_snapshot_url: "http://web.archive.org/web/20200813162606/https://cfi.co/asia-pacific/2020/05/csr-creativity-continuous-evolution-keep-icbc-on-the-path-to-banking-perfection/"
 content_sha256: 7c1b16e31e37c3d487399d798987fd68ad6eb799418f9af1ab7c5b4b390bcccc
 canonical: 16052-csr-creativity-continuous-evolution-keep-icbc-on-the-path-to-banking-perfection.json
 ---
