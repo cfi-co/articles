@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191014232929
+wayback_snapshot_url: "http://web.archive.org/web/20191014232929/https://cfi.co/editors-picks/2013/06/pope-benedicts-heroic-decision/"
 content_sha256: a6c2739d308effea853e73ff9e4a4bcc1423fe8094abe1094052236988303f44
 canonical: 4249-pope-benedicts-heroic-decision.json
 ---
