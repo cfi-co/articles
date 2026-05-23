@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200919085750
+wayback_snapshot_url: "http://web.archive.org/web/20200919085750/https://cfi.co/c-19/2020/04/the-fabric-and-the-notion-of-eu-solidarity-is-being-ripped-apart/"
 content_sha256: 5cafc60e8e6915b3c97c0606630666fdb723b03670f6a4667207c1febf925021
 canonical: 14882-the-fabric-and-the-notion-of-eu-solidarity-is-being-ripped-apart.json
 ---
