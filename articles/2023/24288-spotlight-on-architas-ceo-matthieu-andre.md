@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230323020409
+wayback_snapshot_url: "http://web.archive.org/web/20230323020409/https://cfi.co/menu/corporate/2023/01/spotlight-on-architas-ceo-matthieu-andre/"
 content_sha256: ac616d662039520d0aa446b271141f0f5bc8bd8c03f89c308dcbd4ff6f697494
 canonical: 24288-spotlight-on-architas-ceo-matthieu-andre.json
 ---
