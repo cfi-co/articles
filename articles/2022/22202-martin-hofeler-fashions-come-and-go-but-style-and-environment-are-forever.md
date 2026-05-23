@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220607065803
+wayback_snapshot_url: "http://web.archive.org/web/20220607065803/https://cfi.co/menu/heroes/2022/06/martin-hofeler-fashions-come-and-go-but-style-and-environment-are-forever/"
 content_sha256: bcba054a6e490dc9621274a46324caef85550fdb07507ac6be8843f3f937a2c6
 canonical: 22202-martin-hofeler-fashions-come-and-go-but-style-and-environment-are-forever.json
 ---
