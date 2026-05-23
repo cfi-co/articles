@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211209055144
+wayback_snapshot_url: "http://web.archive.org/web/20211209055144/https://cfi.co/technology/2021/12/cbre-tech-adoption-accelerating-across-real-estate-industry/"
 content_sha256: aecbda0413ad1f00adccb5b50c15c787a90e95f1672b867b1561a6c5ee9ceb50
 canonical: 21271-cbre-tech-adoption-accelerating-across-real-estate-industry.json
 ---
