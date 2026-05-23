@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191014231850
+wayback_snapshot_url: "http://web.archive.org/web/20191014231850/https://cfi.co/asia-pacific/2014/09/chollywood-chinese-film-industry-set-to-expand-rapidly/"
 content_sha256: 16501aa631ca5e57ce83a5932da2d63bf8a439702be0c2d9935a444be3b2c422
 canonical: 8040-chollywood-chinese-film-industry-set-to-expand-rapidly.json
 ---
