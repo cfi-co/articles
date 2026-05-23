@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625234009
+wayback_snapshot_url: "http://web.archive.org/web/20220625234009/https://cfi.co/menu/corporate/2021/10/creativity-grit-and-clear-thinking-all-part-of-the-package-for-amy-chung/"
 content_sha256: 2fb20b3a146972a4021a68ba8155ec6be774b1abdb02eea0f277747b730c1d25
 canonical: 20781-creativity-grit-and-clear-thinking-all-part-of-the-package-for-amy-chung.json
 ---
