@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180720184659
+wayback_snapshot_url: "http://web.archive.org/web/20180720184659/http://cfi.co/banking/2017/10/kristalina-georgieva-ceo-of-the-world-bank-empowering-communities/"
 content_sha256: 84a083c88339c94cfc1faf8c5b7a07c6339bc4901fba2de33db5277ce191154e
 canonical: 12037-kristalina-georgieva-ceo-of-the-world-bank-empowering-communities.json
 ---
