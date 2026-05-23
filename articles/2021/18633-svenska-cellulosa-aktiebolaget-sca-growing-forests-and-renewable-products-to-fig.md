@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422033019
+wayback_snapshot_url: "http://web.archive.org/web/20210422033019/https://cfi.co/menu/corporate/2021/02/svenska-cellulosa-aktiebolaget-sca-growing-forests-and-renewable-products-to-fight-climate-change/"
 content_sha256: 0104a3c2210c345ea1c9c3ab1b408d71f318b0eec60243b0933d481be38b5794
 canonical: 18633-svenska-cellulosa-aktiebolaget-sca-growing-forests-and-renewable-products-to-fig.json
 ---
