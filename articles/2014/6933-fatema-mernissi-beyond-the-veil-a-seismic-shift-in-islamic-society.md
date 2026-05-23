@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140705060736
+wayback_snapshot_url: "http://web.archive.org/web/20140705060736/http://cfi.co/middleeast/2014/04/fatema-mernissi-beyond-the-veil-a-seismic-shift-in-islamic-society/"
 content_sha256: f1ca43f76106630e801eb4695238ac16132ec09122ee9827df1d8afb651d48c5
 canonical: 6933-fatema-mernissi-beyond-the-veil-a-seismic-shift-in-islamic-society.json
 ---
