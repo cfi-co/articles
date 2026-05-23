@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190917030026
+wayback_snapshot_url: "http://web.archive.org/web/20190917030026/https://cfi.co/asia-pacific/2014/06/world-bank-continues-support-to-improve-vietnams-competitiveness-with-us250-million-credit/"
 content_sha256: fc2308ea6fed1c98a5ec548e8af0f28ce49423a13c2f5af9372c754c12dd69a6
 canonical: 7396-world-bank-continues-support-to-improve-vietnams-competitiveness-with-us250-mill.json
 ---
