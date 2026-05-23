@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132646
+wayback_snapshot_url: "http://web.archive.org/web/20190818132646/https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-lbbw-hard-work-excellent-results/"
 content_sha256: 8cc1b5c76a0be8cfc84bdba82bc86ffd6befce82a28f00f11f218c2d34593501
 canonical: 11776-cfi-co-meets-lbbw-hard-work-excellent-results.json
 ---
