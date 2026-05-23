@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717212005
+wayback_snapshot_url: "http://web.archive.org/web/20190717212005/https://cfi.co/finance/2018/10/lawrence-summers-setting-the-record-straight-on-secular-stagnation/"
 content_sha256: d3bfcf140c088d01e14635a97b9de6e426eb58516c49dc71c49246c95f2169b6
 canonical: 13124-lawrence-summers-setting-the-record-straight-on-secular-stagnation.json
 ---
