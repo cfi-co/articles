@@ -16,7 +16,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260315112340
+wayback_snapshot_url: "http://web.archive.org/web/20260315112340/https://cfi.co/africa/2026/02/eaglestone-management-experience-forged-in-global-infrastructure-finance/"
 content_sha256: ed5113861689b24c80386b78e68d6a60faba9778bcb994df2acd836b7eb90420
 canonical: 28279-eaglestone-management-experience-forged-in-global-infrastructure-finance.json
 ---
