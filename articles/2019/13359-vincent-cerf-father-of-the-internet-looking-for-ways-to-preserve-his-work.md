@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818053902
+wayback_snapshot_url: "http://web.archive.org/web/20190818053902/https://cfi.co/editors-picks/2019/01/vincent-cerf-father-of-the-internet-looking-for-ways-to-preserve-his-work/"
 content_sha256: 9da1a0738ff5af677bb6f39b735b05e86d96733dac94f0e7deefec99a13da2dd
 canonical: 13359-vincent-cerf-father-of-the-internet-looking-for-ways-to-preserve-his-work.json
 ---
