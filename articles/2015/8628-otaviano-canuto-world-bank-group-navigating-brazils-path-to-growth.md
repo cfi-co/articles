@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 721a46a7d7056be9ad203541e131ea88d613aba2c5eeed931fc301f7becb86a0
 canonical: 8628-otaviano-canuto-world-bank-group-navigating-brazils-path-to-growth.json
 ---
