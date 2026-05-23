@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720181631
+wayback_snapshot_url: "http://web.archive.org/web/20190720181631/https://cfi.co/europe/2012/08/the-entrepreneur-a-sense-of-balance/"
 content_sha256: 0ff354ef0ddbd2ad1f7d5ffa0db237c90105c83b795f031b7a291bb9b578fde8
 canonical: 1401-the-entrepreneur-a-sense-of-balance.json
 ---
