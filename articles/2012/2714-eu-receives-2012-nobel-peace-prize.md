@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823052614
+wayback_snapshot_url: "http://web.archive.org/web/20190823052614/https://cfi.co/europe/2012/12/eu-receives-2012-nobel-peace-prize/"
 content_sha256: 584d2a9d1a0b324e8b22b4f10b3d1b1c0f750de74c83f97e2ec434a19e3e8f49
 canonical: 2714-eu-receives-2012-nobel-peace-prize.json
 ---
