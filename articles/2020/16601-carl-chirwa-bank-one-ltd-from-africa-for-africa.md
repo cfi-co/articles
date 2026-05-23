@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422022440
+wayback_snapshot_url: "http://web.archive.org/web/20210422022440/https://cfi.co/corporate-leaders/2020/08/carl-chirwa-bank-one-ltd-from-africa-for-africa/"
 content_sha256: b6b7f6ccd3d33cc3e40c5c9a097fcaf9d279678217e3711cc8206b63fbbfe98b
 canonical: 16601-carl-chirwa-bank-one-ltd-from-africa-for-africa.json
 ---
