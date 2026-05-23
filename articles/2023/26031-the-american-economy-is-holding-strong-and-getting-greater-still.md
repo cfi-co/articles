@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923185311
+wayback_snapshot_url: "http://web.archive.org/web/20230923185311/https://cfi.co/northamerica/2023/09/the-american-economy-is-holding-strong-and-getting-greater-still/"
 content_sha256: 8c61e42179e3bfd3671e22a74092061e9e4eb8e1785cb862f76d7aa0bf2d3c9b
 canonical: 26031-the-american-economy-is-holding-strong-and-getting-greater-still.json
 ---
