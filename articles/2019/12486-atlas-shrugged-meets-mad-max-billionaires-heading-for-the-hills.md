@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717212419
+wayback_snapshot_url: "http://web.archive.org/web/20190717212419/https://cfi.co/menu/reviews/2019/05/atlas-shrugged-meets-mad-max-billionaires-heading-for-the-hills/"
 content_sha256: f4eebb00d70fea5d79d66e8c42ce40e97edbd7a54c1786d317c7b382000875b4
 canonical: 12486-atlas-shrugged-meets-mad-max-billionaires-heading-for-the-hills.json
 ---
