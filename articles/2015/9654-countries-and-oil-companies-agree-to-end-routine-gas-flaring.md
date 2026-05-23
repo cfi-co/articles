@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20150506132115
+wayback_snapshot_url: "http://web.archive.org/web/20150506132115/http://cfi.co/latinamerica/2015/04/countries-and-oil-companies-agree-to-end-routine-gas-flaring/"
 content_sha256: 924bd0252f141b436a84d424059d27b5abd83e022b9fd47447d010f14b314844
 canonical: 9654-countries-and-oil-companies-agree-to-end-routine-gas-flaring.json
 ---
