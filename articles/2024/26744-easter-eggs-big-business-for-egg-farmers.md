@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240420134510
+wayback_snapshot_url: "http://web.archive.org/web/20240420134510/https://cfi.co/sustainability/2024/03/easter-eggs-big-business-for-egg-farmers/"
 content_sha256: 6af1b6f0f49c4d36538d6628ee4e3dca64cf0d586940afae48e12643e511e3c6
 canonical: 26744-easter-eggs-big-business-for-egg-farmers.json
 ---
