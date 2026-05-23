@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240303063325
+wayback_snapshot_url: "http://web.archive.org/web/20240303063325/https://cfi.co/banking/2024/02/bbes-ceo-md-victor-van-der-kwast-ai-is-certainly-coming-to-banking-sector-its-all-about-integration/"
 content_sha256: 16b99b63954a5c1490888c6929591841b19ddb035fd7e5a5a218429bab826db5
 canonical: 26701-bbes-ceo-md-victor-van-der-kwast-ai-is-certainly-coming-to-banking-sector-its-al.json
 ---
