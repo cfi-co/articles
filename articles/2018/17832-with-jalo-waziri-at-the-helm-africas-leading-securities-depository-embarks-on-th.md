@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625222336
+wayback_snapshot_url: "http://web.archive.org/web/20220625222336/https://cfi.co/africa/2018/10/with-jalo-waziri-at-the-helm-africas-leading-securities-depository-embarks-on-three-year-plan/"
 content_sha256: 5678a5db891bf5b8c033871ace37a9bcec196511d9d8abaeb591a9dee15e1e9d
 canonical: 17832-with-jalo-waziri-at-the-helm-africas-leading-securities-depository-embarks-on-th.json
 ---
