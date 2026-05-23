@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418060823
+wayback_snapshot_url: "http://web.archive.org/web/20210418060823/https://cfi.co/menu/corporate/2021/02/crc-credit-bureau-fizzes-where-others-falter-covid-pandemic-notwithstanding/"
 content_sha256: 54a1e725195d5bf8f94be1bbb6ab107510cb5a74bab3c8aeacf0487105ef7c4c
 canonical: 18852-crc-credit-bureau-fizzes-where-others-falter-covid-pandemic-notwithstanding.json
 ---
