@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241130130506
+wayback_snapshot_url: "http://web.archive.org/web/20241130130506/https://cfi.co/northamerica/2024/11/cornelius-vanderbilt-the-commodore-who-steamed-straight-ahead-to-glory/"
 content_sha256: 05a4fa26cc234af070f93dead545eff6cc1ea3682f0c52df48ccf2616cfa3d2d
 canonical: 27325-cornelius-vanderbilt-the-commodore-who-steamed-straight-ahead-to-glory.json
 ---
