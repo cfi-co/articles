@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422024819
+wayback_snapshot_url: "http://web.archive.org/web/20210422024819/https://cfi.co/menu/corporate/2018/06/megainver-tailored-to-meet-market-demand/"
 content_sha256: f07e46ea2cb7e2b894254371802553c905b3982140a5e02a0e279a623e68c8f8
 canonical: 12653-megainver-tailored-to-meet-market-demand.json
 ---
