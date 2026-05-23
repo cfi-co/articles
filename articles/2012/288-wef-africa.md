@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818051041
+wayback_snapshot_url: "http://web.archive.org/web/20190818051041/https://cfi.co/africa/2012/05/wef-africa/"
 content_sha256: ce0d33b9cc3942ee83ae4423c9ac43a3846764468fd76dcbbca0a7e1241e82b3
 canonical: 288-wef-africa.json
 ---
