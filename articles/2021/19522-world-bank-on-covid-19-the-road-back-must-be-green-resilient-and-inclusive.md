@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210421000224
+wayback_snapshot_url: "http://web.archive.org/web/20210421000224/https://cfi.co/banking/2021/04/world-bank-on-covid-19-the-road-back-must-be-green-resilient-and-inclusive"
 content_sha256: b4beb7314258cb8f47cf3f4b3979c788a0c6285a6f15240331945e62310fc5a2
 canonical: 19522-world-bank-on-covid-19-the-road-back-must-be-green-resilient-and-inclusive.json
 ---
