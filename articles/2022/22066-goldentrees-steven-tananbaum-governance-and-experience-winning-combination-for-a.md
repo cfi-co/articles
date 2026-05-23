@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220820032500
+wayback_snapshot_url: "http://web.archive.org/web/20220820032500/https://cfi.co/menu/corporate/2022/05/goldentrees-steven-tananbaum-governance-and-experience-winning-combination-for-any-investment-firm/"
 content_sha256: f206332ddc2291cae3542c85af4f50ad01164389f4b4f46af0e43450fe30fd0c
 canonical: 22066-goldentrees-steven-tananbaum-governance-and-experience-winning-combination-for-a.json
 ---
