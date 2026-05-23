@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200922011517
+wayback_snapshot_url: "http://web.archive.org/web/20200922011517/https://cfi.co/corporate-leaders/2019/07/petrorio-strategy-is-how-you-play-the-game-but-determination-helps-you-win/"
 content_sha256: 8ac46c9f1d508f115bc1b8f2e5c2f673bc8e019c2707a125dac5a018f343f7af
 canonical: 15700-petrorio-strategy-is-how-you-play-the-game-but-determination-helps-you-win.json
 ---
