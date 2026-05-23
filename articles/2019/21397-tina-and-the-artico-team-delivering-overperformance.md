@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625235659
+wayback_snapshot_url: "http://web.archive.org/web/20220625235659/https://cfi.co/menu/corporate/2019/01/tina-and-the-artico-team-delivering-overperformance/"
 content_sha256: 3590ba358fa678d4469698b01ca8a76c15e8eba615a3c7e13cd9b79708a79655
 canonical: 21397-tina-and-the-artico-team-delivering-overperformance.json
 ---
