@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140827104455
+wayback_snapshot_url: "http://web.archive.org/web/20140827104455/http://cfi.co/europe/2013/09/european-commission-confirms-billions-lost-in-vat-gap/"
 content_sha256: c99d6121220c70367fc232df8aeae9483b44eebf303809037e0445696cd359b2
 canonical: 5311-european-commission-confirms-billions-lost-in-vat-gap.json
 ---
