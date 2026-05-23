@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630142330
+wayback_snapshot_url: "http://web.archive.org/web/20220630142330/https://cfi.co/menu/corporate/2022/05/qa-with-talal-ghandour-metito-chief-investment-officer-and-managing-director-water-water-everywhere-not-always-true-but-metito-strives-to-ensure-clean-and-safe-supply/"
 content_sha256: 4fff31b2da2cba5a631d748ddeef8c330d2e27fdb3b11a592bcbcc85b9a2666b
 canonical: 21939-qa-with-talal-ghandour-metito-chief-investment-officer-and-managing-director-wat.json
 ---
