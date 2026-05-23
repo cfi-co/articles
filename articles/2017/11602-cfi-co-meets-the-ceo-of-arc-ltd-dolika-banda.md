@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724030023
+wayback_snapshot_url: "http://web.archive.org/web/20190724030023/https://cfi.co/corporate-leaders/2017/05/cfi-co-meets-the-ceo-of-arc-ltd-dolika-banda/"
 content_sha256: 3ff559de5eb64ea8f46bcccfeadf3d0bce03283396c4fa18e40d819b7d0511f6
 canonical: 11602-cfi-co-meets-the-ceo-of-arc-ltd-dolika-banda.json
 ---
