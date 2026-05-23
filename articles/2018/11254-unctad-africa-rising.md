@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717213328
+wayback_snapshot_url: "http://web.archive.org/web/20190717213328/https://cfi.co/africa/2018/01/unctad-africa-rising/"
 content_sha256: c1856d4d051c4eac04873e96b8f599c3a0f57e40ab7c96282d1319a1ef337e54
 canonical: 11254-unctad-africa-rising.json
 ---
