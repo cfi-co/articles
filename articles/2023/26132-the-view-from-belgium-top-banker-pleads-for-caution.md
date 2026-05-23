@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231030221307
+wayback_snapshot_url: "http://web.archive.org/web/20231030221307/https://cfi.co/banking/2023/10/the-view-from-belgium-top-banker-pleads-for-caution/"
 content_sha256: b75b6b371164e107cac82485b47d98735ff6bd4e05033414d7940f8b9118aa19
 canonical: 26132-the-view-from-belgium-top-banker-pleads-for-caution.json
 ---
