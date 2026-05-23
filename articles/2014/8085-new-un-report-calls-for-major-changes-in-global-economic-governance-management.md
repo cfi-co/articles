@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191014231417
+wayback_snapshot_url: "http://web.archive.org/web/20191014231417/https://cfi.co/africa/2014/09/new-un-report-calls-for-major-changes-in-global-economic-governance-management/"
 content_sha256: cb7def25e9765d690aa496da35539aedacd0f576eff47ab3ca5be0e0f286f5fe
 canonical: 8085-new-un-report-calls-for-major-changes-in-global-economic-governance-management.json
 ---
