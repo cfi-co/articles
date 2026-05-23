@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230506003647
+wayback_snapshot_url: "http://web.archive.org/web/20230506003647/https://cfi.co/menu/corporate/2023/04/tunde-popoola-group-managing-director-ceo-crc-credit-bureau-limited"
 content_sha256: 59bfb76d9d279db6f992dd90d919756071b2f112e8220f3fccdd4c13d4e4735a
 canonical: 25251-identifying-customer-needs-and-bringing-credit-services-to-the-unbanked-citizens.json
 ---
