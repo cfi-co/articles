@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: c6ed1f15e43fd1bcfb9642941fbf1dee32580ecbf3f0d25febcda73c09219b9b
 canonical: 25790-a-focus-on-people-and-productivity-has-taken-this-el-salvador-bank-to-new-height.json
 ---
