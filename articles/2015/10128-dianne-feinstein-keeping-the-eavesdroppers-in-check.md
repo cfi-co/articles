@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 96c585a708833b0e7415f988e245e0640b35a73089f6733ee0141139b2910464
 canonical: 10128-dianne-feinstein-keeping-the-eavesdroppers-in-check.json
 ---
