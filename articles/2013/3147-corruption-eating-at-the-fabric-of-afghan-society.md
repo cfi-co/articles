@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140828172709
+wayback_snapshot_url: "http://web.archive.org/web/20140828172709/http://cfi.co/middleeast/2013/02/corruption-eating-at-the-fabric-of-afghan-society/"
 content_sha256: c87ccfd1963379a48fc063824c3f6d4c87c48c852d0dc53ca485e5ef0585c664
 canonical: 3147-corruption-eating-at-the-fabric-of-afghan-society.json
 ---
