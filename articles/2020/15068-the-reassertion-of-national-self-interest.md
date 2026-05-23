@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200605133947
+wayback_snapshot_url: "http://web.archive.org/web/20200605133947/https://cfi.co/c-19/2020/04/the-reassertion-of-national-self-interest/"
 content_sha256: e639d737e628c02c9be61f3af0d5d90edcf652583893230dcc92fee921379dfd
 canonical: 15068-the-reassertion-of-national-self-interest.json
 ---
