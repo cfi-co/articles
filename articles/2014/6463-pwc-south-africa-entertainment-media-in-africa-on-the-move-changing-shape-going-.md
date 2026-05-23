@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140209024326
+wayback_snapshot_url: "http://web.archive.org/web/20140209024326/http://cfi.co/africa/2014/02/pwc-south-africa-entertainment-media-in-africa-on-the-move-changing-shape-going-mobile/"
 content_sha256: 56328035886e808512ed09f4b400b6ebc724edee7b68ddbd1b4318034061bafc
 canonical: 6463-pwc-south-africa-entertainment-media-in-africa-on-the-move-changing-shape-going-.json
 ---
