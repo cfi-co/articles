@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 9069775ffe4b4b4551a56319bb8306d4f82332585e56bb1c4e4dbe24007092f3
 canonical: 4576-angolas-sovereign-wealth-fund-announces-investment-policy.json
 ---
