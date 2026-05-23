@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20131002211751
+wayback_snapshot_url: "http://web.archive.org/web/20131002211751/http://cfi.co/middleeast/2013/05/emir-of-qatar-raising-the-profile/"
 content_sha256: 86bedfa112e2ff3b374697139a64f974894aa823945705e9d9a2d07f0c1964c5
 canonical: 4042-emir-of-qatar-raising-the-profile.json
 ---
