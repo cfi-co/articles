@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190917030222
+wayback_snapshot_url: "http://web.archive.org/web/20190917030222/https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-group-ceo-of-fdh-financial-holdings-limited-dr-thomson-f-mpinganjira/"
 content_sha256: 79f7c37ef2ab130f358ef242e3cd5985697e7ac37c1265c92d856f4245b769b5
 canonical: 10898-cfi-co-meets-the-group-ceo-of-fdh-financial-holdings-limited-dr-thomson-f-mpinga.json
 ---
