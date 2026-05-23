@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200424123051
+wayback_snapshot_url: "http://web.archive.org/web/20200424123051/https://cfi.co/finance/2020/03/business-in-times-of-corona-the-dangerous-fruit-of-the-magic-money-tree/"
 content_sha256: a42b0844eb2f5cff6397484bd20b7e4f88231dc0dff3d32189457b62a3ad9e1a
 canonical: 14714-business-in-times-of-corona-the-dangerous-fruit-of-the-magic-money-tree.json
 ---
