@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924114413
+wayback_snapshot_url: "http://web.archive.org/web/20210924114413/https://cfi.co/menu/reviews/2021/09/book-review-built-to-last-by-jim-collins-and-jerry-porras-the-x-factor-what-makes-some-businesses-excel/"
 content_sha256: 8c108a0a2aca21a61d3aac32e31b3bd7bc0adf362bcd16d52266a3593bf79f69
 canonical: 20568-book-review-built-to-last-by-jim-collins-and-jerry-porras-the-x-factor-what-make.json
 ---
