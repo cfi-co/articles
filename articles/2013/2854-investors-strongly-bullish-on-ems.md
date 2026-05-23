@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818135524
+wayback_snapshot_url: "http://web.archive.org/web/20190818135524/https://cfi.co/asia-pacific/2013/01/investors-strongly-bullish-on-ems/"
 content_sha256: 8a7c081dae9473ea5428e841812b2c5f2bcae737bbcb29953efb8dbdadd7566f
 canonical: 2854-investors-strongly-bullish-on-ems.json
 ---
