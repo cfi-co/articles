@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916044019
+wayback_snapshot_url: "http://web.archive.org/web/20190916044019/https://cfi.co/asia-pacific/2014/04/mehriban-aliyeva-with-azerbaijan-at-heart-the-first-lady-reaches-out-for-a-better-world/"
 content_sha256: cd8ccf72a7efb0f02ab7213511a588f85b2a14804e68ba1f8c9f744de8b64602
 canonical: 6994-mehriban-aliyeva-with-azerbaijan-at-heart-the-first-lady-reaches-out-for-a-bette.json
 ---
