@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241122122334
+wayback_snapshot_url: "http://web.archive.org/web/20241122122334/https://cfi.co/banking/2024/11/from-barter-to-blockchain-banking-through-the-ages/"
 content_sha256: 5c98042e2bcd577b9ac78953f00768efb79e66c58f8f38bc8f25ba84e103181d
 canonical: 27314-from-barter-to-blockchain-banking-through-the-ages.json
 ---
