@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: a37eec041b02283583edb34a08ddd878aff7420338c276fa80413e10b51d4bab
 canonical: 8620-upcoming-greek-vote-a-buying-opportunity.json
 ---
