@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818051311
+wayback_snapshot_url: "http://web.archive.org/web/20190818051311/https://cfi.co/middleeast/2015/03/oil-price-plunge-analyzed-in-new-world-bank-policy-research-note/"
 content_sha256: 613d36888f6f9924643dde668bca58171d756e158177a5225843629c563e9c49
 canonical: 9528-oil-price-plunge-analyzed-in-new-world-bank-policy-research-note.json
 ---
