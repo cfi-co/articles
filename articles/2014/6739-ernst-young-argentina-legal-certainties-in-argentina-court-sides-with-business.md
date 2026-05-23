@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140827063144
+wayback_snapshot_url: "http://web.archive.org/web/20140827063144/http://cfi.co/banking/2014/02/ernst-young-argentina-legal-certainties-in-argentina-court-sides-with-business/"
 content_sha256: 4492d63cd542b20fc8554a639d225c2dccdfa1dc86b6bd16a340b242ff1d037c
 canonical: 6739-ernst-young-argentina-legal-certainties-in-argentina-court-sides-with-business.json
 ---
