@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220326065132
+wayback_snapshot_url: "http://web.archive.org/web/20220326065132/https://cfi.co/finance/2022/03/cbre-multifamily-assets-consolidate-real-estate-investment-growth/"
 content_sha256: 74b3f9ad0e9154eed2a8657c2741f7d69400771c7a77287355daa256948ad643
 canonical: 21667-cbre-multifamily-assets-consolidate-real-estate-investment-growth.json
 ---
