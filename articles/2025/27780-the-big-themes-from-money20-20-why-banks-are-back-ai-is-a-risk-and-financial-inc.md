@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250710130644
+wayback_snapshot_url: "http://web.archive.org/web/20250710130644/https://cfi.co/banking/2025/06/the-big-themes-from-money20-20-why-banks-are-back-ai-is-a-risk-and-financial-inclusion-finally-matters/"
 content_sha256: 059de00b2f1b82236c760a480d690be28cddc8a7e2aecee5a413d2abb7c46f06
 canonical: 27780-the-big-themes-from-money20-20-why-banks-are-back-ai-is-a-risk-and-financial-inc.json
 ---
