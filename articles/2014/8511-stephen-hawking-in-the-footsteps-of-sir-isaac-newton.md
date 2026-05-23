@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191014233751
+wayback_snapshot_url: "http://web.archive.org/web/20191014233751/https://cfi.co/editors-picks/2014/12/stephen-hawking-in-the-footsteps-of-sir-isaac-newton/"
 content_sha256: 53ca0d6072e7b503fedab637cbe712b2d6b0c3e4513c6dc2caf8d5130bd7e2aa
 canonical: 8511-stephen-hawking-in-the-footsteps-of-sir-isaac-newton.json
 ---
