@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20171129224335
+wayback_snapshot_url: "http://web.archive.org/web/20171129224335/http://cfi.co/lifestyle/2017/11/waldemar-januszczak-art-for-the-millions/"
 content_sha256: 23894506a8f552ea62b6ef3a4ed6c2285fcd5ef8e5653669c442c0c23ed306fd
 canonical: 12029-waldemar-januszczak-art-for-the-millions.json
 ---
