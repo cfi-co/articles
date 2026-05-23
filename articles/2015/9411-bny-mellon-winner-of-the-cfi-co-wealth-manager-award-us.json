@@ -19,10 +19,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20190723005620",
+        "wayback_snapshot_url": "http://web.archive.org/web/20190723005620/https://cfi.co/awards/north-america/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>The CFI.co Judging Panel has named BNY Mellon as winner of the prestigious award, ’Best Wealth Manager, Unites States, 2014’.</strong></p>\r\n<p style=\"text-align: justify;\">Client retention at Mellon is strong and the Bank is a superb relationship manager. This truly outstanding name in North American banking, which can trace its heritage back 230 years, is the result of a 2007 merger between Bank of New York and Mellon Finance.</p>\r\n<p style=\"text-align: justify;\">The panel congratulates BNY Mellon, the largest deposit bank in the world, on its outstanding focus on and great success in providing the most sophisticated wealth management services.</p>",
     "content_sha256": "cc2657a8229cdacdc17c10b3e4d2851a46d809c4499ac0a493e3742b78932e67",
-    "record_sha256": "c862dc2bc935496ea5e51558ab0c48ee51a44f068cc07e1397a075c479539d0a"
+    "record_sha256": "83d1b5c4c708baba37124d48f9eb91f27a9effa32f6576263f43898e47fe7749"
 }
