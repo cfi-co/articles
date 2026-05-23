@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190721114843
+wayback_snapshot_url: "http://web.archive.org/web/20190721114843/https://cfi.co/4673/2017/04/jury-for-aim-2017-ipa-awards-receives-recognition/"
 content_sha256: 45bed7fe3bd61cb1bd314c53b3dea7ebcc3e765624b21fdd882de405fc0b6922
 canonical: 11574-jury-for-aim-2017-ipa-awards-receives-recognition.json
 ---
