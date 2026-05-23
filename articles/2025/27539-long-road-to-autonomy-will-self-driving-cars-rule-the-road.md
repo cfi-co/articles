@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250209174059
+wayback_snapshot_url: "http://web.archive.org/web/20250209174059/https://cfi.co/technology/2025/02/long-road-to-autonomy-will-self-driving-cars-rule-the-road/"
 content_sha256: 002b7ff97c381aa9f56e07e85f584a1c2bb072423834c09b127a3756d848a905
 canonical: 27539-long-road-to-autonomy-will-self-driving-cars-rule-the-road.json
 ---
