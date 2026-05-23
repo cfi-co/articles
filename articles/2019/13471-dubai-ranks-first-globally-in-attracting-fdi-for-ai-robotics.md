@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190507114715
+wayback_snapshot_url: "http://web.archive.org/web/20190507114715/https://cfi.co/middleeast/2019/03/dubai-ranks-first-globally-in-attracting-fdi-for-ai-robotics/"
 content_sha256: ec9928467c1351478c7a697e0b9c1d542e537079f339121216aa5ecb9eba9bab
 canonical: 13471-dubai-ranks-first-globally-in-attracting-fdi-for-ai-robotics.json
 ---
