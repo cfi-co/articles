@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20130928170511
+wayback_snapshot_url: "http://web.archive.org/web/20130928170511/http://cfi.co/africa/2012/09/ifc-banking-on-women-changing-the-face-of-the-global-economy/"
 content_sha256: 930b168a1e6e7dce3ad5df35efe657d7a1f49bd2fd7f1e3d4b5b8bd90b72f719
 canonical: 2141-ifc-banking-on-women-changing-the-face-of-the-global-economy.json
 ---
