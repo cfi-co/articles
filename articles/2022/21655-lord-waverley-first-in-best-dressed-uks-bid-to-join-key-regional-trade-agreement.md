@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220318055501
+wayback_snapshot_url: "http://web.archive.org/web/20220318055501/https://cfi.co/asia-pacific/2022/03/lord-waverley-first-in-best-dressed-uks-bid-to-join-key-regional-trade-agreement/"
 content_sha256: 235d42aff69bc7f0902fd67bd1d87a6406c13219a656ffa531f483ff71bda266
 canonical: 21655-lord-waverley-first-in-best-dressed-uks-bid-to-join-key-regional-trade-agreement.json
 ---
