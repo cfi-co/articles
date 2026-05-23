@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220531120510
+wayback_snapshot_url: "http://web.archive.org/web/20220531120510/https://cfi.co/lifestyle/2022/05/tamsin-lejeune-saving-the-world-in-style/"
 content_sha256: 8db25c14c29d7ebdafd29b37cc66606e550ee5cfee5faf0970f736c6977a1760
 canonical: 22156-tamsin-lejeune-saving-the-world-in-style.json
 ---
