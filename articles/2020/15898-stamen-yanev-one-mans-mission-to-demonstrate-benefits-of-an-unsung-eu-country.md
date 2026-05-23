@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210420034408
+wayback_snapshot_url: "http://web.archive.org/web/20210420034408/https://cfi.co/corporate-leaders/2020/07/stamen-yanev-one-mans-mission-to-demonstrate-benefits-of-an-unsung-eu-country/"
 content_sha256: 84c43ecf5e2387d2b7bff80947e384f2861cb129250e7b5d503287eb0fb648d6
 canonical: 15898-stamen-yanev-one-mans-mission-to-demonstrate-benefits-of-an-unsung-eu-country.json
 ---
