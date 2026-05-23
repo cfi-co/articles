@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603002929
+wayback_snapshot_url: "http://web.archive.org/web/20230603002929/https://cfi.co/africa/2023/04/banque-internationale-arabe-de-tunisie-biat-a-tunisian-transformation"
 content_sha256: 39f020fb34256e24558072794b13df38b9dd4950f95cfa329abaf857f41a4a4b
 canonical: 25234-a-tunisian-transformation-biat-is-driven-by-civic-duty-concern-for-the-planet-an.json
 ---
