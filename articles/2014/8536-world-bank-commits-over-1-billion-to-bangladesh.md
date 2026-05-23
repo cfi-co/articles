@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191014235625
+wayback_snapshot_url: "http://web.archive.org/web/20191014235625/https://cfi.co/asia-pacific/2014/12/world-bank-commits-over-1-billion-to-bangladesh/"
 content_sha256: 2d0340d0f6e34f0a7a165b4e0916ae6482810f41f69d0a53470320288b3da5ea
 canonical: 8536-world-bank-commits-over-1-billion-to-bangladesh.json
 ---
