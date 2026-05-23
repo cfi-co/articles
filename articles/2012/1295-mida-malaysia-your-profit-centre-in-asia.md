@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050348
+wayback_snapshot_url: "http://web.archive.org/web/20190818050348/https://cfi.co/asia-pacific/2012/08/mida-malaysia-your-profit-centre-in-asia/"
 content_sha256: 7d0f3a2da642050a7df56916c2be5875d002202d88aa7b664369764aa707df1a
 canonical: 1295-mida-malaysia-your-profit-centre-in-asia.json
 ---
