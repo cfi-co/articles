@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191021051920
+wayback_snapshot_url: "http://web.archive.org/web/20191021051920/https://cfi.co/europe/2013/06/wtos-lamy-the-deeper-european-crisis/"
 content_sha256: 1b30683a35991aaebff705ea0fee27caecc7470139c9c4e92bf0aacf69278b5f
 canonical: 4421-wtos-lamy-the-deeper-european-crisis.json
 ---
