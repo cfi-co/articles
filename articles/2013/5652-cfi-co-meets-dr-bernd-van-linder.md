@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140328063827
+wayback_snapshot_url: "http://web.archive.org/web/20140328063827/http://cfi.co/banking/2013/10/cfi-co-meets-dr-bernd-van-linder/"
 content_sha256: 874f007166f5926a9f55a42b0fe3eb2efa0ce9d37e044acb6eb1f04707e063c8
 canonical: 5652-cfi-co-meets-dr-bernd-van-linder.json
 ---
