@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 474ba3831eb25d9ede3ff8f9f3edd07fde63d878f629857907e7231343775728
 canonical: 26995-managing-popular-banking-and-practising-financial-inclusion-challenges-accepted.json
 ---
