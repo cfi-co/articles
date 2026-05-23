@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228103906
+wayback_snapshot_url: "http://web.archive.org/web/20210228103906/https://cfi.co/editors-picks/2019/01/stacey-ferreira-billion-dollar-pitch/"
 content_sha256: 9fb4f24d525437e8745b118cf4a4181180801f96f03d911aaa973bcc170b0b4b
 canonical: 11269-stacey-ferreira-billion-dollar-pitch.json
 ---
