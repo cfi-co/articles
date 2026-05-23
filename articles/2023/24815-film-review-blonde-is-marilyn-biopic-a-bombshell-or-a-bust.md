@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230225152526
+wayback_snapshot_url: "http://web.archive.org/web/20230225152526/https://cfi.co/lifestyle/2023/02/film-review-blonde-is-marilyn-biopic-a-bombshell-or-a-bust/"
 content_sha256: 86dd6c60c93c25243bb0f211a42ffb970383325d21df564827ae6da255bd58bc
 canonical: 24815-film-review-blonde-is-marilyn-biopic-a-bombshell-or-a-bust.json
 ---
