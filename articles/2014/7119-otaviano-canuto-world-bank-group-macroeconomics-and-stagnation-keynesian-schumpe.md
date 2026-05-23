@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140519210115
+wayback_snapshot_url: "http://web.archive.org/web/20140519210115/http://cfi.co/africa/2014/05/otaviano-canuto-world-bank-group-macroeconomics-and-stagnation-keynesian-schumpeterian-wars/"
 content_sha256: 9276299d91163020ce63b47c88945a36325cd4132630c78326a583fe5492c955
 canonical: 7119-otaviano-canuto-world-bank-group-macroeconomics-and-stagnation-keynesian-schumpe.json
 ---
