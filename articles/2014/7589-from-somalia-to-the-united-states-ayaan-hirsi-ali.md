@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140925195011
+wayback_snapshot_url: "http://web.archive.org/web/20140925195011/http://cfi.co/africa/2014/07/from-somalia-to-the-united-states-ayaan-hirsi-ali/"
 content_sha256: 584604dac3c13cfb3d46de55648dd5d25653b8602e768a2359e240ee68f920b6
 canonical: 7589-from-somalia-to-the-united-states-ayaan-hirsi-ali.json
 ---
