@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720032202
+wayback_snapshot_url: "http://web.archive.org/web/20190720032202/https://cfi.co/europe/2015/05/deg-turkey-growth-market-and-bridge-to-the-east/"
 content_sha256: 0c277ec10037f6f8281e3a42dd1a9119afc8b68a637ff3a82f89d1790075e1d6
 canonical: 9761-deg-turkey-growth-market-and-bridge-to-the-east.json
 ---
