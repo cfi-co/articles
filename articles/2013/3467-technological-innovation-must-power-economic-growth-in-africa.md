@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050600
+wayback_snapshot_url: "http://web.archive.org/web/20190823050600/https://cfi.co/africa/2013/04/technological-innovation-must-power-economic-growth-in-africa/"
 content_sha256: 2cf16d3e1829fd60e809492d2b38683fd202d72b850b4a4ff5e2f2355120812d
 canonical: 3467-technological-innovation-must-power-economic-growth-in-africa.json
 ---
