@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230330015750
+wayback_snapshot_url: "http://web.archive.org/web/20230330015750/https://cfi.co/menu/corporate/2021/08/zoscales-partners-invest-where-it-matters/"
 content_sha256: eb61c6d4ba85812cde376633277a44a8e9a50758da861fe660d572bb5cd99529
 canonical: 20335-zoscales-partners-invest-where-it-matters.json
 ---
