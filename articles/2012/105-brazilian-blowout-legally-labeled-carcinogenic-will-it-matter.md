@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132737
+wayback_snapshot_url: "http://web.archive.org/web/20190818132737/https://cfi.co/latinamerica/2012/02/brazilian-blowout-legally-labeled-carcinogenic-will-it-matter/"
 content_sha256: cdb372921bee5ef026b05466abf189238e75f7fae50c5936423a17bf7153409c
 canonical: 105-brazilian-blowout-legally-labeled-carcinogenic-will-it-matter.json
 ---
