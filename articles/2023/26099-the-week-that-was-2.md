@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: d8c33a0bf8aeac600634f33d1c345c5aaf0f93da430e9ff09d87599d889e68ff
 canonical: 26099-the-week-that-was-2.json
 ---
