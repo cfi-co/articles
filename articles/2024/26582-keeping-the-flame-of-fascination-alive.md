@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240225155200
+wayback_snapshot_url: "http://web.archive.org/web/20240225155200/https://cfi.co/middle-east/2024/01/emad-shahin-keeping-the-flame-alive/"
 content_sha256: 2612c606fe04de1638805badddf525f303ec605290982ca8e915d72c0b31b13b
 canonical: 26582-keeping-the-flame-of-fascination-alive.json
 ---
