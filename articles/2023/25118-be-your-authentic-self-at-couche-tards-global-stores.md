@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230509063132
+wayback_snapshot_url: "http://web.archive.org/web/20230509063132/https://cfi.co/northamerica/2023/04/couche-tards-global-stores/"
 content_sha256: 5b0543dd8d50cf0c4db04a5688010db309569229ffdc707ed5aa5a824b8b7631
 canonical: 25118-be-your-authentic-self-at-couche-tards-global-stores.json
 ---
