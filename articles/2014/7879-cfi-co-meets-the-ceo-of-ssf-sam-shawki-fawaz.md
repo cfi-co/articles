@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191021051235
+wayback_snapshot_url: "http://web.archive.org/web/20191021051235/https://cfi.co/middleeast/2014/07/cfi-co-meets-the-ceo-of-ssf-sam-shawki-fawaz/"
 content_sha256: c2b3dffdefec4035a18223818a2ca39cdf5ada1496cbc6369012070068980765
 canonical: 7879-cfi-co-meets-the-ceo-of-ssf-sam-shawki-fawaz.json
 ---
