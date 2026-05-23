@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220524110818
+wayback_snapshot_url: "http://web.archive.org/web/20220524110818/https://cfi.co/technology/2022/05/how-do-you-define-the-metaverse/"
 content_sha256: 551a171bbc875580f775e18d6aca65e0013807392270d53289c98f5aea522831
 canonical: 22093-how-do-you-define-the-metaverse.json
 ---
