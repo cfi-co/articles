@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240709075534
+wayback_snapshot_url: "http://web.archive.org/web/20240709075534/https://cfi.co/latinamerica/2024/07/ey-argentina-new-tax-bill-for-argentinas-congress-to-incentivise-fdi/"
 content_sha256: 41e04bfc2ae686192163e9203d94c9a121d2fc9bc73e0f7b20ca41d6bf4f1719
 canonical: 26903-ey-argentina-new-tax-bill-for-argentinas-congress-to-incentivise-fdi.json
 ---
