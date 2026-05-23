@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230225152526
+wayback_snapshot_url: "http://web.archive.org/web/20230225152526/https://cfi.co/sustainability/2023/02/oecd-what-will-it-take-to-achieve-uns-sustainable-development-goals/"
 content_sha256: 292e4315d2e38d598cd379ed7f1287f91858a94df007aeb41f830fb3789030b6
 canonical: 24743-oecd-what-will-it-take-to-achieve-uns-sustainable-development-goals.json
 ---
