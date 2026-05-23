@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: badc87845e625b076b66d506ce1758390bf58b62e4dc976e2a942e93d750f853
 canonical: 10539-cfi-co-meets-the-ceo-of-edgars-stores-linda-masterson.json
 ---
