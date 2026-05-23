@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210905084011
+wayback_snapshot_url: "http://web.archive.org/web/20210905084011/https://cfi.co/c-19/2021/09/global-imbalances-and-the-pandemic/"
 content_sha256: a7c6cba60c4426fee8562c48f5dd9864b1bcc9e0387ce64d8f0c07ded39d2812
 canonical: 20538-global-imbalances-and-the-pandemic.json
 ---
