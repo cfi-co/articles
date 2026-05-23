@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220517133225
+wayback_snapshot_url: "http://web.archive.org/web/20220517133225/https://cfi.co/brave-new-world/2022/05/liberalism-and-its-discontents-francis-fukuyama-on-the-future-of-history/"
 content_sha256: 971d0b511520cb6cd18c4ac80a0a76e9257582c5e6767da98a33c3ba4eee4a29
 canonical: 21847-liberalism-and-its-discontents-francis-fukuyama-on-the-future-of-history.json
 ---
