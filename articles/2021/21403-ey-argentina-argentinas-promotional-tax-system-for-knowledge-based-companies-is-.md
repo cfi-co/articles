@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211222065708
+wayback_snapshot_url: "http://web.archive.org/web/20211222065708/https://cfi.co/latinamerica/2021/12/ey-argentina-argentinas-promotional-tax-system-for-knowledge-based-companies-is-gaining-ground-in-the-local-market/"
 content_sha256: 8293b276d07bd4e774f9fad28a6bd7a6294ed70cb6f9f84a7b36ba447d9f636e
 canonical: 21403-ey-argentina-argentinas-promotional-tax-system-for-knowledge-based-companies-is-.json
 ---
