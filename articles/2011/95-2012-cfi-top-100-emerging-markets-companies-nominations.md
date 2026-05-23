@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720032302
+wayback_snapshot_url: "http://web.archive.org/web/20190720032302/https://cfi.co/africa/2011/12/2012-cfi-top-100-emerging-markets-companies-nominations/"
 content_sha256: 59526a3f2c133a5e991d4d9f37c6a2a15ae0d54260187e4268dbc7d0ff5c5d31
 canonical: 95-2012-cfi-top-100-emerging-markets-companies-nominations.json
 ---
