@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140825185742
+wayback_snapshot_url: "http://web.archive.org/web/20140825185742/http://cfi.co/editors-picks/2013/12/dick-costolo-capitalizing-the-lure-of-future-profits/"
 content_sha256: 6e909131027832c634a45546e0bf337e9ab285dd84b3e93797b9137411607d4f
 canonical: 6279-dick-costolo-capitalizing-the-lure-of-future-profits.json
 ---
