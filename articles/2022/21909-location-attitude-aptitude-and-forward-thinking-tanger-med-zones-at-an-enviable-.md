@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625232952
+wayback_snapshot_url: "http://web.archive.org/web/20220625232952/https://cfi.co/menu/corporate/2022/05/location-attitude-aptitude-and-forward-thinking-tanger-med-zones-at-an-enviable-international-position/"
 content_sha256: fd50c22e84809f6673035dee78626fb2851ea3565ef55fbce780552689f75893
 canonical: 21909-location-attitude-aptitude-and-forward-thinking-tanger-med-zones-at-an-enviable-.json
 ---
