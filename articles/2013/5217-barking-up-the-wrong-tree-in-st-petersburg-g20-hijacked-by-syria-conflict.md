@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140328094523
+wayback_snapshot_url: "http://web.archive.org/web/20140328094523/http://cfi.co/europe/2013/09/barking-up-the-wrong-tree-in-st-petersburg-g20-hijacked-by-syria-conflict/"
 content_sha256: 0d124d6745f6eb1bb9ab645afe4fc04dab9324422a5418695a3587308082c265
 canonical: 5217-barking-up-the-wrong-tree-in-st-petersburg-g20-hijacked-by-syria-conflict.json
 ---
