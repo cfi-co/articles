@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231030224832
+wayback_snapshot_url: "http://web.archive.org/web/20231030224832/https://cfi.co/menu/innovation-technology/2023/09/accenture-on-generative-ai-surfing-the-next-wave-of-digital-transformation/"
 content_sha256: b0bfd794fb4c3bd7bbe7a110f5fac510489903e97957c217ba55e7a817fbf52d
 canonical: 26093-accenture-on-generative-ai-surfing-the-next-wave-of-digital-transformation.json
 ---
