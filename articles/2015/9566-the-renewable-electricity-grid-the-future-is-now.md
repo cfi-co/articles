@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724090423
+wayback_snapshot_url: "http://web.archive.org/web/20190724090423/https://cfi.co/banking/2015/03/the-renewable-electricity-grid-the-future-is-now/"
 content_sha256: bceaa7ac00a57c44e7ef47dd222ce50f647898d58247761c27116246822711e5
 canonical: 9566-the-renewable-electricity-grid-the-future-is-now.json
 ---
