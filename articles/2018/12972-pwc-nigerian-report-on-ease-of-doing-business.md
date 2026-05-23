@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 77f811399921f213fa04a9f4c72b40796b59e3a44e130ce1bae422c14af154b4
 canonical: 12972-pwc-nigerian-report-on-ease-of-doing-business.json
 ---
