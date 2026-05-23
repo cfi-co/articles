@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825100607
+wayback_snapshot_url: "http://web.archive.org/web/20190825100607/https://cfi.co/corporate-leaders/2014/10/cfi-co-meets-the-ceo-of-dunn-loren-merrifield-sonnie-ayere/"
 content_sha256: 0fe1490f77a882bfe4c1fbc24982a04c9077e4f160ee8db903bbc6bf79e53fc0
 canonical: 10584-cfi-co-meets-the-ceo-of-dunn-loren-merrifield-sonnie-ayere.json
 ---
