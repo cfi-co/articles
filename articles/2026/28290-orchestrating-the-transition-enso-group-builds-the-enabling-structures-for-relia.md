@@ -16,7 +16,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260315111620
+wayback_snapshot_url: "http://web.archive.org/web/20260315111620/https://cfi.co/africa/2026/02/orchestrating-the-transition-enso-group-builds-the-enabling-structures-for-reliable-clean-power/"
 content_sha256: 3e18ca2305b3daf72e4c316edf9c532ced7297d12bdb01c040959cbc6bb1b9be
 canonical: 28290-orchestrating-the-transition-enso-group-builds-the-enabling-structures-for-relia.json
 ---
