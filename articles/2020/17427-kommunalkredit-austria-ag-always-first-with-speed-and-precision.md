@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201119053244
+wayback_snapshot_url: "http://web.archive.org/web/20201119053244/https://cfi.co/menu/corporate/2020/01/kommunalkredit-austria-ag-always-first-with-speed-and-precision/"
 content_sha256: 84fa8ab44f940ad107ed279f384c21e9f86e930a5b6784036ed2984b720eae65
 canonical: 17427-kommunalkredit-austria-ag-always-first-with-speed-and-precision.json
 ---
