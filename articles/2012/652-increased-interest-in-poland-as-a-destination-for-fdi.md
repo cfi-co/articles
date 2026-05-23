@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818053809
+wayback_snapshot_url: "http://web.archive.org/web/20190818053809/https://cfi.co/europe/2012/05/increased-interest-in-poland-as-a-destination-for-fdi/"
 content_sha256: 0d4ab624299c0ab966c6889b3813998b7d511e7f4dc1ebde299bc23952e10e5e
 canonical: 652-increased-interest-in-poland-as-a-destination-for-fdi.json
 ---
