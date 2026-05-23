@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418045620
+wayback_snapshot_url: "http://web.archive.org/web/20210418045620/https://cfi.co/corporate-leaders/2020/08/arvind-krishna-ibm-ceo-preparing-big-blue-for-a-quantum-leap/"
 content_sha256: bda9b0aefe880f8f37555dba6617bc907f52db90fd827c3b72e23407678285f6
 canonical: 16525-arvind-krishna-ibm-ceo-preparing-big-blue-for-a-quantum-leap.json
 ---
