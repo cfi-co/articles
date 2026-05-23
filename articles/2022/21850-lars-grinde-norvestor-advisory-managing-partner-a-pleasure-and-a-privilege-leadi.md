@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625222548
+wayback_snapshot_url: "http://web.archive.org/web/20220625222548/https://cfi.co/menu/corporate/2022/05/lars-grinde-norvestor-advisory-managing-partner-a-pleasure-and-a-privilege-leading-from-the-centre/"
 content_sha256: 94a3d732174d5d25442c0861260b000587481c332d982b02f3dfdd8b020d91a2
 canonical: 21850-lars-grinde-norvestor-advisory-managing-partner-a-pleasure-and-a-privilege-leadi.json
 ---
