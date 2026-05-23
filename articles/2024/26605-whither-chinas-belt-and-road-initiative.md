@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240225144642
+wayback_snapshot_url: "http://web.archive.org/web/20240225144642/https://cfi.co/asia-pacific/2024/01/whither-chinas-belt-and-road-initiative/"
 content_sha256: 5cd2340573b47c33b3cc467d6bb5af52b945f66b942422cabfc47d990e7bdde0
 canonical: 26605-whither-chinas-belt-and-road-initiative.json
 ---
