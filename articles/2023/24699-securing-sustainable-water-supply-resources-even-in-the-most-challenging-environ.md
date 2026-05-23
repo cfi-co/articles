@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230203185802
+wayback_snapshot_url: "http://web.archive.org/web/20230203185802/https://cfi.co/sustainability/2023/02/securing-sustainable-water-supply-resources-even-in-the-most-challenging-environments/"
 content_sha256: 280e4d50cd6a59ee077e7c62dbdc45c07525fccb76e6eb119198bec40240c870
 canonical: 24699-securing-sustainable-water-supply-resources-even-in-the-most-challenging-environ.json
 ---
