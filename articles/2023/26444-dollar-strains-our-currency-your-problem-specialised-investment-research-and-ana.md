@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231206174948
+wayback_snapshot_url: "http://web.archive.org/web/20231206174948/https://cfi.co/menu/banking-finance/2023/11/dollar-strains-our-currency-your-problem-specialised-investment-research-and-analysis-from-pgm-global-inc/"
 content_sha256: a00c505df25f33b2b4aba5f72b879fc7f65470c61860251efc27da42d411e0ba
 canonical: 26444-dollar-strains-our-currency-your-problem-specialised-investment-research-and-ana.json
 ---
