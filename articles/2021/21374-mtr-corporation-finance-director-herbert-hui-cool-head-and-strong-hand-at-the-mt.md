@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625233801
+wayback_snapshot_url: "http://web.archive.org/web/20220625233801/https://cfi.co/menu/corporate/2021/12/mtr-corporation-finance-director-herbert-hui-cool-head-and-strong-hand-at-the-mtr-tiller/"
 content_sha256: e8e794442c5adce7e650d7fc68635d8402088cb6162762cf9e5d0fff43a9408d
 canonical: 21374-mtr-corporation-finance-director-herbert-hui-cool-head-and-strong-hand-at-the-mt.json
 ---
