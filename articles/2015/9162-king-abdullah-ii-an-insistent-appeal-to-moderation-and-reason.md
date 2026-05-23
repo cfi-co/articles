@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: d132f513f82c37f25719642ae001f486d106bd48238fa0e108d571af33ea0d45
 canonical: 9162-king-abdullah-ii-an-insistent-appeal-to-moderation-and-reason.json
 ---
