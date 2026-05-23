@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327090942
+wayback_snapshot_url: "http://web.archive.org/web/20140327090942/http://cfi.co/africa/2013/11/nepad-towards-the-au-agenda-2063-africa-building-momentum-from-a-decade-of-achievement/"
 content_sha256: 7e53fd033d760ca6857d1c84424d675b2712e12c11d08e52ab793707e19c1ad9
 canonical: 6051-nepad-towards-the-au-agenda-2063-africa-building-momentum-from-a-decade-of-achie.json
 ---
