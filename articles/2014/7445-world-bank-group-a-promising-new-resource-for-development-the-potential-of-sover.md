@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140625172922
+wayback_snapshot_url: "http://web.archive.org/web/20140625172922/http://cfi.co/banking/2014/06/world-bank-group-a-promising-new-resource-for-development-the-potential-of-sovereign-wealth-funds/"
 content_sha256: 5f66e9c67ae59e4184aaeca6831f4c4c0a70dd0026177bc879da4f4cdf3860a3
 canonical: 7445-world-bank-group-a-promising-new-resource-for-development-the-potential-of-sover.json
 ---
