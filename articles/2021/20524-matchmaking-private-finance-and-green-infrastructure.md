@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210925152344
+wayback_snapshot_url: "http://web.archive.org/web/20210925152344/https://blog.cfi.co/finance/2021/08/matchmaking-private-finance-and-green-infrastructure/"
 content_sha256: a193206942fa58a04b482bb54315e3a10a140d4e382f54aa86b048576afbac9d
 canonical: 20524-matchmaking-private-finance-and-green-infrastructure.json
 ---
