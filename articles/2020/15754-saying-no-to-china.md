@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200919121309
+wayback_snapshot_url: "http://web.archive.org/web/20200919121309/https://cfi.co/c-19/2020/06/saying-no-to-china/"
 content_sha256: 68088e837e8c52492bebef17e6ced2f46acb508dccc130b30af36865246931b0
 canonical: 15754-saying-no-to-china.json
 ---
