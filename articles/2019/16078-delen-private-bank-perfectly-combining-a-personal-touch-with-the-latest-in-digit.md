@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200924122254
+wayback_snapshot_url: "http://web.archive.org/web/20200924122254/https://cfi.co/menu/corporate/2019/10/delen-private-bank-perfectly-combining-a-personal-touch-with-the-latest-in-digital-technology/"
 content_sha256: e7f4036540b989394c1ed6e35f00917b81be957093cef32251a1b65639dfd460
 canonical: 16078-delen-private-bank-perfectly-combining-a-personal-touch-with-the-latest-in-digit.json
 ---
