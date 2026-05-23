@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251001143018
+wayback_snapshot_url: "http://web.archive.org/web/20251001143018/https://cfi.co/northamerica/2025/09/ecapital-scaling-capacity-expanding-reach-and-redefining-sme-finance/"
 content_sha256: ddbf6a08590beb7a4b10d0d2539690d4181a67b97f236f4e9bdbf27d4f22ff39
 canonical: 27973-ecapital-scaling-capacity-expanding-reach-and-redefining-sme-finance.json
 ---
