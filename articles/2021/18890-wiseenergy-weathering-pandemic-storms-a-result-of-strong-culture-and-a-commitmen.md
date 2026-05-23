@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210315175920
+wayback_snapshot_url: "http://web.archive.org/web/20210315175920/https://cfi.co/menu/corporate/2021/03/wiseenergy-weathering-pandemic-storms-a-result-of-strong-culture-and-a-commitment-to-clients-and-mission/"
 content_sha256: ac1de1e1c5597aff65527dbfe17768462f8da31a887475d8796fa4e9aed37087
 canonical: 18890-wiseenergy-weathering-pandemic-storms-a-result-of-strong-culture-and-a-commitmen.json
 ---
