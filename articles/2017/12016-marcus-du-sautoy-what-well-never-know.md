@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200920201814
+wayback_snapshot_url: "http://web.archive.org/web/20200920201814/https://cfi.co/editors-picks/2017/09/marcus-du-sautoy-what-well-never-know/"
 content_sha256: d21fcf4795b9e42d50f9dee1a98694d8bac53a222c88ce5317c25a50cb68aee5
 canonical: 12016-marcus-du-sautoy-what-well-never-know.json
 ---
