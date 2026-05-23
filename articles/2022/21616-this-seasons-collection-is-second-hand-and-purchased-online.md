@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625222254
+wayback_snapshot_url: "http://web.archive.org/web/20220625222254/https://cfi.co/brave-new-world/2022/03/this-seasons-collection-is-second-hand-and-purchased-online/"
 content_sha256: 95afc9281d7679d9a14c28120500df9233bb1ac883a7c3486604cd58597eeaa9
 canonical: 21616-this-seasons-collection-is-second-hand-and-purchased-online.json
 ---
