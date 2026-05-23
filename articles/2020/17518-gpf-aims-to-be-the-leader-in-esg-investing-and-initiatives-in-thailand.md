@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210616015005
+wayback_snapshot_url: "http://web.archive.org/web/20210616015005/https://cfi.co/asia-pacific/2020/01/gpf-aims-to-be-the-leader-in-esg-investing-and-initiatives-in-thailand/"
 content_sha256: 560232d30ac14f9238e6decc9f83564e2adcc967daa6731abc6a2ca340b59b57
 canonical: 17518-gpf-aims-to-be-the-leader-in-esg-investing-and-initiatives-in-thailand.json
 ---
