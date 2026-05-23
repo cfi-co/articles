@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191013203415
+wayback_snapshot_url: "http://web.archive.org/web/20191013203415/https://cfi.co/asia-pacific/2014/06/achieving-growth-and-development-through-increased-opportunities-for-the-private-sector-better-public-services-and-enhanced-regional-connectivity/"
 content_sha256: 6da1560f36f767293ac7364870d85ba6f9b0b63001ba42b7b7e970d3f64012ea
 canonical: 7421-achieving-growth-and-development-through-increased-opportunities-for-the-private.json
 ---
