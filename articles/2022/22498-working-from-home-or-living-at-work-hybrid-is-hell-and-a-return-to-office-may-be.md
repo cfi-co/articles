@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220729012135
+wayback_snapshot_url: "http://web.archive.org/web/20220729012135/https://cfi.co/brave-new-world/2022/07/working-from-home-or-living-at-work-hybrid-is-hell-and-a-return-to-office-may-be-worse/"
 content_sha256: 312e0b438335198d80ca7b1408f1ad8de671782cb535e89ddbdb5f953d812e52
 canonical: 22498-working-from-home-or-living-at-work-hybrid-is-hell-and-a-return-to-office-may-be.json
 ---
