@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916090643
+wayback_snapshot_url: "http://web.archive.org/web/20190916090643/https://cfi.co/africa/2015/01/world-bank-group-remittances-a-vital-channel-for-global-cash-flows/"
 content_sha256: b1e33f5f5fe3f315780a3ec84da4fde8d6d65e6a4358924908250d7ac9a3fd2b
 canonical: 8814-world-bank-group-remittances-a-vital-channel-for-global-cash-flows.json
 ---
