@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050238
+wayback_snapshot_url: "http://web.archive.org/web/20190818050238/https://cfi.co/europe/2013/08/as-spain-and-argentina-team-up-royal-navy-sets-sail-for-gibraltar/"
 content_sha256: 1d0f708a17548ada5b4c1467798b564642eced1773af42edb65cb6fbfd13b79b
 canonical: 4988-as-spain-and-argentina-team-up-royal-navy-sets-sail-for-gibraltar.json
 ---
