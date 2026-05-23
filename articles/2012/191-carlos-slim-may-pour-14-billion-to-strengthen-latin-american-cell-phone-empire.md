@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916043518
+wayback_snapshot_url: "http://web.archive.org/web/20190916043518/https://cfi.co/latinamerica/2012/01/carlos-slim-may-pour-14-billion-to-strengthen-latin-american-cell-phone-empire/"
 content_sha256: 0b0c0c61104dd16bf62c87dd92eed9da261e874ba7402a0876c8357df2136fec
 canonical: 191-carlos-slim-may-pour-14-billion-to-strengthen-latin-american-cell-phone-empire.json
 ---
