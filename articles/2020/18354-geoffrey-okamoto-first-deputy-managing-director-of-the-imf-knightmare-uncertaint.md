@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201221115827
+wayback_snapshot_url: "http://web.archive.org/web/20201221115827/https://cfi.co/finance/2020/12/geoffrey-okamoto-first-deputy-managing-director-of-the-imf-knightmare-uncertainty/"
 content_sha256: fc681ddb9f24a2ef64a2f185e75dadf558bae24b77cf0f3d27190a09c179fe14
 canonical: 18354-geoffrey-okamoto-first-deputy-managing-director-of-the-imf-knightmare-uncertaint.json
 ---
