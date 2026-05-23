@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230329052814
+wayback_snapshot_url: "http://web.archive.org/web/20230329052814/https://cfi.co/menu/corporate/2023/03/ginni-rometty-former-ibm-boss/"
 content_sha256: db9bdb69f57782416bb32b3d49423245e40fe2792812490fadb07e0e6138a5c9
 canonical: 24920-ginni-rometty-former-ibm-boss.json
 ---
