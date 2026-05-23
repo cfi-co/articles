@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200918224425
+wayback_snapshot_url: "http://web.archive.org/web/20200918224425/https://cfi.co/menu/corporate/2020/08/jabra-good-sounds-sound-ethics-and-fine-design/"
 content_sha256: 76d0be28202adab27e4ffbc399ccd76430440c13a73cf7bb5220d448d691731d
 canonical: 16708-jabra-good-sounds-sound-ethics-and-fine-design.json
 ---
