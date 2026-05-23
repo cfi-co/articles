@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220412143653
+wayback_snapshot_url: "http://web.archive.org/web/20220412143653/https://cfi.co/menu/heroes/2022/04/charlotte-mccurdy-getting-creative-about-climate-change-time-to-plant-the-seed/"
 content_sha256: 81aee00971fdc471fdb263779517267631f7defb8665710dda86378950b357e4
 canonical: 21706-charlotte-mccurdy-getting-creative-about-climate-change-time-to-plant-the-seed.json
 ---
