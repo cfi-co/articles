@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823052049
+wayback_snapshot_url: "http://web.archive.org/web/20190823052049/https://cfi.co/europe/2012/12/poland-welcomes-migrant-workers/"
 content_sha256: fffcbc0fe6f093800174f74b2d01f9a05f97cb2bb7bc466638df22875985a306
 canonical: 2823-poland-welcomes-migrant-workers.json
 ---
