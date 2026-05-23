@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928192844
+wayback_snapshot_url: "http://web.archive.org/web/20220928192844/https://cfi.co/brave-new-world/2022/09/ifc-on-climate-adaptation-its-everybodys-business/"
 content_sha256: c4a2b4f65703497eb87ea09635be0304c6353d71b0deaf3a1fc13b5fc21ee7b1
 canonical: 23311-ifc-on-climate-adaptation-its-everybodys-business.json
 ---
