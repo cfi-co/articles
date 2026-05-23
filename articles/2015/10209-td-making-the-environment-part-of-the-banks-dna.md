@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20171209182606
+wayback_snapshot_url: "http://web.archive.org/web/20171209182606/http://cfi.co/banking/2015/08/td-making-the-environment-part-of-the-banks-dna/"
 content_sha256: 38fff6426e9f3b4f2f802f6d4fce87f3a87782de8eaaec6c17dd2bf026fda598
 canonical: 10209-td-making-the-environment-part-of-the-banks-dna.json
 ---
