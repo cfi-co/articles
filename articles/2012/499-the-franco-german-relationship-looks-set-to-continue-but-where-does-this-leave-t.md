@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823045927
+wayback_snapshot_url: "http://web.archive.org/web/20190823045927/https://cfi.co/banking/2012/05/the-franco-german-relationship-looks-set-to-continue-but-where-does-this-leave-the-greeks/"
 content_sha256: d322628809d24a1836f817ee076837478b39af7628b4b0bbcb2bf341486b0ea2
 canonical: 499-the-franco-german-relationship-looks-set-to-continue-but-where-does-this-leave-t.json
 ---
