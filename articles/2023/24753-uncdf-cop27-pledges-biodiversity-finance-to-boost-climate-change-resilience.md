@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230225150734
+wayback_snapshot_url: "http://web.archive.org/web/20230225150734/https://cfi.co/middleeast/2023/02/uncdf-cop27-pledges-biodiversity-finance-to-boost-climate-change-resilience/"
 content_sha256: bc577325f831ee62e6fe187e9de51108b3f124eec94432e2dc43a803e74aa415
 canonical: 24753-uncdf-cop27-pledges-biodiversity-finance-to-boost-climate-change-resilience.json
 ---
