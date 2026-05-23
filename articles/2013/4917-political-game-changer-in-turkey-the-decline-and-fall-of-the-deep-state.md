@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818052644
+wayback_snapshot_url: "http://web.archive.org/web/20190818052644/https://cfi.co/europe/2013/08/political-game-changer-in-turkey-the-decline-and-fall-of-the-deep-state/"
 content_sha256: 4d14cd1d47cdb209848937e904b5086974dc20a36a3de4336a6613786b868414
 canonical: 4917-political-game-changer-in-turkey-the-decline-and-fall-of-the-deep-state.json
 ---
