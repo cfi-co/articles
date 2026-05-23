@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230320151219
+wayback_snapshot_url: "http://web.archive.org/web/20230320151219/https://cfi.co/europe/2023/01/forward-you-celebrating-the-difference/"
 content_sha256: a8e3c2147a60dd88ff0da9328e6973de02dd8aea31ade0e0da21f4005945d124
 canonical: 24363-forward-you-celebrating-the-difference.json
 ---
