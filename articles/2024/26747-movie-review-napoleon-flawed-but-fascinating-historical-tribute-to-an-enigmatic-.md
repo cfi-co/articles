@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240420123517
+wayback_snapshot_url: "http://web.archive.org/web/20240420123517/https://cfi.co/lifestyle/2024/04/movie-review-napoleon-flawed-but-fascinating-historical-tribute-to-an-enigmatic-emperor/"
 content_sha256: 53a54805e79ed1d2134d7196defa32ace54dbae46eb7352bcb2846a828aa1348
 canonical: 26747-movie-review-napoleon-flawed-but-fascinating-historical-tribute-to-an-enigmatic-.json
 ---
