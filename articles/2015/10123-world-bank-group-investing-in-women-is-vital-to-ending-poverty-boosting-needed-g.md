@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190820143642
+wayback_snapshot_url: "http://web.archive.org/web/20190820143642/https://cfi.co/finance/2015/07/world-bank-group-investing-in-women-is-vital-to-ending-poverty-boosting-needed-growth/"
 content_sha256: 2ef5d5e3bc1daaadd80be35558d46bfe56366c458840c280196557c78b3471ec
 canonical: 10123-world-bank-group-investing-in-women-is-vital-to-ending-poverty-boosting-needed-g.json
 ---
