@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241207063420
+wayback_snapshot_url: "http://web.archive.org/web/20241207063420/https://cfi.co/africa/2024/09/n-justin-chinyanta-a-pan-african-plan-hatched-back-in-1992-with-a-dream/"
 content_sha256: e3851eeeb85cf571b349545d6cff82e5aee07fbbd9ab7cb0317f36c0073ea8cf
 canonical: 27117-n-justin-chinyanta-a-pan-african-plan-hatched-back-in-1992-with-a-dream.json
 ---
