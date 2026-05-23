@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228095830
+wayback_snapshot_url: "http://web.archive.org/web/20210228095830/https://cfi.co/c-19/2021/01/us-democracy-the-need-for-speed-in-politics/"
 content_sha256: 119db8892f8eb88d84192eb44b1c6cffb32e4839ef63f13030f97c5491e94b4d
 canonical: 18508-us-democracy-the-need-for-speed-in-politics.json
 ---
