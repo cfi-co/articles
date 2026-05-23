@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928075623
+wayback_snapshot_url: "http://web.archive.org/web/20220928075623/https://cfi.co/technology/2022/09/cbre-proptech-fuels-commercial-real-estate-leasing-market/"
 content_sha256: f13b0167eae841b75e6a9f69f8dfa0a319e7cc9e9d17b4c4a0d238fed5843642
 canonical: 23550-cbre-proptech-fuels-commercial-real-estate-leasing-market.json
 ---
