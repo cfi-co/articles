@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240225161833
+wayback_snapshot_url: "http://web.archive.org/web/20240225161833/https://cfi.co/europe/2023/09/renaio-has-its-game-plan-all-worked-out/"
 content_sha256: c1290fcd34317083467376320a82f25dd5109b9acc774263961a0469c9af8013
 canonical: 25962-hydro-hydro-and-off-to-work-go-your-euros-renaio-has-its-game-plan-all-worked-ou.json
 ---
