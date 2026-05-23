@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180703233039
+wayback_snapshot_url: "http://web.archive.org/web/20180703233039/http://cfi.co/editors-picks/2013/05/hero-hrabowski-cool-to-be-smart/"
 content_sha256: 8b8f4975ac730c2c93c55cf2693b9bf6bc7318f5e55ea0a4fbdad11baef31ee5
 canonical: 3843-hero-hrabowski-cool-to-be-smart.json
 ---
