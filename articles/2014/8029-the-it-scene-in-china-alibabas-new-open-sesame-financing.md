@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717211052
+wayback_snapshot_url: "http://web.archive.org/web/20190717211052/https://cfi.co/asia-pacific/2014/09/the-it-scene-in-china-alibabas-new-open-sesame-financing/"
 content_sha256: d10be00c3bbe61827a558591580a14bdcd40a324331fcc9f2470260b4dcca611
 canonical: 8029-the-it-scene-in-china-alibabas-new-open-sesame-financing.json
 ---
