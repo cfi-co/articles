@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210727073121
+wayback_snapshot_url: "http://web.archive.org/web/20210727073121/https://cfi.co/menu/corporate/2021/07/bbva-asset-management-going-global-in-the-battle-to-bring-sustainability-to-the-wider-world-of-investment/"
 content_sha256: 446fada51acb2f562c0c3550d31e5662bb6d31f33f7585b56774ad1cb5d73348
 canonical: 19926-bbva-asset-management-going-global-in-the-battle-to-bring-sustainability-to-the-.json
 ---
