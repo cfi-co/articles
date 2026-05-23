@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251105145428
+wayback_snapshot_url: "http://web.archive.org/web/20251105145428/https://cfi.co/latinamerica/2025/11/david-neeleman-the-high-flyer-with-adhd-how-a-restless-mind-revolutionised-air-travel/"
 content_sha256: eaa7a5dae81368a855465f768e5e46b63be00f0dfd0a5259910f105e2defea4d
 canonical: 28037-david-neeleman-the-high-flyer-with-adhd-how-a-restless-mind-revolutionised-air-t.json
 ---
