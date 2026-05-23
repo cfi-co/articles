@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818133712
+wayback_snapshot_url: "http://web.archive.org/web/20190818133712/https://cfi.co/banking/2012/06/ecb-european-central-bank-presidents-address-at-the-14th-ecb-and-its-watchers-conference/"
 content_sha256: 2086e327cc92363c2b5c487699e2c82c6e1a5bbaadf359dd806146cd60cc04f3
 canonical: 881-ecb-european-central-bank-presidents-address-at-the-14th-ecb-and-its-watchers-co.json
 ---
