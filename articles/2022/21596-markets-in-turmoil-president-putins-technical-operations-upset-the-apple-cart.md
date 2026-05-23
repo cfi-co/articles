@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: ac6ea6e1804483a51b0f4579c27f3958b00f0a9ae35f51c6fc5fe6f82daecb16
 canonical: 21596-markets-in-turmoil-president-putins-technical-operations-upset-the-apple-cart.json
 ---
