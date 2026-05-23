@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: d94bfc9d2b4987181f569493494fa30f4c4010834cd314d90af7e3846eb48ea9
 canonical: 27126-ah-the-caribbean-life-asset-management-firm-in-jamaica-earns-international-recog.json
 ---
