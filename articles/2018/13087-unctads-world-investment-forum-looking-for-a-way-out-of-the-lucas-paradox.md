@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717205929
+wayback_snapshot_url: "http://web.archive.org/web/20190717205929/https://cfi.co/wif2018/2018/10/unctads-world-investment-forum-looking-for-a-way-out-of-the-lucas-paradox/"
 content_sha256: a86cf2062930c1df6c2b04a748b56cc8664231b6bd19e297ae73441fc5fbb62a
 canonical: 13087-unctads-world-investment-forum-looking-for-a-way-out-of-the-lucas-paradox.json
 ---
