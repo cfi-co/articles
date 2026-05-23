@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200414014159
+wayback_snapshot_url: "http://web.archive.org/web/20200414014159/https://cfi.co/c-19/2020/04/the-great-equaliser-that-was-not/"
 content_sha256: b8be976311ea9a2e14ba776d5ffa005ac57d31b432e569ed7de0ad1c3c17ab72
 canonical: 14801-the-great-equaliser-that-was-not.json
 ---
