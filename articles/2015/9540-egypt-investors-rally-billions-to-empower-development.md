@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724090429
+wayback_snapshot_url: "http://web.archive.org/web/20190724090429/https://cfi.co/finance/2015/03/egypt-investors-rally-billions-to-empower-development/"
 content_sha256: 731d459ab0d119b1135c5bc3e31604b4cbb268a148ef79b6145bc3ea620b2ca3
 canonical: 9540-egypt-investors-rally-billions-to-empower-development.json
 ---
