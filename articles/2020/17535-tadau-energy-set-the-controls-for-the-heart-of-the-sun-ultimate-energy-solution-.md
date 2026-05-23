@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: a67efa7ffa1ace03069c6793849540a31ea276a9b095a390c10f2735cbb6e5b3
 canonical: 17535-tadau-energy-set-the-controls-for-the-heart-of-the-sun-ultimate-energy-solution-.json
 ---
