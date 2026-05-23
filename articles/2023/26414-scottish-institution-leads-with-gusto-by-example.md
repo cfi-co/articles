@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: f765bcec1cf2c2893443076d185d1726009ed6c4a7a8ea1c439496e2a67addd5
 canonical: 26414-scottish-institution-leads-with-gusto-by-example.json
 ---
