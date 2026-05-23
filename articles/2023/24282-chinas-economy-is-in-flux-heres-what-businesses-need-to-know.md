@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230125145517
+wayback_snapshot_url: "http://web.archive.org/web/20230125145517/https://cfi.co/brave-new-world/2023/01/chinas-economy-is-in-flux-heres-what-businesses-need-to-know/"
 content_sha256: c3ceb5034d1e7f5abfa39bbd3b201f648c5e507f0fac44ea65c060013949b7ad
 canonical: 24282-chinas-economy-is-in-flux-heres-what-businesses-need-to-know.json
 ---
