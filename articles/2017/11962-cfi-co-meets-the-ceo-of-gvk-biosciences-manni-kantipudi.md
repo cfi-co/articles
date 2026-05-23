@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190508090832
+wayback_snapshot_url: "http://web.archive.org/web/20190508090832/https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-ceo-of-gvk-biosciences-manni-kantipudi/"
 content_sha256: 6ca154c58a65f561ceb92084265f2008a4d733db15dc87192b345573e592b110
 canonical: 11962-cfi-co-meets-the-ceo-of-gvk-biosciences-manni-kantipudi.json
 ---
