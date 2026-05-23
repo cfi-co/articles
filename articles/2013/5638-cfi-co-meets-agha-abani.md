@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327091007
+wayback_snapshot_url: "http://web.archive.org/web/20140327091007/http://cfi.co/africa/2013/10/cfi-co-meets-agha-abani/"
 content_sha256: 7aad0a2ecaf4d01d803a61b9e87881e0d253d9b0b018e41201dec8695efe66b4
 canonical: 5638-cfi-co-meets-agha-abani.json
 ---
