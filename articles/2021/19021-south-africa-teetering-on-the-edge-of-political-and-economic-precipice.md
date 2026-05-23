@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210315175913
+wayback_snapshot_url: "http://web.archive.org/web/20210315175913/https://cfi.co/c-19/2021/03/south-africa-teetering-on-the-edge-of-political-and-economic-precipice/"
 content_sha256: 49ffbb7094af41a8e8d3122a5939fbd0753ccc0fcd04def4b9b7ba6252be0b72
 canonical: 19021-south-africa-teetering-on-the-edge-of-political-and-economic-precipice.json
 ---
