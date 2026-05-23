@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20131014093804
+wayback_snapshot_url: "http://web.archive.org/web/20131014093804/http://cfi.co/awards/"
 content_sha256: 4b2e2ae2ab9d129af1f4859d09adbd5cfb1a2698772add8c165ac5c3a5ff6b1f
 canonical: 12372-british-airways-best-premium-travel-experience-global-2017.json
 ---
