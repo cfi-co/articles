@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916092141
+wayback_snapshot_url: "http://web.archive.org/web/20190916092141/https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-acting-ceo-of-investsa-yunus-hoosen/"
 content_sha256: 62da0593a598a320b34fd3bcb22e0a8f296835745918735e9931ea1ee6d16c3b
 canonical: 11860-cfi-co-meets-the-acting-ceo-of-investsa-yunus-hoosen.json
 ---
