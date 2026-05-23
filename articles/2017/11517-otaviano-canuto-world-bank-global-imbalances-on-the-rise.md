@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180807105858
+wayback_snapshot_url: "http://web.archive.org/web/20180807105858/http://cfi.co/finance/2017/02/otaviano-canuto-world-bank-global-imbalances-on-the-rise/"
 content_sha256: 80e8929ef81c2cc4ffc47097ae069818e21bf059f973a6f58300ed2376b4d45b
 canonical: 11517-otaviano-canuto-world-bank-global-imbalances-on-the-rise.json
 ---
