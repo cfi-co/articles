@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825094123
+wayback_snapshot_url: "http://web.archive.org/web/20190825094123/https://cfi.co/latinamerica/2019/02/alexandria-ocasio-cortez-young-congresswoman-refuses-to-play-nice/"
 content_sha256: 1bca19fd5cd06ad4cdda286c33be933307f44025d5ce4de963afcf7be4143048
 canonical: 13367-alexandria-ocasio-cortez-young-congresswoman-refuses-to-play-nice.json
 ---
