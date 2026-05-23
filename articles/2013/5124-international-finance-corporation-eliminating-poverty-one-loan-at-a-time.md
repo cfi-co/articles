@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140827111414
+wayback_snapshot_url: "http://web.archive.org/web/20140827111414/http://cfi.co/africa/2013/08/international-finance-corporation-eliminating-poverty-one-loan-at-a-time/"
 content_sha256: bd4ec6c34f5d218c684601fed2e81712e32ad26980c8dd1c5efe982942a5c7c4
 canonical: 5124-international-finance-corporation-eliminating-poverty-one-loan-at-a-time.json
 ---
