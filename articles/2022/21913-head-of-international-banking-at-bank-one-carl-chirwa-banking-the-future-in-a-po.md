@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220518091839
+wayback_snapshot_url: "http://web.archive.org/web/20220518091839/https://cfi.co/menu/corporate/2022/05/head-of-international-banking-at-bank-one-carl-chirwa-banking-the-future-in-a-post-covid-19-world/"
 content_sha256: 3ff91b05141df009b0462d3ef8d3120bf5c6db19c38299d8510b121623a95c7e
 canonical: 21913-head-of-international-banking-at-bank-one-carl-chirwa-banking-the-future-in-a-po.json
 ---
