@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: d28c0c2be88fc018cb38ae912099bcee590ceaefc08d50122f1267f940c75356
 canonical: 27656-arval-driving-the-future-of-fleet-mobility-through-sustainability-innovation-and.json
 ---
