@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210830095215
+wayback_snapshot_url: "http://web.archive.org/web/20210830095215/https://cfi.co/europe/2021/08/la-maison-guerlain-its-sweet-history-sure-smells-of-success/"
 content_sha256: b360dc299840cacf685ff0f19e2ec4a9fffe53a901e27b4411b4a6b4daab5379
 canonical: 20476-la-maison-guerlain-its-sweet-history-sure-smells-of-success.json
 ---
