@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240814224932
+wayback_snapshot_url: "http://web.archive.org/web/20240814224932/https://cfi.co/banking/2024/08/walter-mejia-ceo-of-banco-ficensa-providing-solutions-with-humility-gratitude-and-a-personal-touch/"
 content_sha256: 92b0886c4a8a0f4133c5f6370ece962360e8891d25ba553974bed594a83b2c24
 canonical: 26988-walter-mejia-ceo-of-banco-ficensa-providing-solutions-with-humility-gratitude-an.json
 ---
