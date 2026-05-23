@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717205952
+wayback_snapshot_url: "http://web.archive.org/web/20190717205952/https://cfi.co/corporate-leaders/2015/04/cfi-co-meets-the-invercaixa-gestion-fixed-income-fund-management-team-proactive-approach-in-fixed-income-fund-management/"
 content_sha256: fb6d32f1910a382e7df2d8bb5b95963bf8b159be59b913d39392fe5e72e1f152
 canonical: 10827-cfi-co-meets-the-invercaixa-gestion-fixed-income-fund-management-team-proactive-.json
 ---
