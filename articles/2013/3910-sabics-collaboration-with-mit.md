@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724024940
+wayback_snapshot_url: "http://web.archive.org/web/20190724024940/https://cfi.co/middleeast/2013/05/sabics-collaboration-with-mit/"
 content_sha256: ce57b8e75be16333a63e082302c04fd8d093471ee8e9309eddc6838be79e1b7a
 canonical: 3910-sabics-collaboration-with-mit.json
 ---
