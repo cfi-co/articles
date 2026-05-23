@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170503231919
+wayback_snapshot_url: "http://web.archive.org/web/20170503231919/http://cfi.co/finance/2017/05/ernst-young-argentina-new-government-measures-to-improve-and-strengthen-employment/"
 content_sha256: ac16a075406a1c9fa798143d59a3d769959b1200c4848da1db3bf6d98434206e
 canonical: 11588-ernst-young-argentina-new-government-measures-to-improve-and-strengthen-employme.json
 ---
