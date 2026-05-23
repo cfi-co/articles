@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140828135141
+wayback_snapshot_url: "http://web.archive.org/web/20140828135141/http://cfi.co/finance/2013/04/wto-on-the-future-of-trade-its-all-about-convergence/"
 content_sha256: eaf7051de53bcbaa4b7834a92244d6b47f27ba25ae2f65f81d22187462a459ff
 canonical: 3734-wto-on-the-future-of-trade-its-all-about-convergence.json
 ---
