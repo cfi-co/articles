@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: cb02ef85f6bc8a4567775a8e783fb86e7c361392a61616f868cce747d22aa4dd
 canonical: 6065-grant-thornton-hong-kong-managing-innovative-technologies-clomoso.json
 ---
