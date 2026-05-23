@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201109111226
+wayback_snapshot_url: "http://web.archive.org/web/20201109111226/https://cfi.co/europe/2020/11/lucrezia-reichlin-data-pioneer-hopes-for-a-new-era-of-economic-co-operation/"
 content_sha256: 3524c3a25355ffe0c150c2e6a00a16ab276cf162611608262fd37fc0f46deff6
 canonical: 17822-lucrezia-reichlin-data-pioneer-hopes-for-a-new-era-of-economic-co-operation.json
 ---
