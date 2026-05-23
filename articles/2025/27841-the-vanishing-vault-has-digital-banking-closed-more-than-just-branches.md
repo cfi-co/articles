@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250807115250
+wayback_snapshot_url: "http://web.archive.org/web/20250807115250/https://cfi.co/banking/2025/08/the-vanishing-vault-has-digital-banking-closed-more-than-just-branches/"
 content_sha256: c744c307a0242f3457840b39a596ab1fb5922090ad1d03256b9336e447cf515b
 canonical: 27841-the-vanishing-vault-has-digital-banking-closed-more-than-just-branches.json
 ---
