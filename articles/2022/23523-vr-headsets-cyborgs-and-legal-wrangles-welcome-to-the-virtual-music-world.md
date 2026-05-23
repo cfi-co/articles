@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220926073742
+wayback_snapshot_url: "http://web.archive.org/web/20220926073742/https://cfi.co/technology/2022/09/vr-headsets-cyborgs-and-legal-wrangles-welcome-to-the-virtual-music-world/"
 content_sha256: 79c0797ed4fc93f22bea45cc6131c69a80c5e8ad4346ebcc4721fd691ca88e4a
 canonical: 23523-vr-headsets-cyborgs-and-legal-wrangles-welcome-to-the-virtual-music-world.json
 ---
