@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220606174203
+wayback_snapshot_url: "http://web.archive.org/web/20220606174203/https://cfi.co/brave-new-world/2022/05/ursula-von-der-leyens-speech-to-davos-2022-in-full/"
 content_sha256: 0c76060630fac564ce001634c7469405749a0f341db210380c594e9beb8bf93c
 canonical: 22106-ursula-von-der-leyens-speech-to-davos-2022-in-full.json
 ---
