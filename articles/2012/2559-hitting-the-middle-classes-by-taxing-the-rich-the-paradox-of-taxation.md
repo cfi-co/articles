@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200928083723
+wayback_snapshot_url: "http://web.archive.org/web/20200928083723/https://cfi.co/europe/2012/12/hitting-the-middle-classes-by-taxing-the-rich-the-paradox-of-taxation/"
 content_sha256: 6401a8b63cf286b4594469af0f7dc6fc80236a2b031614110761d41054b012a8
 canonical: 2559-hitting-the-middle-classes-by-taxing-the-rich-the-paradox-of-taxation.json
 ---
