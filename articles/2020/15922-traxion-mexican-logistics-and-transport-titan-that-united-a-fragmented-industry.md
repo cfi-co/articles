@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813174209
+wayback_snapshot_url: "http://web.archive.org/web/20200813174209/https://cfi.co/menu/corporate/2020/07/traxion-mexican-logistics-and-transport-titan-that-united-a-fragmented-industry/"
 content_sha256: 4de7c76b1b48c01642ede6ef41c91284ac20234ad76808edd32ba83f34fd7ec0
 canonical: 15922-traxion-mexican-logistics-and-transport-titan-that-united-a-fragmented-industry.json
 ---
