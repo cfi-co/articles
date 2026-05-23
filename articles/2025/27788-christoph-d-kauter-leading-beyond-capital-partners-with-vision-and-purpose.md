@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250812132546
+wayback_snapshot_url: "http://web.archive.org/web/20250812132546/https://cfi.co/corporate-leaders/2025/07/christoph-d-kauter-leading-beyond-capital-partners-with-vision-and-purpose/"
 content_sha256: 09fb5860d475873bf761c294b11f46a5ff5c115cc03b191475108e61f2c72d35
 canonical: 27788-christoph-d-kauter-leading-beyond-capital-partners-with-vision-and-purpose.json
 ---
