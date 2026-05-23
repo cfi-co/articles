@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422025810
+wayback_snapshot_url: "http://web.archive.org/web/20210422025810/https://cfi.co/menu/cfi-co-meets/2021/02/does-anyone-care-about-the-environment-nordea-finance-ceo-peter-hupfeld-does-and-always-has/"
 content_sha256: 0ce55d1e9356e92613a09f1c255cb9a62efa6e1eefd93beef171502c93b51f20
 canonical: 18571-does-anyone-care-about-the-environment-nordea-finance-ceo-peter-hupfeld-does-and.json
 ---
