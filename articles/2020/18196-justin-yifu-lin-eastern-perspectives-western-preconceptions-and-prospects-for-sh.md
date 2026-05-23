@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201204130257
+wayback_snapshot_url: "http://web.archive.org/web/20201204130257/https://cfi.co/asia-pacific/2020/12/justin-yifu-lin-eastern-perspectives-western-preconceptions-and-prospects-for-shared-economic-growth/"
 content_sha256: 330c3637884fabdb1525fa7142c8b87e6b05d03894cca1dae9a0aebcc4d6b977
 canonical: 18196-justin-yifu-lin-eastern-perspectives-western-preconceptions-and-prospects-for-sh.json
 ---
