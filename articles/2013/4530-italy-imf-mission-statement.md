@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180701131748
+wayback_snapshot_url: "http://web.archive.org/web/20180701131748/http://cfi.co/banking/2013/07/italy-imf-mission-statement/"
 content_sha256: 21171f85273e648ac324c44b8eabad0fb247781ec69d24e654dce7d12d551487
 canonical: 4530-italy-imf-mission-statement.json
 ---
