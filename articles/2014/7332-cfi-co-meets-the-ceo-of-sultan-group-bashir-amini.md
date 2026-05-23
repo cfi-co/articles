@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140705153514
+wayback_snapshot_url: "http://web.archive.org/web/20140705153514/http://cfi.co/middleeast/2014/03/cfi-co-meets-the-ceo-of-sultan-group-bashir-amini/"
 content_sha256: f3eeb15ae80e9c7231f3fc0a04f76243c9752d3b8081e1c6a2a760b763681260
 canonical: 7332-cfi-co-meets-the-ceo-of-sultan-group-bashir-amini.json
 ---
