@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210624181911
+wayback_snapshot_url: "http://web.archive.org/web/20210624181911/https://cfi.co/editors-picks/2021/06/texans-sports-star-jj-watt-has-acumen-altruism-and-ability/"
 content_sha256: 3871ca854ccd4afe3e0d6348acd6e7a369863e460c23d67dbb8f3671d0a9d984
 canonical: 20034-texans-sports-star-jj-watt-has-acumen-altruism-and-ability.json
 ---
