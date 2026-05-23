@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190305195934
+wayback_snapshot_url: "http://web.archive.org/web/20190305195934/https://cfi.co/latinamerica/2012/08/brazilian-investor-relations-institute-ibri-access-to-international-capital-markets/"
 content_sha256: 4aa0aab0df5c9a6b6f9cab584e1c216dd1693acbf2dca731c303a8a666aa5370
 canonical: 1970-brazilian-investor-relations-institute-ibri-access-to-international-capital-mark.json
 ---
