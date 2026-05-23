@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826151253
+wayback_snapshot_url: "http://web.archive.org/web/20140826151253/http://cfi.co/middleeast/2013/04/gcc-a-reliable-partner-in-energy-supply/"
 content_sha256: e978909213ded1473c19d74ba346e3676fa688b6f46880b879b417ed0f7c629e
 canonical: 3572-gcc-a-reliable-partner-in-energy-supply.json
 ---
