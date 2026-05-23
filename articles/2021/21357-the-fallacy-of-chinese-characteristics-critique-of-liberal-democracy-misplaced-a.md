@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220528113632
+wayback_snapshot_url: "http://web.archive.org/web/20220528113632/https://cfi.co/brave-new-world/2021/12/the-fallacy-of-chinese-characteristics-critique-of-liberal-democracy-misplaced-and-premature/"
 content_sha256: 4a8e83b50fb45f49f0fcd0288da59bdce2b9d1ed8d96f7765713289a546b133e
 canonical: 21357-the-fallacy-of-chinese-characteristics-critique-of-liberal-democracy-misplaced-a.json
 ---
