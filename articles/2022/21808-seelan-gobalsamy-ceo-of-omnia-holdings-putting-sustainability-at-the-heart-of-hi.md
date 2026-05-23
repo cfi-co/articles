@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220528105544
+wayback_snapshot_url: "http://web.archive.org/web/20220528105544/https://cfi.co/menu/corporate/2022/05/seelan-gobalsamy-ceo-of-omnia-holdings-putting-sustainability-at-the-heart-of-his-turnaround-strategy/"
 content_sha256: ccc7c9cc8d145554cf5f140acdff60baaa8c0c32e9c21b59f6c4dbe443ca7861
 canonical: 21808-seelan-gobalsamy-ceo-of-omnia-holdings-putting-sustainability-at-the-heart-of-hi.json
 ---
