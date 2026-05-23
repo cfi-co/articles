@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250124140703
+wayback_snapshot_url: "http://web.archive.org/web/20250124140703/https://cfi.co/finance/2025/01/franchises-the-strategic-sweet-spot-for-private-equity/"
 content_sha256: 927821e67f02d35498da1eae4a275f43ee0774f9946b2d24629e5f1ccc353e38
 canonical: 27454-franchises-the-strategic-sweet-spot-for-private-equity.json
 ---
