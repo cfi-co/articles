@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20141003124143
+wayback_snapshot_url: "http://web.archive.org/web/20141003124143/http://cfi.co/africa/2014/08/world-bank-group-commodity-super-cycle-to-stick-around-a-bit-longer/"
 content_sha256: de4d72ab1d951222aee4085303c2954efdff029e273b2856617c5a52769f7ecb
 canonical: 7847-world-bank-group-commodity-super-cycle-to-stick-around-a-bit-longer.json
 ---
