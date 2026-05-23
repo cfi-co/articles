@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240716155713
+wayback_snapshot_url: "http://web.archive.org/web/20240716155713/https://cfi.co/europe/2024/07/baris-oney-is-a-man-of-many-talents-and-apparently-endless-energy/"
 content_sha256: 7d96801cbdaeb853ff25e58afcb01ed8739b6580df96dcd95c24c2ac4bf493f2
 canonical: 26910-baris-oney-is-a-man-of-many-talents-and-apparently-endless-energy.json
 ---
