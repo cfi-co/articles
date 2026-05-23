@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818051516
+wayback_snapshot_url: "http://web.archive.org/web/20190818051516/https://cfi.co/europe/2014/11/joanna-lumley-nepals-national-treasure/"
 content_sha256: 887b27ca3b298073ef9d743fd3b87a496e8045012eaf885c3c8f458efb979eae
 canonical: 8422-joanna-lumley-nepals-national-treasure.json
 ---
