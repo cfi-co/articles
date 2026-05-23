@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813163205
+wayback_snapshot_url: "http://web.archive.org/web/20200813163205/https://cfi.co/corporate-leaders/2018/07/cfi-co-meets-the-management-of-the-indian-hotels-company-limited-ihcl-puneet-chhatwal-beejal-desai/"
 content_sha256: b86055ff01233d098b33bad32afc7c60d9501640906258f5457dfb793754a22b
 canonical: 12964-cfi-co-meets-the-management-of-the-indian-hotels-company-limited-ihcl-puneet-chh.json
 ---
