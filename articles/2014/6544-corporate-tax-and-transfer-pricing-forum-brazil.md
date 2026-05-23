@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140209005632
+wayback_snapshot_url: "http://web.archive.org/web/20140209005632/http://cfi.co/finance/2014/02/corporate-tax-and-transfer-pricing-forum-brazil/"
 content_sha256: f5b748370910fd08ca703a584029835f2ed8e565ab166573f290717833135da0
 canonical: 6544-corporate-tax-and-transfer-pricing-forum-brazil.json
 ---
