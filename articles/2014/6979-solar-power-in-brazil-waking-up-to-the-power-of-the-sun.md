@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140705130121
+wayback_snapshot_url: "http://web.archive.org/web/20140705130121/http://cfi.co/latinamerica/2014/04/solar-power-in-brazil-waking-up-to-the-power-of-the-sun/"
 content_sha256: 53d3a82a993de396ccd07df1bf32639f47cb2bafd38a080ebee27c748ae23a73
 canonical: 6979-solar-power-in-brazil-waking-up-to-the-power-of-the-sun.json
 ---
