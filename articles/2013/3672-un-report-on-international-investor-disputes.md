@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823051635
+wayback_snapshot_url: "http://web.archive.org/web/20190823051635/https://cfi.co/finance/2013/04/un-report-on-international-investor-disputes/"
 content_sha256: 955250ca09ee7c75552b3e7f2a039dc4ca56a655d753d71179df12f2081fedc4
 canonical: 3672-un-report-on-international-investor-disputes.json
 ---
