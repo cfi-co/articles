@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228104524
+wayback_snapshot_url: "http://web.archive.org/web/20210228104524/https://cfi.co/technology/2020/10/big-tech-five-cash-in-on-pandemic/"
 content_sha256: 14a1541318153a1e97dfd76cf32e91892832422cdf6abb64d8454c1e415ac822
 canonical: 17714-big-tech-five-cash-in-on-pandemic.json
 ---
