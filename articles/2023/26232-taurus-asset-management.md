@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231030221610
+wayback_snapshot_url: "http://web.archive.org/web/20231030221610/https://cfi.co/europe/2023/10/taurus-asset-management-sa-lugano/"
 content_sha256: 2d4622970b3de9b2d3ab254c61a0ac67eb1e425061b6fcd7e4e2c77de6722d07
 canonical: 26232-taurus-asset-management.json
 ---
