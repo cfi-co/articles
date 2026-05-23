@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200921194306
+wayback_snapshot_url: "http://web.archive.org/web/20200921194306/https://cfi.co/menu/corporate/2019/10/powergas-fulfilling-an-african-energy-need-with-safety-drive-and-efficiency/"
 content_sha256: 524a3bc7089569e96c050b6e74ec16e93e8e21aa300038245162ca016bf2cbbb
 canonical: 16095-powergas-fulfilling-an-african-energy-need-with-safety-drive-and-efficiency.json
 ---
