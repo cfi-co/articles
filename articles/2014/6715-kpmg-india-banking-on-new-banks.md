@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720031931
+wayback_snapshot_url: "http://web.archive.org/web/20190720031931/https://cfi.co/asia-pacific/2014/02/kpmg-india-banking-on-new-banks/"
 content_sha256: f23c5a5f01e31cc338ae879aef262a94a384666de03e33d29fc1eb6e8a63162b
 canonical: 6715-kpmg-india-banking-on-new-banks.json
 ---
