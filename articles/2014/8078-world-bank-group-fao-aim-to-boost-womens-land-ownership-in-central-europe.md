@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180308031924
+wayback_snapshot_url: "http://web.archive.org/web/20180308031924/http://cfi.co/europe/2014/09/world-bank-group-fao-aim-to-boost-womens-land-ownership-in-central-europe/"
 content_sha256: 6ce967fd2ec4c3e6e30a35c08ca58e8f398f4b8942f84eae728a6b648acf0600
 canonical: 8078-world-bank-group-fao-aim-to-boost-womens-land-ownership-in-central-europe.json
 ---
