@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 864198f6e739a3f31ac551393ffd47415bdec72a4105545e9f89f29b5cd66998
 canonical: 8592-world-bank-supports-greater-resilience-to-climate-related-hazards-in-mozambique.json
 ---
