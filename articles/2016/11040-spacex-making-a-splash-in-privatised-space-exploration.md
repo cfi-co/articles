@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170923065341
+wayback_snapshot_url: "http://web.archive.org/web/20170923065341/http://cfi.co/finance/2016/02/spacex-making-a-splash-in-privatised-space-exploration/"
 content_sha256: a2fb4cda3b50c8b217afcc2370b0a848b09b9709dd5256a6b76d61c9036b578e
 canonical: 11040-spacex-making-a-splash-in-privatised-space-exploration.json
 ---
