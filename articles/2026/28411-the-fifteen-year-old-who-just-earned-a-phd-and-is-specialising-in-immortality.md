@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 3558ed69534739abb0fb898b277cd2bf0c821506d484f78d2d7bef74c2443afb
 canonical: 28411-the-fifteen-year-old-who-just-earned-a-phd-and-is-specialising-in-immortality.json
 ---
