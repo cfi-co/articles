@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132633
+wayback_snapshot_url: "http://web.archive.org/web/20190818132633/https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-jsw-energy-sanjay-sagar/"
 content_sha256: 219a00f84295927303766c072e56247230a087414686f20e75620434fb734931
 canonical: 10843-cfi-co-meets-the-ceo-of-jsw-energy-sanjay-sagar.json
 ---
