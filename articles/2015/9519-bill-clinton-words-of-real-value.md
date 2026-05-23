@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210226091123
+wayback_snapshot_url: "http://web.archive.org/web/20210226091123/https://cfi.co/editors-picks/2015/03/bill-clinton-words-of-real-value/"
 content_sha256: 5204f9e3dbf82e237c9f76f723f50d27dad952dc6ff6792eaf4d108538d73e6f
 canonical: 9519-bill-clinton-words-of-real-value.json
 ---
