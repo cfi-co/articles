@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230424114102
+wayback_snapshot_url: "http://web.archive.org/web/20230424114102/https://cfi.co/lifestyle/2023/04/the-top-traits-of-a-great-ceo/"
 content_sha256: 6fe5102bb102a0159bc48a08939a9244b4548876dfc1536730e765c97446642c
 canonical: 25186-the-top-traits-of-a-great-ceo.json
 ---
