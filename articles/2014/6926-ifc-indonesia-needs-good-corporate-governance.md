@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916043753
+wayback_snapshot_url: "http://web.archive.org/web/20190916043753/https://cfi.co/asia-pacific/2014/04/ifc-indonesia-needs-good-corporate-governance/"
 content_sha256: 25c377993207f5524a8dda3becddcf324636edccf4da8e968b58c3f95c75826a
 canonical: 6926-ifc-indonesia-needs-good-corporate-governance.json
 ---
