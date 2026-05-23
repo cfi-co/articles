@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210811151217
+wayback_snapshot_url: "http://web.archive.org/web/20210811151217/https://cfi.co/sustainability/2021/08/world-bank-on-sustainable-recovery-the-need-for-long-term-financing/"
 content_sha256: 7444d40a84c451d7de27987ccdbab4874e1c62385a371c6be586fa34233287f1
 canonical: 20348-world-bank-on-sustainable-recovery-the-need-for-long-term-financing.json
 ---
