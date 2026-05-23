@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221203063535
+wayback_snapshot_url: "http://web.archive.org/web/20221203063535/https://cfi.co/africa/2022/08/thirdways-the-charm-to-revitalise-africas-climate-for-healthy-investment/"
 content_sha256: fe96820f396adc9a9e7271acbb829319a25cf4e9795575ba19ccf8faafc6855e
 canonical: 23152-thirdways-the-charm-to-revitalise-africas-climate-for-healthy-investment.json
 ---
