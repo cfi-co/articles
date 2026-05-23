@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250614233356
+wayback_snapshot_url: "http://web.archive.org/web/20250614233356/https://cfi.co/europe/2025/05/fortress-europe-navigating-the-perils-of-a-global-trade-war/"
 content_sha256: 332926fbfde091103f29ca6208a50ca37fc1198a7940f8b7fd92b526a9766ca3
 canonical: 27736-fortress-europe-navigating-the-perils-of-a-global-trade-war.json
 ---
