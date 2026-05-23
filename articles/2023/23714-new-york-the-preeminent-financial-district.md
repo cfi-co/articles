@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230121020423
+wayback_snapshot_url: "http://web.archive.org/web/20230121020423/https://cfi.co/northamerica/2023/01/new-york-the-preeminent-financial-district/"
 content_sha256: cd72943c4b257294bc1f5824eba76908e0957682755fbfd5454b51aa37112b91
 canonical: 23714-new-york-the-preeminent-financial-district.json
 ---
