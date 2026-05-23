@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210526102415
+wayback_snapshot_url: "http://web.archive.org/web/20210526102415/https://cfi.co/editors-picks/2021/05/anna-radulovski-mompreneur-shares-struggles-and-wins-is-this-the-next-unicorn-in-the-making/"
 content_sha256: 88cfeec68f5fca09909b67e2e57e9a5b5f2d057a8e7ff724cf18db6af8b853fa
 canonical: 19742-anna-radulovski-mompreneur-shares-struggles-and-wins-is-this-the-next-unicorn-in.json
 ---
