@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180705171417
+wayback_snapshot_url: "http://web.archive.org/web/20180705171417/http://cfi.co/europe/2015/06/quantitative-easing-another-shot-for-the-caffeine-junkie/"
 content_sha256: 02e44ab125db426cb0d4a3181153c76e7b1e87d812e009d734300dd1063de7e0
 canonical: 9975-quantitative-easing-another-shot-for-the-caffeine-junkie.json
 ---
