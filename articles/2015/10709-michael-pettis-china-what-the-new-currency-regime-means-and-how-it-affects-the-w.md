@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20171207171944
+wayback_snapshot_url: "http://web.archive.org/web/20171207171944/http://cfi.co/asia-pacific/2015/12/michael-pettis-china-what-the-new-currency-regime-means-and-how-it-affects-the-world/"
 content_sha256: a3034565cd708fcaf12f9d9568c6e775b554208f19ec30dcd959f6c7af87d514
 canonical: 10709-michael-pettis-china-what-the-new-currency-regime-means-and-how-it-affects-the-w.json
 ---
