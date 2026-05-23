@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220216133858
+wayback_snapshot_url: "http://web.archive.org/web/20220216133858/https://cfi.co/finance/2022/02/evan-harvey-nasdaq-language-locks-and-building-blocks/"
 content_sha256: b36382695faf4dd3a07050de8da3ac6b517fca39d630cae234b981367719a3e6
 canonical: 21577-evan-harvey-nasdaq-language-locks-and-building-blocks.json
 ---
