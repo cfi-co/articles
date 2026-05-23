@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250124124832
+wayback_snapshot_url: "http://web.archive.org/web/20250124124832/https://cfi.co/lifestyle/2025/01/the-future-of-luxury-watches-trends-players-and-market-insights-for-2025/"
 content_sha256: fad236c6d574f872af40ba4da01c908d65bfa701db6b5f33bf6d9e4361bd2463
 canonical: 27472-the-future-of-luxury-watches-trends-players-and-market-insights-for-2025.json
 ---
