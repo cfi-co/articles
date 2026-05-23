@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 2a270ee8356361db44d0b604f6575b9c734f3871f0ddce5bf0bcaa89baa4c331
 canonical: 28340-asian-development-bank-the-world-isnt-flat-but-government-data-is.json
 ---
