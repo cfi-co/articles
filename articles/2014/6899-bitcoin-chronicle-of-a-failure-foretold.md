@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140705060933
+wayback_snapshot_url: "http://web.archive.org/web/20140705060933/http://cfi.co/finance/2014/04/bitcoin-chronicle-of-a-failure-foretold/"
 content_sha256: 5fa951562ded989689290899776451e5d68a9c9b596ad320944af37d64400ab5
 canonical: 6899-bitcoin-chronicle-of-a-failure-foretold.json
 ---
