@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230326145619
+wayback_snapshot_url: "http://web.archive.org/web/20230326145619/https://cfi.co/menu/corporate/2023/03/chieh-huang-cofounder-and-ceo-of-boxed/"
 content_sha256: b6d07bd2f898958003438807594c799acd7b7c36ced3fc90fcb67f1a0bb17567
 canonical: 24927-chieh-huang-cofounder-and-ceo-of-boxed.json
 ---
