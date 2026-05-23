@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260107172149
+wayback_snapshot_url: "http://web.archive.org/web/20260107172149/https://cfi.co/latinamerica/2026/01/the-venezuela-trade-markets-move-faster-than-politics/"
 content_sha256: 1fc55ff50c27410f938c4f0b79ab891ff9a409afe0b9f398a269289229c91a4a
 canonical: 28181-the-venezuela-trade-markets-move-faster-than-politics.json
 ---
