@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190721114454
+wayback_snapshot_url: "http://web.archive.org/web/20190721114454/https://cfi.co/corporate-leaders/2018/05/cfi-co-meets-the-executive-president-of-cabei-dr-nick-rischbieth/"
 content_sha256: 92676527fb86d526ae767d67c7320ddb3c4d7ab7885d9e7f6047c92802569a7f
 canonical: 12353-cfi-co-meets-the-executive-president-of-cabei-dr-nick-rischbieth.json
 ---
