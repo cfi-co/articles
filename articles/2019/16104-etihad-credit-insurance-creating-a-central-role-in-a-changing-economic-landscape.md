@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200920115838
+wayback_snapshot_url: "http://web.archive.org/web/20200920115838/https://cfi.co/corporate-leaders/2019/10/etihad-credit-insurance-creating-a-central-role-in-a-changing-economic-landscape/"
 content_sha256: 2aab6e7e58a61b278b1117f36bdce2ab62be8c435b2a8b904e420cc8dee8803b
 canonical: 16104-etihad-credit-insurance-creating-a-central-role-in-a-changing-economic-landscape.json
 ---
