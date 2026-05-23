@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050503
+wayback_snapshot_url: "http://web.archive.org/web/20190818050503/https://cfi.co/finance/2015/06/principles-for-responsible-investment-fiduciary-duty-coming-of-age/"
 content_sha256: 3d566331669439dd43688c444167f8d4a88ac62df1291fed0df1b58243d64829
 canonical: 10005-principles-for-responsible-investment-fiduciary-duty-coming-of-age.json
 ---
