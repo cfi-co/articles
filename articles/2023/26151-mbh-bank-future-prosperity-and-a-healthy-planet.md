@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231030223226
+wayback_snapshot_url: "http://web.archive.org/web/20231030223226/https://cfi.co/banking/2023/10/mbh-bank-future-prosperity-and-a-healthy-planet/"
 content_sha256: d4a81e8243d7f22aa185a1d90a13a8e178270b3d3cdac204d44f67a23f566d04
 canonical: 26151-mbh-bank-future-prosperity-and-a-healthy-planet.json
 ---
