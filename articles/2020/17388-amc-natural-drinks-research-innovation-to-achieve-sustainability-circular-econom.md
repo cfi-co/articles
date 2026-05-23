@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228091342
+wayback_snapshot_url: "http://web.archive.org/web/20210228091342/https://cfi.co/menu/corporate/2020/01/amc-natural-drinks-research-innovation-to-achieve-sustainability-circular-economy-commitment/"
 content_sha256: d48dbbfd85d23dabd898ff7dc53e1c2b18567e9c9327c574ca0ef82f5d589598
 canonical: 17388-amc-natural-drinks-research-innovation-to-achieve-sustainability-circular-econom.json
 ---
