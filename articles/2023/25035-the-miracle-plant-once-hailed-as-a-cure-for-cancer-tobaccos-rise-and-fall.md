@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230323151845
+wayback_snapshot_url: "http://web.archive.org/web/20230323151845/https://cfi.co/lifestyle/2023/03/the-miracle-plant-once-hailed-as-a-cure-for-cancer-tobaccos-rise-and-fall/"
 content_sha256: d81b119bd148c26ffaf8fae036cdbe5e92a15ca52d6a8da750d1b3f8a3b87544
 canonical: 25035-the-miracle-plant-once-hailed-as-a-cure-for-cancer-tobaccos-rise-and-fall.json
 ---
