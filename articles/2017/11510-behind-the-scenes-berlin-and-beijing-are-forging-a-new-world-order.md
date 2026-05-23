@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180807124430
+wayback_snapshot_url: "http://web.archive.org/web/20180807124430/http://cfi.co/asia-pacific/2017/01/behind-the-scenes-berlin-and-beijing-are-forging-a-new-world-order/"
 content_sha256: acf607bc16a2e81c4f5a618e2fdf503bd9d2077e723f85241500e6ccdf468b8f
 canonical: 11510-behind-the-scenes-berlin-and-beijing-are-forging-a-new-world-order.json
 ---
