@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191014231933
+wayback_snapshot_url: "http://web.archive.org/web/20191014231933/https://cfi.co/finance/2014/09/noam-chomsky-unravelling-established-truths/"
 content_sha256: bb0a93d83c4a4c874bf13b6e688a1c4cac864db41ff7006f4ef911ac24ee780a
 canonical: 8106-noam-chomsky-unravelling-established-truths.json
 ---
