@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920141014
+wayback_snapshot_url: "http://web.archive.org/web/20210920141014/https://cfi.co/corporate-leaders/2020/10/peter-mulroy-secretary-general-of-fci-champion-for-sustainable-development-and-growth-of-the-open-account-receivables-finance-industry-globally/"
 content_sha256: 79d757490cbfdcd600f46eda813f993101137deca26f67bf227e327b767cd17e
 canonical: 17646-peter-mulroy-secretary-general-of-fci-champion-for-sustainable-development-and-g.json
 ---
