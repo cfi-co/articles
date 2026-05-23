@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221027144923
+wayback_snapshot_url: "http://web.archive.org/web/20221027144923/https://cfi.co/menu/corporate/2022/10/carlo-giugovaz-supernovae-labs-innovation-inspiration-experience-and-a-passion-for-financial-industry-challenges/"
 content_sha256: 208e61f47e2fd9cb68bf251507aa6e8e677b340b65a42843d5f9fa60e856420f
 canonical: 23745-carlo-giugovaz-supernovae-labs-innovation-inspiration-experience-and-a-passion-f.json
 ---
