@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220115073228
+wayback_snapshot_url: "http://web.archive.org/web/20220115073228/https://cfi.co/menu/corporate/2021/08/vector-groups-solid-history-and-sound-strategies-stand-it-in-good-stead-across-decades-and-sectors/"
 content_sha256: d56ae50d23a8991d2918bceb7b729a80b16efd54f03153c37f4bb3bbc7761a0d
 canonical: 20371-vector-groups-solid-history-and-sound-strategies-stand-it-in-good-stead-across-d.json
 ---
