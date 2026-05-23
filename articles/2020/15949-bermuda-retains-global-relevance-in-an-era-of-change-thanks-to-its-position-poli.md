@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422023724
+wayback_snapshot_url: "http://web.archive.org/web/20210422023724/https://cfi.co/menu/corporate/2020/07/bermuda-retains-global-relevance-in-an-era-of-change-thanks-to-its-position-policies-and-legislation/"
 content_sha256: 03910033c63a75e2396c20e98c520ebf9289a7ae0ac57d748452ec40b112b226
 canonical: 15949-bermuda-retains-global-relevance-in-an-era-of-change-thanks-to-its-position-poli.json
 ---
