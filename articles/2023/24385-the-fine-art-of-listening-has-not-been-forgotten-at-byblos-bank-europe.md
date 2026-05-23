@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230125145517
+wayback_snapshot_url: "http://web.archive.org/web/20230125145517/https://cfi.co/banking/2023/01/the-fine-art-of-listening-has-not-been-forgotten-at-byblos-bank-europe/"
 content_sha256: 50d610fce5746bd76f15803a30f54738983e12e2409195269ab32b784781b68c
 canonical: 24385-the-fine-art-of-listening-has-not-been-forgotten-at-byblos-bank-europe.json
 ---
