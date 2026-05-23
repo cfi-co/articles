@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240906080924
+wayback_snapshot_url: "http://web.archive.org/web/20240906080924/https://cfi.co/finance/2024/08/innovating-healthcare-the-journey-of-gksd-investment-holding-under-a-watchful-eye/"
 content_sha256: e455f8ef68871e85741fc63623f302f9546dd76e88a692d8b64248e7e2cd581e
 canonical: 27058-innovating-healthcare-the-journey-of-gksd-investment-holding-under-a-watchful-ey.json
 ---
