@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240815063046
+wayback_snapshot_url: "http://web.archive.org/web/20240815063046/https://cfi.co/banking/2024/08/raiffeisen-certificates-investing-in-capital-markets-with-protection/"
 content_sha256: c7675437e2b4f1df406c89c42830310afeaf4f08751690cde5903f4cd2d61e38
 canonical: 26975-raiffeisen-certificates-investing-in-capital-markets-with-protection.json
 ---
