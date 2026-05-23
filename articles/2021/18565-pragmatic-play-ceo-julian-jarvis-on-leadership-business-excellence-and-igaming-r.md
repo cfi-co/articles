@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418044855
+wayback_snapshot_url: "http://web.archive.org/web/20210418044855/https://cfi.co/menu/cfi-co-meets/2021/02/pragmatic-play-ceo-julian-jarvis-on-leadership-business-excellence-and-igaming-regulatory-trends/"
 content_sha256: 0da88c6caa76f1abcc6d2171dc8aca7ab7b41d8668df10fe3d9167e228ad6f61
 canonical: 18565-pragmatic-play-ceo-julian-jarvis-on-leadership-business-excellence-and-igaming-r.json
 ---
