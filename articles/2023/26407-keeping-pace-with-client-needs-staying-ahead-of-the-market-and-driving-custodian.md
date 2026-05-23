@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231115163804
+wayback_snapshot_url: "http://web.archive.org/web/20231115163804/https://cfi.co/africa/2023/11/bank-one-keeping-pace-with-client-needs-staying-ahead-of-the-market-and-driving-custodian-bank-evolution/"
 content_sha256: 35ec96d50753d90d09f14cef63a15a33bcc85d889a58e92cfefdd0a4b180b27a
 canonical: 26407-keeping-pace-with-client-needs-staying-ahead-of-the-market-and-driving-custodian.json
 ---
