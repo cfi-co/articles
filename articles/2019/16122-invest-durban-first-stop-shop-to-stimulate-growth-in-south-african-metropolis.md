@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200918222424
+wayback_snapshot_url: "http://web.archive.org/web/20200918222424/https://cfi.co/menu/corporate/2019/09/invest-durban-first-stop-shop-to-stimulate-growth-in-south-african-metropolis/"
 content_sha256: ead827dbfeb5d091ae4e0fe3bcc8251c3f80e552ba3944634837026d30217153
 canonical: 16122-invest-durban-first-stop-shop-to-stimulate-growth-in-south-african-metropolis.json
 ---
