@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418062443
+wayback_snapshot_url: "http://web.archive.org/web/20210418062443/https://cfi.co/menu/corporate/2020/02/how-bingo-came-in-from-the-cold/"
 content_sha256: 3bc66805f491a1e9a585dc9517415ff6bca02cad9aee1ebeb6de39cd55859737
 canonical: 14637-how-bingo-came-in-from-the-cold.json
 ---
