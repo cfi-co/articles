@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220330034712
+wayback_snapshot_url: "http://web.archive.org/web/20220330034712/https://cfi.co/sustainability/2022/03/aveva-software-is-the-key-to-sustainable-industries/"
 content_sha256: 6f9fd92e1a70305750e32ab2ccf56a36a0baa5b3bce17f3b7778cc313774a5bf
 canonical: 21675-aveva-software-is-the-key-to-sustainable-industries.json
 ---
