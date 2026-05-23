@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422021657
+wayback_snapshot_url: "http://web.archive.org/web/20210422021657/https://cfi.co/corporate-leaders/2020/07/steffen-pauls-moonfare-democratising-and-digitalising-private-equity/"
 content_sha256: 0061e777eb0a83a4e9b2f6364c14883e31fcb8dfae1db18dafc4648190f3aada
 canonical: 16394-steffen-pauls-moonfare-democratising-and-digitalising-private-equity.json
 ---
