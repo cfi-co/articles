@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625234118
+wayback_snapshot_url: "http://web.archive.org/web/20220625234118/https://cfi.co/menu/corporate/2021/08/octafx-launching-in-europe-a-global-forex-broker-that-means-what-it-says-and-sticks-to-its-word/"
 content_sha256: 9029c7a5201cd7bb78199d794ebdffcd1451a672c9541fa150715e8518141e2b
 canonical: 20354-octafx-launching-in-europe-a-global-forex-broker-that-means-what-it-says-and-sti.json
 ---
