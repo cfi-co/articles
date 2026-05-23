@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723005445
+wayback_snapshot_url: "http://web.archive.org/web/20190723005445/https://cfi.co/awards/middle-east/"
 content_sha256: 40fa49112c6c67295be3c33dd0392542291837ca15f34b10aeae61b4e22eed70
 canonical: 9452-saudi-hollandi-best-sme-bank-ksa-for-a-second-year.json
 ---
