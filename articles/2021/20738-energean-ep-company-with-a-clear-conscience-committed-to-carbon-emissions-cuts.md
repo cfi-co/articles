@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211004144828
+wayback_snapshot_url: "http://web.archive.org/web/20211004144828/https://cfi.co/menu/corporate/2021/09/energean-ep-company-with-a-clear-conscience-committed-to-carbon-emissions-cuts/"
 content_sha256: 2555781528b592efc33b0cec67e2c56bb4597529584f4ecbd18699022dbf65d6
 canonical: 20738-energean-ep-company-with-a-clear-conscience-committed-to-carbon-emissions-cuts.json
 ---
