@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201025001406
+wayback_snapshot_url: "http://web.archive.org/web/20201025001406/https://cfi.co/northamerica/2020/09/us-election-trump-and-biden-crush-policy-ideas-and-initiatives-in-televised-clash/"
 content_sha256: 55cb31ddc97fde50dece72cdfa14a35afcb7a48694ad1646fa7abd1973aa4fee
 canonical: 17114-us-election-trump-and-biden-crush-policy-ideas-and-initiatives-in-televised-clas.json
 ---
