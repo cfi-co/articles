@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190820143716
+wayback_snapshot_url: "http://web.archive.org/web/20190820143716/https://cfi.co/asia-pacific/2011/02/singapore-to-allow-domestic-foreign-law-firm-mergers/"
 content_sha256: 7aabf7ed9ca805b9b2d63569c54761e5c061d89d7a8e3109a79d0cc03b12f737
 canonical: 108-singapore-to-allow-domestic-foreign-law-firm-mergers.json
 ---
