@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180209174327
+wayback_snapshot_url: "http://web.archive.org/web/20180209174327/http://cfi.co/northamerica/2015/02/valerie-jarrett-the-power-of-whispers/"
 content_sha256: 6ea2bcfb1d91bb2044eaf3bbf52efac1d635eb17df438a739849d1d0d4baa5a1
 canonical: 8980-valerie-jarrett-the-power-of-whispers.json
 ---
