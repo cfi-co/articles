@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625225755
+wayback_snapshot_url: "http://web.archive.org/web/20220625225755/https://cfi.co/menu/corporate/2022/05/asymmetry-risk-reward-commitment-balancing-acts-are-emcores-stock-in-trade/"
 content_sha256: f1192070d912cc91059dad72ac6524dbdf8cbed0f60d8bf6c5eb87617a56a80d
 canonical: 21984-asymmetry-risk-reward-commitment-balancing-acts-are-emcores-stock-in-trade.json
 ---
