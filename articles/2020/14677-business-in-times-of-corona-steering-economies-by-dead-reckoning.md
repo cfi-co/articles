@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: c3f5a9950f30a68b440480d9cb3126434c4295e1469dc3dbcbb81339512c0ffd
 canonical: 14677-business-in-times-of-corona-steering-economies-by-dead-reckoning.json
 ---
