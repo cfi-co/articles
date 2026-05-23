@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327011351
+wayback_snapshot_url: "http://web.archive.org/web/20140327011351/http://cfi.co/europe/2014/01/ross-jackson-the-eu-as-a-green-powerhouse-a-green-opportunity/"
 content_sha256: 3b96ee629ec18d44e9dd2b8c63d378f21ef3a42a7c2d1e4cc8f5a13f14be3834
 canonical: 6386-ross-jackson-the-eu-as-a-green-powerhouse-a-green-opportunity.json
 ---
