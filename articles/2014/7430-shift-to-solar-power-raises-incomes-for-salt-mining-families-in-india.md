@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720032141
+wayback_snapshot_url: "http://web.archive.org/web/20190720032141/https://cfi.co/asia-pacific/2014/06/shift-to-solar-power-raises-incomes-for-salt-mining-families-in-india/"
 content_sha256: adc30656eb600936dca380f5901d963d2d3133be892334f14c149af5ff9c38d8
 canonical: 7430-shift-to-solar-power-raises-incomes-for-salt-mining-families-in-india.json
 ---
