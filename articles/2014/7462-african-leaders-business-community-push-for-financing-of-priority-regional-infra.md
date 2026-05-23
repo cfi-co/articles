@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140625141012
+wayback_snapshot_url: "http://web.archive.org/web/20140625141012/http://cfi.co/africa/2014/06/african-leaders-business-community-push-for-financing-of-priority-regional-infrastructure-projects/"
 content_sha256: 48d9627346f38f50e31922a808357f9826fc2f17f9b2454e9ac203c9d156af02
 canonical: 7462-african-leaders-business-community-push-for-financing-of-priority-regional-infra.json
 ---
