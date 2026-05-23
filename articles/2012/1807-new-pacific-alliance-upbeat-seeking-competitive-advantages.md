@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 8bf6a3b0b3aef1b437545502fa74df30509a325b9e03059e680d2f4f7ad1b5a6
 canonical: 1807-new-pacific-alliance-upbeat-seeking-competitive-advantages.json
 ---
