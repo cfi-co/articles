@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241104012349
+wayback_snapshot_url: "http://web.archive.org/web/20241104012349/https://cfi.co/northamerica/2024/11/otaviano-canuto-the-us-elections-will-have-global-economic-impact/"
 content_sha256: 526a63981d60c1c4e18a0985166bdf4144d6b2cf14ffa9b713dd09df9d7d53db
 canonical: 27248-otaviano-canuto-the-us-elections-will-have-global-economic-impact.json
 ---
