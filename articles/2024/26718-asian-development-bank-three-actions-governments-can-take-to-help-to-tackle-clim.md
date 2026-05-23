@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240420135544
+wayback_snapshot_url: "http://web.archive.org/web/20240420135544/https://cfi.co/asia-pacific/2024/03/asian-development-bank-three-actions-governments-can-take-to-help-to-tackle-climate-adaptation/"
 content_sha256: cc526583f4e83d86f0beac53e2a30ca39a2fe9fd2b7fbb3ad7cc6b14dfc17288
 canonical: 26718-asian-development-bank-three-actions-governments-can-take-to-help-to-tackle-clim.json
 ---
