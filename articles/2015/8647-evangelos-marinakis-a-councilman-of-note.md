@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: d5730d924ddc691bb0324e040b44c928e1ae0320df5a929e8a4b89656d4c5b62
 canonical: 8647-evangelos-marinakis-a-councilman-of-note.json
 ---
