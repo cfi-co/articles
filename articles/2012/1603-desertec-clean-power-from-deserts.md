@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140328064858
+wayback_snapshot_url: "http://web.archive.org/web/20140328064858/http://cfi.co/africa/2012/08/desertec-clean-power-from-deserts/"
 content_sha256: c48cb4487a1062c543ccc96f39bc3b61c1bdbb411ef78961b12a8706ed0912ce
 canonical: 1603-desertec-clean-power-from-deserts.json
 ---
