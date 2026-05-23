@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251006235525
+wayback_snapshot_url: "http://web.archive.org/web/20251006235525/https://cfi.co/africa/2025/09/bridging-the-gap-how-ai-can-enhance-transparency-governance-and-unlock-africas-economic-potential-through-fdi/"
 content_sha256: f2f691b4c71a8e592ad0f54ee712bb6bc49a2b4e810676db8b4f1b2f6dfe3ac7
 canonical: 27933-bridging-the-gap-how-ai-can-enhance-transparency-governance-and-unlock-africas-e.json
 ---
