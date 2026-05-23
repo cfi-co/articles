@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916043512
+wayback_snapshot_url: "http://web.archive.org/web/20190916043512/https://cfi.co/africa/2017/11/banco-nacional-de-angola-prevention-of-money-laundering-and-terrorism-financing/"
 content_sha256: e258439ea080e7127b65f1d6d806aedcbfb6ffcff7f72c0f81751a53d7e88696
 canonical: 10765-banco-nacional-de-angola-prevention-of-money-laundering-and-terrorism-financing.json
 ---
