@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240813004115
+wayback_snapshot_url: "http://web.archive.org/web/20240813004115/https://cfi.co/europe/2024/08/turkiye-in-the-economic-spotlight-globalturk-capital-keeps-the-focus-on-the-countrys-growing-status/"
 content_sha256: 5f2a1feae086214e37ee003f15ee0465d00168fea7c06e9e79770b376bbc6454
 canonical: 26981-turkiye-in-the-economic-spotlight-globalturk-capital-keeps-the-focus-on-the-coun.json
 ---
