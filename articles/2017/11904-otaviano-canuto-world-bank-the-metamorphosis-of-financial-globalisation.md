@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190722120552
+wayback_snapshot_url: "http://web.archive.org/web/20190722120552/https://cfi.co/africa/2017/09/otaviano-canuto-world-bank-the-metamorphosis-of-financial-globalisation/"
 content_sha256: 15d009d7af2ce28a80d25330f5db0e0781d5c888b1aed51d3b1ca01a991936db
 canonical: 11904-otaviano-canuto-world-bank-the-metamorphosis-of-financial-globalisation.json
 ---
