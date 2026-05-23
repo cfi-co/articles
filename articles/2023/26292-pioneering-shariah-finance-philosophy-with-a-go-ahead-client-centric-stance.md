@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240420143429
+wayback_snapshot_url: "http://web.archive.org/web/20240420143429/https://cfi.co/asia-pacific/2023/10/maldives-islamic-bank-a-go-ahead-client-centric-stance/"
 content_sha256: 01e2206f4bc297d6360d5ebb38f059e9d9a0ad843faca936ed56dcadb2f709f6
 canonical: 26292-pioneering-shariah-finance-philosophy-with-a-go-ahead-client-centric-stance.json
 ---
