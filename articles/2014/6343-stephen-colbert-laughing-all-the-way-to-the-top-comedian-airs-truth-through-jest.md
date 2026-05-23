@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327080946
+wayback_snapshot_url: "http://web.archive.org/web/20140327080946/http://cfi.co/northamerica/2014/01/stephen-colbert-laughing-all-the-way-to-the-top-comedian-airs-truth-through-jest/"
 content_sha256: ffca145c70332f0791e2ce61ae65338553a7ea052dec5f41edb1dd99f0a41456
 canonical: 6343-stephen-colbert-laughing-all-the-way-to-the-top-comedian-airs-truth-through-jest.json
 ---
