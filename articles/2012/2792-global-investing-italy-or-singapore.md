@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823051218
+wayback_snapshot_url: "http://web.archive.org/web/20190823051218/https://cfi.co/asia-pacific/2012/12/global-investing-italy-or-singapore/"
 content_sha256: 022c88d3c19189493fdfc17cd6317ff13f80f1e95571261c1de20840223abe8d
 canonical: 2792-global-investing-italy-or-singapore.json
 ---
