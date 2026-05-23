@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826173730
+wayback_snapshot_url: "http://web.archive.org/web/20140826173730/http://cfi.co/europe/2013/07/cbi-on-europe-half-way-houses-wont-work-for-the-uk/"
 content_sha256: 0ad625bf5e92c3aa6799e7fa653c60aec1374f9de61adae7e03bbb95ca15e372
 canonical: 4525-cbi-on-europe-half-way-houses-wont-work-for-the-uk.json
 ---
