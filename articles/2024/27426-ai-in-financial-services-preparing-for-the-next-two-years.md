@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241219140525
+wayback_snapshot_url: "http://web.archive.org/web/20241219140525/https://cfi.co/technology/2024/12/ai-in-financial-services-preparing-for-the-next-two-years/"
 content_sha256: dc960eea5da7a1fac39f3ee470346bc0e90c2fd7fd96674203dafdd21a7816e8
 canonical: 27426-ai-in-financial-services-preparing-for-the-next-two-years.json
 ---
