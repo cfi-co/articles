@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211220072613
+wayback_snapshot_url: "http://web.archive.org/web/20211220072613/https://cfi.co/sustainability/2021/12/decarbonisation-and-greenflation/"
 content_sha256: 1b01deaab696162b39c641a21cbb4f15aa78d02661dc688e4ebc5146951303e8
 canonical: 21383-decarbonisation-and-greenflation.json
 ---
