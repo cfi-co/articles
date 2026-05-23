@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825094243
+wayback_snapshot_url: "http://web.archive.org/web/20190825094243/https://cfi.co/northamerica/2018/08/ian-fletcher-fourth-industrial-revolution-positioning-for-change/"
 content_sha256: ad105e0c572934f7a820c99d57f16811f760cbd81d0fa744c45baf0916b92466
 canonical: 12839-ian-fletcher-fourth-industrial-revolution-positioning-for-change.json
 ---
