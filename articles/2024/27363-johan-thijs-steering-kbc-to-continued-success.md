@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241209091053
+wayback_snapshot_url: "http://web.archive.org/web/20241209091053/https://cfi.co/banking/2024/12/johan-thijs-steering-kbc-to-continued-success/"
 content_sha256: 8fdd97a4de5de5fd0bc65236afd2b67bdcf76bb5c6a113abe7f2284a3dc6aa5f
 canonical: 27363-johan-thijs-steering-kbc-to-continued-success.json
 ---
