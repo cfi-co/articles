@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724024100
+wayback_snapshot_url: "http://web.archive.org/web/20190724024100/https://cfi.co/europe/2014/10/forbidden-pleasures-france-flouting-eu-budget-rules/"
 content_sha256: 2b6d2311b876002508e019e728dbeffc9f7d133caa913f80bcf82a498d72596a
 canonical: 8248-forbidden-pleasures-france-flouting-eu-budget-rules.json
 ---
