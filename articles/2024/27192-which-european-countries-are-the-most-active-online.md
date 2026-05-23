@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241112190758
+wayback_snapshot_url: "http://web.archive.org/web/20241112190758/https://cfi.co/europe/2024/10/which-european-countries-are-the-most-active-online/"
 content_sha256: 19efbb3059285bc9de0542c6d6cc67ed8b9871a586f9f7ed6bba63e58fd2dd42
 canonical: 27192-which-european-countries-are-the-most-active-online.json
 ---
