@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210415181850
+wayback_snapshot_url: "http://web.archive.org/web/20210415181850/https://cfi.co/c-19/2021/04/uzbekistan-s-enter-engineering-announces-covid-years-project-updates-and-operations-guidance/"
 content_sha256: 1ef611c503130a5f87c718f962cdf1841abbf8aa940517e45e513596d4d597c9
 canonical: 19498-uzbekistan-s-enter-engineering-announces-covid-years-project-updates-and-operati.json
 ---
