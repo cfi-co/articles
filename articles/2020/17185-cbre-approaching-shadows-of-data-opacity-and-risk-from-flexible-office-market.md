@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201023010313
+wayback_snapshot_url: "http://web.archive.org/web/20201023010313/https://cfi.co/europe/2020/10/cbre-approaching-shadows-of-data-opacity-and-risk-from-flexible-office-market/"
 content_sha256: a2a42ba718522d28a9954f4f782d05daec699491a80ecfc6b33f445362d4b612
 canonical: 17185-cbre-approaching-shadows-of-data-opacity-and-risk-from-flexible-office-market.json
 ---
