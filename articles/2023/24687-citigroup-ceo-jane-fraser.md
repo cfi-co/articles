@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230307094037
+wayback_snapshot_url: "http://web.archive.org/web/20230307094037/https://cfi.co/banking/2023/02/citigroup-ceo-jane-fraser/"
 content_sha256: e61284d50435650bd7b14640fc066bb4676df1727a9da27156b28d4fa25d6fd6
 canonical: 24687-citigroup-ceo-jane-fraser.json
 ---
