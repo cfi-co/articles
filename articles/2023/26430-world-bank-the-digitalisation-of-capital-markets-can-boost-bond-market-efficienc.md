@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231120134030
+wayback_snapshot_url: "http://web.archive.org/web/20231120134030/https://cfi.co/banking/2023/11/world-bank-the-digitalisation-of-capital-markets-can-boost-bond-market-efficiencies/"
 content_sha256: 5bcc8c1dcb04b6611fcd88eeb6bc2843d9568a0451f378f0b6d89d7e06c5f866
 canonical: 26430-world-bank-the-digitalisation-of-capital-markets-can-boost-bond-market-efficienc.json
 ---
