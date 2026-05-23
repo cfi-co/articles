@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211102094539
+wayback_snapshot_url: "http://web.archive.org/web/20211102094539/https://cfi.co/menu/editors-10/2021/11/elaine-yan-ling-ng-designer-egged-on-by-natures-potential-for-unique-beauty/"
 content_sha256: e29f4acd1533c7f81a460bbd2faf426a10e4067137ada3ba5a29978015a1fc76
 canonical: 20937-elaine-yan-ling-ng-designer-egged-on-by-natures-potential-for-unique-beauty.json
 ---
