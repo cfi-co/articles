@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823045401
+wayback_snapshot_url: "http://web.archive.org/web/20190823045401/https://cfi.co/asia-pacific/2013/04/imf-anything-that-works-to-create-jobs/"
 content_sha256: 0d0fd0c6a4d3a3a6375b6c83ba153c2d4b33a0b26802959f58338b481bd5a876
 canonical: 3762-imf-anything-that-works-to-create-jobs.json
 ---
