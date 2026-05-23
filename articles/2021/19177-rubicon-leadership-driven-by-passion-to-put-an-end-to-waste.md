@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418054642
+wayback_snapshot_url: "http://web.archive.org/web/20210418054642/https://cfi.co/menu/corporate/2021/03/rubicon-leadership-driven-by-passion-to-put-an-end-to-waste/"
 content_sha256: 4d5196fc8a54bfe03738bda80b0f5512021f75062cbfbbc4e3ec048408851a84
 canonical: 19177-rubicon-leadership-driven-by-passion-to-put-an-end-to-waste.json
 ---
