@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250615000213
+wayback_snapshot_url: "http://web.archive.org/web/20250615000213/https://cfi.co/latinamerica/2025/05/corporacion-zona-franca-santiago-forging-the-next-50-years-of-sustainable-innovation-and-growth/"
 content_sha256: 08ab3922295f33c9ce9fbce0f0b150e1908d414a4ebe6521860d8b4b2c581bff
 canonical: 27749-corporacion-zona-franca-santiago-forging-the-next-50-years-of-sustainable-innova.json
 ---
