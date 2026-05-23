@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050900
+wayback_snapshot_url: "http://web.archive.org/web/20190818050900/https://cfi.co/finance/2012/05/colombia-comes-together-to-overcome-its-past/"
 content_sha256: 6f04e90453ce5220e9ba1f71bd598ea3a699b30593e95a8640bcfddcb12a0b22
 canonical: 617-colombia-comes-together-to-overcome-its-past.json
 ---
