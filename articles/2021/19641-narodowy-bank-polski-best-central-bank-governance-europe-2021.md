@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221006131026
+wayback_snapshot_url: "http://web.archive.org/web/20221006131026/https://cfi.co/menu/corporate/2021/05/narodowy-bank-polski-best-central-bank-governance-europe-2021/"
 content_sha256: 8cc9678a934af5b2165c7e87412c7d18a00d420a09dc9b714b7a65085af23d21
 canonical: 19641-narodowy-bank-polski-best-central-bank-governance-europe-2021.json
 ---
