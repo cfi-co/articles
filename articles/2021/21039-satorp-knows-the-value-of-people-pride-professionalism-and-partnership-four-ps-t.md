@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630124821
+wayback_snapshot_url: "http://web.archive.org/web/20220630124821/https://cfi.co/menu/corporate/2021/11/satorp-knows-the-value-of-people-pride-professionalism-and-partnership-four-ps-that-are-keeping-this-giant-refinery-at-the-top-of-its-game/"
 content_sha256: 66de9bee317411bba53a521bb52c0b9e14f26562d155d28838e24903aebe96ba
 canonical: 21039-satorp-knows-the-value-of-people-pride-professionalism-and-partnership-four-ps-t.json
 ---
