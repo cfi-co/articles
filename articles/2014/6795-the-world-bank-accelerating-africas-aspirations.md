@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140705113457
+wayback_snapshot_url: "http://web.archive.org/web/20140705113457/http://cfi.co/africa/2014/03/the-world-bank-accelerating-africas-aspirations/"
 content_sha256: 38d9c0f030669b355c76ab1c322194c62f524be949fc5c9f081b40318c498064
 canonical: 6795-the-world-bank-accelerating-africas-aspirations.json
 ---
