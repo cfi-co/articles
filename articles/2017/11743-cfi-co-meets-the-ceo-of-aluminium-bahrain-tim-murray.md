@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724031449
+wayback_snapshot_url: "http://web.archive.org/web/20190724031449/https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-of-aluminium-bahrain-tim-murray/"
 content_sha256: cb6d45a4bbc9c97772e5f75832f43136c744d6d69a697081e716bdc1e921032e
 canonical: 11743-cfi-co-meets-the-ceo-of-aluminium-bahrain-tim-murray.json
 ---
