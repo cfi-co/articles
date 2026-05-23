@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724023914
+wayback_snapshot_url: "http://web.archive.org/web/20190724023914/https://cfi.co/technology/2018/10/as-cryptocurrencies-tank-the-future-of-blockchain-is-hard-asset-backed/"
 content_sha256: b395fe17d7204f2166f6d84f824f69ead9f46d9c09996779c743636c817e1136
 canonical: 13060-as-cryptocurrencies-tank-the-future-of-blockchain-is-hard-asset-backed.json
 ---
