@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230715034116
+wayback_snapshot_url: "http://web.archive.org/web/20230715034116/https://cfi.co/asia-pacific/2023/07/singapore-land-group-a-union-of-minds-methods-and-values/"
 content_sha256: aaf18f4e093435a514e35a99797245ba3a4eac97a6dc43190e44363316d8255f
 canonical: 25696-singapore-land-group-a-union-of-minds-methods-and-values.json
 ---
