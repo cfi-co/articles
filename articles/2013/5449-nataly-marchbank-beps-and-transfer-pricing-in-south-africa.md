@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132129
+wayback_snapshot_url: "http://web.archive.org/web/20190818132129/https://cfi.co/africa/2013/10/nataly-marchbank-beps-and-transfer-pricing-in-south-africa/"
 content_sha256: c48cafa46b2caf045f44df6dc82bee39fc22d7db1f34300d4e584946e57c65d6
 canonical: 5449-nataly-marchbank-beps-and-transfer-pricing-in-south-africa.json
 ---
