@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916085058
+wayback_snapshot_url: "http://web.archive.org/web/20190916085058/https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-founder-ceo-of-park-west-gallery-albert-scaglione/"
 content_sha256: 896bff3b747c3f3e401f4af1faa75d3e087f055b93fbafc06265c1d68688f2be
 canonical: 11889-cfi-co-meets-the-founder-ceo-of-park-west-gallery-albert-scaglione.json
 ---
