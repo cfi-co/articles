@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230405143258
+wayback_snapshot_url: "http://web.archive.org/web/20230405143258/https://cfi.co/lifestyle/2023/04/david-humes-philosophy-controversy-superstition-atheism-and-lucky-toes/"
 content_sha256: feccedaebc58d96d2d96b814ab45799127bcaea9173f761488643a8898011410
 canonical: 25064-david-humes-philosophy-controversy-superstition-atheism-and-lucky-toes.json
 ---
