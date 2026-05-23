@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250614230528
+wayback_snapshot_url: "http://web.archive.org/web/20250614230528/https://cfi.co/asia-pacific/2025/06/tashkents-turning-point-why-the-time-is-now-for-global-investors-in-uzbekistan/"
 content_sha256: e7eb9a01fde8d6996db260d8f17ccc591a5fb50f95d4af8bdcb82bdaf25586b4
 canonical: 27764-tashkents-turning-point-why-the-time-is-now-for-global-investors-in-uzbekistan.json
 ---
