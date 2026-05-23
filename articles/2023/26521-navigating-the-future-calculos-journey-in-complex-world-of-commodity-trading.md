@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240105120509
+wayback_snapshot_url: "http://web.archive.org/web/20240105120509/https://cfi.co/europe/2023/12/calculo-capital-navigating-the-future/"
 content_sha256: 1c28cdc36964c82cddbeb91d7143ec0179b47b71bc1abab6c8574918a89bf348
 canonical: 26521-navigating-the-future-calculos-journey-in-complex-world-of-commodity-trading.json
 ---
