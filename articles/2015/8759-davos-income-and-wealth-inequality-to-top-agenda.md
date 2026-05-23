@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916043359
+wayback_snapshot_url: "http://web.archive.org/web/20190916043359/https://cfi.co/europe/2015/01/davos-income-and-wealth-inequality-to-top-agenda/"
 content_sha256: 5f8412bac07a8a04bed15ad2e7e7d91c004e93e3d5a33430037cabd7ff2498d9
 canonical: 8759-davos-income-and-wealth-inequality-to-top-agenda.json
 ---
