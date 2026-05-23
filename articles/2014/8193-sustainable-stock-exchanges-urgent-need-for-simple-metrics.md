@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170921182501
+wayback_snapshot_url: "http://web.archive.org/web/20170921182501/http://cfi.co/africa/2014/10/sustainable-stock-exchanges-urgent-need-for-simple-metrics/"
 content_sha256: 70c76c0965fe825bb7bf6833abf226a1b776c6334264faed6671b123e99b0dc6
 canonical: 8193-sustainable-stock-exchanges-urgent-need-for-simple-metrics.json
 ---
