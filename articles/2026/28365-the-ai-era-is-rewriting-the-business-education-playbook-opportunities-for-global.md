@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 5830f5b639e292214d6470ed178aae21d619fa21efb877f829c0399465eaf602
 canonical: 28365-the-ai-era-is-rewriting-the-business-education-playbook-opportunities-for-global.json
 ---
