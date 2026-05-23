@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132008
+wayback_snapshot_url: "http://web.archive.org/web/20190818132008/https://cfi.co/technology/2014/10/sir-timothy-berners-lee-catching-the-world-in-a-web/"
 content_sha256: 68591a50de4842b58c6090893c5b4e1a41c898351ae24c1422d02594c3fc7a38
 canonical: 8309-sir-timothy-berners-lee-catching-the-world-in-a-web.json
 ---
