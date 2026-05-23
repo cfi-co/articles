@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200919034710
+wayback_snapshot_url: "http://web.archive.org/web/20200919034710/https://cfi.co/c-19/2020/04/clash-over-eurobonds-widens-rift-in-eurozone/"
 content_sha256: 6a42bfaae76bdff4e74a2080d72647305496bb9fda8f246e67b78f56450d99f2
 canonical: 14871-clash-over-eurobonds-widens-rift-in-eurozone.json
 ---
