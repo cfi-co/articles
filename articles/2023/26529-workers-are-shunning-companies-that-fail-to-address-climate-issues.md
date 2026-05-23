@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231221221606
+wayback_snapshot_url: "http://web.archive.org/web/20231221221606/https://cfi.co/sustainability/2023/12/workers-are-shunning-companies-that-fail-to-address-climate-issues/"
 content_sha256: 2d610cca710b0f77fab39490e2a27d7f99f5a514d6a81277417a20099e501263
 canonical: 26529-workers-are-shunning-companies-that-fail-to-address-climate-issues.json
 ---
