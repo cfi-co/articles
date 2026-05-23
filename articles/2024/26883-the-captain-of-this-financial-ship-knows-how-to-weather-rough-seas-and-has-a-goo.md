@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240713133356
+wayback_snapshot_url: "http://web.archive.org/web/20240713133356/https://cfi.co/banking/2024/06/patrick-anderson-knows-how-to-weather-rough-seas-and-has-a-good-crew-behind-him/"
 content_sha256: 8101fb8b62fd88200a996dc4a2c1dc00471b6b71f14a6ccfada0accf56193286
 canonical: 26883-the-captain-of-this-financial-ship-knows-how-to-weather-rough-seas-and-has-a-goo.json
 ---
