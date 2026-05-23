@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200702151704
+wayback_snapshot_url: "http://web.archive.org/web/20200702151704/https://cfi.co/menu/corporate/2020/07/goldentree-governance-and-experience-equate-to-winning-formula-for-investment-firm-that-boasts-the-golden-touch/"
 content_sha256: 129eea5f5393be1e6c61efffcb966f3eab565d26bf1ee045cdd43247219237e3
 canonical: 15927-goldentree-governance-and-experience-equate-to-winning-formula-for-investment-fi.json
 ---
