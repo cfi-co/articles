@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20141003105039
+wayback_snapshot_url: "http://web.archive.org/web/20141003105039/http://cfi.co/africa/2014/09/facra-how-investors-can-help-build-smes-in-angola-the-missing-middle/"
 content_sha256: 5bcc68556f2e503be85d9fd5e9208b77f05b5e9d262cdf9413e746cf7f8584ba
 canonical: 7966-facra-how-investors-can-help-build-smes-in-angola-the-missing-middle.json
 ---
