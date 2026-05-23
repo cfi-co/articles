@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418062023
+wayback_snapshot_url: "http://web.archive.org/web/20210418062023/https://cfi.co/menu/corporate/2021/04/domini-impact-investments-ceo-carole-m-laible-on-investing-for-good/"
 content_sha256: 14678846d9f41d391c532014344053f417c97853462584bcb8e280e632d049f5
 canonical: 19387-domini-impact-investments-ceo-carole-m-laible-on-investing-for-good.json
 ---
