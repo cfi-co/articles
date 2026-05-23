@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 8b0ebd62b7a76c46d6738dbdcf13dc828a435712f5b648d839592eff806866d6
 canonical: 18612-victor-buck-services-20-years-of-experience-in-outsourcing-services-a-strong-and.json
 ---
