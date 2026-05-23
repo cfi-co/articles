@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422014113
+wayback_snapshot_url: "http://web.archive.org/web/20210422014113/https://cfi.co/menu/corporate/2017/10/ffa-private-bank-trusted-partner/"
 content_sha256: d64e421ae65b765cb81a2172940dec0777fa22d9100181b00933b2a72e36eebd
 canonical: 12046-ffa-private-bank-trusted-partner.json
 ---
