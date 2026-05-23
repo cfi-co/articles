@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250113200644
+wayback_snapshot_url: "http://web.archive.org/web/20250113200644/https://cfi.co/banking/2024/09/berenberg-literally-centuries-of-experience-and-expertise-behind-this-bank/"
 content_sha256: fc347da659af02018c2953ef4a4baa1c1f78553321109b4b4e4bc2f10314ba10
 canonical: 27133-berenberg-literally-centuries-of-experience-and-expertise-behind-this-bank.json
 ---
