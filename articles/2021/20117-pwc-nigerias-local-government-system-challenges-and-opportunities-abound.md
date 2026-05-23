@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 2a739ecff1a48786ee8b8638b579ac98ff8d3b5a5c111cf0ccaa0a97a79738a6
 canonical: 20117-pwc-nigerias-local-government-system-challenges-and-opportunities-abound.json
 ---
