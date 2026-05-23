@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190701020045
+wayback_snapshot_url: "http://web.archive.org/web/20190701020045/https://cfi.co/finance/2019/02/otaviano-canuto-center-for-macroeconomics-and-development-how-to-heal-the-brazilian-economy/"
 content_sha256: 216322a6a34616c82410440ccb67c31afeed853cd5019a5c25c46aff1317a40e
 canonical: 13443-otaviano-canuto-center-for-macroeconomics-and-development-how-to-heal-the-brazil.json
 ---
