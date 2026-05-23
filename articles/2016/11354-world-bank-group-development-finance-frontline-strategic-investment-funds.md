@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191014232120
+wayback_snapshot_url: "http://web.archive.org/web/20191014232120/https://cfi.co/africa/2016/10/world-bank-group-development-finance-frontline-strategic-investment-funds/"
 content_sha256: 94a4ae5b4b2ca8eb919b5ccc3acd3fe8a040423377064dde5bbc4f1e3188e115
 canonical: 11354-world-bank-group-development-finance-frontline-strategic-investment-funds.json
 ---
