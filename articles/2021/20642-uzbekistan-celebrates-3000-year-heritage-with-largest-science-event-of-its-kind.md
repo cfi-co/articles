@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210917102958
+wayback_snapshot_url: "http://web.archive.org/web/20210917102958/https://cfi.co/asia-pacific/2021/09/uzbekistan-celebrates-3000-year-heritage-with-largest-science-event-of-its-kind/"
 content_sha256: 447c4583685b537d3d44d13cd58d92e36156fca7f2cb370d2cb4935e01069556
 canonical: 20642-uzbekistan-celebrates-3000-year-heritage-with-largest-science-event-of-its-kind.json
 ---
