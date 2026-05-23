@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200918203517
+wayback_snapshot_url: "http://web.archive.org/web/20200918203517/https://cfi.co/editors-picks/2017/09/thomas-kaplan-building-bridges-with-art/"
 content_sha256: b08f3b52cd8b7959e3ab95ee2e863d0e0e78fb0ecc560125f679d32900799085
 canonical: 12055-thomas-kaplan-building-bridges-with-art.json
 ---
