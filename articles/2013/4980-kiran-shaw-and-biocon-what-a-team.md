@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191021052118
+wayback_snapshot_url: "http://web.archive.org/web/20191021052118/https://cfi.co/asia-pacific/2013/08/kiran-shaw-and-biocon-what-a-team/"
 content_sha256: 701bacb8e06e49953969be1a635e7fd5de7c9d88b163b69ae8f121034e9190f7
 canonical: 4980-kiran-shaw-and-biocon-what-a-team.json
 ---
