@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823051132
+wayback_snapshot_url: "http://web.archive.org/web/20190823051132/https://cfi.co/asia-pacific/2013/02/imf-support-for-sri-lankas-economic-reform-programme/"
 content_sha256: 14c681eab65308937ec9a599846b9b6cb556c82d32c606152c7d31506b2dc25c
 canonical: 3120-imf-support-for-sri-lankas-economic-reform-programme.json
 ---
