@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418062248
+wayback_snapshot_url: "http://web.archive.org/web/20210418062248/https://cfi.co/menu/cfi-co-meets/2021/02/veon-works-to-bridge-the-digital-divide-joint-leaders-sergi-herrero-and-kaan-terzioglu-show-the-way/"
 content_sha256: 472e08f70076f7e25b90e0ae52e3b4ce508f64566bf8ec34157be24a4be9178c
 canonical: 18574-veon-works-to-bridge-the-digital-divide-joint-leaders-sergi-herrero-and-kaan-ter.json
 ---
