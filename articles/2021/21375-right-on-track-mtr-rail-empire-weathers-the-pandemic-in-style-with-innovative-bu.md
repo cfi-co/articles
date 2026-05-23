@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211227153654
+wayback_snapshot_url: "http://web.archive.org/web/20211227153654/https://cfi.co/menu/corporate/2021/12/right-on-track-mtr-rail-empire-weathers-the-pandemic-in-style-with-innovative-business-model/"
 content_sha256: 0db8ffafdef84a3014fbafd6ff452d93583f89e7297506bf0c8431aa4c14eafa
 canonical: 21375-right-on-track-mtr-rail-empire-weathers-the-pandemic-in-style-with-innovative-bu.json
 ---
