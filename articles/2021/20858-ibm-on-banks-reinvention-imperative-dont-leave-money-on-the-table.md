@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211021121813
+wayback_snapshot_url: "http://web.archive.org/web/20211021121813/https://cfi.co/banking/2021/10/ibm-on-banks-reinvention-imperative-dont-leave-money-on-the-table/"
 content_sha256: 59db8d3ffbd180b4e26e8ddd28348c6b29bad44e0051dd5f36c53351827ae228
 canonical: 20858-ibm-on-banks-reinvention-imperative-dont-leave-money-on-the-table.json
 ---
