@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241207045313
+wayback_snapshot_url: "http://web.archive.org/web/20241207045313/https://cfi.co/lifestyle/2024/11/online-shopping-or-selling-just-be-careful-out-there/"
 content_sha256: a93b57b142c666a5a85159e60669e3113f37286057df046e2ae01889bb1651db
 canonical: 27331-online-shopping-or-selling-just-be-careful-out-there.json
 ---
