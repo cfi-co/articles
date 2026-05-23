@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250422101853
+wayback_snapshot_url: "http://web.archive.org/web/20250422101853/https://cfi.co/northamerica/2025/04/big-blues-big-bet-how-ibm-transformed-itself-for-the-age-of-ai-and-cloud/"
 content_sha256: 8c087d2d8bf03b7c01965c7f073bbd72d68d66fab1bb48e511abc4bfaae4e798
 canonical: 27690-big-blues-big-bet-how-ibm-transformed-itself-for-the-age-of-ai-and-cloud.json
 ---
