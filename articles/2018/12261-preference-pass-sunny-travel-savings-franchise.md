@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200515004031
+wayback_snapshot_url: "http://web.archive.org/web/20200515004031/https://cfi.co/lifestyle/2018/02/preference-pass-sunny-travel-savings-franchise/"
 content_sha256: e2f000f38d01d683b969a89be7004123bed3dae3ad0d718799ad4f7ddf5b1c85
 canonical: 12261-preference-pass-sunny-travel-savings-franchise.json
 ---
