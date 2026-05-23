@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140827161239
+wayback_snapshot_url: "http://web.archive.org/web/20140827161239/http://cfi.co/finance/2014/02/zurich-insurance-company-insurance-in-latin-america-economic-growth-brings-new-opportunities/"
 content_sha256: 857ff01986ccf50227d4f7840233b1d23f4a8430421796b1a566c7262d989cbf
 canonical: 6625-zurich-insurance-company-insurance-in-latin-america-economic-growth-brings-new-o.json
 ---
