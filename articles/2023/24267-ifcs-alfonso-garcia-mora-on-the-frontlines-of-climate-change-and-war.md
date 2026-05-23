@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230102170205
+wayback_snapshot_url: "http://web.archive.org/web/20230102170205/https://cfi.co/europe/2023/01/ifcs-alfonso-garcia-mora-on-the-frontlines-of-climate-change-and-war/"
 content_sha256: c4be9f4a91a5c187f311bdec73239cacce576fb5eebe8145d744b177c30d53e1
 canonical: 24267-ifcs-alfonso-garcia-mora-on-the-frontlines-of-climate-change-and-war.json
 ---
