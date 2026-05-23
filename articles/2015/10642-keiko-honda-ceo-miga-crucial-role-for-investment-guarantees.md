@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818052452
+wayback_snapshot_url: "http://web.archive.org/web/20190818052452/https://cfi.co/finance/2015/11/keiko-honda-ceo-miga-crucial-role-for-investment-guarantees/"
 content_sha256: bd82913824f744495cb2407b6eb360129c08dc0af3959491e00611b8cfe15f08
 canonical: 10642-keiko-honda-ceo-miga-crucial-role-for-investment-guarantees.json
 ---
