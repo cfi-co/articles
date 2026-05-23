@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210520072006
+wayback_snapshot_url: "http://web.archive.org/web/20210520072006/https://cfi.co/finance/2021/05/building-bridges-joining-impact-investing-and-social-entrepreneurship/"
 content_sha256: c10d80a9daab9614e461aca850cede6c37c333155ea4b0d071f736084b7ff7c5
 canonical: 19712-building-bridges-joining-impact-investing-and-social-entrepreneurship.json
 ---
