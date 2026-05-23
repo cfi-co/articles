@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200408091812
+wayback_snapshot_url: "http://web.archive.org/web/20200408091812/https://cfi.co/finance/2020/04/2020-unctad-world-investment-forum-more-important-than-ever-in-an-age-of-worrying-trends/"
 content_sha256: 0b1f702b1b5fe8b16cda6670e3219b198523155b9bf4c3bfc13f18629527dd99
 canonical: 14826-2020-unctad-world-investment-forum-more-important-than-ever-in-an-age-of-worryin.json
 ---
