@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210130083948
+wayback_snapshot_url: "http://web.archive.org/web/20210130083948/https://cfi.co/c-19/2021/01/double-dip-recession-in-the-making-uk-expected-to-emerge-first/"
 content_sha256: 6796bfa19905875d81875ef17cdd9af6fc2c9578691daf7cc15216ea94c709b2
 canonical: 18456-double-dip-recession-in-the-making-uk-expected-to-emerge-first.json
 ---
