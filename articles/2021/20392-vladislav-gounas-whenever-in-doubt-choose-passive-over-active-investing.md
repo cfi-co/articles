@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207205419
+wayback_snapshot_url: "http://web.archive.org/web/20211207205419/https://cfi.co/menu/corporate/2021/08/vladislav-gounas-whenever-in-doubt-choose-passive-over-active-investing/"
 content_sha256: 671af7241020894fdf9d7f45a945eca402a09bb251db411459035ecee9709257
 canonical: 20392-vladislav-gounas-whenever-in-doubt-choose-passive-over-active-investing.json
 ---
