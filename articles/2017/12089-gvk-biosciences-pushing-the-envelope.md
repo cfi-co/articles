@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418054604
+wayback_snapshot_url: "http://web.archive.org/web/20210418054604/https://cfi.co/menu/corporate/2017/10/gvk-biosciences-pushing-the-envelope/"
 content_sha256: c8c3b5d331036d01c28491d1d1297ee902a856c3e30c03857ca1ac6b853f1860
 canonical: 12089-gvk-biosciences-pushing-the-envelope.json
 ---
