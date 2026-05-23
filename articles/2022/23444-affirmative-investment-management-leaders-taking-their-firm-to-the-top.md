@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230330025957
+wayback_snapshot_url: "http://web.archive.org/web/20230330025957/https://cfi.co/menu/corporate/2022/09/affirmative-investment-management-leaders-taking-their-firm-to-the-top/"
 content_sha256: f9191ea41ef932d0950cd41f727660fd5d9b2a0c856e2879b464f8ee15d12cb9
 canonical: 23444-affirmative-investment-management-leaders-taking-their-firm-to-the-top.json
 ---
