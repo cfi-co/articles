@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 969169c1aa931b40557726c2383a43a03123682b94c5ef229798da836ea1c828
 canonical: 3608-dr-ross-jackson-tackling-the-global-crisis.json
 ---
