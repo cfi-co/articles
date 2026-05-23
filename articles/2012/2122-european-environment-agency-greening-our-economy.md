@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20131001081417
+wayback_snapshot_url: "http://web.archive.org/web/20131001081417/http://cfi.co/europe/2012/08/european-environment-agency-greening-our-economy/"
 content_sha256: 5900d333ed03c6c7a5ae4ce5cb20febf2684bfb65bf94b5ecbba1a98b027960a
 canonical: 2122-european-environment-agency-greening-our-economy.json
 ---
