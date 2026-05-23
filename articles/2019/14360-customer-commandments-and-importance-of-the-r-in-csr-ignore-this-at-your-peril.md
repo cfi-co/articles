@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191215004306
+wayback_snapshot_url: "http://web.archive.org/web/20191215004306/https://cfi.co/sustainability/2019/11/customer-commandments-and-importance-of-the-r-in-csr-ignore-this-at-your-peril/"
 content_sha256: 98eb044cca1b3ef84428704fa5302e937a2dd9da49446df6571d6d2a45379aa9
 canonical: 14360-customer-commandments-and-importance-of-the-r-in-csr-ignore-this-at-your-peril.json
 ---
