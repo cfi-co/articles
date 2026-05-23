@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203232241
+wayback_snapshot_url: "http://web.archive.org/web/20201203232241/https://cfi.co/corporate-leaders/2020/10/iskandar-najjar-equiti-group-ceo-pulling-out-all-the-stops-in-bid-to-be-the-best-equiti-group-at-the-forefront-of-fintech-sector/"
 content_sha256: 529adb79e9e60d5841a94205fb22e7961c01dff6a4f76c92adaff5958d31d219
 canonical: 17562-iskandar-najjar-equiti-group-ceo-pulling-out-all-the-stops-in-bid-to-be-the-best.json
 ---
