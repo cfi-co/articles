@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717213321
+wayback_snapshot_url: "http://web.archive.org/web/20190717213321/https://cfi.co/menu/corporate/2018/02/mercury-capital-advisors-customisation-and-global-presence/"
 content_sha256: ab837d48559a5e421f1f75649da6b2ecf7531a5f80bfabd9ddddee6a5537d189
 canonical: 9356-mercury-capital-advisors-customisation-and-global-presence.json
 ---
