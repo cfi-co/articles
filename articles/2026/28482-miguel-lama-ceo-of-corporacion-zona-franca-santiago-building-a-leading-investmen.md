@@ -16,7 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: d03f0fd629ba11957260ef3c4a87e3f1d8de6264708afaba4f4caa32d6b227fe
 canonical: 28482-miguel-lama-ceo-of-corporacion-zona-franca-santiago-building-a-leading-investmen.json
 ---
