@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250217115402
+wayback_snapshot_url: "http://web.archive.org/web/20250217115402/https://cfi.co/asia-pacific/2025/02/global-banks-retreat-from-china-what-went-wrong/"
 content_sha256: 9122e8f24735bff0f43f418288d7bf464583f95a8e8d91606c7bf593a579dce4
 canonical: 27572-global-banks-retreat-from-china-what-went-wrong.json
 ---
