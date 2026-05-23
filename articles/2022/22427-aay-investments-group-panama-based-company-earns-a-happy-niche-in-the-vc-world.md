@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220721141204
+wayback_snapshot_url: "http://web.archive.org/web/20220721141204/https://cfi.co/menu/corporate/2022/07/aay-investments-group-panama-based-company-earns-a-happy-niche-in-the-vc-world/"
 content_sha256: f1f200fbde933ebc532112649e0fc607e9e6efab3783f354936618340cbbd113
 canonical: 22427-aay-investments-group-panama-based-company-earns-a-happy-niche-in-the-vc-world.json
 ---
