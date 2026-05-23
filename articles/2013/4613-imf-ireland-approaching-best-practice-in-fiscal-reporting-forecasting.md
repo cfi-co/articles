@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191014234957
+wayback_snapshot_url: "http://web.archive.org/web/20191014234957/https://cfi.co/europe/2013/07/imf-ireland-approaching-best-practice-in-fiscal-reporting-forecasting/"
 content_sha256: 9c6732bb97034f7ea3212a5fd0b4ccb9934f20bc3ea45bc103b62bb6fbc3d8d3
 canonical: 4613-imf-ireland-approaching-best-practice-in-fiscal-reporting-forecasting.json
 ---
