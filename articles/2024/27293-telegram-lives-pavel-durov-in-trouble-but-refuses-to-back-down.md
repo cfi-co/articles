@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241115025006
+wayback_snapshot_url: "http://web.archive.org/web/20241115025006/https://cfi.co/technology/2024/11/telegram-lives-pavel-durov-in-trouble-but-refuses-to-back-down/"
 content_sha256: 82714498d8298c306d745fd3eb0446994aaecc89b7ac9e423699523a31b3a209
 canonical: 27293-telegram-lives-pavel-durov-in-trouble-but-refuses-to-back-down.json
 ---
