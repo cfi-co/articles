@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 66d012f4e52855016795825a220c6b322cb72a3092d5366746407a73d0df7f82
 canonical: 8969-sustainable-stock-exchanges-a-conversation-with-nasdaq-vice-chairperson-sandy-fr.json
 ---
