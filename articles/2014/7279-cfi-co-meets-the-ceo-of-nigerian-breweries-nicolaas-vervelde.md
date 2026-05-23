@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140827150302
+wayback_snapshot_url: "http://web.archive.org/web/20140827150302/http://cfi.co/africa/2014/01/cfi-co-meets-the-ceo-of-nigerian-breweries-nicolaas-vervelde/"
 content_sha256: d51a2804a9ac5c0c73e1d551ed2e12dfbeb6d85c5033527a58440427046852c2
 canonical: 7279-cfi-co-meets-the-ceo-of-nigerian-breweries-nicolaas-vervelde.json
 ---
