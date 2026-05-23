@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630134103
+wayback_snapshot_url: "http://web.archive.org/web/20220630134103/https://cfi.co/menu/corporate/2022/05/how-do-we-measure-social-impact-unicredits-sib-unit-has-an-answer/"
 content_sha256: c0437bb65726b93fa7afe932816198bf4e21e3e958a376d769c9618d6f884158
 canonical: 21867-how-do-we-measure-social-impact-unicredits-sib-unit-has-an-answer.json
 ---
