@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210810102218
+wayback_snapshot_url: "http://web.archive.org/web/20210810102218/https://cfi.co/middleeast/2021/08/kpmg-local-governments-becoming-more-digitally-enabled-data-driven-and-community-focused/"
 content_sha256: cfe656dbc39f53bb80c5e70bf7af5a3f901c6077e181d23243ea66eda3751767
 canonical: 20344-kpmg-local-governments-becoming-more-digitally-enabled-data-driven-and-community.json
 ---
