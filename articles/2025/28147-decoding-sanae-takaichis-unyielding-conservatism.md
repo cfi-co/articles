@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260107162246
+wayback_snapshot_url: "http://web.archive.org/web/20260107162246/https://cfi.co/asia-pacific/2025/12/decoding-sanae-takaichis-unyielding-conservatism/"
 content_sha256: b69fbce0354db38492736c67fa483d0d205238d3ef940479e4a4a912e658b181
 canonical: 28147-decoding-sanae-takaichis-unyielding-conservatism.json
 ---
