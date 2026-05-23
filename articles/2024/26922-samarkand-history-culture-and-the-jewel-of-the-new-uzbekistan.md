@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240722090420
+wayback_snapshot_url: "http://web.archive.org/web/20240722090420/https://cfi.co/asia-pacific/2024/07/samarkand-history-culture-and-the-jewel-of-the-new-uzbekistan/"
 content_sha256: 28a764b32899da311365b1f872bc6de05a2e4bd8986ec4745a4037669dd9c35f
 canonical: 26922-samarkand-history-culture-and-the-jewel-of-the-new-uzbekistan.json
 ---
