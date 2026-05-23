@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220528095215
+wayback_snapshot_url: "http://web.archive.org/web/20220528095215/https://cfi.co/brave-new-world/2022/05/crypto-jitters-unhinged-stablecoins-add-volatility-to-an-already-unstable-market/"
 content_sha256: c585755ab27a89b2870dd77e94cc6c24b648053fc82b7086c66ae3d98fc63a79
 canonical: 21834-crypto-jitters-unhinged-stablecoins-add-volatility-to-an-already-unstable-market.json
 ---
