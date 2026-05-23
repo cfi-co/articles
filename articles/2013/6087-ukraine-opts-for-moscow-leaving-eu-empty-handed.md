@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140825032107
+wayback_snapshot_url: "http://web.archive.org/web/20140825032107/http://cfi.co/europe/2013/11/ukraine-opts-for-moscow-leaving-eu-empty-handed/"
 content_sha256: 4a3df7de36b13ade5781264beb42ced3d2f1f2495d7340d076be9a7e24d50e6e
 canonical: 6087-ukraine-opts-for-moscow-leaving-eu-empty-handed.json
 ---
