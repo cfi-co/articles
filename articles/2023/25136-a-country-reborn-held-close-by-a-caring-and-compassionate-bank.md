@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230508172612
+wayback_snapshot_url: "http://web.archive.org/web/20230508172612/https://cfi.co/latinamerica/2023/04/a-new-caixa-has-been-born-for-a-new-brazil"
 content_sha256: 6570f5adcb3666a7d77c72cecf4a12d686f76e325f741167ae2974bad06b72d6
 canonical: 25136-a-country-reborn-held-close-by-a-caring-and-compassionate-bank.json
 ---
