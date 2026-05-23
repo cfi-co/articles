@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826173637
+wayback_snapshot_url: "http://web.archive.org/web/20140826173637/http://cfi.co/sustainability/2013/11/un-concern-on-international-day-conflicts-and-the-environment/"
 content_sha256: a567d1460499f64c557b4739665ad751c3c2be1e68abb6d999cbee4cda0b34d0
 canonical: 5795-un-concern-on-international-day-conflicts-and-the-environment.json
 ---
