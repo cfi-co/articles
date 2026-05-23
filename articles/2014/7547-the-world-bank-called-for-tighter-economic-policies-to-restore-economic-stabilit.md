@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050639
+wayback_snapshot_url: "http://web.archive.org/web/20190818050639/https://cfi.co/asia-pacific/2014/07/the-world-bank-called-for-tighter-economic-policies-to-restore-economic-stability/"
 content_sha256: 3955d9c8f5391555a968492ff8131f260c9e1eb0a666547f3109a511a0e795e2
 canonical: 7547-the-world-bank-called-for-tighter-economic-policies-to-restore-economic-stabilit.json
 ---
