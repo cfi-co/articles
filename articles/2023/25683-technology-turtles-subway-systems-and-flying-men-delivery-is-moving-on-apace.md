@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230627101931
+wayback_snapshot_url: "http://web.archive.org/web/20230627101931/https://cfi.co/brave-new-world/2023/06/technology-turtles-subway-systems-and-flying-men-delivery-is-moving-on-apace/"
 content_sha256: 1f19b0fb8349193c865fff27721faee9aad0457b87904485a1a89894a8291105
 canonical: 25683-technology-turtles-subway-systems-and-flying-men-delivery-is-moving-on-apace.json
 ---
