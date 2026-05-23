@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717205641
+wayback_snapshot_url: "http://web.archive.org/web/20190717205641/https://cfi.co/latinamerica/2015/04/marina-silva-insistence-that-may-yet-pay-off/"
 content_sha256: 8991dc7c730a2119d90ce32dcf1a7259bf69c25d8a693da0654c11304f0a06e8
 canonical: 9600-marina-silva-insistence-that-may-yet-pay-off.json
 ---
