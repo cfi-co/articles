@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220606170425
+wayback_snapshot_url: "http://web.archive.org/web/20220606170425/https://cfi.co/menu/corporate/2022/05/leighton-smith-and-andrew-evans-serendipitous-rise-puts-dynamic-duo-at-the-top/"
 content_sha256: aa247153dd06dbb1f3e01f983364a849f8f913ab2f1af66566d5006e131a207b
 canonical: 21739-leighton-smith-and-andrew-evans-serendipitous-rise-puts-dynamic-duo-at-the-top.json
 ---
