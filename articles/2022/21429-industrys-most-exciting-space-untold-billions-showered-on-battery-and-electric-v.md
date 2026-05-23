@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220108091055
+wayback_snapshot_url: "http://web.archive.org/web/20220108091055/https://cfi.co/brave-new-world/2022/01/industrys-most-exciting-space-untold-billions-showered-on-battery-and-electric-vehicle-technology-and-production/"
 content_sha256: 2f17216078ddb574ef69e6975025badb14c8aba6778b7730ddc8845efa5c288c
 canonical: 21429-industrys-most-exciting-space-untold-billions-showered-on-battery-and-electric-v.json
 ---
