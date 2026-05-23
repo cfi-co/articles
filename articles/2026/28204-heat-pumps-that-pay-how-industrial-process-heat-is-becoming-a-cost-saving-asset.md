@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260114161335
+wayback_snapshot_url: "http://web.archive.org/web/20260114161335/https://cfi.co/technology/2026/01/heat-pumps-that-pay-how-industrial-process-heat-is-becoming-a-cost-saving-asset/"
 content_sha256: 7eae3c115eb30711af7b99c900571526ceef2629f1872087049ab9fb6573953f
 canonical: 28204-heat-pumps-that-pay-how-industrial-process-heat-is-becoming-a-cost-saving-asset.json
 ---
