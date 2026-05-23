@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180706144354
+wayback_snapshot_url: "http://web.archive.org/web/20180706144354/http://cfi.co/africa/2015/07/pwc-africas-hospitality-sector-poised-for-growth/"
 content_sha256: ee9c45fb30697a4d883b2f4939be385ab194e9fa4a8f60daa17149c7931a9fb3
 canonical: 10169-pwc-africas-hospitality-sector-poised-for-growth.json
 ---
