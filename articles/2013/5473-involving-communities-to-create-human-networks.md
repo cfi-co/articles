@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190507130226
+wayback_snapshot_url: "http://web.archive.org/web/20190507130226/https://cfi.co/africa/2013/10/involving-communities-to-create-human-networks/"
 content_sha256: 08fb26e2329c099452788baacd867c4d74b0257d93b2d178de3087dd286184a0
 canonical: 5473-involving-communities-to-create-human-networks.json
 ---
