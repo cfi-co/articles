@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180707194016
+wayback_snapshot_url: "http://web.archive.org/web/20180707194016/http://cfi.co/lifestyle/2015/02/book-review-plus-ca-change-plus-cest-la-meme-chose/"
 content_sha256: e2a6e77e10ea8f3c005bd2a0e2b6635818b416e768c615716e13616cce760215
 canonical: 8933-book-review-plus-ca-change-plus-cest-la-meme-chose.json
 ---
