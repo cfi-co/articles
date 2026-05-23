@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: a36ef33f5080822632cbda055bf31988a57afe56d5fdd7454094f1f09cf054d8
 canonical: 3519-powerful-leadership-from-sonia-gandhi.json
 ---
