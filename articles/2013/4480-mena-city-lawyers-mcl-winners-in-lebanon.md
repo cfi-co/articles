@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327052008
+wayback_snapshot_url: "http://web.archive.org/web/20140327052008/http://cfi.co/legal/2013/05/mena-city-lawyers-mcl-winners-in-lebanon/"
 content_sha256: 2a60c91fcea568abb63f78d3f58b962367277fd5d835db5ba456e9623b60cc55
 canonical: 4480-mena-city-lawyers-mcl-winners-in-lebanon.json
 ---
