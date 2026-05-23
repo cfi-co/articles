@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 8c895ece67c79107aa9adcbe82f1bd511d351b5555c5294d9421c0e29d9a4370
 canonical: 14525-tactical-management-global-goals-and-expertise-specific-focus-on-looking-after-c.json
 ---
