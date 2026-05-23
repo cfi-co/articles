@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190721112622
+wayback_snapshot_url: "http://web.archive.org/web/20190721112622/https://cfi.co/africa/2012/07/bric-stocks-now-out-of-favour-later-to-be-an-incredible-investment-opportunity/"
 content_sha256: 32d97dbaa354501db7a2de60bb19865a3b2eb89bfbf87c04055c9b3162fa9b2f
 canonical: 988-bric-stocks-now-out-of-favour-later-to-be-an-incredible-investment-opportunity.json
 ---
