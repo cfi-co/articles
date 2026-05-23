@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211201034251
+wayback_snapshot_url: "http://web.archive.org/web/20211201034251/https://cfi.co/menu/corporate/2020/11/ara-asset-management-reit-pioneer-wins-recognition-for-its-transformative-efforts-in-sustainability/"
 content_sha256: fcffb8e2e684cc350230232b20ea9913ca505629b13ca04ee1d20f5ddb20eacb
 canonical: 18030-ara-asset-management-reit-pioneer-wins-recognition-for-its-transformative-effort.json
 ---
