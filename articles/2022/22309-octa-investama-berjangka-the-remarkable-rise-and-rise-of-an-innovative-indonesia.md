@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220815153824
+wayback_snapshot_url: "http://web.archive.org/web/20220815153824/https://cfi.co/menu/corporate/2022/07/octa-investama-berjangka-the-remarkable-rise-and-rise-of-an-innovative-indonesian-broker/"
 content_sha256: 01a7f84b829ee2b0807923563e2c47f8d403e04c92586bbdd557a00309045106
 canonical: 22309-octa-investama-berjangka-the-remarkable-rise-and-rise-of-an-innovative-indonesia.json
 ---
