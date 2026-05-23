@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221207231413
+wayback_snapshot_url: "http://web.archive.org/web/20221207231413/https://cfi.co/menu/corporate/2022/09/general-mediterranean-holding-more-titles-and-honours-than-your-average-captain-of-industry/"
 content_sha256: 29d208e9b8bdd59122ca013184376dc3e4a5cdf5a61d89e08e79eb7c5ab1461c
 canonical: 23431-general-mediterranean-holding-more-titles-and-honours-than-your-average-captain-.json
 ---
