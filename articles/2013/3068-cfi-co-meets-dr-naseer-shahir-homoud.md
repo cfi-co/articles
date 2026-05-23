@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050414
+wayback_snapshot_url: "http://web.archive.org/web/20190823050414/https://cfi.co/banking/2013/02/cfi-co-meets-dr-naseer-shahir-homoud/"
 content_sha256: 06a8d4fb3741e906ac53bfccb39f4ccd9e53e342679829fe510e4f32936166c1
 canonical: 3068-cfi-co-meets-dr-naseer-shahir-homoud.json
 ---
