@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230330012814
+wayback_snapshot_url: "http://web.archive.org/web/20230330012814/https://cfi.co/europe/2021/07/adam-glapinski-investing-for-the-long-term/"
 content_sha256: dd19fc4f852e9ac103a4e1a8288fa929d3861ced79a199873421aefa8f1549f1
 canonical: 20167-adam-glapinski-investing-for-the-long-term.json
 ---
