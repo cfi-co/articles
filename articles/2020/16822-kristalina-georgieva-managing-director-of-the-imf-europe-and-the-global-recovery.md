@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 07b0bfca9fc1202b02e47f5c8aafdbd02cd4690a79577431bcc694ca059a2eb6
 canonical: 16822-kristalina-georgieva-managing-director-of-the-imf-europe-and-the-global-recovery.json
 ---
