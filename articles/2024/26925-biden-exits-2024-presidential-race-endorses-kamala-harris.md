@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250424093402
+wayback_snapshot_url: "http://web.archive.org/web/20250424093402/https://cfi.co/northamerica/2024/07/biden-exits-2024-presidential-race-endorses-kamala-harris/"
 content_sha256: 600c72f973db02edeaa31a0ef148d2a59d4ca7becd5067360f87a11bac007093
 canonical: 26925-biden-exits-2024-presidential-race-endorses-kamala-harris.json
 ---
