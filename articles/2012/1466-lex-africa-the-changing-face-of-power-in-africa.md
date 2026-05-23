@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327042525
+wayback_snapshot_url: "http://web.archive.org/web/20140327042525/http://cfi.co/africa/2012/08/lex-africa-the-changing-face-of-power-in-africa/"
 content_sha256: 1189553a5aa96238bc37e3415835acb24a08da768c274d010516ede1ed27a6f5
 canonical: 1466-lex-africa-the-changing-face-of-power-in-africa.json
 ---
