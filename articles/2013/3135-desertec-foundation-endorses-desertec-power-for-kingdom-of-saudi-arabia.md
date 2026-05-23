@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140828131819
+wayback_snapshot_url: "http://web.archive.org/web/20140828131819/http://cfi.co/projects/2013/02/desertec-foundation-endorses-desertec-power-for-kingdom-of-saudi-arabia/"
 content_sha256: 65135d9974e77794912a4d2f2b473172fb518c70eb17ebad311e8d69c4e12b1b
 canonical: 3135-desertec-foundation-endorses-desertec-power-for-kingdom-of-saudi-arabia.json
 ---
