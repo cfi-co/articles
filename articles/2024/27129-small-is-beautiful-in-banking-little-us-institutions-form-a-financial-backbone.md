@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240917151208
+wayback_snapshot_url: "http://web.archive.org/web/20240917151208/https://cfi.co/banking/2024/09/small-is-beautiful-in-banking-little-us-institutions-form-a-financial-backbone/"
 content_sha256: 886d91fec57dd47c67540b9c258bc6b1038ea7374508a7f48601ea62715a5c35
 canonical: 27129-small-is-beautiful-in-banking-little-us-institutions-form-a-financial-backbone.json
 ---
