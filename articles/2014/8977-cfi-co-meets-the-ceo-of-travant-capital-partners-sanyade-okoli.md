@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20150409182412
+wayback_snapshot_url: "http://web.archive.org/web/20150409182412/http://cfi.co/africa/2014/07/cfi-co-meets-the-ceo-of-travant-capital-partners-sanyade-okoli/"
 content_sha256: e817bb25919e6099cd0d3f9c6504ce75d8248d088fcdfa2565b00b709cbbf66c
 canonical: 8977-cfi-co-meets-the-ceo-of-travant-capital-partners-sanyade-okoli.json
 ---
