@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140827111654
+wayback_snapshot_url: "http://web.archive.org/web/20140827111654/http://cfi.co/europe/2013/08/looking-for-a-fig-leaf-us-uk-mull-punitive-action-against-syria/"
 content_sha256: 5655d8efe286af01d807cd3c6ef4db4f850874867528f79d93b6b11a2cae822d
 canonical: 5091-looking-for-a-fig-leaf-us-uk-mull-punitive-action-against-syria.json
 ---
