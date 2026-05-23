@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050135
+wayback_snapshot_url: "http://web.archive.org/web/20190823050135/https://cfi.co/europe/2013/06/cbi-says-get-major-projects-moving-to-protect-the-recovery/"
 content_sha256: 3e9033b42ba16bc28f08b531e502559d965dd859ca295dc7951409fe621fd56c
 canonical: 4454-cbi-says-get-major-projects-moving-to-protect-the-recovery.json
 ---
