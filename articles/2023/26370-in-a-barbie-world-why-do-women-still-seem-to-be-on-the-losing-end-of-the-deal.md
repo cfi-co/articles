@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231206163331
+wayback_snapshot_url: "http://web.archive.org/web/20231206163331/https://cfi.co/lifestyle/2023/11/in-a-barbie-world-why-do-women-still-seem-to-be-on-the-losing-end-of-the-deal/"
 content_sha256: db6d3b80d7579f0dda36a1af751c9c29f70765696e959a67aaadbd6a4b525bb1
 canonical: 26370-in-a-barbie-world-why-do-women-still-seem-to-be-on-the-losing-end-of-the-deal.json
 ---
