@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: a46a879639247f57b0c38d8f745ea9d3819518b6f4f8596bf9a685dfe1adebcb
 canonical: 3942-shell-reduced-crude-oil-theft.json
 ---
