@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221222002654
+wayback_snapshot_url: "http://web.archive.org/web/20221222002654/https://cfi.co/banking/2022/12/cambodias-wing-bank-art-of-becoming-necessary-and-creating-a-bank-for-every-cambodian/"
 content_sha256: 2ae75ae41c5874767f39a9432b9282bef34ca257782a0b573ee83584fa9fd248
 canonical: 24146-cambodias-wing-bank-art-of-becoming-necessary-and-creating-a-bank-for-every-camb.json
 ---
