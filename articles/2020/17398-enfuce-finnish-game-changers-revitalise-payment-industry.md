@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228104919
+wayback_snapshot_url: "http://web.archive.org/web/20210228104919/https://cfi.co/menu/corporate/2020/01/enfuce-finnish-game-changers-revitalise-payment-industry/"
 content_sha256: 173d502bcb5bb54af18adc6a897858758ba96e1412bfd2f78a1f59d25321fb3f
 canonical: 17398-enfuce-finnish-game-changers-revitalise-payment-industry.json
 ---
