@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250311183843
+wayback_snapshot_url: "http://web.archive.org/web/20250311183843/https://cfi.co/asia-pacific/2025/03/china-targets-americas-farms-as-trump-tariffs-spur-retaliation/"
 content_sha256: 877080ef825909c82af490fed26c572530a7e0dbb4571cf26af86a62e23c8ad8
 canonical: 27628-china-targets-americas-farms-as-trump-tariffs-spur-retaliation.json
 ---
