@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210205120734
+wayback_snapshot_url: "http://web.archive.org/web/20210205120734/https://cfi.co/menu/corporate/2021/02/scaling-europes-top-performing-tech-companies-a-challenge-and-a-mission-that-3vc-accepts/"
 content_sha256: 719f6c84df28b448cc69e4867ac107ab80db8781e679a2fec1bc083cc057b527
 canonical: 18629-scaling-europes-top-performing-tech-companies-a-challenge-and-a-mission-that-3vc.json
 ---
