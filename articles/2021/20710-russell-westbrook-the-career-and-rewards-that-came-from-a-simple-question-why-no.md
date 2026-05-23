@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210923044255
+wayback_snapshot_url: "http://web.archive.org/web/20210923044255/https://cfi.co/editors-picks/2021/09/russell-westbrook-the-career-and-rewards-that-came-from-a-simple-question-why-not/"
 content_sha256: e80ed61dacd8da9fc0bac16e5451d32415125c73774f622738bcf4687647692c
 canonical: 20710-russell-westbrook-the-career-and-rewards-that-came-from-a-simple-question-why-no.json
 ---
