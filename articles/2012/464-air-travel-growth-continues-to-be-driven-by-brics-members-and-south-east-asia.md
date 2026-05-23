@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826051455
+wayback_snapshot_url: "http://web.archive.org/web/20140826051455/http://cfi.co/africa/2012/05/air-travel-growth-continues-to-be-driven-by-brics-members-and-south-east-asia/"
 content_sha256: c8b25699b69f2e2af0f4922b25d0876138e41ca6613a62aecacd3dcc6705a82e
 canonical: 464-air-travel-growth-continues-to-be-driven-by-brics-members-and-south-east-asia.json
 ---
