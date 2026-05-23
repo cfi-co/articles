@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190722120655
+wayback_snapshot_url: "http://web.archive.org/web/20190722120655/https://cfi.co/banking/2018/01/davos-till-we-meet-again-bankers-packing-up/"
 content_sha256: c72f12fdde448cef13bf2f52860dd168912fa578a35c4bfe601cacf64f892e6f
 canonical: 11474-davos-till-we-meet-again-bankers-packing-up.json
 ---
