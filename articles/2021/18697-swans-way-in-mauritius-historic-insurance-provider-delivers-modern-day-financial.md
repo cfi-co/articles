@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418052717
+wayback_snapshot_url: "http://web.archive.org/web/20210418052717/https://cfi.co/menu/cfi-co-meets/2021/02/swans-way-in-mauritius-historic-insurance-provider-delivers-modern-day-financial-services/"
 content_sha256: 591674e24535a3471889ef0ff837ed5aea95d953d5d37130fd99864c87f36391
 canonical: 18697-swans-way-in-mauritius-historic-insurance-provider-delivers-modern-day-financial.json
 ---
