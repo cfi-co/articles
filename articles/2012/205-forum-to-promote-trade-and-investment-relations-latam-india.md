@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132347
+wayback_snapshot_url: "http://web.archive.org/web/20190818132347/https://cfi.co/asia-pacific/2012/03/forum-to-promote-trade-and-investment-relations-latam-india/"
 content_sha256: 283f34c7b97f071c2ede6880f02067f5bfa21e59a8db575c8572ef57d0a03be1
 canonical: 205-forum-to-promote-trade-and-investment-relations-latam-india.json
 ---
