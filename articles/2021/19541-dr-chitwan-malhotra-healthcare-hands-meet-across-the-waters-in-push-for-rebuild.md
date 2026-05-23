@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210419123438
+wayback_snapshot_url: "http://web.archive.org/web/20210419123438/https://cfi.co/editors-picks/2021/04/dr-chitwan-malhotra-healthcare-hands-meet-across-the-waters-in-push-for-rebuild/"
 content_sha256: 533368245f157a1c075a97764675eb4dd380725dc22303cc9b6615d7f9a171d3
 canonical: 19541-dr-chitwan-malhotra-healthcare-hands-meet-across-the-waters-in-push-for-rebuild.json
 ---
