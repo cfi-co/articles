@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928192500
+wayback_snapshot_url: "http://web.archive.org/web/20220928192500/https://cfi.co/europe/2022/08/lord-waverley-on-digital-transactions-well-worth-the-paper-they-arent-written-on/"
 content_sha256: 545718a84cd8cffa49f0c2429f7945f097f3d45196b643154deeaa2bbaaae01d
 canonical: 23013-lord-waverley-on-digital-transactions-well-worth-the-paper-they-arent-written-on.json
 ---
