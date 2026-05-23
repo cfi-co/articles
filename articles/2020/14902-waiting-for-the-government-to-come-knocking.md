@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200505131532
+wayback_snapshot_url: "http://web.archive.org/web/20200505131532/https://cfi.co/northamerica/2020/04/waiting-for-the-government-to-come-knocking/"
 content_sha256: ab877e653d73a65cac16657e3e1dbf5989c474f38f046af5158c52b90cef07cd
 canonical: 14902-waiting-for-the-government-to-come-knocking.json
 ---
