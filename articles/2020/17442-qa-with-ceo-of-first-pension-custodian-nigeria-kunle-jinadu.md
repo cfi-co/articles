@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228105006
+wayback_snapshot_url: "http://web.archive.org/web/20210228105006/https://cfi.co/africa/2020/01/qa-with-ceo-of-first-pension-custodian-nigeria-kunle-jinadu/"
 content_sha256: a572bc7caea76fc797a25f32b17543af4ef1adbeb48c395f3e82d3a1f797b2df
 canonical: 17442-qa-with-ceo-of-first-pension-custodian-nigeria-kunle-jinadu.json
 ---
