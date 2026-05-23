@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20171004082338
+wayback_snapshot_url: "http://web.archive.org/web/20171004082338/http://cfi.co/editors-picks/2015/08/caroline-criado-perez-ordeal-and-success-by-social-media/"
 content_sha256: 9483308a19a1ca3830d41e113742f11241026ccf79e60639a51eec260031f418
 canonical: 10414-caroline-criado-perez-ordeal-and-success-by-social-media.json
 ---
