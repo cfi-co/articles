@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140519210155
+wayback_snapshot_url: "http://web.archive.org/web/20140519210155/http://cfi.co/europe/2014/05/qa-bentley-motors-stephen-reynolds-unchanged-core-values-drive-bentleys-global-expansion/"
 content_sha256: 97702cf49e18202984994844c5f68662dbc20f09aec83fbbde2eeb05328600ad
 canonical: 7195-qa-bentley-motors-stephen-reynolds-unchanged-core-values-drive-bentleys-global-e.json
 ---
