@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230512153209
+wayback_snapshot_url: "http://web.archive.org/web/20230512153209/https://cfi.co/europe/2023/04/daily-challenges-of-a-matchmaker-linking-the-benevolent-with-the-worlds-most-deserving-projects/"
 content_sha256: b7ef3c1a2c675c34e93691dd2eced9f7b2fc403673d62d3491a810c5ac66bf02
 canonical: 25329-daily-challenges-of-a-matchmaker-linking-the-benevolent-with-the-worlds-most-des.json
 ---
