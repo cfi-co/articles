@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220831090916
+wayback_snapshot_url: "http://web.archive.org/web/20220831090916/https://cfi.co/technology/2022/08/aviv-wolff-moo-ve-over-bessie-theres-a-new-dairy-on-the-scene/"
 content_sha256: cc3940941b6691618e1681f740ced1228e49071aa6096ecf97dd7be8987ca0ef
 canonical: 23223-aviv-wolff-moo-ve-over-bessie-theres-a-new-dairy-on-the-scene.json
 ---
