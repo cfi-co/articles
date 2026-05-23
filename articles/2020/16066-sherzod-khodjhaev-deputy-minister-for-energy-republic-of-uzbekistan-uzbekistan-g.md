@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 59762d5b353ec603e254016ac90c51a3250e51449ba3129fb0ad1297b5802116
 canonical: 16066-sherzod-khodjhaev-deputy-minister-for-energy-republic-of-uzbekistan-uzbekistan-g.json
 ---
