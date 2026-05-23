@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250322090146
+wayback_snapshot_url: "http://web.archive.org/web/20250322090146/https://cfi.co/technology/2025/03/mitigating-ai-gender-bias-risks-in-the-workplace/"
 content_sha256: 05c8a2ec40f5d1f27e470d22f58466e40ff02a5ad628b755fa9020f7ab919ef8
 canonical: 27610-mitigating-ai-gender-bias-risks-in-the-workplace.json
 ---
