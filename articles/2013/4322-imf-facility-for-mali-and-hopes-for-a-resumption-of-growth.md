@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140825040420
+wayback_snapshot_url: "http://web.archive.org/web/20140825040420/http://cfi.co/africa/2013/06/imf-facility-for-mali-and-hopes-for-a-resumption-of-growth/"
 content_sha256: d750944581f30677fb78e2334e8ca5817b2e51d8c063d5dd362de11e194f0bcc
 canonical: 4322-imf-facility-for-mali-and-hopes-for-a-resumption-of-growth.json
 ---
