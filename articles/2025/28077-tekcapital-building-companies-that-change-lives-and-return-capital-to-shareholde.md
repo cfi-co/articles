@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251206010641
+wayback_snapshot_url: "http://web.archive.org/web/20251206010641/https://cfi.co/europe/2025/11/tekcapital-building-companies-that-change-lives-and-create-calue-for-shareholders/"
 content_sha256: 849b2ed32502c805998733e27f47f6d4e06960fdd98af0f1b8a9506cb27f0cb0
 canonical: 28077-tekcapital-building-companies-that-change-lives-and-return-capital-to-shareholde.json
 ---
