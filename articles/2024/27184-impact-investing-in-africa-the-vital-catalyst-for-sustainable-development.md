@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241112191756
+wayback_snapshot_url: "http://web.archive.org/web/20241112191756/https://cfi.co/africa/2024/10/impact-investing-in-africa-the-vital-catalyst-for-sustainable-development/"
 content_sha256: f826773bc86675b1dab76595a6c26fb3c68eeb5e3fcd8cb009c8c552aa31113e
 canonical: 27184-impact-investing-in-africa-the-vital-catalyst-for-sustainable-development.json
 ---
