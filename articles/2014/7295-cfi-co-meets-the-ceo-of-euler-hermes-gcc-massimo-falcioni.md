@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: fb2756d00817d1a190f5cda75f4a9ea7c511deb2893b507ef9005e4d4c49a589
 canonical: 7295-cfi-co-meets-the-ceo-of-euler-hermes-gcc-massimo-falcioni.json
 ---
