@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 3937f8436af0882c164a631e898390873776153c577181987dff4808ecbe73e6
 canonical: 4513-braggarts-become-leaders.json
 ---
