@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 608628a5ef0b9e9045b4357fc55d4296862afad2283803699c08ee106b4645ef
 canonical: 25735-pioneering-principled-and-passionate-champion-of-uaes-natural-heritage.json
 ---
