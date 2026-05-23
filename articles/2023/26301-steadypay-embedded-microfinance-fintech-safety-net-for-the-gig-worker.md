@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231105164911
+wayback_snapshot_url: "http://web.archive.org/web/20231105164911/https://cfi.co/europe/2023/10/steadypay-embedded-microfinance-fintech-safety-net-for-the-gig-worker/"
 content_sha256: 943851d87010ba42e42ed91a9f41041cd6ac7ac58104f91203121fd5ab05b3d2
 canonical: 26301-steadypay-embedded-microfinance-fintech-safety-net-for-the-gig-worker.json
 ---
