@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210302132526
+wayback_snapshot_url: "http://web.archive.org/web/20210302132526/https://cfi.co/finance/2021/03/ifcs-blended-finance-department-blending-public-and-private-finance-to-invest-in-challenging-markets/"
 content_sha256: e756a70666c957d91ad623a02c2a9f8cf5bd089d1942171d626f0684c9ef1114
 canonical: 18898-ifcs-blended-finance-department-blending-public-and-private-finance-to-invest-in.json
 ---
