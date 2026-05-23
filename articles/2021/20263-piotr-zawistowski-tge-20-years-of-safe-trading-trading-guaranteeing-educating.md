@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625230506
+wayback_snapshot_url: "http://web.archive.org/web/20220625230506/https://cfi.co/menu/corporate/2021/07/piotr-zawistowski-tge-20-years-of-safe-trading-trading-guaranteeing-educating/"
 content_sha256: 69cbf8a7e642f9193bcc2a74fe747761c8e4f70642f605d2e02a20dbdb4a11bb
 canonical: 20263-piotr-zawistowski-tge-20-years-of-safe-trading-trading-guaranteeing-educating.json
 ---
