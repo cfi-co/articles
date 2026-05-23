@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 1f2061d5c0282ad2dff68041f77871d9c061158100c2b557b8478f1ba42b1bde
 canonical: 7205-luxury-goods-market-crisis-what-crisis.json
 ---
