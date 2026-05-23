@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720040214
+wayback_snapshot_url: "http://web.archive.org/web/20190720040214/https://cfi.co/africa/2017/01/gavin-wilson-ceo-ifc-amc-mobilising-private-capital-for-sustainable-development/"
 content_sha256: 3f337a7115786c423bb06b8534745dfca8ae844e20eae03c992dd24c172ef272
 canonical: 11455-gavin-wilson-ceo-ifc-amc-mobilising-private-capital-for-sustainable-development.json
 ---
