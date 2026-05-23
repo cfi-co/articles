@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210610131034
+wayback_snapshot_url: "http://web.archive.org/web/20210610131034/https://cfi.co/menu/corporate/2021/06/crescat-capital-navigating-boom-bust-cycle/"
 content_sha256: f8b9f04ecc2f1d38cbee744d19f255074a0e69fbc1a71566cf43580798728673
 canonical: 19787-crescat-capital-navigating-boom-bust-cycle.json
 ---
