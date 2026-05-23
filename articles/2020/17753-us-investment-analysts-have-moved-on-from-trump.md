@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210725071327
+wayback_snapshot_url: "http://web.archive.org/web/20210725071327/https://cfi.co/northamerica/2020/11/us-investment-analysts-have-moved-on-from-trump/"
 content_sha256: 03cad565fc940cea8633fb6120fa1a5bf91a10812e957760d4f1413d93e0e6d3
 canonical: 17753-us-investment-analysts-have-moved-on-from-trump.json
 ---
