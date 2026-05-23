@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418062638
+wayback_snapshot_url: "http://web.archive.org/web/20210418062638/https://cfi.co/menu/corporate/2015/06/instaforex-globally-recognised-excellence/"
 content_sha256: f37d4893f77f2ac3b85719d3559711a14329566a21893dcfa9dc6cfaddaa8908
 canonical: 10054-instaforex-globally-recognised-excellence.json
 ---
