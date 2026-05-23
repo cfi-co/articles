@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190408181234
+wayback_snapshot_url: "http://web.archive.org/web/20190408181234/https://cfi.co/africa/2012/09/the-new-partnership-for-africas-development-nepad-improving-frontline-healthcare-in-africa/"
 content_sha256: c595964dc3ef0eae98aad53104f837e191b0e6c10e2e7292ce3a119f811e5883
 canonical: 2168-the-new-partnership-for-africas-development-nepad-improving-frontline-healthcare.json
 ---
