@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221107112504
+wayback_snapshot_url: "http://web.archive.org/web/20221107112504/https://cfi.co/menu/innovation-technology/2022/11/many-a-titter-about-twitter-as-musk-bungles-his-big-purchase/"
 content_sha256: 7cfe09e6cb9bb6970d92e2b0210cc5eabfb87e750ea8a419707f5cbaaf5349f3
 canonical: 23923-many-a-titter-about-twitter-as-musk-bungles-his-big-purchase.json
 ---
