@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230301140919
+wayback_snapshot_url: "http://web.archive.org/web/20230301140919/https://cfi.co/finance/2023/02/otaviano-canuto-going-around-the-bend-assessing-the-phillips-curve-may-be-of-help/"
 content_sha256: 71f5bd4c7ce9c182de1f3351232847b667aa09134604d3ea6fc3433fbf484e96
 canonical: 24819-otaviano-canuto-going-around-the-bend-assessing-the-phillips-curve-may-be-of-hel.json
 ---
