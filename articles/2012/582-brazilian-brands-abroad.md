@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826035419
+wayback_snapshot_url: "http://web.archive.org/web/20140826035419/http://cfi.co/latinamerica/2012/05/brazilian-brands-abroad/"
 content_sha256: 39592d92f195ba57b58afda800f6bfe9d712df1f50ee375a85e228e292f378a5
 canonical: 582-brazilian-brands-abroad.json
 ---
