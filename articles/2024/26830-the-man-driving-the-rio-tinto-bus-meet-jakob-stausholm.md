@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 9e27f4eb2c707eeeebe43d87fb15ea4700b659f39b24f75e34841817dae50994
 canonical: 26830-the-man-driving-the-rio-tinto-bus-meet-jakob-stausholm.json
 ---
