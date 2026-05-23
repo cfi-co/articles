@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200603171101
+wayback_snapshot_url: "http://web.archive.org/web/20200603171101/https://cfi.co/c-19/2020/05/caught-in-a-bind-tax-avoiders-excluded-from-corona-relief-funds/"
 content_sha256: 9d6b2c41e5b12234df7bd647cfe19edcf8defdaca9b83e6c29ef667788abd714
 canonical: 15322-caught-in-a-bind-tax-avoiders-excluded-from-corona-relief-funds.json
 ---
