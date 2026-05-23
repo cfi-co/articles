@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220214144128
+wayback_snapshot_url: "http://web.archive.org/web/20220214144128/https://cfi.co/asia-pacific/2022/02/world-bank-investment-push-needed-for-green-resilient-and-inclusive-development/"
 content_sha256: c565dab1086b8103b19f066b4c5ddb21ad966aec5f1de2611e5c2ca11a7800b4
 canonical: 21563-world-bank-investment-push-needed-for-green-resilient-and-inclusive-development.json
 ---
