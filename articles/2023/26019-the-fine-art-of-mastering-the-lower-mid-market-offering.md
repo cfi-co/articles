@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240225160852
+wayback_snapshot_url: "http://web.archive.org/web/20240225160852/https://cfi.co/banking/2023/09/cordet-mastering-the-lower-mid-market-offering/"
 content_sha256: 6bdcae46e285206f95e3d1fe1a504fa68f25bed9bd9072ba77148a1229294f74
 canonical: 26019-the-fine-art-of-mastering-the-lower-mid-market-offering.json
 ---
