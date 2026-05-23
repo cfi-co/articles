@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250813195747
+wayback_snapshot_url: "http://web.archive.org/web/20250813195747/https://cfi.co/finance/2025/08/the-evolution-of-elite-a-history-of-hedge-funds/"
 content_sha256: 85366b96ba53d6a5301186cb93194b0d824ec0531ec938af8fb490e5b46ee8d5
 canonical: 27859-the-evolution-of-elite-a-history-of-hedge-funds.json
 ---
