@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724025543
+wayback_snapshot_url: "http://web.archive.org/web/20190724025543/https://cfi.co/africa/2015/06/ifc-the-art-and-science-of-benefits-sharing/"
 content_sha256: daf12d60a0b2c3c665bc5fb8ad5b48146b6b86ab78a345719dd56dc6e34db555
 canonical: 9798-ifc-the-art-and-science-of-benefits-sharing.json
 ---
