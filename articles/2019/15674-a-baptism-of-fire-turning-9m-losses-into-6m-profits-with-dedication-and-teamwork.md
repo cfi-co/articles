@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200920105748
+wayback_snapshot_url: "http://web.archive.org/web/20200920105748/https://cfi.co/corporate-leaders/2019/07/a-baptism-of-fire-turning-9m-losses-into-6m-profits-with-dedication-and-teamwork/"
 content_sha256: 2a215b530a579466751430790e184a4c825a6161dbbe92c5268d2b6b5a5c13ba
 canonical: 15674-a-baptism-of-fire-turning-9m-losses-into-6m-profits-with-dedication-and-teamwork.json
 ---
