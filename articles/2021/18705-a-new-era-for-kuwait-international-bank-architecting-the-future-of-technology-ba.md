@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228104659
+wayback_snapshot_url: "http://web.archive.org/web/20210228104659/https://cfi.co/menu/cfi-co-meets/2021/02/a-new-era-for-kuwait-international-bank-architecting-the-future-of-technology-based-banking/"
 content_sha256: 37c74b9bab25fe9d0ab92468c6217312b716a87a06a3a8aa0d02533ee42c6c96
 canonical: 18705-a-new-era-for-kuwait-international-bank-architecting-the-future-of-technology-ba.json
 ---
