@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200919123047
+wayback_snapshot_url: "http://web.archive.org/web/20200919123047/https://cfi.co/projects/2015/03/in-real-estate-boring-is-good-as-is-stability/"
 content_sha256: 1133acc0022930fce1de7bb0a1f5a3fbe5b449bf786a8150b9097ec84aaeca17
 canonical: 9355-in-real-estate-boring-is-good-as-is-stability.json
 ---
