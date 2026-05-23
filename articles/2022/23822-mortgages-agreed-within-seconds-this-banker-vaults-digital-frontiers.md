@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221102091428
+wayback_snapshot_url: "http://web.archive.org/web/20221102091428/https://cfi.co/banking/2022/11/johan-thijs-mortgages-agreed-within-seconds-this-banker-vaults-digital-frontiers/"
 content_sha256: c55baeffa1465c5b63bec1c0fec567def5bd6c79adeb1ca4077402609d317205
 canonical: 23822-mortgages-agreed-within-seconds-this-banker-vaults-digital-frontiers.json
 ---
