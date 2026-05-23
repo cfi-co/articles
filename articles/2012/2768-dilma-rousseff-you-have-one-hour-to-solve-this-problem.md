@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818051457
+wayback_snapshot_url: "http://web.archive.org/web/20190818051457/https://cfi.co/latinamerica/2012/12/dilma-rousseff-you-have-one-hour-to-solve-this-problem/"
 content_sha256: 621b55f0beb9f352ff9dde2f1d1d7500bbaff66b6d596d8c124932ff3ed74bad
 canonical: 2768-dilma-rousseff-you-have-one-hour-to-solve-this-problem.json
 ---
