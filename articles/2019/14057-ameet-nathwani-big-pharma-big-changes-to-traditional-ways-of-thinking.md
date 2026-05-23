@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191021052038
+wayback_snapshot_url: "http://web.archive.org/web/20191021052038/https://cfi.co/asia-pacific/2019/10/ameet-nathwani-big-pharma-big-changes-to-traditional-ways-of-thinking/"
 content_sha256: 8fd3143c184f7f0eec8408e5a3eaadcce9d9240c1b437f9aa3087729e28ca045
 canonical: 14057-ameet-nathwani-big-pharma-big-changes-to-traditional-ways-of-thinking.json
 ---
