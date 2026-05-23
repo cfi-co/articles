@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201101041659
+wayback_snapshot_url: "http://web.archive.org/web/20201101041659/https://cfi.co/northamerica/2020/10/evan-harvey-nasdaq-the-board-perspective-on-esg/"
 content_sha256: 1ff006581f9806c72ec858e2bfd32af551be4bb93823adb6021c4faf68b03993
 canonical: 17678-evan-harvey-nasdaq-the-board-perspective-on-esg.json
 ---
