@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221226145717
+wayback_snapshot_url: "http://web.archive.org/web/20221226145717/https://cfi.co/menu/corporate/2022/12/full-steam-ahead-mtr-boss-jacob-kam-chak-pui-puts-company-right-on-track/"
 content_sha256: 8a5c6d2fbaeae44accf32f2d82487369894a0748ead5097e7674981bdeaf6790
 canonical: 24213-full-steam-ahead-mtr-boss-jacob-kam-chak-pui-puts-company-right-on-track.json
 ---
