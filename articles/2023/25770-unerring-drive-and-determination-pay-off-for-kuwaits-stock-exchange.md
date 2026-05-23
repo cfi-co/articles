@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230731183920
+wayback_snapshot_url: "http://web.archive.org/web/20230731183920/https://cfi.co/middleeast/2023/07/unerring-drive-and-determination-pay-off-for-kuwaits-stock-exchange/"
 content_sha256: 61ba1a8fed0c7cbeb167d3b2c3e52b26bdd795c8f65ccd2dcf32092b230eccc4
 canonical: 25770-unerring-drive-and-determination-pay-off-for-kuwaits-stock-exchange.json
 ---
