@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250209174143
+wayback_snapshot_url: "http://web.archive.org/web/20250209174143/https://cfi.co/lifestyle/2024/12/josiah-wedgwood-a-potter-who-gave-birth-to-a-brand/"
 content_sha256: 5c667bd2654542fc4c35257ba4774bfc08f562a328ba35e5e23788a152aa5dfd
 canonical: 27396-josiah-wedgwood-a-potter-who-gave-birth-to-a-brand.json
 ---
