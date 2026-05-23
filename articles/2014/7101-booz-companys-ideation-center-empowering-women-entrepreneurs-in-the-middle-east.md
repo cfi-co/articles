@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140519210152
+wayback_snapshot_url: "http://web.archive.org/web/20140519210152/http://cfi.co/africa/2014/05/booz-companys-ideation-center-empowering-women-entrepreneurs-in-the-middle-east/"
 content_sha256: ec9bc50adfc8869c3e6d2df93d6786f7950cac0219dae3af4ccaac4ac163a6a1
 canonical: 7101-booz-companys-ideation-center-empowering-women-entrepreneurs-in-the-middle-east.json
 ---
