@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20150204074651
+wayback_snapshot_url: "http://web.archive.org/web/20150204074651/http://cfi.co/africa/2014/12/mozambique-gets-us110-million-from-world-bank-to-improve-business-environment-public-financial-management-and-social-protection/"
 content_sha256: a7811f5c274df9c6fe5f14374047defd7f96ff39d1ceb4b65cfe374e59e4ab5e
 canonical: 8490-mozambique-gets-us110-million-from-world-bank-to-improve-business-environment-pu.json
 ---
