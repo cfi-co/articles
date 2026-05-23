@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813162343
+wayback_snapshot_url: "http://web.archive.org/web/20200813162343/https://cfi.co/finance/2020/07/brazils-economic-crossroads-which-path-will-it-choose/"
 content_sha256: 50b6517857e2899c1d8d721b4baecdcb4718032641fceb6c4d1311160b545447
 canonical: 16194-brazils-economic-crossroads-which-path-will-it-choose.json
 ---
