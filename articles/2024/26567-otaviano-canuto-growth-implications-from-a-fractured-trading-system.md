@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 16387536a723427380e1bfbf76e99ba331960354e82bae2f4ac48466b312600c
 canonical: 26567-otaviano-canuto-growth-implications-from-a-fractured-trading-system.json
 ---
