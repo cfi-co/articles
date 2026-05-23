@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132444
+wayback_snapshot_url: "http://web.archive.org/web/20190818132444/https://cfi.co/africa/2015/06/the-time-is-now-paradigm-shift-signals-opportunity/"
 content_sha256: e5f840b099645a318bfdfa5c844e7a489459d7b12019b0ee836b22922d566761
 canonical: 10012-the-time-is-now-paradigm-shift-signals-opportunity.json
 ---
