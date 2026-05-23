@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327042911
+wayback_snapshot_url: "http://web.archive.org/web/20140327042911/http://cfi.co/latinamerica/2012/08/the-brazilian-bar-association-and-the-citizenship/"
 content_sha256: 557001be3236ab12f0ec12960ddab5577b8946adf50067aa1813fee98f27a26e
 canonical: 1554-the-brazilian-bar-association-and-the-citizenship.json
 ---
