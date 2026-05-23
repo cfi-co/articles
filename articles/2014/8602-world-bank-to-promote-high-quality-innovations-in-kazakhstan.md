@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916043439
+wayback_snapshot_url: "http://web.archive.org/web/20190916043439/https://cfi.co/asia-pacific/2014/12/world-bank-to-promote-high-quality-innovations-in-kazakhstan/"
 content_sha256: abf0c599525ba904d3dfec47febf04530a335a3f4ccefb184ee104399099f374
 canonical: 8602-world-bank-to-promote-high-quality-innovations-in-kazakhstan.json
 ---
