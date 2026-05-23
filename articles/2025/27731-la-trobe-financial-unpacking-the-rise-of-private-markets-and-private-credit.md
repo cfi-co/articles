@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250615001449
+wayback_snapshot_url: "http://web.archive.org/web/20250615001449/https://cfi.co/finance/2025/05/la-trobe-financial-unpacking-the-rise-of-private-markets-and-private-credit/"
 content_sha256: d9ef90525d389633fbbd7428a8fe0cf3afb091efd525b8e3a3ea11805d83a439
 canonical: 27731-la-trobe-financial-unpacking-the-rise-of-private-markets-and-private-credit.json
 ---
