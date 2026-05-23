@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826140153
+wayback_snapshot_url: "http://web.archive.org/web/20140826140153/http://cfi.co/banking/2013/10/james-jamie-dimon-how-not-to-be-a-good-banker/"
 content_sha256: 556e8422aa303e9be111ba4e70b355bca95b5186ce327cdd7a55f8d300b046d9
 canonical: 5515-james-jamie-dimon-how-not-to-be-a-good-banker.json
 ---
