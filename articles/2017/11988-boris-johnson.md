@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200919030151
+wayback_snapshot_url: "http://web.archive.org/web/20200919030151/https://cfi.co/editors-picks/2017/09/boris-johnson/"
 content_sha256: 7614b838588c4d1ecc48b29f7cd08bea93045fd55cd3253bffac730c059cbc5d
 canonical: 11988-boris-johnson.json
 ---
