@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240912113841
+wayback_snapshot_url: "http://web.archive.org/web/20240912113841/https://cfi.co/africa/2024/09/investing-in-africa-here-are-six-reasons-to-choose-ghana/"
 content_sha256: 735bffa84d08de31964c4b6b25a3eb77c3f2f64d0f20a8c417ddbdb4d0120bed
 canonical: 27111-investing-in-africa-here-are-six-reasons-to-choose-ghana.json
 ---
