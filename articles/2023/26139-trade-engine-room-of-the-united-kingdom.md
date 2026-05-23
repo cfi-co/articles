@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231030222056
+wayback_snapshot_url: "http://web.archive.org/web/20231030222056/https://cfi.co/europe/2023/10/trade-engine-room-of-the-united-kingdom/"
 content_sha256: 5c4c4cbccd40df0b92f76b530021dbdbce495160ac7556bf2476267dc07a0af5
 canonical: 26139-trade-engine-room-of-the-united-kingdom.json
 ---
