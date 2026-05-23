@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170914174710
+wayback_snapshot_url: "http://web.archive.org/web/20170914174710/http://cfi.co/africa/2016/02/patrick-awuah-educating-the-future-leaders-of-africa/"
 content_sha256: c84c1f8fc48c5acd7cf6fa5e6826e46c83a7036c714dde4a1d880f5b0c8ba8c1
 canonical: 11048-patrick-awuah-educating-the-future-leaders-of-africa.json
 ---
