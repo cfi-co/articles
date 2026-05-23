@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201101000253
+wayback_snapshot_url: "http://web.archive.org/web/20201101000253/https://cfi.co/editors-picks/2020/10/atif-mian-theory-practice-and-macro-economic-reality-in-a-world-longing-for-rebound/"
 content_sha256: d4d746eccf662bc18f5ca415edac1224624e140fffd649f456b09ee25437ae8e
 canonical: 17360-atif-mian-theory-practice-and-macro-economic-reality-in-a-world-longing-for-rebo.json
 ---
