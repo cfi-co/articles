@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250610110755
+wayback_snapshot_url: "http://web.archive.org/web/20250610110755/https://cfi.co/europe/2025/06/patient-capital-for-industrial-growth-inside-aurora-growth-capitals-investment-approach/"
 content_sha256: a61fbb9ac4e1cdd2da226daab69f18ae64003c0e560efc95f0f24ba700c51971
 canonical: 27746-patient-capital-for-industrial-growth-inside-aurora-growth-capitals-investment-a.json
 ---
