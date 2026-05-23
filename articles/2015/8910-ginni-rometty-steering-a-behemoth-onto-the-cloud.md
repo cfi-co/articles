@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228100631
+wayback_snapshot_url: "http://web.archive.org/web/20210228100631/https://cfi.co/editors-picks/2015/02/ginni-rometty-steering-a-behemoth-onto-the-cloud/"
 content_sha256: 117f1ca52357a111df60de5ba62600b3eaf0c92f7687ae03ea02b8ab6a5e000a
 canonical: 8910-ginni-rometty-steering-a-behemoth-onto-the-cloud.json
 ---
