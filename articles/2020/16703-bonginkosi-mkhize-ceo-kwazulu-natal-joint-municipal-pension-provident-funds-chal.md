@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418055309
+wayback_snapshot_url: "http://web.archive.org/web/20210418055309/https://cfi.co/menu/corporate/2020/08/bonginkosi-mkhize-ceo-kwazulu-natal-joint-municipal-pension-provident-funds-challenges-and-transformation-for-south-african-fund-as-it-navigates-the-future-for-all-its-stakeholders/"
 content_sha256: c26e0545643ee9961aa1624415d9b5db8c713881238f3bc4363bab52cd73e13a
 canonical: 16703-bonginkosi-mkhize-ceo-kwazulu-natal-joint-municipal-pension-provident-funds-chal.json
 ---
