@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250224115322
+wayback_snapshot_url: "http://web.archive.org/web/20250224115322/https://cfi.co/finance/2025/02/buffetts-annual-letter-2024-berkshire-hathaways-record-cash-pile-japan-bets-and-tax-message/"
 content_sha256: a9bc4aaa3b10d94af35037e66d329d4d786b8814100beae0cc3f5f69e01d88bc
 canonical: 27590-buffetts-annual-letter-2024-berkshire-hathaways-record-cash-pile-japan-bets-and-.json
 ---
