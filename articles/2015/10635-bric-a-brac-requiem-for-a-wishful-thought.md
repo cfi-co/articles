@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190721112535
+wayback_snapshot_url: "http://web.archive.org/web/20190721112535/https://cfi.co/africa/2015/11/bric-a-brac-requiem-for-a-wishful-thought/"
 content_sha256: 1c572d6f767c67e362ed314fa1c199a1bf7fd6fa17ebbd1a47a65c20cac518a3
 canonical: 10635-bric-a-brac-requiem-for-a-wishful-thought.json
 ---
