@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200928095324
+wayback_snapshot_url: "http://web.archive.org/web/20200928095324/https://cfi.co/c-19/2020/05/eu-stage-set-for-clash/"
 content_sha256: e4e49f9424df839c8c883314f9c42ae833841bfa132c916134166cc7369d3e61
 canonical: 15440-eu-stage-set-for-clash.json
 ---
