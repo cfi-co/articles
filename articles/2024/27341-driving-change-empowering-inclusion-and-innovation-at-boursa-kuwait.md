@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250124131537
+wayback_snapshot_url: "http://web.archive.org/web/20250124131537/https://cfi.co/finance/2024/12/driving-change-empowering-inclusion-and-innovation-at-boursa-kuwait/"
 content_sha256: 0678ec68f0ed24b237320a152b9ed601414e147ee684e22c1ae3b0e27d53cb48
 canonical: 27341-driving-change-empowering-inclusion-and-innovation-at-boursa-kuwait.json
 ---
