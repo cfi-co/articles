@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625223508
+wayback_snapshot_url: "http://web.archive.org/web/20220625223508/https://cfi.co/brave-new-world/2022/06/what-you-need-to-know-about-stockholm50/"
 content_sha256: 3d2ead9c9fc199b830708384b28418790985b9d181cfda0a2950ecf60e1f6369
 canonical: 22183-what-you-need-to-know-about-stockholm50.json
 ---
