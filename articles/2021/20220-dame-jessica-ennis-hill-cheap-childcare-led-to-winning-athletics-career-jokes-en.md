@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 17e6a3318feaa741f1191f4f3649590f1ce61af7db551eb201f689f9489385d8
 canonical: 20220-dame-jessica-ennis-hill-cheap-childcare-led-to-winning-athletics-career-jokes-en.json
 ---
