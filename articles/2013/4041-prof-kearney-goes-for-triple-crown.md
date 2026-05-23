@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724024106
+wayback_snapshot_url: "http://web.archive.org/web/20190724024106/https://cfi.co/editors-picks/2013/05/prof-kearney-goes-for-triple-crown/"
 content_sha256: 2ed111b3599e90580aed60f23a20a2b1d6ef4df313f5e5624f2b1718c68ad96f
 canonical: 4041-prof-kearney-goes-for-triple-crown.json
 ---
