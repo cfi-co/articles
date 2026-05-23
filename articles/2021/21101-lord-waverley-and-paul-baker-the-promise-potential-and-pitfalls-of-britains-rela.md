@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211115064025
+wayback_snapshot_url: "http://web.archive.org/web/20211115064025/https://cfi.co/africa/2021/11/lord-waverley-and-paul-baker-the-promise-potential-and-pitfalls-of-britains-relationship-with-africa/"
 content_sha256: 610cbf2b0804054d92788c908f4998ec94d9e645436407325b054181d1935150
 canonical: 21101-lord-waverley-and-paul-baker-the-promise-potential-and-pitfalls-of-britains-rela.json
 ---
