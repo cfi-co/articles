@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220811144800
+wayback_snapshot_url: "http://web.archive.org/web/20220811144800/https://cfi.co/menu/corporate/2021/10/sango-capital-the-future-of-investing-in-africa/"
 content_sha256: e0e225a2fab451b016a6484db4cf2cd79a9aeca59fd092fcd81c7e9dc35e4360
 canonical: 20852-sango-capital-the-future-of-investing-in-africa.json
 ---
