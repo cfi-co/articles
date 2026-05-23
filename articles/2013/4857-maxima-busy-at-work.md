@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826125011
+wayback_snapshot_url: "http://web.archive.org/web/20140826125011/http://cfi.co/europe/2013/08/maxima-busy-at-work/"
 content_sha256: 28224610e149c2b58058d285dad40049b175114539721c5b6a6cd89b965702ac
 canonical: 4857-maxima-busy-at-work.json
 ---
