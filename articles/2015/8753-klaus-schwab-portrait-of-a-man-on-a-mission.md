@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823045341
+wayback_snapshot_url: "http://web.archive.org/web/20190823045341/https://cfi.co/europe/2015/01/klaus-schwab-portrait-of-a-man-on-a-mission/"
 content_sha256: 31e05c72809cfeeaf6cc1ecb545bcc10777df6b2090f94ed05f5112bfeeb50b4
 canonical: 8753-klaus-schwab-portrait-of-a-man-on-a-mission.json
 ---
