@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723005543
+wayback_snapshot_url: "http://web.archive.org/web/20190723005543/https://cfi.co/awards/latin-america/"
 content_sha256: 8378959bf883d70a3be3406c4b6c0caaed260b9b23e51059970c78c94b7f3491
 canonical: 9414-bci-our-fund-manager-winner-in-chile.json
 ---
