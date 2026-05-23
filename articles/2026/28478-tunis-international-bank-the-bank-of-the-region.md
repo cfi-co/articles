@@ -16,7 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: e4014c58da03dfe79296f9367dc585529bd88149116e610a1294e9cae19a7b38
 canonical: 28478-tunis-international-bank-the-bank-of-the-region.json
 ---
