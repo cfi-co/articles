@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220814175608
+wayback_snapshot_url: "http://web.archive.org/web/20220814175608/https://cfi.co/asia-pacific/2022/07/gautam-adani-businessman-negotiator-and-survivor-of-two-kidnappings-and-a-terror-attack/"
 content_sha256: 243bad2719ed1863679000ebfe9fa57a3cada6f58e2e02f0ad151f48edcce812
 canonical: 22520-gautam-adani-businessman-negotiator-and-survivor-of-two-kidnappings-and-a-terror.json
 ---
