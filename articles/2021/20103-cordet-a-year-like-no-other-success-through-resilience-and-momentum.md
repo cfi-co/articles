@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920112642
+wayback_snapshot_url: "http://web.archive.org/web/20210920112642/https://cfi.co/menu/corporate/2021/07/cordet-a-year-like-no-other-success-through-resilience-and-momentum/"
 content_sha256: baed873b2daee0ccc02577cd632aed371e9adcd16dff380ec08d6a0c73524c40
 canonical: 20103-cordet-a-year-like-no-other-success-through-resilience-and-momentum.json
 ---
