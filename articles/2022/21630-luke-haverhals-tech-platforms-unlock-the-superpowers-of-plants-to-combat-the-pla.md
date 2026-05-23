@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220313040840
+wayback_snapshot_url: "http://web.archive.org/web/20220313040840/https://cfi.co/menu/heroes/2022/03/luke-haverhals-tech-platforms-unlock-the-superpowers-of-plants-to-combat-the-plastic-menace/"
 content_sha256: 43aeddaccb001b47f3df555b96c8f40ff28f4b14ac2167f15857ecbad375e5b0
 canonical: 21630-luke-haverhals-tech-platforms-unlock-the-superpowers-of-plants-to-combat-the-pla.json
 ---
