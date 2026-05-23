@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200505195717
+wayback_snapshot_url: "http://web.archive.org/web/20200505195717/https://cfi.co/middleeast/2019/12/the-saudi-housing-ministry-and-vision-2030-delivering-on-home-ownership-foreign-investment-opportunities-too/"
 content_sha256: 49bd9b863f8487d7a60c7b57211ec58646a9511fef709a1685cbd36d04a41863
 canonical: 14444-the-saudi-housing-ministry-and-vision-2030-delivering-on-home-ownership-foreign-.json
 ---
