@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: fff0cf0614d0817bc920fe50a277fcc1e54934ba396aed92cb2ba508c4b2936c
 canonical: 10449-jonathan-may-bowles-uk-uncut-and-its-impact.json
 ---
