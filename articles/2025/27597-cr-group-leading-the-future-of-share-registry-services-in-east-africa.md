@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250226091118
+wayback_snapshot_url: "http://web.archive.org/web/20250226091118/https://cfi.co/africa/2025/02/cr-group-leading-the-future-of-share-registry-services-in-east-africa/"
 content_sha256: 700403b822dd6c574888fb014731d005212d2baee93743d49efb26d1672c9de6
 canonical: 27597-cr-group-leading-the-future-of-share-registry-services-in-east-africa.json
 ---
