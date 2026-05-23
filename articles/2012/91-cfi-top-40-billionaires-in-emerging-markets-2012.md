@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826025345
+wayback_snapshot_url: "http://web.archive.org/web/20140826025345/http://cfi.co/africa/2012/02/cfi-top-40-billionaires-in-emerging-markets-2012/"
 content_sha256: e9b1c1dd80168e72a9f932bcc5062999dd17ebec79ba8355c430ac14cdcba1e5
 canonical: 91-cfi-top-40-billionaires-in-emerging-markets-2012.json
 ---
