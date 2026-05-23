@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200414152056
+wayback_snapshot_url: "http://web.archive.org/web/20200414152056/https://cfi.co/sustainability/2020/03/looking-for-bounce-analysts-expect-short-v-shaped-recession/"
 content_sha256: 1706d33c0e06000498942c2cde9d512b7c86000874ee3d8370ee11546e75e1df
 canonical: 14694-looking-for-bounce-analysts-expect-short-v-shaped-recession.json
 ---
