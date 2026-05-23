@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200919091656
+wayback_snapshot_url: "http://web.archive.org/web/20200919091656/https://cfi.co/editors-picks/2017/09/jean-claude-juncker/"
 content_sha256: c54b45ab395e9a5210e1d75d6094fcb6d6c9c53164b47807f178514a2ceac8e5
 canonical: 12008-jean-claude-juncker.json
 ---
