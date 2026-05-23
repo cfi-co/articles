@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720181027
+wayback_snapshot_url: "http://web.archive.org/web/20190720181027/https://cfi.co/latinamerica/2012/08/ibgc-progresses-in-corporate-governance-brazil-is-also-on-board/"
 content_sha256: 54185acd6057947512953f7233deaeafcc38806078ecea842436b5f75c6dd934
 canonical: 1772-ibgc-progresses-in-corporate-governance-brazil-is-also-on-board.json
 ---
