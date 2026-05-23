@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230330012847
+wayback_snapshot_url: "http://web.archive.org/web/20230330012847/https://cfi.co/banking/2022/07/kathrein-privatbank-investing-today-in-the-trends-of-tomorrow-with-panache/"
 content_sha256: fd2ebe28030ad23d4c14429eaf628bf70cf07a1c40f2f5ea99d0c42aa9a9ce37
 canonical: 23117-kathrein-privatbank-investing-today-in-the-trends-of-tomorrow-with-panache.json
 ---
