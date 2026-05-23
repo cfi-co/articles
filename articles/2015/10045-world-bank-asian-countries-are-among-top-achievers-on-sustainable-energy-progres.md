@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 41b9cbc389bd1860c33a99010f78ed09592025e7dd338362b3e038dc72f30131
 canonical: 10045-world-bank-asian-countries-are-among-top-achievers-on-sustainable-energy-progres.json
 ---
