@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251206010208
+wayback_snapshot_url: "http://web.archive.org/web/20251206010208/https://cfi.co/finance/2025/11/barrow-hanley-insights-from-a-global-value-investing-leader/"
 content_sha256: 407fd4b82be90a2b6c2adc68aa6cfb84df82ef7b34d71de24aa09045f6a57775
 canonical: 27213-barrow-hanley-insights-from-a-global-value-investing-leader.json
 ---
