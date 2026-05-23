@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180701141251
+wayback_snapshot_url: "http://web.archive.org/web/20180701141251/http://cfi.co/europe/2013/05/strategy-entrepreneurship-from-alice-guilhon/"
 content_sha256: ac2ac292855c0b488df5473dd20ada04cd7a7f7d7516eff4d914f6667d3ff6c9
 canonical: 3876-strategy-entrepreneurship-from-alice-guilhon.json
 ---
