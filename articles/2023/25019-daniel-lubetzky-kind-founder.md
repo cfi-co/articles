@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230326145641
+wayback_snapshot_url: "http://web.archive.org/web/20230326145641/https://cfi.co/menu/corporate/2023/03/daniel-lubetzky-kind-founder/"
 content_sha256: d74fa85890a9735d35db5c50488613066fef78e54cd1e3c4b816b4cf7363aca4
 canonical: 25019-daniel-lubetzky-kind-founder.json
 ---
