@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230323023158
+wayback_snapshot_url: "http://web.archive.org/web/20230323023158/https://cfi.co/technology/2022/08/melonee-wise-fetch-robotics-zebra-technologies/"
 content_sha256: d7c6269230179ea36756c2248b7f035af1d689f97f0d3dc5252dc49f518c5d61
 canonical: 22918-melonee-wise-fetch-robotics-zebra-technologies.json
 ---
