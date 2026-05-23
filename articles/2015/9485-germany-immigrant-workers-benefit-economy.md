@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050251
+wayback_snapshot_url: "http://web.archive.org/web/20190823050251/https://cfi.co/europe/2015/03/germany-immigrant-workers-benefit-economy/"
 content_sha256: 0ba3f94053dd0f43988fe6cb551d764d5cfc905bf20196c15f5ee880712ecff2
 canonical: 9485-germany-immigrant-workers-benefit-economy.json
 ---
