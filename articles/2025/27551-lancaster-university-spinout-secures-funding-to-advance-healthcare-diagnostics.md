@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250522225654
+wayback_snapshot_url: "http://web.archive.org/web/20250522225654/https://cfi.co/europe/2025/02/lancaster-university-spinout-secures-funding-to-advance-healthcare-diagnostics/"
 content_sha256: 17f00d114ab3c8a644754790ed98b9a3c928aac49a47d3c7a17f2847a0f505f1
 canonical: 27551-lancaster-university-spinout-secures-funding-to-advance-healthcare-diagnostics.json
 ---
