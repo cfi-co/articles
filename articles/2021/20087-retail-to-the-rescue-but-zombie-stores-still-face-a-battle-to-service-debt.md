@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920103826
+wayback_snapshot_url: "http://web.archive.org/web/20210920103826/https://cfi.co/europe/2021/03/retail-to-the-rescue-but-zombie-stores-still-face-a-battle-to-service-debt/"
 content_sha256: df081747a3e8242984a0afd0d3f072b373e7b889f2b0fbb8a454f99e69fb3575
 canonical: 20087-retail-to-the-rescue-but-zombie-stores-still-face-a-battle-to-service-debt.json
 ---
