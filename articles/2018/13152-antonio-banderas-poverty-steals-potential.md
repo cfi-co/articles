@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813163908
+wayback_snapshot_url: "http://web.archive.org/web/20200813163908/https://cfi.co/editors-picks/2018/09/antonio-banderas-poverty-steals-potential/"
 content_sha256: 65d728d82ebc0aa42af8a06014e574141428dd0de43f4f165270cfe7fc6bc4c0
 canonical: 13152-antonio-banderas-poverty-steals-potential.json
 ---
