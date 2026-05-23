@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720181532
+wayback_snapshot_url: "http://web.archive.org/web/20190720181532/https://cfi.co/asia-pacific/2013/05/expo-2020-selecting-the-host-city/"
 content_sha256: 6a97c391ff8dfffb6e4aaf69d164bffb26a26b3e1a0226d2c4e961bf051ccaa0
 canonical: 4062-expo-2020-selecting-the-host-city.json
 ---
