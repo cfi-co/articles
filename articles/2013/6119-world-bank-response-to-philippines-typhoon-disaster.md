@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823045436
+wayback_snapshot_url: "http://web.archive.org/web/20190823045436/https://cfi.co/asia-pacific/2013/11/world-bank-response-to-philippines-typhoon-disaster/"
 content_sha256: e41d980fc9a75f77f548fa07a86cb97eeae26df178df7b2837e38120e6685e50
 canonical: 6119-world-bank-response-to-philippines-typhoon-disaster.json
 ---
