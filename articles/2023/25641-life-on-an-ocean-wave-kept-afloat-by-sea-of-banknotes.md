@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230630092548
+wayback_snapshot_url: "http://web.archive.org/web/20230630092548/https://cfi.co/lifestyle/2023/06/life-on-an-ocean-wave-kept-afloat-by-sea-of-banknotes/"
 content_sha256: 17ab23b378a711d815ef94be5024713bae6cdfb1990037977d4e18ccc3ceb39a
 canonical: 25641-life-on-an-ocean-wave-kept-afloat-by-sea-of-banknotes.json
 ---
