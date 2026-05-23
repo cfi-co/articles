@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20131014093804
+wayback_snapshot_url: "http://web.archive.org/web/20131014093804/http://cfi.co/awards/"
 content_sha256: 0d9a12f43353dc52a6b067b917f1d9834a4e5a765f5a1a87e42a52f8c06393d9
 canonical: 11120-uae-recognised-cfi-co-best-fdi-destination-middle-east.json
 ---
