@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250411085423
+wayback_snapshot_url: "http://web.archive.org/web/20250411085423/https://cfi.co/technology/2025/04/the-promise-and-pressure-of-the-uks-ai-aspirations/"
 content_sha256: 08870dff24cdeba01198bf6f96038683fc948aab84964b4fd6cca1c4e862d7e5
 canonical: 27687-the-promise-and-pressure-of-the-uks-ai-aspirations.json
 ---
