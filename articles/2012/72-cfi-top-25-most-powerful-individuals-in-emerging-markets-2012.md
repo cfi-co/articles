@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826025359
+wayback_snapshot_url: "http://web.archive.org/web/20140826025359/http://cfi.co/africa/2012/02/cfi-top-25-most-powerful-individuals-in-emerging-markets-2012/"
 content_sha256: 45b2175a73d094a664e004b8621c4dd7a1aebc779bd33785766da858ff3a7ccd
 canonical: 72-cfi-top-25-most-powerful-individuals-in-emerging-markets-2012.json
 ---
