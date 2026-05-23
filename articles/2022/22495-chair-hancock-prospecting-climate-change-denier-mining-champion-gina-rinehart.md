@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220814180255
+wayback_snapshot_url: "http://web.archive.org/web/20220814180255/https://cfi.co/oil-and-mining/2022/07/chair-hancock-prospecting-climate-change-denier-mining-champion-gina-rinehart/"
 content_sha256: c3420f3b6cec4fef336fa83164be8709d1d1f1dff4818645247ea35beac3d3e2
 canonical: 22495-chair-hancock-prospecting-climate-change-denier-mining-champion-gina-rinehart.json
 ---
