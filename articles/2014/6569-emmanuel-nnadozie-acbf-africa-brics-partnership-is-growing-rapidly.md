@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140209030332
+wayback_snapshot_url: "http://web.archive.org/web/20140209030332/http://cfi.co/africa/2014/02/emmanuel-nnadozie-acbf-africa-brics-partnership-is-growing-rapidly/"
 content_sha256: 4656bba10e8ad7496162481854da0fa7bba5ff76637364129e9bfdc0987afb29
 canonical: 6569-emmanuel-nnadozie-acbf-africa-brics-partnership-is-growing-rapidly.json
 ---
