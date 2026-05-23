@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140909121508
+wayback_snapshot_url: "http://web.archive.org/web/20140909121508/http://cfi.co/latinamerica/2014/08/from-lebanon-to-brazil-joseph-safra/"
 content_sha256: 07f776153e02a23ca8f2ae14b6764b12d1fbbe6cb7c6b8a58422502fb765eae4
 canonical: 7933-from-lebanon-to-brazil-joseph-safra.json
 ---
