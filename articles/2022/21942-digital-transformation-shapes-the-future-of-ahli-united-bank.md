@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 3813fd79312899426012ddaea457159d9f5567b49186d2799292843217d86c81
 canonical: 21942-digital-transformation-shapes-the-future-of-ahli-united-bank.json
 ---
