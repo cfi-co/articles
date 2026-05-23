@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190507120154
+wayback_snapshot_url: "http://web.archive.org/web/20190507120154/https://cfi.co/asia-pacific/2019/04/uae-backs-chinas-one-belt-one-road-initiative-at-annual-investment-meeting/"
 content_sha256: d37d054ae6cd537d2f3bfb10e7acd15d73673b9e6b37687c0854dc678bb1492d
 canonical: 13506-uae-backs-chinas-one-belt-one-road-initiative-at-annual-investment-meeting.json
 ---
