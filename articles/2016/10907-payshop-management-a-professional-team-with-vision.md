@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132825
+wayback_snapshot_url: "http://web.archive.org/web/20190818132825/https://cfi.co/corporate-leaders/2016/01/payshop-management-a-professional-team-with-vision/"
 content_sha256: 97359c6f7f0d39ec81f32e700b04d76d7d7915ae80ae077f0031a90691be4939
 canonical: 10907-payshop-management-a-professional-team-with-vision.json
 ---
