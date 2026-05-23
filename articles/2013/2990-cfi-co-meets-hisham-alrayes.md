@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916043210
+wayback_snapshot_url: "http://web.archive.org/web/20190916043210/https://cfi.co/middleeast/2013/01/cfi-co-meets-hisham-alrayes/"
 content_sha256: f3c0b42375c27ccc2608814db6658243ac9d061a6090e6c86d692f2d1b8f0247
 canonical: 2990-cfi-co-meets-hisham-alrayes.json
 ---
