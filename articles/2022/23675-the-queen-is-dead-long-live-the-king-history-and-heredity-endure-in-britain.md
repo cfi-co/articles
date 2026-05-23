@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221018073524
+wayback_snapshot_url: "http://web.archive.org/web/20221018073524/https://cfi.co/brave-new-world/2022/10/the-queen-is-dead-long-live-the-king-history-and-heredity-endure-in-britain/"
 content_sha256: c7554122c5b83d7f78472bfe4d5b4a62f5f6c77688f7f4e8d41d1a04c22126d1
 canonical: 23675-the-queen-is-dead-long-live-the-king-history-and-heredity-endure-in-britain.json
 ---
