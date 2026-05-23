@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200525112716
+wayback_snapshot_url: "http://web.archive.org/web/20200525112716/https://cfi.co/corporate-leaders/2016/05/cfi-co-meets-mohamed-beavogui-simon-young/"
 content_sha256: 11dc2822e14ae945f807aafc5dbaad2b2940414a7fb514ec51dbbba50b751b6f
 canonical: 14560-cfi-co-meets-mohamed-beavogui-simon-young.json
 ---
