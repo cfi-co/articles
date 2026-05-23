@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210830100841
+wayback_snapshot_url: "http://web.archive.org/web/20210830100841/https://cfi.co/menu/corporate/2021/08/co-op-legal-services-opportunity-and-optimism-abound-in-the-exciting-legal-services-sector/"
 content_sha256: 90b94664dd44cb17da83c33e70fee0a92b4c4cee0c86934e9b2a846a910455b2
 canonical: 20408-co-op-legal-services-opportunity-and-optimism-abound-in-the-exciting-legal-servi.json
 ---
