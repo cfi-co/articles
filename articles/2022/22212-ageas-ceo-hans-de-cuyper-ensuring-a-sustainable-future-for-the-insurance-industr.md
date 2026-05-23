@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220626000450
+wayback_snapshot_url: "http://web.archive.org/web/20220626000450/https://cfi.co/menu/corporate/2022/06/ageas-ceo-hans-de-cuyper-ensuring-a-sustainable-future-for-the-insurance-industry/"
 content_sha256: 6eb85510d6063ed2adde451c0b10018a3154729c9223158b89a6a7c4696d8473
 canonical: 22212-ageas-ceo-hans-de-cuyper-ensuring-a-sustainable-future-for-the-insurance-industr.json
 ---
