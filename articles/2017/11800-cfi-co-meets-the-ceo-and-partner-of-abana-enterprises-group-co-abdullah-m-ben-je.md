@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916043203
+wayback_snapshot_url: "http://web.archive.org/web/20190916043203/https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-and-partner-of-abana-enterprises-group-co-abdullah-m-ben-jebreen/"
 content_sha256: ad24b9e5a61704a4ba5277e2d5f36c8b28aa4c43bc3d7364249f2d2d89fa9656
 canonical: 11800-cfi-co-meets-the-ceo-and-partner-of-abana-enterprises-group-co-abdullah-m-ben-je.json
 ---
