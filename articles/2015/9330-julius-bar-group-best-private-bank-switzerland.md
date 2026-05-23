@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723005450
+wayback_snapshot_url: "http://web.archive.org/web/20190723005450/https://cfi.co/awards/europe/"
 content_sha256: 3ea4a641f6954386e59a01eaff8db66c22b5820e80546c05fc95fdfb13098551
 canonical: 9330-julius-bar-group-best-private-bank-switzerland.json
 ---
