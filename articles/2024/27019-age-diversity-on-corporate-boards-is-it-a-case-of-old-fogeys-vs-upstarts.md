@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240812132612
+wayback_snapshot_url: "http://web.archive.org/web/20240812132612/https://cfi.co/menu/governance-legal/2024/08/age-diversity-on-corporate-boards-is-it-a-case-of-old-fogeys-vs-upstarts/"
 content_sha256: ec9ed0305c2b15ebf320b3220cebe0b099515cabf51c0688a1b9b47c1d98b22e
 canonical: 27019-age-diversity-on-corporate-boards-is-it-a-case-of-old-fogeys-vs-upstarts.json
 ---
