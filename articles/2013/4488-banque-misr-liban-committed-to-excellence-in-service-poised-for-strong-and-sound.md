@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140828140715
+wayback_snapshot_url: "http://web.archive.org/web/20140828140715/http://cfi.co/banking/2013/02/banque-misr-liban-committed-to-excellence-in-service-poised-for-strong-and-sound-future-growth/"
 content_sha256: b17ce4d09a099144619dde57d9e964fb842ab17cabb20d915e17d3a2c12096b3
 canonical: 4488-banque-misr-liban-committed-to-excellence-in-service-poised-for-strong-and-sound.json
 ---
