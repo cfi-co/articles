@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200920142020
+wayback_snapshot_url: "http://web.archive.org/web/20200920142020/https://cfi.co/corporate-leaders/2019/10/fortman-cline-are-boutique-investment-banks-here-to-stay/"
 content_sha256: 2051e9c0576e4a66dc3e9c7857c3b25c555e915f4338ae7b139ca97e67ffe0ef
 canonical: 16157-fortman-cline-are-boutique-investment-banks-here-to-stay.json
 ---
