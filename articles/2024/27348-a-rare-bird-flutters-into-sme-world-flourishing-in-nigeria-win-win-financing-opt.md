@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250124123251
+wayback_snapshot_url: "http://web.archive.org/web/20250124123251/https://cfi.co/africa/2024/12/a-rare-bird-flutters-into-sme-world-flourishing-in-nigeria-win-win-financing-options/"
 content_sha256: 137427b06ba052a9a9929bd83161c4e8b94773005d1c49dd3493f517df6215a7
 canonical: 27348-a-rare-bird-flutters-into-sme-world-flourishing-in-nigeria-win-win-financing-opt.json
 ---
