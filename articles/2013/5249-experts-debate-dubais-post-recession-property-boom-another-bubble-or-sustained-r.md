@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826153715
+wayback_snapshot_url: "http://web.archive.org/web/20140826153715/http://cfi.co/finance/2013/09/experts-debate-dubais-post-recession-property-boom-another-bubble-or-sustained-recovery/"
 content_sha256: bdf2c5460095da3539cece3a84417814503f6bb3d50bd4af5330b374060ff524
 canonical: 5249-experts-debate-dubais-post-recession-property-boom-another-bubble-or-sustained-r.json
 ---
