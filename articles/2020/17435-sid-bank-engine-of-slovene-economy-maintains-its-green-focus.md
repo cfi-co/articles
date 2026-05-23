@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228100828
+wayback_snapshot_url: "http://web.archive.org/web/20210228100828/https://cfi.co/menu/corporate/2020/01/sid-bank-engine-of-slovene-economy-maintains-its-green-focus/"
 content_sha256: 59a19de5125b1e7d87f827dc30693d2256011a3db0fdb82646168ee04d0c774b
 canonical: 17435-sid-bank-engine-of-slovene-economy-maintains-its-green-focus.json
 ---
