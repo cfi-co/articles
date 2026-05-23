@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230311145601
+wayback_snapshot_url: "http://web.archive.org/web/20230311145601/https://cfi.co/banking/2023/02/banque-saudi-fransi-unswerving-focus-on-customers-and-creating-a-fresh-response-to-financial-needs-of-the-individual/"
 content_sha256: 71fcafa99f577c40ee73f21d172ae52d055e6efdf6f66a31ccdd2b04bcf8e6d1
 canonical: 24725-banque-saudi-fransi-unswerving-focus-on-customers-and-creating-a-fresh-response-.json
 ---
