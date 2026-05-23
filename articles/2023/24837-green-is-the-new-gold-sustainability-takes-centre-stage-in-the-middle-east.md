@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230311102348
+wayback_snapshot_url: "http://web.archive.org/web/20230311102348/https://cfi.co/sustainability/2023/03/green-is-the-new-gold-sustainability-takes-centre-stage-in-the-middle-east/"
 content_sha256: 20bb6efd2147e096d5e570f129627f1ce09b63174efea41ca182124dae628903
 canonical: 24837-green-is-the-new-gold-sustainability-takes-centre-stage-in-the-middle-east.json
 ---
