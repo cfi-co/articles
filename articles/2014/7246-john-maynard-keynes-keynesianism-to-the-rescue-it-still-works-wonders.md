@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 735288cd2d8a7a05a2cf10809e9eb030fdaf71dff726020e8f4f861a2131b0cc
 canonical: 7246-john-maynard-keynes-keynesianism-to-the-rescue-it-still-works-wonders.json
 ---
