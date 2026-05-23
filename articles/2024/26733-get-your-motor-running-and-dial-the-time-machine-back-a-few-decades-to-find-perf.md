@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240420130050
+wayback_snapshot_url: "http://web.archive.org/web/20240420130050/https://cfi.co/lifestyle/2024/03/get-your-motor-running-and-dial-the-time-machine-back-a-few-decades-to-find-perfection/"
 content_sha256: 06aa09324625e70593fec29ab460426cd7f7cca7c2d8250e29828a1787dc0e1a
 canonical: 26733-get-your-motor-running-and-dial-the-time-machine-back-a-few-decades-to-find-perf.json
 ---
