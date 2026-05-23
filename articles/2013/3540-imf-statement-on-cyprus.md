@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050120
+wayback_snapshot_url: "http://web.archive.org/web/20190823050120/https://cfi.co/europe/2013/04/imf-statement-on-cyprus/"
 content_sha256: 81574eb177ce370c928c103376a0153edd6cafb08806633ddf709b61c45ff67d
 canonical: 3540-imf-statement-on-cyprus.json
 ---
