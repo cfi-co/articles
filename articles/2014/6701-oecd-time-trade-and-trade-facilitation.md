@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: a57fd601c57dfa445b464e953af990214e9a257a1c6252db5bb391c2a9d5585b
 canonical: 6701-oecd-time-trade-and-trade-facilitation.json
 ---
