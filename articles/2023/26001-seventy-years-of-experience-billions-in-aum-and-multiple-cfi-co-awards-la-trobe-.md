@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240420130533
+wayback_snapshot_url: "http://web.archive.org/web/20240420130533/https://cfi.co/finance/2023/09/la-trobe-financial-seventy-years-of-experience-billions-in-aum-and-multiple-cfi-co-awards/"
 content_sha256: dbbf409d49093ca0b7749213ecf6f1d4a7bf403f236220397ab237dcf3b3ebf8
 canonical: 26001-seventy-years-of-experience-billions-in-aum-and-multiple-cfi-co-awards-la-trobe-.json
 ---
