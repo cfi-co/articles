@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 5424d9bc024ee7c5a7e1a5063cafc99429072f9b047603257979e47b86c60b36
 canonical: 20172-national-finance-enhancing-digital-capabilities.json
 ---
