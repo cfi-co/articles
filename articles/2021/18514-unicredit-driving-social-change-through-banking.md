@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210209061033
+wayback_snapshot_url: "http://web.archive.org/web/20210209061033/https://cfi.co/menu/corporate/2021/01/unicredit-driving-social-change-through-banking/"
 content_sha256: f3efe830edc044ac273e5b850ba779a24e8774e8a0b3b0c8f0b154a269417e64
 canonical: 18514-unicredit-driving-social-change-through-banking.json
 ---
