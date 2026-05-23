@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 89b78dfd1f7f4af175d349eba85524e2176d0713a04c1abc98a57858f13cbf54
 canonical: 23280-support-know-how-and-care-for-people-and-environment-all-add-up-to-the-exim-equa.json
 ---
