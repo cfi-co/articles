@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418051636
+wayback_snapshot_url: "http://web.archive.org/web/20210418051636/https://cfi.co/middleeast/2020/10/mutaz-ghandour-ceo-metito-group-a-grasp-of-synergy-and-solidity/"
 content_sha256: c1201279c780b0502309b17b45ffcaa02c1e557943ed303c8a5ca2d9a1500680
 canonical: 17603-mutaz-ghandour-ceo-metito-group-a-grasp-of-synergy-and-solidity.json
 ---
