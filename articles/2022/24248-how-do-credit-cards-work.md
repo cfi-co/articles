@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230208104816
+wayback_snapshot_url: "http://web.archive.org/web/20230208104816/https://cfi.co/banking/2022/12/how-do-credit-cards-work/"
 content_sha256: ae7aeb46d20fbf2d8be7147a37a50314ecd119998161bec32fdea54b0ac4d29f
 canonical: 24248-how-do-credit-cards-work.json
 ---
