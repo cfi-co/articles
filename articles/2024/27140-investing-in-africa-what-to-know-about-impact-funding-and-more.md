@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240918105737
+wayback_snapshot_url: "http://web.archive.org/web/20240918105737/https://cfi.co/africa/2024/09/investing-in-africa-what-to-know-about-impact-funding-and-more/"
 content_sha256: 67379be6c2a441dfe63d28e2443718a0e2e622c5cc63bba6e897b0f7c72c46d4
 canonical: 27140-investing-in-africa-what-to-know-about-impact-funding-and-more.json
 ---
