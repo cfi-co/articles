@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 44603c9702f37c4168bfdde2eb22d426bb278d5f46e58e7836bf5548ed867eae
 canonical: 16150-adam-global-global-reach-personalised-service-proves-a-winner.json
 ---
