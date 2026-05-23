@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211107015330
+wayback_snapshot_url: "http://web.archive.org/web/20211107015330/https://cfi.co/menu/corporate/2021/11/aibek-kaiyp-jusan-banks-ceo-champions-change-hits-new-heights-in-service-provision/"
 content_sha256: 3c48fc21f89fd927fc276bb3c0e797817c9ae3052e3cd696f0c0dd31c700b3b6
 canonical: 20965-aibek-kaiyp-jusan-banks-ceo-champions-change-hits-new-heights-in-service-provisi.json
 ---
