@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140824221411
+wayback_snapshot_url: "http://web.archive.org/web/20140824221411/http://cfi.co/africa/2014/07/world-bank-group-president-brings-hopeful-message-to-middle-east/"
 content_sha256: 8e25771496e26ddfdb80cc49b2b1b48d4fd1a28d8f1cf4b5e2d4ea3ad602dd9f
 canonical: 7532-world-bank-group-president-brings-hopeful-message-to-middle-east.json
 ---
