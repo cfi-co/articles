@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200925110846
+wayback_snapshot_url: "http://web.archive.org/web/20200925110846/https://cfi.co/uncategorized/2018/09/mukhisa-kituyi-growing-intra-african-trade-flows/"
 content_sha256: 5c55d10fe6f0455317ce36b8d9eb0d38d4e40a8757a1b6026a445cdf201c5d83
 canonical: 13168-mukhisa-kituyi-growing-intra-african-trade-flows.json
 ---
