@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211201085418
+wayback_snapshot_url: "http://web.archive.org/web/20211201085418/https://cfi.co/menu/start-ups/2021/11/recipe-for-success-blend-inspiring-partners-with-hard-working-teams-and-have-a-proven-killer-product/"
 content_sha256: df647a9500b674afc4afda88655a95d280ba695cdf8d29dc020a6177e13adb99
 canonical: 21232-recipe-for-success-blend-inspiring-partners-with-hard-working-teams-and-have-a-p.json
 ---
