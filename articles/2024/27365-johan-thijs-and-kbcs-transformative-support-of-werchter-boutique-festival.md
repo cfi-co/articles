@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250209182525
+wayback_snapshot_url: "http://web.archive.org/web/20250209182525/https://cfi.co/europe/2024/12/johan-thijs-and-kbcs-transformative-support-of-werchter-boutique-festival/"
 content_sha256: 0f0dfdedf48c7371dcf8da3df8c367f47c6fa0a939229fd3895a3f1b42b7da6c
 canonical: 27365-johan-thijs-and-kbcs-transformative-support-of-werchter-boutique-festival.json
 ---
