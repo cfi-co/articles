@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220813144716
+wayback_snapshot_url: "http://web.archive.org/web/20220813144716/https://cfi.co/lifestyle/2022/08/how-bernard-arnault-turned-one-franc-into-a-dynasty/"
 content_sha256: e0b76579ece4a2f25ae91171b2c4ce8752a0dde90716edf3f44183ebb8698639
 canonical: 22880-how-bernard-arnault-turned-one-franc-into-a-dynasty.json
 ---
