@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916085833
+wayback_snapshot_url: "http://web.archive.org/web/20190916085833/https://cfi.co/africa/2014/10/nigerian-stock-exchange-becomes-a-full-member-of-world-federation-of-exchanges/"
 content_sha256: fb4d57d04c096179c487b4e598df253b6ab82d3c61f19967f6a28ce85db89d0f
 canonical: 8314-nigerian-stock-exchange-becomes-a-full-member-of-world-federation-of-exchanges.json
 ---
