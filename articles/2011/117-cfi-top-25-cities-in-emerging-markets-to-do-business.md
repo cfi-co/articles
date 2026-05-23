@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 4a8281a0b7472d328a4cd4a17056c26f0279776fa06aebea665f5545457a4e4b
 canonical: 117-cfi-top-25-cities-in-emerging-markets-to-do-business.json
 ---
