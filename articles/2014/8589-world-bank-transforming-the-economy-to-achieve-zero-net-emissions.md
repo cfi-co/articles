@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818135448
+wayback_snapshot_url: "http://web.archive.org/web/20190818135448/https://cfi.co/finance/2014/12/world-bank-transforming-the-economy-to-achieve-zero-net-emissions/"
 content_sha256: 36d8163aeeba93aba096c1e9297a1704f44dda462b4c18711b0ea13a2a4e3640
 canonical: 8589-world-bank-transforming-the-economy-to-achieve-zero-net-emissions.json
 ---
