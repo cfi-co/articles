@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916044341
+wayback_snapshot_url: "http://web.archive.org/web/20190916044341/https://cfi.co/europe/2015/01/henri-de-castries-pragmatism-with-a-human-touch/"
 content_sha256: efcdae2aec7d2d53f1c306706fc18e883d72afb5b76c1680b76291a6b29ecb30
 canonical: 8709-henri-de-castries-pragmatism-with-a-human-touch.json
 ---
