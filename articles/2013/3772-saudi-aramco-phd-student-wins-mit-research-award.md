@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 5463c8438063939fb303bcb62abdf7827124d9da0b5f40b49cf5890249cd969a
 canonical: 3772-saudi-aramco-phd-student-wins-mit-research-award.json
 ---
