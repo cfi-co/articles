@@ -16,7 +16,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260315120314
+wayback_snapshot_url: "http://web.archive.org/web/20260315120314/https://cfi.co/africa/2026/01/kengen-powering-east-africas-clean-energy-future/"
 content_sha256: df9c779e29038de81929c273a1e43bcd90e580e09e8db164eae3e1034a0a6998
 canonical: 28227-kengen-powering-east-africas-clean-energy-future.json
 ---
