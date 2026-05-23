@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220119085301
+wayback_snapshot_url: "http://web.archive.org/web/20220119085301/https://cfi.co/menu/corporate/2021/11/le-groupe-la-poste-committed-to-its-customers-and-sustainability/"
 content_sha256: 0b68d79ecdbe2b2b5c3f4e2f924e9dc65c7d886025498cd71bcd0028842759e1
 canonical: 20985-le-groupe-la-poste-committed-to-its-customers-and-sustainability.json
 ---
