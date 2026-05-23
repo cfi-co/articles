@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250825133257
+wayback_snapshot_url: "http://web.archive.org/web/20250825133257/https://cfi.co/banking/2025/08/jefferies-trades-lone-wolf-culture-for-team-first-strategy-in-bid-for-wall-streets-top-tier/"
 content_sha256: b16932e08c6e7ed19a4905ba7e98f836469e59656def01ee68e4062caa78fd17
 canonical: 27878-jefferies-trades-lone-wolf-culture-for-team-first-strategy-in-bid-for-wall-stree.json
 ---
