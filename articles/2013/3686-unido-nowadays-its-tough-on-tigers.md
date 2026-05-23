@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823052906
+wayback_snapshot_url: "http://web.archive.org/web/20190823052906/https://cfi.co/asia-pacific/2013/04/unido-nowadays-its-tough-on-tigers/"
 content_sha256: 4e8d36336609325c7bfede1a31cc8caa2f39c40ca0ac45af087a4cdaea02ecdf
 canonical: 3686-unido-nowadays-its-tough-on-tigers.json
 ---
