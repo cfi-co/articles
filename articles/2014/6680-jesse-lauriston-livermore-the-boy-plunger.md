@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826125637
+wayback_snapshot_url: "http://web.archive.org/web/20140826125637/http://cfi.co/banking/2014/02/jesse-lauriston-livermore-the-boy-plunger/"
 content_sha256: 582d19a2e9609b64a07558a1b91761ba35b8112142b59bf9ee8eda7c75333b30
 canonical: 6680-jesse-lauriston-livermore-the-boy-plunger.json
 ---
