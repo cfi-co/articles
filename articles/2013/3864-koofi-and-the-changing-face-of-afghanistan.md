@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724024315
+wayback_snapshot_url: "http://web.archive.org/web/20190724024315/https://cfi.co/middleeast/2013/05/koofi-and-the-changing-face-of-afghanistan/"
 content_sha256: 236b1c1205c9ddf179ef14d6a30ea50b659da0ad952bf13b3f8f141ff79771f9
 canonical: 3864-koofi-and-the-changing-face-of-afghanistan.json
 ---
