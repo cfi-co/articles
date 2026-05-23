@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140705172520
+wayback_snapshot_url: "http://web.archive.org/web/20140705172520/http://cfi.co/middleeast/2014/03/cfi-co-meets-the-ceo-of-al-waseet-financial-business-company-khalifa-abdullah-al-ajeel/"
 content_sha256: 20cd6eb581afcdbdcfc79946f028499457b2142fe1fab60c68d136d7eddeb135
 canonical: 7344-cfi-co-meets-the-ceo-of-al-waseet-financial-business-company-khalifa-abdullah-al.json
 ---
