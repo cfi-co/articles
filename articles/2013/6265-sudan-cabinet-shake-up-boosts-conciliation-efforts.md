@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327045629
+wayback_snapshot_url: "http://web.archive.org/web/20140327045629/http://cfi.co/europe/2013/12/sudan-cabinet-shake-up-boosts-conciliation-efforts/"
 content_sha256: cbd98c7d03aca93cfacb27f4c8a1221ba94723f4f49bff6519b32053f6a5dbd3
 canonical: 6265-sudan-cabinet-shake-up-boosts-conciliation-efforts.json
 ---
