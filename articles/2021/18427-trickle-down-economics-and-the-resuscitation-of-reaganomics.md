@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 67b39f0b0ef9c58c53011e3029730272de4169e43abe50fd9d485af686e4cf27
 canonical: 18427-trickle-down-economics-and-the-resuscitation-of-reaganomics.json
 ---
