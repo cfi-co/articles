@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200514174012
+wayback_snapshot_url: "http://web.archive.org/web/20200514174012/https://cfi.co/c-19/2020/05/schalke-04-fighting-for-its-life-and-soul/"
 content_sha256: 0e0a020308e21a9755f3503f6939829281d9d26b2e9b3595b44674040e17c453
 canonical: 15262-schalke-04-fighting-for-its-life-and-soul.json
 ---
