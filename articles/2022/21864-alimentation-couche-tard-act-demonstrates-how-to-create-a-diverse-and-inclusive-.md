@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220626000135
+wayback_snapshot_url: "http://web.archive.org/web/20220626000135/https://cfi.co/menu/corporate/2022/05/alimentation-couche-tard-act-demonstrates-how-to-create-a-diverse-and-inclusive-organisation/"
 content_sha256: d711e55fcedf21a0de810d34795a92f309e7058d8f3576b06d8204f509be26b3
 canonical: 21864-alimentation-couche-tard-act-demonstrates-how-to-create-a-diverse-and-inclusive-.json
 ---
