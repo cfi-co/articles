@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240625203605
+wayback_snapshot_url: "http://web.archive.org/web/20240625203605/https://cfi.co/sustainability/2024/02/finding-the-inside-track-to-sustainable-investment-its-a-thirdway-speciality/"
 content_sha256: 389ca8a16f6357901db55f74aeeace7ae75613f04b9ec5fcbcaf00373df66cb4
 canonical: 26637-finding-the-inside-track-to-sustainable-investment-its-a-thirdway-speciality.json
 ---
