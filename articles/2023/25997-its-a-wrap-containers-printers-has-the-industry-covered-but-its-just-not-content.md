@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240522225813
+wayback_snapshot_url: "http://web.archive.org/web/20240522225813/https://cfi.co/menu/corporate/2023/09/amy-chung-ceo-containers-printers/"
 content_sha256: c4cf6e8c308d8c24d4836341ca3b1de7b7f66579a6ffafd11891880ce64834ad
 canonical: 25997-its-a-wrap-containers-printers-has-the-industry-covered-but-its-just-not-content.json
 ---
