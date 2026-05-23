@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 565d876a47b3af2eb79589693d41452b595bf07ff9a64afebc6482db6ff61c68
 canonical: 26224-poland-votes-pis-stranglehold-on-power-in-the-balance.json
 ---
