@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418061101
+wayback_snapshot_url: "http://web.archive.org/web/20210418061101/https://cfi.co/c-19/2020/11/fed-chair-powell-recovering-to-a-different-economy/"
 content_sha256: 054a93540a3cbdfeab8bdff0ee7e980eec6b22d1b0f23eabe7ed022e8743810b
 canonical: 17904-fed-chair-powell-recovering-to-a-different-economy.json
 ---
