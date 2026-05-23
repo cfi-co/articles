@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825100703
+wayback_snapshot_url: "http://web.archive.org/web/20190825100703/https://cfi.co/menu/heroes/2018/09/tim-oreilly-coding-for-the-masses/"
 content_sha256: a80b6e1865012a97726b81b168625f459134d778bca79a12f9d23f39cf9087d1
 canonical: 12956-tim-oreilly-coding-for-the-masses.json
 ---
