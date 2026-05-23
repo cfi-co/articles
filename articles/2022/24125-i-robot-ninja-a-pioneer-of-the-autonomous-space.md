@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221206202322
+wayback_snapshot_url: "http://web.archive.org/web/20221206202322/https://cfi.co/technology/2022/12/i-robot-ninja-a-pioneer-of-the-autonomous-space/"
 content_sha256: 9600f607e6aea29ba7277b6d183cd438c33e7f8741b5eeccc8e2ccdf019c863a
 canonical: 24125-i-robot-ninja-a-pioneer-of-the-autonomous-space.json
 ---
