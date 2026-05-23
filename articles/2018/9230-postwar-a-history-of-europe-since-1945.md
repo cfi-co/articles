@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717210110
+wayback_snapshot_url: "http://web.archive.org/web/20190717210110/https://cfi.co/menu/must-reads/2018/02/postwar-a-history-of-europe-since-1945/"
 content_sha256: 4381c4f999dca74dcd6604a740b7db1e0c431bd39af7a7271dd3ef92b4110091
 canonical: 9230-postwar-a-history-of-europe-since-1945.json
 ---
