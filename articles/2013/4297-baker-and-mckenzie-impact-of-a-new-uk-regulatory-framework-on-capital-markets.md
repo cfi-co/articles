@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327041143
+wayback_snapshot_url: "http://web.archive.org/web/20140327041143/http://cfi.co/europe/2013/06/baker-and-mckenzie-impact-of-a-new-uk-regulatory-framework-on-capital-markets/"
 content_sha256: f070c34a1923b2c556dd79f0bf0b1b17e326ccf6f00b46687599fd3171668a18
 canonical: 4297-baker-and-mckenzie-impact-of-a-new-uk-regulatory-framework-on-capital-markets.json
 ---
