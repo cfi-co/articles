@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240308231507
+wayback_snapshot_url: "http://web.archive.org/web/20240308231507/https://cfi.co/banking/2024/02/byblos-bank-europe-bbe-a-niche-bank-getting-bigger-and-better/"
 content_sha256: 105c7f327ec66720888cb9e6abd564f7e97da1fdc85ad4dadb29b0226d844af1
 canonical: 26698-byblos-bank-europe-bbe-a-niche-bank-getting-bigger-and-better.json
 ---
