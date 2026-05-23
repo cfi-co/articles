@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220303123435
+wayback_snapshot_url: "http://web.archive.org/web/20220303123435/https://cfi.co/brave-new-world/2022/03/casting-russia-adrift-the-decline-of-western-power-may-have-been-exaggerated/"
 content_sha256: b4151efba1d03be00a991ee2e987e176916f525a511f39af3e9cb8bbe7ea9004
 canonical: 21610-casting-russia-adrift-the-decline-of-western-power-may-have-been-exaggerated.json
 ---
