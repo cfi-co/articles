@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221207225417
+wayback_snapshot_url: "http://web.archive.org/web/20221207225417/https://cfi.co/menu/corporate/2022/08/first-registrars-investor-services-limited-thriving-in-a-challenging-world/"
 content_sha256: be24648c693a7fed1ca375ebd6b01ee63f61832be28cfa9214f51eeb8326eac3
 canonical: 23186-first-registrars-investor-services-limited-thriving-in-a-challenging-world.json
 ---
