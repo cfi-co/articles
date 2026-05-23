@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140705134155
+wayback_snapshot_url: "http://web.archive.org/web/20140705134155/http://cfi.co/africa/2014/03/cfi-co-meets-the-ceo-of-sarit-centre-nitin-shah/"
 content_sha256: 62b150591f2e8b91b92abfada9340eb24b0bfdc47d253c87c3f2fb5f1d1f82aa
 canonical: 7322-cfi-co-meets-the-ceo-of-sarit-centre-nitin-shah.json
 ---
