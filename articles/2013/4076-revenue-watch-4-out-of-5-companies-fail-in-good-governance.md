@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20131003003502
+wayback_snapshot_url: "http://web.archive.org/web/20131003003502/http://cfi.co/africa/2013/05/revenue-watch-4-out-of-5-companies-fail-in-good-governance/"
 content_sha256: b9a468ac84cb3e1dee39caeb2642cbaa04a42ab4a32a0241e25a66faba9ee996
 canonical: 4076-revenue-watch-4-out-of-5-companies-fail-in-good-governance.json
 ---
