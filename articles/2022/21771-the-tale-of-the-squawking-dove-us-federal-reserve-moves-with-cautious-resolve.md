@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220528102107
+wayback_snapshot_url: "http://web.archive.org/web/20220528102107/https://cfi.co/brave-new-world/2022/05/the-tale-of-the-squawking-dove-us-federal-reserve-moves-with-cautious-resolve/"
 content_sha256: c60c4d2244b29a2f7e91c26390e0786d2404326e81de0ac63ec205fe8cb95a3b
 canonical: 21771-the-tale-of-the-squawking-dove-us-federal-reserve-moves-with-cautious-resolve.json
 ---
