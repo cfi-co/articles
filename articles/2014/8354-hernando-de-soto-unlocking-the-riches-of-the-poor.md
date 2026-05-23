@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050620
+wayback_snapshot_url: "http://web.archive.org/web/20190818050620/https://cfi.co/latinamerica/2014/11/hernando-de-soto-unlocking-the-riches-of-the-poor/"
 content_sha256: 2f50d10be74b4bc646bab82d83e423af155ad8bee079674a421f4a6f11f73438
 canonical: 8354-hernando-de-soto-unlocking-the-riches-of-the-poor.json
 ---
