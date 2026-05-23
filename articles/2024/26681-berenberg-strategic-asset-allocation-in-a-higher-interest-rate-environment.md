@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240523000644
+wayback_snapshot_url: "http://web.archive.org/web/20240523000644/https://cfi.co/europe/2024/02/berenberg-strategic-asset-allocation-in-a-higher-interest-rate-environment/"
 content_sha256: 1f0d6c9a47cdd01842801cdae6787ef80400f5c556f6de61a1b2d057f375c517
 canonical: 26681-berenberg-strategic-asset-allocation-in-a-higher-interest-rate-environment.json
 ---
