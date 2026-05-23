@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201120185906
+wayback_snapshot_url: "http://web.archive.org/web/20201120185906/https://cfi.co/asia-pacific/2020/01/tadaus-susanna-lim-ceos-vision-of-a-zero-emissions-future-with-the-means-and-drive-to-achieve-it/"
 content_sha256: 62426c5881c5a4de3bbc03b3a774dc564516304dbe5a848b7b7d1a5d4b79adf4
 canonical: 17515-tadaus-susanna-lim-ceos-vision-of-a-zero-emissions-future-with-the-means-and-dri.json
 ---
