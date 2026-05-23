@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327044737
+wayback_snapshot_url: "http://web.archive.org/web/20140327044737/http://cfi.co/latinamerica/2012/08/inter-american-bar-association-iaba-e-sustainability-law-and-technology-working-for-the-environment/"
 content_sha256: a9f3b4bdab78ffe59a99857f22edae067d306d3442399679503a8d81d49d3e02
 canonical: 1907-inter-american-bar-association-iaba-e-sustainability-law-and-technology-working-.json
 ---
