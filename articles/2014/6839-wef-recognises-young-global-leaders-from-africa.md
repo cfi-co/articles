@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140705030912
+wayback_snapshot_url: "http://web.archive.org/web/20140705030912/http://cfi.co/africa/2014/03/wef-recognises-young-global-leaders-from-africa/"
 content_sha256: 735b94cb12751ee4de6772ce1935d60abb2c6a945c37c140df9ff99efe6439b2
 canonical: 6839-wef-recognises-young-global-leaders-from-africa.json
 ---
