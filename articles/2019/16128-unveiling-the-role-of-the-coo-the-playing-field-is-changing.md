@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200918180306
+wayback_snapshot_url: "http://web.archive.org/web/20200918180306/https://cfi.co/middleeast/2019/09/unveiling-the-role-of-the-coo-the-playing-field-is-changing/"
 content_sha256: 54041cf7420c1b592960f391bb9d66cbc4b58bfb729ce99aaecc10abc5e9a44d
 canonical: 16128-unveiling-the-role-of-the-coo-the-playing-field-is-changing.json
 ---
