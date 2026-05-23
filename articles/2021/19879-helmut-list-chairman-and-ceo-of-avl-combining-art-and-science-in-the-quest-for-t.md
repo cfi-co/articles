@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921112944
+wayback_snapshot_url: "http://web.archive.org/web/20210921112944/https://cfi.co/menu/corporate/2021/07/helmut-list-chairman-and-ceo-of-avl-combining-art-and-science-in-the-quest-for-true-sustainable-mobility/"
 content_sha256: d51f67f131f956dd2b384a9e8eaf5c06665691f9ed08ea28ee80a6945bdd6120
 canonical: 19879-helmut-list-chairman-and-ceo-of-avl-combining-art-and-science-in-the-quest-for-t.json
 ---
