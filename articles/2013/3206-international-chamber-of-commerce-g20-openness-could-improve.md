@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140827154720
+wayback_snapshot_url: "http://web.archive.org/web/20140827154720/http://cfi.co/africa/2013/03/international-chamber-of-commerce-g20-openness-could-improve/"
 content_sha256: ea5b61d8159dc8aa32e7bd0521a4382638571f8e8d7c1d7f4d41f5208b140675
 canonical: 3206-international-chamber-of-commerce-g20-openness-could-improve.json
 ---
