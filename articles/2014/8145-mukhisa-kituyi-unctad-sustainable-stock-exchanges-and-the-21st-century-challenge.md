@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20150204053811
+wayback_snapshot_url: "http://web.archive.org/web/20150204053811/http://cfi.co/finance/2014/10/mukhisa-kituyi-unctad-sustainable-stock-exchanges-and-the-21st-century-challenge-for-global-finance/"
 content_sha256: 54333b0751887020ef8cf49a48ccabe08ef21777a1b92fe097b50d5be5aaa843
 canonical: 8145-mukhisa-kituyi-unctad-sustainable-stock-exchanges-and-the-21st-century-challenge.json
 ---
