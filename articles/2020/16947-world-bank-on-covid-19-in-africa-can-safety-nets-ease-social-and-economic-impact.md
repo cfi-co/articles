@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200920014535
+wayback_snapshot_url: "http://web.archive.org/web/20200920014535/https://cfi.co/africa/2020/09/world-bank-on-covid-19-in-africa-can-safety-nets-ease-social-and-economic-impacts/"
 content_sha256: dc8430abd4270bf2ed5851683ef8c16ff4304cda9d342bec863d4cc5ad7d5894
 canonical: 16947-world-bank-on-covid-19-in-africa-can-safety-nets-ease-social-and-economic-impact.json
 ---
