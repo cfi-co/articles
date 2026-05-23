@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190722120414
+wayback_snapshot_url: "http://web.archive.org/web/20190722120414/https://cfi.co/europe/2014/11/new-world-bank-initiative-to-help-end-wasteful-energy-subsidies/"
 content_sha256: 5a20a2291c4da945360905c1dc612baa332bbd25fb7f17c1e0cde7435a2c2869
 canonical: 8449-new-world-bank-initiative-to-help-end-wasteful-energy-subsidies.json
 ---
