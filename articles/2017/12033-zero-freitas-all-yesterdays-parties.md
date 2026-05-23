@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200918211910
+wayback_snapshot_url: "http://web.archive.org/web/20200918211910/https://cfi.co/editors-picks/2017/09/zero-freitas-all-yesterdays-parties/"
 content_sha256: a9e973639d19aa3e36cbbfc0dcd6a3b7aa98aabdcca44adb7989c1629a4e2eee
 canonical: 12033-zero-freitas-all-yesterdays-parties.json
 ---
