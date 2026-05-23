@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20171206121003
+wayback_snapshot_url: "http://web.archive.org/web/20171206121003/http://cfi.co/asia-pacific/2015/02/new-world-bank-green-bond-is-a-story-of-market-growth-and-innovation/"
 content_sha256: d59e16096a32cfb3b67aea9ead7bc70874b71b9f989ef75aff8ea597599203c7
 canonical: 9139-new-world-bank-green-bond-is-a-story-of-market-growth-and-innovation.json
 ---
