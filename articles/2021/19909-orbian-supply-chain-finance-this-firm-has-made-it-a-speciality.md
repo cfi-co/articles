@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920111106
+wayback_snapshot_url: "http://web.archive.org/web/20210920111106/https://cfi.co/menu/corporate/2021/07/orbian-supply-chain-finance-this-firm-has-made-it-a-speciality/"
 content_sha256: 875c26a7e991d0c8abf824c8d6a0bd3bd2fe8ba68ebd1cbaf4a1789c5c30fc47
 canonical: 19909-orbian-supply-chain-finance-this-firm-has-made-it-a-speciality.json
 ---
