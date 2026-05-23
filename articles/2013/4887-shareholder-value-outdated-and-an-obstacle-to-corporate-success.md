@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180704014510
+wayback_snapshot_url: "http://web.archive.org/web/20180704014510/http://cfi.co/finance/2013/08/shareholder-value-outdated-and-an-obstacle-to-corporate-success/"
 content_sha256: 846f65c09b44f3ad4d29065fe0b08ddc5f7e4b5aaff9deecdbe63869627aac28
 canonical: 4887-shareholder-value-outdated-and-an-obstacle-to-corporate-success.json
 ---
