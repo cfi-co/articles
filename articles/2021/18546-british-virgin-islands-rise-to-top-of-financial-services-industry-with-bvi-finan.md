@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422021740
+wayback_snapshot_url: "http://web.archive.org/web/20210422021740/https://cfi.co/menu/cfi-co-meets/2021/02/british-virgin-islands-rise-to-top-of-financial-services-industry-with-bvi-finance-ceo-elise-donovan/"
 content_sha256: 17912d00ed4cca8a44b58ba988bfd4309436002452b3228241d4ba91f9e82d0d
 canonical: 18546-british-virgin-islands-rise-to-top-of-financial-services-industry-with-bvi-finan.json
 ---
