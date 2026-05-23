@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 3571e6db9e481ad2e2df095f096d388c658ab6aa9569394e432b7932b7b7821e
 canonical: 6655-wang-meng-a-champ-tumbles-and-falls-on-her-way-to-the-top.json
 ---
