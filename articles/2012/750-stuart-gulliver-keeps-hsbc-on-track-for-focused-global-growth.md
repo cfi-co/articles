@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190820141936
+wayback_snapshot_url: "http://web.archive.org/web/20190820141936/https://cfi.co/africa/2012/06/stuart-gulliver-keeps-hsbc-on-track-for-focused-global-growth/"
 content_sha256: 753b098ad8d580a15d9ffc19540c59c3dc1abd42237796905ee83824b8f30d07
 canonical: 750-stuart-gulliver-keeps-hsbc-on-track-for-focused-global-growth.json
 ---
