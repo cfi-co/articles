@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140827160302
+wayback_snapshot_url: "http://web.archive.org/web/20140827160302/http://cfi.co/europe/2013/10/european-federalist-party-power-to-the-people-the-road-to-the-2014-european-parliament-elections/"
 content_sha256: f36d186c18aa3a5f2cf3de95c6bf985e055b5930a596a17452aac25a94fec940
 canonical: 5546-european-federalist-party-power-to-the-people-the-road-to-the-2014-european-parl.json
 ---
