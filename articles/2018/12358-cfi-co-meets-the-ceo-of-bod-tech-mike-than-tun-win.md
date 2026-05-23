@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916090046
+wayback_snapshot_url: "http://web.archive.org/web/20190916090046/https://cfi.co/corporate-leaders/2018/05/cfi-co-meets-the-ceo-of-bod-tech-mike-than-tun-win/"
 content_sha256: e2e345527e874021e25aa5a9878df72a40db848c809b1265f10ba0db1013b8f0
 canonical: 12358-cfi-co-meets-the-ceo-of-bod-tech-mike-than-tun-win.json
 ---
