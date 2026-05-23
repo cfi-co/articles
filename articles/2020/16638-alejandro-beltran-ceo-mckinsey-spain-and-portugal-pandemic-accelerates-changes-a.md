@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625223704
+wayback_snapshot_url: "http://web.archive.org/web/20220625223704/https://cfi.co/corporate-leaders/2020/08/alejandro-beltran-ceo-mckinsey-spain-and-portugal-pandemic-accelerates-changes-already-underway/"
 content_sha256: 381428e57e60d0f9ea23ba17f9037def7566c2d3b18630170b35fab24987140a
 canonical: 16638-alejandro-beltran-ceo-mckinsey-spain-and-portugal-pandemic-accelerates-changes-a.json
 ---
