@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418050835
+wayback_snapshot_url: "http://web.archive.org/web/20210418050835/https://cfi.co/menu/corporate/2021/04/inter-seguros-ceo-paulo-padilha/"
 content_sha256: 3e06f85924169dfb0ed81790f7bec7ff8f60d275209823c150b7bcbebc414fe3
 canonical: 19420-inter-seguros-ceo-paulo-padilha.json
 ---
