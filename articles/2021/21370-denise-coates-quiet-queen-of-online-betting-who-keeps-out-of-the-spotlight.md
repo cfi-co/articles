@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211217052436
+wayback_snapshot_url: "http://web.archive.org/web/20211217052436/https://cfi.co/editors-picks/2021/12/denise-coates-quiet-queen-of-online-betting-who-keeps-out-of-the-spotlight/"
 content_sha256: 7089a22439dbdf57dbf84c970ce7ce08bab483079b923e513d7af425fa25d9dd
 canonical: 21370-denise-coates-quiet-queen-of-online-betting-who-keeps-out-of-the-spotlight.json
 ---
