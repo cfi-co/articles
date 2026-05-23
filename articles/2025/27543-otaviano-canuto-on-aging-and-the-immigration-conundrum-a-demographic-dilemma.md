@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250209171542
+wayback_snapshot_url: "http://web.archive.org/web/20250209171542/https://cfi.co/menu/columnists/2025/02/otaviano-canuto-on-aging-and-the-immigration-conundrum-a-demographic-dilemma/"
 content_sha256: 39b400f2eb7878590c89d6bdd30c42bea4eb3e6a413262389efe8e9420b03181
 canonical: 27543-otaviano-canuto-on-aging-and-the-immigration-conundrum-a-demographic-dilemma.json
 ---
