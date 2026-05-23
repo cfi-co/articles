@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422020911
+wayback_snapshot_url: "http://web.archive.org/web/20210422020911/https://cfi.co/menu/cfi-co-meets/2021/02/trojan-holdings-hamad-salem-al-ameri-a-man-who-loves-to-build/"
 content_sha256: 271e8d12ba7553d0880f69762b6224660f1e6430135dbd0adce7bc028c623e15
 canonical: 18559-trojan-holdings-hamad-salem-al-ameri-a-man-who-loves-to-build.json
 ---
