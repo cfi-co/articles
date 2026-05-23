@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250908123825
+wayback_snapshot_url: "http://web.archive.org/web/20250908123825/https://cfi.co/africa/2025/09/africa-enters-an-age-of-optimism/"
 content_sha256: 7660ef0a1658772b85b57fa26173bdb9fc7984148f46619043100715df445c74
 canonical: 27898-africa-enters-an-age-of-optimism.json
 ---
