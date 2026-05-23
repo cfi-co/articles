@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 6ec8e259a00fa5f91be35a6b881687bef9863131ef49ab6e5279794aa4dd92f5
 canonical: 18550-head-of-esg-client-strategies-north-america-at-invesco-glen-k-yelton-esg-is-impo.json
 ---
