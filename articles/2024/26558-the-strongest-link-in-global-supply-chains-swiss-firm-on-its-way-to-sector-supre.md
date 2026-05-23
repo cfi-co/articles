@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240225152712
+wayback_snapshot_url: "http://web.archive.org/web/20240225152712/https://cfi.co/europe/2024/01/global-supply-chains-arviem-on-its-way-to-sector-supremacy/"
 content_sha256: 71335aa15383341738732755e75731e18f0c16aeefbb9d2529310373656fcdfe
 canonical: 26558-the-strongest-link-in-global-supply-chains-swiss-firm-on-its-way-to-sector-supre.json
 ---
