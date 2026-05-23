@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050950
+wayback_snapshot_url: "http://web.archive.org/web/20190818050950/https://cfi.co/africa/2014/07/oecd-achieving-a-resilient-economic-recovery/"
 content_sha256: 78b037e43b7e6f107e7ad2f7c34225adb31fce966154726fd1068a28526d8d8d
 canonical: 7647-oecd-achieving-a-resilient-economic-recovery.json
 ---
