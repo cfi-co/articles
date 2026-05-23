@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240309202604
+wayback_snapshot_url: "http://web.archive.org/web/20240309202604/https://cfi.co/brave-new-world/2024/03/women-and-stem-we-can-do-better/"
 content_sha256: 98c9b867019c67d62fd7903b0e36c51a24624140c54a93d7cc4586266a9aa358
 canonical: 26721-women-and-stem-we-can-do-better.json
 ---
