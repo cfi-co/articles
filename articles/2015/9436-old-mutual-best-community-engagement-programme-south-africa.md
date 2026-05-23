@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723005756
+wayback_snapshot_url: "http://web.archive.org/web/20190723005756/https://cfi.co/awards/africa/"
 content_sha256: b9053aa8e95c66aee30774250a78166a7d87acb773b2f1e207c429ecbde715ef
 canonical: 9436-old-mutual-best-community-engagement-programme-south-africa.json
 ---
