@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170520200028
+wayback_snapshot_url: "http://web.archive.org/web/20170520200028/http://cfi.co/lifestyle/2017/01/bob-dylan-things-have-not-changed/"
 content_sha256: b42706cf0d4c02dc7b8022a7d551700c5320d5c1828653ba0b3918f2d4c0a12e
 canonical: 11496-bob-dylan-things-have-not-changed.json
 ---
