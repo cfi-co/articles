@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813164549
+wayback_snapshot_url: "http://web.archive.org/web/20200813164549/https://cfi.co/menu/corporate/2019/07/central-bank-of-the-dominican-republic-dominican-economy-surges-ahead-bringing-growth-to-multiple-sectors/"
 content_sha256: afa51ae906a18df35908798bd1e05384184582d330f8ee8703ab3e17b0a79819
 canonical: 15707-central-bank-of-the-dominican-republic-dominican-economy-surges-ahead-bringing-g.json
 ---
