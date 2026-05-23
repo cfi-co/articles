@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230225140734
+wayback_snapshot_url: "http://web.archive.org/web/20230225140734/https://cfi.co/menu/corporate/2022/10/thai-lifes-immodest-aim-to-be-the-best-and-most-sustainable-company-in-the-insurance-sector/"
 content_sha256: 5f6186e7047e342fee88ecee898e8530d1ee1d4cc14c17ccc7416a65bae4bee4
 canonical: 23779-thai-lifes-immodest-aim-to-be-the-best-and-most-sustainable-company-in-the-insur.json
 ---
