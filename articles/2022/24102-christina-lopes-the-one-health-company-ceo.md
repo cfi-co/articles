@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221128145929
+wayback_snapshot_url: "http://web.archive.org/web/20221128145929/https://cfi.co/technology/2022/11/christina-lopes-the-one-health-company-ceo/"
 content_sha256: ed238dd1fb02c185bdbbf1e0ffbea0e7d9d8449b17c52173d6f072ded8c58ea4
 canonical: 24102-christina-lopes-the-one-health-company-ceo.json
 ---
