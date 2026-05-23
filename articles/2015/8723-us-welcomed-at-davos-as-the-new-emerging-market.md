@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916044247
+wayback_snapshot_url: "http://web.archive.org/web/20190916044247/https://cfi.co/banking/2015/01/us-welcomed-at-davos-as-the-new-emerging-market/"
 content_sha256: b99dba6029202af153d38a183d176527f45b3c95eabd9db8ff033204f1130e40
 canonical: 8723-us-welcomed-at-davos-as-the-new-emerging-market.json
 ---
