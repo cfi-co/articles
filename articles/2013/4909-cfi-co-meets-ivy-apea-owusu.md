@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327090606
+wayback_snapshot_url: "http://web.archive.org/web/20140327090606/http://cfi.co/africa/2013/07/cfi-co-meets-ivy-apea-owusu/"
 content_sha256: 3308d545f69a6abb292226f1c27db9d9420e0d76d624c8d63b0ddac2a4d55853
 canonical: 4909-cfi-co-meets-ivy-apea-owusu.json
 ---
