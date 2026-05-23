@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140328053124
+wayback_snapshot_url: "http://web.archive.org/web/20140328053124/http://cfi.co/banking/2013/10/cfi-co-meets-michel-accad-a-qa-session-with-the-ceo-of-gulf-bank/"
 content_sha256: 82b9c53908b0efa85ecdea8cde27796ca5c1240538d2e8602163158f221bec49
 canonical: 5646-cfi-co-meets-michel-accad-a-qa-session-with-the-ceo-of-gulf-bank.json
 ---
