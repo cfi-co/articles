@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 5b6410e46c8307b9db5c7782809d9c0c3a4c85dfeafa0e26e185d288a7783469
 canonical: 26498-uaes-cop28-gathering-scores-some-initial-successes.json
 ---
