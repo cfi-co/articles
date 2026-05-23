@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200918134506
+wayback_snapshot_url: "http://web.archive.org/web/20200918134506/https://cfi.co/c-19/2020/08/interest-rate-hike-key-to-turkeys-economic-fortune/"
 content_sha256: ea20663fd984431fa88b98d59a7b4dc1a6ad0c6f6b28bdff71e18ca051524577
 canonical: 16454-interest-rate-hike-key-to-turkeys-economic-fortune.json
 ---
