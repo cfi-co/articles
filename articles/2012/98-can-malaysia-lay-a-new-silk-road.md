@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818133242
+wayback_snapshot_url: "http://web.archive.org/web/20190818133242/https://cfi.co/asia-pacific/2012/02/can-malaysia-lay-a-new-silk-road/"
 content_sha256: 13e9b5ae06c2d230958026f892a4583b846f7502500057b15cd8c4f49da85d67
 canonical: 98-can-malaysia-lay-a-new-silk-road.json
 ---
