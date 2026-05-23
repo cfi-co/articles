@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724022638
+wayback_snapshot_url: "http://web.archive.org/web/20210724022638/https://cfi.co/menu/corporate/2021/07/the-arab-petroleum-investments-corporation-apicorp-at-the-heart-of-the-arab-oil-producing-world/"
 content_sha256: b65227c664392c9296b6ce30726d0d9a99aa29dd6fcec04e8359bd200c5e37b5
 canonical: 19959-the-arab-petroleum-investments-corporation-apicorp-at-the-heart-of-the-arab-oil-.json
 ---
