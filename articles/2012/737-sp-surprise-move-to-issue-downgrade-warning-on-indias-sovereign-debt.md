@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132903
+wayback_snapshot_url: "http://web.archive.org/web/20190818132903/https://cfi.co/asia-pacific/2012/06/sp-surprise-move-to-issue-downgrade-warning-on-indias-sovereign-debt/"
 content_sha256: b21b4de03ae311dd8e3d1a4623a1a9e6416faf6cd0f52367a654f23497bc8584
 canonical: 737-sp-surprise-move-to-issue-downgrade-warning-on-indias-sovereign-debt.json
 ---
