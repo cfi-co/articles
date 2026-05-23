@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823045417
+wayback_snapshot_url: "http://web.archive.org/web/20190823045417/https://cfi.co/technology/2015/03/un-trade-report-calls-on-governments-to-improve-environment-for-e-commerce/"
 content_sha256: e963c810586c363071551de2de254b0428f2e2c6b9fa7ca1e0551e6c0a38bfa6
 canonical: 9589-un-trade-report-calls-on-governments-to-improve-environment-for-e-commerce.json
 ---
