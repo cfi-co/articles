@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720032500
+wayback_snapshot_url: "http://web.archive.org/web/20190720032500/https://cfi.co/asia-pacific/2014/02/ifc-ecom-training-helps-women-farmers-boost-income-productivity/"
 content_sha256: 74a77ad7b4fe6d41f630dcffd9b202f90548f9656fee5c729d9de91482d35df3
 canonical: 6599-ifc-ecom-training-helps-women-farmers-boost-income-productivity.json
 ---
