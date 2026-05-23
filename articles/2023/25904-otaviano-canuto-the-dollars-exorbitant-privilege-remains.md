@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230904031229
+wayback_snapshot_url: "http://web.archive.org/web/20230904031229/https://cfi.co/finance/2023/08/otaviano-canuto-the-dollars-exorbitant-privilege-remains/"
 content_sha256: 88f441e45a76f508b1b9d7a3ab2a3b7248fcca66d3f5fc39b4a6faa2c1d7fce6
 canonical: 25904-otaviano-canuto-the-dollars-exorbitant-privilege-remains.json
 ---
