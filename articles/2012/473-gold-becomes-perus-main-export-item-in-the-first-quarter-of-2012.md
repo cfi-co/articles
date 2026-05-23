@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050753
+wayback_snapshot_url: "http://web.archive.org/web/20190823050753/https://cfi.co/finance/2012/05/gold-becomes-perus-main-export-item-in-the-first-quarter-of-2012/"
 content_sha256: 9018f8365c931aa088816ae9d5a5c5fea7d1cb74b22dd08c478bbcc43a18d689
 canonical: 473-gold-becomes-perus-main-export-item-in-the-first-quarter-of-2012.json
 ---
