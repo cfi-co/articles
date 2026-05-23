@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724024605
+wayback_snapshot_url: "http://web.archive.org/web/20190724024605/https://cfi.co/asia-pacific/2013/02/frontier-asia-and-hopes-for-more-inclusive-growth/"
 content_sha256: 5841bb33e314c4f94ec3cef5f5ba6cd89a9d6bd5c930e931e02f3c7f7b6627d4
 canonical: 3050-frontier-asia-and-hopes-for-more-inclusive-growth.json
 ---
