@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132532
+wayback_snapshot_url: "http://web.archive.org/web/20190818132532/https://cfi.co/asia-pacific/2013/10/muhammad-yunus-enabling-the-poor-to-rise-and-prosper/"
 content_sha256: c114f9b9c029197f6fde3f59ddcc88b431109541d8b31c70fdbdd8a24bf10e45
 canonical: 5715-muhammad-yunus-enabling-the-poor-to-rise-and-prosper.json
 ---
