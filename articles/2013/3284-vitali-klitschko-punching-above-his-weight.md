@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140328205034
+wayback_snapshot_url: "http://web.archive.org/web/20140328205034/http://cfi.co/editors-picks/2013/03/vitali-klitschko-punching-above-his-weight/"
 content_sha256: 9e3615833b42553d8ce23b2313e4787555ef20349489cd38eec83a959e9f367e
 canonical: 3284-vitali-klitschko-punching-above-his-weight.json
 ---
