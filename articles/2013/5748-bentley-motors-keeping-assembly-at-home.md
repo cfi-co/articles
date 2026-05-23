@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 314b9be14c927c543b0c0ded337486eab401644f75d16574871bc8e489e39bd4
 canonical: 5748-bentley-motors-keeping-assembly-at-home.json
 ---
