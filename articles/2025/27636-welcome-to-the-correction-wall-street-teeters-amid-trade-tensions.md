@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250314130914
+wayback_snapshot_url: "http://web.archive.org/web/20250314130914/https://cfi.co/finance/2025/03/welcome-to-the-correction-wall-street-teeters-amid-trade-tensions/"
 content_sha256: b8eaa072ad672438948ecbfc73f0fd03a67ccfb4b7c8497f2e3b35d6ec4938df
 canonical: 27636-welcome-to-the-correction-wall-street-teeters-amid-trade-tensions.json
 ---
