@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201101011104
+wayback_snapshot_url: "http://web.archive.org/web/20201101011104/https://cfi.co/corporate-leaders/2020/10/ric-traynor-a-haven-of-last-resort-for-distressed-businesses/"
 content_sha256: 01f5d35ec53aa6cb82adf35dd93f38d22d3db88136e3d4dca961e714f5a976a6
 canonical: 17556-ric-traynor-a-haven-of-last-resort-for-distressed-businesses.json
 ---
