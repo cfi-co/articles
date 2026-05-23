@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190507120158
+wayback_snapshot_url: "http://web.archive.org/web/20190507120158/https://cfi.co/asia-pacific/2019/04/over-1700-projects-worth-usd-1tn-fall-under-chinas-ambitious-one-belt-one-road-initiative-obor/"
 content_sha256: 6e7776c05a873b88e1e374ce58f55c15e63cb9aaee8c8c9727fee2c971d29cb6
 canonical: 13485-over-1700-projects-worth-usd-1tn-fall-under-chinas-ambitious-one-belt-one-road-i.json
 ---
