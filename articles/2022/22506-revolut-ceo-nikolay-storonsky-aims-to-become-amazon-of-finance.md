@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220814193230
+wayback_snapshot_url: "http://web.archive.org/web/20220814193230/https://cfi.co/banking/2022/07/revolut-ceo-nikolay-storonsky-aims-to-become-amazon-of-finance/"
 content_sha256: ba0a63eb9de147c3f52b3226a2b62120c355303535697f14d5f8bac44a292be0
 canonical: 22506-revolut-ceo-nikolay-storonsky-aims-to-become-amazon-of-finance.json
 ---
