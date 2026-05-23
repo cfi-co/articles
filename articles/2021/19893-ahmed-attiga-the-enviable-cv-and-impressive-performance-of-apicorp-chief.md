@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724023159
+wayback_snapshot_url: "http://web.archive.org/web/20210724023159/https://cfi.co/menu/corporate/2021/07/ahmed-attiga-the-enviable-cv-and-impressive-performance-of-apicorp-chief/"
 content_sha256: 7ac12c2fc84dd30ebb424fb1a84e1199f6c8d82c8a1305f65aadd63d1ae90d03
 canonical: 19893-ahmed-attiga-the-enviable-cv-and-impressive-performance-of-apicorp-chief.json
 ---
