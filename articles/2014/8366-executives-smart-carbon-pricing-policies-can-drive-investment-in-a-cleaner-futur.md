@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190722122327
+wayback_snapshot_url: "http://web.archive.org/web/20190722122327/https://cfi.co/europe/2014/11/executives-smart-carbon-pricing-policies-can-drive-investment-in-a-cleaner-future/"
 content_sha256: 58f4e9eb639dc5a57c69ba789715765a173dbc6ce50c083ac3248ad3c26b3f88
 canonical: 8366-executives-smart-carbon-pricing-policies-can-drive-investment-in-a-cleaner-futur.json
 ---
