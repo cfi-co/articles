@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723005450
+wayback_snapshot_url: "http://web.archive.org/web/20190723005450/https://cfi.co/awards/europe/"
 content_sha256: 638e9775bdc2e69a892cdae84621fce89f7c94dc9075602cc2a7d63628093276
 canonical: 9332-nordea-asset-management-esg-award-winner-in-europe.json
 ---
