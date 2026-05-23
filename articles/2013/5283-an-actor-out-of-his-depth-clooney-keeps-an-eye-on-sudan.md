@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140827075233
+wayback_snapshot_url: "http://web.archive.org/web/20140827075233/http://cfi.co/africa/2013/09/an-actor-out-of-his-depth-clooney-keeps-an-eye-on-sudan/"
 content_sha256: 8f58ce93076c3490eb5ec1786df050b07f6f14f9b7bbbfcc5d57b3bead831075
 canonical: 5283-an-actor-out-of-his-depth-clooney-keeps-an-eye-on-sudan.json
 ---
