@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920113137
+wayback_snapshot_url: "http://web.archive.org/web/20210920113137/https://cfi.co/menu/corporate/2021/06/always-adapting-skilfully-to-change-bawag-group-strategy-brings-success-before-and-during-covid-year/"
 content_sha256: 988051263cb88715b073277556cdee06948577bfc1dc7575f6cecb6dbc911283
 canonical: 20029-always-adapting-skilfully-to-change-bawag-group-strategy-brings-success-before-a.json
 ---
