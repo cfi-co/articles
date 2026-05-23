@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720032448
+wayback_snapshot_url: "http://web.archive.org/web/20190720032448/https://cfi.co/africa/2018/02/the-local-climate-adaptive-living-facility-local-of-uncdf-climate-change-impacts-on-natural-and-human-systems/"
 content_sha256: 0b222969326fe18ef001814db3ec7e5c4745a82e40f29521dcbe185af82c7267
 canonical: 10185-the-local-climate-adaptive-living-facility-local-of-uncdf-climate-change-impacts.json
 ---
