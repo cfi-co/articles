@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211028143039
+wayback_snapshot_url: "http://web.archive.org/web/20211028143039/https://cfi.co/menu/corporate/2021/08/bank-one-supporting-mauritius-efforts-to-emerge-as-a-private-wealth-hub-for-africa/"
 content_sha256: 6c8272833e2822f853af1a7ed2dded74f56ebb1557ebb7b18664d67d4d535037
 canonical: 20374-bank-one-supporting-mauritius-efforts-to-emerge-as-a-private-wealth-hub-for-afri.json
 ---
