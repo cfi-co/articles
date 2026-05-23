@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207220736
+wayback_snapshot_url: "http://web.archive.org/web/20211207220736/https://cfi.co/menu/corporate/2021/08/platinum-groupe-shows-its-mettle-by-growing-in-line-with-its-clients/"
 content_sha256: c8aa4f23a59315578247d8d4c5fda748e9009593d10377b578c03ea103204c39
 canonical: 20385-platinum-groupe-shows-its-mettle-by-growing-in-line-with-its-clients.json
 ---
