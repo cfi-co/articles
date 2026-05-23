@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200927032236
+wayback_snapshot_url: "http://web.archive.org/web/20200927032236/https://cfi.co/asia-pacific/2020/05/lord-waverley-the-eaeu-is-an-alternative-to-the-eu-but-will-it-last/"
 content_sha256: 6101297d9857f51070fa59012a7d18ae80865cb7b46fd661534aa80ef7f826cd
 canonical: 16073-lord-waverley-the-eaeu-is-an-alternative-to-the-eu-but-will-it-last.json
 ---
