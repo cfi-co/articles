@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250209170648
+wayback_snapshot_url: "http://web.archive.org/web/20250209170648/https://cfi.co/lifestyle/2024/12/the-booming-second-hand-economy-platforms-like-wallapop-and-vinted-transforming-markets/"
 content_sha256: 371867716d83648cc8d03a955f394b368782e5be5834f141de6e0f396546abce
 canonical: 27360-the-booming-second-hand-economy-platforms-like-wallapop-and-vinted-transforming-.json
 ---
