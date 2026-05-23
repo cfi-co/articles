@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923173601
+wayback_snapshot_url: "http://web.archive.org/web/20230923173601/https://cfi.co/menu/corporate/2022/12/iding-pardi-has-strategies-ready-for-future-of-idclear/"
 content_sha256: 810ed56110bf1312ffd0d51318b4e771bac5e246cb967b9208afa65e5edc60a0
 canonical: 24201-idclear-captain-has-strategies-ready-for-future-of-company.json
 ---
