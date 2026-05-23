@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140705174625
+wayback_snapshot_url: "http://web.archive.org/web/20140705174625/http://cfi.co/finance/2014/02/peter-macnee-ifc-helps-virgin-mobile-find-untapped-demographic/"
 content_sha256: fa979ce6a1bf3567376241c3b7a3dceb7dff09b8ec687c796bdb686a8366e441
 canonical: 6587-peter-macnee-ifc-helps-virgin-mobile-find-untapped-demographic.json
 ---
