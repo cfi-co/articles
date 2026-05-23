@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207213944
+wayback_snapshot_url: "http://web.archive.org/web/20211207213944/https://cfi.co/menu/corporate/2021/11/emerging-market-debt-has-promise-that-goldentree-understands-and-harnesses-even-in-trying-times/"
 content_sha256: 34b6b81fad6d9e51bc3cf3b510b455dbf7e5de11affb00764a47dc572d99ced4
 canonical: 21045-emerging-market-debt-has-promise-that-goldentree-understands-and-harnesses-even-.json
 ---
