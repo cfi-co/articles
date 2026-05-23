@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422025927
+wayback_snapshot_url: "http://web.archive.org/web/20210422025927/https://cfi.co/technology/2020/11/tech-stocks-under-assault-investors-depart/"
 content_sha256: 273c7eb511b6992a6babaf38899ebb4210846298b62510ee2de722cdc35a2263
 canonical: 17873-tech-stocks-under-assault-investors-depart.json
 ---
