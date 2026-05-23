@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 027315cd31684303272c1c47f0486d3b5446add83479db3fbe2b9650d873bf23
 canonical: 21181-swiss-precision-african-spirit-brahms-groups-daouda-fall-has-found-the-perfect-b.json
 ---
