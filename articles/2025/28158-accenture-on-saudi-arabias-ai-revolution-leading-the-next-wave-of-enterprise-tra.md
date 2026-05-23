@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260103192133
+wayback_snapshot_url: "http://web.archive.org/web/20260103192133/https://cfi.co/middleeast/2025/12/accenture-on-saudi-arabias-ai-revolution-leading-the-next-wave-of-enterprise-transformation/"
 content_sha256: a0eee3b382853bfc0bd7c75cb83592efd8a88b762c6139a34ea8e37327f9baf1
 canonical: 28158-accenture-on-saudi-arabias-ai-revolution-leading-the-next-wave-of-enterprise-tra.json
 ---
