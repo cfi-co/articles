@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200920112044
+wayback_snapshot_url: "http://web.archive.org/web/20200920112044/https://cfi.co/europe/2020/08/how-will-the-pandemic-impact-pay-equity-within-the-finance-industry/"
 content_sha256: 352a3d81ba2400bf17ec0af06d52f4b6741667781a8d94d758f5d0284af8aa61
 canonical: 16632-how-will-the-pandemic-impact-pay-equity-within-the-finance-industry.json
 ---
