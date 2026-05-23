@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210629080234
+wayback_snapshot_url: "http://web.archive.org/web/20210629080234/https://cfi.co/sustainability/2021/06/evan-harvey-nasdaq-spacs-and-esg-convergence-or-collision/"
 content_sha256: a72ddf8871baa578010287e8cc90992629be0e3cc32987b0ee2e39476fdb314c
 canonical: 20072-evan-harvey-nasdaq-spacs-and-esg-convergence-or-collision.json
 ---
