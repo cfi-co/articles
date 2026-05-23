@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923183706
+wayback_snapshot_url: "http://web.archive.org/web/20230923183706/https://cfi.co/lifestyle/2018/02/blue-lagoon-an-otherworldly-experience/"
 content_sha256: b396820ad7cde9ad777882b57dbf24664420abedd7aed3eb173a77b38705489b
 canonical: 26046-blue-lagoon-an-otherworldly-experience.json
 ---
