@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717212107
+wayback_snapshot_url: "http://web.archive.org/web/20190717212107/https://cfi.co/projects/2019/01/ann-low-us-department-state-go-green-2019-make-business-registration-easy-everywhere-2019/"
 content_sha256: e08679c9486d67fff4473eb15fb571daff2759e946d8a05174b258919cbadd68
 canonical: 11149-ann-low-us-department-state-go-green-2019-make-business-registration-easy-everyw.json
 ---
