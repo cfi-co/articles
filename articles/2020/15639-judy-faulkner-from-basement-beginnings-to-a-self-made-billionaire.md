@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200624222814
+wayback_snapshot_url: "http://web.archive.org/web/20200624222814/https://cfi.co/editors-picks/2020/06/judy-faulkner-from-basement-beginnings-to-a-self-made-billionaire/"
 content_sha256: ec1b4dd56c2aca6fe001e0148b97362f99e47586360da9782a317e384147b40c
 canonical: 15639-judy-faulkner-from-basement-beginnings-to-a-self-made-billionaire.json
 ---
