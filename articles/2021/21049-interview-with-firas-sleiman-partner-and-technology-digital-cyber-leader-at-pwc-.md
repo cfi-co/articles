@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211110063734
+wayback_snapshot_url: "http://web.archive.org/web/20211110063734/https://cfi.co/middleeast/2021/11/interview-with-firas-sleiman-partner-and-technology-digital-cyber-leader-at-pwc-in-qatar-digital-leadership/"
 content_sha256: 40a9567edcd8fb2c06eb32644192166cb4d8046779d99cdcd6e48d5eb8bf642b
 canonical: 21049-interview-with-firas-sleiman-partner-and-technology-digital-cyber-leader-at-pwc-.json
 ---
