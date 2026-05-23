@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422030009
+wayback_snapshot_url: "http://web.archive.org/web/20210422030009/https://cfi.co/menu/corporate/2021/02/kommunalkredit-the-importance-of-sustainable-infrastructure-increasingly-vital-during-these-challenging-times/"
 content_sha256: a0c0ca5f1bc220000f05848b6d438e0ca7c7444e14d0e47e44657837df2aac58
 canonical: 18649-kommunalkredit-the-importance-of-sustainable-infrastructure-increasingly-vital-d.json
 ---
