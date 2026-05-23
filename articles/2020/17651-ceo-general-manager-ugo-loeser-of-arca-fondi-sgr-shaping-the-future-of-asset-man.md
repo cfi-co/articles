@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625223304
+wayback_snapshot_url: "http://web.archive.org/web/20220625223304/https://cfi.co/corporate-leaders/2020/10/ceo-general-manager-ugo-loeser-of-arca-fondi-sgr-shaping-the-future-of-asset-management-with-history-of-experience-and-reliability/"
 content_sha256: 5ff53b0a44c23647493b81780dcf651a25ffeaf85646e71f6175cc2dd9f2548c
 canonical: 17651-ceo-general-manager-ugo-loeser-of-arca-fondi-sgr-shaping-the-future-of-asset-man.json
 ---
