@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240625223222
+wayback_snapshot_url: "http://web.archive.org/web/20240625223222/https://cfi.co/northamerica/2023/11/federal-realty-keeps-the-faith-in-traditional-industry-wisdom-but-adds-emphasis-to-eco-issues/"
 content_sha256: b02c9c2785897f801ad898533c155d6564cc59a1084839c846da782a665b3eb4
 canonical: 26395-federal-realty-keeps-the-faith-in-traditional-industry-wisdom-but-adds-emphasis-.json
 ---
