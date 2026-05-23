@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20131002182800
+wayback_snapshot_url: "http://web.archive.org/web/20131002182800/http://cfi.co/editors-picks/2013/03/nigerias-ngozi-okonjo-iweala-fearless-opponent-of-corruption/"
 content_sha256: e8208d6294964aa58a6248c39afdf2589e5884f0ed2d57e7acf61ee0743b16dd
 canonical: 3183-nigerias-ngozi-okonjo-iweala-fearless-opponent-of-corruption.json
 ---
