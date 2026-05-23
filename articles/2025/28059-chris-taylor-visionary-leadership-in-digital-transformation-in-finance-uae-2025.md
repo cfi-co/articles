@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251205235918
+wayback_snapshot_url: "http://web.archive.org/web/20251205235918/https://cfi.co/corporate-leaders/2025/11/chris-taylor-visionary-leadership-in-digital-transformation-in-finance-uae-2025/"
 content_sha256: 928d8f70253385f8d8bd0293a8cd5eaeea1e676cfd6618f548df845ee08b512b
 canonical: 28059-chris-taylor-visionary-leadership-in-digital-transformation-in-finance-uae-2025.json
 ---
