@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200919211600
+wayback_snapshot_url: "http://web.archive.org/web/20200919211600/https://cfi.co/europe/2020/09/womens-brain-project-on-covid-19-sex-and-gender-differences-paving-the-way-for-precision-medicine/"
 content_sha256: b2700e21b52d383e1b7ba49b30b5fcc3924e04ad88242a6ec220e917691f915c
 canonical: 16825-womens-brain-project-on-covid-19-sex-and-gender-differences-paving-the-way-for-p.json
 ---
