@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422023151
+wayback_snapshot_url: "http://web.archive.org/web/20210422023151/https://cfi.co/corporate-leaders/2020/07/bilal-adhami-ceo-fidelity-united-a-company-that-is-there-for-its-clients/"
 content_sha256: ea93caa32a5d01f008552cfaa35833011d4f223ce510d7010c98800ea9e10906
 canonical: 15916-bilal-adhami-ceo-fidelity-united-a-company-that-is-there-for-its-clients.json
 ---
