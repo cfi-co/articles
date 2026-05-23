@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230403154228
+wayback_snapshot_url: "http://web.archive.org/web/20230403154228/https://cfi.co/banking/2023/04/paolo-sironi-ibm-creating-digital-advantage-for-uncertain-times/"
 content_sha256: 0a6018ff13f59160c1870b1f1dc67b831c2d53481e080162dfb7c403e42f15b4
 canonical: 25057-paolo-sironi-ibm-creating-digital-advantage-for-uncertain-times.json
 ---
