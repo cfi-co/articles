@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050317
+wayback_snapshot_url: "http://web.archive.org/web/20190823050317/https://cfi.co/europe/2013/02/merkel-convergence-in-competitiveness-across-the-eu/"
 content_sha256: 84472bf89741d384dca01d536b07d206998cd614ac196bb6cb45dcdf5ad1d428
 canonical: 3042-merkel-convergence-in-competitiveness-across-the-eu.json
 ---
