@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 49fc214d5965e778d85737768b0ea95482f8a3d9b00e3ff9aafe0699875bbcb9
 canonical: 27097-continued-improvement-and-resilience-the-path-to-banking-success-and-a-strong-re.json
 ---
