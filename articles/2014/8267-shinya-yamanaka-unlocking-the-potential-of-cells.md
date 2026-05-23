@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825094532
+wayback_snapshot_url: "http://web.archive.org/web/20190825094532/https://cfi.co/asia-pacific/2014/10/shinya-yamanaka-unlocking-the-potential-of-cells/"
 content_sha256: 9ee3ed34f527762e42fc0d56095f76c477863535ab8dc3d3e0a5b11a8f7b41d2
 canonical: 8267-shinya-yamanaka-unlocking-the-potential-of-cells.json
 ---
