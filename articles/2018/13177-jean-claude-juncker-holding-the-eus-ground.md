@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200921063958
+wayback_snapshot_url: "http://web.archive.org/web/20200921063958/https://cfi.co/editors-picks/2018/09/jean-claude-juncker-holding-the-eus-ground/"
 content_sha256: 5424c42a0937a3756b7300dc910e7eb6e6d3136a701a39e882bf419d22eadde0
 canonical: 13177-jean-claude-juncker-holding-the-eus-ground.json
 ---
