@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230225152526
+wayback_snapshot_url: "http://web.archive.org/web/20230225152526/https://cfi.co/brave-new-world/2023/02/death-to-debt-the-people-and-organisations-saying-no-to-owe-and-picking-up-the-tab-for-us/"
 content_sha256: f05ed570c4d8610c1c7693c819f41f764219564225b41f75bac2b5b1b0a3f61e
 canonical: 24775-death-to-debt-the-people-and-organisations-saying-no-to-owe-and-picking-up-the-t.json
 ---
