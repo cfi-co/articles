@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190725015501
+wayback_snapshot_url: "http://web.archive.org/web/20190725015501/https://cfi.co/finance/2019/07/uncdf-revolutionising-international-municipal-finance-is-focus-of-bid-to-tackle-climate-change-and-open-global-markets/"
 content_sha256: eb4a14c1811e701de8b069af4276cf0a28e7d2b8b1ebad8aeae6c41ed09aad23
 canonical: 13744-uncdf-revolutionising-international-municipal-finance-is-focus-of-bid-to-tackle-.json
 ---
