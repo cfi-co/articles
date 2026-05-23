@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190923113856
+wayback_snapshot_url: "http://web.archive.org/web/20190923113856/https://cfi.co/banking/2019/09/malpass-shows-pragmatism-and-relevant-smarts-in-his-new-role/"
 content_sha256: aa8b35bfb1c8dfaf9fd9fd24d2f880b60258609de1ee684f182c610f18e8d58e
 canonical: 13995-malpass-shows-pragmatism-and-relevant-smarts-in-his-new-role.json
 ---
