@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050802
+wayback_snapshot_url: "http://web.archive.org/web/20190818050802/https://cfi.co/europe/2014/07/european-policy-centre-on-financial-transaction-tax-ftt-why-the-eu-needs-the-ftt-but-the-ftt-does-not-need-the-eu/"
 content_sha256: a9db0a1f019f2a291b8422d6bce47a832e5742fa3146584d2fbacd71a711f1f9
 canonical: 7623-european-policy-centre-on-financial-transaction-tax-ftt-why-the-eu-needs-the-ftt.json
 ---
