@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230517085906
+wayback_snapshot_url: "http://web.archive.org/web/20230517085906/https://cfi.co/sustainability/2023/05/oecd-sustainable-development-and-climate-change-require-more-than-just-money/"
 content_sha256: fc71a19e09609ea5a97a97298331c3d07fb3d41b992a462b1146848034407419
 canonical: 25432-oecd-sustainable-development-and-climate-change-require-more-than-just-money.json
 ---
