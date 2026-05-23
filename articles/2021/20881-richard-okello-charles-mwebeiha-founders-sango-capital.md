@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220815155438
+wayback_snapshot_url: "http://web.archive.org/web/20220815155438/https://cfi.co/menu/corporate/2021/10/richard-okello-charles-mwebeiha-founders-sango-capital/"
 content_sha256: bc549ebe5ea25b967c715fcbd40a5641190c435de925b8e6f125942d8746867e
 canonical: 20881-richard-okello-charles-mwebeiha-founders-sango-capital.json
 ---
