@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220528102716
+wayback_snapshot_url: "http://web.archive.org/web/20220528102716/https://cfi.co/menu/corporate/2022/05/applied-science-private-university-asu-forging-its-own-path-and-earning-global-respect-jordans-pioneer-in-world-of-private-universities/"
 content_sha256: 6e08f9a65f1fbd2ea040b4569c8522a6d65c92496b0450ef8af71cb1d35a952f
 canonical: 21804-applied-science-private-university-asu-forging-its-own-path-and-earning-global-r.json
 ---
