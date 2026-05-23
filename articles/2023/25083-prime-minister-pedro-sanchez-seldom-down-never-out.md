@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230414103244
+wayback_snapshot_url: "http://web.archive.org/web/20230414103244/https://cfi.co/brave-new-world/2023/04/prime-minister-pedro-sanchez-seldom-down-never-out/"
 content_sha256: 07d0d32df10c05b0ddacf5d554908393a274ae64b0f831c787ceca889882dd23
 canonical: 25083-prime-minister-pedro-sanchez-seldom-down-never-out.json
 ---
