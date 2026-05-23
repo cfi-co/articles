@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200414035031
+wayback_snapshot_url: "http://web.archive.org/web/20200414035031/https://cfi.co/middleeast/2019/12/the-worlds-biggest-industrial-investment-opportunities/"
 content_sha256: 48ba917ae2c66863aa44e5f6302fa7a8a7c93430478708aea8ca1dbabc6ca155
 canonical: 14484-the-worlds-biggest-industrial-investment-opportunities.json
 ---
