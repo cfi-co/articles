@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210819231841
+wayback_snapshot_url: "http://web.archive.org/web/20210819231841/https://cfi.co/menu/governance-legal/2021/08/ey-argentinas-need-for-tax-reforms-and-how-they-could-be-achieved/"
 content_sha256: 2b6fbd574591993772d9630e97e13a3e472398624e0c197efaaa46211ae61706
 canonical: 20492-ey-argentinas-need-for-tax-reforms-and-how-they-could-be-achieved.json
 ---
