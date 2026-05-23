@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916044014
+wayback_snapshot_url: "http://web.archive.org/web/20190916044014/https://cfi.co/europe/2015/01/mamta-murthi-world-bank-to-help-poland-resolve-the-robin-hood-tax-issue/"
 content_sha256: 2d8c8aeae48a9715641e4c295266989e6ed9d7159b924ddb974290dd73f9def4
 canonical: 8612-mamta-murthi-world-bank-to-help-poland-resolve-the-robin-hood-tax-issue.json
 ---
