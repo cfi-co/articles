@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916085508
+wayback_snapshot_url: "http://web.archive.org/web/20190916085508/https://cfi.co/editors-picks/2012/12/suu-kyi-and-hopes-for-a-new-burma/"
 content_sha256: b9dd655588ea12b503d8ad3920d3abe1de04e4600a09e7d238fbc611d5fc20ed
 canonical: 2829-suu-kyi-and-hopes-for-a-new-burma.json
 ---
