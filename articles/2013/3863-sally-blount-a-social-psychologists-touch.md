@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724024432
+wayback_snapshot_url: "http://web.archive.org/web/20190724024432/https://cfi.co/northamerica/2013/05/sally-blount-a-social-psychologists-touch/"
 content_sha256: 3c711e981ce8333d8d048da9a4b403724c8f8b2b662565e85db6d0012d0fb3dd
 canonical: 3863-sally-blount-a-social-psychologists-touch.json
 ---
