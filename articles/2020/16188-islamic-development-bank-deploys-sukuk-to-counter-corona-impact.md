@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813171443
+wayback_snapshot_url: "http://web.archive.org/web/20200813171443/https://cfi.co/middleeast/2020/07/islamic-development-bank-deploys-sukuk-to-counter-corona-impact/"
 content_sha256: edccae3ac88f2bd7e94574463d4719eefd1f84ad2b64a711728071215eab015a
 canonical: 16188-islamic-development-bank-deploys-sukuk-to-counter-corona-impact.json
 ---
