@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201201111656
+wayback_snapshot_url: "http://web.archive.org/web/20201201111656/https://cfi.co/finance/2020/12/ey-threats-and-opportunities-in-a-post-covid-19-economic-context/"
 content_sha256: b6eb8b01434e15867b8848dc4d2c1d743426e02f9aa0229b895ff50db969ba55
 canonical: 18160-ey-threats-and-opportunities-in-a-post-covid-19-economic-context.json
 ---
