@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190721110615
+wayback_snapshot_url: "http://web.archive.org/web/20190721110615/https://cfi.co/asia-pacific/2019/01/financial-centres-promote-economic-development-aifc-goes-for-growth-by-backing-smes-globally/"
 content_sha256: 81f4511b12665bbc3df0d63e2be19e1f0525608ca94dbe3f00a04c67d24626a4
 canonical: 13308-financial-centres-promote-economic-development-aifc-goes-for-growth-by-backing-s.json
 ---
