@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221114143238
+wayback_snapshot_url: "http://web.archive.org/web/20221114143238/https://cfi.co/europe/2022/11/gender-holds-secrets-for-effective-treatments/"
 content_sha256: 5ea47ee9a118e3510e1f0fda958b6ed71bfb700744909a8aff23920cd26d9d56
 canonical: 23990-gender-holds-secrets-for-effective-treatments.json
 ---
