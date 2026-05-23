@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603021749
+wayback_snapshot_url: "http://web.archive.org/web/20230603021749/https://cfi.co/africa/2023/04/lagos-business-school-mba-promotes-high-values"
 content_sha256: c093b1a7ab1d20a4334bf804b03a9154e2e5a9e361a50f888b9df0c9b9207d83
 canonical: 25094-community-commitment-christian-values-and-a-sincere-desire-to-be-true-to-modern-.json
 ---
