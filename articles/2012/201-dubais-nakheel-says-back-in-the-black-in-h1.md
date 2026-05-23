@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724024230
+wayback_snapshot_url: "http://web.archive.org/web/20190724024230/https://cfi.co/finance/2012/03/dubais-nakheel-says-back-in-the-black-in-h1/"
 content_sha256: c25dd5fe6444a21a6b2aeeb6ad5330e2a5e14567e4739b781fbf991fec39e907
 canonical: 201-dubais-nakheel-says-back-in-the-black-in-h1.json
 ---
