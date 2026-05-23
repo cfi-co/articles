@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327045401
+wayback_snapshot_url: "http://web.archive.org/web/20140327045401/http://cfi.co/latinamerica/2012/07/brazils-world-cup-host-cities-will-have-additional-funds-for-investing-in-tourist-infrastructure/"
 content_sha256: 10c5338c3c30bdbec8b060aaf68ceef86691c895d344f9f677dca38206fc1100
 canonical: 1163-brazils-world-cup-host-cities-will-have-additional-funds-for-investing-in-touris.json
 ---
