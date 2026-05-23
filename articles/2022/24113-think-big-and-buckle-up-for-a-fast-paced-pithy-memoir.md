@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221201100015
+wayback_snapshot_url: "http://web.archive.org/web/20221201100015/https://cfi.co/menu/reviews/2022/12/think-big-and-buckle-up-for-a-fast-paced-pithy-memoir/"
 content_sha256: d0e8a1bfd48e8cdffbd35143160ddfe9d7a08cd4d9ae7491987a3ea9730cddf0
 canonical: 24113-think-big-and-buckle-up-for-a-fast-paced-pithy-memoir.json
 ---
