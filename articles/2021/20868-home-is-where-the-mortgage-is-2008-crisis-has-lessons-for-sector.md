@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: f7827177ef5c23c2ff8655ee3d804a2c8d1d7b6009cf8feaa02ceef4a7da20dc
 canonical: 20868-home-is-where-the-mortgage-is-2008-crisis-has-lessons-for-sector.json
 ---
