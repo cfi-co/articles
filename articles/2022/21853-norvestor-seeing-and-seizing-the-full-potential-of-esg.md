@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220617182018
+wayback_snapshot_url: "http://web.archive.org/web/20220617182018/https://cfi.co/menu/corporate/2022/05/norvestor-seeing-and-seizing-the-full-potential-of-esg/"
 content_sha256: e6cb98c492c0246d33f6e7a921d9574e1beebc8a18cc60a4ecf7e7dfc9513894
 canonical: 21853-norvestor-seeing-and-seizing-the-full-potential-of-esg.json
 ---
