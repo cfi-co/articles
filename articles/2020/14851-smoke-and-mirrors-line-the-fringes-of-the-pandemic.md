@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200506074955
+wayback_snapshot_url: "http://web.archive.org/web/20200506074955/https://cfi.co/c-19/2020/04/smoke-and-mirrors-line-the-fringes-of-the-pandemic/"
 content_sha256: 80cae43e1133a1aaac9fe2a489b24e4db54754223fcb377f1bc8a4a8b0397e7c
 canonical: 14851-smoke-and-mirrors-line-the-fringes-of-the-pandemic.json
 ---
