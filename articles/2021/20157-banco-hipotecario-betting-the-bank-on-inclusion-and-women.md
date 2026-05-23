@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920110903
+wayback_snapshot_url: "http://web.archive.org/web/20210920110903/https://cfi.co/menu/corporate/2021/07/banco-hipotecario-betting-the-bank-on-inclusion-and-women/"
 content_sha256: da8350efafce02550609d2818a17116422b44b6ed61d2178b2b99b17a8302947
 canonical: 20157-banco-hipotecario-betting-the-bank-on-inclusion-and-women.json
 ---
