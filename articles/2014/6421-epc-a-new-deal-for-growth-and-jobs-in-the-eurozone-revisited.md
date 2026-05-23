@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140209020230
+wayback_snapshot_url: "http://web.archive.org/web/20140209020230/http://cfi.co/europe/2014/01/epc-a-new-deal-for-growth-and-jobs-in-the-eurozone-revisited/"
 content_sha256: 02e50d87ab2d1cf474ee8d334d67db3b47428269b1a3a659270575240ece24c5
 canonical: 6421-epc-a-new-deal-for-growth-and-jobs-in-the-eurozone-revisited.json
 ---
