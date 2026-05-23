@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190722123705
+wayback_snapshot_url: "http://web.archive.org/web/20190722123705/https://cfi.co/finance/2014/11/university-of-chicago-booth-school-of-business-questioning-the-economic-effects-of-a-booming-real-estate-market/"
 content_sha256: 0bea896442b0edc6afb233ae02ece5c8521840d2c527fc08eeb85a66aa78d7d0
 canonical: 8342-university-of-chicago-booth-school-of-business-questioning-the-economic-effects-.json
 ---
