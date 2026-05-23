@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200925201452
+wayback_snapshot_url: "http://web.archive.org/web/20200925201452/https://cfi.co/c-19/2020/07/global-markets-stall-as-future-remains-uncertain/"
 content_sha256: e32ff445f0dab40432d71a0a539b80e071dc37524a1c9c21b55a3291f629f12c
 canonical: 16288-global-markets-stall-as-future-remains-uncertain.json
 ---
