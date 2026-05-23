@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818053154
+wayback_snapshot_url: "http://web.archive.org/web/20190818053154/https://cfi.co/asia-pacific/2014/11/how-thailands-solar-power-visionary-built-an-industry-with-a-boost-from-ifc/"
 content_sha256: 5c61a11495541e9613d8c0b8591c8bddff9351f9dd94f549c2ecd8a5b548a37f
 canonical: 8438-how-thailands-solar-power-visionary-built-an-industry-with-a-boost-from-ifc.json
 ---
