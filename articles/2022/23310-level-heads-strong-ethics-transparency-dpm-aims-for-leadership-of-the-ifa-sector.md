@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221207231333
+wayback_snapshot_url: "http://web.archive.org/web/20221207231333/https://cfi.co/menu/corporate/2022/09/level-heads-strong-ethics-transparency-dpm-finanzas-aims-for-leadership-of-the-ifa-sector/"
 content_sha256: 9e6e8227b3745d33236d3d44a60ee3100d08bee464656d53662c14a0b3607784
 canonical: 23310-level-heads-strong-ethics-transparency-dpm-aims-for-leadership-of-the-ifa-sector.json
 ---
