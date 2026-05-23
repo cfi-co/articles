@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190923113956
+wayback_snapshot_url: "http://web.archive.org/web/20190923113956/https://cfi.co/finance/2019/09/mohamed-a-el-erian-americas-unusual-recovery-is-now-also-its-longest/"
 content_sha256: 4aacd3066e53e9fed592961ac79280d5cfe093f0ade807be60e70c20964f41e7
 canonical: 13987-mohamed-a-el-erian-americas-unusual-recovery-is-now-also-its-longest.json
 ---
