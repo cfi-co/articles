@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221111144923
+wayback_snapshot_url: "http://web.archive.org/web/20221111144923/https://cfi.co/menu/corporate/2022/11/shifting-market-drivers-a-moving-target-requires-a-comprehensive-focus/"
 content_sha256: a021582b72a3433fa333548b953682708cd6086104c611c72028ed9ca8aa738d
 canonical: 23107-shifting-market-drivers-a-moving-target-requires-a-comprehensive-focus.json
 ---
