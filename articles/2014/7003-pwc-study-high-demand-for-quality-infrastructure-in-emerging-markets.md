@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916043528
+wayback_snapshot_url: "http://web.archive.org/web/20190916043528/https://cfi.co/asia-pacific/2014/04/pwc-study-high-demand-for-quality-infrastructure-in-emerging-markets/"
 content_sha256: ce5a51337562c7f845bdb40cdd549c25b7e9f3e1293b0292bdc5b828c754fab0
 canonical: 7003-pwc-study-high-demand-for-quality-infrastructure-in-emerging-markets.json
 ---
