@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140327062054
+wayback_snapshot_url: "http://web.archive.org/web/20140327062054/http://cfi.co/europe/2013/12/sir-david-frost-well-done-frostie-playing-nice-in-the-quest-for-the-truth/"
 content_sha256: 34d451f0d2ea5c1653180ace2165a987fa289e05a19a1eddf09e413dfd5063f4
 canonical: 6242-sir-david-frost-well-done-frostie-playing-nice-in-the-quest-for-the-truth.json
 ---
