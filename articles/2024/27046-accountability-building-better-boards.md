@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240911192855
+wayback_snapshot_url: "http://web.archive.org/web/20240911192855/https://cfi.co/northamerica/2024/08/accountability-building-better-boards/"
 content_sha256: 4b3fa2daa8e53b005053f525dae46ea26548dfd70b40ee786ae04cd773272af3
 canonical: 27046-accountability-building-better-boards.json
 ---
