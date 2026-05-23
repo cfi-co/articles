@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050205
+wayback_snapshot_url: "http://web.archive.org/web/20190823050205/https://cfi.co/banking/2012/12/imf-mission-reports-positive-developments-in-georgia/"
 content_sha256: fdda1162fab5f4b9d33f750efb2989f5f23c7cf7d96f04e4c8f0b38958361a31
 canonical: 2809-imf-mission-reports-positive-developments-in-georgia.json
 ---
