@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625235414
+wayback_snapshot_url: "http://web.archive.org/web/20220625235414/https://cfi.co/banking/2022/05/qnb-alahli-covering-all-of-a-countrys-financial-needs-but-never-losing-that-personal-touch/"
 content_sha256: 81e5ab570143d191e6a52c5c1b0433182da7695b55a000e5ef6fdd2596d57c87
 canonical: 22048-qnb-alahli-covering-all-of-a-countrys-financial-needs-but-never-losing-that-pers.json
 ---
