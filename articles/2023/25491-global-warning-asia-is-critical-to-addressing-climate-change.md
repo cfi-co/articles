@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230602185041
+wayback_snapshot_url: "http://web.archive.org/web/20230602185041/https://cfi.co/brave-new-world/2023/06/global-warning-asia-is-critical-to-addressing-climate-change/"
 content_sha256: 7067bc7c2e0b30f4e2e11bf86e952a6ca47c90ac4cf8efda6dda09194256b90b
 canonical: 25491-global-warning-asia-is-critical-to-addressing-climate-change.json
 ---
