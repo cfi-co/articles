@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720183828
+wayback_snapshot_url: "http://web.archive.org/web/20190720183828/https://cfi.co/africa/2011/12/cfi-political-diary-for-emerging-markets-for-2012/"
 content_sha256: 9f61990f36bff99dfb577ba041774da49df53d18ca63dc407c5f6ad97740dfbb
 canonical: 124-cfi-political-diary-for-emerging-markets-for-2012.json
 ---
