@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923174611
+wayback_snapshot_url: "http://web.archive.org/web/20230923174611/https://cfi.co/europe/2022/01/esg-principles-inform-everything-we-do-says-founder-of-aum-asset-management-jean-francois-de-clermont-tonnerre/"
 content_sha256: c298eedb439323295ff90dd64a4eca3ce23864d7ee1cdf16d457a9f60bcfd10d
 canonical: 21475-esg-principles-inform-everything-we-do-says-founder-of-aum-asset-management-jean.json
 ---
