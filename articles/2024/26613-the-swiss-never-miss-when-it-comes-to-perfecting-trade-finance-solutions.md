@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240225151410
+wayback_snapshot_url: "http://web.archive.org/web/20240225151410/https://cfi.co/europe/2024/01/the-swiss-never-miss-when-it-comes-to-perfecting-trade-finance-solutions/"
 content_sha256: 0860c9de97a2f892fa3960e9a073879ab9b0d7e5a7c16ed11637fc9bf23b8829
 canonical: 26613-the-swiss-never-miss-when-it-comes-to-perfecting-trade-finance-solutions.json
 ---
