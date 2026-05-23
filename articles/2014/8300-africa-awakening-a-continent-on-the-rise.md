@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825100431
+wayback_snapshot_url: "http://web.archive.org/web/20190825100431/https://cfi.co/africa/2014/10/africa-awakening-a-continent-on-the-rise/"
 content_sha256: 84ca6b4a30230c1b4d2837bc6463fedee6bf8c20878dac054c92bb2d9ffa6fa8
 canonical: 8300-africa-awakening-a-continent-on-the-rise.json
 ---
