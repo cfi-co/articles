@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228103353
+wayback_snapshot_url: "http://web.archive.org/web/20210228103353/https://cfi.co/northamerica/2020/11/corporate-america-weighing-its-options-drifting-towards-biden/"
 content_sha256: 6c6edee0f2dbc4d20ac76607ef14ba7a955846701f7693e9c07a1431041257f5
 canonical: 17718-corporate-america-weighing-its-options-drifting-towards-biden.json
 ---
