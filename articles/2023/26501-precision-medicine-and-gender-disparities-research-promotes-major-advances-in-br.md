@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231221221606
+wayback_snapshot_url: "http://web.archive.org/web/20231221221606/https://cfi.co/europe/2023/12/precision-medicine-and-gender-disparities-research-promotes-major-advances-in-brain-health/"
 content_sha256: c09ade86b8ad549383ad86c5d8122726674a34c0baf55d4700ae4385cd8f8573
 canonical: 26501-precision-medicine-and-gender-disparities-research-promotes-major-advances-in-br.json
 ---
