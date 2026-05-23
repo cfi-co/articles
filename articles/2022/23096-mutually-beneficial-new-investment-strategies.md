@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221208003139
+wayback_snapshot_url: "http://web.archive.org/web/20221208003139/https://cfi.co/menu/corporate/2022/08/mutually-beneficial-new-investment-strategies/"
 content_sha256: a2b4ce9d6b1c5ebe564ee91c7a65e43badac38f3a1dccc9011f8fe12affecf40
 canonical: 23096-mutually-beneficial-new-investment-strategies.json
 ---
