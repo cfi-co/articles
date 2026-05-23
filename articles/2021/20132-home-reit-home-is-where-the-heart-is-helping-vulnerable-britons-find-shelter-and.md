@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920102128
+wayback_snapshot_url: "http://web.archive.org/web/20210920102128/https://cfi.co/menu/corporate/2021/07/home-reit-home-is-where-the-heart-is-helping-vulnerable-britons-find-shelter-and-a-future/"
 content_sha256: 8fed2145fa6f877fa5936ee8d7e43b07143f434c39d0bca73d0c345190aa3927
 canonical: 20132-home-reit-home-is-where-the-heart-is-helping-vulnerable-britons-find-shelter-and.json
 ---
