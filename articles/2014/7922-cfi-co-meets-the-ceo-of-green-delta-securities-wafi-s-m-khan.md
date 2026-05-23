@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 24b8932a7d2e56f07e7b599197baf01af5abb8944a621d2b1fc0f5c09f0ee74c
 canonical: 7922-cfi-co-meets-the-ceo-of-green-delta-securities-wafi-s-m-khan.json
 ---
