@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251014100123
+wayback_snapshot_url: "http://web.archive.org/web/20251014100123/https://cfi.co/banking/2025/10/more-than-a-bank-banco-azteca-as-a-national-platform-for-social-resilience/"
 content_sha256: 591cdec85ff7a0bd0c4682bc21042e4525f6cc554820fff8f387bfecda19abd4
 canonical: 27983-more-than-a-bank-banco-azteca-as-a-national-platform-for-social-resilience.json
 ---
