@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201114212241
+wayback_snapshot_url: "http://web.archive.org/web/20201114212241/https://cfi.co/corporate-leaders/2020/01/pwc-bermuda-new-tech-and-cybercrime-top-list-of-concerns-in-reinsurance-survey/"
 content_sha256: bb4d96458f11bd288352e3f55c7c236114e707be5317a0aeb593fcd42a30ec10
 canonical: 17510-pwc-bermuda-new-tech-and-cybercrime-top-list-of-concerns-in-reinsurance-survey.json
 ---
