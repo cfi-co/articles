@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: eee401bfcbb05e92f056ef553a2ad6e142eb01683050af1444fe9879d8799163
 canonical: 27073-accenture-the-evolving-role-of-ceos-in-mitigating-cybersecurity-threats.json
 ---
