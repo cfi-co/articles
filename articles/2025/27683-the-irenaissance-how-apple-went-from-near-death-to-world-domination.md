@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250410222129
+wayback_snapshot_url: "http://web.archive.org/web/20250410222129/https://cfi.co/northamerica/2025/04/the-irenaissance-how-apple-went-from-near-death-to-world-domination/"
 content_sha256: 2225134caeac109eff35da72d1391f84ae82fc943cb47c165309020d63515183
 canonical: 27683-the-irenaissance-how-apple-went-from-near-death-to-world-domination.json
 ---
