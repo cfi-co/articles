@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250123110042
+wayback_snapshot_url: "http://web.archive.org/web/20250123110042/https://cfi.co/technology/2025/01/butcher-baker-candlestick-maker-are-the-skilled-trades-safe-from-ai/"
 content_sha256: b8e7428c5f3f56c4a4e5682131209a873c407d5acc40b34ef59dfb044afc6ce3
 canonical: 27514-butcher-baker-candlestick-maker-are-the-skilled-trades-safe-from-ai.json
 ---
