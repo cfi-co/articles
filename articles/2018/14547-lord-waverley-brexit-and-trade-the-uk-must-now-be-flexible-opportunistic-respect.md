@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200414103145
+wayback_snapshot_url: "http://web.archive.org/web/20200414103145/https://cfi.co/europe/2018/10/lord-waverley-brexit-and-trade-the-uk-must-now-be-flexible-opportunistic-respectfully-machiavellian/"
 content_sha256: 65e107b54482265eb5983fd488a2a758602a5ec6c37558f7aee7c5fe73d47aac
 canonical: 14547-lord-waverley-brexit-and-trade-the-uk-must-now-be-flexible-opportunistic-respect.json
 ---
