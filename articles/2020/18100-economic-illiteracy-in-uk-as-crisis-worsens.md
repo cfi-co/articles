@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418063019
+wayback_snapshot_url: "http://web.archive.org/web/20210418063019/https://cfi.co/europe/2020/11/economic-illiteracy-in-uk-as-crisis-worsens/"
 content_sha256: 45bb1f71d594294a961d9e8b91f52f2b7ace5fecf8ece29974440362b2b9efa2
 canonical: 18100-economic-illiteracy-in-uk-as-crisis-worsens.json
 ---
