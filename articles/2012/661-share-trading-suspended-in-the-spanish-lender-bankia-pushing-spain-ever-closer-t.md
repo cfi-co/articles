@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050808
+wayback_snapshot_url: "http://web.archive.org/web/20190818050808/https://cfi.co/banking/2012/05/share-trading-suspended-in-the-spanish-lender-bankia-pushing-spain-ever-closer-to-needing-a-bailout/"
 content_sha256: 446eef13da7ee4fd4b7a020212de0b6fef936ba4d67198c10149efc83d241705
 canonical: 661-share-trading-suspended-in-the-spanish-lender-bankia-pushing-spain-ever-closer-t.json
 ---
