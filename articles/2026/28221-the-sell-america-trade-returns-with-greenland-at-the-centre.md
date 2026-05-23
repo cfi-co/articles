@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260210025512
+wayback_snapshot_url: "http://web.archive.org/web/20260210025512/https://cfi.co/northamerica/2026/01/the-sell-america-trade-returns-with-greenland-at-the-centre/"
 content_sha256: e2dbbed394a050580408a96f88ba4a009f8ba4f7896528d75c98cdb3e170bf2b
 canonical: 28221-the-sell-america-trade-returns-with-greenland-at-the-centre.json
 ---
