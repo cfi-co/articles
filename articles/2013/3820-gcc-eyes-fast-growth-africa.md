@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724031541
+wayback_snapshot_url: "http://web.archive.org/web/20190724031541/https://cfi.co/finance/2013/05/gcc-eyes-fast-growth-africa/"
 content_sha256: 6ee95185adbfca15bf3690fea718ca37f9f29b97faa7debe4a4d737ca2263b48
 canonical: 3820-gcc-eyes-fast-growth-africa.json
 ---
