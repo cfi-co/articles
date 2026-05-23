@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: b24f3c31ec64d47f808894d0778fd4b086a0241ce744ec0f93c034ffecc432a4
 canonical: 28431-the-reno-siege-rupert-murdoch-and-the-great-succession-schism.json
 ---
