@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818051828
+wayback_snapshot_url: "http://web.archive.org/web/20190818051828/https://cfi.co/asia-pacific/2013/08/cfi-co-hero-mahindra-on-giving-in-india/"
 content_sha256: a861107757c48401da9714d901d65b27769f80759763a32a1eb9f259d9c0fa25
 canonical: 5013-cfi-co-hero-mahindra-on-giving-in-india.json
 ---
