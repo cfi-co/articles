@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220629061458
+wayback_snapshot_url: "http://web.archive.org/web/20220629061458/https://cfi.co/technology/2022/06/modern-modem-mobsters-are-costing-the-world-a-fortune/"
 content_sha256: 49d7f87b0b174ce1b52420c0b76939174f5d4f281abf4b1b3b06d2c5f574c396
 canonical: 22299-modern-modem-mobsters-are-costing-the-world-a-fortune.json
 ---
