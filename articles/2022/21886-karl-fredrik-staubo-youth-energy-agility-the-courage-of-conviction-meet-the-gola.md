@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630131032
+wayback_snapshot_url: "http://web.archive.org/web/20220630131032/https://cfi.co/menu/corporate/2022/05/karl-fredrik-staubo-youth-energy-agility-the-courage-of-conviction-meet-the-golar-go-getters/"
 content_sha256: e076674968f28ccaa35c006a04d0b7848b4080bf2179b0ed055a3dee60819779
 canonical: 21886-karl-fredrik-staubo-youth-energy-agility-the-courage-of-conviction-meet-the-gola.json
 ---
