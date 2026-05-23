@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241004214131
+wayback_snapshot_url: "http://web.archive.org/web/20241004214131/https://cfi.co/europe/2024/08/deep-tech-founders-turned-investors-forge-vc-powerhouse/"
 content_sha256: 4004d0ac474c05ddeca44f604f8cd1ee53e73ee4474ffa4b752909a14661b80b
 canonical: 27076-deep-tech-founders-turned-investors-forge-vc-powerhouse.json
 ---
