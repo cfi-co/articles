@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 92929722b6bfe8e5480f591c6ad104d866a1dcff753868bcf84faa8049c0c416
 canonical: 28402-maldives-islamic-bank-at-1bn-from-niche-pioneer-to-national-banking-force.json
 ---
