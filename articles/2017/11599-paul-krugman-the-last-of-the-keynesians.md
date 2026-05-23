@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818140259
+wayback_snapshot_url: "http://web.archive.org/web/20190818140259/https://cfi.co/editors-picks/2017/05/paul-krugman-the-last-of-the-keynesians/"
 content_sha256: 08e52ed180fd6034664e19a3002483c0c664af644366450046000dd11abc12bc
 canonical: 11599-paul-krugman-the-last-of-the-keynesians.json
 ---
