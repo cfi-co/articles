@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191017062113
+wayback_snapshot_url: "http://web.archive.org/web/20191017062113/https://cfi.co/latinamerica/2014/08/new-study-adds-up-the-benefits-of-climate-smart-development-in-lives-jobs-and-gdp/"
 content_sha256: bb462a0175671f55f5bba681fbbbd42f04a68818756892280d215dee68739225
 canonical: 7739-new-study-adds-up-the-benefits-of-climate-smart-development-in-lives-jobs-and-gd.json
 ---
