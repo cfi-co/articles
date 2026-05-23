@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: bd5192073a04bd8592df8abe9cee1965b9033ded154139cb23ae6355c264f8e5
 canonical: 15090-the-primacy-of-politics-returns.json
 ---
