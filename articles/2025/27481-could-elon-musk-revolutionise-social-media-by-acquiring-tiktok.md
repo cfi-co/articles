@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250209170813
+wayback_snapshot_url: "http://web.archive.org/web/20250209170813/https://cfi.co/technology/2025/01/could-elon-musk-revolutionise-social-media-by-acquiring-tiktok/"
 content_sha256: 20424118cc31306462ab03cab5dd1d4c5b3b4db8e735e1fad9bd0f5b13b79455
 canonical: 27481-could-elon-musk-revolutionise-social-media-by-acquiring-tiktok.json
 ---
