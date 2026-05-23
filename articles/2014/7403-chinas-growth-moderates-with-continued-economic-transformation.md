@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 2106ee03e6b7b6bcb3938206df488865535977c7b6f8719224c5c4125c4e6a6b
 canonical: 7403-chinas-growth-moderates-with-continued-economic-transformation.json
 ---
