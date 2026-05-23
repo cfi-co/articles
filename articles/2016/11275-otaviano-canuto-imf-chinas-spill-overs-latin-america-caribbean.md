@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418060242
+wayback_snapshot_url: "http://web.archive.org/web/20210418060242/https://cfi.co/finance/2016/08/otaviano-canuto-imf-chinas-spill-overs-latin-america-caribbean/"
 content_sha256: 085a79705cb4d8f504f806f807ddf79a2c6747d0c574cbae23619913a845f27e
 canonical: 11275-otaviano-canuto-imf-chinas-spill-overs-latin-america-caribbean.json
 ---
