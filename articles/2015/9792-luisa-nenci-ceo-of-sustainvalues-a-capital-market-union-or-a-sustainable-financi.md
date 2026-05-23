@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720032454
+wayback_snapshot_url: "http://web.archive.org/web/20190720032454/https://cfi.co/europe/2015/05/luisa-nenci-ceo-of-sustainvalues-a-capital-market-union-or-a-sustainable-financial-market/"
 content_sha256: 6cef5b276f9f78f05ad3849530cbec0616e7c0fbaa31ff57370ee95148052937
 canonical: 9792-luisa-nenci-ceo-of-sustainvalues-a-capital-market-union-or-a-sustainable-financi.json
 ---
