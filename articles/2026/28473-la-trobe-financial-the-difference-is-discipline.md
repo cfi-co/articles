@@ -16,7 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 7e39ded0403994f929e2b77ac35479b48e495d64c6748d3dbc48cc35e4f10b11
 canonical: 28473-la-trobe-financial-the-difference-is-discipline.json
 ---
