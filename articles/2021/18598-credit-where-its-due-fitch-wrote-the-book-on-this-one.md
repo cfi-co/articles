@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422020659
+wayback_snapshot_url: "http://web.archive.org/web/20210422020659/https://cfi.co/menu/corporate/2021/02/credit-where-its-due-fitch-wrote-the-book-on-this-one/"
 content_sha256: c4f76035ce6edd561b8cae79bd087a2f8d77bc26f21ab3728b1f39d0d45bd871
 canonical: 18598-credit-where-its-due-fitch-wrote-the-book-on-this-one.json
 ---
