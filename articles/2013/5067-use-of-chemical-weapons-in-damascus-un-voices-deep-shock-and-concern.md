@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140825183205
+wayback_snapshot_url: "http://web.archive.org/web/20140825183205/http://cfi.co/middleeast/2013/08/use-of-chemical-weapons-in-damascus-un-voices-deep-shock-and-concern/"
 content_sha256: a1dbbe78e84dba12feea02832a32241e5b58d35ebee336cb53e8973730cd8432
 canonical: 5067-use-of-chemical-weapons-in-damascus-un-voices-deep-shock-and-concern.json
 ---
