@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230125145418
+wayback_snapshot_url: "http://web.archive.org/web/20230125145418/https://cfi.co/banking/2023/01/kathrein-privatbank-its-been-a-tough-year-all-round-but-there-are-strategies-to-cope/"
 content_sha256: aa472786bcada13009b2c8c544dbd0d7779b09c0dca98db9816107bcd21e6358
 canonical: 24442-kathrein-privatbank-its-been-a-tough-year-all-round-but-there-are-strategies-to-.json
 ---
