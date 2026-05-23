@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140705162443
+wayback_snapshot_url: "http://web.archive.org/web/20140705162443/http://cfi.co/middleeast/2014/03/cfi-co-meets-the-ceo-of-rak-insurance-andrew-smith/"
 content_sha256: fb931da6fdad50d9b0cf949d1c3d5ca94b6d3b81d0a99df5e2e1cbe3f781794c
 canonical: 7329-cfi-co-meets-the-ceo-of-rak-insurance-andrew-smith.json
 ---
