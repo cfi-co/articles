@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720032634
+wayback_snapshot_url: "http://web.archive.org/web/20190720032634/https://cfi.co/corporate-leaders/2018/08/cfi-co-meets-the-founder-and-ceo-of-valuelabs-arjun-rao/"
 content_sha256: 33027536c0f1b605e1247d8132ced7a8e0e5664dd1a90d90908715e918c8fa11
 canonical: 12887-cfi-co-meets-the-founder-and-ceo-of-valuelabs-arjun-rao.json
 ---
