@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201113102513
+wayback_snapshot_url: "http://web.archive.org/web/20201113102513/https://cfi.co/northamerica/2020/11/oops-he-did-it-again/"
 content_sha256: 06041bf022be18bfd0350d79e9cf27d7716ee2dc2fd61f9c1636464b2eb1e9b0
 canonical: 17770-oops-he-did-it-again.json
 ---
