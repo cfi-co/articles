@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724025242
+wayback_snapshot_url: "http://web.archive.org/web/20190724025242/https://cfi.co/banking/2013/10/what-really-spurred-the-great-recession/"
 content_sha256: d38f105eb16a832cd63933a005d0ccaeea5f788a147d77d2d807a1f8a9163eb3
 canonical: 5392-what-really-spurred-the-great-recession.json
 ---
