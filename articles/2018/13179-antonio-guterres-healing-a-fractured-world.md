@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720033523
+wayback_snapshot_url: "http://web.archive.org/web/20190720033523/https://cfi.co/editors-picks/2018/11/antonio-guterres-healing-a-fractured-world/"
 content_sha256: 1ec428e6a199ec4cd1c50ce59fbde1000fd8728dac627c9bbb37519b4252d014
 canonical: 13179-antonio-guterres-healing-a-fractured-world.json
 ---
