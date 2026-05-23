@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220625230343
+wayback_snapshot_url: "http://web.archive.org/web/20220625230343/https://cfi.co/latinamerica/2022/05/infinity-asset-management-diversity-and-strategy-two-key-factors-that-have-driven-the-infinity-group-to-success/"
 content_sha256: fbffdc3bae8df075d36dc890e8e9c351ffb1c59d2c3e0d006d8a17b92eaf5db9
 canonical: 22051-infinity-asset-management-diversity-and-strategy-two-key-factors-that-have-drive.json
 ---
