@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050231
+wayback_snapshot_url: "http://web.archive.org/web/20190818050231/https://cfi.co/banking/2015/03/cfi-co-meets-the-head-of-responsible-investments-at-nordea-asset-management-sasja-beslik/"
 content_sha256: e959354c04a8700549a4e9b2e3ab6f84577f2d238e46c257029db07688c7f612
 canonical: 9552-cfi-co-meets-the-head-of-responsible-investments-at-nordea-asset-management-sasj.json
 ---
