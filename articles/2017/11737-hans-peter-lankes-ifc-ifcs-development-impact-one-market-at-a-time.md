@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132319
+wayback_snapshot_url: "http://web.archive.org/web/20190818132319/https://cfi.co/europe/2017/08/hans-peter-lankes-ifc-ifcs-development-impact-one-market-at-a-time/"
 content_sha256: d1a3fbf86ce958cc15d5c48451c25ae2f0725752924e3ffa69e6236e9ccaca5c
 canonical: 11737-hans-peter-lankes-ifc-ifcs-development-impact-one-market-at-a-time.json
 ---
