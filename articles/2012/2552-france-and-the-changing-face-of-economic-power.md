@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826173619
+wayback_snapshot_url: "http://web.archive.org/web/20140826173619/http://cfi.co/europe/2012/11/france-and-the-changing-face-of-economic-power/"
 content_sha256: 9987b39ea415fe3d5d05c38f0fdbcbd8cf7bc0f7fbc6f96df7d77fcadd5a41ca
 canonical: 2552-france-and-the-changing-face-of-economic-power.json
 ---
