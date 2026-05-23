@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200918180543
+wayback_snapshot_url: "http://web.archive.org/web/20200918180543/https://cfi.co/c-19/2020/04/robed-culprits-and-the-struggles-of-corporate-america/"
 content_sha256: a7270641d40ab2ac57a877ba44d098dea63274214e8d5141d990ededdf0c76a7
 canonical: 15028-robed-culprits-and-the-struggles-of-corporate-america.json
 ---
