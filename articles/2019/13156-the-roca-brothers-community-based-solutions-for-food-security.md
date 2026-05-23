@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190507120224
+wayback_snapshot_url: "http://web.archive.org/web/20190507120224/https://cfi.co/europe/2019/03/the-roca-brothers-community-based-solutions-for-food-security/"
 content_sha256: ecfd8426ecf017227ede13424b6647994f7ead91560e66a2a05093ebabbf4342
 canonical: 13156-the-roca-brothers-community-based-solutions-for-food-security.json
 ---
