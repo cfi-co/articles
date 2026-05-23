@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916043620
+wayback_snapshot_url: "http://web.archive.org/web/20190916043620/https://cfi.co/africa/2015/01/world-economic-forum-opens-in-davos-sharing-and-caring/"
 content_sha256: 5e7c1e5b5efdfa591ea0aca30a2717de1dba58b9ea7f23f1cf2dc0292b0e41a5
 canonical: 8790-world-economic-forum-opens-in-davos-sharing-and-caring.json
 ---
