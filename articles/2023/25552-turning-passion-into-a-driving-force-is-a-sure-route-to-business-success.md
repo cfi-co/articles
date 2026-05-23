@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230608121143
+wayback_snapshot_url: "http://web.archive.org/web/20230608121143/https://cfi.co/africa/2023/06/turning-passion-into-a-driving-force-is-a-sure-route-to-business-success/"
 content_sha256: 80ebffa15a87ed8ae52afa85d002c408cb354f6850bac578c3c642f3923d8cbe
 canonical: 25552-turning-passion-into-a-driving-force-is-a-sure-route-to-business-success.json
 ---
