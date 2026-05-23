@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: ddab929d2b374ceae5cddd9962693dc71b0fea2b6aea46b77fba23518a84731d
 canonical: 14569-uk-wont-move-on-after-brexit-it-will-move-forward.json
 ---
