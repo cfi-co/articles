@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720182219
+wayback_snapshot_url: "http://web.archive.org/web/20190720182219/https://cfi.co/africa/2012/08/un-economic-commission-for-africa-what-we-know-about-domestic-resource-mobilization-in-africa/"
 content_sha256: 0a4d95bb16953f7dbf2288bfa4080ffff49c9482343aa6701ade92878a141792
 canonical: 1703-un-economic-commission-for-africa-what-we-know-about-domestic-resource-mobilizat.json
 ---
