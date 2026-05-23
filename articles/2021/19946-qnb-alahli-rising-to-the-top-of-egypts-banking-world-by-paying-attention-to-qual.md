@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920112754
+wayback_snapshot_url: "http://web.archive.org/web/20210920112754/https://cfi.co/menu/corporate/2021/07/qnb-alahli-rising-to-the-top-of-egypts-banking-world-by-paying-attention-to-quality-service/"
 content_sha256: 5dd6d47b6327725d4f28cecd1b18f67c49253dec145abf17054df4a26fbf6511
 canonical: 19946-qnb-alahli-rising-to-the-top-of-egypts-banking-world-by-paying-attention-to-qual.json
 ---
