@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241220094725
+wayback_snapshot_url: "http://web.archive.org/web/20241220094725/https://cfi.co/technology/2024/12/ai-governance-in-financial-services-a-board-level-imperative/"
 content_sha256: 52d469aedff5aefae5f63cf1d0b68fcc2da1b492adef94a7a969d760c19a1478
 canonical: 27427-ai-governance-in-financial-services-a-board-level-imperative.json
 ---
