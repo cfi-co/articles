@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211016003950
+wayback_snapshot_url: "http://web.archive.org/web/20211016003950/https://cfi.co/menu/corporate/2021/09/emily-alejos-cio-at-cartica-leading-the-way-in-esg-investing-in-the-emerging-markets/"
 content_sha256: d8feec4e4a491859676c87252a9e894727f9b9a66b7203cf05bf60d5bf97beff
 canonical: 20624-emily-alejos-cio-at-cartica-leading-the-way-in-esg-investing-in-the-emerging-mar.json
 ---
