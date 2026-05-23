@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200414141819
+wayback_snapshot_url: "http://web.archive.org/web/20200414141819/https://cfi.co/c-19/2020/04/separating-the-wheat-from-the-chaff/"
 content_sha256: ead07e98f7fb1dc1b28f0b0e2f6b56c7eb1032728d569f874d0bcc993745dc8e
 canonical: 14836-separating-the-wheat-from-the-chaff.json
 ---
