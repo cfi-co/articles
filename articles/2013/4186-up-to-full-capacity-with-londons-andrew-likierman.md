@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20131002192913
+wayback_snapshot_url: "http://web.archive.org/web/20131002192913/http://cfi.co/europe/2013/05/up-to-full-capacity-with-londons-andrew-likierman/"
 content_sha256: 8a0d812b70d658cdc860078c3fbb2ce0d5b6efbe4057f8df3dd475085fc786b8
 canonical: 4186-up-to-full-capacity-with-londons-andrew-likierman.json
 ---
