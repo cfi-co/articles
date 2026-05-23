@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211123150132
+wayback_snapshot_url: "http://web.archive.org/web/20211123150132/https://cfi.co/sustainability/2021/11/ferdinand-grapperhaus-jr-putting-a-brave-and-smart-face-on-the-worlds-new-constructions/"
 content_sha256: 0b36af434a472ba741c9561427fda4dddde5d6a5551c63b177f02287e22c23e0
 canonical: 21204-ferdinand-grapperhaus-jr-putting-a-brave-and-smart-face-on-the-worlds-new-constr.json
 ---
