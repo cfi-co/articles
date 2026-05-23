@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630123846
+wayback_snapshot_url: "http://web.archive.org/web/20220630123846/https://cfi.co/menu/corporate/2022/05/qatar-insurance-company-digital-drive-innovation-a-long-history-and-regional-expertise/"
 content_sha256: 5ecb941f090388fceee849995ac585c372257b38a01d6691bf8294d6847577ea
 canonical: 21945-qatar-insurance-company-digital-drive-innovation-a-long-history-and-regional-exp.json
 ---
