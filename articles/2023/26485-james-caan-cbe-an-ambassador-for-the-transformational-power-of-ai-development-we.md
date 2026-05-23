@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231208071955
+wayback_snapshot_url: "http://web.archive.org/web/20231208071955/https://cfi.co/brave-new-world/2023/11/james-caan-cbe-an-ambassador-for-the-transformational-power-of-ai-development-welcomes-the-500m-boost-for-ai-development-in-the-autumn-statement/"
 content_sha256: bcce99ec0ef4b6ab2fe51b8406e71ed5ce12fe78868180ffd32c9fc46dc0f485
 canonical: 26485-james-caan-cbe-an-ambassador-for-the-transformational-power-of-ai-development-we.json
 ---
