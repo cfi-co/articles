@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200506162920
+wayback_snapshot_url: "http://web.archive.org/web/20200506162920/https://cfi.co/middleeast/2020/02/ian-fletcher-director-ibm-ibv-the-trust-economy-whats-my-data-worth/"
 content_sha256: dfec10e696d0a138f33361acb133429d00ef1c5470eba87d0588ad79b4c43f81
 canonical: 14609-ian-fletcher-director-ibm-ibv-the-trust-economy-whats-my-data-worth.json
 ---
