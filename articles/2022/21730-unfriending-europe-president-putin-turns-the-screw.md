@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220428062314
+wayback_snapshot_url: "http://web.archive.org/web/20220428062314/https://cfi.co/brave-new-world/2022/04/unfriending-europe-president-putin-turns-the-screw/"
 content_sha256: a55364d55cfda25d6ba4c797bc65d10186a303706c11f5eb1e9ee356406a835b
 canonical: 21730-unfriending-europe-president-putin-turns-the-screw.json
 ---
