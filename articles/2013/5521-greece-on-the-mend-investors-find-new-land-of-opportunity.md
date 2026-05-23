@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190508053700
+wayback_snapshot_url: "http://web.archive.org/web/20190508053700/https://cfi.co/banking/2013/10/greece-on-the-mend-investors-find-new-land-of-opportunity/"
 content_sha256: 8b5f17198a064c2e9507c050c99dc29bf84d3daf9d37e10db1d5f83e2157063b
 canonical: 5521-greece-on-the-mend-investors-find-new-land-of-opportunity.json
 ---
