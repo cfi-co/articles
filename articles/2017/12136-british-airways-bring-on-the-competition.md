@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717212314
+wayback_snapshot_url: "http://web.archive.org/web/20190717212314/https://cfi.co/europe/2017/11/british-airways-bring-on-the-competition/"
 content_sha256: bb6fa86f8e27ec6c853f08a22bce6342d6b33048281b227b45e7d2e6553fff5f
 canonical: 12136-british-airways-bring-on-the-competition.json
 ---
