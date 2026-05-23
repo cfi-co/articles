@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132430
+wayback_snapshot_url: "http://web.archive.org/web/20190818132430/https://cfi.co/northamerica/2013/01/the-price-of-pollution/"
 content_sha256: 3e84a168d3040392e217a8020f8af0f012b2245867f91dec192b92853a9ecf3e
 canonical: 2860-the-price-of-pollution.json
 ---
