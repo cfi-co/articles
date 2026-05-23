@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220826183032
+wayback_snapshot_url: "http://web.archive.org/web/20220826183032/https://cfi.co/menu/corporate/2022/08/dan-gilbert-born-for-business-ready-for-any-challenge"
 content_sha256: 84fd9e9a946243293e14de56675eaa94ba38bfbdaf6857004bb59747468aec30
 canonical: 23207-dan-gilbert-born-for-business-ready-for-any-challenge.json
 ---
