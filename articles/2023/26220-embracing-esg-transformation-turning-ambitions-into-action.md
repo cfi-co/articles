@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 0edd2989c336a72fe6a732d6ae51da081b500599619e797102d81f92bf6b8059
 canonical: 26220-embracing-esg-transformation-turning-ambitions-into-action.json
 ---
