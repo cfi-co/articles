@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191013211536
+wayback_snapshot_url: "http://web.archive.org/web/20191013211536/https://cfi.co/asia-pacific/2013/07/cfi-co-meets-rashesh-shah-2/"
 content_sha256: db8dafa8044203cd7acdaf94cad2498644067785cdeb790085bb091f5037942e
 canonical: 4771-cfi-co-meets-rashesh-shah-2.json
 ---
