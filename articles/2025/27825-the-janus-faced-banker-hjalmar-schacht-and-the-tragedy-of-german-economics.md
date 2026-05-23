@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250722191955
+wayback_snapshot_url: "http://web.archive.org/web/20250722191955/https://cfi.co/europe/2025/07/the-janus-faced-banker-hjalmar-schacht-and-the-tragedy-of-german-economics/"
 content_sha256: 43de8a21f4b84107dbe0904460fc071e1748f00731f7881b309531c871a1233e
 canonical: 27825-the-janus-faced-banker-hjalmar-schacht-and-the-tragedy-of-german-economics.json
 ---
