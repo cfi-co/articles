@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250915070045
+wayback_snapshot_url: "http://web.archive.org/web/20250915070045/https://cfi.co/europe/2025/06/cordet-capital-unlocking-the-potential-of-northern-europes-lower-mid-market/"
 content_sha256: 6b0f7db469c9ce7360eac7a3fa30aeb8b7ffe823512375363488a69a94da4640
 canonical: 27774-cordet-capital-unlocking-the-potential-of-northern-europes-lower-mid-market.json
 ---
