@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916043523
+wayback_snapshot_url: "http://web.archive.org/web/20190916043523/https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-of-assupol-life-bridget-mokwena-halala/"
 content_sha256: 1efe336c9f49c6ec721db7face8d0ccb9ad84e95c2948cb0346c172fbfbb6dc5
 canonical: 11788-cfi-co-meets-the-ceo-of-assupol-life-bridget-mokwena-halala.json
 ---
