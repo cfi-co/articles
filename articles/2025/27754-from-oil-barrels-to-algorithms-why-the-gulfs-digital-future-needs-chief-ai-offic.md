@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250614225528
+wayback_snapshot_url: "http://web.archive.org/web/20250614225528/https://cfi.co/menu/energy/2025/05/from-oil-barrels-to-algorithms-why-the-gulfs-digital-future-needs-chief-ai-officers/"
 content_sha256: 41e4d31f84c1d21658d33de9ecefe701e375dcf8cae61a9ae734a54d42398d11
 canonical: 27754-from-oil-barrels-to-algorithms-why-the-gulfs-digital-future-needs-chief-ai-offic.json
 ---
