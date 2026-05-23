@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191014232132
+wayback_snapshot_url: "http://web.archive.org/web/20191014232132/https://cfi.co/editors-picks/2013/08/zhang-xin-the-sheer-scale-of-achievement/"
 content_sha256: 02c9e34b2de17d105495d538877b6cbf5bca0e484c8b200c4e91f03334880d0c
 canonical: 5005-zhang-xin-the-sheer-scale-of-achievement.json
 ---
