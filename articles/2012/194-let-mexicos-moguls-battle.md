@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818132712
+wayback_snapshot_url: "http://web.archive.org/web/20190818132712/https://cfi.co/latinamerica/2012/02/let-mexicos-moguls-battle/"
 content_sha256: b27ad54186f339933950939d6244c48635fe3c5fa44984e7a5997a80e082e0c5
 canonical: 194-let-mexicos-moguls-battle.json
 ---
