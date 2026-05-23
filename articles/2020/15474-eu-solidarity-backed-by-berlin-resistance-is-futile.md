@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418055001
+wayback_snapshot_url: "http://web.archive.org/web/20210418055001/https://cfi.co/c-19/2020/05/eu-solidarity-backed-by-berlin-resistance-is-futile/"
 content_sha256: eae02783d6099f87f964394d62f315094dec854c245e2d8506810937806f40db
 canonical: 15474-eu-solidarity-backed-by-berlin-resistance-is-futile.json
 ---
