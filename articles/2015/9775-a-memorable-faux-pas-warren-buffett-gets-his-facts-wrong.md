@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720033752
+wayback_snapshot_url: "http://web.archive.org/web/20190720033752/https://cfi.co/finance/2015/05/a-memorable-faux-pas-warren-buffett-gets-his-facts-wrong/"
 content_sha256: 1fbff2f7473bec45e72bcd9815841786e0a00ef142ea8e730d15a5962891cb93
 canonical: 9775-a-memorable-faux-pas-warren-buffett-gets-his-facts-wrong.json
 ---
