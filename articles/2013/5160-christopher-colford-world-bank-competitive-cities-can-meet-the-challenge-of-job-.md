@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140328192816
+wayback_snapshot_url: "http://web.archive.org/web/20140328192816/http://cfi.co/africa/2013/09/christopher-colford-world-bank-competitive-cities-can-meet-the-challenge-of-job-creation/"
 content_sha256: 3c16f23f5dfc0c2c375a8740e3427b7a84c8a8d556d3e1bcfedb1f0ed8d0fa66
 canonical: 5160-christopher-colford-world-bank-competitive-cities-can-meet-the-challenge-of-job-.json
 ---
