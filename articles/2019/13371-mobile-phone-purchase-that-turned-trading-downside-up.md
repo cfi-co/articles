@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190128132207
+wayback_snapshot_url: "http://web.archive.org/web/20190128132207/https://cfi.co/corporate-leaders/2019/01/mobile-phone-purchase-that-turned-trading-downside-up/"
 content_sha256: 3cfc32ec84b0c7db92e922406e1f472da9f1191c52c371b545e29d14d2f0905f
 canonical: 13371-mobile-phone-purchase-that-turned-trading-downside-up.json
 ---
