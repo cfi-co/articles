@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200414075053
+wayback_snapshot_url: "http://web.archive.org/web/20200414075053/https://cfi.co/technology/2019/01/ian-fletcher-ibm-new-retail-reimagining-the-shopping-experience/"
 content_sha256: 55fa1904c00e1ce2a57c362e72603cd6877d9c69249f0c137422b3d639e4290c
 canonical: 14437-ian-fletcher-ibm-new-retail-reimagining-the-shopping-experience.json
 ---
