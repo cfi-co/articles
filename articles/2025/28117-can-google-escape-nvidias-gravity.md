@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251206002852
+wayback_snapshot_url: "http://web.archive.org/web/20251206002852/https://cfi.co/northamerica/2025/11/can-google-escape-nvidias-gravity/"
 content_sha256: ce64223122ba8a819e90f959a074c6c8b6148b0d20d32ae7c75f7712396c4823
 canonical: 28117-can-google-escape-nvidias-gravity.json
 ---
