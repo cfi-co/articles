@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211105093353
+wayback_snapshot_url: "http://web.archive.org/web/20211105093353/https://cfi.co/c-19/2021/11/from-the-black-plague-to-the-covid-crisis-quarantine-has-affected-maritime-trade/"
 content_sha256: a53b743ed2bfaba8e048c0fced412755f796fcbf34a258435cffac5bd596a5c8
 canonical: 20943-from-the-black-plague-to-the-covid-crisis-quarantine-has-affected-maritime-trade.json
 ---
