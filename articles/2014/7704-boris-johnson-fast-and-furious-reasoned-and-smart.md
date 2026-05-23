@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050908
+wayback_snapshot_url: "http://web.archive.org/web/20190818050908/https://cfi.co/europe/2014/07/boris-johnson-fast-and-furious-reasoned-and-smart/"
 content_sha256: 4ad7e115bc970fee0372d32f02ee2fdcb28e70e70053c31202beaa82bca9f498
 canonical: 7704-boris-johnson-fast-and-furious-reasoned-and-smart.json
 ---
