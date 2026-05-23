@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916045315
+wayback_snapshot_url: "http://web.archive.org/web/20190916045315/https://cfi.co/asia-pacific/2011/05/credit-suisse-reflation-rally/"
 content_sha256: f2052c3023edac8a82c11a8494bd3772aa9cea3ce2e8c7317c043646e98fd971
 canonical: 151-credit-suisse-reflation-rally.json
 ---
