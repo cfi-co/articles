@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140519155242
+wayback_snapshot_url: "http://web.archive.org/web/20140519155242/http://cfi.co/europe/2014/05/europes-first-transnational-list-has-been-presented-by-the-european-federalist-party/"
 content_sha256: cec950cf206048567e742f503819613f0c23d0fb9a4b96dc3b1a6be55f78886f
 canonical: 7137-europes-first-transnational-list-has-been-presented-by-the-european-federalist-p.json
 ---
