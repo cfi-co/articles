@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825103548
+wayback_snapshot_url: "http://web.archive.org/web/20190825103548/https://cfi.co/europe/2018/05/ana-botin-reshaping-the-financial-universe/"
 content_sha256: 7260ef2e51b13fd091948ac67159e470887d92af969ef349c1d28e7fd8876a74
 canonical: 12493-ana-botin-reshaping-the-financial-universe.json
 ---
