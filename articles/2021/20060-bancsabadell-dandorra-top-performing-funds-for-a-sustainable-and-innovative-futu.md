@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920101711
+wayback_snapshot_url: "http://web.archive.org/web/20210920101711/https://cfi.co/menu/corporate/2021/06/bancsabadell-dandorra-top-performing-funds-for-a-sustainable-and-innovative-future/"
 content_sha256: c05e13ffe3c8c2c4531cf8bce72f2c1e5e3615bab698cba60b503dbe5df59691
 canonical: 20060-bancsabadell-dandorra-top-performing-funds-for-a-sustainable-and-innovative-futu.json
 ---
