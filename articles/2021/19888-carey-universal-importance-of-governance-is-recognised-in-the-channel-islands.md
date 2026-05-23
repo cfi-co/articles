@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920104319
+wayback_snapshot_url: "http://web.archive.org/web/20210920104319/https://cfi.co/menu/corporate/2021/07/carey-universal-importance-of-governance-is-recognised-in-the-channel-islands/"
 content_sha256: f2746e5a8fa6808df082f96e316386df1a2e7f5756d0d43274750d5b90fd6f4c
 canonical: 19888-carey-universal-importance-of-governance-is-recognised-in-the-channel-islands.json
 ---
