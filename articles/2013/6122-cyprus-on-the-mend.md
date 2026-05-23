@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140328165632
+wayback_snapshot_url: "http://web.archive.org/web/20140328165632/http://cfi.co/banking/2013/11/cyprus-on-the-mend/"
 content_sha256: 68bb01e502130295c3629c51ff2e1c1b42fc632b37cc5b72742e215a8d15e845
 canonical: 6122-cyprus-on-the-mend.json
 ---
