@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140328064844
+wayback_snapshot_url: "http://web.archive.org/web/20140328064844/http://cfi.co/africa/2013/11/sahel-countries-set-to-receive-record-amounts-in-aid/"
 content_sha256: 0f514b0e009ce8569990f15261108ba737808850e5e1efe9561466e9b0b040ec
 canonical: 6046-sahel-countries-set-to-receive-record-amounts-in-aid.json
 ---
