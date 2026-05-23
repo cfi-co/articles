@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250124131312
+wayback_snapshot_url: "http://web.archive.org/web/20250124131312/https://cfi.co/oil-and-mining/2025/01/russian-gas-transit-to-europe-discontinued-following-lapse-of-ukrainian-agreement/"
 content_sha256: 682a9632e999d53f8edf46814284d6ed4df0d70ec6a1da38f234639948543a2b
 canonical: 27447-russian-gas-transit-to-europe-discontinued-following-lapse-of-ukrainian-agreemen.json
 ---
