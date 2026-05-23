@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920120502
+wayback_snapshot_url: "http://web.archive.org/web/20210920120502/https://cfi.co/menu/corporate/2021/07/cfi-co-meets-jennifer-martinel-founder-of-fidusmart-switzerland-seeking-out-an-independent-path-in-financial-management-and-tax-advisory/"
 content_sha256: 6f5f131c539f9b8e0e33b25889522d1e32fb452c5cab2fa6a5ee6deab0f89572
 canonical: 20145-cfi-co-meets-jennifer-martinel-founder-of-fidusmart-switzerland-seeking-out-an-i.json
 ---
