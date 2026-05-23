@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826132659
+wayback_snapshot_url: "http://web.archive.org/web/20140826132659/http://cfi.co/middleeast/2014/03/2014-set-to-be-turning-point-for-saudi-real-estate-sector/"
 content_sha256: 962ac38d2acbfcf1d0cd8efdb5534002cd5760212706b16dd90b322116120e37
 canonical: 6857-2014-set-to-be-turning-point-for-saudi-real-estate-sector.json
 ---
