@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211014100104
+wayback_snapshot_url: "http://web.archive.org/web/20211014100104/https://cfi.co/northamerica/2021/10/anthony-scaramucci-mooching-towards-washington-with-no-polyester-suits-in-sight/"
 content_sha256: 61f1b99907636fff3ab01730933e4b93faf27f16f2bdb10b2ff046039bf48850
 canonical: 20794-anthony-scaramucci-mooching-towards-washington-with-no-polyester-suits-in-sight.json
 ---
