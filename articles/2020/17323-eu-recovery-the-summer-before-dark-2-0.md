@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 2d1ce04e7f5406a9c22d15be29a01cc05d789afac11fa6df6a83aef425b2dfe8
 canonical: 17323-eu-recovery-the-summer-before-dark-2-0.json
 ---
