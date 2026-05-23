@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140705063911
+wayback_snapshot_url: "http://web.archive.org/web/20140705063911/http://cfi.co/middleeast/2014/03/imf-on-menap-call-for-focus-on-job-creation/"
 content_sha256: 45f99fe3a0e7566a7cfcf0458544df7476806222779817061ee443d98bf5f2be
 canonical: 6790-imf-on-menap-call-for-focus-on-job-creation.json
 ---
