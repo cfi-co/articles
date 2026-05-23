@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200414010419
+wayback_snapshot_url: "http://web.archive.org/web/20200414010419/https://cfi.co/africa/2018/05/african-risk-capacity-african-innovation-in-action/"
 content_sha256: ef527b6c07dfd8ef5f0dedb0b0739499fb135c13fc95a1a04ca41452368b34ad
 canonical: 14565-african-risk-capacity-african-innovation-in-action.json
 ---
