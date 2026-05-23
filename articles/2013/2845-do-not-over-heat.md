@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916045222
+wayback_snapshot_url: "http://web.archive.org/web/20190916045222/https://cfi.co/asia-pacific/2013/01/do-not-over-heat/"
 content_sha256: 32c3644a9f7f27e3cb81215bbd62e36a69361665912d0afd7237baf05b491acf
 canonical: 2845-do-not-over-heat.json
 ---
