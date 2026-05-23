@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190818050209
+wayback_snapshot_url: "http://web.archive.org/web/20190818050209/https://cfi.co/africa/2012/08/nepad-boosting-africas-most-valuable-renewable-natural-assets-fish/"
 content_sha256: b4a0b51d7a5c29afa3f8883151424a5577e4c903210c4414abdd9fef1e4ad70e
 canonical: 1958-nepad-boosting-africas-most-valuable-renewable-natural-assets-fish.json
 ---
