@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220119083406
+wayback_snapshot_url: "http://web.archive.org/web/20220119083406/https://cfi.co/menu/corporate/2021/08/cfi-co-meets-the-ceo-of-austrian-anadi-bank-christian-kubitschek-fintech-and-full-service-bank-is-not-a-contradiction/"
 content_sha256: 432742ee18745c909ecadd142fdf70376a3e4b86f84ecf56a62238e3e9fd13a0
 canonical: 20401-cfi-co-meets-the-ceo-of-austrian-anadi-bank-christian-kubitschek-fintech-and-ful.json
 ---
