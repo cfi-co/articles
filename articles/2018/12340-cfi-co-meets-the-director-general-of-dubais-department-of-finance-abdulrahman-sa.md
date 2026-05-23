@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916085819
+wayback_snapshot_url: "http://web.archive.org/web/20190916085819/https://cfi.co/corporate-leaders/2018/05/cfi-co-meets-the-director-general-of-dubais-department-of-finance-abdulrahman-saleh-al-saleh/"
 content_sha256: 690cbc26167b67dc54a4e144ea1a5b795d06d624869c846784959071d029600b
 canonical: 12340-cfi-co-meets-the-director-general-of-dubais-department-of-finance-abdulrahman-sa.json
 ---
