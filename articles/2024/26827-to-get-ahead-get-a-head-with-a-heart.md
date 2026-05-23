@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240525225203
+wayback_snapshot_url: "http://web.archive.org/web/20240525225203/https://cfi.co/europe/2024/05/to-get-ahead-get-a-head-with-a-heart/"
 content_sha256: b9a41d41b8dc07358090778f7308c430739d3a38ecef3a305b278c4112056c54
 canonical: 26827-to-get-ahead-get-a-head-with-a-heart.json
 ---
