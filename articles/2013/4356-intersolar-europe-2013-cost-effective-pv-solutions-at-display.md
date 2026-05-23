@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191021052251
+wayback_snapshot_url: "http://web.archive.org/web/20191021052251/https://cfi.co/europe/2013/06/intersolar-europe-2013-cost-effective-pv-solutions-at-display/"
 content_sha256: ffbd7db5aecc0bf7307ce5c25547747033b6f1e72d038446918f5dd54dc99791
 canonical: 4356-intersolar-europe-2013-cost-effective-pv-solutions-at-display.json
 ---
