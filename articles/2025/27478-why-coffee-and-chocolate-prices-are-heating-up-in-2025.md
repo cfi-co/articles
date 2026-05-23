@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250126190542
+wayback_snapshot_url: "http://web.archive.org/web/20250126190542/https://cfi.co/finance/2025/01/why-coffee-and-chocolate-prices-are-heating-up-in-2025/"
 content_sha256: 00c4e3d94ed677229ad815282e56e73896ac61634260bcee86c629f30c511f51
 canonical: 27478-why-coffee-and-chocolate-prices-are-heating-up-in-2025.json
 ---
