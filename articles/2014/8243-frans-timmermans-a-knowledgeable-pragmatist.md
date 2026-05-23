@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724024413
+wayback_snapshot_url: "http://web.archive.org/web/20190724024413/https://cfi.co/europe/2014/10/frans-timmermans-a-knowledgeable-pragmatist/"
 content_sha256: 62f0c6a54529a35b17110f6755a0bf7ab6041afbc6606c5d2eca73027e00cdf4
 canonical: 8243-frans-timmermans-a-knowledgeable-pragmatist.json
 ---
