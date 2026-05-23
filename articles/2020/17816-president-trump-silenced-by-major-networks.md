@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201114223045
+wayback_snapshot_url: "http://web.archive.org/web/20201114223045/https://cfi.co/c-19/2020/11/president-trump-silenced-by-major-networks/"
 content_sha256: 95d5fd85e0bb2ee0fa2650b7dd0e9d30f7efbf4695b17725ef9cc844c4dc9403
 canonical: 17816-president-trump-silenced-by-major-networks.json
 ---
