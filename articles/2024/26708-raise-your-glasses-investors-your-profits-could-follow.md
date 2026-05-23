@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240309202610
+wayback_snapshot_url: "http://web.archive.org/web/20240309202610/https://cfi.co/lifestyle/2024/02/raise-your-glasses-investors-your-profits-could-follow/"
 content_sha256: fd3ac009a3cbc174f3a04d54a36950c86d56539d127941ff8827c75b5f2f0ad3
 canonical: 26708-raise-your-glasses-investors-your-profits-could-follow.json
 ---
