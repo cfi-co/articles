@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220815153155
+wayback_snapshot_url: "http://web.archive.org/web/20220815153155/https://cfi.co/sustainability/2022/08/larry-fink-blackrock-ceo-uncertainty-is-the-only-certainty/"
 content_sha256: 6f237243c89afdc8dc4b7504dd0eafc7f3f0ac781c52fb4c9902c178e2a0589c
 canonical: 22817-larry-fink-blackrock-ceo-uncertainty-is-the-only-certainty.json
 ---
