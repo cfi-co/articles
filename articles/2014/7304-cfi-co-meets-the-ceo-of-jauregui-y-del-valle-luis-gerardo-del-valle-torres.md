@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140705154736
+wayback_snapshot_url: "http://web.archive.org/web/20140705154736/http://cfi.co/latinamerica/2014/03/cfi-co-meets-the-ceo-of-jauregui-y-del-valle-luis-gerardo-del-valle-torres/"
 content_sha256: 85e84acfda2d2797116aa229702f635258d4ea94ede9bf1756b1ada4853f4f60
 canonical: 7304-cfi-co-meets-the-ceo-of-jauregui-y-del-valle-luis-gerardo-del-valle-torres.json
 ---
