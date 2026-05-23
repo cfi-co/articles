@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240904143043
+wayback_snapshot_url: "http://web.archive.org/web/20240904143043/https://cfi.co/banking/2024/09/innovation-at-the-core-how-kib-is-shaping-modern-banking/"
 content_sha256: f5451644c4bc2e6fd822a23eade56543256563637c3ab52357ce609a2303f7b3
 canonical: 27088-innovation-at-the-core-how-kib-is-shaping-modern-banking.json
 ---
