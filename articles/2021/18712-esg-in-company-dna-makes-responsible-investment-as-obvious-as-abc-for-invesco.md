@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210422030522
+wayback_snapshot_url: "http://web.archive.org/web/20210422030522/https://cfi.co/menu/corporate/2021/02/esg-in-company-dna-makes-responsible-investment-as-obvious-as-abc-for-invesco/"
 content_sha256: cd907db4ca52cdff2f4de02775193a4226de1fafb7bc8c815e31a59daae0989f
 canonical: 18712-esg-in-company-dna-makes-responsible-investment-as-obvious-as-abc-for-invesco.json
 ---
