@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140826021154
+wayback_snapshot_url: "http://web.archive.org/web/20140826021154/http://cfi.co/latinamerica/2012/05/investing-in-sao-paulo/"
 content_sha256: c8295f7983330e8d505a2d39bcc61f40f77c98b623db3223fdbf6533dc2c4dc0
 canonical: 328-investing-in-sao-paulo.json
 ---
