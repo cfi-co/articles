@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20190818054030
+wayback_snapshot_url: "http://web.archive.org/web/20190818054030/https://cfi.co/banking/2012/05/brazil-has-reason-to-be-proud-of-first-tier-banks/"
 content_sha256: a6b23df06b660de1d3c616b4f92d4f24c007855892d3cebab19c2faaf14769b7
 canonical: 643-brazil-has-reason-to-be-proud-of-first-tier-banks.json
 ---
