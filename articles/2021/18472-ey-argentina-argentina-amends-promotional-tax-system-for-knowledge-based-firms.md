@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210119193256
+wayback_snapshot_url: "http://web.archive.org/web/20210119193256/https://cfi.co/finance/2021/01/ey-argentina-argentina-amends-promotional-tax-system-for-knowledge-based-firms/"
 content_sha256: d843e4ba32c1213870fcf87cd1801c23bb7fe8d138440d121c3369adc1562117
 canonical: 18472-ey-argentina-argentina-amends-promotional-tax-system-for-knowledge-based-firms.json
 ---
