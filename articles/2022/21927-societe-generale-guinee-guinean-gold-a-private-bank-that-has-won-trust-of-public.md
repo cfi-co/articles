@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20220630130229
+wayback_snapshot_url: "http://web.archive.org/web/20220630130229/https://cfi.co/africa/2022/05/societe-generale-guinee-guinean-gold-a-private-bank-that-has-won-trust-of-public/"
 content_sha256: 832066da6bee7edb5b8259c5dbed0ca2014ec32bc83085647294d8fc55927dee
 canonical: 21927-societe-generale-guinee-guinean-gold-a-private-bank-that-has-won-trust-of-public.json
 ---
