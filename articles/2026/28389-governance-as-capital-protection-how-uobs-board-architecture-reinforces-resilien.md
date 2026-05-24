@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: c6c6ab93f9ed500e0133fd38c8a2d6ed80415bcd8300c62c8432811afa4f5cc8
 canonical: 28389-governance-as-capital-protection-how-uobs-board-architecture-reinforces-resilien.json
 ---
