@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20220315172159
+wayback_snapshot_url: "http://web.archive.org/web/20220315172159/https://cfi.co/brave-new-world/2022/03/trust-is-a-vital-part-of-success-recipe-for-pharma-companies/"
 content_sha256: 3c297a6ae7091be7671cd52dccb11801bef00748b91b4c03c417e400edef840c
 canonical: 21613-trust-is-a-vital-part-of-success-recipe-for-pharma-companies.json
 ---
