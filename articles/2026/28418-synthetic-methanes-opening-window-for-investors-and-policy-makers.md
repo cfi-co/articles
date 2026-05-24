@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: ae9805b4513bca1ce7047a78f375fbb8bd5b243bd19f66eed5b3851010defce8
 canonical: 28418-synthetic-methanes-opening-window-for-investors-and-policy-makers.json
 ---
