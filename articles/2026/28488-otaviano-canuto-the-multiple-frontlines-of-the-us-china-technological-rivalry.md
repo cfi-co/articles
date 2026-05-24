@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 344a2de57236f7a92c83b5554f585c655c770c57fc420d712856b93260f205a5
 canonical: 28488-otaviano-canuto-the-multiple-frontlines-of-the-us-china-technological-rivalry.json
 ---
