@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: ce3cebffc2a8d84ecba390e0db9e8133788c02c41ff467afcc891d7850b3fbce
 canonical: 17791-the-book-that-trump-rewrote.json
 ---
