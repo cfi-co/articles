@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210720134931
+wayback_snapshot_url: "http://web.archive.org/web/20210720134931/https://cfi.co/editors-picks/2021/07/dame-jessica-ennis-hill-cheap-childcare-led-to-winning-athletics-career-jokes-ennis-hill/"
 content_sha256: 17e6a3318feaa741f1191f4f3649590f1ce61af7db551eb201f689f9489385d8
 canonical: 20220-dame-jessica-ennis-hill-cheap-childcare-led-to-winning-athletics-career-jokes-en.json
 ---
