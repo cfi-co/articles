@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20190720034738
+wayback_snapshot_url: "http://web.archive.org/web/20190720034738/https://cfi.co/africa/2011/12/cfi-top-25-cities-in-emerging-markets-to-do-business/"
 content_sha256: 4a8281a0b7472d328a4cd4a17056c26f0279776fa06aebea665f5545457a4e4b
 canonical: 117-cfi-top-25-cities-in-emerging-markets-to-do-business.json
 ---

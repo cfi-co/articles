@@ -24,12 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20190720034738",
+        "wayback_snapshot_url": "http://web.archive.org/web/20190720034738/https://cfi.co/africa/2011/12/cfi-top-25-cities-in-emerging-markets-to-do-business/"
     },
     "excerpt": "",
     "content_html": "<a href=\"http://capitalfinanceint.com/news/wp-content/uploads/2012/05/briccalendar.jpg\"><img class=\"aligncenter size-full wp-image-118\" title=\"briccalendar\" src=\"http://capitalfinanceint.com/news/wp-content/uploads/2012/05/briccalendar.jpg\" alt=\"\" width=\"582\" height=\"234\" /></a>\n\nCFI has identified the best emerging market cities to do business in this year. We have chosen not to rank the cities as their relative competitiveness really depends on what the company in question is actually seeking as their critical success factors. Company specific issues such as the industry sector, labor requirements and infrastructure needs will also determine the attractiveness of any city and thus makes rankings less meaningful.\n\nCFI works with agencies for foreign direct investment and inwards investment into countries and cities in emerging markets.\n\n<span style=\"text-decoration: underline;\">Table: CFI Top 25 Cities In Emerging Markets To Do Business </span>\n(In Alphabetical Order)\n<ul>\n\t<li>Bangalore</li>\n\t<li>Bangkok</li>\n\t<li>Beijing</li>\n\t<li>Bogota</li>\n\t<li>Doha</li>\n\t<li>Dubai</li>\n\t<li>Hong Kong</li>\n\t<li>Istanbul</li>\n\t<li>Jakarta</li>\n\t<li>Kuala Lumpur</li>\n\t<li>Lagos</li>\n\t<li>Lima</li>\n\t<li>Manila</li>\n\t<li>Mexico City</li>\n\t<li>Moscow</li>\n\t<li>Mumbai</li>\n\t<li>Panama City</li>\n\t<li>Rio de Janiero</li>\n\t<li>Riyadh</li>\n\t<li>Salvador do Brasil</li>\n\t<li>Santiago de Chile</li>\n\t<li>Sao Paolo</li>\n\t<li>Seoul</li>\n\t<li>Shanghai</li>\n\t<li>Singapore</li>\n</ul>\n<p align=\"right\"><em>Source: CFI, FDI reports, Various</em></p>",
     "content_sha256": "4a8281a0b7472d328a4cd4a17056c26f0279776fa06aebea665f5545457a4e4b",
-    "record_sha256": "016c54b958031aca64d52bddba1379068142b7b261358c130044eb75b2a8e069"
+    "record_sha256": "8c2c76873c0f093f0d8b992b3eef2aab2d1c8f9ad11b53696e5f91ffc63d9684"
 }
