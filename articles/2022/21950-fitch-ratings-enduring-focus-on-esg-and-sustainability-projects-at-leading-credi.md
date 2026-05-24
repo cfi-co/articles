@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20220630130828
+wayback_snapshot_url: "http://web.archive.org/web/20220630130828/https://cfi.co/menu/csr/2022/05/fitch-ratings-enduring-focus-on-esg-and-sustainability-projects-at-leading-credit-ratings-provider/"
 content_sha256: afcd5498527b84aedeaa92d96d6dc71d803b6123ec531f2ce3e99bc3a957f04a
 canonical: 21950-fitch-ratings-enduring-focus-on-esg-and-sustainability-projects-at-leading-credi.json
 ---
