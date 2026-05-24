@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20250905122133
+wayback_snapshot_url: "http://web.archive.org/web/20250905122133/https://cfi.co/finance/2025/09/digital-healths-q1-2025-unicorn-baby-boom-investors-bet-big-on-innovation/"
 content_sha256: af727538463288d1124188e1b472c68794594244f0e3e618f58258be824b8cb7
 canonical: 27895-digital-healths-q1-2025-unicorn-baby-boom-investors-bet-big-on-innovation.json
 ---
