@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20201118214214
+wayback_snapshot_url: "http://web.archive.org/web/20201118214214/https://cfi.co/latinamerica/2020/01/fitch-ratings-global-perspectives-strong-local-experience-and-credit-market-expertise/"
 content_sha256: 23dcbbb0ec79861e3b5df1872f594292ee3ba921222f5fe33bca8ee6b84b8c62
 canonical: 17507-fitch-ratings-global-perspectives-strong-local-experience-and-credit-market-expe.json
 ---
