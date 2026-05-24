@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20230731183921
+wayback_snapshot_url: "http://web.archive.org/web/20230731183921/https://cfi.co/latinamerica/2023/07/banco-hipotecario-focus-on-people-and-productivity/"
 content_sha256: c6ed1f15e43fd1bcfb9642941fbf1dee32580ecbf3f0d25febcda73c09219b9b
 canonical: 25790-a-focus-on-people-and-productivity-has-taken-this-el-salvador-bank-to-new-height.json
 ---
