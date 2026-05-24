@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20240906094613
+wayback_snapshot_url: "http://web.archive.org/web/20240906094613/https://cfi.co/europe/2024/09/its-all-about-strategy-and-eurofer-has-that-under-control/"
 content_sha256: d79bf96702adc4f4495768497506d7b06f0ee40c2112317fa11f8bb60f23cfcb
 canonical: 27094-its-all-about-strategy-and-eurofer-has-that-under-control.json
 ---
