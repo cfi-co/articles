@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 115b3518d3a9e583707b12c5927c181e9c43ea5619b9012b731c46c8a436ce3d
 canonical: 17685-rainy-day-funds-help-a-little-when-it-pours.json
 ---
