@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 7dbfa5c852d49467f69ca18b9c2803e131a30be4d4d272d8820e4d2f32befa69
 canonical: 21114-invasion-of-the-robots-beware-beware-just-because-we-can-doesnt-mean-that-we-sho.json
 ---
