@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20200923115222
+wayback_snapshot_url: "http://web.archive.org/web/20200923115222/https://cfi.co/c-19/2020/07/eu-prime-ministers-beat-a-path-to-the-hague/"
 content_sha256: da8c03eb2ba220e2931f02125c37ad56b09f94c4e5d9d24bd27732d145eb93e6
 canonical: 16262-eu-prime-ministers-beat-a-path-to-the-hague.json
 ---
