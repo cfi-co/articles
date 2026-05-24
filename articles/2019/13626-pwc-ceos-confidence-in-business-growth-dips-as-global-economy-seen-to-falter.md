@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20190723012525
+wayback_snapshot_url: "http://web.archive.org/web/20190723012525/https://cfi.co/africa/2019/06/pwc-ceos-confidence-in-business-growth-dips-as-global-economy-seen-to-falter/"
 content_sha256: 78178f427d8b20861088dbe03c04199adb4151f121987d49cb732e4edd325f6c
 canonical: 13626-pwc-ceos-confidence-in-business-growth-dips-as-global-economy-seen-to-falter.json
 ---
