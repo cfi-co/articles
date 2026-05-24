@@ -16,7 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: d2c1242d71af2769031b5f855b025f692dac1a528809d7afe930c15e493b715d
 canonical: 28468-schafer-cullen-why-discipline-still-defines-value-investing.json
 ---
