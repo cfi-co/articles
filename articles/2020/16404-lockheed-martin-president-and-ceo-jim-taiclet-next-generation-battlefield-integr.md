@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20200918232902
+wayback_snapshot_url: "http://web.archive.org/web/20200918232902/https://cfi.co/northamerica/2020/07/lockheed-martin-president-and-ceo-jim-taiclet-next-generation-battlefield-integration/"
 content_sha256: c0fce7b1a09f38a67cf41bb2999c08db2a30bc15df9da0183f3656d44b14ea87
 canonical: 16404-lockheed-martin-president-and-ceo-jim-taiclet-next-generation-battlefield-integr.json
 ---
