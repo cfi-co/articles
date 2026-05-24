@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 1d302c7cf576a1ad91d64add5d8ece366fb9319c66f78b3c9ed4794e03604283
 canonical: 18494-out-with-the-old-president-biden-first-acts-covid-top-priority.json
 ---
