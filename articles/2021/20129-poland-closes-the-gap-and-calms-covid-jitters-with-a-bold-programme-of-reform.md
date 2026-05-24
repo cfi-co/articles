@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210724002759
+wayback_snapshot_url: "http://web.archive.org/web/20210724002759/https://cfi.co/c-19/2021/07/poland-closes-the-gap-and-calms-covid-jitters-with-a-bold-programme-of-reform/"
 content_sha256: f705ed500bc02aadd637de3a7732a3548cf9f8154d60e46a12386aef8012480d
 canonical: 20129-poland-closes-the-gap-and-calms-covid-jitters-with-a-bold-programme-of-reform.json
 ---
