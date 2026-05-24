@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20231030221150
+wayback_snapshot_url: "http://web.archive.org/web/20231030221150/https://cfi.co/europe/2023/10/embracing-esg-transformation-turning-ambitions-into-action/"
 content_sha256: 0edd2989c336a72fe6a732d6ae51da081b500599619e797102d81f92bf6b8059
 canonical: 26220-embracing-esg-transformation-turning-ambitions-into-action.json
 ---
