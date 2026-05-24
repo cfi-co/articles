@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20191014231431
+wayback_snapshot_url: "http://web.archive.org/web/20191014231431/https://cfi.co/asia-pacific/2014/12/chinas-high-speed-rail-the-rapid-growth-of-a-new-travel-option/"
 content_sha256: b8b51266dd83c88b8c659a7f59cf5a94ced4fe5ee6006f8da6c0b3c8523e201b
 canonical: 8584-chinas-high-speed-rail-the-rapid-growth-of-a-new-travel-option.json
 ---
