@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20140827052854
+wayback_snapshot_url: "http://web.archive.org/web/20140827052854/http://cfi.co/finance/2014/01/lowell-mcadam-a-nimble-behemoth-enters-the-golden-age-of-innovation/"
 content_sha256: 6bbe943c8ee7ba373ce6c381abd14d1cd7f571551e72dd40ff76deb53b2e9235
 canonical: 6374-lowell-mcadam-a-nimble-behemoth-enters-the-golden-age-of-innovation.json
 ---
