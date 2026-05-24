@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: c025ac96a174099a9b0c1ad581766e2b294bf3c8d696c04920eaea763464327f
 canonical: 3634-millenium-goals-ban-ki-moon-calls-our-hero-malala-yousafzai.json
 ---
