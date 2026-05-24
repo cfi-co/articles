@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20190717210027
+wayback_snapshot_url: "http://web.archive.org/web/20190717210027/https://cfi.co/europe/2014/09/united-kingdom-splitting-rage-takes-root/"
 content_sha256: 689e30af7a6aee0bd755c12d5a493600360b66b01e59c51d0211d88aef04742f
 canonical: 7993-united-kingdom-splitting-rage-takes-root.json
 ---
