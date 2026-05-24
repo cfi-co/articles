@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20190818052049
+wayback_snapshot_url: "http://web.archive.org/web/20190818052049/https://cfi.co/europe/2015/03/taxing-mobility-a-liberal-icon-gone-awry/"
 content_sha256: 8442df5324bbd3decdd2883624ca0c632618bfec447d3cace4007d57625fc83e
 canonical: 9501-taxing-mobility-a-liberal-icon-gone-awry.json
 ---
