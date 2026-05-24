@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20200924122324
+wayback_snapshot_url: "http://web.archive.org/web/20200924122324/https://cfi.co/menu/corporate/2019/07/euro-exim-bank-from-caribbean-to-world-stage-with-pride-love-and-blockchain/"
 content_sha256: fc1b51d22227d6c7837a34d5e7b15658ed02fdf434a67393f64ab0a765597733
 canonical: 15681-euro-exim-bank-from-caribbean-to-world-stage-with-pride-love-and-blockchain.json
 ---
