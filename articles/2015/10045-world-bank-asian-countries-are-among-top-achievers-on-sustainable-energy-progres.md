@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20190724024756
+wayback_snapshot_url: "http://web.archive.org/web/20190724024756/https://cfi.co/asia-pacific/2015/06/world-bank-asian-countries-are-among-top-achievers-on-sustainable-energy-progress/"
 content_sha256: 41b9cbc389bd1860c33a99010f78ed09592025e7dd338362b3e038dc72f30131
 canonical: 10045-world-bank-asian-countries-are-among-top-achievers-on-sustainable-energy-progres.json
 ---
