@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20190916044301
+wayback_snapshot_url: "http://web.archive.org/web/20190916044301/https://cfi.co/europe/2015/01/evangelos-marinakis-a-councilman-of-note/"
 content_sha256: d5730d924ddc691bb0324e040b44c928e1ae0320df5a929e8a4b89656d4c5b62
 canonical: 8647-evangelos-marinakis-a-councilman-of-note.json
 ---
