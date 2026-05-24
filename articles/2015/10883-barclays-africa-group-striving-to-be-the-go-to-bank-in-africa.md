@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20210418044303
+wayback_snapshot_url: "http://web.archive.org/web/20210418044303/https://cfi.co/menu/corporate/2015/07/barclays-africa-group-striving-to-be-the-go-to-bank-in-africa/"
 content_sha256: ad8530e704d6230d3ef66727364e6235077337b3be0fb884c2c96a83b9bd9121
 canonical: 10883-barclays-africa-group-striving-to-be-the-go-to-bank-in-africa.json
 ---
