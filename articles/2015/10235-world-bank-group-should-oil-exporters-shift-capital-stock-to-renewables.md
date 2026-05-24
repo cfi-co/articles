@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20190724024112
+wayback_snapshot_url: "http://web.archive.org/web/20190724024112/https://cfi.co/latinamerica/2015/08/world-bank-group-should-oil-exporters-shift-capital-stock-to-renewables/"
 content_sha256: 3c194ab8493cd26648562add10c4cad08ec9bcdcaf8424a67b9a35424c8f0981
 canonical: 10235-world-bank-group-should-oil-exporters-shift-capital-stock-to-renewables.json
 ---
