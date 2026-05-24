@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20200414074431
+wayback_snapshot_url: "http://web.archive.org/web/20200414074431/https://cfi.co/europe/2020/01/uk-wont-move-on-after-brexit-it-will-move-forward/"
 content_sha256: ddab929d2b374ceae5cddd9962693dc71b0fea2b6aea46b77fba23518a84731d
 canonical: 14569-uk-wont-move-on-after-brexit-it-will-move-forward.json
 ---
