@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20250919125246
+wayback_snapshot_url: "http://web.archive.org/web/20250919125246/https://cfi.co/africa/2025/09/strengthening-the-custody-chain-bank-one-supports-africas-private-capital-evolution/"
 content_sha256: cb2193fb132c51e1993d0f77174bfcd2002c17c584fd5adeaccc9a9d04650d88
 canonical: 27936-strengthening-the-custody-chain-bank-one-supports-africas-private-capital-evolut.json
 ---
