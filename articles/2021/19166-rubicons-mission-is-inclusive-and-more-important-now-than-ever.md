@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210418062133
+wayback_snapshot_url: "http://web.archive.org/web/20210418062133/https://cfi.co/menu/corporate/2021/03/rubicons-mission-is-inclusive-and-more-important-now-than-ever/"
 content_sha256: 676b6d025f21be537f5ffafe4a03d4db7267006276c69e149965d51b11419308
 canonical: 19166-rubicons-mission-is-inclusive-and-more-important-now-than-ever.json
 ---
