@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210920105509
+wayback_snapshot_url: "http://web.archive.org/web/20210920105509/https://cfi.co/menu/corporate/2021/07/national-finance-enhancing-digital-capabilities/"
 content_sha256: 5424d9bc024ee7c5a7e1a5063cafc99429072f9b047603257979e47b86c60b36
 canonical: 20172-national-finance-enhancing-digital-capabilities.json
 ---
