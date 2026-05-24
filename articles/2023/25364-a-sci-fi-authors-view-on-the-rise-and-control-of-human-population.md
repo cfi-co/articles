@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20230503155922
+wayback_snapshot_url: "http://web.archive.org/web/20230503155922/https://cfi.co/brave-new-world/2023/05/a-sci-fi-authors-view-on-the-rise-and-control-of-human-population/"
 content_sha256: 0d93a42a1293ca6e36699157b92ddd9258b38607e9f29a2e9567472f8e5f9a60
 canonical: 25364-a-sci-fi-authors-view-on-the-rise-and-control-of-human-population.json
 ---
