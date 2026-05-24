@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20220627134111
+wayback_snapshot_url: "http://web.archive.org/web/20220627134111/https://cfi.co/finance/2022/06/quantitative-tightening-and-capital-flows-to-emerging-markets/"
 content_sha256: 69f22a4c18a87c870063ecee82dfc0abdc39e691247f9aa4043dbe30123c70e8
 canonical: 22284-quantitative-tightening-and-capital-flows-to-emerging-markets.json
 ---
