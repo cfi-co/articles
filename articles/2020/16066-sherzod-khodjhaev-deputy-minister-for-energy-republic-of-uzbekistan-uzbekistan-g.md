@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20200702085141
+wayback_snapshot_url: "http://web.archive.org/web/20200702085141/https://cfi.co/menu/energy/2020/05/sherzod-khodjhaev-deputy-minister-for-energy-republic-of-uzbekistan-uzbekistan-gets-to-grips-with-challenges-of-responsible-electric-power-generation/"
 content_sha256: 59762d5b353ec603e254016ac90c51a3250e51449ba3129fb0ad1297b5802116
 canonical: 16066-sherzod-khodjhaev-deputy-minister-for-energy-republic-of-uzbekistan-uzbekistan-g.json
 ---
