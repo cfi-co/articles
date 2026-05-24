@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210418053043
+wayback_snapshot_url: "http://web.archive.org/web/20210418053043/https://cfi.co/corporate-leaders/2020/08/johan-marthinus-absa-bank-seychelles-a-pioneering-force-changing-the-financial-landscape/"
 content_sha256: 6165c7abbb37bcbc912917aca9c1c4edde999e8ec838fdc3b13e36ad3e8855d7
 canonical: 16605-johan-marthinus-absa-bank-seychelles-a-pioneering-force-changing-the-financial-l.json
 ---
