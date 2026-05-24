@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20220224213146
+wayback_snapshot_url: "http://web.archive.org/web/20220224213146/https://cfi.co/brave-new-world/2022/02/markets-in-turmoil-president-putins-technical-operations-upset-the-apple-cart/"
 content_sha256: ac6ea6e1804483a51b0f4579c27f3958b00f0a9ae35f51c6fc5fe6f82daecb16
 canonical: 21596-markets-in-turmoil-president-putins-technical-operations-upset-the-apple-cart.json
 ---
