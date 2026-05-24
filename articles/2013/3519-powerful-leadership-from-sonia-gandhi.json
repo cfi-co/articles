@@ -19,12 +19,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "submitted_pending",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20190823050037",
+        "wayback_snapshot_url": "http://web.archive.org/web/20190823050037/https://cfi.co/editors-picks/2013/04/powerful-leadership-from-sonia-gandhi/"
     },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_3535\" align=\"aligncenter\" width=\"466\"]<img class=\" wp-image-3535  \" alt=\"Sonia Gandhi, President of the Indian National Congress\" src=\"https://cfi.co/wp-content/uploads/2013/04/sonia-gandhi.jpg\" width=\"466\" height=\"268\" /> <strong>Sonia Gandhi, President of the Indian National Congress</strong>[/caption]\r\n<p style=\"text-align: justify;\"><strong>Sonia Gandhi, aged 66 and widow of former PM Rajiv, is India’s most powerful leader and the longest serving president of the Congress Party. </strong>Elected in 1998, Gandhi was the first foreign born president of Congress since Indian Independence. She is the leader of the ruling party in the world’s second most populous country and tenth largest economy. Her son Rahul is next in line to take over in the dynasty.</p>",
     "content_sha256": "a36ef33f5080822632cbda055bf31988a57afe56d5fdd7454094f1f09cf054d8",
-    "record_sha256": "e1cb30bcbde0d999230f4180cc46b40288a36292cf282be9912808ffeb0c8872"
+    "record_sha256": "81b91be1ba96380451b9848c06143012a5c4f5b85f5b288041c7090194fe2f28"
 }
