@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260315113648
+wayback_snapshot_url: "http://web.archive.org/web/20260315113648/https://cfi.co/menu/reviews/2026/02/specialised-performance-what-the-humble-penguin-can-teach-the-modern-c-suite/"
 content_sha256: 7c737e30ecbf1572d24c82268ee97a1d23d5b7e083574a05369966f7219b63d2
 canonical: 28317-specialised-performance-what-the-humble-penguin-can-teach-the-modern-c-suite.json
 ---
