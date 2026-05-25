@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20131001111628
+wayback_snapshot_url: "http://web.archive.org/web/20131001111628/http://cfi.co/banking/2012/08/new-pacific-alliance-upbeat-seeking-competitive-advantages/"
 content_sha256: 8bf6a3b0b3aef1b437545502fa74df30509a325b9e03059e680d2f4f7ad1b5a6
 canonical: 1807-new-pacific-alliance-upbeat-seeking-competitive-advantages.json
 ---
