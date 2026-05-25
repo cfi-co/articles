@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210228094002
+wayback_snapshot_url: "http://web.archive.org/web/20210228094002/https://cfi.co/menu/corporate/2021/02/la-trobe-financial-experienced-hands-unblemished-record/"
 content_sha256: 7f541be5adb7c674e5c08764a7dc8cbd2122a80f8759601fcb90ae038d340694
 canonical: 18724-la-trobe-financial-experienced-hands-unblemished-record.json
 ---
