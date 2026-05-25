@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20200920102552
+wayback_snapshot_url: "http://web.archive.org/web/20200920102552/https://cfi.co/africa/2020/08/ambareen-musa-founder-ceo-of-souqalmal-from-mauritius-with-love-for-fintech-and-lots-of-ambition/"
 content_sha256: b5344403a3c3cdef0b4b23fed91882210b5da9cdbde3b1dda5e7d4e236857ace
 canonical: 16543-ambareen-musa-founder-ceo-of-souqalmal-from-mauritius-with-love-for-fintech-and-.json
 ---
