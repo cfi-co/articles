@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20250322100007
+wayback_snapshot_url: "http://web.archive.org/web/20250322100007/https://cfi.co/finance/2025/02/wall-street-checkmate-the-intriguing-story-of-chess-expertise-and-business/"
 content_sha256: 4449c6831d5c7100bf0983aaa51db73a254fd7c7f907fe0a31834f6466079e4a
 canonical: 27558-wall-street-checkmate-the-intriguing-story-of-chess-expertise-and-business.json
 ---
