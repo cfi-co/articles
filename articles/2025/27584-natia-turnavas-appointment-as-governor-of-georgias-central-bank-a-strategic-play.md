@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20250219143620
+wayback_snapshot_url: "http://web.archive.org/web/20250219143620/https://cfi.co/banking/2025/02/natia-turnavas-appointment-as-governor-of-georgias-central-bank-a-strategic-play-for-stability-and-investor-confidence/"
 content_sha256: e247eca92193f133665d3b80f3922deebc897712f53d1e121438c23c300f8a77
 canonical: 27584-natia-turnavas-appointment-as-governor-of-georgias-central-bank-a-strategic-play.json
 ---
