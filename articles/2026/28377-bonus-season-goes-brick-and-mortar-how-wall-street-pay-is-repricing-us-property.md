@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260524045155
+wayback_snapshot_url: "http://web.archive.org/web/20260524045155/https://cfi.co/northamerica/2026/04/bonus-season-goes-brick-and-mortar-how-wall-street-pay-is-repricing-us-property/"
 content_sha256: 6cfedbb2968424ee26f005217df26e298c53970e26f9a5ee54330b947671dcd7
 canonical: 28377-bonus-season-goes-brick-and-mortar-how-wall-street-pay-is-repricing-us-property.json
 ---
