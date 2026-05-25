@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260524045441
+wayback_snapshot_url: "http://web.archive.org/web/20260524045441/https://cfi.co/lifestyle/2026/04/the-fifteen-year-old-who-just-earned-a-phd-and-is-specialising-in-immortality/"
 content_sha256: 3558ed69534739abb0fb898b277cd2bf0c821506d484f78d2d7bef74c2443afb
 canonical: 28411-the-fifteen-year-old-who-just-earned-a-phd-and-is-specialising-in-immortality.json
 ---
