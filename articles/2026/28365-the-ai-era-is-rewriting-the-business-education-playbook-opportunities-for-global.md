@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260523043227
+wayback_snapshot_url: "http://web.archive.org/web/20260523043227/https://cfi.co/sustainability/2026/03/the-ai-era-is-rewriting-the-business-education-playbook-opportunities-for-global-economic-competitiveness/"
 content_sha256: 5830f5b639e292214d6470ed178aae21d619fa21efb877f829c0399465eaf602
 canonical: 28365-the-ai-era-is-rewriting-the-business-education-playbook-opportunities-for-global.json
 ---
