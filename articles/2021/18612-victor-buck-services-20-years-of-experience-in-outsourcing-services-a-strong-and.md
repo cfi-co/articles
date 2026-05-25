@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210422024456
+wayback_snapshot_url: "http://web.archive.org/web/20210422024456/https://cfi.co/menu/corporate/2021/02/victor-buck-services-20-years-of-experience-in-outsourcing-services-a-strong-and-flexible-global-partner-for-the-financial-healthcare-insurance-and-telco-industries/"
 content_sha256: 8b0ebd62b7a76c46d6738dbdcf13dc828a435712f5b648d839592eff806866d6
 canonical: 18612-victor-buck-services-20-years-of-experience-in-outsourcing-services-a-strong-and.json
 ---
