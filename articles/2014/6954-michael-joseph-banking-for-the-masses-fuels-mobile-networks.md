@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20140705121609
+wayback_snapshot_url: "http://web.archive.org/web/20140705121609/http://cfi.co/africa/2014/04/michael-joseph-banking-for-the-masses-fuels-mobile-networks/"
 content_sha256: 85cfff5d2aa3b01021dd7d662afe734761f26537205df163ca2763d8609756b9
 canonical: 6954-michael-joseph-banking-for-the-masses-fuels-mobile-networks.json
 ---
