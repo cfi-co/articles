@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20200918193646
+wayback_snapshot_url: "http://web.archive.org/web/20200918193646/https://cfi.co/menu/corporate/2019/09/adam-global-global-reach-personalised-service-proves-a-winner/"
 content_sha256: 44603c9702f37c4168bfdde2eb22d426bb278d5f46e58e7836bf5548ed867eae
 canonical: 16150-adam-global-global-reach-personalised-service-proves-a-winner.json
 ---
