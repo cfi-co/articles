@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20241119003547
+wayback_snapshot_url: "http://web.archive.org/web/20241119003547/https://cfi.co/finance/2024/11/moodys-ratings-leading-in-transition-finance-and-embracing-digital-innovation/"
 content_sha256: e33ad2f7665d660355b28515833bdee51a9ba27276dad76f9ed6c044df148c6f
 canonical: 27297-moodys-ratings-leading-in-transition-finance-and-embracing-digital-innovation.json
 ---
