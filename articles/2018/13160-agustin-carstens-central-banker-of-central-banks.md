@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20200918132436
+wayback_snapshot_url: "http://web.archive.org/web/20200918132436/https://cfi.co/uncategorized/2018/09/agustin-carstens-central-banker-of-central-banks/"
 content_sha256: b409a8d321230c0dd43a9db97fc28673ec7596f78903923ba73c32c84621cbca
 canonical: 13160-agustin-carstens-central-banker-of-central-banks.json
 ---
