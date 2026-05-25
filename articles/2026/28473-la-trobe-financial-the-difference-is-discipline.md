@@ -16,7 +16,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260523042947
+wayback_snapshot_url: "http://web.archive.org/web/20260523042947/https://cfi.co/asia-pacific/2026/05/la-trobe-financial-the-difference-is-discipline/"
 content_sha256: 7e39ded0403994f929e2b77ac35479b48e495d64c6748d3dbc48cc35e4f10b11
 canonical: 28473-la-trobe-financial-the-difference-is-discipline.json
 ---
