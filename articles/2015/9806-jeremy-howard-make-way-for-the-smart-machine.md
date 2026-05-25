@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20190724024224
+wayback_snapshot_url: "http://web.archive.org/web/20190724024224/https://cfi.co/technology/2015/06/jeremy-howard-make-way-for-the-smart-machine/"
 content_sha256: b958a238759bf9612888acc37e7c4c05b01ede7c7b3f6c4356f1ad9bd07ccb10
 canonical: 9806-jeremy-howard-make-way-for-the-smart-machine.json
 ---
