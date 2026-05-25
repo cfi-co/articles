@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210708085214
+wayback_snapshot_url: "http://web.archive.org/web/20210708085214/https://cfi.co/africa/2021/07/pwc-nigerias-local-government-system-challenges-and-opportunities-abound/"
 content_sha256: 2a739ecff1a48786ee8b8638b579ac98ff8d3b5a5c111cf0ccaa0a97a79738a6
 canonical: 20117-pwc-nigerias-local-government-system-challenges-and-opportunities-abound.json
 ---
