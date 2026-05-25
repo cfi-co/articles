@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20230323013854
+wayback_snapshot_url: "http://web.archive.org/web/20230323013854/https://cfi.co/corporate-leaders/2020/06/sonnie-ayere-affordable-housing-entrepreneurship-nigerian-economy/"
 content_sha256: 657bf3d9f6af06a7605d1bf9395f482b70090bc0c7215dacbf387e2ba149b2ab
 canonical: 15506-affordable-housing-entrepreneurship-nigerian-economy-as-targets-sonnie-ayere-has.json
 ---
