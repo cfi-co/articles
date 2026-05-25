@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20240614145031
+wayback_snapshot_url: "http://web.archive.org/web/20240614145031/https://cfi.co/brave-new-world/2024/06/one-mans-view-of-the-mountain-uk-urgently-needs-to-rejoin-eu-to-create-economic-security/"
 content_sha256: b68f1970f2df596e35c0f5f80f57a5cfe42c360216e4ce73fce23464ff2943e3
 canonical: 26865-one-mans-view-of-the-mountain-uk-urgently-needs-to-rejoin-eu-to-create-economic-.json
 ---
