@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20190818135841
+wayback_snapshot_url: "http://web.archive.org/web/20190818135841/https://cfi.co/middleeast/2015/02/cityscape-abu-dhabi-expects-double-digit-growth-in-exhibition-space-as-real-estate-market-stabilises/"
 content_sha256: c87f68b03d24bc310ebeb0571287111a1d845e3f583239422591252286c8e7ab
 canonical: 8984-cityscape-abu-dhabi-expects-double-digit-growth-in-exhibition-space-as-real-esta.json
 ---
