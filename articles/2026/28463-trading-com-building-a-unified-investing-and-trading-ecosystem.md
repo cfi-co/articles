@@ -16,7 +16,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260523043227
+wayback_snapshot_url: "http://web.archive.org/web/20260523043227/https://cfi.co/technology/2026/05/trading-com-building-a-unified-investing-and-trading-ecosystem/"
 content_sha256: 460a142830db6e56bc00dbeef4a6cb40f10737abc46aefef72a3e5ca195e34e9
 canonical: 28463-trading-com-building-a-unified-investing-and-trading-ecosystem.json
 ---
