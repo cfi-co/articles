@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260523042803
+wayback_snapshot_url: "http://web.archive.org/web/20260523042803/https://cfi.co/asia-pacific/2026/04/the-intelligent-framework-why-lenovos-governance-leads-the-asia-pacific-tech-wave/"
 content_sha256: 10bfb8f2944dda714038a12022355a1871fcfc9f9a5f0dba45c5e1648110e9b7
 canonical: 28370-the-intelligent-framework-why-lenovos-governance-leads-the-asia-pacific-tech-wav.json
 ---
