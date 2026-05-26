@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210418061216
+wayback_snapshot_url: "http://web.archive.org/web/20210418061216/https://cfi.co/menu/corporate/2021/04/inter-seguros-we-need-to-talk-about-insurance-brazil/"
 content_sha256: f1145a2bcd67de59074c3a79c16e8370e3091944f95d7f210a021b98cd036abd
 canonical: 19421-inter-seguros-we-need-to-talk-about-insurance-brazil.json
 ---
