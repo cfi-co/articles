@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20170328061339
+wayback_snapshot_url: "http://web.archive.org/web/20170328061339/http://cfi.co/europe/2016/01/ifc-climate-change-threat-and-opportunity-for-private-sector/"
 content_sha256: 4125f03428886f02fb08cbbe6e2d30491b4b5f6bedfbdb0e6bb651a8391753ae
 canonical: 10722-ifc-climate-change-threat-and-opportunity-for-private-sector.json
 ---
