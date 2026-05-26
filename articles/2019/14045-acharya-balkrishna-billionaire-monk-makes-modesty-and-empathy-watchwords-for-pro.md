@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20191021054334
+wayback_snapshot_url: "http://web.archive.org/web/20191021054334/https://cfi.co/asia-pacific/2019/09/acharya-balkrishna-billionaire-monk-makes-modesty-and-empathy-watchwords-for-progress/"
 content_sha256: cb09241a792dff3cc26a71a00c0719b3d0d60d406be4066de47f1ab2edd8bb9d
 canonical: 14045-acharya-balkrishna-billionaire-monk-makes-modesty-and-empathy-watchwords-for-pro.json
 ---
