@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20250209165837
+wayback_snapshot_url: "http://web.archive.org/web/20250209165837/https://cfi.co/sustainability/2025/01/the-ai-economy-demands-leadership-why-every-c-suite-needs-a-chief-ai-officer/"
 content_sha256: 1e2ad7d43f43b43f3cc996210a9154841d4fb9301a66895ea4ee6ec53f072eea
 canonical: 27535-the-ai-economy-demands-leadership-why-every-c-suite-needs-a-chief-ai-officer.json
 ---
