@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20211018150654
+wayback_snapshot_url: "http://web.archive.org/web/20211018150654/https://cfi.co/editors-picks/2021/10/clarisse-merlet-building-a-better-future-one-fabbrick-at-a-time/"
 content_sha256: c63f14ac8de15be98fe51c880ff6cce92a7fa7b9c27f82fc5de0336aec39f8b7
 canonical: 20805-clarisse-merlet-building-a-better-future-one-fabbrick-at-a-time.json
 ---
