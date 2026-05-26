@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20230521172323
+wayback_snapshot_url: "http://web.archive.org/web/20230521172323/https://cfi.co/brave-new-world/2023/05/asian-development-bank-decarbonisation-wont-work-unless-its-equitable/"
 content_sha256: 942426185ec555f3cb794493309608d8f576e180ccc5ea76e7907cb74c76965a
 canonical: 25466-asian-development-bank-decarbonisation-wont-work-unless-its-equitable.json
 ---
