@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20190820141733
+wayback_snapshot_url: "http://web.archive.org/web/20190820141733/https://cfi.co/editors-picks/2015/07/dianne-feinstein-keeping-the-eavesdroppers-in-check/"
 content_sha256: 96c585a708833b0e7415f988e245e0640b35a73089f6733ee0141139b2910464
 canonical: 10128-dianne-feinstein-keeping-the-eavesdroppers-in-check.json
 ---
