@@ -7,9 +7,10 @@ published_gmt: 2026-05-12 09:41:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/approval/2026/05/eastwest-banking-corporation-connecting-further-in-philippine-consumer-finance/"
 categories: []
-content_class: editorial_analysis
-independence_status: independent_editorial
-sponsor_disclosure: none
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "EastWest"
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
 correction_status: none
