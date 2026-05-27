@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20201108142304
+wayback_snapshot_url: "http://web.archive.org/web/20201108142304/https://cfi.co/northamerica/2020/11/the-book-that-trump-rewrote/"
 content_sha256: ce3cebffc2a8d84ecba390e0db9e8133788c02c41ff467afcc891d7850b3fbce
 canonical: 17791-the-book-that-trump-rewrote.json
 ---
