@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20190823050244
+wayback_snapshot_url: "http://web.archive.org/web/20190823050244/https://cfi.co/africa/2013/04/millenium-goals-ban-ki-moon-calls-our-hero-malala-yousafzai/"
 content_sha256: c025ac96a174099a9b0c1ad581766e2b294bf3c8d696c04920eaea763464327f
 canonical: 3634-millenium-goals-ban-ki-moon-calls-our-hero-malala-yousafzai.json
 ---
