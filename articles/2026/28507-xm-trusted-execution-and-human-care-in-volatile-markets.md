@@ -16,7 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 content_sha256: e5bc7c4c96dae23ade497f199c28dda28e563034f24f12ae0363163e8248ef5a
 canonical: 28507-xm-trusted-execution-and-human-care-in-volatile-markets.json
 ---
