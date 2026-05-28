@@ -5482,8 +5482,8 @@ e99438e2c94b7cb268c1e7d96bad92601bd9855bb9d7d9bf0a231025f6e9ed36  articles/2026/
 4ba768164ec4e11cb86e8f8331fbe74fe72cffffdecbcdd235f7e5155bc96c7f  articles/2026/28340-asian-development-bank-the-world-isnt-flat-but-government-data-is.md
 869a68018964311117d782eba3643a236cbadaccc1427e9544798d590adf4cd3  articles/2026/28352-the-ultimate-investment-pitch-how-to-win-funding-on-conviction-not-cash.json
 666826b14b6bcb3a642723e45db656a6cf5351a85264208adde89255c28a9ec2  articles/2026/28352-the-ultimate-investment-pitch-how-to-win-funding-on-conviction-not-cash.md
-c3edcaaf9e99777a3aedf49a561d953c31b9367dc6585836b7882c6456cfda1b  articles/2026/28357-energy-security-and-capital-allocation-why-geopolitics-is-accelerating-the-clean.json
-fcb7e0ba04963ac0cad824963523455c53ae50095770a5425c8f5474f719cb58  articles/2026/28357-energy-security-and-capital-allocation-why-geopolitics-is-accelerating-the-clean.md
+ba80b5e3b8d24efe3a0905a9f000bec9fdc42766b6dd4db6c1d1e71b5f116ecf  articles/2026/28357-energy-security-and-capital-allocation-why-geopolitics-is-accelerating-the-clean.json
+a97e44d7d9e7cb87f388ba521dd9ea81272330e06f939ac8d83c6e1a46e932d2  articles/2026/28357-energy-security-and-capital-allocation-why-geopolitics-is-accelerating-the-clean.md
 0d78882e8b5b8fc5fcd5367f962a4c29aa24fd426c5c5c7557cf411055b2b668  articles/2026/28365-the-ai-era-is-rewriting-the-business-education-playbook-opportunities-for-global.json
 fe874ae57d5a3355e8d16a17637b9555d19811c9d8413a9d4d7d65576757ff49  articles/2026/28365-the-ai-era-is-rewriting-the-business-education-playbook-opportunities-for-global.md
 70afa6b28b1abb6e1cd97545c0babf537a60758b966cc92a640b6df30e4662bf  articles/2026/28370-the-intelligent-framework-why-lenovos-governance-leads-the-asia-pacific-tech-wav.json
@@ -5524,10 +5524,10 @@ c30991ad00661518f0bc99f540ef7bc2443cb771568a694fd028f8241a868c8d  articles/2026/
 ad190924add736a3025fbd666ad4531926822902cd698e698fdec0f323100e0b  articles/2026/28482-miguel-lama-ceo-of-corporacion-zona-franca-santiago-building-a-leading-investmen.md
 41fd22f92366080621619e25e6b465fedbb6ec9f81252017ff69bfbe4c59dd8d  articles/2026/28488-otaviano-canuto-the-multiple-frontlines-of-the-us-china-technological-rivalry.json
 2f54baaf10787d7253ddff10a0b924c6ae3d7e6c94544459aae59a501663887a  articles/2026/28488-otaviano-canuto-the-multiple-frontlines-of-the-us-china-technological-rivalry.md
-269690fd8c46f4946e71ab5ed9e1165e3b6e66f912059d760bf7218fb6f955e3  articles/2026/28507-xm-trusted-execution-and-human-care-in-volatile-markets.json
-e079718dcdf367be69ead04d01ebe0d34c7da2d92426f44f0613938affb4258f  articles/2026/28507-xm-trusted-execution-and-human-care-in-volatile-markets.md
-f9839c5f69db9645aca49767d0dd2051b4a8171b2bd887443e4719182b4eee6e  articles/2026/28510-eastwests-next-chapter-discipline-digital-scale-and-the-consumer-finance-advanta.json
-931939f24de6d9a622e2b75f3624c4c77caaaca67fad281ba1c0582bd6a72a76  articles/2026/28510-eastwests-next-chapter-discipline-digital-scale-and-the-consumer-finance-advanta.md
+52ae0e09456a793b3ddd90edfef547ea4864451201827e4ca85a4bbe752a8d29  articles/2026/28507-xm-trusted-execution-and-human-care-in-volatile-markets.json
+3c974adf975750eb45faec1555b264c776e6d56fc75cefe3a50d3ab77c0967da  articles/2026/28507-xm-trusted-execution-and-human-care-in-volatile-markets.md
+77552764d883c3077a4a7e0d025adb760c0cc984593a8c7c2f08a47931649ba5  articles/2026/28510-eastwests-next-chapter-discipline-digital-scale-and-the-consumer-finance-advanta.json
+3266e06537107fc714a3c77fba75da16b67dbe36719a42ff475c01142d02e8e8  articles/2026/28510-eastwests-next-chapter-discipline-digital-scale-and-the-consumer-finance-advanta.md
 b38ad401b744adfac7757e82bccb45dd9fbd443b9602e554e75df7cd69ae6ebb  scripts/commit.sh
 34bc897b633076526926a978eed242e6cb33914534a2b27a0074d55163c8e9f8  scripts/export.php
 280dceea9fa442cb93283a2a5db25df5fcdc42b0dc85480f97695bd3aaf51524  scripts/gh-app-token.php
