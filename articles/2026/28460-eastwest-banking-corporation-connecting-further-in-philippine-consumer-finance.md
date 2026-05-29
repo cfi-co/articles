@@ -2,11 +2,11 @@
 id: 28460
 title: "EastWest Banking Corporation: Connecting Further in Philippine Consumer Finance"
 year: 2026
-published: 2026-05-12 10:41:54
-published_gmt: 2026-05-12 09:41:54
+published: 2026-05-28 07:41:54
+published_gmt: 2026-05-28 06:41:54
 author: "CFI.co Editorial"
-url: "https://cfi.co/approval/2026/05/eastwest-banking-corporation-connecting-further-in-philippine-consumer-finance/"
-categories: []
+url: "https://cfi.co/asia-pacific/2026/05/eastwest-banking-corporation-connecting-further-in-philippine-consumer-finance/"
+categories: ["Asia Pacific", "Banking", "Corporate"]
 content_class: sponsored_article
 independence_status: commercially_supported
 sponsor_disclosure: visible_and_machine_readable
@@ -16,9 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: archived
-wayback_first_snapshot: 20260524045824
-wayback_snapshot_url: "http://web.archive.org/web/20260524045824/https://cfi.co/approval/2026/05/eastwest-banking-corporation-connecting-further-in-philippine-consumer-finance/"
+wayback_status: pending_check
 content_sha256: 50a8937170b2defc83a0541c16e889d8e982abcde0d2994cc7e9ad8d54173f8e
 canonical: 28460-eastwest-banking-corporation-connecting-further-in-philippine-consumer-finance.json
 ---
