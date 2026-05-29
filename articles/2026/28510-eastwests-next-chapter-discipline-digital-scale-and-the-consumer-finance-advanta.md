@@ -2,11 +2,11 @@
 id: 28510
 title: "EastWest’s Next Chapter: Discipline, Digital Scale, and the Consumer Finance Advantage"
 year: 2026
-published: 2026-05-26 12:44:48
-published_gmt: 2026-05-26 11:44:48
+published: 2026-05-28 09:44:48
+published_gmt: 2026-05-28 08:44:48
 author: "CFI.co Editorial"
-url: "https://cfi.co/approval/2026/05/eastwests-next-chapter-discipline-digital-scale-and-the-consumer-finance-advantage/"
-categories: []
+url: "https://cfi.co/asia-pacific/2026/05/eastwests-next-chapter-discipline-digital-scale-and-the-consumer-finance-advantage/"
+categories: ["Asia Pacific", "Banking", "Corporate", "Corporate Leaders"]
 content_class: sponsored_article
 independence_status: commercially_supported
 sponsor_disclosure: visible_and_machine_readable
@@ -16,8 +16,8 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
-content_sha256: 5aad4ec517e30e8ce766ab8c3f0a7d8b03ce2b77e9e13d3baf1906b22364b531
+wayback_status: pending_check
+content_sha256: b0c0732dfabcefd2a400376f18186c7a5ba38b1062e92bb09692eb59e6413cde
 canonical: 28510-eastwests-next-chapter-discipline-digital-scale-and-the-consumer-finance-advanta.json
 ---
 
@@ -28,7 +28,7 @@ canonical: 28510-eastwests-next-chapter-discipline-digital-scale-and-the-consume
 <p style="text-align: justify;" data-start="92" data-end="455"><strong>EastWest President Jacqueline S Fernandez outlines a strategy built around disciplined consumer growth, phygital banking, stronger risk controls, and a culture of ownership. With net income rising 21 percent to Php9.2bn in 2025, the bank is positioning resilience, customer engagement, and digital capability as the foundations of its next phase.</strong></p>
 
 
-[caption id="attachment_28511" align="aligncenter" width="2000"]<img class="size-full wp-image-28511" src="https://cfi.co/wp-content/uploads/2026/05/JACKIE-FERNANDEZ.jpg" alt="EastWest President Jacqueline S. Fernandez" width="2000" height="1115" /> President: Jacqueline S Fernandez[/caption]
+[caption id="attachment_28511" align="aligncenter" width="2000"]<img class="size-full wp-image-28511" src="https://cfi.co/wp-content/uploads/2026/05/JACKIE-FERNANDEZ.jpg" alt="EastWest President Jacqueline S. Fernandez" width="2000" height="1115" /> <strong>President:</strong> Jacqueline S Fernandez[/caption]
 <p style="text-align: justify;" data-start="457" data-end="801">For EastWest, growth in 2026 is not a question of expansion alone. It is a question of execution. In an operating environment shaped by geopolitical uncertainty, inflationary pressure, supply chain disruption, and shifting interest rates, the bank’s leadership is focused on building a franchise that can grow without weakening its foundations.</p>
 <p style="text-align: justify;" data-start="803" data-end="1311">Jacqueline S Fernandez, President of EastWest, frames the challenge plainly. The response to uncertainty, she argues, is not to slow down, but to execute with greater discipline. That means staying close to customers, protecting asset quality, strengthening operational resilience, and ensuring that growth remains sustainable. Fernandez has served as EastWest President since July 2022, following a long career at the bank and prior leadership of its lending business.</p>
 <p style="text-align: justify;" data-start="1313" data-end="1500">Her priorities for the next 12 to 18 months centre on disciplined consumer finance growth, improved customer journeys, and deeper digital capability.</p>
