@@ -16,7 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 50a8937170b2defc83a0541c16e889d8e982abcde0d2994cc7e9ad8d54173f8e
 canonical: 28460-eastwest-banking-corporation-connecting-further-in-philippine-consumer-finance.json
 ---
