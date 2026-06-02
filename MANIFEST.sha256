@@ -5510,8 +5510,8 @@ c38023b4a0477b30997168d107fd4241922deeb14fb2642ab404c222c9ad5ce7  articles/2026/
 a345f72346925bed8dffe4b0d7bc7819f81f206b3a0bdf4a28df209ff8f316e8  articles/2026/28449-moneta-money-bank-scaling-with-discipline-in-a-competitive-czech-market.md
 734e3494f6dd063101e98848fb9fe941f2b86a79188b07bee74847b99bd2b9da  articles/2026/28450-tomas-spurny-steering-moneta-money-banks-transformation-with-discipline-and-scal.json
 44ea3b7e7fc3306e76cef82be0eb75be109ac41145f457b978e5104cbd8bbbe0  articles/2026/28450-tomas-spurny-steering-moneta-money-banks-transformation-with-discipline-and-scal.md
-650d43cd9aea81d1aa19e4489331f325a80ed014021609caef9f34d95d6ec4ca  articles/2026/28460-eastwest-banking-corporation-connecting-further-in-philippine-consumer-finance.json
-bf1a8eec353d8d50290d25ffef885cd6fc9e549e95597c45a4725ac3affd1229  articles/2026/28460-eastwest-banking-corporation-connecting-further-in-philippine-consumer-finance.md
+50d0c7b61e541b35a576745a6a77dcc6403e99cf6d7cecda8acae006dc121d63  articles/2026/28460-eastwest-banking-corporation-connecting-further-in-philippine-consumer-finance.json
+be0bd768ef762d76d4ca27e1dece428784c82e365791e6d68e10f438ac0d06f3  articles/2026/28460-eastwest-banking-corporation-connecting-further-in-philippine-consumer-finance.md
 ceb2557a737d106615840baac98b682853a4435c42762ad0f27026b60e821658  articles/2026/28463-trading-com-building-a-unified-investing-and-trading-ecosystem.json
 364618d887d6eedf897a6fda835d916dbb2f9a5d60df90219ff8c59482cc5302  articles/2026/28463-trading-com-building-a-unified-investing-and-trading-ecosystem.md
 ccc26aac8ec0d7d9ad875b6b4928b97d90d7b03a483eb3ceeedfd967cf2dd885  articles/2026/28468-schafer-cullen-why-discipline-still-defines-value-investing.json
@@ -5528,6 +5528,8 @@ ad190924add736a3025fbd666ad4531926822902cd698e698fdec0f323100e0b  articles/2026/
 4d64a0895c53be818dc89b4ab32f70dd4d367aece154b4b770332539fc5c8519  articles/2026/28507-xm-trusted-execution-and-human-care-in-volatile-markets.md
 805db3a72fda3d41adc5b6a378407e526522f9a6113acb2823a8cb98b6ed3364  articles/2026/28510-eastwests-next-chapter-discipline-digital-scale-and-the-consumer-finance-advanta.json
 9d17fc3d7588d068269f1586503277fc027f3b1157756e09984e18c0cce62caf  articles/2026/28510-eastwests-next-chapter-discipline-digital-scale-and-the-consumer-finance-advanta.md
+98e7a67698f5a8ba2c648edcbdd08581ea91cc78aaede17e54e71c63bbcfec61  articles/2026/28517-italy-europes-overlooked-fintech-opportunity.json
+2fb097e8c927119e208e9cae56873f26c9c955cf3b651047dd3d034d07635359  articles/2026/28517-italy-europes-overlooked-fintech-opportunity.md
 b38ad401b744adfac7757e82bccb45dd9fbd443b9602e554e75df7cd69ae6ebb  scripts/commit.sh
 34bc897b633076526926a978eed242e6cb33914534a2b27a0074d55163c8e9f8  scripts/export.php
 280dceea9fa442cb93283a2a5db25df5fcdc42b0dc85480f97695bd3aaf51524  scripts/gh-app-token.php
