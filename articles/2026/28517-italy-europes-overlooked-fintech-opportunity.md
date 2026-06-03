@@ -15,8 +15,8 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
-content_sha256: 84c9f2950b15d06cab0317139f5d220dce672098d6865bc973b1cc55feea6f6f
+wayback_status: not_found
+content_sha256: f516b20c7a9b0ae69db8b979aeef16f98400b846550c54bdc82ebeec2bb34780
 canonical: 28517-italy-europes-overlooked-fintech-opportunity.json
 ---
 
@@ -24,7 +24,7 @@ canonical: 28517-italy-europes-overlooked-fintech-opportunity.json
 
 > Verbatim archived copy. Canonical machine record: `28517-italy-europes-overlooked-fintech-opportunity.json`.
 
-[caption id="attachment_27781" align="alignright" width="300"]<img class="size-medium wp-image-27781" src="https://cfi.co/wp-content/uploads/2025/06/alessandro-300x239.png" alt="Alessandro Hatami" width="300" height="239" /> <strong>Author:</strong> Alessandro Hatami[/caption]
+[caption id="attachment_28519" align="alignright" width="300"]<img class="size-medium wp-image-28519" src="https://cfi.co/wp-content/uploads/2026/06/alessandro-768x612-1-300x194.jpg" alt="Author: Alessandro Hatami" width="300" height="194" /> <strong>Author:</strong> Alessandro Hatami[/caption]
 <p style="text-align: justify;"><strong>European fintech is entering a more selective phase. After several years <a href="https://www.innovatefinance.com/capital/fintech-investment-landscape-2025/">in which capital flowed towards the most visible hubs and fastest-growing companies</a>, investors are now asking a different set of questions. Where is there still room for meaningful growth? And where has the fintech opportunity been overlooked because the narrative has been shaped too narrowly?</strong></p>
 <p style="text-align: justify;">Italy rarely sits at the centre of that conversation. For much of my career in fintech, I have focused on markets such as the UK, Germany and France. These ecosystems dominate European fintech debate, because they combine strong capital flows, high startup density and international visibility. Italy, by contrast, sat outside that core narrative, despite being my home market. A closer look suggests that may now be an oversight.</p>
 <p style="text-align: justify;">Italy is the <a href="https://www.ice.it/en/invest/did-you-know-it">Eurozone’s third-largest economy</a>, with around 60 million people, a strong industrial base and a digitally active consumer market. <a href="https://www.sciencedirect.com/science/article/pii/S0275531926001522">Yet it continues to attract significantly less fintech investment</a> than smaller European economies such as Spain or the Netherlands. That gap between economic weight and fintech capital is becoming increasingly difficult to ignore.</p>
