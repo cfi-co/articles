@@ -16,7 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: b0c0732dfabcefd2a400376f18186c7a5ba38b1062e92bb09692eb59e6413cde
 canonical: 28510-eastwests-next-chapter-discipline-digital-scale-and-the-consumer-finance-advanta.json
 ---
