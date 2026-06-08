@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260606040431
+wayback_snapshot_url: "http://web.archive.org/web/20260606040431/https://cfi.co/europe/2026/06/italy-europes-overlooked-fintech-opportunity/"
 content_sha256: f516b20c7a9b0ae69db8b979aeef16f98400b846550c54bdc82ebeec2bb34780
 canonical: 28517-italy-europes-overlooked-fintech-opportunity.json
 ---
