@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 content_sha256: ff5a8b6754d5445857024eba512e745aa8ce3b53b7ebea0cc0a462b15044e741
 canonical: 28526-asian-development-bank-why-the-rule-of-law-matters-for-private-sector-growth-in-.json
 ---
