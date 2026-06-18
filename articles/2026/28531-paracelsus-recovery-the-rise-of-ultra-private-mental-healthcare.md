@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 content_sha256: 3ae74ad6459ceed348d56f6b60e24da0e7a60b4ed8e2f6a9f61e19990e59d42f
 canonical: 28531-paracelsus-recovery-the-rise-of-ultra-private-mental-healthcare.json
 ---
