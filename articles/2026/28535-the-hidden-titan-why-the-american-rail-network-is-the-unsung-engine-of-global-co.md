@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 content_sha256: 83057c7b15adc215582c1eb4095edd5586a7a1d678617701f3f86395292ebb69
 canonical: 28535-the-hidden-titan-why-the-american-rail-network-is-the-unsung-engine-of-global-co.json
 ---
