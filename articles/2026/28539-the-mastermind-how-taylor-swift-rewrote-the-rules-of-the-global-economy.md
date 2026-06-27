@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 content_sha256: 40095710985a4968a3da520673756ce98bb7e8e44805052e8389a214245a4627
 canonical: 28539-the-mastermind-how-taylor-swift-rewrote-the-rules-of-the-global-economy.json
 ---
