@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260627040026
+wayback_snapshot_url: "http://web.archive.org/web/20260627040026/https://cfi.co/lifestyle/2026/06/the-mastermind-how-taylor-swift-rewrote-the-rules-of-the-global-economy/"
 content_sha256: 40095710985a4968a3da520673756ce98bb7e8e44805052e8389a214245a4627
 canonical: 28539-the-mastermind-how-taylor-swift-rewrote-the-rules-of-the-global-economy.json
 ---
