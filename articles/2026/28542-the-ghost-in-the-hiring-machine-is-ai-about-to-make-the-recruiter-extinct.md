@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: e18863c87534f591c158b3d6a0b18f4b0646b6b54c936db905f48f9c23bd97d6
 canonical: 28542-the-ghost-in-the-hiring-machine-is-ai-about-to-make-the-recruiter-extinct.json
 ---
