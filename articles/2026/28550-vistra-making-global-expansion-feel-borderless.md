@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 content_sha256: 0cd37e4034447b0bf4eeed09c995286c50715c39f158197d5b5d69c5fe97f56d
 canonical: 28550-vistra-making-global-expansion-feel-borderless.json
 ---
