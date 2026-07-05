@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260704040133
+wayback_snapshot_url: "http://web.archive.org/web/20260704040133/https://cfi.co/approval/2026/07/vistra-making-global-expansion-feel-borderless/"
 content_sha256: 0cd37e4034447b0bf4eeed09c995286c50715c39f158197d5b5d69c5fe97f56d
 canonical: 28550-vistra-making-global-expansion-feel-borderless.json
 ---
