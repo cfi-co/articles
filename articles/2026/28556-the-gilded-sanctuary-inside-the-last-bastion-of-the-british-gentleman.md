@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 content_sha256: 82657d4039e1e22d220a89ae5da65a397fb8034af3e947900317430b896a904e
 canonical: 28556-the-gilded-sanctuary-inside-the-last-bastion-of-the-british-gentleman.json
 ---
