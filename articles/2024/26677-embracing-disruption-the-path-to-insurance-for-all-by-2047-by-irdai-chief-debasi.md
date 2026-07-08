@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240229190404
 wayback_snapshot_url: "http://web.archive.org/web/20240229190404/https://cfi.co/brave-new-world/2024/02/embracing-disruption-the-path-to-insurance-for-all-by-2047-by-irdai-chief-debasish-panda/"
+license: CFI-OAAL-1.0
 content_sha256: 157c255c9045a86966f3ceb0f08a07fd5612ffb6f3ed1d05b63d13447483bd4c
 canonical: 26677-embracing-disruption-the-path-to-insurance-for-all-by-2047-by-irdai-chief-debasi.json
 ---
