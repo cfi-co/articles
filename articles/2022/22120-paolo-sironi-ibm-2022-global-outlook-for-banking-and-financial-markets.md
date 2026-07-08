@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220526050556
 wayback_snapshot_url: "http://web.archive.org/web/20220526050556/https://cfi.co/northamerica/2022/05/paolo-sironi-ibm-2022-global-outlook-for-banking-and-financial-markets/"
+license: CFI-OAAL-1.0
 content_sha256: 0aad1b6fa4e27f52abd61f6d052de84457266c4653bb6c6e61b7e14ff9034ed4
 canonical: 22120-paolo-sironi-ibm-2022-global-outlook-for-banking-and-financial-markets.json
 ---
