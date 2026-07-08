@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201118120417
 wayback_snapshot_url: "http://web.archive.org/web/20201118120417/https://cfi.co/menu/corporate/2020/01/my-clinic-in-saudi-arabia-taking-the-lead-in-premium-care-and-relieving-the-strain-on-patients/"
+license: CFI-OAAL-1.0
 content_sha256: 20b198b453b18a17395c910cef7ff633c0bd724c320f9cdb69b58b04b350b621
 canonical: 17472-my-clinic-in-saudi-arabia-taking-the-lead-in-premium-care-and-relieving-the-stra.json
 ---
