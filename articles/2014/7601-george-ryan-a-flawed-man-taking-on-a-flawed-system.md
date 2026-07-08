@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140925184513
 wayback_snapshot_url: "http://web.archive.org/web/20140925184513/http://cfi.co/northamerica/2014/07/george-ryan-a-flawed-man-taking-on-a-flawed-system/"
+license: CFI-OAAL-1.0
 content_sha256: e40919806650a84a30a55e7d22db5d21e0d4cb0b7cbdf66dd35964784031c51c
 canonical: 7601-george-ryan-a-flawed-man-taking-on-a-flawed-system.json
 ---
