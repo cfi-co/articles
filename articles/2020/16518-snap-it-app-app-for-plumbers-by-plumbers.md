@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200919033217
 wayback_snapshot_url: "http://web.archive.org/web/20200919033217/https://cfi.co/menu/corporate/2020/08/snap-it-app-app-for-plumbers-by-plumbers/"
+license: CFI-OAAL-1.0
 content_sha256: e4f11b81db93bf419b05d97c0eafe0dd7b01ce0399ca79c172921e7bae43761a
 canonical: 16518-snap-it-app-app-for-plumbers-by-plumbers.json
 ---
