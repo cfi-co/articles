@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20171005045209
 wayback_snapshot_url: "http://web.archive.org/web/20171005045209/http://cfi.co/lifestyle/2016/02/billionaires-toys-there-is-no-point-other-than-bigger-is-better/"
+license: CFI-OAAL-1.0
 content_sha256: 3c3ad4d8b35b72a8a0ec66262ca5ee4c0aba208d89ca331d38dda33bbf7aeba5
 canonical: 10987-billionaires-toys-there-is-no-point-other-than-bigger-is-better.json
 ---
