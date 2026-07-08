@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203050546
 wayback_snapshot_url: "http://web.archive.org/web/20221203050546/https://cfi.co/brave-new-world/2022/10/un-chief-countries-bound-for-cop27-must-make-climate-action-the-top-global-priority/"
+license: CFI-OAAL-1.0
 content_sha256: 9ede954bb5aa9d544e738122c8b42658aa3c1b7690f037ad3dfa82588f8e851d
 canonical: 23627-un-chief-countries-bound-for-cop27-must-make-climate-action-the-top-global-prior.json
 ---
