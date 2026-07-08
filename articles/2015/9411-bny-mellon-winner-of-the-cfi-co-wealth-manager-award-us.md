@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723005620
 wayback_snapshot_url: "http://web.archive.org/web/20190723005620/https://cfi.co/awards/north-america/"
+license: CFI-OAAL-1.0
 content_sha256: cc2657a8229cdacdc17c10b3e4d2851a46d809c4499ac0a493e3742b78932e67
 canonical: 9411-bny-mellon-winner-of-the-cfi-co-wealth-manager-award-us.json
 ---
