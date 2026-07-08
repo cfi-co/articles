@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228100703
 wayback_snapshot_url: "http://web.archive.org/web/20210228100703/https://cfi.co/corporate-leaders/2020/01/ceo-of-reitan-convenience-as-johannes-sangnes/"
+license: CFI-OAAL-1.0
 content_sha256: af23a9f8801e402fc66526b4e4287765ab1cf45966033c41c1d66208904f2ac3
 canonical: 17409-ceo-of-reitan-convenience-as-johannes-sangnes.json
 ---
