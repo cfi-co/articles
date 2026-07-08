@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024256
 wayback_snapshot_url: "http://web.archive.org/web/20190724024256/https://cfi.co/europe/2013/05/polands-power-surge/"
+license: CFI-OAAL-1.0
 content_sha256: b2ef26df81356b836376d250a812537f4de7ebd4f50476bd0fa99c925c4585de
 canonical: 3795-polands-power-surge.json
 ---
