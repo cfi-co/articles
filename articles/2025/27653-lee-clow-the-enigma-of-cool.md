@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250325132005
 wayback_snapshot_url: "http://web.archive.org/web/20250325132005/https://cfi.co/menu/heroes/2025/03/lee-clow-the-enigma-of-cool/"
+license: CFI-OAAL-1.0
 content_sha256: 4982c94e409a107cb83eacfebf4b7fd0d267ccff344df8a6d90f6b57266873c3
 canonical: 27653-lee-clow-the-enigma-of-cool.json
 ---
