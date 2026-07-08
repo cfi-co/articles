@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250311231120
 wayback_snapshot_url: "http://web.archive.org/web/20250311231120/https://cfi.co/sustainability/2025/02/asian-development-bank-on-the-cost-of-inaction-how-climate-change-threatens-asia-and-the-pacific/"
+license: CFI-OAAL-1.0
 content_sha256: 7947c38937675a64f0501b974366436f2e2528f8fbd52317b87a0aff315dfa70
 canonical: 27601-asian-development-bank-on-the-cost-of-inaction-how-climate-change-threatens-asia.json
 ---
