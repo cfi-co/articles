@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231108161023
 wayback_snapshot_url: "http://web.archive.org/web/20231108161023/https://cfi.co/technology/2023/11/collaboration-fintech-and-crypto-dominate-italian-summit-and-new-vc-fund-announced-by-generali/"
+license: CFI-OAAL-1.0
 content_sha256: 0003eead283347dc4953078fc5258ab3d9229411c5af707277319cc74ac325ab
 canonical: 26331-collaboration-fintech-and-crypto-dominate-italian-summit-and-new-vc-fund-announc.json
 ---
