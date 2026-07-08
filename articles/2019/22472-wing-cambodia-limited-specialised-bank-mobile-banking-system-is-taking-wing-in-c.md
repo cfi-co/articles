@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220814192405
 wayback_snapshot_url: "http://web.archive.org/web/20220814192405/https://cfi.co/asia-pacific/2019/07/wing-cambodia-limited-specialised-bank-mobile-banking-system-is-taking-wing-in-cambodia/"
+license: CFI-OAAL-1.0
 content_sha256: a09aa1ac8eb3f073927a14a624081b677a651178222b858b8c101b6581071653
 canonical: 22472-wing-cambodia-limited-specialised-bank-mobile-banking-system-is-taking-wing-in-c.json
 ---
