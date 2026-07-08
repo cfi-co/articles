@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201101010653
 wayback_snapshot_url: "http://web.archive.org/web/20201101010653/https://cfi.co/technology/2020/10/rainmaker-revolutionary-water-supply-solutions-that-are-needed-now-more-than-ever/"
+license: CFI-OAAL-1.0
 content_sha256: ded69b8b2f3f011f2bca5c33467d4b5b35178577d4a95ecdce2fff3d329b4c8f
 canonical: 17592-rainmaker-revolutionary-water-supply-solutions-that-are-needed-now-more-than-eve.json
 ---
