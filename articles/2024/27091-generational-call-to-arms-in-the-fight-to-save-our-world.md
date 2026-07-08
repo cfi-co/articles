@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240905113415
 wayback_snapshot_url: "http://web.archive.org/web/20240905113415/https://cfi.co/europe/2024/09/generational-call-to-arms-in-the-fight-to-save-our-world/"
+license: CFI-OAAL-1.0
 content_sha256: ea73aadceb16c9bcfae9f7fb755e889f8d806133b2be36d71442680975c7daf9
 canonical: 27091-generational-call-to-arms-in-the-fight-to-save-our-world.json
 ---
