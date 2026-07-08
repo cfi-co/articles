@@ -19,6 +19,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251205233348
 wayback_snapshot_url: "http://web.archive.org/web/20251205233348/https://cfi.co/banking/2025/11/building-with-passion-how-heike-arbter-shaped-raiffeisens-certificates-franchise/"
+license: CFI-OAAL-1.0
 content_sha256: 584803e15bbc53a7e44977b610d2b7713155410698bcd6ce852c72735a5bc520
 canonical: 28025-building-with-passion-how-heike-arbter-shaped-raiffeisens-certificates-franchise.json
 ---
