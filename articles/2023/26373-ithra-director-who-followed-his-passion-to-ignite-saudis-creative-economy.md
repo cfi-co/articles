@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225154236
 wayback_snapshot_url: "http://web.archive.org/web/20240225154236/https://cfi.co/middleeast/2023/11/abdullah-alrashid-ithra-director-who-followed-his-passion-to-ignite-saudis-creative-economy/"
+license: CFI-OAAL-1.0
 content_sha256: f62779421cd4a8cc1b3fa704c699621a58deff9d4bbbf021827f548f71c44b3b
 canonical: 26373-ithra-director-who-followed-his-passion-to-ignite-saudis-creative-economy.json
 ---
