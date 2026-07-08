@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240701185356
 wayback_snapshot_url: "http://web.archive.org/web/20240701185356/https://cfi.co/projects/2024/07/natrium-taking-a-nuclear-leap-towards-a-low-carbon-future/"
+license: CFI-OAAL-1.0
 content_sha256: 97efacca442824598ed057a7dddb506bb6f58a2e37c423d93e3c73cbad0eae34
 canonical: 26892-natrium-taking-a-nuclear-leap-towards-a-low-carbon-future.json
 ---
