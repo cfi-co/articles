@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916085454
 wayback_snapshot_url: "http://web.archive.org/web/20190916085454/https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-fiduciaria-de-occidente-management-team-an-effective-and-practical-approach/"
+license: CFI-OAAL-1.0
 content_sha256: 6105ab7b4b7164dd9ce0568f83809695075facfc3fa20a531d3d5ebe2b034e2e
 canonical: 11820-cfi-co-meets-the-fiduciaria-de-occidente-management-team-an-effective-and-practi.json
 ---
