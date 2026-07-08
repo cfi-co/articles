@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251029004420
 wayback_snapshot_url: "http://web.archive.org/web/20251029004420/https://cfi.co/lifestyle/2025/10/the-unseen-shift-how-creeping-normality-rewrites-our-world/"
+license: CFI-OAAL-1.0
 content_sha256: f1a6803c04a212a7b53cadff44c4d9b46bc6a1e02ad584bfaee77210ed04584f
 canonical: 28000-the-unseen-shift-how-creeping-normality-rewrites-our-world.json
 ---
