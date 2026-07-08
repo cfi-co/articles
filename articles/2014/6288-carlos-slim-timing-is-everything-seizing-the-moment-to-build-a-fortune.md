@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140328185634
 wayback_snapshot_url: "http://web.archive.org/web/20140328185634/http://cfi.co/latinamerica/2014/01/carlos-slim-timing-is-everything-seizing-the-moment-to-build-a-fortune/"
+license: CFI-OAAL-1.0
 content_sha256: 175cc555cc082fd8137d5c06f16e33d915f696ed7a42a6e1052f8fb0b519ea1c
 canonical: 6288-carlos-slim-timing-is-everything-seizing-the-moment-to-build-a-fortune.json
 ---
