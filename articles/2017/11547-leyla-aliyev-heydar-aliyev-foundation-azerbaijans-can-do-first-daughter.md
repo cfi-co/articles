@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180718202506
 wayback_snapshot_url: "http://web.archive.org/web/20180718202506/http://cfi.co/asia-pacific/2017/02/leyla-aliyev-heydar-aliyev-foundation-azerbaijans-can-do-first-daughter/"
+license: CFI-OAAL-1.0
 content_sha256: 69444866bfd8725460fff0a9e876ab5e1dcb5ea44f2cc41003ca2abd57a8ebcb
 canonical: 11547-leyla-aliyev-heydar-aliyev-foundation-azerbaijans-can-do-first-daughter.json
 ---
