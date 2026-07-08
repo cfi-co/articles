@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250826171316
 wayback_snapshot_url: "http://web.archive.org/web/20250826171316/https://cfi.co/europe/2025/08/is-the-mba-still-worth-it-weighing-value-roi-and-leadership-impact/"
+license: CFI-OAAL-1.0
 content_sha256: f53946a6b71681bd0b3006ddc120c158179b1b5fef8d51def372695f696249d6
 canonical: 27890-is-the-mba-still-worth-it-weighing-value-roi-and-leadership-impact.json
 ---
