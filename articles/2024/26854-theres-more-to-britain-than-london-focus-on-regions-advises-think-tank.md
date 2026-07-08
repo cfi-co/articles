@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240613224022
 wayback_snapshot_url: "http://web.archive.org/web/20240613224022/https://cfi.co/brave-new-world/2024/06/theres-more-to-britain-than-london-focus-on-regions-advises-think-tank/"
+license: CFI-OAAL-1.0
 content_sha256: 16768a2e1d868a4aaf72912420d476dd49dd90a8b44bd618f9d8b418a497f86b
 canonical: 26854-theres-more-to-britain-than-london-focus-on-regions-advises-think-tank.json
 ---
