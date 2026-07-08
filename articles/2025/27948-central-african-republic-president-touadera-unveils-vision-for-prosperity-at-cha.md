@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250920024845
 wayback_snapshot_url: "http://web.archive.org/web/20250920024845/https://cfi.co/africa/2025/09/central-african-republic-president-touadera-unveils-vision-for-prosperity-at-chatham-house/"
+license: CFI-OAAL-1.0
 content_sha256: 37d45351226545a259608211268838f12bb5b627db5cf1afad23cfcce4ba7a56
 canonical: 27948-central-african-republic-president-touadera-unveils-vision-for-prosperity-at-cha.json
 ---
