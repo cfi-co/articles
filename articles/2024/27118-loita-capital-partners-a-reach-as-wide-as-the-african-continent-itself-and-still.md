@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240913155626
 wayback_snapshot_url: "http://web.archive.org/web/20240913155626/https://cfi.co/africa/2024/09/loita-capital-partners-a-reach-as-wide-as-the-african-continent-itself-and-still-roaring-with-ambition/"
+license: CFI-OAAL-1.0
 content_sha256: 6f31a7c2b9a06d73d7da41191cd741a7ab9c14a6770a6e5ed1ffd1f17015f093
 canonical: 27118-loita-capital-partners-a-reach-as-wide-as-the-african-continent-itself-and-still.json
 ---
