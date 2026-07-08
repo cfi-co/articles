@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140828182946
 wayback_snapshot_url: "http://web.archive.org/web/20140828182946/http://cfi.co/europe/2013/04/cbi-the-only-way-is-exports/"
+license: CFI-OAAL-1.0
 content_sha256: 8f483e723be2c1a245835bafab6144a37fd8eb9c8eb4a51c85ffa2e85a2273bd
 canonical: 3717-cbi-the-only-way-is-exports.json
 ---
