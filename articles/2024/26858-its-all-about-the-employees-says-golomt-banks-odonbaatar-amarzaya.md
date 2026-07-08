@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240618013511
 wayback_snapshot_url: "http://web.archive.org/web/20240618013511/https://cfi.co/corporate-leaders/2024/06/its-all-about-the-employees-says-golomt-banks-odonbaatar-amarzaya/"
+license: CFI-OAAL-1.0
 content_sha256: f045da5e05737bae4a6a1dd0fd789b4730909ec1cf198245487723ef6c89ffb4
 canonical: 26858-its-all-about-the-employees-says-golomt-banks-odonbaatar-amarzaya.json
 ---
