@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921072720
 wayback_snapshot_url: "http://web.archive.org/web/20210921072720/https://cfi.co/c-19/2021/09/sports-united-by-a-common-goal-getting-bums-safely-back-on-seats/"
+license: CFI-OAAL-1.0
 content_sha256: c1ecf9f1cbf23e136e861691ba857184ff3a94e0fd84c883545d3a7458924077
 canonical: 20670-sports-united-by-a-common-goal-getting-bums-safely-back-on-seats.json
 ---
