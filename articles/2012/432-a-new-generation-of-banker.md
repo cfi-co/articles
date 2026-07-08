@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024458
 wayback_snapshot_url: "http://web.archive.org/web/20190724024458/https://cfi.co/banking/2012/02/a-new-generation-of-banker/"
+license: CFI-OAAL-1.0
 content_sha256: 7b2678374ab8ab079fea0511092e411a7b1f1fed24c2dae865f6bc2950eec391
 canonical: 432-a-new-generation-of-banker.json
 ---
