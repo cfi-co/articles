@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240420135831
 wayback_snapshot_url: "http://web.archive.org/web/20240420135831/https://cfi.co/brave-new-world/2024/03/avatar-influencers-are-storming-up-the-earnings-charts-and-creators-stand-to-make-some-healthy-profits/"
+license: CFI-OAAL-1.0
 content_sha256: a4985ae6422f107caf8fa07a0e75970a9795907264fa178eb948a7618766dc7f
 canonical: 26725-avatar-influencers-are-storming-up-the-earnings-charts-and-creators-stand-to-mak.json
 ---
