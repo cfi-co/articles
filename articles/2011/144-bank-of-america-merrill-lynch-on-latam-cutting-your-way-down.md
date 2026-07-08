@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720035204
 wayback_snapshot_url: "http://web.archive.org/web/20190720035204/https://cfi.co/latinamerica/2011/12/bank-of-america-merrill-lynch-on-latam-cutting-your-way-down/"
+license: CFI-OAAL-1.0
 content_sha256: 4aa05eb7e79f5eb4df8a3ebe5b35cb434657371b467f0968f265faeaf2f36f46
 canonical: 144-bank-of-america-merrill-lynch-on-latam-cutting-your-way-down.json
 ---

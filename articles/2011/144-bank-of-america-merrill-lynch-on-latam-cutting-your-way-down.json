@@ -23,10 +23,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190720035204",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190720035204/https://cfi.co/latinamerica/2011/12/bank-of-america-merrill-lynch-on-latam-cutting-your-way-down/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190720035204/https://cfi.co/latinamerica/2011/12/bank-of-america-merrill-lynch-on-latam-cutting-your-way-down/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<a href=\"http://capitalfinanceint.com/news/wp-content/uploads/2011/12/latam.gif\"><img class=\"alignright wp-image-539 size-full\" title=\"latam\" src=\"https://cfi.co/wp-content/uploads/2011/12/latam.gif\" alt=\"\" width=\"200\" height=\"200\" /></a>Latin America is also facing downward pressure on growth, and in our LatAm Macro Weekly (\"2012- Keep it up, China, please!\") we believe activity is likely to slow to 3.3% from 4.1% in 2011. We also forecast a deceleration in inflation to 3.7% from 4.3% in 2011; therefore, we expect central banks to cut rates with Brazil being the most aggressive (150bp in cuts expected in 2012). It will also be imperative to follow China closely as it could provide important support through exports and its effect on keeping commodity prices high. In our GEMs Daily (\"Mexico: dealing with a sensitive MXN\") we note that Banxico joined the liquidity-supply trend of global central banks and preemptively set daily USD400mn auctions to prevent illiquidity problems. Although these measures increase the risk for a rate cut today, we think the first cut is more likely at the January 20 meeting. In another of our GEMs Dailies, (\"Brazil: detailing the labor market slowdown\"), we discuss the deterioration in the labor markets and analyze different aspects of this deceleration, such as disparities among sectors and regions. While the minimum wage increase will put upward pressure on inflation, the weaker employment picture will have an opposing effect and should help to ease concerns for services inflation next year.\r\n\r\nSource: GEMs of the Week, December 2, 2011",
     "content_sha256": "4aa05eb7e79f5eb4df8a3ebe5b35cb434657371b467f0968f265faeaf2f36f46",
-    "record_sha256": "5ce61d33599f1639fe89ca157a51690f24d6320fc400d301179c182d47078b5a"
+    "record_sha256": "c1d82f737c2248b3db0fcea17f1810d128043e59febf36883e42139b812d8520"
 }
