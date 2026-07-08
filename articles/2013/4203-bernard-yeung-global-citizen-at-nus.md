@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024009
 wayback_snapshot_url: "http://web.archive.org/web/20190724024009/https://cfi.co/asia-pacific/2013/05/bernard-yeung-global-citizen-at-nus/"
+license: CFI-OAAL-1.0
 content_sha256: 8dd1f2e562dae1f8f6b81ecb4866e2a23d97ba70edf09fc01c576fc812ae3863
 canonical: 4203-bernard-yeung-global-citizen-at-nus.json
 ---
