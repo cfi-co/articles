@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014232718
 wayback_snapshot_url: "http://web.archive.org/web/20191014232718/https://cfi.co/northamerica/2013/06/riordan-brings-strong-leadership-to-daniels/"
+license: CFI-OAAL-1.0
 content_sha256: ee678655ecd643a64d7dba4cf7c18b758bbf220f0aa239fb1f9df61cafad0034
 canonical: 4268-riordan-brings-strong-leadership-to-daniels.json
 ---

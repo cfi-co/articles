@@ -23,10 +23,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20191014232718",
-        "wayback_snapshot_url": "http://web.archive.org/web/20191014232718/https://cfi.co/northamerica/2013/06/riordan-brings-strong-leadership-to-daniels/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20191014232718/https://cfi.co/northamerica/2013/06/riordan-brings-strong-leadership-to-daniels/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"alignright size-full wp-image-4269\" alt=\"c-r\" src=\"https://cfi.co/wp-content/uploads/2013/06/c-r.jpg\" width=\"273\" height=\"229\" />Prof. Christine Riordan is a perfect example of a dean who practices what she preaches.</strong> Riordan has a reputation as an expert in leadership and ethics and under her own leadership, Daniels has blossomed into an internationally recognised academic community. Prof. Riordan has strengthened all aspects of Daniels but of particular interest to us is the way in which she has increasingly engaged the school with the local community. The approach Daniels has shown is really paying dividends - not just in terms of boosting endowments but also in helping strengthen faculty and, most importantly, driving the educational and career opportunities open to students. More and more, Daniels is seen as a centre of excellence and is an integral part of driving the local economy. Prof. Riordan has shown what strong and focused leadership can achieve: when she took over as dean, Daniels did not feature in the rankings but has now established itself as a top ranked school. Her leadership stands out as an example of what is possible to deliver given focus and determination.</p>",
     "content_sha256": "ee678655ecd643a64d7dba4cf7c18b758bbf220f0aa239fb1f9df61cafad0034",
-    "record_sha256": "bfb0e23a1df66abe7e590b69b79ab740295e9c1ee34cc04ad446deede05e4fc5"
+    "record_sha256": "eb056b35137d22d972c25eb443ce6014208b79abfc4de53fe2669faadec5fc8d"
 }
