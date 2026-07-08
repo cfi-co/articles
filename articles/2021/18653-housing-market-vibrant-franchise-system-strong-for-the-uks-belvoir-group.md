@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422032444
 wayback_snapshot_url: "http://web.archive.org/web/20210422032444/https://cfi.co/menu/corporate/2021/02/housing-market-vibrant-franchise-system-strong-for-the-uks-belvoir-group/"
+license: CFI-OAAL-1.0
 content_sha256: 5c5dbf41dabdedf978668774d74b3290b5b8770bf7e15aa4a44959e9efea060b
 canonical: 18653-housing-market-vibrant-franchise-system-strong-for-the-uks-belvoir-group.json
 ---
