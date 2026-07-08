@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20171004125748
 wayback_snapshot_url: "http://web.archive.org/web/20171004125748/http://cfi.co/europe/2016/02/unctad-investment-in-need-of-direction/"
+license: CFI-OAAL-1.0
 content_sha256: 6a6e417c91d6cfd5217baec49f7226cd4909a7fbf41760d74c07db1256108839
 canonical: 10977-unctad-investment-in-need-of-direction.json
 ---
