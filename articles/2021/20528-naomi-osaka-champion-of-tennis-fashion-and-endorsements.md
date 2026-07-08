@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924114929
 wayback_snapshot_url: "http://web.archive.org/web/20210924114929/https://cfi.co/asia-pacific/2021/09/naomi-osaka-champion-of-tennis-fashion-and-endorsements/"
+license: CFI-OAAL-1.0
 content_sha256: fcfe6380c5390b2108b4f6e4598792caea4f002a5963951f43b1f303c52f8f52
 canonical: 20528-naomi-osaka-champion-of-tennis-fashion-and-endorsements.json
 ---
