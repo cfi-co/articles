@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210928111517
 wayback_snapshot_url: "http://web.archive.org/web/20210928111517/https://cfi.co/menu/corporate/2021/09/carticas-teresa-barger-female-leadership-humility-and-action/"
+license: CFI-OAAL-1.0
 content_sha256: ea3dac20cdb726ce51cf6f3709449e0437c6c80430d77f4c4d6ff7d5aaf87723
 canonical: 20561-carticas-teresa-barger-female-leadership-humility-and-action.json
 ---
