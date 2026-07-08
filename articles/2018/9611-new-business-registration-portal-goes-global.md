@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825095231
 wayback_snapshot_url: "http://web.archive.org/web/20190825095231/https://cfi.co/africa/2018/01/new-business-registration-portal-goes-global/"
+license: CFI-OAAL-1.0
 content_sha256: fb441d976eb7989503ab5250540a4c27baf072d3a29b89f48e8766feb957f517
 canonical: 9611-new-business-registration-portal-goes-global.json
 ---
