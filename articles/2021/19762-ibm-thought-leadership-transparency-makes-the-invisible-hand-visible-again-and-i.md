@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210607175605
 wayback_snapshot_url: "http://web.archive.org/web/20210607175605/https://cfi.co/banking/2021/06/ibm-thought-leadership-transparency-makes-the-invisible-hand-visible-again-and-inclusive/"
+license: CFI-OAAL-1.0
 content_sha256: b9dde7e40309afece7ffe6601510551319f95531c12f6ed70feaa91ab313234d
 canonical: 19762-ibm-thought-leadership-transparency-makes-the-invisible-hand-visible-again-and-i.json
 ---
