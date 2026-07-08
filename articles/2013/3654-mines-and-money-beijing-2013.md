@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050309
 wayback_snapshot_url: "http://web.archive.org/web/20190823050309/https://cfi.co/asia-pacific/2013/04/mines-and-money-beijing-2013/"
+license: CFI-OAAL-1.0
 content_sha256: 9483e521a58b3a9af5b0eab50f469ee16ea447ad95e58b31b08b7fa0319bba63
 canonical: 3654-mines-and-money-beijing-2013.json
 ---
