@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021052507
 wayback_snapshot_url: "http://web.archive.org/web/20191021052507/https://cfi.co/northamerica/2014/08/from-australia-to-the-world-rupert-murdoch-the-future-of-newspapers-in-the-age-of-the-internet/"
+license: CFI-OAAL-1.0
 content_sha256: ecc1ce662f45d9230ad32235f4ee7a19ccaadc73b10eec97a3b56f79308b3adb
 canonical: 7732-from-australia-to-the-world-rupert-murdoch-the-future-of-newspapers-in-the-age-o.json
 ---
