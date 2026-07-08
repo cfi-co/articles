@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045821
 wayback_snapshot_url: "http://web.archive.org/web/20190823045821/https://cfi.co/technology/2012/10/keeping-it-simple/"
+license: CFI-OAAL-1.0
 content_sha256: 9172d1a1eed3c8e6c2d480936443862adf34dc5b96009affa536782aa044d373
 canonical: 2419-keeping-it-simple.json
 ---
