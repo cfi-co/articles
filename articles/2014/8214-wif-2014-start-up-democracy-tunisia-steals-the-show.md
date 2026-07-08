@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170915200224
 wayback_snapshot_url: "http://web.archive.org/web/20170915200224/http://cfi.co/africa/2014/10/wif-2014-start-up-democracy-tunisia-steals-the-show/"
+license: CFI-OAAL-1.0
 content_sha256: 1df506dfa1b8f2ca929fc9d9aff7f0d7e294f39c726ce2ab77c89ec42f4e7694
 canonical: 8214-wif-2014-start-up-democracy-tunisia-steals-the-show.json
 ---
