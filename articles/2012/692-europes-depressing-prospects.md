@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132300
 wayback_snapshot_url: "http://web.archive.org/web/20190818132300/https://cfi.co/banking/2012/06/europes-depressing-prospects/"
+license: CFI-OAAL-1.0
 content_sha256: c5919711142615c9e6b309894285ad7e962e73b00724be54e39d73d4d7e61851
 canonical: 692-europes-depressing-prospects.json
 ---
