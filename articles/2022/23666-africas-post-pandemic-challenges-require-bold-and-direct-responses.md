@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221014090955
 wayback_snapshot_url: "http://web.archive.org/web/20221014090955/https://cfi.co/africa/2022/10/africas-post-pandemic-challenges-require-bold-and-direct-responses/"
+license: CFI-OAAL-1.0
 content_sha256: 880a434c3dd4efd2698d5ef8fb8d39ea87f462e230bce01f2122f3255bd8bdf5
 canonical: 23666-africas-post-pandemic-challenges-require-bold-and-direct-responses.json
 ---
