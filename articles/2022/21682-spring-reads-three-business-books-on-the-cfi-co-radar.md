@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220405064211
 wayback_snapshot_url: "http://web.archive.org/web/20220405064211/https://cfi.co/menu/reviews/2022/04/spring-reads-three-business-books-on-the-cfi-co-radar/"
+license: CFI-OAAL-1.0
 content_sha256: 184835f6b381a2dd30227de3239cda7cfd901f11398bf588a5a1951dfb0be281
 canonical: 21682-spring-reads-three-business-books-on-the-cfi-co-radar.json
 ---
