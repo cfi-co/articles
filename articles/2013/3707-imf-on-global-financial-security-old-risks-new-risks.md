@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140828164112
 wayback_snapshot_url: "http://web.archive.org/web/20140828164112/http://cfi.co/finance/2013/04/imf-on-global-financial-security-old-risks-new-risks/"
+license: CFI-OAAL-1.0
 content_sha256: ab4c40f0fb04f887e494292e0de20528d8fcbf7ac6c10b136861e41c26e688ba
 canonical: 3707-imf-on-global-financial-security-old-risks-new-risks.json
 ---
