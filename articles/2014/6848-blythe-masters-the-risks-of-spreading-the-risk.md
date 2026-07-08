@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140705185902
 wayback_snapshot_url: "http://web.archive.org/web/20140705185902/http://cfi.co/banking/2014/03/blythe-masters-the-risks-of-spreading-the-risk/"
+license: CFI-OAAL-1.0
 content_sha256: fd0e8e2a164e5195e4ac16b96790b2ab15be2441d18c9f0f3b51314abb0c7469
 canonical: 6848-blythe-masters-the-risks-of-spreading-the-risk.json
 ---
