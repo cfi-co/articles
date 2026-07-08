@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625225100
 wayback_snapshot_url: "http://web.archive.org/web/20220625225100/https://cfi.co/menu/corporate/2022/05/liechtensteinische-landesbank-ag-tradition-meets-innovation-in-liechtenstein-banking/"
+license: CFI-OAAL-1.0
 content_sha256: d7070bab09a57222147e832d93af2635db8a9b6d059e324f51e4708764420d40
 canonical: 21990-liechtensteinische-landesbank-ag-tradition-meets-innovation-in-liechtenstein-ban.json
 ---
