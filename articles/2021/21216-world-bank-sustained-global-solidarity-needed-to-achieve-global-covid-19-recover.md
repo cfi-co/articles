@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211125233929
 wayback_snapshot_url: "http://web.archive.org/web/20211125233929/https://cfi.co/c-19/2021/11/world-bank-sustained-global-solidarity-needed-to-achieve-global-covid-19-recovery/"
+license: CFI-OAAL-1.0
 content_sha256: 151fcaea6975b9bbe52884e3b7904816dd19042cd285576ca09e6b42f0f8ffbb
 canonical: 21216-world-bank-sustained-global-solidarity-needed-to-achieve-global-covid-19-recover.json
 ---
