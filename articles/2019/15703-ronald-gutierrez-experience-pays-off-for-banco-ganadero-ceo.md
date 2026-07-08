@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220528101056
 wayback_snapshot_url: "http://web.archive.org/web/20220528101056/https://cfi.co/corporate-leaders/2019/08/ronald-gutierrez-experience-pays-off-for-banco-ganadero-ceo/"
+license: CFI-OAAL-1.0
 content_sha256: ff2eb29ffea8c9d94224149306c329c5c171de52018ac3ac7e7b75079f6d7c2c
 canonical: 15703-ronald-gutierrez-experience-pays-off-for-banco-ganadero-ceo.json
 ---
