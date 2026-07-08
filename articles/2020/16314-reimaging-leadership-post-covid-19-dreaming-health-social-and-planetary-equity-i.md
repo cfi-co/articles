@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810074825
 wayback_snapshot_url: "http://web.archive.org/web/20200810074825/https://cfi.co/sustainability/2020/07/reimaging-leadership-post-covid-19-dreaming-health-social-and-planetary-equity-into-being/"
+license: CFI-OAAL-1.0
 content_sha256: aec38f4295f31e3654649724190f8982b4407730b5a6a32a3eb75a760515cc99
 canonical: 16314-reimaging-leadership-post-covid-19-dreaming-health-social-and-planetary-equity-i.json
 ---
