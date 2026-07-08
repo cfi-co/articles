@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140328192832
 wayback_snapshot_url: "http://web.archive.org/web/20140328192832/http://cfi.co/editors-picks/2013/03/our-hero-ariyaratne-truly-empowering-people/"
+license: CFI-OAAL-1.0
 content_sha256: 039a53b77d3f3dc9d81c0655e286e8a7aab1b2395833e63301311102d8bb18f1
 canonical: 3321-our-hero-ariyaratne-truly-empowering-people.json
 ---
