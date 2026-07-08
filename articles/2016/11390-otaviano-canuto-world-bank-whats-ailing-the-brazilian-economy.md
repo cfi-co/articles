@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180803154232
 wayback_snapshot_url: "http://web.archive.org/web/20180803154232/http://cfi.co/finance/2016/11/otaviano-canuto-world-bank-whats-ailing-the-brazilian-economy/"
+license: CFI-OAAL-1.0
 content_sha256: a79edefa41478b66098c65ab24ea955da605317f45dd7c26f968e10774b6dd40
 canonical: 11390-otaviano-canuto-world-bank-whats-ailing-the-brazilian-economy.json
 ---
