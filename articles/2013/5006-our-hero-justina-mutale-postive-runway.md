@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721113519
 wayback_snapshot_url: "http://web.archive.org/web/20190721113519/https://cfi.co/editors-picks/2013/08/our-hero-justina-mutale-postive-runway/"
+license: CFI-OAAL-1.0
 content_sha256: 1ed9c88c61f492c5f8cee26d8ddbac23eebae16e1f97d8206455d4ee39369553
 canonical: 5006-our-hero-justina-mutale-postive-runway.json
 ---
