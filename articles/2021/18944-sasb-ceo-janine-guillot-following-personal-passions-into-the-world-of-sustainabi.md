@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210304122710
 wayback_snapshot_url: "http://web.archive.org/web/20210304122710/https://cfi.co/editors-picks/2021/03/sasb-ceo-janine-guillot-following-personal-passions-into-the-world-of-sustainability/"
+license: CFI-OAAL-1.0
 content_sha256: eca0e9a1a4b72ee860beeee964fb20dfbc8ac8a39cc75950508716d59a544d35
 canonical: 18944-sasb-ceo-janine-guillot-following-personal-passions-into-the-world-of-sustainabi.json
 ---
