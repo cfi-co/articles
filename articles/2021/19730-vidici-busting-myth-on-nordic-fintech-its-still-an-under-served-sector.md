@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210610134134
 wayback_snapshot_url: "http://web.archive.org/web/20210610134134/https://cfi.co/menu/corporate/2021/05/vidici-busting-myth-on-nordic-fintech-its-still-an-under-served-sector/"
+license: CFI-OAAL-1.0
 content_sha256: 5a3da08e58a5c7fd7d1e9f98aa86e4e372103aa2aaf36a19ab4bab0a0d9962df
 canonical: 19730-vidici-busting-myth-on-nordic-fintech-its-still-an-under-served-sector.json
 ---
