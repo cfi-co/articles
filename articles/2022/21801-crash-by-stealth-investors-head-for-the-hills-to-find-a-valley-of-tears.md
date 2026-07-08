@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220516003458
 wayback_snapshot_url: "http://web.archive.org/web/20220516003458/https://cfi.co/brave-new-world/2022/05/crash-by-stealth-investors-head-for-the-hills-to-find-a-valley-of-tears/"
+license: CFI-OAAL-1.0
 content_sha256: 98237f19ffe8c87ec8c154831429817b9052c46ffd0d3a85e48c4129e74ebe49
 canonical: 21801-crash-by-stealth-investors-head-for-the-hills-to-find-a-valley-of-tears.json
 ---
