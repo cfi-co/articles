@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230601142921
 wayback_snapshot_url: "http://web.archive.org/web/20230601142921/https://cfi.co/brave-new-world/2023/06/championing-cbdcs-whos-who-in-the-race/"
+license: CFI-OAAL-1.0
 content_sha256: d5ce40c8d6785ac25c764379be3dc868ee3109db6a669a9d03a69abd997703c5
 canonical: 25530-championing-cbdcs-whos-who-in-the-race.json
 ---
