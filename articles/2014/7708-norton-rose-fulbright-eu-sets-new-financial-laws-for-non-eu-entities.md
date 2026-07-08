@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050555
 wayback_snapshot_url: "http://web.archive.org/web/20190818050555/https://cfi.co/africa/2014/07/norton-rose-fulbright-eu-sets-new-financial-laws-for-non-eu-entities/"
+license: CFI-OAAL-1.0
 content_sha256: 02abb7a7e2db600c8f5068a0e3ba79975725dcfeb96886a6f7a2398893551dee
 canonical: 7708-norton-rose-fulbright-eu-sets-new-financial-laws-for-non-eu-entities.json
 ---
