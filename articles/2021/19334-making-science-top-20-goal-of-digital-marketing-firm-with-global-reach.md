@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418060004
 wayback_snapshot_url: "http://web.archive.org/web/20210418060004/https://cfi.co/menu/corporate/2021/03/making-science-top-20-goal-of-digital-marketing-firm-with-global-reach/"
+license: CFI-OAAL-1.0
 content_sha256: 0f8a330c173911aa16bc167d3b6d9629eed58b8d8f4d3e151ace43b8e3577e4b
 canonical: 19334-making-science-top-20-goal-of-digital-marketing-firm-with-global-reach.json
 ---
