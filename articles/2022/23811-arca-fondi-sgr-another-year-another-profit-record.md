@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330012731
 wayback_snapshot_url: "http://web.archive.org/web/20230330012731/https://cfi.co/menu/corporate/2022/08/arca-fondi-sgr-another-year-another-profit-record/"
+license: CFI-OAAL-1.0
 content_sha256: b6aeda4d8d564b59932be370dbe1f775d51196f2ca9e356a47a7cb42be3a71c1
 canonical: 23811-arca-fondi-sgr-another-year-another-profit-record.json
 ---
