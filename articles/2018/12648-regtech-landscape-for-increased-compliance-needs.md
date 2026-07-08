@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820142207
 wayback_snapshot_url: "http://web.archive.org/web/20190820142207/https://cfi.co/technology/2018/06/regtech-landscape-for-increased-compliance-needs/"
+license: CFI-OAAL-1.0
 content_sha256: 510199e47658cf94578a42f5e17cbcd543a48ba33484722efca034e3aa0180c1
 canonical: 12648-regtech-landscape-for-increased-compliance-needs.json
 ---
