@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827142404
 wayback_snapshot_url: "http://web.archive.org/web/20140827142404/http://cfi.co/banking/2014/02/mario-draghi-ecb-president-gearing-up-for-eurozone-growth-spurt/"
+license: CFI-OAAL-1.0
 content_sha256: feb28f1c97163f152471c9dddf3b47e43ba9775a925b62339277adda2f81f38d
 canonical: 6608-mario-draghi-ecb-president-gearing-up-for-eurozone-growth-spurt.json
 ---
