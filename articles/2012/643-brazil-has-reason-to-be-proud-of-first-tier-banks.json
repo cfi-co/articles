@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190818054030",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190818054030/https://cfi.co/banking/2012/05/brazil-has-reason-to-be-proud-of-first-tier-banks/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190818054030/https://cfi.co/banking/2012/05/brazil-has-reason-to-be-proud-of-first-tier-banks/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_644\" align=\"alignright\" width=\"143\" caption=\"Wilson Roberto Levorato, Executive Vice President, FEBRABAN\"]<a href=\"http://capitalfinanceint.com/news/wp-content/uploads/2012/05/wilson-levorato.jpg\"><img class=\"size-full wp-image-644\" title=\"wilson-levorato\" src=\"http://capitalfinanceint.com/news/wp-content/uploads/2012/05/wilson-levorato.jpg\" alt=\"\" width=\"143\" height=\"188\" /></a>[/caption]\n\nReported by Marcos dos Santos.\n\nAfter a period of tension between the banking sector and the Brazilian government, the Executive Vice President of FEBRABAN (Brazilian Federation of Banks), Wilson Roberto Levorato, said recently, during a seminar of financial inclusion in Brasilia that Brazil \"is the cue ball.\"\n\n\"Today Brazil is the star of all the (international) participants. We have changes in income distribution, a violent reduction of unemployment and the inclusion of 63 million Brazilians who has begun to consume,\" he said. \"We have had a change of the Brazilian reality,\" he added.\n\nHe also pointed out that the network of banking services has grown by 50% in recent years, and that the number of correspondent banks have recently increased by more than 67%. \"Brazil was the country of football, but today is the country of first-tier banks,\" he said. \"Brazil has to be proud of their banks.\"\n\nLevorato also praised the work of the Central Bank as regulator. \"We need better banking regulation in the world. However, Brazil were not directly affected by any sub-prime crisis,\" he said.\n\nMaybe there are a few things financial regulators around the world could learn from Brazil.",
     "content_sha256": "a6b23df06b660de1d3c616b4f92d4f24c007855892d3cebab19c2faaf14769b7",
-    "record_sha256": "0b1bf6b27c4c70be78b4c492ca37582fe7ef688c3baac3a4921ce87ef8e38e89"
+    "record_sha256": "e093bb1e3dfd51bbb5d363a0a90285bba909becc23b4f86be42c8d266b6f2cfb"
 }
