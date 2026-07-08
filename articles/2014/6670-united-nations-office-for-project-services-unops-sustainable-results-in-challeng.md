@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140828081155
 wayback_snapshot_url: "http://web.archive.org/web/20140828081155/http://cfi.co/africa/2014/02/united-nations-office-for-project-services-unops-sustainable-results-in-challenging-environments/"
+license: CFI-OAAL-1.0
 content_sha256: 8c888c34f1ea9c778a6b9efcc6576ce91727a27f0fbc7409219c07796a286ba0
 canonical: 6670-united-nations-office-for-project-services-unops-sustainable-results-in-challeng.json
 ---
