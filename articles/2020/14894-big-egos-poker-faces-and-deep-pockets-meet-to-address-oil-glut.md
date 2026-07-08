@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200505203116
 wayback_snapshot_url: "http://web.archive.org/web/20200505203116/https://cfi.co/c-19/2020/04/big-egos-poker-faces-and-deep-pockets-meet-to-address-oil-glut/"
+license: CFI-OAAL-1.0
 content_sha256: 81236340a52e62e8336d2c5df220ef31a1e13bca7bb9f731f8851d380f9ddce6
 canonical: 14894-big-egos-poker-faces-and-deep-pockets-meet-to-address-oil-glut.json
 ---
