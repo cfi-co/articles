@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825103809
 wayback_snapshot_url: "http://web.archive.org/web/20190825103809/https://cfi.co/corporate-leaders/2015/09/cfi-co-meets-the-ceo-of-edgars-stores-linda-masterson/"
+license: CFI-OAAL-1.0
 content_sha256: badc87845e625b076b66d506ce1758390bf58b62e4dc976e2a942e93d750f853
 canonical: 10539-cfi-co-meets-the-ceo-of-edgars-stores-linda-masterson.json
 ---
