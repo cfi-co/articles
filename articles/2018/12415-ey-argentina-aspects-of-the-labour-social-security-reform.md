@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721110626
 wayback_snapshot_url: "http://web.archive.org/web/20190721110626/https://cfi.co/finance/2018/04/ey-argentina-aspects-of-the-labour-social-security-reform/"
+license: CFI-OAAL-1.0
 content_sha256: f95b9a973b8be46568b80ae39ccf751aa2268953940b74e756135a1a727bed47
 canonical: 12415-ey-argentina-aspects-of-the-labour-social-security-reform.json
 ---
