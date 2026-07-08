@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140828120420
 wayback_snapshot_url: "http://web.archive.org/web/20140828120420/http://cfi.co/europe/2013/03/flight-links-uk-risks-billions-in-trade-with-fast-growing-economies/"
+license: CFI-OAAL-1.0
 content_sha256: da6d44041be524ec9e5783bbd15e2252a8a451a6e074dfdd3241ea33673dbe54
 canonical: 3190-flight-links-uk-risks-billions-in-trade-with-fast-growing-economies.json
 ---
