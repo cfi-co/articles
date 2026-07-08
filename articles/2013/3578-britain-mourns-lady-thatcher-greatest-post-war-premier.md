@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050218
 wayback_snapshot_url: "http://web.archive.org/web/20190823050218/https://cfi.co/europe/2013/04/britain-mourns-lady-thatcher-greatest-post-war-premier/"
+license: CFI-OAAL-1.0
 content_sha256: b7396c2ea566fed3720bef9303cdd7c9aeb7269d11d2a2eb252d8deaf44ee945
 canonical: 3578-britain-mourns-lady-thatcher-greatest-post-war-premier.json
 ---
