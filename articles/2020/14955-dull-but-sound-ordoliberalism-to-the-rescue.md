@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200918070139
 wayback_snapshot_url: "http://web.archive.org/web/20200918070139/https://cfi.co/c-19/2020/04/dull-but-sound-ordoliberalism-to-the-rescue/"
+license: CFI-OAAL-1.0
 content_sha256: 0da4431beaedaff6afe5abdb4d12478932a9071f3557aac9c33c8ae52f9fcdf1
 canonical: 14955-dull-but-sound-ordoliberalism-to-the-rescue.json
 ---
