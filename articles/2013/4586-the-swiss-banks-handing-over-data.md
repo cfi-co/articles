@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190917030545
 wayback_snapshot_url: "http://web.archive.org/web/20190917030545/https://cfi.co/banking/2013/07/the-swiss-banks-handing-over-data/"
+license: CFI-OAAL-1.0
 content_sha256: ae84755189da75c24336ba247d3ea69d0611f1ab74ae44c54cb2341442941e94
 canonical: 4586-the-swiss-banks-handing-over-data.json
 ---
