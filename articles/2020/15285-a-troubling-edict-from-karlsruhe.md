@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200514230031
 wayback_snapshot_url: "http://web.archive.org/web/20200514230031/https://cfi.co/c-19/2020/05/a-troubling-edict-from-karlsruhe/"
+license: CFI-OAAL-1.0
 content_sha256: 6d87be1b2eb3fa20e1062e6cb93bc5a9c779787498b583763afc8557745fd93b
 canonical: 15285-a-troubling-edict-from-karlsruhe.json
 ---
