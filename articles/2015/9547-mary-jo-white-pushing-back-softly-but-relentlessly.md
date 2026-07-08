@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818053116
 wayback_snapshot_url: "http://web.archive.org/web/20190818053116/https://cfi.co/finance/2015/03/mary-jo-white-pushing-back-softly-but-relentlessly/"
+license: CFI-OAAL-1.0
 content_sha256: b928ead0668e9548f85ae483fa02d8dce2bb1c2b64cd568ddae1a39dfa78b175
 canonical: 9547-mary-jo-white-pushing-back-softly-but-relentlessly.json
 ---
