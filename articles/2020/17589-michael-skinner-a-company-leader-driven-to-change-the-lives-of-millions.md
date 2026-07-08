@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201125003551
 wayback_snapshot_url: "http://web.archive.org/web/20201125003551/https://cfi.co/northamerica/2020/10/michael-skinner-a-company-leader-driven-to-change-the-lives-of-millions/"
+license: CFI-OAAL-1.0
 content_sha256: 5b20584e9e7c20d3842dc76bfc023a159b443c5fe9745811d423b26b229261fa
 canonical: 17589-michael-skinner-a-company-leader-driven-to-change-the-lives-of-millions.json
 ---
