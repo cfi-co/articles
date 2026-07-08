@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140328124944
 wayback_snapshot_url: "http://web.archive.org/web/20140328124944/http://cfi.co/africa/2013/05/oil-producers-with-success-in-nigeria/"
+license: CFI-OAAL-1.0
 content_sha256: 90b144d7f80c299d30b58a91339ced4ecb77e54ead0b4d5269e5c05cfe148c3c
 canonical: 3959-oil-producers-with-success-in-nigeria.json
 ---
