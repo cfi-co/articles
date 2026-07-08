@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180704092430
 wayback_snapshot_url: "http://web.archive.org/web/20180704092430/http://cfi.co/europe/2015/01/davos-inequality-causes-concern-few-expect-improvement/"
+license: CFI-OAAL-1.0
 content_sha256: a6ff27195310a5f8c285f40e4fbc48bf5429ca4a5d3eaa0dc62236d14a73e901
 canonical: 8810-davos-inequality-causes-concern-few-expect-improvement.json
 ---
