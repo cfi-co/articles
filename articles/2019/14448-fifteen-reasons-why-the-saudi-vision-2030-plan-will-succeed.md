@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200421154354
 wayback_snapshot_url: "http://web.archive.org/web/20200421154354/https://cfi.co/middleeast/2019/12/fifteen-reasons-why-the-saudi-vision-2030-plan-will-succeed/"
+license: CFI-OAAL-1.0
 content_sha256: 62699a0fa74b8af7bcaaaa0b3238fdd7e24fc66520ec039f6e216cf878616779
 canonical: 14448-fifteen-reasons-why-the-saudi-vision-2030-plan-will-succeed.json
 ---
