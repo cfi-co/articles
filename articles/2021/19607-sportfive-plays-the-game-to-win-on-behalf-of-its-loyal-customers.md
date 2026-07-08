@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210614191618
 wayback_snapshot_url: "http://web.archive.org/web/20210614191618/https://cfi.co/menu/corporate/2021/05/sportfive-plays-the-game-to-win-on-behalf-of-its-loyal-customers/"
+license: CFI-OAAL-1.0
 content_sha256: 52fb3c13b2440d2da70cd8287fbbeb0364f3edadf1aeb9bd3b4a5451c68658ce
 canonical: 19607-sportfive-plays-the-game-to-win-on-behalf-of-its-loyal-customers.json
 ---
