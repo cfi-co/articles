@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250926111820
 wayback_snapshot_url: "http://web.archive.org/web/20250926111820/https://cfi.co/banking/2025/09/from-local-strength-to-continental-success-bawags-steady-expansion-in-europe/"
+license: CFI-OAAL-1.0
 content_sha256: 464ec9e21195bb202045010bf48d49d6527242c986d1bfc7ccc5adbd6b407f8b
 canonical: 27952-from-local-strength-to-continental-success-bawags-steady-expansion-in-europe.json
 ---
