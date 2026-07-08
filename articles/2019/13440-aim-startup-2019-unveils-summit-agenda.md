@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721110807
 wayback_snapshot_url: "http://web.archive.org/web/20190721110807/https://cfi.co/middleeast/2019/02/aim-startup-2019-unveils-summit-agenda/"
+license: CFI-OAAL-1.0
 content_sha256: 05a91cc4760d4dfde9ccedf8cdfb1001e14f9daf555cb980b3bd44c79e0d7f29
 canonical: 13440-aim-startup-2019-unveils-summit-agenda.json
 ---
