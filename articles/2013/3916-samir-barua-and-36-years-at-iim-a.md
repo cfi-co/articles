@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724031657
 wayback_snapshot_url: "http://web.archive.org/web/20190724031657/https://cfi.co/asia-pacific/2013/05/samir-barua-and-36-years-at-iim-a/"
+license: CFI-OAAL-1.0
 content_sha256: 9c0246c3f2543e0b5b84f8064fb3e03fefb719d49bfc9a9699700200db8eb90a
 canonical: 3916-samir-barua-and-36-years-at-iim-a.json
 ---
