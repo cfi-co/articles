@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150204022606
 wayback_snapshot_url: "http://web.archive.org/web/20150204022606/http://cfi.co/africa/2014/12/world-bank-international-food-prices-hit-four-year-low/"
+license: CFI-OAAL-1.0
 content_sha256: b7b0c882cbbe75436fb795ececdd782dc2055ac795f06a143350f62b8b184c72
 canonical: 8524-world-bank-international-food-prices-hit-four-year-low.json
 ---
