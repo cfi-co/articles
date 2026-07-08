@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140824231505
 wayback_snapshot_url: "http://web.archive.org/web/20140824231505/http://cfi.co/europe/2014/07/bracing-for-climate-change-managing-the-unavoidable-and-avoiding-the-unmanageable/"
+license: CFI-OAAL-1.0
 content_sha256: 048431f057ec57da829dea08e52fa36e429da93dd3c91577419e3e836eead410
 canonical: 7539-bracing-for-climate-change-managing-the-unavoidable-and-avoiding-the-unmanageabl.json
 ---
