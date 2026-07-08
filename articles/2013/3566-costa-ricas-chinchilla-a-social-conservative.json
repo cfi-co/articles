@@ -23,10 +23,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190823051642",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190823051642/https://cfi.co/latinamerica/2013/04/costa-ricas-chinchilla-a-social-conservative/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190823051642/https://cfi.co/latinamerica/2013/04/costa-ricas-chinchilla-a-social-conservative/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_3567\" align=\"aligncenter\" width=\"442\"]<img class=\" wp-image-3567 \" alt=\"Laura Chinchilla, President of Costa Rica\" src=\"https://cfi.co/wp-content/uploads/2013/04/Laura-Chinchilla.jpg\" width=\"442\" height=\"325\" /> <strong>Laura Chinchilla, President of Costa Rica</strong>[/caption]\r\n<p style=\"text-align: justify;\"><strong>One of two VPs in the previous administration, Laura Chinchilla was the first female president of Costa Rica when she assumed that office in May 2010.</strong>  Since coming to power she has had to deal with the Nicaraguan border crisis and reforms to correct the country’s staggering deficit. Chinchilla has championed ecotourism and placed a moratorium on oil exploration.</p>\r\n<p style=\"text-align: justify;\">Chinchilla has written extensively on judicial reform and public security and before taking up office was a consultant on these matters in Latin America and Africa. She is a social conservative opposing the separation of church and state and supporting a ban on the ‘morning after pill’.</p>",
     "content_sha256": "85f39afa0c7108cf5544102d5c69716f5a2b1f3ae6d9c5dd2776bd20abb93c3c",
-    "record_sha256": "03f0bca1e6d65733012edd9240e2072fba7b5650d0af2ef2ede4678f9d84bb53"
+    "record_sha256": "d3ff7e740c4b82297f5d2b249916430b24132e5518643463c4ccb1ebbda45f5d"
 }

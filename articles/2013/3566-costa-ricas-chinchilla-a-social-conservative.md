@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823051642
 wayback_snapshot_url: "http://web.archive.org/web/20190823051642/https://cfi.co/latinamerica/2013/04/costa-ricas-chinchilla-a-social-conservative/"
+license: CFI-OAAL-1.0
 content_sha256: 85f39afa0c7108cf5544102d5c69716f5a2b1f3ae6d9c5dd2776bd20abb93c3c
 canonical: 3566-costa-ricas-chinchilla-a-social-conservative.json
 ---
