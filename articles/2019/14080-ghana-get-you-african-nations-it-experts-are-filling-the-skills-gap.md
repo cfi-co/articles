@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191119062018
 wayback_snapshot_url: "http://web.archive.org/web/20191119062018/https://cfi.co/africa/2019/10/ghana-get-you-african-nations-it-experts-are-filling-the-skills-gap/"
+license: CFI-OAAL-1.0
 content_sha256: dca4fe58d63f72ae10c7cd2a548c4dd41bce3fbde8ded64331dbf3002d391287
 canonical: 14080-ghana-get-you-african-nations-it-experts-are-filling-the-skills-gap.json
 ---
