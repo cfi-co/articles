@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210512060647
 wayback_snapshot_url: "http://web.archive.org/web/20210512060647/https://cfi.co/europe/2021/05/lord-waverley-on-wto-inclusive-and-sustainable-trade-reforms-are-vital-for-shared-benefits/"
+license: CFI-OAAL-1.0
 content_sha256: 69da9aa8e0629c9714ee8734163ea0eb6baa46c4564173e319471c4f860f7482
 canonical: 19665-lord-waverley-on-wto-inclusive-and-sustainable-trade-reforms-are-vital-for-share.json
 ---
