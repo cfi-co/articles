@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327122606
 wayback_snapshot_url: "http://web.archive.org/web/20140327122606/http://cfi.co/africa/2013/05/shell-reduced-crude-oil-theft/"
+license: CFI-OAAL-1.0
 content_sha256: a46a879639247f57b0c38d8f745ea9d3819518b6f4f8596bf9a685dfe1adebcb
 canonical: 3942-shell-reduced-crude-oil-theft.json
 ---
