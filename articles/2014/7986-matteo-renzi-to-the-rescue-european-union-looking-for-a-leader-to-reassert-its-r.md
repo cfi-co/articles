@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20141009082432
 wayback_snapshot_url: "http://web.archive.org/web/20141009082432/http://cfi.co/europe/2014/09/matteo-renzi-to-the-rescue-european-union-looking-for-a-leader-to-reassert-its-role/"
+license: CFI-OAAL-1.0
 content_sha256: 795e6f22bba5fbf5a20e61452fec35bf5c3ca1040cc0031e0f4a25f89cb150f4
 canonical: 7986-matteo-renzi-to-the-rescue-european-union-looking-for-a-leader-to-reassert-its-r.json
 ---
