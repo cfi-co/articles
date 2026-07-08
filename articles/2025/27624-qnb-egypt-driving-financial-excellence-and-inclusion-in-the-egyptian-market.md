@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250318115903
 wayback_snapshot_url: "http://web.archive.org/web/20250318115903/https://cfi.co/middleeast/2025/03/qnb-egypt-driving-financial-excellence-and-inclusion-in-the-egyptian-market/"
+license: CFI-OAAL-1.0
 content_sha256: a4a376e8a06402edfb681d1fe8be6c10067e5d147b7f560428748c546e32df0f
 canonical: 27624-qnb-egypt-driving-financial-excellence-and-inclusion-in-the-egyptian-market.json
 ---
