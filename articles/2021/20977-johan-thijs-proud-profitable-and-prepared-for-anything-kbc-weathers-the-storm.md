@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625221544
 wayback_snapshot_url: "http://web.archive.org/web/20220625221544/https://cfi.co/menu/corporate/2021/11/johan-thijs-proud-profitable-and-prepared-for-anything-kbc-weathers-the-storm/"
+license: CFI-OAAL-1.0
 content_sha256: 607e3eb0998584d96f47f62207f8f73d33ea77dfe7b76de60eac30f53fa3115a
 canonical: 20977-johan-thijs-proud-profitable-and-prepared-for-anything-kbc-weathers-the-storm.json
 ---
