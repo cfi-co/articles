@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201023002511
 wayback_snapshot_url: "http://web.archive.org/web/20201023002511/https://cfi.co/corporate-leaders/2018/03/cfi-co-meets-the-ey-germany-management-team-hubert-barth-julie-linn-teigland/"
+license: CFI-OAAL-1.0
 content_sha256: 71f2e5388fc010523f13bfac6211fb8d909af380ae9be2b0cf5a83fa212cbecc
 canonical: 17077-cfi-co-meets-the-ey-germany-management-team-hubert-barth-julie-linn-teigland.json
 ---
