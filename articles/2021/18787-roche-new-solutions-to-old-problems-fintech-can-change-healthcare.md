@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210217203303
 wayback_snapshot_url: "http://web.archive.org/web/20210217203303/https://cfi.co/europe/2021/02/roche-new-solutions-to-old-problems-fintech-can-change-healthcare/"
+license: CFI-OAAL-1.0
 content_sha256: 6d75000be1f2597212e1ed6513d38738b1b1e96bd5821ffd99594e02f09003c2
 canonical: 18787-roche-new-solutions-to-old-problems-fintech-can-change-healthcare.json
 ---
