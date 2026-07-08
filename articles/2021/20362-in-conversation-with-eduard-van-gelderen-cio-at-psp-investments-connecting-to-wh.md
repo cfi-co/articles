@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630123416
 wayback_snapshot_url: "http://web.archive.org/web/20220630123416/https://cfi.co/menu/corporate/2021/08/in-conversation-with-eduard-van-gelderen-cio-at-psp-investments-connecting-to-what-matters/"
+license: CFI-OAAL-1.0
 content_sha256: 137748ed5d50ca3dd8d8f3c66fc358129c2bea6b5313d38cd11736d33c07d793
 canonical: 20362-in-conversation-with-eduard-van-gelderen-cio-at-psp-investments-connecting-to-wh.json
 ---
