@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826163522
 wayback_snapshot_url: "http://web.archive.org/web/20140826163522/http://cfi.co/middleeast/2014/04/real-estate-industry-looks-to-qatar-for-opportunities/"
+license: CFI-OAAL-1.0
 content_sha256: 683638eb01239c387c510f85ed49db9661f4eea861db69ceeec7cbf7e7837f5a
 canonical: 6982-real-estate-industry-looks-to-qatar-for-opportunities.json
 ---
