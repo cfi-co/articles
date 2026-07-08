@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260101063937
 wayback_snapshot_url: "http://web.archive.org/web/20260101063937/https://cfi.co/lifestyle/2025/12/a-handbags-world-how-hermes-handbags-became-blue-chip-assets/"
+license: CFI-OAAL-1.0
 content_sha256: b4fb5935dd7085a0bcf53423247a4f43fdb29613e5264f0e56fdc3a670a3de0f
 canonical: 28123-a-handbags-world-how-hermes-handbags-became-blue-chip-assets.json
 ---
