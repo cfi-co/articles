@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170920023555
 wayback_snapshot_url: "http://web.archive.org/web/20170920023555/http://cfi.co/asia-pacific/2017/01/davos-2017-globalists-hail-president-xi-jinping/"
+license: CFI-OAAL-1.0
 content_sha256: 280e2c8c7090b2aae1da39c5bd88c914f1843848a2afe9815262f802de198115
 canonical: 11463-davos-2017-globalists-hail-president-xi-jinping.json
 ---
