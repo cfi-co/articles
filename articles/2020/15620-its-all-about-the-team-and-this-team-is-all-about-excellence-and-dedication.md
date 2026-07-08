@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200625004133
 wayback_snapshot_url: "http://web.archive.org/web/20200625004133/https://cfi.co/corporate-leaders/2020/06/its-all-about-the-team-and-this-team-is-all-about-excellence-and-dedication/"
+license: CFI-OAAL-1.0
 content_sha256: d39dcec554b7537f2f966c33f58475a7874a60b7d036501e68e195d0944ccfd2
 canonical: 15620-its-all-about-the-team-and-this-team-is-all-about-excellence-and-dedication.json
 ---
