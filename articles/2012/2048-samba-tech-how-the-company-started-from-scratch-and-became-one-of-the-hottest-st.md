@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190305131659
 wayback_snapshot_url: "http://web.archive.org/web/20190305131659/https://cfi.co/latinamerica/2012/08/samba-tech-how-the-company-started-from-scratch-and-became-one-of-the-hottest-startups-in-the-world/"
+license: CFI-OAAL-1.0
 content_sha256: 50cdf7bb8ef6f1f688c816b8bdf6aa29cfbfb445be1f31614892c9dc20611dd0
 canonical: 2048-samba-tech-how-the-company-started-from-scratch-and-became-one-of-the-hottest-st.json
 ---
