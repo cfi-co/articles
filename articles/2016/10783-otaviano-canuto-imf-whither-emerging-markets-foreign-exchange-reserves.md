@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20160118164312
 wayback_snapshot_url: "http://web.archive.org/web/20160118164312/http://cfi.co/africa/2016/01/otaviano-canuto-imf-whither-emerging-markets-foreign-exchange-reserves/"
+license: CFI-OAAL-1.0
 content_sha256: 2e4d21e64c12c6c918a5f01b0ef414a64e57cb0e631ffb487399ff52336afb39
 canonical: 10783-otaviano-canuto-imf-whither-emerging-markets-foreign-exchange-reserves.json
 ---
