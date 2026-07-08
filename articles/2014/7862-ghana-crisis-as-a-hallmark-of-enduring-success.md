@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20141003123037
 wayback_snapshot_url: "http://web.archive.org/web/20141003123037/http://cfi.co/africa/2014/08/ghana-crisis-as-a-hallmark-of-enduring-success/"
+license: CFI-OAAL-1.0
 content_sha256: 979bb3992ba0f3e6dbab1785e973eda2262cfcad7ce20eeffe98f1c26a0e3748
 canonical: 7862-ghana-crisis-as-a-hallmark-of-enduring-success.json
 ---
