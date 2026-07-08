@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231013141041
 wayback_snapshot_url: "http://web.archive.org/web/20231013141041/https://cfi.co/europe/2023/10/pwc-when-it-comes-to-securing-the-future-theres-no-time-like-the-present/"
+license: CFI-OAAL-1.0
 content_sha256: b6d8c16e40bf4a61b78ffe69a7b9918d2bb30d07e2b61711f7fc15739aab27cf
 canonical: 26191-pwc-when-it-comes-to-securing-the-future-theres-no-time-like-the-present.json
 ---
