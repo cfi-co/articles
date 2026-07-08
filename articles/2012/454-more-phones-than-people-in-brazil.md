@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132554
 wayback_snapshot_url: "http://web.archive.org/web/20190818132554/https://cfi.co/finance/2012/04/more-phones-than-people-in-brazil/"
+license: CFI-OAAL-1.0
 content_sha256: 61dab2c429a28ff1b3e7fb4a2e8b6cc61d03bf5e9f95cf61e953dae8c68c7ce4
 canonical: 454-more-phones-than-people-in-brazil.json
 ---
