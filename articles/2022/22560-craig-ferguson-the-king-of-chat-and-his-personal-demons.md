@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220815153235
 wayback_snapshot_url: "http://web.archive.org/web/20220815153235/https://cfi.co/northamerica/2022/08/craig-ferguson-the-king-of-chat-and-his-personal-demons/"
+license: CFI-OAAL-1.0
 content_sha256: c453a7479ace45bb16b8bc75bd2ac964fb8873db4d6ea593121345a8b6a508a6
 canonical: 22560-craig-ferguson-the-king-of-chat-and-his-personal-demons.json
 ---
