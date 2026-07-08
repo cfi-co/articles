@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523042805
 wayback_snapshot_url: "http://web.archive.org/web/20260523042805/https://cfi.co/asia-pacific/2026/04/governance-as-capital-protection-how-uobs-board-architecture-reinforces-resilience-in-singapores-banking-system/"
+license: CFI-OAAL-1.0
 content_sha256: c6c6ab93f9ed500e0133fd38c8a2d6ed80415bcd8300c62c8432811afa4f5cc8
 canonical: 28389-governance-as-capital-protection-how-uobs-board-architecture-reinforces-resilien.json
 ---
