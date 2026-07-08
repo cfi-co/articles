@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200919132013
 wayback_snapshot_url: "http://web.archive.org/web/20200919132013/https://cfi.co/editors-picks/2017/09/michel-barnier/"
+license: CFI-OAAL-1.0
 content_sha256: 242e752bed9aff0003f7e5ebfc67c3e71136e51ea991cba42c331417d0902385
 canonical: 11984-michel-barnier.json
 ---
