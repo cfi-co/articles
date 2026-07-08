@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220629083920
 wayback_snapshot_url: "http://web.archive.org/web/20220629083920/https://cfi.co/sustainability/2022/05/pollen-street-capital-all-players-are-part-of-the-solution-proceed-with-purpose-to-maximise-esg-impact/"
+license: CFI-OAAL-1.0
 content_sha256: a0e03155c18eb725a406845d4c5d3bd56c7095c3857c29cf3bf4cde34378cde7
 canonical: 22007-pollen-street-capital-all-players-are-part-of-the-solution-proceed-with-purpose-.json
 ---
