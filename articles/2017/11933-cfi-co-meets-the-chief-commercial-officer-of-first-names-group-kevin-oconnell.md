@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024621
 wayback_snapshot_url: "http://web.archive.org/web/20190724024621/https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-chief-commercial-officer-of-first-names-group-kevin-oconnell/"
+license: CFI-OAAL-1.0
 content_sha256: a50d5a4c5fdf7427c5d088a2b8a98a2e13b88fedd5da2ebbc612d3177d1cd251
 canonical: 11933-cfi-co-meets-the-chief-commercial-officer-of-first-names-group-kevin-oconnell.json
 ---
