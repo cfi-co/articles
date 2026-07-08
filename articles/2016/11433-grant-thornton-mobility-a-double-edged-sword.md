@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190722120751
 wayback_snapshot_url: "http://web.archive.org/web/20190722120751/https://cfi.co/asia-pacific/2016/12/grant-thornton-mobility-a-double-edged-sword/"
+license: CFI-OAAL-1.0
 content_sha256: 6dc7bc1f0269a59baf9739ecf5bb39f49c70b02a8db106e173c2c7e2896c8e59
 canonical: 11433-grant-thornton-mobility-a-double-edged-sword.json
 ---
