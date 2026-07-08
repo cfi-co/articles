@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170930024307
 wayback_snapshot_url: "http://web.archive.org/web/20170930024307/http://cfi.co/africa/2016/01/pwc-oil-gas-in-africa-planning-a-response-to-the-price-drop/"
+license: CFI-OAAL-1.0
 content_sha256: e1a7e5764aea49c426dc0d7af647bd59ff93b1dfc40049d1242ea26f736b1027
 canonical: 10953-pwc-oil-gas-in-africa-planning-a-response-to-the-price-drop.json
 ---
