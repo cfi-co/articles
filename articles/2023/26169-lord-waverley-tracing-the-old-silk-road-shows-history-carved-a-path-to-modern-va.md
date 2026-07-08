@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231030222316
 wayback_snapshot_url: "http://web.archive.org/web/20231030222316/https://cfi.co/asia-pacific/2023/06/lord-waverley-tracing-the-old-silk-road-shows-history-carved-a-path-to-modern-values-and-vibrant-economies/"
+license: CFI-OAAL-1.0
 content_sha256: e75dc6ead3004b79a94b4ae2b0efb1096880400ce4d1c52fd930ebd38cdacafa
 canonical: 26169-lord-waverley-tracing-the-old-silk-road-shows-history-carved-a-path-to-modern-va.json
 ---
