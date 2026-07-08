@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523042803
 wayback_snapshot_url: "http://web.archive.org/web/20260523042803/https://cfi.co/europe/2026/04/the-perfect-storm-in-energy-infrastructure-high-density-hydro-cost-deflation-and-geopolitical-security/"
+license: CFI-OAAL-1.0
 content_sha256: a464f2cb81a7ca782817eb56e71d45b7940b8f419d949da2f6599e8ba7d27b96
 canonical: 28376-the-perfect-storm-in-energy-infrastructure-high-density-hydro-cost-deflation-and.json
 ---
