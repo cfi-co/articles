@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721110715
 wayback_snapshot_url: "http://web.archive.org/web/20190721110715/https://cfi.co/africa/2014/07/magatte-wade-an-african-serial-entrepreneur-with-a-heart/"
+license: CFI-OAAL-1.0
 content_sha256: c31d476246c258e4d38a1efecffab098a5e463c506e1df299e31e9a2edc370b5
 canonical: 7723-magatte-wade-an-african-serial-entrepreneur-with-a-heart.json
 ---
