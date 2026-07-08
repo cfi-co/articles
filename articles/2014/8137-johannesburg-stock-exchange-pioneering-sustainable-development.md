@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724031327
 wayback_snapshot_url: "http://web.archive.org/web/20190724031327/https://cfi.co/africa/2014/10/johannesburg-stock-exchange-pioneering-sustainable-development/"
+license: CFI-OAAL-1.0
 content_sha256: d249e72bb27a7ed13abf9d3dd7f60e60ec757c27eede12c72b57e7fdf3a3750e
 canonical: 8137-johannesburg-stock-exchange-pioneering-sustainable-development.json
 ---
