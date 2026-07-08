@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201126140811
 wayback_snapshot_url: "http://web.archive.org/web/20201126140811/https://cfi.co/banking/2020/10/liechtenstein-bankers-association-lba-modern-industry-association-with-the-ambition-to-shape-the-future/"
+license: CFI-OAAL-1.0
 content_sha256: 8fd2b849c2664d5fbe6b4fa4515d5b81a33126605fe4b907a12ce133dad41800
 canonical: 17549-liechtenstein-bankers-association-lba-modern-industry-association-with-the-ambit.json
 ---
