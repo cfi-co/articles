@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818052404
 wayback_snapshot_url: "http://web.archive.org/web/20190818052404/https://cfi.co/editors-picks/2018/05/ursula-von-der-leyen-close-cooperation/"
+license: CFI-OAAL-1.0
 content_sha256: 24fe4d5fbaa2f8a7d1a50b862af00b6aec90642fa2d263a6f3f44e81c8ec70d3
 canonical: 12377-ursula-von-der-leyen-close-cooperation.json
 ---
