@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723005701
 wayback_snapshot_url: "http://web.archive.org/web/20190723005701/https://cfi.co/awards/asia-pacific/"
+license: CFI-OAAL-1.0
 content_sha256: fe6e8c7261ad350d232186f78945623ac60b55e3452c834b01da7036a3e9f684
 canonical: 9324-best-commercial-bank-china-cfi-co-names-china-merchants.json
 ---

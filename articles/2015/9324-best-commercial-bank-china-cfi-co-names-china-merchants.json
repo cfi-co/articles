@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190723005701",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190723005701/https://cfi.co/awards/asia-pacific/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190723005701/https://cfi.co/awards/asia-pacific/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>China Merchants Bank, headquartered in Shenzen and boasting 500 branches, is the CFI.co 2014 winner of the award ‘Best Commercial Bank, China.’</strong></p>\r\n<p style=\"text-align: justify;\">The CFI.co Judging Panel congratulates China Merchants on pioneering cross-border financing activities and notes the Bank’s resolve to develop an international presence with the opening of its branch office in New York City.</p>\r\n<p style=\"text-align: justify;\">Trade financing at Merchants is outstanding and the Panel comments that, ‘China Merchant’s Bank is a wise choice for companies seeking out international business opportunities.’</p>",
     "content_sha256": "fe6e8c7261ad350d232186f78945623ac60b55e3452c834b01da7036a3e9f684",
-    "record_sha256": "622e9b47096fea829c489d0460ffe644ac1a8a6081a93348551d54309adb3c64"
+    "record_sha256": "40c3d12dd9adc7412f700e77f8a5b9ac2ce4f52c751bd8fdb5946f6ee2e77da3"
 }
