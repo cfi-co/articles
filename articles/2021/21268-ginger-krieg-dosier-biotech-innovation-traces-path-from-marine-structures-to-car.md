@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207063420
 wayback_snapshot_url: "http://web.archive.org/web/20211207063420/https://cfi.co/menu/heroes/2021/12/ginger-krieg-dosier-biotech-innovation-traces-path-from-marine-structures-to-carbon-neutral-concrete/"
+license: CFI-OAAL-1.0
 content_sha256: ea1b452a811c9c8ea21005b164c0d68aabf3abfa7429cbf617b9577645789f56
 canonical: 21268-ginger-krieg-dosier-biotech-innovation-traces-path-from-marine-structures-to-car.json
 ---
