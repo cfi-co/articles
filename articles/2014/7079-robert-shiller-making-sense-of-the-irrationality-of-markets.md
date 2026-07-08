@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228104249
 wayback_snapshot_url: "http://web.archive.org/web/20210228104249/https://cfi.co/editors-picks/2014/04/robert-shiller-making-sense-of-the-irrationality-of-markets/"
+license: CFI-OAAL-1.0
 content_sha256: 5a1fae2361350440f54b89aecd92fcf13fc6587f649de8f1a5029e33c55f64a1
 canonical: 7079-robert-shiller-making-sense-of-the-irrationality-of-markets.json
 ---
