@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916044039
 wayback_snapshot_url: "http://web.archive.org/web/20190916044039/https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-of-mineworkers-provident-fund-mkuseli-mbomvu/"
+license: CFI-OAAL-1.0
 content_sha256: 4dc58d096d1591f6b3cdd31c71ef1ddec4dc5ac9751ce89ae9e1bc6c51f7bfa4
 canonical: 11794-cfi-co-meets-the-ceo-of-mineworkers-provident-fund-mkuseli-mbomvu.json
 ---
