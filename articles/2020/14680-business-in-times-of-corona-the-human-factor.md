@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200813092102
 wayback_snapshot_url: "http://web.archive.org/web/20200813092102/https://cfi.co/sustainability/2020/03/business-in-times-of-corona-the-human-factor/"
+license: CFI-OAAL-1.0
 content_sha256: a0cd5232213be3b7f6a83ce6c21f87c0b8644ce892e3ef388f2edc80814d17e3
 canonical: 14680-business-in-times-of-corona-the-human-factor.json
 ---
