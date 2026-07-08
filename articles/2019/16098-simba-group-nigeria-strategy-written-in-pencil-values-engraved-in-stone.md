@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200923133108
 wayback_snapshot_url: "http://web.archive.org/web/20200923133108/https://cfi.co/corporate-leaders/2019/10/simba-group-nigeria-strategy-written-in-pencil-values-engraved-in-stone/"
+license: CFI-OAAL-1.0
 content_sha256: 44d12778de715ece0cfac6d2ab7d3ead2b31fc24ee33f8ad4847ed8b927e7636
 canonical: 16098-simba-group-nigeria-strategy-written-in-pencil-values-engraved-in-stone.json
 ---
