@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191013204405
 wayback_snapshot_url: "http://web.archive.org/web/20191013204405/https://cfi.co/africa/2013/07/nelson-mandela-giant-of-our-times/"
+license: CFI-OAAL-1.0
 content_sha256: 0ce2a83aad7d773996e43bf293af10d2c652c13e050bf6c8b9a344e6c693fbcd
 canonical: 4599-nelson-mandela-giant-of-our-times.json
 ---
