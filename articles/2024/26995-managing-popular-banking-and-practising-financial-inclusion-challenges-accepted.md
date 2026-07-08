@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240815053801
 wayback_snapshot_url: "http://web.archive.org/web/20240815053801/https://cfi.co/banking/2024/08/managing-popular-banking-and-practising-financial-inclusion-challenges-accepted/"
+license: CFI-OAAL-1.0
 content_sha256: 474ba3831eb25d9ede3ff8f9f3edd07fde63d878f629857907e7231343775728
 canonical: 26995-managing-popular-banking-and-practising-financial-inclusion-challenges-accepted.json
 ---
