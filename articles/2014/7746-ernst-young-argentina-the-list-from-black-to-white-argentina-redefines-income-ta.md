@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180703081724
 wayback_snapshot_url: "http://web.archive.org/web/20180703081724/http://cfi.co/finance/2014/08/ernst-young-argentina-the-list-from-black-to-white-argentina-redefines-income-tax-law/"
+license: CFI-OAAL-1.0
 content_sha256: 8172d7d8db7cee77e54593070dd96ab42be1c9ae6a148d61962208d3eb3f5d0f
 canonical: 7746-ernst-young-argentina-the-list-from-black-to-white-argentina-redefines-income-ta.json
 ---
