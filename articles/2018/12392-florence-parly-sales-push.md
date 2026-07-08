@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200629170733
 wayback_snapshot_url: "http://web.archive.org/web/20200629170733/https://cfi.co/editors-picks/2018/02/florence-parly-sales-push/"
+license: CFI-OAAL-1.0
 content_sha256: 0432082523e3e096ac751816ce5184b1e4af4a40e3af616394a07165265c110a
 canonical: 12392-florence-parly-sales-push.json
 ---
