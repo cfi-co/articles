@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021052156
 wayback_snapshot_url: "http://web.archive.org/web/20191021052156/https://cfi.co/africa/2013/08/motsepe-first-african-to-sign-the-giving-pledge/"
+license: CFI-OAAL-1.0
 content_sha256: 077388645215d9d6b372f1bcdbb558c0b5bcccb9d13b5a4d505bcd8db9953c21
 canonical: 4979-motsepe-first-african-to-sign-the-giving-pledge.json
 ---
