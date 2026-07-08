@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418050259
 wayback_snapshot_url: "http://web.archive.org/web/20210418050259/https://cfi.co/asia-pacific/2021/02/history-and-future-two-things-pilipinas-shell-takes-into-account-in-all-of-its-dealings/"
+license: CFI-OAAL-1.0
 content_sha256: f44a9d3e54605ac21b880bc7e2e3bd2fc33dd149bface37faf044b7ec2d7d761
 canonical: 18721-history-and-future-two-things-pilipinas-shell-takes-into-account-in-all-of-its-d.json
 ---
