@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170821084909
 wayback_snapshot_url: "http://web.archive.org/web/20170821084909/http://cfi.co/africa/2012/08/harnessing-trade-opportunities-for-growth-and-development/"
+license: CFI-OAAL-1.0
 content_sha256: 4333a41e0f90302911d793f3003a5896dffe3a5a47775f7df6e82c9b6b44dec7
 canonical: 1496-harnessing-trade-opportunities-for-growth-and-development.json
 ---
