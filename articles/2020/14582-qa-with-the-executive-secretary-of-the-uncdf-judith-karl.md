@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200410164942
 wayback_snapshot_url: "http://web.archive.org/web/20200410164942/https://cfi.co/northamerica/2020/02/qa-with-the-executive-secretary-of-the-uncdf-judith-karl/"
+license: CFI-OAAL-1.0
 content_sha256: 04fdab3b9caa0b0e4874b0deff98fbcb5ee84ab1e5b6e6f43151d8c90b127b84
 canonical: 14582-qa-with-the-executive-secretary-of-the-uncdf-judith-karl.json
 ---
