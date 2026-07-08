@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20151031152914
 wayback_snapshot_url: "http://web.archive.org/web/20151031152914/http://cfi.co/finance/2015/10/ireis-conference-uae-property-market-in-phase-of-optimistic-consolidation/"
+license: CFI-OAAL-1.0
 content_sha256: 6b303b83fb23f15c69adde6ac6fed13e04a0c4c0a7cb5b109996a3296845df51
 canonical: 10603-ireis-conference-uae-property-market-in-phase-of-optimistic-consolidation.json
 ---
