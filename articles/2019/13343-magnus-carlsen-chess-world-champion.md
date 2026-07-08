@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050816
 wayback_snapshot_url: "http://web.archive.org/web/20190818050816/https://cfi.co/editors-picks/2019/01/magnus-carlsen-chess-world-champion/"
+license: CFI-OAAL-1.0
 content_sha256: c97f53ca2e567c0f969722145baef1b2d72eb28873924592fcd297a029a21cd4
 canonical: 13343-magnus-carlsen-chess-world-champion.json
 ---
