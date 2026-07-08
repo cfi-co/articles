@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140328064949
 wayback_snapshot_url: "http://web.archive.org/web/20140328064949/http://cfi.co/finance/2013/10/cfi-co-meets-juan-pablo-cordoba-garces/"
+license: CFI-OAAL-1.0
 content_sha256: 14e8086c12eb45f620462fca580b26c8bb3ea279e39475c8ecaf51a299ec6560
 canonical: 5669-cfi-co-meets-juan-pablo-cordoba-garces.json
 ---
