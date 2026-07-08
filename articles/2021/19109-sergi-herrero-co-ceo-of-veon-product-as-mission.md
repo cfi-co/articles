@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422021036
 wayback_snapshot_url: "http://web.archive.org/web/20210422021036/https://cfi.co/menu/corporate/2021/03/sergi-herrero-co-ceo-of-veon-product-as-mission/"
+license: CFI-OAAL-1.0
 content_sha256: ecce4736875f6eaf40e71e3f454a1e8241192e93e4c40dcb02baebe7c2127ed2
 canonical: 19109-sergi-herrero-co-ceo-of-veon-product-as-mission.json
 ---
