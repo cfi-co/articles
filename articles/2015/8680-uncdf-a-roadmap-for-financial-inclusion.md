@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916043733
 wayback_snapshot_url: "http://web.archive.org/web/20190916043733/https://cfi.co/africa/2015/01/uncdf-a-roadmap-for-financial-inclusion/"
+license: CFI-OAAL-1.0
 content_sha256: e7a9ccf8d977e7cb27fd691522b1fa5a68da22493fa124c3e204ca92b8cee1c7
 canonical: 8680-uncdf-a-roadmap-for-financial-inclusion.json
 ---
