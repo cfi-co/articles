@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050350
 wayback_snapshot_url: "http://web.archive.org/web/20190823050350/https://cfi.co/editors-picks/2012/12/tough-operator-dr-ngozi-okonjo-iweala/"
+license: CFI-OAAL-1.0
 content_sha256: 01f5c1c804cb56c9b7c64e0bd05932420632e1e32daa1854c015429978a4bc26
 canonical: 2940-tough-operator-dr-ngozi-okonjo-iweala.json
 ---
