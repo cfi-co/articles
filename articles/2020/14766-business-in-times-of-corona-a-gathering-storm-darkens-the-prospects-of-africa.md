@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200511153831
 wayback_snapshot_url: "http://web.archive.org/web/20200511153831/https://cfi.co/africa/2020/03/business-in-times-of-corona-a-gathering-storm-darkens-the-prospects-of-africa/"
+license: CFI-OAAL-1.0
 content_sha256: 7c74df51789163b5f926974b524de62f9ef8f72582b016c218aa06368b46e526
 canonical: 14766-business-in-times-of-corona-a-gathering-storm-darkens-the-prospects-of-africa.json
 ---
