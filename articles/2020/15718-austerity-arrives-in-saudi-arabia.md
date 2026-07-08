@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418053613
 wayback_snapshot_url: "http://web.archive.org/web/20210418053613/https://cfi.co/middleeast/2020/06/austerity-arrives-in-saudi-arabia/"
+license: CFI-OAAL-1.0
 content_sha256: afbb7044eb6f926a19e2d814f4aa8316f33d0abd3451b89496544c11c353d5ee
 canonical: 15718-austerity-arrives-in-saudi-arabia.json
 ---
