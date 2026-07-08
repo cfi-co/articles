@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826045913
 wayback_snapshot_url: "http://web.archive.org/web/20140826045913/http://cfi.co/middleeast/2013/08/the-magic-number-to-watch-in-dubai-2020/"
+license: CFI-OAAL-1.0
 content_sha256: d4fd6503ea514311750f8c5a086ea902c2f9ac7a33b49598b3750afb20a681bd
 canonical: 4971-the-magic-number-to-watch-in-dubai-2020.json
 ---
