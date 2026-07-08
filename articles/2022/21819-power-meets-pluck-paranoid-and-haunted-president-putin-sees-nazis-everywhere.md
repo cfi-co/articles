@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220516040013
 wayback_snapshot_url: "http://web.archive.org/web/20220516040013/https://cfi.co/brave-new-world/2022/05/power-meets-pluck-paranoid-and-haunted-president-putin-sees-nazis-everywhere/"
+license: CFI-OAAL-1.0
 content_sha256: 0fdeef0da0b82511b3f88993ff9a83b70d6a22c4e924fc8e355e947089ea67bf
 canonical: 21819-power-meets-pluck-paranoid-and-haunted-president-putin-sees-nazis-everywhere.json
 ---
