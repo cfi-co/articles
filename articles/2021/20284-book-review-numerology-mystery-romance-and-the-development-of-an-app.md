@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210730064139
 wayback_snapshot_url: "http://web.archive.org/web/20210730064139/https://cfi.co/menu/reviews/2021/07/book-review-numerology-mystery-romance-and-the-development-of-an-app/"
+license: CFI-OAAL-1.0
 content_sha256: 72fd671b280e9b68f2f3dd9d11800dfa3b21dac558eb47aebd42d79ce52763dd
 canonical: 20284-book-review-numerology-mystery-romance-and-the-development-of-an-app.json
 ---
