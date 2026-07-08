@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200926172157
 wayback_snapshot_url: "http://web.archive.org/web/20200926172157/https://cfi.co/menu/corporate/2020/08/building-a-thriving-business-ecosystem-at-the-intersection-of-global-growth-markets/"
+license: CFI-OAAL-1.0
 content_sha256: 9fe54b8c59b0248572b5e07de9ca7f9140640a483295bb5977f0d52838abfcca
 canonical: 16615-building-a-thriving-business-ecosystem-at-the-intersection-of-global-growth-mark.json
 ---
