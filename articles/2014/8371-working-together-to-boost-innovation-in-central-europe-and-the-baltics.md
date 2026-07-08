@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190722120458
 wayback_snapshot_url: "http://web.archive.org/web/20190722120458/https://cfi.co/europe/2014/11/working-together-to-boost-innovation-in-central-europe-and-the-baltics/"
+license: CFI-OAAL-1.0
 content_sha256: 30a977d01b5e4986467ed34ae8c2184fb23623e8d27b14641530f5d8db70bcb3
 canonical: 8371-working-together-to-boost-innovation-in-central-europe-and-the-baltics.json
 ---
