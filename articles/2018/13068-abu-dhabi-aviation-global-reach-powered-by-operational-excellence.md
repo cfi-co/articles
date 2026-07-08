@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201202015433
 wayback_snapshot_url: "http://web.archive.org/web/20201202015433/https://cfi.co/menu/corporate/2018/10/abu-dhabi-aviation-global-reach-powered-by-operational-excellence/"
+license: CFI-OAAL-1.0
 content_sha256: a44e3b08de3a33800f15dd05d08090f962a01bf3ba544ac07e23105922548174
 canonical: 13068-abu-dhabi-aviation-global-reach-powered-by-operational-excellence.json
 ---
