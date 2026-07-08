@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050736
 wayback_snapshot_url: "http://web.archive.org/web/20190818050736/https://cfi.co/asia-pacific/2015/03/china-now-you-see-it-now-you-dont/"
+license: CFI-OAAL-1.0
 content_sha256: f71b13522ebad913f91d64707b3eb720c6cf62a52aee4b072b0a30c5c1863a39
 canonical: 9506-china-now-you-see-it-now-you-dont.json
 ---
