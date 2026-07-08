@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210226101803
 wayback_snapshot_url: "http://web.archive.org/web/20210226101803/https://cfi.co/menu/corporate/2020/01/nordea-asset-managements-responsible-investments-team-using-esg-engagement-to-create-value-for-investors-and-companies/"
+license: CFI-OAAL-1.0
 content_sha256: c9b0b83576b61ac94279095d93c47c8ca98fe1e5b63a42f09d80c41a360a8095
 canonical: 17405-nordea-asset-managements-responsible-investments-team-using-esg-engagement-to-cr.json
 ---
