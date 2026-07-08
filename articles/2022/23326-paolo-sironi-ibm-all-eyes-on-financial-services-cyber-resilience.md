@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220907073611
 wayback_snapshot_url: "http://web.archive.org/web/20220907073611/https://cfi.co/technology/2022/09/paolo-sironi-ibm-all-eyes-on-financial-services-cyber-resilience/"
+license: CFI-OAAL-1.0
 content_sha256: a38522b1379527f26cdf75b64a4d5e72297ab66f1d7c6628abea7e46752152c9
 canonical: 23326-paolo-sironi-ibm-all-eyes-on-financial-services-cyber-resilience.json
 ---
