@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225143339
 wayback_snapshot_url: "http://web.archive.org/web/20240225143339/https://cfi.co/africa/2023/08/access-bank-uk-simple-policies-complicated-financial-ecosystem/"
+license: CFI-OAAL-1.0
 content_sha256: f5fd98cbe440835c6b832e5edb77e7cba2302313fca84ff16460e6be0b924a72
 canonical: 25951-access-bank-uk-simple-policies-complicated-financial-ecosystem.json
 ---
