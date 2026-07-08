@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200408080341
 wayback_snapshot_url: "http://web.archive.org/web/20200408080341/https://cfi.co/europe/2020/01/davos-seizing-the-moment-or-not/"
+license: CFI-OAAL-1.0
 content_sha256: 35c80798eb1c4b981b9b19d34eb68f3dd6b066775dd09dbc4b5d293e1c732cbc
 canonical: 11468-davos-seizing-the-moment-or-not.json
 ---
