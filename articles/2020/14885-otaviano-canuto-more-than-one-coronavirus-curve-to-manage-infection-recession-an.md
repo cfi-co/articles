@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200526062121
 wayback_snapshot_url: "http://web.archive.org/web/20200526062121/https://cfi.co/c-19/2020/04/otaviano-canuto-more-than-one-coronavirus-curve-to-manage-infection-recession-and-external-finance/"
+license: CFI-OAAL-1.0
 content_sha256: c4d79f5dd5bb0469f5f78136174a74293e4b3c82c86170488adcf32f9f6dc2f8
 canonical: 14885-otaviano-canuto-more-than-one-coronavirus-curve-to-manage-infection-recession-an.json
 ---
