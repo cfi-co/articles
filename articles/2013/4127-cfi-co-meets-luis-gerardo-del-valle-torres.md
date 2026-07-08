@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720180708
 wayback_snapshot_url: "http://web.archive.org/web/20190720180708/https://cfi.co/latinamerica/2013/05/cfi-co-meets-luis-gerardo-del-valle-torres/"
+license: CFI-OAAL-1.0
 content_sha256: 8d555d90eb3a5c7a1fcb5dffd0d7f8d7637a0d031d46ce78a9f8a6ed834c61c0
 canonical: 4127-cfi-co-meets-luis-gerardo-del-valle-torres.json
 ---
