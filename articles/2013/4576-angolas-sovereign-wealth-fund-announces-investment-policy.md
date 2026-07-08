@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826162628
 wayback_snapshot_url: "http://web.archive.org/web/20140826162628/http://cfi.co/africa/2013/07/angolas-sovereign-wealth-fund-announces-investment-policy/"
+license: CFI-OAAL-1.0
 content_sha256: 9069775ffe4b4b4551a56319bb8306d4f82332585e56bb1c4e4dbe24007092f3
 canonical: 4576-angolas-sovereign-wealth-fund-announces-investment-policy.json
 ---
