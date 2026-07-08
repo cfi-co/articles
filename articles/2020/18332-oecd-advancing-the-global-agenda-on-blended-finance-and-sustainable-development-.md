@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201217214322
 wayback_snapshot_url: "http://web.archive.org/web/20201217214322/https://cfi.co/sustainability/2020/12/oecd-advancing-the-global-agenda-on-blended-finance-and-sustainable-development-impact/"
+license: CFI-OAAL-1.0
 content_sha256: f131d1dd6ef8ddec7d19ed4770504684f7394306f1f288ccbb3fe32c649fa970
 canonical: 18332-oecd-advancing-the-global-agenda-on-blended-finance-and-sustainable-development-.json
 ---
