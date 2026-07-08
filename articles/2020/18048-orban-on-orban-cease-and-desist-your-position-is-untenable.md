@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210114041733
 wayback_snapshot_url: "http://web.archive.org/web/20210114041733/https://cfi.co/c-19/2020/11/orban-on-orban-cease-and-desist-your-position-is-untenable/"
+license: CFI-OAAL-1.0
 content_sha256: 3d5273a02c9c2124be93fc8aaaec534ad5db31c0fdd41cb2044488148c653b56
 canonical: 18048-orban-on-orban-cease-and-desist-your-position-is-untenable.json
 ---
