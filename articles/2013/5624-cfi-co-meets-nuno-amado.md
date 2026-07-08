@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140328190730
 wayback_snapshot_url: "http://web.archive.org/web/20140328190730/http://cfi.co/banking/2013/10/cfi-co-meets-nuno-amado/"
+license: CFI-OAAL-1.0
 content_sha256: 7ea7c2e6e6517044a60e41d23e980ba2fd31da8091aea2f088004d7d88862578
 canonical: 5624-cfi-co-meets-nuno-amado.json
 ---
