@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228104639
 wayback_snapshot_url: "http://web.archive.org/web/20210228104639/https://cfi.co/c-19/2021/01/europe-to-strengthen-the-euro-over-dollar/"
+license: CFI-OAAL-1.0
 content_sha256: 535378935496884cb3a8517593e9470d3e73305d230b8ad24dd8b068e6472cd8
 canonical: 18455-europe-to-strengthen-the-euro-over-dollar.json
 ---
