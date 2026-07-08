@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210318084252
 wayback_snapshot_url: "http://web.archive.org/web/20210318084252/https://cfi.co/menu/heroes/2021/03/rosabeth-moss-kanter-a-glowing-academic-career-that-defies-attempts-at-abbreviation/"
+license: CFI-OAAL-1.0
 content_sha256: ff8fc8a71700ce3740dd857a52a54f4604493cb3a4fc40ded5ea8e64f3e024bf
 canonical: 19190-rosabeth-moss-kanter-a-glowing-academic-career-that-defies-attempts-at-abbreviat.json
 ---
