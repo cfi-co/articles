@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024522
 wayback_snapshot_url: "http://web.archive.org/web/20190724024522/https://cfi.co/corporate-leaders/2015/08/cfi-co-meets-the-ceo-of-hellenic-bank-bert-pijls/"
+license: CFI-OAAL-1.0
 content_sha256: 03f8687fdd44ec755aba8ead0d02bc87b1a2d13990adfafb1a0603333591b631
 canonical: 10555-cfi-co-meets-the-ceo-of-hellenic-bank-bert-pijls.json
 ---
