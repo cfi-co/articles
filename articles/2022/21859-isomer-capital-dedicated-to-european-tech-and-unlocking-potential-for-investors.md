@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625234358
 wayback_snapshot_url: "http://web.archive.org/web/20220625234358/https://cfi.co/menu/corporate/2022/05/isomer-capital-dedicated-to-european-tech-and-unlocking-potential-for-investors/"
+license: CFI-OAAL-1.0
 content_sha256: cf5535b6cdb1b246194e64f367726cbd9eaf7f2d96b82fa12b2704bda2224da7
 canonical: 21859-isomer-capital-dedicated-to-european-tech-and-unlocking-potential-for-investors.json
 ---
