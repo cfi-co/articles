@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720031738
 wayback_snapshot_url: "http://web.archive.org/web/20190720031738/https://cfi.co/europe/2018/02/maria-dolores-de-cospedal-seeking-more-bang/"
+license: CFI-OAAL-1.0
 content_sha256: e3a8c14f0c0728efff551beff491d745aff6593c06a6285a8de34193ad0c046e
 canonical: 12291-maria-dolores-de-cospedal-seeking-more-bang.json
 ---
