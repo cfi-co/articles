@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916044050
 wayback_snapshot_url: "http://web.archive.org/web/20190916044050/https://cfi.co/finance/2013/01/banco-interacciones-preparing-for-the-future/"
+license: CFI-OAAL-1.0
 content_sha256: 5f0feef325adb7f98349163e3af8cb7a2dc4df2cabd570a474815490f7913177
 canonical: 2998-banco-interacciones-preparing-for-the-future.json
 ---
