@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180703030150
 wayback_snapshot_url: "http://web.archive.org/web/20180703030150/http://cfi.co/oil-and-mining/2014/08/why-business-leaders-support-a-price-on-carbon/"
+license: CFI-OAAL-1.0
 content_sha256: 73dd1a505e6609bc95a42a425e92e4c972dd02978ec1b2e4488df8d5c1b06d91
 canonical: 7790-why-business-leaders-support-a-price-on-carbon.json
 ---
