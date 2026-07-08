@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140328061019",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140328061019/http://cfi.co/africa/2013/10/cfi-co-meets-emidio-pinheiro/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140328061019/http://cfi.co/africa/2013/10/cfi-co-meets-emidio-pinheiro/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-5631\" alt=\"Emidio Pinheiro\" src=\"https://cfi.co/wp-content/uploads/2013/10/Emidio-Pinheiro.jpg\" width=\"379\" height=\"300\" /></p>\r\n<p style=\"text-align: justify;\"><strong>BFA CEO Dr Emídio Pinheiro (52) was born in Lisbon and obtained a degree in economics at Universidade Católica de Lisboa. He pursued his studies at the Universidade Nova de Lisboa where he received an MBA in collaboration with Wharton University.</strong></p>\r\n<p style=\"text-align: justify;\">In 1990 Dr Pinheiro joined Banco BPI. Here he soon was given several top management positions and responsibilities; initially in pension funds and investment funds management and life insurance. Later, he was appointed as General Manager of BPI’s operations in France. He held this position for four years. After this period he developed several commercial activities in retail banking. He is BFA’s CEO since April 2005.</p>",
     "content_sha256": "b101578724c5c0a15d869b5f62a13065c07d895b38b07ff56cffa6d6c1793f18",
-    "record_sha256": "18c6bc74de0ca3912d2a1854fbf4edb83d39487af9c31640e2c48f767dfc80e7"
+    "record_sha256": "218438f8fd7d12d58baa4dedba71d427c7e12c2d5714f3e9fbac7398a39bd8ff"
 }

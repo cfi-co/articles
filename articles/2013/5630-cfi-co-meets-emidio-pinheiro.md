@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140328061019
 wayback_snapshot_url: "http://web.archive.org/web/20140328061019/http://cfi.co/africa/2013/10/cfi-co-meets-emidio-pinheiro/"
+license: CFI-OAAL-1.0
 content_sha256: b101578724c5c0a15d869b5f62a13065c07d895b38b07ff56cffa6d6c1793f18
 canonical: 5630-cfi-co-meets-emidio-pinheiro.json
 ---
