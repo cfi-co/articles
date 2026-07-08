@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191013203719
 wayback_snapshot_url: "http://web.archive.org/web/20191013203719/https://cfi.co/asia-pacific/2014/06/marketable-skills-set-young-women-on-path-to-prosperity-in-nepal/"
+license: CFI-OAAL-1.0
 content_sha256: 70dfa297b6d04239b696eeb6f9b02fe56add4f0454b4a3b52c962fac98f8e813
 canonical: 7407-marketable-skills-set-young-women-on-path-to-prosperity-in-nepal.json
 ---
