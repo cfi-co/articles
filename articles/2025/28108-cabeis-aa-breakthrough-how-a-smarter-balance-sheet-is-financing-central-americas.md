@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251206003105
 wayback_snapshot_url: "http://web.archive.org/web/20251206003105/https://cfi.co/latinamerica/2025/11/cabeis-aa-breakthrough-how-a-smarter-balance-sheet-is-financing-central-americas-next-growth-chapter/"
+license: CFI-OAAL-1.0
 content_sha256: a7d99607a515a5f12222d973fb57eebb6a12601f8047690dcf013085b3b3774e
 canonical: 28108-cabeis-aa-breakthrough-how-a-smarter-balance-sheet-is-financing-central-americas.json
 ---
