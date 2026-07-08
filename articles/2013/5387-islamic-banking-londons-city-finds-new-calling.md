@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132512
 wayback_snapshot_url: "http://web.archive.org/web/20190818132512/https://cfi.co/banking/2013/10/islamic-banking-londons-city-finds-new-calling/"
+license: CFI-OAAL-1.0
 content_sha256: f4f7188a211e263c8b597a31b50a9e825b00e8c80832231b7fe36c80f725ea33
 canonical: 5387-islamic-banking-londons-city-finds-new-calling.json
 ---
