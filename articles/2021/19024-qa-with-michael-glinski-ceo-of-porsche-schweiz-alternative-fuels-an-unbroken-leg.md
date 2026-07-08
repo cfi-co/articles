@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210310085305
 wayback_snapshot_url: "http://web.archive.org/web/20210310085305/https://cfi.co/europe/2021/03/qa-with-michael-glinski-ceo-of-porsche-schweiz-alternative-fuels-an-unbroken-legacy-and-a-sports-cars-place-in-the-modern-world/"
+license: CFI-OAAL-1.0
 content_sha256: 6cf18a8904d2dad9562d7eedf1aecd129fe5cd0e409d1932e62a6dbc7cbc81ee
 canonical: 19024-qa-with-michael-glinski-ceo-of-porsche-schweiz-alternative-fuels-an-unbroken-leg.json
 ---
