@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220820024824
 wayback_snapshot_url: "http://web.archive.org/web/20220820024824/https://cfi.co/menu/corporate/2022/07/abigail-johnson-ceo-fidelity-investments/"
+license: CFI-OAAL-1.0
 content_sha256: 9c32dde17ebbbe459eb6f8b05f876c62561c875fcca355a5bfc1adb317066b02
 canonical: 22465-abigail-johnson-ceo-fidelity-investments.json
 ---
