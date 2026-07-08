@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200919205640
 wayback_snapshot_url: "http://web.archive.org/web/20200919205640/https://cfi.co/finance/2020/06/uncdf-getting-the-right-blend-in-game-changing-finance/"
+license: CFI-OAAL-1.0
 content_sha256: fdf53113c09bfdc60e5d67a521a429b21ba0d09a49ae7e74489bd18be47d9cbf
 canonical: 15740-uncdf-getting-the-right-blend-in-game-changing-finance.json
 ---
