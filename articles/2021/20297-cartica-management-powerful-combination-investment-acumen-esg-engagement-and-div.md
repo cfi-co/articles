@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211016000054
 wayback_snapshot_url: "http://web.archive.org/web/20211016000054/https://cfi.co/finance/2021/10/cartica-management-powerful-combination-investment-acumen-esg-engagement-and-diverse-leadership/"
+license: CFI-OAAL-1.0
 content_sha256: 24bd6c79e3a00d01b0b456eb24a3e643193ffcfdbdac05bfec1fe1389477bd8d
 canonical: 20297-cartica-management-powerful-combination-investment-acumen-esg-engagement-and-div.json
 ---
