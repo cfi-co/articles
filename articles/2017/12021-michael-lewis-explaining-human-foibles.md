@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200919023049
 wayback_snapshot_url: "http://web.archive.org/web/20200919023049/https://cfi.co/editors-picks/2017/09/michael-lewis-explaining-human-foibles/"
+license: CFI-OAAL-1.0
 content_sha256: d475c12c22898f49f022ad3cf9a8f65aa9fd87aa569bc6dbb182448a3417095f
 canonical: 12021-michael-lewis-explaining-human-foibles.json
 ---
