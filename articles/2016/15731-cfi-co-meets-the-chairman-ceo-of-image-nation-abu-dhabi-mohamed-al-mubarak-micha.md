@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200928100810
 wayback_snapshot_url: "http://web.archive.org/web/20200928100810/https://cfi.co/corporate-leaders/2016/07/cfi-co-meets-the-chairman-ceo-of-image-nation-abu-dhabi-mohamed-al-mubarak-michael-garin/"
+license: CFI-OAAL-1.0
 content_sha256: a05bffd339d19419282b8ee807968757eccd8700e26a5354ef64989a17ec12fc
 canonical: 15731-cfi-co-meets-the-chairman-ceo-of-image-nation-abu-dhabi-mohamed-al-mubarak-micha.json
 ---
