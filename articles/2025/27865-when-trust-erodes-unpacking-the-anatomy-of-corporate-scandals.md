@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250815065833
 wayback_snapshot_url: "http://web.archive.org/web/20250815065833/https://cfi.co/legal/2025/08/when-trust-erodes-unpacking-the-anatomy-of-corporate-scandals/"
+license: CFI-OAAL-1.0
 content_sha256: 333af455f91d63aebf167ead5fd66b66493d61093f7070318efab6f6569c3ed4
 canonical: 27865-when-trust-erodes-unpacking-the-anatomy-of-corporate-scandals.json
 ---
