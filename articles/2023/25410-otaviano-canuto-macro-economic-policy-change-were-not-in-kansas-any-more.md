@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230519055959
 wayback_snapshot_url: "http://web.archive.org/web/20230519055959/https://cfi.co/menu/columnists/2023/05/otaviano-canuto-macro-economic-policy-change-were-not-in-kansas-any-more/"
+license: CFI-OAAL-1.0
 content_sha256: 5e6ef4bdd6088bdd660337a6c29fc4aba307b1968ecefea399ec19f4d9e4e60d
 canonical: 25410-otaviano-canuto-macro-economic-policy-change-were-not-in-kansas-any-more.json
 ---
