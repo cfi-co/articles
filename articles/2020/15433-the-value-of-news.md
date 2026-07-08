@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200921085912
 wayback_snapshot_url: "http://web.archive.org/web/20200921085912/https://cfi.co/c-19/2020/05/the-value-of-news/"
+license: CFI-OAAL-1.0
 content_sha256: 9cf5a10081093ad673d437c461664a51b9e071d0e6ac48383e98654bf4bb484d
 canonical: 15433-the-value-of-news.json
 ---
