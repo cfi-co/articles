@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014233358
 wayback_snapshot_url: "http://web.archive.org/web/20191014233358/https://cfi.co/europe/2016/01/world-bank-group-are-stars-aligning-for-clean-energy-financing/"
+license: CFI-OAAL-1.0
 content_sha256: 83a1221b1ae2d921dafe233811e1c9ba4d32f69c6e16db371c21ee5302ef7e52
 canonical: 10946-world-bank-group-are-stars-aligning-for-clean-energy-financing.json
 ---
