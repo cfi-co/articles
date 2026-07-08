@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827150712
 wayback_snapshot_url: "http://web.archive.org/web/20140827150712/http://cfi.co/africa/2014/01/cfi-co-meets-the-ceo-of-state-bank-of-mauritius-jairaj-sonoo/"
+license: CFI-OAAL-1.0
 content_sha256: fdf03998119a7f0fa81743a9b0597ea574f7e4f14367a53ecaeb5acd77237edd
 canonical: 7265-cfi-co-meets-the-ceo-of-state-bank-of-mauritius-jairaj-sonoo.json
 ---
