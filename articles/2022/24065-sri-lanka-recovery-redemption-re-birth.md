@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221123073240
 wayback_snapshot_url: "http://web.archive.org/web/20221123073240/https://cfi.co/asia-pacific/2022/11/sri-lanka-recovery-redemption-re-birth/"
+license: CFI-OAAL-1.0
 content_sha256: d8103f1dbf9ea527abec0ba4fd6d7b55a8bdbb1d5aa21d2320da8248fee42c49
 canonical: 24065-sri-lanka-recovery-redemption-re-birth.json
 ---
