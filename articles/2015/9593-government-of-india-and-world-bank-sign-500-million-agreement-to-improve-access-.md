@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717205533
 wayback_snapshot_url: "http://web.archive.org/web/20190717205533/https://cfi.co/asia-pacific/2015/04/government-of-india-and-world-bank-sign-500-million-agreement-to-improve-access-to-finance-for-micro-small-and-medium-enterprises/"
+license: CFI-OAAL-1.0
 content_sha256: 895fb33661c05b0a04fa81dfdef8cb570b52166da042fafd9b49b7a4f4740320
 canonical: 9593-government-of-india-and-world-bank-sign-500-million-agreement-to-improve-access-.json
 ---
