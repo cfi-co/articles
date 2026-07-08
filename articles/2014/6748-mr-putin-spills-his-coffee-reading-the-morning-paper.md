@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826135100
 wayback_snapshot_url: "http://web.archive.org/web/20140826135100/http://cfi.co/europe/2014/03/mr-putin-spills-his-coffee-reading-the-morning-paper/"
+license: CFI-OAAL-1.0
 content_sha256: 927266c19df45ac8c14d44d9408a3faf7fd1b7384d24f3f8745f33ff841814db
 canonical: 6748-mr-putin-spills-his-coffee-reading-the-morning-paper.json
 ---
