@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818140154
 wayback_snapshot_url: "http://web.archive.org/web/20190818140154/https://cfi.co/africa/2012/06/miga-world-bank-during-the-storm-shift-from-north-to-south-fdi/"
+license: CFI-OAAL-1.0
 content_sha256: d2fbd44171d446a632647ab8d2e79070554b54f8e0b84110a7bea4ff46afe0fb
 canonical: 970-miga-world-bank-during-the-storm-shift-from-north-to-south-fdi.json
 ---
