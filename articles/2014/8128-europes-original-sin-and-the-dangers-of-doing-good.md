@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024400
 wayback_snapshot_url: "http://web.archive.org/web/20190724024400/https://cfi.co/africa/2014/10/europes-original-sin-and-the-dangers-of-doing-good/"
+license: CFI-OAAL-1.0
 content_sha256: 54e70f3d0e91cd222d5727324f34e9e8eb5981048f5621da37bf263124710e6a
 canonical: 8128-europes-original-sin-and-the-dangers-of-doing-good.json
 ---
