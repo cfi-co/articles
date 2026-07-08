@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920202750
 wayback_snapshot_url: "http://web.archive.org/web/20200920202750/https://cfi.co/c-19/2020/09/sweden-a-controversial-approach-belatedly-vindicated/"
+license: CFI-OAAL-1.0
 content_sha256: 41419d5ef19e78f3c4b26df8e2a88f8472e27d7d45a3ea0f42a6f670191c2c5f
 canonical: 16833-sweden-a-controversial-approach-belatedly-vindicated.json
 ---
