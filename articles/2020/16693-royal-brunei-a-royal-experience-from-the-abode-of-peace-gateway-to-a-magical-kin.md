@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200918063254
 wayback_snapshot_url: "http://web.archive.org/web/20200918063254/https://cfi.co/menu/corporate/2020/08/royal-brunei-a-royal-experience-from-the-abode-of-peace-gateway-to-a-magical-kingdom/"
+license: CFI-OAAL-1.0
 content_sha256: a89ef878a84b208e0f9a265bb999a39600b6d44f073400598ffae4c48cfeb550
 canonical: 16693-royal-brunei-a-royal-experience-from-the-abode-of-peace-gateway-to-a-magical-kin.json
 ---
