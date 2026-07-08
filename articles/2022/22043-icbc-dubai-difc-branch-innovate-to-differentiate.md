@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630134223
 wayback_snapshot_url: "http://web.archive.org/web/20220630134223/https://cfi.co/middleeast/2022/05/icbc-dubai-difc-branch-innovate-to-differentiate/"
+license: CFI-OAAL-1.0
 content_sha256: 74efb59b44e72f896fe49ea25fabea29298bba8a1437b0564711b4aa285463fd
 canonical: 22043-icbc-dubai-difc-branch-innovate-to-differentiate.json
 ---
