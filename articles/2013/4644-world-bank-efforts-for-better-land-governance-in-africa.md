@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191013205815
 wayback_snapshot_url: "http://web.archive.org/web/20191013205815/https://cfi.co/africa/2013/07/world-bank-efforts-for-better-land-governance-in-africa/"
+license: CFI-OAAL-1.0
 content_sha256: 9e31889d99372583762369bc30929440a674418970a378fe28466e472bca944c
 canonical: 4644-world-bank-efforts-for-better-land-governance-in-africa.json
 ---
