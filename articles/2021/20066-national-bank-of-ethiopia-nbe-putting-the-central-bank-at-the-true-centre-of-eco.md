@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210721110220
 wayback_snapshot_url: "http://web.archive.org/web/20210721110220/https://cfi.co/menu/corporate/2021/06/national-bank-of-ethiopia-nbe-putting-the-central-bank-at-the-true-centre-of-economic-revival/"
+license: CFI-OAAL-1.0
 content_sha256: d73f5e2ec783d5e5f11c6d92015011ce71796714f8d81aaa73327e3d14fe35b5
 canonical: 20066-national-bank-of-ethiopia-nbe-putting-the-central-bank-at-the-true-centre-of-eco.json
 ---
