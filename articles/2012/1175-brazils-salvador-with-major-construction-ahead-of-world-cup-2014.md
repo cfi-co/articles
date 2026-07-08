@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826032116
 wayback_snapshot_url: "http://web.archive.org/web/20140826032116/http://cfi.co/latinamerica/2012/07/brazils-salvador-with-major-construction-ahead-of-world-cup-2014/"
+license: CFI-OAAL-1.0
 content_sha256: 918ce69454de6c908e5318a1c3e0c93a3dfca0b768055dd0c152c9094730360f
 canonical: 1175-brazils-salvador-with-major-construction-ahead-of-world-cup-2014.json
 ---
