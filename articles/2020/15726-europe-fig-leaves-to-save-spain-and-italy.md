@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200625022202
 wayback_snapshot_url: "http://web.archive.org/web/20200625022202/https://cfi.co/c-19/2020/06/europe-fig-leaves-to-save-spain-and-italy/"
+license: CFI-OAAL-1.0
 content_sha256: 462df6bf42c18419cfa63d5528b336f6652d60c9561f7aeb4cdf08091c657979
 canonical: 15726-europe-fig-leaves-to-save-spain-and-italy.json
 ---
