@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201023010419
 wayback_snapshot_url: "http://web.archive.org/web/20201023010419/https://cfi.co/editors-picks/2020/09/hadiyah-mujhid-ceo-and-founder-of-hbcu-vc-george-floyds-death-brought-in-flood-of-vc-offers-for-black-founders-in-us/"
+license: CFI-OAAL-1.0
 content_sha256: a6ebfdf2161f323cb52048df2b4294eebe00a9610dde80f8854cfdab517ae0d1
 canonical: 17101-hadiyah-mujhid-ceo-and-founder-of-hbcu-vc-george-floyds-death-brought-in-flood-o.json
 ---
