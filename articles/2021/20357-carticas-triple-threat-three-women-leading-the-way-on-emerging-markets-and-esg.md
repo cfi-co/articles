@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211016001659
 wayback_snapshot_url: "http://web.archive.org/web/20211016001659/https://cfi.co/northamerica/2021/10/carticas-triple-threat-three-women-leading-the-way-on-emerging-markets-and-esg/"
+license: CFI-OAAL-1.0
 content_sha256: 3f3d7382ecce565d07b657106ddfc5af7839eae828f934befd2e2c1a90545a05
 canonical: 20357-carticas-triple-threat-three-women-leading-the-way-on-emerging-markets-and-esg.json
 ---
