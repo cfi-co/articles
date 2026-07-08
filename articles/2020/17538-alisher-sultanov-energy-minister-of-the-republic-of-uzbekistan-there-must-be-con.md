@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201104212557
 wayback_snapshot_url: "http://web.archive.org/web/20201104212557/https://cfi.co/corporate-leaders/2020/02/alisher-sultanov-energy-minister-of-the-republic-of-uzbekistan-there-must-be-conservation-and-cooling-in-uzbekistan/"
+license: CFI-OAAL-1.0
 content_sha256: c22830ca4e7168e21a5728d34d1c384bb86f8c2fde04e8ed043d413cecc91b16
 canonical: 17538-alisher-sultanov-energy-minister-of-the-republic-of-uzbekistan-there-must-be-con.json
 ---
