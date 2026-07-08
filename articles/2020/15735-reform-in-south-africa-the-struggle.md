@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422030919
 wayback_snapshot_url: "http://web.archive.org/web/20210422030919/https://cfi.co/c-19/2020/06/reform-in-south-africa-the-struggle/"
+license: CFI-OAAL-1.0
 content_sha256: 44e33967c33a8321ca54ac6dd477a059d6f3bdb02aa7012b594fe2ab9f4b93c2
 canonical: 15735-reform-in-south-africa-the-struggle.json
 ---
