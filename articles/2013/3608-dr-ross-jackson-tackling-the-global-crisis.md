@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20131002213316
 wayback_snapshot_url: "http://web.archive.org/web/20131002213316/http://cfi.co/finance/2013/05/dr-ross-jackson-tackling-the-global-crisis/"
+license: CFI-OAAL-1.0
 content_sha256: 969169c1aa931b40557726c2383a43a03123682b94c5ef229798da836ea1c828
 canonical: 3608-dr-ross-jackson-tackling-the-global-crisis.json
 ---
