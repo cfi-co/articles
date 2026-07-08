@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916090547
 wayback_snapshot_url: "http://web.archive.org/web/20190916090547/https://cfi.co/africa/2013/01/cfi-co-meets-kayode-falowo/"
+license: CFI-OAAL-1.0
 content_sha256: 63217579417a74190bae56f030eb7bddd5021e5eb268f7ac6936b2e44f240bff
 canonical: 3020-cfi-co-meets-kayode-falowo.json
 ---
