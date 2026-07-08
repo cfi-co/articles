@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20131001081441
 wayback_snapshot_url: "http://web.archive.org/web/20131001081441/http://cfi.co/africa/2013/09/un-condemns-terrorist-outrage-in-nairobi/"
+license: CFI-OAAL-1.0
 content_sha256: 3feb0554280b4651e8007a881acbe3ca5ea999090f5c3cd2b4cb01ff5306c686
 canonical: 5315-un-condemns-terrorist-outrage-in-nairobi.json
 ---
