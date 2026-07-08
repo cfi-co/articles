@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170921054908
 wayback_snapshot_url: "http://web.archive.org/web/20170921054908/http://cfi.co/africa/2016/01/calestous-juma-a-biotech-revolution-for-africa/"
+license: CFI-OAAL-1.0
 content_sha256: b585ea7a53a21b40918c00834e50d364b8b17a7c799c7cb6a9e560f2a07235b2
 canonical: 10875-calestous-juma-a-biotech-revolution-for-africa.json
 ---
