@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418054843
 wayback_snapshot_url: "http://web.archive.org/web/20210418054843/https://cfi.co/northamerica/2020/11/trumps-message-to-survive-delivery-malfunction/"
+license: CFI-OAAL-1.0
 content_sha256: ffc8ccc98283c8a17aa98fa94ee7e79d279400e396ef845b49edf2477baedb32
 canonical: 17819-trumps-message-to-survive-delivery-malfunction.json
 ---
