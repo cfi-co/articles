@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240503074040
 wayback_snapshot_url: "http://web.archive.org/web/20240503074040/https://cfi.co/technology/2024/04/privacy-is-a-right-not-a-luxury-and-its-worthy-of-protection/"
+license: CFI-OAAL-1.0
 content_sha256: 2ef60d6bae6ef29a218e49c0cd49f63b89a8ab1c8cab91f85173cda193be8bff
 canonical: 26784-privacy-is-a-right-not-a-luxury-and-its-worthy-of-protection.json
 ---
