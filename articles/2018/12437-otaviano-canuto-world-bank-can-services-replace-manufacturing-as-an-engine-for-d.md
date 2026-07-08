@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190603002255
 wayback_snapshot_url: "http://web.archive.org/web/20190603002255/https://cfi.co/asia-pacific/2018/04/otaviano-canuto-world-bank-can-services-replace-manufacturing-as-an-engine-for-development/"
+license: CFI-OAAL-1.0
 content_sha256: 47e35034d893ce421db8e916c55c6eff42fbe431dee9c24a93ad3741d8947646
 canonical: 12437-otaviano-canuto-world-bank-can-services-replace-manufacturing-as-an-engine-for-d.json
 ---
