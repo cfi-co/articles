@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170708080121
 wayback_snapshot_url: "http://web.archive.org/web/20170708080121/http://cfi.co/asia-pacific/2013/08/otaviano-canuto-world-bank-group-china-brazil-two-tales-of-a-growth-slowdown/"
+license: CFI-OAAL-1.0
 content_sha256: de26884126c1bb489739c01ef55149f5b2146afea627a6b9da82808e82d33c46
 canonical: 4797-otaviano-canuto-world-bank-group-china-brazil-two-tales-of-a-growth-slowdown.json
 ---
