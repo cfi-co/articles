@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240520223603
 wayback_snapshot_url: "http://web.archive.org/web/20240520223603/https://cfi.co/sustainability/2024/05/recycling-plastic-is-it-working-and-are-we-doing-enough/"
+license: CFI-OAAL-1.0
 content_sha256: 2a7d2dd9c9f0cd12ccc2bbd9a97d9c2023137a9a088a1bff8e4951f774d60eac
 canonical: 26794-recycling-plastic-is-it-working-and-are-we-doing-enough.json
 ---
