@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240420135618
 wayback_snapshot_url: "http://web.archive.org/web/20240420135618/https://cfi.co/europe/2023/08/copernicus-care-fairness-trust-and-respect"
+license: CFI-OAAL-1.0
 content_sha256: e63384761cb6d2d0b2eb09f6ec8759fbaf182c4063607e48eee26a28e0f8fe9f
 canonical: 25932-care-fairness-trust-and-respect-allow-copernicus-to-look-beyond.json
 ---
