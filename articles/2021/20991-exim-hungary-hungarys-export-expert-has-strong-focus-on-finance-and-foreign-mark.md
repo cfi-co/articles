@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220119084631
 wayback_snapshot_url: "http://web.archive.org/web/20220119084631/https://cfi.co/menu/corporate/2021/11/exim-hungary-hungarys-export-expert-has-strong-focus-on-finance-and-foreign-market-expansion/"
+license: CFI-OAAL-1.0
 content_sha256: 8e299d1de340e8f0658b04580bd05d572030fb9e63f071315f3710bec795c9d8
 canonical: 20991-exim-hungary-hungarys-export-expert-has-strong-focus-on-finance-and-foreign-mark.json
 ---
