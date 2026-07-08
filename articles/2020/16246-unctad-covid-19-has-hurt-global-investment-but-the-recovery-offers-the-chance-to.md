@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810074248
 wayback_snapshot_url: "http://web.archive.org/web/20200810074248/https://cfi.co/finance/2020/07/unctad-covid-19-has-hurt-global-investment-but-the-recovery-offers-the-chance-to-build-a-more-sustainable-economy/"
+license: CFI-OAAL-1.0
 content_sha256: a442bba56bece544488fb0688c92b0a9d1eddfb3114d1a6a51c640caae64c7a4
 canonical: 16246-unctad-covid-19-has-hurt-global-investment-but-the-recovery-offers-the-chance-to.json
 ---
