@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724031741
 wayback_snapshot_url: "http://web.archive.org/web/20190724031741/https://cfi.co/africa/2013/05/nigerias-economy-grows-by-6-6/"
+license: CFI-OAAL-1.0
 content_sha256: 96d4da4d6886bf025703fd017a8a619b53ea9be85e6f156d9c53d0560de7a02b
 canonical: 3952-nigerias-economy-grows-by-6-6.json
 ---
