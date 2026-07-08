@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140705055631
 wayback_snapshot_url: "http://web.archive.org/web/20140705055631/http://cfi.co/finance/2014/04/inez-murray-women-in-business-bankers-advised-to-take-note/"
+license: CFI-OAAL-1.0
 content_sha256: 129158551626fcafb34a3e6633e9e83d416d5fa5a51b64d0bdf9672aa1a68b77
 canonical: 6915-inez-murray-women-in-business-bankers-advised-to-take-note.json
 ---
