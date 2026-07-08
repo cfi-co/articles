@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826125348
 wayback_snapshot_url: "http://web.archive.org/web/20140826125348/http://cfi.co/banking/2013/10/european-investment-bank-vienna-initiative-keeps-credit-flowing/"
+license: CFI-OAAL-1.0
 content_sha256: e3fa5a657860f8938feba2b99eb7be7aaf4084736b656a1297f6c13dc9f5306b
 canonical: 5678-european-investment-bank-vienna-initiative-keeps-credit-flowing.json
 ---
