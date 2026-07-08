@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826142056
 wayback_snapshot_url: "http://web.archive.org/web/20140826142056/http://cfi.co/finance/2013/08/super-size-my-pay-us-fast-food-workers-walk-off-job/"
+license: CFI-OAAL-1.0
 content_sha256: f548a4f7d5def8e18f7b4963d60258783e382e9dd83032be0e24a3e78204c3b0
 canonical: 4761-super-size-my-pay-us-fast-food-workers-walk-off-job.json
 ---
