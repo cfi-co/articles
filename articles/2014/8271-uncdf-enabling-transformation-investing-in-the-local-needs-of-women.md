@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724030609
 wayback_snapshot_url: "http://web.archive.org/web/20190724030609/https://cfi.co/africa/2014/10/uncdf-enabling-transformation-investing-in-the-local-needs-of-women/"
+license: CFI-OAAL-1.0
 content_sha256: 294695a3dd3e63c50a12a0a20b688f01df6b6d62d6ec596cd5cde18a01ea8640
 canonical: 8271-uncdf-enabling-transformation-investing-in-the-local-needs-of-women.json
 ---
