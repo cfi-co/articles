@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825094341
 wayback_snapshot_url: "http://web.archive.org/web/20190825094341/https://cfi.co/corporate-leaders/2014/10/cfi-co-meets-the-coo-of-national-petrochemical-industrial-company-jamal-jamil-malaikah/"
+license: CFI-OAAL-1.0
 content_sha256: bef4f7781bf6f98bc474d23a9702a259181f8b2d9b362f4441abf8a1c7bd4fa2
 canonical: 10587-cfi-co-meets-the-coo-of-national-petrochemical-industrial-company-jamal-jamil-ma.json
 ---
