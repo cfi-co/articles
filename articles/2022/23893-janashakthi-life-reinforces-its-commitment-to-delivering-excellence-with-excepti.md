@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230323030739
 wayback_snapshot_url: "http://web.archive.org/web/20230323030739/https://cfi.co/menu/corporate/2022/11/janashakthi-life-reinforces-its-commitment-to-delivering-excellence-with-exceptional-performance/"
+license: CFI-OAAL-1.0
 content_sha256: ef4cc5cad5cd59eecf442825f619e82f41a4e4c7fc96a268035a283b68d5f5ac
 canonical: 23893-janashakthi-life-reinforces-its-commitment-to-delivering-excellence-with-excepti.json
 ---
