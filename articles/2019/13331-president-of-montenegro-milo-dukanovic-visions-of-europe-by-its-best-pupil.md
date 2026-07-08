@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717205946
 wayback_snapshot_url: "http://web.archive.org/web/20190717205946/https://cfi.co/europe/2019/01/president-of-montenegro-milo-dukanovic-visions-of-europe-by-its-best-pupil/"
+license: CFI-OAAL-1.0
 content_sha256: 02676956991858d1837ae8de39e20fdbddad64347a3a5e95253cbab19675f0bd
 canonical: 13331-president-of-montenegro-milo-dukanovic-visions-of-europe-by-its-best-pupil.json
 ---
