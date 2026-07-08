@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200922014447
 wayback_snapshot_url: "http://web.archive.org/web/20200922014447/https://cfi.co/corporate-leaders/2019/07/private-client-holdings-management-over-a-quarter-century-of-asset-management-in-southern-africa/"
+license: CFI-OAAL-1.0
 content_sha256: b980a3a7258fbdc5175354ac0b5f7fe8bf08d4ab9ba2a4e4ee94120dfd5dbdab
 canonical: 15687-private-client-holdings-management-over-a-quarter-century-of-asset-management-in.json
 ---
