@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132209
 wayback_snapshot_url: "http://web.archive.org/web/20190818132209/https://cfi.co/africa/2012/06/g20-summit-merkel-still-wants-both-austerity-and-growth-in-the-eurozone-but-still-no-clue-as-to-who-will-pick-up-the-tab/"
+license: CFI-OAAL-1.0
 content_sha256: b3b7887eb3f145270d40a8f5c7f024e11a864982a4c7e02286fffbb512b00ff2
 canonical: 834-g20-summit-merkel-still-wants-both-austerity-and-growth-in-the-eurozone-but-stil.json
 ---
