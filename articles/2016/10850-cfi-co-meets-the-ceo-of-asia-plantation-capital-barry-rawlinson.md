@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132150
 wayback_snapshot_url: "http://web.archive.org/web/20190818132150/https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-asia-plantation-capital-barry-rawlinson/"
+license: CFI-OAAL-1.0
 content_sha256: 5f1e57248fc0fd18aeeb05f7112879379f4c417dd38d1d1e56cf8f250060179b
 canonical: 10850-cfi-co-meets-the-ceo-of-asia-plantation-capital-barry-rawlinson.json
 ---
