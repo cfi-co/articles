@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230707221052
 wayback_snapshot_url: "http://web.archive.org/web/20230707221052/https://cfi.co/menu/corporate/2023/07/online-gaming-sector-quick-to-appreciate-role-of-ai-to-reduce-risk-and-empower-growth/"
+license: CFI-OAAL-1.0
 content_sha256: 37b82e1e19234959d301d1a05a6db33e7bad152040f5c8e427f9174d65757be5
 canonical: 25706-online-gaming-sector-quick-to-appreciate-role-of-ai-to-reduce-risk-and-empower-g.json
 ---
