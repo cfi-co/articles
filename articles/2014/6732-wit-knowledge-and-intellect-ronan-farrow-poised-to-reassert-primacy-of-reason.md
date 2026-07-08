@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826124736
 wayback_snapshot_url: "http://web.archive.org/web/20140826124736/http://cfi.co/northamerica/2014/02/wit-knowledge-and-intellect-ronan-farrow-poised-to-reassert-primacy-of-reason/"
+license: CFI-OAAL-1.0
 content_sha256: 7546ec249fc6d32f3b46164421b22d7128fe778e345cd3ab3a57ccf11367c3a8
 canonical: 6732-wit-knowledge-and-intellect-ronan-farrow-poised-to-reassert-primacy-of-reason.json
 ---
