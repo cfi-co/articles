@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250424091522
 wayback_snapshot_url: "http://web.archive.org/web/20250424091522/https://cfi.co/lifestyle/2025/02/new-wealth-wave-how-the-rich-are-getting-richer-and-younger/"
+license: CFI-OAAL-1.0
 content_sha256: bffde58f916f9e77e48f12a81581c78d37349488705054c56b3a8ea012ca1f8f
 canonical: 27562-new-wealth-wave-how-the-rich-are-getting-richer-and-younger.json
 ---
