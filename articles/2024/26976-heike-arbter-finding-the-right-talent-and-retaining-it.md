@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240815053534
 wayback_snapshot_url: "http://web.archive.org/web/20240815053534/https://cfi.co/corporate-leaders/2024/08/heike-arbter-finding-the-right-talent-and-retaining-it/"
+license: CFI-OAAL-1.0
 content_sha256: 54de90f7ba5d90bbdf69032df8f81718697b305f649f12a7e964bdaa03e8100c
 canonical: 26976-heike-arbter-finding-the-right-talent-and-retaining-it.json
 ---
