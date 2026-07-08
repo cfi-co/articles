@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250716034933
 wayback_snapshot_url: "http://web.archive.org/web/20250716034933/https://cfi.co/finance/2025/07/moodys-ratings-2025-forecast-for-latin-america-stable-outlooks-sustainable-finance-trends-impact-of-us-policy-measures/"
+license: CFI-OAAL-1.0
 content_sha256: 11f04492b2d0ff42782c3cd3b52a8e60bd2fb31c7c8d62bb75fdba9358faada1
 canonical: 27806-moodys-ratings-2025-forecast-for-latin-america-stable-outlooks-sustainable-finan.json
 ---
