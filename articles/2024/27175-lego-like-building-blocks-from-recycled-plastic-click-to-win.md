@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241002115014
 wayback_snapshot_url: "http://web.archive.org/web/20241002115014/https://cfi.co/sustainability/2024/10/lego-like-building-blocks-from-recycled-plastic-click-to-win/"
+license: CFI-OAAL-1.0
 content_sha256: b69b55d3bc2c1be36ac95a4e464396efbb751243c5f75433b7ef4c0e392e416f
 canonical: 27175-lego-like-building-blocks-from-recycled-plastic-click-to-win.json
 ---
