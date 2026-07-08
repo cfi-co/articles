@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200918073051
 wayback_snapshot_url: "http://web.archive.org/web/20200918073051/https://cfi.co/editors-picks/2018/05/joshua-wong-teenager-vs-superpower/"
+license: CFI-OAAL-1.0
 content_sha256: f01ef01fa022efbb595e5b0ec2f9dba0fb64106cba8a4a2b1a1c5d3daedcc133
 canonical: 12524-joshua-wong-teenager-vs-superpower.json
 ---
