@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240917145243
 wayback_snapshot_url: "http://web.archive.org/web/20240917145243/https://cfi.co/asia-pacific/2024/09/continued-improvement-and-resilience-the-path-to-banking-success-and-a-strong-reputation/"
+license: CFI-OAAL-1.0
 content_sha256: 49fc214d5965e778d85737768b0ea95482f8a3d9b00e3ff9aafe0699875bbcb9
 canonical: 27097-continued-improvement-and-resilience-the-path-to-banking-success-and-a-strong-re.json
 ---
