@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024527
 wayback_snapshot_url: "http://web.archive.org/web/20190724024527/https://cfi.co/corporate-leaders/2015/08/cfi-co-meets-the-founder-and-president-of-p-i-mabe-juan-gilberto-marin-quintero/"
+license: CFI-OAAL-1.0
 content_sha256: 8979b1ccc574a1020c66e03c6bc247a2023cab99d0c9ba563e7338a8b3da01f6
 canonical: 10550-cfi-co-meets-the-founder-and-president-of-p-i-mabe-juan-gilberto-marin-quintero.json
 ---
