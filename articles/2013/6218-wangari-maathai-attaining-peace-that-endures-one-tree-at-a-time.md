@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327001608
 wayback_snapshot_url: "http://web.archive.org/web/20140327001608/http://cfi.co/africa/2013/12/wangari-maathai-attaining-peace-that-endures-one-tree-at-a-time/"
+license: CFI-OAAL-1.0
 content_sha256: 542bc1a57fd3cbc46892ade912a022cd12469f8c1c5a82c9cf9ca731d2ce1c4d
 canonical: 6218-wangari-maathai-attaining-peace-that-endures-one-tree-at-a-time.json
 ---
