@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200514195602
 wayback_snapshot_url: "http://web.archive.org/web/20200514195602/https://cfi.co/sustainability/2020/03/business-in-times-of-corona-avoid-the-herd-and-hold-the-line/"
+license: CFI-OAAL-1.0
 content_sha256: 1a93c52cbe3d18e39893997515d82caa3f1f56c0b3aa69775bdee843f1db1644
 canonical: 14673-business-in-times-of-corona-avoid-the-herd-and-hold-the-line.json
 ---
