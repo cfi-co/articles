@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920105509
 wayback_snapshot_url: "http://web.archive.org/web/20210920105509/https://cfi.co/menu/corporate/2021/07/national-finance-enhancing-digital-capabilities/"
+license: CFI-OAAL-1.0
 content_sha256: 5424d9bc024ee7c5a7e1a5063cafc99429072f9b047603257979e47b86c60b36
 canonical: 20172-national-finance-enhancing-digital-capabilities.json
 ---
