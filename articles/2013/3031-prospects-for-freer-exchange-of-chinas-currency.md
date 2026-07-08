@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818133310
 wayback_snapshot_url: "http://web.archive.org/web/20190818133310/https://cfi.co/asia-pacific/2013/01/prospects-for-freer-exchange-of-chinas-currency/"
+license: CFI-OAAL-1.0
 content_sha256: 545f04ac3ba423ffe1438c49ad8a9286dffc44799c9f191d54b8dd1d967d4362
 canonical: 3031-prospects-for-freer-exchange-of-chinas-currency.json
 ---
