@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230523141240
 wayback_snapshot_url: "http://web.archive.org/web/20230523141240/https://cfi.co/lifestyle/2023/05/business-leaders-find-alternatives-to-pay-increases-in-cost-of-living-battle/"
+license: CFI-OAAL-1.0
 content_sha256: c33f4c7aa8f1ffcf10bee0a2e04a62213f8976efbd1020662980ef2f37f87802
 canonical: 25501-business-leaders-find-alternatives-to-pay-increases-in-cost-of-living-battle.json
 ---
