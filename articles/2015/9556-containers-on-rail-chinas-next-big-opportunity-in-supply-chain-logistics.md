@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024552
 wayback_snapshot_url: "http://web.archive.org/web/20190724024552/https://cfi.co/asia-pacific/2015/03/containers-on-rail-chinas-next-big-opportunity-in-supply-chain-logistics/"
+license: CFI-OAAL-1.0
 content_sha256: 7294b1a19d76985b52217688bbd7697e95f8d48e83d7bb64dfb63023671378ff
 canonical: 9556-containers-on-rail-chinas-next-big-opportunity-in-supply-chain-logistics.json
 ---
