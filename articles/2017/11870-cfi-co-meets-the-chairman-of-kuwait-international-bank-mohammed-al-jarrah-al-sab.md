@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916085110
 wayback_snapshot_url: "http://web.archive.org/web/20190916085110/https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-chairman-of-kuwait-international-bank-mohammed-al-jarrah-al-sabah/"
+license: CFI-OAAL-1.0
 content_sha256: 6ddd0a37741119100c88406d8ebd9ab925a04af0c0a4c0bc7d40f80aa6b489ab
 canonical: 11870-cfi-co-meets-the-chairman-of-kuwait-international-bank-mohammed-al-jarrah-al-sab.json
 ---
