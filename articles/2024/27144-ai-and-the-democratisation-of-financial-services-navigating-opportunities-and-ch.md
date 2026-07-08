@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240918191405
 wayback_snapshot_url: "http://web.archive.org/web/20240918191405/https://cfi.co/technology/2024/09/ai-and-the-democratisation-of-financial-services-navigating-opportunities-and-challenges-for-inclusive-prosperity/"
+license: CFI-OAAL-1.0
 content_sha256: 0c4084a61778369637b702a6be30d439f376ad8c46f6e2741fd28d855038853a
 canonical: 27144-ai-and-the-democratisation-of-financial-services-navigating-opportunities-and-ch.json
 ---
