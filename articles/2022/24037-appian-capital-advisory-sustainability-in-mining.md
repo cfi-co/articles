@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221127010933
 wayback_snapshot_url: "http://web.archive.org/web/20221127010933/https://cfi.co/menu/corporate/2022/11/appian-capital-advisory-sustainability-in-mining/"
+license: CFI-OAAL-1.0
 content_sha256: 2d4604f127b34bfc20d6d3ac7ea6a97cc4f6cb2eb04e9111b3d2651ef47dd39a
 canonical: 24037-appian-capital-advisory-sustainability-in-mining.json
 ---
