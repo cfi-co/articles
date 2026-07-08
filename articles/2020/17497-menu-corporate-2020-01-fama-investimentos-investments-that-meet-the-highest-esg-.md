@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230326145620
 wayback_snapshot_url: "http://web.archive.org/web/20230326145620/https://cfi.co/menu/corporate/2020/01/fama-investimentos-investments-that-meet-the-highest-esg-standards/"
+license: CFI-OAAL-1.0
 content_sha256: 816b2876cbefbb24d52e872792227ac812c0b7ea3340a199f0e4c65d0eb302bc
 canonical: 17497-menu-corporate-2020-01-fama-investimentos-investments-that-meet-the-highest-esg-.json
 ---
