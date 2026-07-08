@@ -19,6 +19,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260705040025
 wayback_snapshot_url: "http://web.archive.org/web/20260705040025/https://cfi.co/approval/2026/07/kim-jenkins-building-vistras-next-chapter-around-digital-scale-and-client-choice/"
+license: CFI-OAAL-1.0
 content_sha256: 91fff88d193286c9e85d79ca1b8a64b3308a96f3e0545f6cdd2203681aea85c2
 canonical: 28549-kim-jenkins-building-vistras-next-chapter-around-digital-scale-and-client-choice.json
 ---
