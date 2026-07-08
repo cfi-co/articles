@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050102
 wayback_snapshot_url: "http://web.archive.org/web/20190823050102/https://cfi.co/asia-pacific/2012/12/replacing-aid-with-trade/"
+license: CFI-OAAL-1.0
 content_sha256: bf27dedeaec266db76b05a674266d16812be5d530c8e7855b8f2e73f722541c8
 canonical: 2698-replacing-aid-with-trade.json
 ---
