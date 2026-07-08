@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251006234929
 wayback_snapshot_url: "http://web.archive.org/web/20251006234929/https://cfi.co/asia-pacific/2025/09/built-on-trust-powered-by-client-commitment-the-xmtrading-standard/"
+license: CFI-OAAL-1.0
 content_sha256: a1a95a5e3ebbc6faaa844ca9d13b83a561b270b0fee22d2639537e2eca5a06de
 canonical: 27969-built-on-trust-powered-by-client-commitment-the-xmtrading-standard.json
 ---
