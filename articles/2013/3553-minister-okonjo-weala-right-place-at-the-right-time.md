@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050049
 wayback_snapshot_url: "http://web.archive.org/web/20190823050049/https://cfi.co/africa/2013/04/minister-okonjo-weala-right-place-at-the-right-time/"
+license: CFI-OAAL-1.0
 content_sha256: 67f8057c254f67990b16646bf0648d63608105a4a41a20d880ec675c89cf55d2
 canonical: 3553-minister-okonjo-weala-right-place-at-the-right-time.json
 ---
