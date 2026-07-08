@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260108124405
 wayback_snapshot_url: "http://web.archive.org/web/20260108124405/https://cfi.co/europe/2025/12/the-silent-giants-the-critical-role-of-smes-in-the-global-future/"
+license: CFI-OAAL-1.0
 content_sha256: b57e1f9867c1ed32b1968aafa92328530674d003027835de44bb18b3fd3a05b8
 canonical: 28136-the-silent-giants-the-critical-role-of-smes-in-the-global-future.json
 ---
