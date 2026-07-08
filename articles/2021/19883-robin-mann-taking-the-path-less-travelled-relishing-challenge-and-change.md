@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210720205648
 wayback_snapshot_url: "http://web.archive.org/web/20210720205648/https://cfi.co/menu/corporate/2021/07/robin-mann-taking-the-path-less-travelled-relishing-challenge-and-change/"
+license: CFI-OAAL-1.0
 content_sha256: f4bbb35dd7dac3402ee924383bfc4637ab31759b8fb16b04cf9c7ec69d884ea4
 canonical: 19883-robin-mann-taking-the-path-less-travelled-relishing-challenge-and-change.json
 ---
