@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630142456
 wayback_snapshot_url: "http://web.archive.org/web/20220630142456/https://cfi.co/corporate-leaders/2020/08/jamie-dimon-chairman-and-ceo-of-jpmorgan-chase-outspoken-ambitious-and-smart/"
+license: CFI-OAAL-1.0
 content_sha256: ecfd0be9ccd6fcbafd02d2b995a3b2301dd6480bd1cdaacb45b3b1b95c9576ed
 canonical: 16729-jamie-dimon-chairman-and-ceo-of-jpmorgan-chase-outspoken-ambitious-and-smart.json
 ---
