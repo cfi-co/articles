@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221028081549
 wayback_snapshot_url: "http://web.archive.org/web/20221028081549/https://cfi.co/latinamerica/2022/10/nothing-beats-local-knowledge-and-wtw-i-unity-head-louis-tito-ducruet-knows-his-territory/"
+license: CFI-OAAL-1.0
 content_sha256: 621dfb25bd334eb6807d73032f2c65396c641d200056a3a0a2d82a210dcc9471
 canonical: 23771-nothing-beats-local-knowledge-and-wtw-i-unity-head-louis-tito-ducruet-knows-his-.json
 ---
