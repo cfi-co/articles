@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251206005419
 wayback_snapshot_url: "http://web.archive.org/web/20251206005419/https://cfi.co/africa/2025/11/africa-finance-corporation-powering-africas-future-through-pragmatic-investment-and-infrastructure/"
+license: CFI-OAAL-1.0
 content_sha256: d5a095d4077c6a105c4063fb82aa9ec797eacaba1ac46f47d497ac6730441146
 canonical: 28093-africa-finance-corporation-powering-africas-future-through-pragmatic-investment-.json
 ---
