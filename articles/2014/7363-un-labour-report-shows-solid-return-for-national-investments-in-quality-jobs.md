@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140705085323
 wayback_snapshot_url: "http://web.archive.org/web/20140705085323/http://cfi.co/africa/2014/05/un-labour-report-shows-solid-return-for-national-investments-in-quality-jobs/"
+license: CFI-OAAL-1.0
 content_sha256: e9b26f099bbf4ffd1f075f2c30758d6a921c6054cf59b99ba326fd52258b5647
 canonical: 7363-un-labour-report-shows-solid-return-for-national-investments-in-quality-jobs.json
 ---
