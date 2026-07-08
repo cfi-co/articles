@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818134646
 wayback_snapshot_url: "http://web.archive.org/web/20190818134646/https://cfi.co/editors-picks/2012/11/balancing-act-in-tunisia/"
+license: CFI-OAAL-1.0
 content_sha256: b2cd0b1db23e72ca595e55a9f43e720c8dbafb6fe5cf37f3a687ab804a4d5db7
 canonical: 2535-balancing-act-in-tunisia.json
 ---
