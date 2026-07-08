@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210226104251
 wayback_snapshot_url: "http://web.archive.org/web/20210226104251/https://cfi.co/c-19/2020/10/tales-of-shopkeepers-trolley-cops-and-markets/"
+license: CFI-OAAL-1.0
 content_sha256: dc262a7382e8d7b2bc49e2eceb7ee9628f4adeaa38bce10e63120e85956f8661
 canonical: 17709-tales-of-shopkeepers-trolley-cops-and-markets.json
 ---
