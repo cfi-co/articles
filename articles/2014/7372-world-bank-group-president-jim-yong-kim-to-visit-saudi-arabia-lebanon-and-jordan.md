@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823053527
 wayback_snapshot_url: "http://web.archive.org/web/20190823053527/https://cfi.co/banking/2014/05/world-bank-group-president-jim-yong-kim-to-visit-saudi-arabia-lebanon-and-jordan/"
+license: CFI-OAAL-1.0
 content_sha256: 22d3b2f6cec7a9e6fd698d4e84ded45edb05e77eaa9f95753adc78a96d7c6ec4
 canonical: 7372-world-bank-group-president-jim-yong-kim-to-visit-saudi-arabia-lebanon-and-jordan.json
 ---
