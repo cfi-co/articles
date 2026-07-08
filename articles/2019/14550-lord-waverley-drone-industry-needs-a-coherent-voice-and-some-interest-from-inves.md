@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200408065038
 wayback_snapshot_url: "http://web.archive.org/web/20200408065038/https://cfi.co/europe/2019/10/lord-waverley-drone-industry-needs-a-coherent-voice-and-some-interest-from-investors/"
+license: CFI-OAAL-1.0
 content_sha256: 6c299814d2014c30492b6988d94f202b0ac696b67ee82a61da4cd53ce0692e7f
 canonical: 14550-lord-waverley-drone-industry-needs-a-coherent-voice-and-some-interest-from-inves.json
 ---
