@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180210034723
 wayback_snapshot_url: "http://web.archive.org/web/20180210034723/http://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-chairman-and-ceo-of-elwan-group-ibrahim-i-elwan/"
+license: CFI-OAAL-1.0
 content_sha256: 4eb957082fb93cdb1817ba16b1622240486df4878ae9901caf22fe314a269c5d
 canonical: 10887-cfi-co-meets-the-chairman-and-ceo-of-elwan-group-ibrahim-i-elwan.json
 ---
