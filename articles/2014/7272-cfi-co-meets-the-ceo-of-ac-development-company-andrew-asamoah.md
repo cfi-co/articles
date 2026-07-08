@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827161625
 wayback_snapshot_url: "http://web.archive.org/web/20140827161625/http://cfi.co/africa/2014/01/cfi-co-meets-the-ceo-of-ac-development-company-andrew-asamoah/"
+license: CFI-OAAL-1.0
 content_sha256: 9196ac9d45bd230237d0ced14ec242497d5be80ee10793b86534737c82279a4b
 canonical: 7272-cfi-co-meets-the-ceo-of-ac-development-company-andrew-asamoah.json
 ---
