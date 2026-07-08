@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220815153313
 wayback_snapshot_url: "http://web.archive.org/web/20220815153313/https://cfi.co/oil-and-mining/2022/08/uaes-economic-progress-to-extend-beyond-post-oil-era/"
+license: CFI-OAAL-1.0
 content_sha256: cf4b3a65badd30b8624ce7d1e1d88e33658dcea9c67f06a5e48b1a8105a6908b
 canonical: 22841-uaes-economic-progress-to-extend-beyond-post-oil-era.json
 ---
