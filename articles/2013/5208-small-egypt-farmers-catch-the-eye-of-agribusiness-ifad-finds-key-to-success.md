@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20131001094532
 wayback_snapshot_url: "http://web.archive.org/web/20131001094532/http://cfi.co/middleeast/2013/09/small-egypt-farmers-catch-the-eye-of-agribusiness-ifad-finds-key-to-success/"
+license: CFI-OAAL-1.0
 content_sha256: 5644c8364c97f14064d12f61377ab9a2c2687da6bfbda261101d220b247bf3a9
 canonical: 5208-small-egypt-farmers-catch-the-eye-of-agribusiness-ifad-finds-key-to-success.json
 ---
