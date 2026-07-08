@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180705032124
 wayback_snapshot_url: "http://web.archive.org/web/20180705032124/http://cfi.co/finance/2015/04/annual-investment-meeting-aim-ministry-of-economy-united-arab-emirates-2015/"
+license: CFI-OAAL-1.0
 content_sha256: c3be285fb5f834934720b3393163293f03e98d878f34b26fa4b8ffe2d0f712eb
 canonical: 9636-annual-investment-meeting-aim-ministry-of-economy-united-arab-emirates-2015.json
 ---
