@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422031538
 wayback_snapshot_url: "http://web.archive.org/web/20210422031538/https://cfi.co/c-19/2021/03/dubai-real-estate-hard-hit-but-striking-back-finds-correct-balance/"
+license: CFI-OAAL-1.0
 content_sha256: 680c3cfcece6e158200cafcb427c0776cd60319ae74b529514878baee2baa716
 canonical: 19143-dubai-real-estate-hard-hit-but-striking-back-finds-correct-balance.json
 ---
