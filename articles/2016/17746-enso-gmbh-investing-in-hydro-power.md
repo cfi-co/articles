@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228102605
 wayback_snapshot_url: "http://web.archive.org/web/20210228102605/https://cfi.co/menu/corporate/2016/04/enso-gmbh-investing-in-hydro-power/"
+license: CFI-OAAL-1.0
 content_sha256: 4e4f848d18f163bcf201d0cda865d9691f848a307403f63543139544e8040231
 canonical: 17746-enso-gmbh-investing-in-hydro-power.json
 ---
