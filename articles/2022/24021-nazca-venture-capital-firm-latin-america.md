@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230323012418
 wayback_snapshot_url: "http://web.archive.org/web/20230323012418/https://cfi.co/menu/corporate/2022/11/nazca-venture-capital-firm-latin-america/"
+license: CFI-OAAL-1.0
 content_sha256: 57646506c814f2e3832534b4122421bbe00aa2f39d04b0d80dfd3d07ccdf06bf
 canonical: 24021-nazca-venture-capital-firm-latin-america.json
 ---
