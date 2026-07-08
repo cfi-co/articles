@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418044537
 wayback_snapshot_url: "http://web.archive.org/web/20210418044537/https://cfi.co/menu/cfi-co-meets/2021/02/east-africa-metals-president-and-ceo-andrew-lee-smiths-passion-ability-and-concern-for-community-win-accolades-from-all-sides/"
+license: CFI-OAAL-1.0
 content_sha256: 3950db191ad1f134e1e166ab9dda321625a8eea1de6a60707d140e5ff60828b8
 canonical: 18562-east-africa-metals-president-and-ceo-andrew-lee-smiths-passion-ability-and-conce.json
 ---
