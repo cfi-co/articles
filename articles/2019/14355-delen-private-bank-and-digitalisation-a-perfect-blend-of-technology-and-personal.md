@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191214232357
 wayback_snapshot_url: "http://web.archive.org/web/20191214232357/https://cfi.co/banking/2019/11/delen-private-bank-and-digitalisation-a-perfect-blend-of-technology-and-personal-service/"
+license: CFI-OAAL-1.0
 content_sha256: e4cb5efdcbaa721336540517fd42610454d125b268310607e0ed297b288431ee
 canonical: 14355-delen-private-bank-and-digitalisation-a-perfect-blend-of-technology-and-personal.json
 ---
