@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916085036
 wayback_snapshot_url: "http://web.archive.org/web/20190916085036/https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-president-of-the-stock-exchange-of-thailand-kesara-manchusree/"
+license: CFI-OAAL-1.0
 content_sha256: 03ee18858fa14ff4189f119bb1b64f9e7c37a4792fe9d5ffaddec462ccdca751
 canonical: 11830-cfi-co-meets-the-president-of-the-stock-exchange-of-thailand-kesara-manchusree.json
 ---
