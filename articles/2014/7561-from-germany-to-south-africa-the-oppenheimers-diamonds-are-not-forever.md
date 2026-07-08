@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140925191620
 wayback_snapshot_url: "http://web.archive.org/web/20140925191620/http://cfi.co/africa/2014/07/from-germany-to-south-africa-the-oppenheimers-diamonds-are-not-forever/"
+license: CFI-OAAL-1.0
 content_sha256: 301fa755f0793c28c424821f6eb1eb04a3554da25f8cf5e795febc6c761372be
 canonical: 7561-from-germany-to-south-africa-the-oppenheimers-diamonds-are-not-forever.json
 ---
