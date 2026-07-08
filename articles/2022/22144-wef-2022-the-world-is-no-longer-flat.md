@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220527162432
 wayback_snapshot_url: "http://web.archive.org/web/20220527162432/https://cfi.co/brave-new-world/2022/05/wef-2022-the-world-is-no-longer-flat/"
+license: CFI-OAAL-1.0
 content_sha256: 6213021a0988de07293730219489b3c189d1bc2e897fb47d705f521c108e4c50
 canonical: 22144-wef-2022-the-world-is-no-longer-flat.json
 ---
