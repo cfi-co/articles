@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916043426
 wayback_snapshot_url: "http://web.archive.org/web/20190916043426/https://cfi.co/finance/2017/05/president-trump-math-is-hard/"
+license: CFI-OAAL-1.0
 content_sha256: 00c091d339b282262b86a4bffb8c8810b51941428040658b27ccd0cce8526515
 canonical: 11631-president-trump-math-is-hard.json
 ---
