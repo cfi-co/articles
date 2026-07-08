@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200726033603
 wayback_snapshot_url: "http://web.archive.org/web/20200726033603/https://cfi.co/c-19/2020/07/eu-cements-union-and-recovery-package/"
+license: CFI-OAAL-1.0
 content_sha256: 719c399d26c71b18618d3a4360ae81077b116d901dc575d7145ea27b10b59fe6
 canonical: 16380-eu-cements-union-and-recovery-package.json
 ---
