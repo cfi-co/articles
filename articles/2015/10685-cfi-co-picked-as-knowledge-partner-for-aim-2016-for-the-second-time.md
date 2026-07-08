@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721110608
 wayback_snapshot_url: "http://web.archive.org/web/20190721110608/https://cfi.co/finance/2015/11/cfi-co-picked-as-knowledge-partner-for-aim-2016-for-the-second-time/"
+license: CFI-OAAL-1.0
 content_sha256: a137ef6301a70177429345ec847b4bb54dfb9d35c6e9ffbd0dbf45a42f7fe985
 canonical: 10685-cfi-co-picked-as-knowledge-partner-for-aim-2016-for-the-second-time.json
 ---
