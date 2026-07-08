@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810073440
 wayback_snapshot_url: "http://web.archive.org/web/20200810073440/https://cfi.co/corporate-leaders/2018/07/cfi-co-meets-the-ceo-of-al-maidan-dental-clinic-yousef-al-sarraf/"
+license: CFI-OAAL-1.0
 content_sha256: f3561397ddde82726890bb3fe8ead44cb69c11a36ef68cefb30c20cd2fde646d
 canonical: 12943-cfi-co-meets-the-ceo-of-al-maidan-dental-clinic-yousef-al-sarraf.json
 ---
