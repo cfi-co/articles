@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014235553
 wayback_snapshot_url: "http://web.archive.org/web/20191014235553/https://cfi.co/latinamerica/2014/09/how-much-does-pollution-cost/"
+license: CFI-OAAL-1.0
 content_sha256: dede05caedd89d1249d3b19cbbb89130d8ec79dc77d52ac814f537e111eeea69
 canonical: 8032-how-much-does-pollution-cost.json
 ---
