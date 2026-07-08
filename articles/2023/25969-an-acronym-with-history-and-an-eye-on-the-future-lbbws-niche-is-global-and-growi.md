@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231030221938
 wayback_snapshot_url: "http://web.archive.org/web/20231030221938/https://cfi.co/banking/2023/09/an-acronym-with-history-and-an-eye-on-the-future-lbbws-niche-is-global-and-growing/"
+license: CFI-OAAL-1.0
 content_sha256: 9f48a0b255e144ed6b5f9638dc6f7153b004318800bbba2c14f400dc751b2f6e
 canonical: 25969-an-acronym-with-history-and-an-eye-on-the-future-lbbws-niche-is-global-and-growi.json
 ---
