@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050921
 wayback_snapshot_url: "http://web.archive.org/web/20190818050921/https://cfi.co/africa/2014/11/clean-undustrialisation-critical-for-africa-to-leapfrog-outdated-technologies/"
+license: CFI-OAAL-1.0
 content_sha256: 535f6cef22f1d18c1174be3579bf20f1bd9ef817411e326cedaca35e16389194
 canonical: 8428-clean-undustrialisation-critical-for-africa-to-leapfrog-outdated-technologies.json
 ---
