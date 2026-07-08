@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225160637
 wayback_snapshot_url: "http://web.archive.org/web/20240225160637/https://cfi.co/middleeast/2023/11/ithra-saudis-bid-to-bring-art-and-cultural-talent-to-the-fore/"
+license: CFI-OAAL-1.0
 content_sha256: 40b020726a9ec515b93d838ae8a692ef4caa305cbafd16bead05534106fdb296
 canonical: 26384-saudis-bid-to-bring-art-and-cultural-talent-to-the-fore.json
 ---
