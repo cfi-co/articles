@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200506010503
 wayback_snapshot_url: "http://web.archive.org/web/20200506010503/https://cfi.co/c-19/2020/03/business-in-times-of-corona-the-welfare-state-may-yet-prove-its-worth/"
+license: CFI-OAAL-1.0
 content_sha256: 0a46143cd56668fb7dd35915feb14e9960a1e18f977c071d09242dee804f1ed5
 canonical: 14777-business-in-times-of-corona-the-welfare-state-may-yet-prove-its-worth.json
 ---
