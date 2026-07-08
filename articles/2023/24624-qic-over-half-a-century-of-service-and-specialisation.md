@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230125145414
 wayback_snapshot_url: "http://web.archive.org/web/20230125145414/https://cfi.co/menu/corporate/2023/01/qic-over-half-a-century-of-service-and-specialisation/"
+license: CFI-OAAL-1.0
 content_sha256: facf370a2b5d5acd6d3c427f206660781a9d73a730793e3a8c7e940894ad1d74
 canonical: 24624-qic-over-half-a-century-of-service-and-specialisation.json
 ---
