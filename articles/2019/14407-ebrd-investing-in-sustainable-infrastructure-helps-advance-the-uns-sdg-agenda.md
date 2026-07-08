@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200424110955
 wayback_snapshot_url: "http://web.archive.org/web/20200424110955/https://cfi.co/asia-pacific/2019/12/ebrd-investing-in-sustainable-infrastructure-helps-advance-the-uns-sdg-agenda/"
+license: CFI-OAAL-1.0
 content_sha256: 49f2bdf4865ce47776bf020e867db48c4e15cf538752c714656192a02b2cff9d
 canonical: 14407-ebrd-investing-in-sustainable-infrastructure-helps-advance-the-uns-sdg-agenda.json
 ---
