@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132547
 wayback_snapshot_url: "http://web.archive.org/web/20190818132547/https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-alliance-financial-services-roshan-boodhoo/"
+license: CFI-OAAL-1.0
 content_sha256: f1b7fa1212d3a46273bd420449b427443325ae3a0b2705baa54980ff07942dfe
 canonical: 10890-cfi-co-meets-the-ceo-of-alliance-financial-services-roshan-boodhoo.json
 ---
