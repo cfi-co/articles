@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720032320
 wayback_snapshot_url: "http://web.archive.org/web/20190720032320/https://cfi.co/finance/2012/02/u-s-trade-deficit-and-consumer-sentiment-rise/"
+license: CFI-OAAL-1.0
 content_sha256: a32f2f6b4c5aaf159d822c15183d833261172d6e2b4b3702738e3f1403c9921b
 canonical: 209-u-s-trade-deficit-and-consumer-sentiment-rise.json
 ---
