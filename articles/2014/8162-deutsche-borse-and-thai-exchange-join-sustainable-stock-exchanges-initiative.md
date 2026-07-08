@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825094250
 wayback_snapshot_url: "http://web.archive.org/web/20190825094250/https://cfi.co/asia-pacific/2014/10/deutsche-borse-and-thai-exchange-join-sustainable-stock-exchanges-initiative/"
+license: CFI-OAAL-1.0
 content_sha256: 22d174a24ecfd65109d313f71349ff8d4bdc48b7e272e47348a2b78ac7da5be3
 canonical: 8162-deutsche-borse-and-thai-exchange-join-sustainable-stock-exchanges-initiative.json
 ---
