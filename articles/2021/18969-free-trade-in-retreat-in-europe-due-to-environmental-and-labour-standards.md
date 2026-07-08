@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210315180031
 wayback_snapshot_url: "http://web.archive.org/web/20210315180031/https://cfi.co/c-19/2021/03/free-trade-in-retreat-in-europe-due-to-environmental-and-labour-standards/"
+license: CFI-OAAL-1.0
 content_sha256: b9dfb711828f6a8ee36db6138a8a5674951baf339144083b5dcddaf67c827826
 canonical: 18969-free-trade-in-retreat-in-europe-due-to-environmental-and-labour-standards.json
 ---
