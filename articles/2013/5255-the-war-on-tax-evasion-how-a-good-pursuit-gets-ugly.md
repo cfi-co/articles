@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827113057
 wayback_snapshot_url: "http://web.archive.org/web/20140827113057/http://cfi.co/europe/2013/09/the-war-on-tax-evasion-how-a-good-pursuit-gets-ugly/"
+license: CFI-OAAL-1.0
 content_sha256: 5df8b25c06cd18b8a74bdb50eb273c5605f91f8936fadfcbd95f73d1cb814ed7
 canonical: 5255-the-war-on-tax-evasion-how-a-good-pursuit-gets-ugly.json
 ---
