@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200924060130
 wayback_snapshot_url: "http://web.archive.org/web/20200924060130/https://cfi.co/editors-picks/2018/05/ksenia-sobchak-stooge-or-promise/"
+license: CFI-OAAL-1.0
 content_sha256: a436bce54dc7f68441fe684e6cf631805f3fa8648bbfe6c961bbc33ccfbe8b85
 canonical: 12512-ksenia-sobchak-stooge-or-promise.json
 ---
