@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820141726
 wayback_snapshot_url: "http://web.archive.org/web/20190820141726/https://cfi.co/corporate-leaders/2018/06/cfi-co-meets-the-president-ceo-of-azizi-bank-mohammad-salem-omaid/"
+license: CFI-OAAL-1.0
 content_sha256: 57e779646ca1842bfb19556095092197ece0529083aafa9a4f8ca4695aac02cd
 canonical: 12631-cfi-co-meets-the-president-ceo-of-azizi-bank-mohammad-salem-omaid.json
 ---
