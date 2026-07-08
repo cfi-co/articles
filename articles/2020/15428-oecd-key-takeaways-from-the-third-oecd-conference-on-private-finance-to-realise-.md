@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200809120227
 wayback_snapshot_url: "http://web.archive.org/web/20200809120227/https://cfi.co/europe/2020/05/oecd-key-takeaways-from-the-third-oecd-conference-on-private-finance-to-realise-the-sdgs/"
+license: CFI-OAAL-1.0
 content_sha256: 385ce2f8256b65f5925cc4bd7802351b49453e0d8e8c11b84053dd208eda7329
 canonical: 15428-oecd-key-takeaways-from-the-third-oecd-conference-on-private-finance-to-realise-.json
 ---
