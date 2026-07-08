@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810085125
 wayback_snapshot_url: "http://web.archive.org/web/20200810085125/https://cfi.co/finance/2020/07/ey-on-covid-19-pandemic-an-opportunity-for-reinvention-of-family-enterprises/"
+license: CFI-OAAL-1.0
 content_sha256: 5f3a5dca36159ccd629ec52488c6b939f73fd73365a418f5d004265810ba4188
 canonical: 15877-ey-on-covid-19-pandemic-an-opportunity-for-reinvention-of-family-enterprises.json
 ---
