@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050620
 wayback_snapshot_url: "http://web.archive.org/web/20190823050620/https://cfi.co/finance/2014/07/cfi-co-meets-the-ceo-of-fortress-investments-hamed-mokhtar/"
+license: CFI-OAAL-1.0
 content_sha256: 461e45b2f8c35a4a6889073b7b6824270da43192fb48f7fe375a5c903972198a
 canonical: 7886-cfi-co-meets-the-ceo-of-fortress-investments-hamed-mokhtar.json
 ---
