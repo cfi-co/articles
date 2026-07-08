@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180702032930
 wayback_snapshot_url: "http://web.archive.org/web/20180702032930/http://cfi.co/africa/2013/07/hero-kapila-remembering-darfur/"
+license: CFI-OAAL-1.0
 content_sha256: 2e26f86cbc7c42056d549d6535a8cb7a01f9d2a739d4ae50153fbb9c2cb0501e
 canonical: 4688-hero-kapila-remembering-darfur.json
 ---
