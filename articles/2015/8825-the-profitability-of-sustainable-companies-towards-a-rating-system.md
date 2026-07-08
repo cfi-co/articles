@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916044316
 wayback_snapshot_url: "http://web.archive.org/web/20190916044316/https://cfi.co/finance/2015/01/the-profitability-of-sustainable-companies-towards-a-rating-system/"
+license: CFI-OAAL-1.0
 content_sha256: 201d00c8ec94df42559a659d73b8c01576981f02f654d9632006814f4bc59e5b
 canonical: 8825-the-profitability-of-sustainable-companies-towards-a-rating-system.json
 ---
