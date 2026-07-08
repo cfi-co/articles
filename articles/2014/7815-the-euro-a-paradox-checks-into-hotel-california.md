@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717212843
 wayback_snapshot_url: "http://web.archive.org/web/20190717212843/https://cfi.co/europe/2014/08/the-euro-a-paradox-checks-into-hotel-california/"
+license: CFI-OAAL-1.0
 content_sha256: dbadb6426a08b12a1f2eb9e1fecd35aff86882bf1b9144e558288fa733963e9b
 canonical: 7815-the-euro-a-paradox-checks-into-hotel-california.json
 ---
