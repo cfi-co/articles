@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220307180344
 wayback_snapshot_url: "http://web.archive.org/web/20220307180344/https://cfi.co/brave-new-world/2022/03/the-great-dictator-becomes-more-and-more-isolated/"
+license: CFI-OAAL-1.0
 content_sha256: 6fa522457487d1eddd390fceaa8661cc689eedc5b35f9d4aaa04fddd8e17ad70
 canonical: 21620-the-great-dictator-becomes-more-and-more-isolated.json
 ---
