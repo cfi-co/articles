@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920105134
 wayback_snapshot_url: "http://web.archive.org/web/20210920105134/https://cfi.co/menu/corporate/2021/07/the-national-bank-of-bahrain-nbb-taking-it-smooth-and-easy-in-kingdoms-digitalisation-drive/"
+license: CFI-OAAL-1.0
 content_sha256: cfa656700f1c42751f58c76e053d1194ec080cc9b76789d3f748d2ac36f8e9cb
 canonical: 20149-the-national-bank-of-bahrain-nbb-taking-it-smooth-and-easy-in-kingdoms-digitalis.json
 ---
