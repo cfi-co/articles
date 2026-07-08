@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20171204164418
 wayback_snapshot_url: "http://web.archive.org/web/20171204164418/http://cfi.co/asia-pacific/2016/03/michael-pettis-money-is-not-created-out-of-thin-air/"
+license: CFI-OAAL-1.0
 content_sha256: f01dc286981bce1da1cc23b24b165c5cd477bd07c76ff1bb01f607bcc781912a
 canonical: 11052-michael-pettis-money-is-not-created-out-of-thin-air.json
 ---
