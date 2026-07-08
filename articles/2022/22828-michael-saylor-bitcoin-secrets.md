@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220806213938
 wayback_snapshot_url: "http://web.archive.org/web/20220806213938/https://cfi.co/finance/2022/08/michael-saylor-bitcoin-secrets/"
+license: CFI-OAAL-1.0
 content_sha256: 6b9868f915c2873f1e6342844fa3f9a6c97bf0cfd56dd2437f8c7927d20c8d34
 canonical: 22828-michael-saylor-bitcoin-secrets.json
 ---
