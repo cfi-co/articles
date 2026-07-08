@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200919185047
 wayback_snapshot_url: "http://web.archive.org/web/20200919185047/https://cfi.co/editors-picks/2018/09/michel-barnier-keep-calm-and-carry-on/"
+license: CFI-OAAL-1.0
 content_sha256: e0cdf5977abc0614d2c4200fa8b9189493492096f62e95ba77164fe5a671ab48
 canonical: 12946-michel-barnier-keep-calm-and-carry-on.json
 ---
