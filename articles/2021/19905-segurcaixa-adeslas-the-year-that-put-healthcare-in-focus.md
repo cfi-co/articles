@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920102217
 wayback_snapshot_url: "http://web.archive.org/web/20210920102217/https://cfi.co/menu/corporate/2021/07/segurcaixa-adeslas-the-year-that-put-healthcare-in-focus/"
+license: CFI-OAAL-1.0
 content_sha256: 958b08af20e09f1ff97283f3fc722cb9a9bb63195987ab1ff617e5e87c340f4a
 canonical: 19905-segurcaixa-adeslas-the-year-that-put-healthcare-in-focus.json
 ---
