@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050323
 wayback_snapshot_url: "http://web.archive.org/web/20190818050323/https://cfi.co/technology/2018/05/even-crypto-bulls-expect-a-big-shake-out-this-year-the-market-right-now-is-just-everyone-wants-a-lamborghini/"
+license: CFI-OAAL-1.0
 content_sha256: cd1ce556bc4549b7880734973185dc740c30bd64576b18010e653df53905bbc6
 canonical: 12490-even-crypto-bulls-expect-a-big-shake-out-this-year-the-market-right-now-is-just-.json
 ---
