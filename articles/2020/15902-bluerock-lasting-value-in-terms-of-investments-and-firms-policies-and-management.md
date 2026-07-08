@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200813165828
 wayback_snapshot_url: "http://web.archive.org/web/20200813165828/https://cfi.co/menu/corporate/2020/07/bluerock-lasting-value-in-terms-of-investments-and-firms-policies-and-management/"
+license: CFI-OAAL-1.0
 content_sha256: 707eebb855a75ea2e61cd7e7b7fb08ed7a860ad19d7d0510a64bf5534f1c7d64
 canonical: 15902-bluerock-lasting-value-in-terms-of-investments-and-firms-policies-and-management.json
 ---
