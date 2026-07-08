@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050934
 wayback_snapshot_url: "http://web.archive.org/web/20190818050934/https://cfi.co/africa/2013/10/the-world-bank-calling-for-an-end-to-poverty/"
+license: CFI-OAAL-1.0
 content_sha256: 89cb181d6dc1702b445de4482daf42a8e456b9077f246697d5f12de645b02959
 canonical: 5402-the-world-bank-calling-for-an-end-to-poverty.json
 ---
