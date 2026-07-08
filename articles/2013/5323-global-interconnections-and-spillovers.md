@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20131001081432
 wayback_snapshot_url: "http://web.archive.org/web/20131001081432/http://cfi.co/europe/2013/09/global-interconnections-and-spillovers/"
+license: CFI-OAAL-1.0
 content_sha256: 42cefaec8afcb921d5f56af2c0c7c5f59c415d9cb0f0e420c48f06795a127dde
 canonical: 5323-global-interconnections-and-spillovers.json
 ---
