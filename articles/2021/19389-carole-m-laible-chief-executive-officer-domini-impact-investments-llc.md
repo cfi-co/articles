@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418053202
 wayback_snapshot_url: "http://web.archive.org/web/20210418053202/https://cfi.co/menu/corporate/2021/04/carole-m-laible-chief-executive-officer-domini-impact-investments-llc/"
+license: CFI-OAAL-1.0
 content_sha256: 440b2c499d5171f4adbddfda2ca338eb341f32fe95be31fbe8b8699ff75d23c2
 canonical: 19389-carole-m-laible-chief-executive-officer-domini-impact-investments-llc.json
 ---
