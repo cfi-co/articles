@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916045340
 wayback_snapshot_url: "http://web.archive.org/web/20190916045340/https://cfi.co/asia-pacific/2014/01/ifc-champions-water-efficiency-in-chinas-textile-industry/"
+license: CFI-OAAL-1.0
 content_sha256: 1411655ff725f52531fc1a60967918c49315923ae3cd13b72b57e1818438e2e4
 canonical: 6415-ifc-champions-water-efficiency-in-chinas-textile-industry.json
 ---
