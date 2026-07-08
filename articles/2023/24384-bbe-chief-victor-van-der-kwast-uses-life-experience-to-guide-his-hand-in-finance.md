@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230109151901
 wayback_snapshot_url: "http://web.archive.org/web/20230109151901/https://cfi.co/banking/2023/01/bbe-chief-victor-van-der-kwast-uses-life-experience-to-guide-his-hand-in-finance/"
+license: CFI-OAAL-1.0
 content_sha256: fc1b033bde5e513ac9d10823a9f155b2f8616a1ae2f4f5776dd7a696f0ba4c23
 canonical: 24384-bbe-chief-victor-van-der-kwast-uses-life-experience-to-guide-his-hand-in-finance.json
 ---
