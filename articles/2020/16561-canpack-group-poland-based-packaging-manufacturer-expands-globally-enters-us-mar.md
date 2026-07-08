@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920102928
 wayback_snapshot_url: "http://web.archive.org/web/20200920102928/https://cfi.co/menu/corporate/2020/08/canpack-group-poland-based-packaging-manufacturer-expands-globally-enters-us-market/"
+license: CFI-OAAL-1.0
 content_sha256: d35f14c48a5cd8f925b479b4b5e5fcf7bb0b7621091eb8f49add944f10789e1f
 canonical: 16561-canpack-group-poland-based-packaging-manufacturer-expands-globally-enters-us-mar.json
 ---
