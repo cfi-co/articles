@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724025653
 wayback_snapshot_url: "http://web.archive.org/web/20190724025653/https://cfi.co/corporate-leaders/2015/08/cfi-co-meets-the-founder-chairman-and-chief-executive-officer-of-seabury-group-john-luth/"
+license: CFI-OAAL-1.0
 content_sha256: 6d02f5cb5f9640f4cd84b2045d53e6ecf3e3c0127af150f5d0b98d6ffe1e4365
 canonical: 10564-cfi-co-meets-the-founder-chairman-and-chief-executive-officer-of-seabury-group-j.json
 ---
