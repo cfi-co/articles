@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916085205
 wayback_snapshot_url: "http://web.archive.org/web/20190916085205/https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-ceo-and-principal-officer-of-njmpf-sam-camilleri/"
+license: CFI-OAAL-1.0
 content_sha256: a5519e6031c90d06cc8e90f7f57c91dd32a0e3df6abbec5c7c8eb2f0c8b43d11
 canonical: 11864-cfi-co-meets-the-ceo-and-principal-officer-of-njmpf-sam-camilleri.json
 ---
