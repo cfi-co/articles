@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190818050808",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190818050808/https://cfi.co/banking/2012/05/share-trading-suspended-in-the-spanish-lender-bankia-pushing-spain-ever-closer-to-needing-a-bailout/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190818050808/https://cfi.co/banking/2012/05/share-trading-suspended-in-the-spanish-lender-bankia-pushing-spain-ever-closer-to-needing-a-bailout/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_662\" align=\"alignright\" width=\"300\" caption=\"Bankia Headquarters. Picture: The Guardian\"]<a href=\"http://capitalfinanceint.com/news/wp-content/uploads/2012/05/bankia-headquarters-tower.jpg\"><img class=\"size-medium wp-image-662\" title=\"Bankia headquarters tower in Madrid\" src=\"http://capitalfinanceint.com/news/wp-content/uploads/2012/05/bankia-headquarters-tower-300x180.jpg\" alt=\"\" width=\"300\" height=\"180\" /></a>[/caption]\n\nThe Spanish market regulator CNMV said it was \"due to circumstances that may affect the normal share trading\".\n\nThere are reports that Bankia will ask the government for a bailout of more than 15bn euros ($19bn; £12bn) after a board meeting later on Friday.\n\nBankia, is Spain's fourth-largest bank, was semi-nationalised two weeks ago because of its problems with bad property debt.\n\nThe Spanish government has already put in 4.5bn euros in state loans that the government converted into shares in the group in the part-nationalisation process.\n\nBankia's parent company Banco Financiero y de Ahorros (BFA) has also had its shares suspended.\n\nBankia was created in 2010 from the merger of seven struggling regional savings banks.\n\nIt holds 32bn euros in distressed property assets.\n\nThe viability of Spain's banking system is key to whether the country eventually needs to seek a bailout itself from the eurozone and the IMF.",
     "content_sha256": "446eef13da7ee4fd4b7a020212de0b6fef936ba4d67198c10149efc83d241705",
-    "record_sha256": "e8f116f9f31623bf146aadc4bdad7ea0bc7b985e58aff27ad7aebf635f3fdc98"
+    "record_sha256": "14edc4f3c6dff4c082f1b1fb398934e02f1d53a9db73bacc37353fb0dac0b5de"
 }
