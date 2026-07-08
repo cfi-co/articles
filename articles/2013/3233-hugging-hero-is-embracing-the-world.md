@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140828153912
 wayback_snapshot_url: "http://web.archive.org/web/20140828153912/http://cfi.co/editors-picks/2013/03/hugging-hero-is-embracing-the-world/"
+license: CFI-OAAL-1.0
 content_sha256: dd977e077dedb1bb04a3806cb3e3ddd65159b60f9af41c6f5121307d50a9d189
 canonical: 3233-hugging-hero-is-embracing-the-world.json
 ---
