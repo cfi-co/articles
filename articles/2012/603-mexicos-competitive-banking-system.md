@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050730
 wayback_snapshot_url: "http://web.archive.org/web/20190818050730/https://cfi.co/banking/2012/05/mexicos-competitive-banking-system/"
+license: CFI-OAAL-1.0
 content_sha256: 9521cf0ae96a2235a71f2be56241f22ad2ebf820a7203a2044329afd0846dc23
 canonical: 603-mexicos-competitive-banking-system.json
 ---
