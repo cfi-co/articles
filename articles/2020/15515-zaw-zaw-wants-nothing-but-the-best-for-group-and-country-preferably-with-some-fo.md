@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200921063920
 wayback_snapshot_url: "http://web.archive.org/web/20200921063920/https://cfi.co/corporate-leaders/2020/06/zaw-zaw-wants-nothing-but-the-best-for-group-and-country-preferably-with-some-football/"
+license: CFI-OAAL-1.0
 content_sha256: 86ce14a027ff224b8948c9dd7ef7a1a29a58eb21b23ba563b73dea4d0629e609
 canonical: 15515-zaw-zaw-wants-nothing-but-the-best-for-group-and-country-preferably-with-some-fo.json
 ---
