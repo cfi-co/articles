@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422032125
 wayback_snapshot_url: "http://web.archive.org/web/20210422032125/https://cfi.co/c-19/2021/01/trickle-down-economics-and-the-resuscitation-of-reaganomics/"
+license: CFI-OAAL-1.0
 content_sha256: 67b39f0b0ef9c58c53011e3029730272de4169e43abe50fd9d485af686e4cf27
 canonical: 18427-trickle-down-economics-and-the-resuscitation-of-reaganomics.json
 ---
