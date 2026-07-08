@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230603023154
 wayback_snapshot_url: "http://web.archive.org/web/20230603023154/https://cfi.co/menu/corporate/2023/03/ajay-banga-former-mastercard-ceo/"
+license: CFI-OAAL-1.0
 content_sha256: ae2117ecb022b77ac4c7634e9de3161b1e2cae7014ccb1ddc10ed29e87c5dc84
 canonical: 24915-ajay-banga-former-mastercard-ceo.json
 ---
