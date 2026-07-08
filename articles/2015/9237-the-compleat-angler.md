@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724031315
 wayback_snapshot_url: "http://web.archive.org/web/20190724031315/https://cfi.co/menu/the-editors-list/2015/02/the-compleat-angler/"
+license: CFI-OAAL-1.0
 content_sha256: 6fb0ca3f7545c64e5cab0a66d7a33dc5a32b68ec83c50ecbd69ae073f273d06c
 canonical: 9237-the-compleat-angler.json
 ---
