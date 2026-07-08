@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825094859
 wayback_snapshot_url: "http://web.archive.org/web/20190825094859/https://cfi.co/africa/2012/05/namibias-changing-tax-landscape-from-simple-to-complex/"
+license: CFI-OAAL-1.0
 content_sha256: 5a5482210e62ac645190d3391d3eb80dccf3e8749feea56d3fb8e3ff50c95401
 canonical: 478-namibias-changing-tax-landscape-from-simple-to-complex.json
 ---
