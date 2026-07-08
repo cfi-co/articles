@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210614171821
 wayback_snapshot_url: "http://web.archive.org/web/20210614171821/https://cfi.co/menu/corporate/2021/06/curinde-caribbean-island-of-curacao-becoming-logistical-trade-hub/"
+license: CFI-OAAL-1.0
 content_sha256: ff2571036a0980cb4b35df21a7c52d3771826fe979eb6f1fefae81fb6392f553
 canonical: 19818-curinde-caribbean-island-of-curacao-becoming-logistical-trade-hub.json
 ---
