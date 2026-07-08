@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923175426
 wayback_snapshot_url: "http://web.archive.org/web/20230923175426/https://cfi.co/menu/corporate/2022/06/ramon-martinez-carrera-a-sustained-upward-trajectory-ethical-strategy-proves-a-winner/"
+license: CFI-OAAL-1.0
 content_sha256: 11804960339e0ef2b28058277ac46778dbcdf93937875848e12b7a3d0749d12f
 canonical: 22227-ramon-martinez-a-sustained-upward-trajectory-ethical-strategy-proves-a-winner.json
 ---
