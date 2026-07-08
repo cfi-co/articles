@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200624174632
 wayback_snapshot_url: "http://web.archive.org/web/20200624174632/https://cfi.co/editors-picks/2018/09/kishore-mahbubani-the-pendulum-of-history/"
+license: CFI-OAAL-1.0
 content_sha256: 59d9ae67bbb1917d505321952b2080ff958fe22f745f6b54ce97832d07cadb19
 canonical: 12949-kishore-mahbubani-the-pendulum-of-history.json
 ---
