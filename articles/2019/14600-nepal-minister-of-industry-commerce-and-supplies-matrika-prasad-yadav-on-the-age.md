@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200414141435
 wayback_snapshot_url: "http://web.archive.org/web/20200414141435/https://cfi.co/asia-pacific/2019/01/nepal-minister-of-industry-commerce-and-supplies-matrika-prasad-yadav-on-the-agenda-for-prosperity-and-catching-global-attention/"
+license: CFI-OAAL-1.0
 content_sha256: 5bf1d32ab76411238a61ffabfc7fe9778cdddc5c467528e6710407ad34548478
 canonical: 14600-nepal-minister-of-industry-commerce-and-supplies-matrika-prasad-yadav-on-the-age.json
 ---
