@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191013213015
 wayback_snapshot_url: "http://web.archive.org/web/20191013213015/https://cfi.co/finance/2013/07/icc-on-rethinking-trade-and-finance/"
+license: CFI-OAAL-1.0
 content_sha256: be8a9240b78ecbee064b37bcfbf049eb71076db6d118d879cf25f5895f2bcfaf
 canonical: 4472-icc-on-rethinking-trade-and-finance.json
 ---
