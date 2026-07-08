@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220719122803
 wayback_snapshot_url: "http://web.archive.org/web/20220719122803/https://cfi.co/finance/2022/07/federal-realty-investment-trust-esg-pays-dividends-at-leading-real-estate-investment-trust/"
+license: CFI-OAAL-1.0
 content_sha256: a53edf5539bba3413c250d09f2ff39cd45ae3b29dd9610a4eef589ec15b9ae33
 canonical: 22419-federal-realty-investment-trust-esg-pays-dividends-at-leading-real-estate-invest.json
 ---
