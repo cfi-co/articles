@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720032226
 wayback_snapshot_url: "http://web.archive.org/web/20190720032226/https://cfi.co/northamerica/2018/11/evan-harvey-nasdaq-next-gen-esg-going-beyond-the-basics/"
+license: CFI-OAAL-1.0
 content_sha256: 3502dc892306db43e512179508891df8d281e7a24aec8e2d7272f0f57756818c
 canonical: 13257-evan-harvey-nasdaq-next-gen-esg-going-beyond-the-basics.json
 ---
