@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200919225100
 wayback_snapshot_url: "http://web.archive.org/web/20200919225100/https://cfi.co/corporate-leaders/2020/06/afp-confia-communication-and-transparency-vital-in-drive-to-meet-clients-pension-needs/"
+license: CFI-OAAL-1.0
 content_sha256: 43e54e71ab35e2d8a54b0a220ce2f35ac8b8361b1908be0acdda88f5315e93b0
 canonical: 15509-afp-confia-communication-and-transparency-vital-in-drive-to-meet-clients-pension.json
 ---
