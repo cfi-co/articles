@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230328135749
 wayback_snapshot_url: "http://web.archive.org/web/20230328135749/https://cfi.co/sustainability/2023/03/uncdf-secrets-to-easing-funding-process-for-less-wealthy-countries-climate-battle/"
+license: CFI-OAAL-1.0
 content_sha256: bb6d6ee97206320ab4e3faa22d0091e8034ec031ba5c5bbcb23e72c19e6d9c54
 canonical: 25041-uncdf-secrets-to-easing-funding-process-for-less-wealthy-countries-climate-battl.json
 ---
