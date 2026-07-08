@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724030216
 wayback_snapshot_url: "http://web.archive.org/web/20190724030216/https://cfi.co/europe/2015/08/godiva-chocolatier-whats-in-a-name/"
+license: CFI-OAAL-1.0
 content_sha256: 59d4e4447d96496057f2ca48602679c199f2241d970bda68a82478843e34d0c2
 canonical: 10405-godiva-chocolatier-whats-in-a-name.json
 ---
