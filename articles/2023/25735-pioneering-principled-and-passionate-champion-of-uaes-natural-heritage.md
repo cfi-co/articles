@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923185238
 wayback_snapshot_url: "http://web.archive.org/web/20230923185238/https://cfi.co/middleeast/2023/07/shaikha-salem-al-dhaheri-champion-of-uae-environment/"
+license: CFI-OAAL-1.0
 content_sha256: 608628a5ef0b9e9045b4357fc55d4296862afad2283803699c08ee106b4645ef
 canonical: 25735-pioneering-principled-and-passionate-champion-of-uaes-natural-heritage.json
 ---
