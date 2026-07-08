@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920112718
 wayback_snapshot_url: "http://web.archive.org/web/20210920112718/https://cfi.co/menu/corporate/2021/07/korosh-farazad-unconventional-experienced-and-continue-in-growing-the-brand/"
+license: CFI-OAAL-1.0
 content_sha256: 0c5deec174ea297fafcabb7ce35f105f56636c2c20d6fef9e68af57a16f25c55
 canonical: 19875-korosh-farazad-unconventional-experienced-and-continue-in-growing-the-brand.json
 ---
