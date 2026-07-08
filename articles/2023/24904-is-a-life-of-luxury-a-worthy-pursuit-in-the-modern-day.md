@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230315145618
 wayback_snapshot_url: "http://web.archive.org/web/20230315145618/https://cfi.co/lifestyle/2023/03/is-a-life-of-luxury-a-worthy-pursuit-in-the-modern-day/"
+license: CFI-OAAL-1.0
 content_sha256: ac64cd1522cf44a493f0985a1d1a55716d4b5c23adfaaebe83b0482e565092d0
 canonical: 24904-is-a-life-of-luxury-a-worthy-pursuit-in-the-modern-day.json
 ---
