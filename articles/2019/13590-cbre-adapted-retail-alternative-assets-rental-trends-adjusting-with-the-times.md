@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825094445
 wayback_snapshot_url: "http://web.archive.org/web/20190825094445/https://cfi.co/europe/2019/05/cbre-adapted-retail-alternative-assets-rental-trends-adjusting-with-the-times/"
+license: CFI-OAAL-1.0
 content_sha256: daa898ae8e8a25a126c686934c874184cca89ef80db5a44c57ae8d0a68943b16
 canonical: 13590-cbre-adapted-retail-alternative-assets-rental-trends-adjusting-with-the-times.json
 ---
