@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250706035553
 wayback_snapshot_url: "http://web.archive.org/web/20250706035553/https://cfi.co/europe/2025/06/net-zero-oecd-report-sets-the-record-straight-on-economic-benefits/"
+license: CFI-OAAL-1.0
 content_sha256: c2af1b08964f0f076720268303d249925826c16ceb8efc34d9df46960adc220e
 canonical: 27777-net-zero-oecd-report-sets-the-record-straight-on-economic-benefits.json
 ---
