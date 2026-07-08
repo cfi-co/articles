@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211105114045
 wayback_snapshot_url: "http://web.archive.org/web/20211105114045/https://cfi.co/c-19/2021/11/permanent-output-losses-from-the-pandemic/"
+license: CFI-OAAL-1.0
 content_sha256: 7b481c990e47e9243ad3566510de2aee134bb0eaa66f0a661014ebc52aa7bff9
 canonical: 20969-permanent-output-losses-from-the-pandemic.json
 ---
