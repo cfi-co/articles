@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021052202
 wayback_snapshot_url: "http://web.archive.org/web/20191021052202/https://cfi.co/editors-picks/2013/08/pepsicos-indra-nooyi-everything-with-purpose/"
+license: CFI-OAAL-1.0
 content_sha256: 003dc79c49893e38fd6c949ac5b658c924994cd2786e2fb1629b1d7166bb1052
 canonical: 4924-pepsicos-indra-nooyi-everything-with-purpose.json
 ---
