@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827150610
 wayback_snapshot_url: "http://web.archive.org/web/20140827150610/http://cfi.co/middleeast/2014/01/cfi-co-meets-the-ceo-of-dar-al-tamleek-yasser-abu-ateek/"
+license: CFI-OAAL-1.0
 content_sha256: 06b01259ada57db7da4d20b2586e8f8d755c9ce9409ec6a9635badded30e37a0
 canonical: 7286-cfi-co-meets-the-ceo-of-dar-al-tamleek-yasser-abu-ateek.json
 ---
