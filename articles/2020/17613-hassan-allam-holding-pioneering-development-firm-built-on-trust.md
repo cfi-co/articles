@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201128182220
 wayback_snapshot_url: "http://web.archive.org/web/20201128182220/https://cfi.co/africa/2020/10/hassan-allam-holding-pioneering-development-firm-built-on-trust/"
+license: CFI-OAAL-1.0
 content_sha256: 8181c1973caff26eead01403ec77d490ea79000366db80b3a3e780e07ff56355
 canonical: 17613-hassan-allam-holding-pioneering-development-firm-built-on-trust.json
 ---
