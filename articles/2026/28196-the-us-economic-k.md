@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260210041148
 wayback_snapshot_url: "http://web.archive.org/web/20260210041148/https://cfi.co/northamerica/2026/01/the-us-economic-k/"
+license: CFI-OAAL-1.0
 content_sha256: de5639a528068c65616ecfef812c514269dee791a747caa3892699017a5a26eb
 canonical: 28196-the-us-economic-k.json
 ---
