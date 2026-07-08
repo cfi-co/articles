@@ -19,6 +19,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260209002404
 wayback_snapshot_url: "http://web.archive.org/web/20260209002404/https://cfi.co/africa/2026/01/leadership-at-the-helm-of-kenyas-renewable-power-champion/"
+license: CFI-OAAL-1.0
 content_sha256: b2fef9f7605c5ba517ca0b22e2edd63632a1068423c37f7487671433c2b87d9b
 canonical: 28228-leadership-at-the-helm-of-kenyas-renewable-power-champion.json
 ---
