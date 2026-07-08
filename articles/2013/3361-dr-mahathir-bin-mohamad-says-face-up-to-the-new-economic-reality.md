@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717205738
 wayback_snapshot_url: "http://web.archive.org/web/20190717205738/https://cfi.co/asia-pacific/2013/03/dr-mahathir-bin-mohamad-says-face-up-to-the-new-economic-reality/"
+license: CFI-OAAL-1.0
 content_sha256: a69db910e0cd595e9ab139aa54bc590b605299daaab2ee0dbe8e6cc78cf995a7
 canonical: 3361-dr-mahathir-bin-mohamad-says-face-up-to-the-new-economic-reality.json
 ---
