@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200526114407
 wayback_snapshot_url: "http://web.archive.org/web/20200526114407/https://cfi.co/sustainability/2020/04/business-in-times-of-corona-the-lure-of-rustbelts-when-lean-is-no-longer-mean/"
+license: CFI-OAAL-1.0
 content_sha256: 3b94fefdb705f290dc9cd78cb7ac477df43006c55070d4957d27be860acb27a0
 canonical: 14781-business-in-times-of-corona-the-lure-of-rustbelts-when-lean-is-no-longer-mean.json
 ---
