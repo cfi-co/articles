@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625230032
 wayback_snapshot_url: "http://web.archive.org/web/20220625230032/https://cfi.co/menu/corporate/2021/10/cfi-financial-group-goal-of-becoming-the-investing-brand/"
+license: CFI-OAAL-1.0
 content_sha256: e3f783e3aadb65501bd8b72933907cb3f4445935d78ee47a9b27b72b91993e21
 canonical: 20855-cfi-financial-group-goal-of-becoming-the-investing-brand.json
 ---
