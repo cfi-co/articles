@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20131001081423
 wayback_snapshot_url: "http://web.archive.org/web/20131001081423/http://cfi.co/europe/2013/06/european-councils-president-herman-van-rompuy-unlocking-opportunities-for-growth-and-competitiveness/"
+license: CFI-OAAL-1.0
 content_sha256: 2590a398f52d9708186e44feca668914c721439fed2902a47e15b4d0c6d7e97f
 canonical: 4255-european-councils-president-herman-van-rompuy-unlocking-opportunities-for-growth.json
 ---
