@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210114063326
 wayback_snapshot_url: "http://web.archive.org/web/20210114063326/https://cfi.co/menu/corporate/2020/05/segurcaixa-adeslas-staying-one-step-ahead-in-world-of-health-insurance/"
+license: CFI-OAAL-1.0
 content_sha256: cd9f92b360b2dcd022a8953f6d826b9c03fa2c1dfdf80ccd87694a895fe4198c
 canonical: 15343-segurcaixa-adeslas-staying-one-step-ahead-in-world-of-health-insurance.json
 ---
