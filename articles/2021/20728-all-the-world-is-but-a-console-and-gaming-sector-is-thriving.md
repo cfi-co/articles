@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210927095856
 wayback_snapshot_url: "http://web.archive.org/web/20210927095856/https://cfi.co/c-19/2021/09/all-the-world-is-but-a-console-and-gaming-sector-is-thriving/"
+license: CFI-OAAL-1.0
 content_sha256: bfcc19e0128463c93fd0e3dd1f5af16cd068eebecbb004cb0ee66cd9b2997f27
 canonical: 20728-all-the-world-is-but-a-console-and-gaming-sector-is-thriving.json
 ---
