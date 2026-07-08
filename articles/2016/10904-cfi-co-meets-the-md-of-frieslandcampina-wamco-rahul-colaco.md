@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818134505
 wayback_snapshot_url: "http://web.archive.org/web/20190818134505/https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-md-of-frieslandcampina-wamco-rahul-colaco/"
+license: CFI-OAAL-1.0
 content_sha256: dfc68ceb50d7909bc2273bc482d78a71d640721f99803da813d9ebe44b487dba
 canonical: 10904-cfi-co-meets-the-md-of-frieslandcampina-wamco-rahul-colaco.json
 ---
