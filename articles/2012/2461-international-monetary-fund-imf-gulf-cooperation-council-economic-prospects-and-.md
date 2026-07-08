@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826125414
 wayback_snapshot_url: "http://web.archive.org/web/20140826125414/http://cfi.co/africa/2012/10/international-monetary-fund-imf-gulf-cooperation-council-economic-prospects-and-policy-challenges-for-the-gcc-countries/"
+license: CFI-OAAL-1.0
 content_sha256: 9f561b74d591c5cf890f26cd671628583f4d6ff255cf6b117004ab3d84fe802d
 canonical: 2461-international-monetary-fund-imf-gulf-cooperation-council-economic-prospects-and-.json
 ---
