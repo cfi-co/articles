@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231026205110
 wayback_snapshot_url: "http://web.archive.org/web/20231026205110/https://cfi.co/lifestyle/2023/10/the-oysters-gift-to-the-world-gods-tears-symbols-of-purity-and-mourning-wear-for-royalty/"
+license: CFI-OAAL-1.0
 content_sha256: 9b1ab0bf092d2da0fa9eb63c862d59687ff6f4c9c348d4ad99cc2ef1f0f28f16
 canonical: 26277-the-oysters-gift-to-the-world-gods-tears-symbols-of-purity-and-mourning-wear-for.json
 ---
