@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200514174007
 wayback_snapshot_url: "http://web.archive.org/web/20200514174007/https://cfi.co/editors-picks/2018/09/adrian-owen-brain-whisperer/"
+license: CFI-OAAL-1.0
 content_sha256: 3b69d24ca5a887ec714a554dd4509704ffe90a3bf4034e046782a4c1efca62cc
 canonical: 12952-adrian-owen-brain-whisperer.json
 ---
