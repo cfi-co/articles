@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240104222742
 wayback_snapshot_url: "http://web.archive.org/web/20240104222742/https://cfi.co/europe/2023/12/the-cornflake-revolution-how-breakfast-tv-became-a-staple-of-britains-mornings/"
+license: CFI-OAAL-1.0
 content_sha256: 26e31ec92a4b7bde5e52509cc19b777cf0a8bdb8aeea082ffa8cbd5b10a4f7ef
 canonical: 26518-the-cornflake-revolution-how-breakfast-tv-became-a-staple-of-britains-mornings.json
 ---
