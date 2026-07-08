@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140824223259
 wayback_snapshot_url: "http://web.archive.org/web/20140824223259/http://cfi.co/africa/2014/06/tanzania-could-create-many-new-jobs-by-harnessing-its-rapid-urban-expansion/"
+license: CFI-OAAL-1.0
 content_sha256: ca38e6f02338ba50b664531d9ab36ea3addc19365c733c951dd65fb3c7b36c61
 canonical: 7515-tanzania-could-create-many-new-jobs-by-harnessing-its-rapid-urban-expansion.json
 ---
