@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140328145528
 wayback_snapshot_url: "http://web.archive.org/web/20140328145528/http://cfi.co/banking/2013/10/siegmund-warburg-people-and-passion-first-profits-to-follow/"
+license: CFI-OAAL-1.0
 content_sha256: 50ef4332a4590e4f855003ec159f6a159d917775c9baf973fbd0d76173ca3527
 canonical: 5718-siegmund-warburg-people-and-passion-first-profits-to-follow.json
 ---
