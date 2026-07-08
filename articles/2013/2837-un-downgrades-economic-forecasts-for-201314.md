@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916045329
 wayback_snapshot_url: "http://web.archive.org/web/20190916045329/https://cfi.co/africa/2013/01/un-downgrades-economic-forecasts-for-201314/"
+license: CFI-OAAL-1.0
 content_sha256: 8e1ebbd86f6000aed8d09483ab7e0494a4d2ffd0b677bf83d58015de57bb9b00
 canonical: 2837-un-downgrades-economic-forecasts-for-201314.json
 ---
