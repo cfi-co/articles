@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045840
 wayback_snapshot_url: "http://web.archive.org/web/20190823045840/https://cfi.co/europe/2015/02/another-inconvenient-truth-vice-pays/"
+license: CFI-OAAL-1.0
 content_sha256: ab2a200f783b43205b5cfb22e433d0a94158d4c5040e891168718b9758424b60
 canonical: 8938-another-inconvenient-truth-vice-pays.json
 ---
