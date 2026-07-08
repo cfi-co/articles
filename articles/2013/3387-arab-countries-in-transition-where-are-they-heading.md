@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717212908
 wayback_snapshot_url: "http://web.archive.org/web/20190717212908/https://cfi.co/asia-pacific/2013/03/arab-countries-in-transition-where-are-they-heading/"
+license: CFI-OAAL-1.0
 content_sha256: 0c8db631c7ce702db402a05fafc1a8cf98f4a540b4799c2b38c96ec46ee7c486
 canonical: 3387-arab-countries-in-transition-where-are-they-heading.json
 ---
