@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720033233
 wayback_snapshot_url: "http://web.archive.org/web/20190720033233/https://cfi.co/finance/2011/12/where-to-invest-in-2012/"
+license: CFI-OAAL-1.0
 content_sha256: 82a44f739107d5e22f739b922bef4c4cad4ed23d69b4872fd130b0e6f8c0f8e0
 canonical: 133-where-to-invest-in-2012.json
 ---
