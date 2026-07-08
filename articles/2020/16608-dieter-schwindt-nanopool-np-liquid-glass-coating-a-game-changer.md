@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418062718
 wayback_snapshot_url: "http://web.archive.org/web/20210418062718/https://cfi.co/menu/corporate/2020/08/dieter-schwindt-nanopool-np-liquid-glass-coating-a-game-changer/"
+license: CFI-OAAL-1.0
 content_sha256: d9a4241b2a359f39a3e13d6bb3b48ae9e29ea550e2c8d7d90abfe99be845a59c
 canonical: 16608-dieter-schwindt-nanopool-np-liquid-glass-coating-a-game-changer.json
 ---
