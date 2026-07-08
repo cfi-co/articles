@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140704193649
 wayback_snapshot_url: "http://web.archive.org/web/20140704193649/http://cfi.co/finance/2013/01/unleashing-the-economic-potential-of-the-maghreb-the-role-of-foreign-investment/"
+license: CFI-OAAL-1.0
 content_sha256: ad8893c79dccd8996b57d41149d3ce1563f04c27626bee6be54464f391aebda2
 canonical: 2890-unleashing-the-economic-potential-of-the-maghreb-the-role-of-foreign-investment.json
 ---
