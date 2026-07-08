@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024218
 wayback_snapshot_url: "http://web.archive.org/web/20190724024218/https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-ceo-and-chairman-of-ffa-private-bank-jean-riachi/"
+license: CFI-OAAL-1.0
 content_sha256: 6e6bbdd322ed6ff48d3cfc7a3f0f6cb6f61abbc52e342ad9fef5b283b764d4a8
 canonical: 11924-cfi-co-meets-the-ceo-and-chairman-of-ffa-private-bank-jean-riachi.json
 ---
