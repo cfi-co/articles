@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230331131508
 wayback_snapshot_url: "http://web.archive.org/web/20230331131508/https://cfi.co/asia-pacific/2023/03/new-world-development-leading-disruptor-in-real-estate-industry/"
+license: CFI-OAAL-1.0
 content_sha256: 0cdfe21a62b91359038ef464c21f1e6a61e15853339f92d0a7bef86a65171a2f
 canonical: 25049-new-world-development-leading-disruptor-in-real-estate-industry.json
 ---
