@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720031916
 wayback_snapshot_url: "http://web.archive.org/web/20190720031916/https://cfi.co/latinamerica/2018/08/book-review-the-neighborhood-by-mario-vargas-llosa/"
+license: CFI-OAAL-1.0
 content_sha256: 2ec3f7a9d309338a8b348bc4b773c20655839b3bc394b3bd919cbb6705a2c1bd
 canonical: 12890-book-review-the-neighborhood-by-mario-vargas-llosa.json
 ---
