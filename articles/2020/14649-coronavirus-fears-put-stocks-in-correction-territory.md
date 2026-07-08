@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200511154434
 wayback_snapshot_url: "http://web.archive.org/web/20200511154434/https://cfi.co/sustainability/2020/03/coronavirus-fears-put-stocks-in-correction-territory/"
+license: CFI-OAAL-1.0
 content_sha256: fbee0cd58c110ccb50770982bf1948542afbd50f7901e89275f2d3ea699c08b2
 canonical: 14649-coronavirus-fears-put-stocks-in-correction-territory.json
 ---
