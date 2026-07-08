@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210509095722
 wayback_snapshot_url: "http://web.archive.org/web/20210509095722/https://cfi.co/menu/corporate/2021/04/shishir-poddar-tirupati-graphite-sustainability-is-the-buzz-word/"
+license: CFI-OAAL-1.0
 content_sha256: 2eceaf50745af1bed629403d67c97d0c528ae363e76330f515b9e926c870258b
 canonical: 19457-shishir-poddar-tirupati-graphite-sustainability-is-the-buzz-word.json
 ---
