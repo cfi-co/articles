@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221226145742
 wayback_snapshot_url: "http://web.archive.org/web/20221226145742/https://cfi.co/menu/corporate/2022/12/as-if-on-rails-the-innovation-driving-the-mtr-corporation/"
+license: CFI-OAAL-1.0
 content_sha256: d6c6923a60803470b7911ddb648ebaa8f1aa1cb7f146eb9f01f3b42dc6974795
 canonical: 24220-as-if-on-rails-the-innovation-driving-the-mtr-corporation.json
 ---
