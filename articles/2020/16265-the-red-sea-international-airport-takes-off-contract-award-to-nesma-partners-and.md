@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200813171857
 wayback_snapshot_url: "http://web.archive.org/web/20200813171857/https://cfi.co/middleeast/2020/07/the-red-sea-international-airport-takes-off-contract-award-to-nesma-partners-and-almabani/"
+license: CFI-OAAL-1.0
 content_sha256: 374647aac4434201432451597005afffe96ac973fb3b8755422df78db37e957e
 canonical: 16265-the-red-sea-international-airport-takes-off-contract-award-to-nesma-partners-and.json
 ---
