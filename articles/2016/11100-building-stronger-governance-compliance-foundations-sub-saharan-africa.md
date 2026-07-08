@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170918142128
 wayback_snapshot_url: "http://web.archive.org/web/20170918142128/http://cfi.co/africa/2016/04/building-stronger-governance-compliance-foundations-sub-saharan-africa/"
+license: CFI-OAAL-1.0
 content_sha256: 2928c055c9f0fe71f90a0a104bc05eb27e5c2d495bde3317d761fa1562da2815
 canonical: 11100-building-stronger-governance-compliance-foundations-sub-saharan-africa.json
 ---
