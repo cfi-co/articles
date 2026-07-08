@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200620090243
 wayback_snapshot_url: "http://web.archive.org/web/20200620090243/https://cfi.co/c-19/2020/04/making-sense-of-irrational-markets-and-conflicting-data/"
+license: CFI-OAAL-1.0
 content_sha256: e27c731e9a245d5ddc0459cedeb257f221800216c2c36f3384dac9a77b55bfae
 canonical: 14970-making-sense-of-irrational-markets-and-conflicting-data.json
 ---
