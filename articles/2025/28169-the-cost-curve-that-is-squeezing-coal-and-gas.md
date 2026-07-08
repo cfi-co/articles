@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260108125717
 wayback_snapshot_url: "http://web.archive.org/web/20260108125717/https://cfi.co/sustainability/2025/12/the-cost-curve-that-is-squeezing-coal-and-gas/"
+license: CFI-OAAL-1.0
 content_sha256: da3297414b884fb34cea8f7c96d8ff8534b1de529aed821a5217ddf707b26596
 canonical: 28169-the-cost-curve-that-is-squeezing-coal-and-gas.json
 ---
