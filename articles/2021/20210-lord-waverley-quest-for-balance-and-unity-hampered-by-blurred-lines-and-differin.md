@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210715112204
 wayback_snapshot_url: "http://web.archive.org/web/20210715112204/https://cfi.co/europe/2021/07/lord-waverley-quest-for-balance-and-unity-hampered-by-blurred-lines-and-differing-standards/"
+license: CFI-OAAL-1.0
 content_sha256: 7caed6306e200b2be0761756d8879f0b6ea97e57c1f74fc3def06b977064f608
 canonical: 20210-lord-waverley-quest-for-balance-and-unity-hampered-by-blurred-lines-and-differin.json
 ---
