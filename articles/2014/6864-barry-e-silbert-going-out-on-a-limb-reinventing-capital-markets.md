@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826130539
 wayback_snapshot_url: "http://web.archive.org/web/20140826130539/http://cfi.co/finance/2014/03/barry-e-silbert-going-out-on-a-limb-reinventing-capital-markets/"
+license: CFI-OAAL-1.0
 content_sha256: 5fd5d5e8b95b5875c92cbb79acdf28e716abba73153614c94cb79882b26885f4
 canonical: 6864-barry-e-silbert-going-out-on-a-limb-reinventing-capital-markets.json
 ---
