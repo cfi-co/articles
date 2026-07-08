@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132706
 wayback_snapshot_url: "http://web.archive.org/web/20190818132706/https://cfi.co/europe/2013/01/europe-as-solution-facts-and-myths/"
+license: CFI-OAAL-1.0
 content_sha256: 0183eda7cfe99bdd3c04ca54ece410ef40b54108199fcf83657d9ae51595557f
 canonical: 2928-europe-as-solution-facts-and-myths.json
 ---
