@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191013203449
 wayback_snapshot_url: "http://web.archive.org/web/20191013203449/https://cfi.co/corporate-leaders/2013/07/cfi-co-meets-dr-avigdor-klagsbald/"
+license: CFI-OAAL-1.0
 content_sha256: 0763ded233e09a30654da09d9f087a4d0f877ee7bcda61d9640a55b40527a11f
 canonical: 4903-cfi-co-meets-dr-avigdor-klagsbald.json
 ---
