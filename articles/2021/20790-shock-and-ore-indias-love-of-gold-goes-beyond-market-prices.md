@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211012143121
 wayback_snapshot_url: "http://web.archive.org/web/20211012143121/https://cfi.co/c-19/2021/10/shock-and-ore-indias-love-of-gold-goes-beyond-market-prices/"
+license: CFI-OAAL-1.0
 content_sha256: 6b723a99eddd3cf171d1a6a3daaefe4f03d11d05457578befc3fc9865fd7686b
 canonical: 20790-shock-and-ore-indias-love-of-gold-goes-beyond-market-prices.json
 ---
