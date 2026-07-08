@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923184937
 wayback_snapshot_url: "http://web.archive.org/web/20230923184937/https://cfi.co/middleeast/2023/07/environment-agency-abu-dhabi/"
+license: CFI-OAAL-1.0
 content_sha256: 7cf65c4e02f40ca5d61132f0e1c6c334f714db7e7b34c23088d0f99a51143db8
 canonical: 25737-conservation-efforts-working-in-harmony-with-economic-growth.json
 ---
