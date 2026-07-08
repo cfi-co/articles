@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220525153520
 wayback_snapshot_url: "http://web.archive.org/web/20220525153520/https://cfi.co/menu/corporate/2022/05/jurgen-eichner-vision-of-via-optronics-boss-takes-company-on-whirlwind-trajectory/"
+license: CFI-OAAL-1.0
 content_sha256: ab0ec7d2604b307e0a49d76e5c54091f66b84da9f26bf1e92fc49c9695414b48
 canonical: 22010-jurgen-eichner-vision-of-via-optronics-boss-takes-company-on-whirlwind-trajector.json
 ---
