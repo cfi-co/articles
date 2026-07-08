@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240324052348
 wayback_snapshot_url: "http://web.archive.org/web/20240324052348/https://cfi.co/europe/2024/02/esg-leadership-trends-from-woke-capitalism-to-quiet-sustainability/"
+license: CFI-OAAL-1.0
 content_sha256: e58e96f6349986023b334e8c11cfa110c2e4a71853960f6862b1d39e4e500fb5
 canonical: 26694-esg-leadership-trends-from-woke-capitalism-to-quiet-sustainability.json
 ---
