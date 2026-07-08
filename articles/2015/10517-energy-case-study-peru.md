@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20171004173145
 wayback_snapshot_url: "http://web.archive.org/web/20171004173145/http://cfi.co/latinamerica/2015/10/energy-case-study-peru/"
+license: CFI-OAAL-1.0
 content_sha256: fafdefd8abdbff98b9040f9b18f829fe66af12295c3b621845542b068062de85
 canonical: 10517-energy-case-study-peru.json
 ---
