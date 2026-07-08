@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720180533
 wayback_snapshot_url: "http://web.archive.org/web/20190720180533/https://cfi.co/asia-pacific/2013/05/improved-resource-efficiency-is-key-to-asia-pacific-progress/"
+license: CFI-OAAL-1.0
 content_sha256: d502dfd830f29f44f0d2c344d4750b6ef68ae4627ebdc0ad8bbe3c9fa6d39338
 canonical: 3786-improved-resource-efficiency-is-key-to-asia-pacific-progress.json
 ---
