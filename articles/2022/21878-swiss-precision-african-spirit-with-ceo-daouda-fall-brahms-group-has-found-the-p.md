@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625233906
 wayback_snapshot_url: "http://web.archive.org/web/20220625233906/https://cfi.co/menu/corporate/2022/05/swiss-precision-african-spirit-with-ceo-daouda-fall-brahms-group-has-found-the-perfect-balance/"
+license: CFI-OAAL-1.0
 content_sha256: 8722405d2be049ffd0188566f466d5b14db74fd7dfbcd9c09ece71920f0cec74
 canonical: 21878-swiss-precision-african-spirit-with-ceo-daouda-fall-brahms-group-has-found-the-p.json
 ---
