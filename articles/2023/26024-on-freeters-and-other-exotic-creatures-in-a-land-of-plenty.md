@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923163359
 wayback_snapshot_url: "http://web.archive.org/web/20230923163359/https://cfi.co/brave-new-world/2023/09/on-freeters-and-other-exotic-creatures-in-a-land-of-plenty/"
+license: CFI-OAAL-1.0
 content_sha256: ca5ac96e6564ba05dae97cd090f1061f8fdf1d01308c8f289439624182ed7d2f
 canonical: 26024-on-freeters-and-other-exotic-creatures-in-a-land-of-plenty.json
 ---
