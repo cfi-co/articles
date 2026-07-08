@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150204031440
 wayback_snapshot_url: "http://web.archive.org/web/20150204031440/http://cfi.co/technology/2014/12/swift-enters-into-real-time-retail-domestic-payments/"
+license: CFI-OAAL-1.0
 content_sha256: 9f9752ad3c377d7d592e922eb5fa0cb9d12a0e414627ee5897ed88c73bf2449e
 canonical: 8480-swift-enters-into-real-time-retail-domestic-payments.json
 ---
