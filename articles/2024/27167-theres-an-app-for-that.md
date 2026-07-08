@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240925131548
 wayback_snapshot_url: "http://web.archive.org/web/20240925131548/https://cfi.co/technology/2024/09/theres-an-app-for-that/"
+license: CFI-OAAL-1.0
 content_sha256: 35676e2240cb31617cd7ac73d68f81e4f099a5ba710abd6bcf7753c182ffd736
 canonical: 27167-theres-an-app-for-that.json
 ---
