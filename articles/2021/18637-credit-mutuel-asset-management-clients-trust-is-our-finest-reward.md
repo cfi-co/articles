@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418054807
 wayback_snapshot_url: "http://web.archive.org/web/20210418054807/https://cfi.co/menu/corporate/2021/02/credit-mutuel-asset-management-clients-trust-is-our-finest-reward/"
+license: CFI-OAAL-1.0
 content_sha256: ae9fcfcff936da1b3d9ffda11cf42f3d61352817ad58525e4cd7144f9fdac645
 canonical: 18637-credit-mutuel-asset-management-clients-trust-is-our-finest-reward.json
 ---
