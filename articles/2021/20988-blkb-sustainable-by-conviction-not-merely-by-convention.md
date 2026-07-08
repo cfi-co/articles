@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625231718
 wayback_snapshot_url: "http://web.archive.org/web/20220625231718/https://cfi.co/menu/corporate/2021/11/blkb-sustainable-by-conviction-not-merely-by-convention/"
+license: CFI-OAAL-1.0
 content_sha256: e2bb079cc2b5b97066671c12491030fae4a57fa314c53e1546e266944a42ad82
 canonical: 20988-blkb-sustainable-by-conviction-not-merely-by-convention.json
 ---
