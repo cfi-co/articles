@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211103085128
 wayback_snapshot_url: "http://web.archive.org/web/20211103085128/https://cfi.co/finance/2021/11/why-even-the-most-profit-centered-businesses-should-care-about-esg-issues/"
+license: CFI-OAAL-1.0
 content_sha256: 3083b36b64ab5fe65fe1f029a99e82d1dce282c81b55c8e08b9e3ccda914bf51
 canonical: 20941-why-even-the-most-profit-centered-businesses-should-care-about-esg-issues.json
 ---
