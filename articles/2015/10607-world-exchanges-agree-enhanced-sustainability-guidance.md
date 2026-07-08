@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818053414
 wayback_snapshot_url: "http://web.archive.org/web/20190818053414/https://cfi.co/finance/2015/11/world-exchanges-agree-enhanced-sustainability-guidance/"
+license: CFI-OAAL-1.0
 content_sha256: eba2cd50e9257721ac344956fff747d9f43f170893853ed052a2eb2f4559dd4c
 canonical: 10607-world-exchanges-agree-enhanced-sustainability-guidance.json
 ---
