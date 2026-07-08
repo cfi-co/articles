@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220715113050
 wayback_snapshot_url: "http://web.archive.org/web/20220715113050/https://cfi.co/europe/2022/07/bluerocks-ronny-pifko-a-solid-strategy-built-on-strong-foundations/"
+license: CFI-OAAL-1.0
 content_sha256: f05dd81e4be93af4c4d81a8fd8eec8560a080f76960b016b140f5e2d11f47124
 canonical: 22351-bluerocks-ronny-pifko-a-solid-strategy-built-on-strong-foundations.json
 ---
