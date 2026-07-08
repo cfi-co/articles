@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818134301
 wayback_snapshot_url: "http://web.archive.org/web/20190818134301/https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-first-registrars-and-investor-services-bayo-olugbemi-fcib-fcmr/"
+license: CFI-OAAL-1.0
 content_sha256: 02f7e510bbead56266fc6765cc3ce33a7a90b2d6885e0bfb4cd456abfd5bc613
 canonical: 10894-cfi-co-meets-the-ceo-of-first-registrars-and-investor-services-bayo-olugbemi-fci.json
 ---
