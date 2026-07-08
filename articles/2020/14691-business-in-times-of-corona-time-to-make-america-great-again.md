@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200422142340
 wayback_snapshot_url: "http://web.archive.org/web/20200422142340/https://cfi.co/sustainability/2020/03/business-in-times-of-corona-time-to-make-america-great-again/"
+license: CFI-OAAL-1.0
 content_sha256: 6c3cd67e34cadfa7dd3b47822143b8b358d82ec0a9dd17650b62d4b81a0377cc
 canonical: 14691-business-in-times-of-corona-time-to-make-america-great-again.json
 ---
