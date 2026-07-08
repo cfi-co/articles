@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818051906
 wayback_snapshot_url: "http://web.archive.org/web/20190818051906/https://cfi.co/banking/2012/07/itau-unibanco-forms-jv-with-banco-bmg/"
+license: CFI-OAAL-1.0
 content_sha256: 0966dbd91f3f3aa12089ef887fbb4dea56775c8183319fbd95a60a95323b66c3
 canonical: 1027-itau-unibanco-forms-jv-with-banco-bmg.json
 ---
