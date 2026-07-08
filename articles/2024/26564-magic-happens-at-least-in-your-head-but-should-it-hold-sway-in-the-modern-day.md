@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240105000031
 wayback_snapshot_url: "http://web.archive.org/web/20240105000031/https://cfi.co/lifestyle/2024/01/magic-happens-at-least-in-your-head-but-should-it-hold-sway-in-the-modern-day/"
+license: CFI-OAAL-1.0
 content_sha256: e7dc5350534b8d1dcdc83e7352b951765ff2723210bd2cc62046f448f46720bb
 canonical: 26564-magic-happens-at-least-in-your-head-but-should-it-hold-sway-in-the-modern-day.json
 ---
