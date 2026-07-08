@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050829
 wayback_snapshot_url: "http://web.archive.org/web/20190818050829/https://cfi.co/asia-pacific/2013/08/bangladesh-steadily-moving-up-without-beating-the-drum/"
+license: CFI-OAAL-1.0
 content_sha256: 594fd140f237730e4133e3da63a3d65878766db9e366ffa0b8ac96f2ede3f4c3
 canonical: 5118-bangladesh-steadily-moving-up-without-beating-the-drum.json
 ---
