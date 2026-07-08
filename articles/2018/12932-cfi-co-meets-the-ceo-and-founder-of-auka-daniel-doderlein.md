@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724092426
 wayback_snapshot_url: "http://web.archive.org/web/20190724092426/https://cfi.co/corporate-leaders/2018/09/cfi-co-meets-the-ceo-and-founder-of-auka-daniel-doderlein/"
+license: CFI-OAAL-1.0
 content_sha256: dc4a1058b8c019503cfcc8ba4042dc7ea991974e87e07fdc4b243169f461b189
 canonical: 12932-cfi-co-meets-the-ceo-and-founder-of-auka-daniel-doderlein.json
 ---
