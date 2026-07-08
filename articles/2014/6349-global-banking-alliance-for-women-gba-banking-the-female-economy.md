@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327091819
 wayback_snapshot_url: "http://web.archive.org/web/20140327091819/http://cfi.co/banking/2014/01/global-banking-alliance-for-women-gba-banking-the-female-economy/"
+license: CFI-OAAL-1.0
 content_sha256: 7dfd938374f81c334962bd2aea7603630de3454631f645258f4fbea588e18b47
 canonical: 6349-global-banking-alliance-for-women-gba-banking-the-female-economy.json
 ---
