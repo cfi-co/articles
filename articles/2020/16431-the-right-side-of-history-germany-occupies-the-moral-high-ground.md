@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810074636
 wayback_snapshot_url: "http://web.archive.org/web/20200810074636/https://cfi.co/c-19/2020/07/the-right-side-of-history-germany-occupies-the-moral-high-ground/"
+license: CFI-OAAL-1.0
 content_sha256: ba7b535cf92ca93215fbe1de747bb1fbb2730d8046fc76cfe777183ff0ae402f
 canonical: 16431-the-right-side-of-history-germany-occupies-the-moral-high-ground.json
 ---
