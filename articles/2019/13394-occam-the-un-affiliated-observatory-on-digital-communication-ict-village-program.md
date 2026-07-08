@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190130164735
 wayback_snapshot_url: "http://web.archive.org/web/20190130164735/https://cfi.co/projects/2019/01/occam-the-un-affiliated-observatory-on-digital-communication-ict-village-programme-impact-in-stark-contrast-to-wealth-and-aid/"
+license: CFI-OAAL-1.0
 content_sha256: a1af710d3689aa8bdcd2e6a876dff7c23308b89b838cc526d5b0073ee08023b5
 canonical: 13394-occam-the-un-affiliated-observatory-on-digital-communication-ict-village-program.json
 ---
