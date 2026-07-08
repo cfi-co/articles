@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180705175959
 wayback_snapshot_url: "http://web.archive.org/web/20180705175959/http://cfi.co/europe/2015/01/the-new-global-context-uncertainty-unveiled/"
+license: CFI-OAAL-1.0
 content_sha256: 8e32e1b9b53a24fbde5b00d842f9f0a3a3fbc9bafffc035a52c11dfcfbdfb944
 canonical: 8786-the-new-global-context-uncertainty-unveiled.json
 ---
