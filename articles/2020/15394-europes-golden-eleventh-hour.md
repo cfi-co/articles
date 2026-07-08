@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920192849
 wayback_snapshot_url: "http://web.archive.org/web/20200920192849/https://cfi.co/c-19/2020/05/europes-golden-eleventh-hour/"
+license: CFI-OAAL-1.0
 content_sha256: f0b88501ed96c69bff87510e1228e3f04db96349ccc29f74745f4ee0d58dd18e
 canonical: 15394-europes-golden-eleventh-hour.json
 ---
