@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823052703
 wayback_snapshot_url: "http://web.archive.org/web/20190823052703/https://cfi.co/finance/2012/05/worldpensionsummit-2012/"
+license: CFI-OAAL-1.0
 content_sha256: 3295ad38f00922c09605f891675712e911207122a251ef3b27b7a5ea39d83b4d
 canonical: 389-worldpensionsummit-2012.json
 ---
