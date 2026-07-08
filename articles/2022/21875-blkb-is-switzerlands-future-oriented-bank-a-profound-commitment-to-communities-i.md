@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625232555
 wayback_snapshot_url: "http://web.archive.org/web/20220625232555/https://cfi.co/menu/corporate/2022/05/blkb-is-switzerlands-future-oriented-bank-a-profound-commitment-to-communities-in-the-region/"
+license: CFI-OAAL-1.0
 content_sha256: 07035dfd64f8cfc49daa12582e786d03082e0820ac7757a7c917f096ff0d375f
 canonical: 21875-blkb-is-switzerlands-future-oriented-bank-a-profound-commitment-to-communities-i.json
 ---
