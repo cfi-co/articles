@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210615142646
 wayback_snapshot_url: "http://web.archive.org/web/20210615142646/https://cfi.co/technology/2021/06/jamie-smith-champion-of-tech-that-keeps-crypto-functioning-was-once-in-the-doubters-camp-herself/"
+license: CFI-OAAL-1.0
 content_sha256: e037d7ab2f5464f2abaefd998c26653bf466debc607f6e9851ab7ec6b972ea75
 canonical: 19852-jamie-smith-champion-of-tech-that-keeps-crypto-functioning-was-once-in-the-doubt.json
 ---
