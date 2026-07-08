@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190917025221
 wayback_snapshot_url: "http://web.archive.org/web/20190917025221/https://cfi.co/asia-pacific/2014/06/world-bank-supports-sme-development-with-focus-on-financial-reporting-in-europe-and-central-asia/"
+license: CFI-OAAL-1.0
 content_sha256: bc88467fb0eaa97dd98586085866994b037d2ecdcf1754a499e527ea05937582
 canonical: 7389-world-bank-supports-sme-development-with-focus-on-financial-reporting-in-europe-.json
 ---
