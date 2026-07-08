@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916085327
 wayback_snapshot_url: "http://web.archive.org/web/20190916085327/https://cfi.co/finance/2015/01/otaviano-canuto-world-bank-group-navigating-brazils-path-to-growth/"
+license: CFI-OAAL-1.0
 content_sha256: 721a46a7d7056be9ad203541e131ea88d613aba2c5eeed931fc301f7becb86a0
 canonical: 8628-otaviano-canuto-world-bank-group-navigating-brazils-path-to-growth.json
 ---
