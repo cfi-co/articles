@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230130140500
 wayback_snapshot_url: "http://web.archive.org/web/20230130140500/https://cfi.co/banking/2023/01/wing-bank-ceo-invests-in-his-staff-better-people-better-organisations/"
+license: CFI-OAAL-1.0
 content_sha256: 7979d7b395083d4d7ccf3fad88dfe54f64c74a026b1b62d174223fd2fc2892d8
 canonical: 24675-wing-bank-ceo-invests-in-his-staff-better-people-better-organisations.json
 ---
