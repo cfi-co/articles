@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200813172059
 wayback_snapshot_url: "http://web.archive.org/web/20200813172059/https://cfi.co/corporate-leaders/2018/07/cfi-co-meets-the-banque-de-developpement-de-guinee-management-banking-for-nation-building/"
+license: CFI-OAAL-1.0
 content_sha256: 0af6809e22127be57a2967185e5aadd760633b4c8808fbbdfa23ffde084fc998
 canonical: 12941-cfi-co-meets-the-banque-de-developpement-de-guinee-management-banking-for-nation.json
 ---
