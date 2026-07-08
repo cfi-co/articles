@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220209134450
 wayback_snapshot_url: "http://web.archive.org/web/20220209134450/https://cfi.co/menu/corporate/2022/02/active-re-reaps-benefits-of-being-an-early-adopter-with-juan-antonio-nino/"
+license: CFI-OAAL-1.0
 content_sha256: f2eccdae1efdfc88c35abec3105d3ed4637e52a7004c9b7fbe5142d045b3081b
 canonical: 21545-active-re-reaps-benefits-of-being-an-early-adopter-with-juan-antonio-nino.json
 ---
