@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418061134
 wayback_snapshot_url: "http://web.archive.org/web/20210418061134/https://cfi.co/menu/corporate/2020/06/cfi-co-introduces-cfi-financial-group-no-relation-but-a-shared-set-of-values/"
+license: CFI-OAAL-1.0
 content_sha256: a9afddeda25f0ff0801115e1dc64d5488bb2bac23ab5511be2bda4f86319089a
 canonical: 15605-cfi-co-introduces-cfi-financial-group-no-relation-but-a-shared-set-of-values.json
 ---
