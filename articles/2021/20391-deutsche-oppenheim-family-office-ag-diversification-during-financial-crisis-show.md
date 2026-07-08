@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625220818
 wayback_snapshot_url: "http://web.archive.org/web/20220625220818/https://cfi.co/menu/corporate/2021/08/deutsche-oppenheim-family-office-ag-diversification-during-financial-crisis-showing-dividends-for-family-office/"
+license: CFI-OAAL-1.0
 content_sha256: fb19cd62089b7a304bc98dc83b44aa6b93baada05ad89fe22a892b0c7f69d637
 canonical: 20391-deutsche-oppenheim-family-office-ag-diversification-during-financial-crisis-show.json
 ---
