@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823051430
 wayback_snapshot_url: "http://web.archive.org/web/20190823051430/https://cfi.co/lifestyle/2015/02/ahmed-emad-eldin-resonating-with-pink-floyd/"
+license: CFI-OAAL-1.0
 content_sha256: 769c9fa1c06ee10aec9015f57ed2009fa8e0aaff77938f8b9a2d6602b5612d08
 canonical: 9116-ahmed-emad-eldin-resonating-with-pink-floyd.json
 ---
