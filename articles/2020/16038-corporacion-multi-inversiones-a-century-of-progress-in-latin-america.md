@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422015620
 wayback_snapshot_url: "http://web.archive.org/web/20210422015620/https://cfi.co/latinamerica/2020/05/corporacion-multi-inversiones-a-century-of-progress-in-latin-america/"
+license: CFI-OAAL-1.0
 content_sha256: 7b4d365824c7657449ab8b6888fa7eba14e254156f18b162a4dd4c6e17c9391f
 canonical: 16038-corporacion-multi-inversiones-a-century-of-progress-in-latin-america.json
 ---
