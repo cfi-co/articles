@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720032256
 wayback_snapshot_url: "http://web.archive.org/web/20190720032256/https://cfi.co/middleeast/2011/12/j-p-morgan-on-egypt-parliamentary-elections-passed-first-test/"
+license: CFI-OAAL-1.0
 content_sha256: ed3ad0a29fa65e8e7db526bfde68c7e61d076cf8eb8484746531cdc50740adf0
 canonical: 155-j-p-morgan-on-egypt-parliamentary-elections-passed-first-test.json
 ---
