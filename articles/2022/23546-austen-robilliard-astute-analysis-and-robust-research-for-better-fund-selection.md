@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221004054322
 wayback_snapshot_url: "http://web.archive.org/web/20221004054322/https://cfi.co/menu/corporate/2022/09/austen-robilliard-astute-analysis-and-robust-research-for-better-fund-selection/"
+license: CFI-OAAL-1.0
 content_sha256: 24893241a1dec600d8343258bfae83c5851c194c014476e012a2ac923fb771df
 canonical: 23546-austen-robilliard-astute-analysis-and-robust-research-for-better-fund-selection.json
 ---
