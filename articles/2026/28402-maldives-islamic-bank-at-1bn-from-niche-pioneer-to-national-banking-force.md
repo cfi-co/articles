@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524045335
 wayback_snapshot_url: "http://web.archive.org/web/20260524045335/https://cfi.co/banking/2026/04/maldives-islamic-bank-at-1bn-from-niche-pioneer-to-national-banking-force/"
+license: CFI-OAAL-1.0
 content_sha256: 92929722b6bfe8e5480f591c6ad104d866a1dcff753868bcf84faa8049c0c416
 canonical: 28402-maldives-islamic-bank-at-1bn-from-niche-pioneer-to-national-banking-force.json
 ---
