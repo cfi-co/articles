@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190723005620",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190723005620/https://cfi.co/awards/north-america/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190723005620/https://cfi.co/awards/north-america/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>Mercury Capital Advisors Group have perfected flat management within the company, creating a team where everyone takes responsibility for their actions and strives to exceed expectations. The CFI.co Judging Panel felt that through an emphasis on teamwork, Mercury Capital Advisors Group have been able to leverage the nearly three centuries of combined experience to deliver an impressive track record.</strong></p>\r\n<p style=\"text-align: justify;\">The company has effectively used both internal and external feedback to foster and develop skills, entrepreneurial spirit, and maintain strong relationships and understanding with all stakeholders.</p>\r\n<p style=\"text-align: justify;\">Mercury Capital Advisors Group has created an extended family that makes for a winning approach when it comes to the globalised world of fundraising, ensuring that clients enjoy excellent access to institutional investors across the world.</p>\r\n<p style=\"text-align: justify;\">With an unwavering belief in teamwork, Mercury Capital Advisors Group has amply demonstrated that the power of the group – and the highly effective use of its collective knowledge and experience – makes for a winning approach. It gives the CFI.co Judges particular pleasure to recognise Mercury Capital Advisors Group as the Best Fund Raising Team Global 2014.</p>",
     "content_sha256": "d969730f1db0552245a71a0aaf3d64aa5f7348eced363e34fcc30842a61653b5",
-    "record_sha256": "cfbe383572bc89be66f6e0eebb9dc4acb4d7aad936a3056d849130ee5d251b6c"
+    "record_sha256": "8f01d2357d42fb8a848276c554ff5b416e6915f8b00f84d4bfa2ecca74f50283"
 }

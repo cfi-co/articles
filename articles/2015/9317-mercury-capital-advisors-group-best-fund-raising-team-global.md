@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723005620
 wayback_snapshot_url: "http://web.archive.org/web/20190723005620/https://cfi.co/awards/north-america/"
+license: CFI-OAAL-1.0
 content_sha256: d969730f1db0552245a71a0aaf3d64aa5f7348eced363e34fcc30842a61653b5
 canonical: 9317-mercury-capital-advisors-group-best-fund-raising-team-global.json
 ---
