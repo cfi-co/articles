@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200921035101
 wayback_snapshot_url: "http://web.archive.org/web/20200921035101/https://cfi.co/editors-picks/2018/05/khaira-arby-fighting-jihadists-with-music/"
+license: CFI-OAAL-1.0
 content_sha256: 3013f66be322fc02b5d09421fba2f94ac634f7a17fbb6abe3afccd1f663c9450
 canonical: 12518-khaira-arby-fighting-jihadists-with-music.json
 ---
