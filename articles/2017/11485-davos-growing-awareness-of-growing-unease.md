@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720180938
 wayback_snapshot_url: "http://web.archive.org/web/20190720180938/https://cfi.co/banking/2017/01/davos-growing-awareness-of-growing-unease/"
+license: CFI-OAAL-1.0
 content_sha256: 8005373dfb9f83fa399b2ac61ca2062384ede7c1fad51ee3b74c8e01e62e4c6a
 canonical: 11485-davos-growing-awareness-of-growing-unease.json
 ---
