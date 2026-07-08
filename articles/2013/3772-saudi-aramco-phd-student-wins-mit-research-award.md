@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826173709
 wayback_snapshot_url: "http://web.archive.org/web/20140826173709/http://cfi.co/northamerica/2013/04/saudi-aramco-phd-student-wins-mit-research-award/"
+license: CFI-OAAL-1.0
 content_sha256: 5463c8438063939fb303bcb62abdf7827124d9da0b5f40b49cf5890249cd969a
 canonical: 3772-saudi-aramco-phd-student-wins-mit-research-award.json
 ---
