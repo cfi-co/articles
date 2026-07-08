@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140328160027
 wayback_snapshot_url: "http://web.archive.org/web/20140328160027/http://cfi.co/banking/2013/11/maha-al-ghunaim-enterprising-ladies-investing-in-future-entrepreneurs/"
+license: CFI-OAAL-1.0
 content_sha256: 13990b94f474e711a33b6487d9ab1fe9f91877010486df65c51187276d08c23d
 canonical: 5723-maha-al-ghunaim-enterprising-ladies-investing-in-future-entrepreneurs.json
 ---
