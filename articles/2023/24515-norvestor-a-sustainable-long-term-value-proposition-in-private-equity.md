@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330021454
 wayback_snapshot_url: "http://web.archive.org/web/20230330021454/https://cfi.co/europe/2023/01/norvestor-a-sustainable-long-term-value-proposition-in-private-equity/"
+license: CFI-OAAL-1.0
 content_sha256: feb4f17d15e1138884a728ead93cd00c207a17c81ef78e4cd8ecc3e5331b369d
 canonical: 24515-norvestor-a-sustainable-long-term-value-proposition-in-private-equity.json
 ---
