@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721111736
 wayback_snapshot_url: "http://web.archive.org/web/20190721111736/https://cfi.co/europe/2013/08/alison-cooper-calls-for-realistic-and-intelligent-targets/"
+license: CFI-OAAL-1.0
 content_sha256: f0eb318084d5d014ac0d8d001c12aedaf901e8073dc4fd959a4a4871a53a57d9
 canonical: 5012-alison-cooper-calls-for-realistic-and-intelligent-targets.json
 ---
