@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021051602
 wayback_snapshot_url: "http://web.archive.org/web/20191021051602/https://cfi.co/africa/2013/08/africapitalism-a-way-to-unleash-africas-potential/"
+license: CFI-OAAL-1.0
 content_sha256: ed6086efed9f8fe58e7104b62d92d58ac9fe0aae0a80a687d71d867bad7bb917
 canonical: 5023-africapitalism-a-way-to-unleash-africas-potential.json
 ---
