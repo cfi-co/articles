@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251014090357
 wayback_snapshot_url: "http://web.archive.org/web/20251014090357/https://cfi.co/europe/2025/10/technology-with-a-human-touch-segurcaixa-adeslas-reinforces-its-market-leadership-through-innovation/"
+license: CFI-OAAL-1.0
 content_sha256: a43a046f545b489938e7da242f79be7011c022db96ddbdd73383ad5a5d823c31
 canonical: 27991-technology-with-a-human-touch-segurcaixa-adeslas-reinforces-its-market-leadershi.json
 ---
