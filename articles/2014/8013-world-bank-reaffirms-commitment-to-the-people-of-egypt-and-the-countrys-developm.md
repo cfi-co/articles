@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014230950
 wayback_snapshot_url: "http://web.archive.org/web/20191014230950/https://cfi.co/banking/2014/09/world-bank-reaffirms-commitment-to-the-people-of-egypt-and-the-countrys-development-priorities/"
+license: CFI-OAAL-1.0
 content_sha256: 627cebd19a84cfc63364c3533e05260dfcb518ebca1a4112f029f73d9aab9e53
 canonical: 8013-world-bank-reaffirms-commitment-to-the-people-of-egypt-and-the-countrys-developm.json
 ---
