@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220528110455
 wayback_snapshot_url: "http://web.archive.org/web/20220528110455/https://cfi.co/brave-new-world/2022/01/no-gloating-on-first-anniversary-of-dc-riots-misguided-republican-anger-at-a-beneficial-electoral-system/"
+license: CFI-OAAL-1.0
 content_sha256: b32ce2c77c4fdd13035475a1a27b416503ef460ef97f3ced2c559ad78a607283
 canonical: 21435-no-gloating-on-first-anniversary-of-dc-riots-misguided-republican-anger-at-a-ben.json
 ---
