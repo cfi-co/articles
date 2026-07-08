@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920102305
 wayback_snapshot_url: "http://web.archive.org/web/20210920102305/https://cfi.co/menu/corporate/2021/07/scottish-friendly-being-the-friend-that-everyone-needs-in-times-of-trouble/"
+license: CFI-OAAL-1.0
 content_sha256: 5494afd37bd3d0a5cd6f1c514e03adfcc0886fc8472c0689fb0ef16fdaf8659f
 canonical: 19922-scottish-friendly-being-the-friend-that-everyone-needs-in-times-of-trouble.json
 ---
