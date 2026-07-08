@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050607
 wayback_snapshot_url: "http://web.archive.org/web/20190818050607/https://cfi.co/latinamerica/2015/03/brazil-arrest-of-fraudsters-decreases-deforestation-rate/"
+license: CFI-OAAL-1.0
 content_sha256: ab4c7fbc3316caad3f88cd34f8bd412d245677e28a1187ef8bbdb59b7e3b6784
 canonical: 9398-brazil-arrest-of-fraudsters-decreases-deforestation-rate.json
 ---
