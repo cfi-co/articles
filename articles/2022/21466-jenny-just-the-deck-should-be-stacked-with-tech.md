@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220117115240
 wayback_snapshot_url: "http://web.archive.org/web/20220117115240/https://cfi.co/technology/2022/01/jenny-just-the-deck-should-be-stacked-with-tech/"
+license: CFI-OAAL-1.0
 content_sha256: e3a13de603089ec320be727acb7a91fa17408f719e30f85dda7ee2a4a8671a86
 canonical: 21466-jenny-just-the-deck-should-be-stacked-with-tech.json
 ---
