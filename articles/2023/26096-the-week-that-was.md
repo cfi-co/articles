@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240625205050
 wayback_snapshot_url: "http://web.archive.org/web/20240625205050/https://cfi.co/finance/2023/09/the-week-that-was-39/"
+license: CFI-OAAL-1.0
 content_sha256: 7c14fe6642f505bd488b12927de544c30dc2b24c96bb23e25eaac3cfe56e33cd
 canonical: 26096-the-week-that-was.json
 ---
