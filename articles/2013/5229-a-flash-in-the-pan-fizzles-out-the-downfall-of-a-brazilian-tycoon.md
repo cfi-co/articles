@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827065702
 wayback_snapshot_url: "http://web.archive.org/web/20140827065702/http://cfi.co/finance/2013/09/a-flash-in-the-pan-fizzles-out-the-downfall-of-a-brazilian-tycoon/"
+license: CFI-OAAL-1.0
 content_sha256: 2c5be4c7f9f6f3aa356a7c20c3d6162dc8a3b41cac00acc22db104dc7479382b
 canonical: 5229-a-flash-in-the-pan-fizzles-out-the-downfall-of-a-brazilian-tycoon.json
 ---
