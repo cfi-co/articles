@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211007070805
 wayback_snapshot_url: "http://web.archive.org/web/20211007070805/https://cfi.co/sustainability/2021/10/the-road-to-decarbonisation/"
+license: CFI-OAAL-1.0
 content_sha256: a05a14032e2f69eb660322abe9aa70435974f4027fb7bd79b051456e9e38f22a
 canonical: 20775-the-road-to-decarbonisation.json
 ---
