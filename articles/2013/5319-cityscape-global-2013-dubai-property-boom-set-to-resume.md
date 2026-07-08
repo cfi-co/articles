@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20131001081429
 wayback_snapshot_url: "http://web.archive.org/web/20131001081429/http://cfi.co/middleeast/2013/09/cityscape-global-2013-dubai-property-boom-set-to-resume/"
+license: CFI-OAAL-1.0
 content_sha256: faee2f9698702e14f32acc831046faf89d2f511ebaf88b2d8432df4b5feba54a
 canonical: 5319-cityscape-global-2013-dubai-property-boom-set-to-resume.json
 ---
