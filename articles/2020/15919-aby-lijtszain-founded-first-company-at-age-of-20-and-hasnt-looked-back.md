@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200921024028
 wayback_snapshot_url: "http://web.archive.org/web/20200921024028/https://cfi.co/corporate-leaders/2020/07/aby-lijtszain-founded-first-company-at-age-of-20-and-hasnt-looked-back/"
+license: CFI-OAAL-1.0
 content_sha256: 4ba965719605081fea4fd9d21a60644309e174c8e01c4e71dbf332c72e7f4d9f
 canonical: 15919-aby-lijtszain-founded-first-company-at-age-of-20-and-hasnt-looked-back.json
 ---
