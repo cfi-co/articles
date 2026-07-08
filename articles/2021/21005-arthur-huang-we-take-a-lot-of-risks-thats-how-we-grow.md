@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211109145519
 wayback_snapshot_url: "http://web.archive.org/web/20211109145519/https://cfi.co/menu/heroes/2021/11/arthur-huang-we-take-a-lot-of-risks-thats-how-we-grow/"
+license: CFI-OAAL-1.0
 content_sha256: b1d8ea2ac68f1ce88754c1961df0c4efdf1478e30f566018046760ce747cdf7c
 canonical: 21005-arthur-huang-we-take-a-lot-of-risks-thats-how-we-grow.json
 ---
