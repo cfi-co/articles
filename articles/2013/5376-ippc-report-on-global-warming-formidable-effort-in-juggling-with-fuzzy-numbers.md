@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140825183109
 wayback_snapshot_url: "http://web.archive.org/web/20140825183109/http://cfi.co/africa/2013/09/ippc-report-on-global-warming-formidable-effort-in-juggling-with-fuzzy-numbers/"
+license: CFI-OAAL-1.0
 content_sha256: 3fc7efb5b1c0c0a570865107e3c31db62878134fe2e9d2a2e4c9b3979c18d1f4
 canonical: 5376-ippc-report-on-global-warming-formidable-effort-in-juggling-with-fuzzy-numbers.json
 ---
