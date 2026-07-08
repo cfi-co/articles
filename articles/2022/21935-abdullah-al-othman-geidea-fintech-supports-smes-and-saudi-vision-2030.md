@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220518071948
 wayback_snapshot_url: "http://web.archive.org/web/20220518071948/https://cfi.co/menu/innovation-technology/2022/05/abdullah-al-othman-geidea-fintech-supports-smes-and-saudi-vision-2030/"
+license: CFI-OAAL-1.0
 content_sha256: 9bec67ed13db293b21f2c56cc6b0a968183ef452f312725d2b38069551822afe
 canonical: 21935-abdullah-al-othman-geidea-fintech-supports-smes-and-saudi-vision-2030.json
 ---
