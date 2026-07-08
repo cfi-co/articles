@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140828150753
 wayback_snapshot_url: "http://web.archive.org/web/20140828150753/http://cfi.co/sustainability/2013/02/un-initiative-to-eliminate-energy-poverty/"
+license: CFI-OAAL-1.0
 content_sha256: 01c73e0629220940c2998abe65f4e2db3149bbce6d8bea24617be6abbfb4ce1e
 canonical: 3154-un-initiative-to-eliminate-energy-poverty.json
 ---
