@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220824170100
 wayback_snapshot_url: "http://web.archive.org/web/20220824170100/https://cfi.co/brave-new-world/2022/08/ifc-ukrainian-refugees-access-finance-via-new-digital-data-corridors/"
+license: CFI-OAAL-1.0
 content_sha256: a789234c4862e17242fddc024eb93949d6b8aa7d8a428e6db44386646a20659e
 canonical: 23101-ifc-ukrainian-refugees-access-finance-via-new-digital-data-corridors.json
 ---
