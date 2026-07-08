@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050645
 wayback_snapshot_url: "http://web.archive.org/web/20190818050645/https://cfi.co/africa/2012/05/kcb-ceo-has-been-buying-into-the-success-he-is-driving/"
+license: CFI-OAAL-1.0
 content_sha256: 7e4f1939afaea57afa392b515c3b311fd805ef2504b47c25031e0615dece2456
 canonical: 596-kcb-ceo-has-been-buying-into-the-success-he-is-driving.json
 ---
