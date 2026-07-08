@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818131931
 wayback_snapshot_url: "http://web.archive.org/web/20190818131931/https://cfi.co/europe/2014/05/john-maynard-keynes-keynesianism-to-the-rescue-it-still-works-wonders/"
+license: CFI-OAAL-1.0
 content_sha256: 735288cd2d8a7a05a2cf10809e9eb030fdaf71dff726020e8f4f861a2131b0cc
 canonical: 7246-john-maynard-keynes-keynesianism-to-the-rescue-it-still-works-wonders.json
 ---
