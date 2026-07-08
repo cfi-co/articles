@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200813164826
 wayback_snapshot_url: "http://web.archive.org/web/20200813164826/https://cfi.co/europe/2017/10/lord-waverley-the-shackles-that-still-bind-international-trade/"
+license: CFI-OAAL-1.0
 content_sha256: 7083f8efcb73d7cf0af2a78e4513f224d41ba1543c412ea9e633af6e155b15fe
 canonical: 14544-lord-waverley-the-shackles-that-still-bind-international-trade.json
 ---
