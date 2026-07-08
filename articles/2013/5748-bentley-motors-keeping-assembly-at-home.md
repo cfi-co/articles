@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140209022551
 wayback_snapshot_url: "http://web.archive.org/web/20140209022551/http://cfi.co/europe/2013/11/bentley-motors-keeping-assembly-at-home/"
+license: CFI-OAAL-1.0
 content_sha256: 314b9be14c927c543b0c0ded337486eab401644f75d16574871bc8e489e39bd4
 canonical: 5748-bentley-motors-keeping-assembly-at-home.json
 ---
