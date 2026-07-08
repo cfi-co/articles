@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827151708
 wayback_snapshot_url: "http://web.archive.org/web/20140827151708/http://cfi.co/banking/2013/10/lady-rice-wisdom-as-an-acquired-taste-a-voice-of-reason/"
+license: CFI-OAAL-1.0
 content_sha256: 70b6d7694a0af3863c8fb56f280a55d4b8bf8ec913586ca334c61d270b3408be
 canonical: 5540-lady-rice-wisdom-as-an-acquired-taste-a-voice-of-reason.json
 ---
