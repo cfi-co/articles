@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260129175554
 wayback_snapshot_url: "http://web.archive.org/web/20260129175554/https://cfi.co/finance/2026/01/the-great-rebalancing-capital-allocation-in-an-age-of-fragmentation-and-convergence/"
+license: CFI-OAAL-1.0
 content_sha256: 835d704712a38a5aa893d43a9350f3d41a67de1f3edbded3d3e4774c2bfd0d86
 canonical: 28243-the-great-rebalancing-capital-allocation-in-an-age-of-fragmentation-and-converge.json
 ---
