@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523051158
 wayback_snapshot_url: "http://web.archive.org/web/20260523051158/https://cfi.co/asia-pacific/2026/05/otaviano-canuto-the-multiple-frontlines-of-the-us-china-technological-rivalry/"
+license: CFI-OAAL-1.0
 content_sha256: 344a2de57236f7a92c83b5554f585c655c770c57fc420d712856b93260f205a5
 canonical: 28488-otaviano-canuto-the-multiple-frontlines-of-the-us-china-technological-rivalry.json
 ---
