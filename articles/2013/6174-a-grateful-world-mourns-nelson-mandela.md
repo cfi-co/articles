@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140328111358
 wayback_snapshot_url: "http://web.archive.org/web/20140328111358/http://cfi.co/africa/2013/12/a-grateful-world-mourns-nelson-mandela/"
+license: CFI-OAAL-1.0
 content_sha256: 76fbe5da9120b2e1505d83aaf62f71c2cc2b0c16be5d91723ae223acd304b71f
 canonical: 6174-a-grateful-world-mourns-nelson-mandela.json
 ---
