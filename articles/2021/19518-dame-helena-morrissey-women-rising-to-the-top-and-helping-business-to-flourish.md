@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210509095134
 wayback_snapshot_url: "http://web.archive.org/web/20210509095134/https://cfi.co/editors-picks/2021/04/dame-helena-morrissey-women-rising-to-the-top-and-helping-business-to-flourish/"
+license: CFI-OAAL-1.0
 content_sha256: 7a88db57d87ea64033590e3a09f4234a582bff1a866d1cecb45df51c81a5ded6
 canonical: 19518-dame-helena-morrissey-women-rising-to-the-top-and-helping-business-to-flourish.json
 ---
