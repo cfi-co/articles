@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190507114659
 wayback_snapshot_url: "http://web.archive.org/web/20190507114659/https://cfi.co/sustainability/2019/03/havard-halland-and-justin-lin-how-to-mobilise-private-capital-for-climate-finance/"
+license: CFI-OAAL-1.0
 content_sha256: a68032f142a748945bf3c68031d645dd91a4fe8f4115cd7980286d968eddfd36
 canonical: 13474-havard-halland-and-justin-lin-how-to-mobilise-private-capital-for-climate-financ.json
 ---
