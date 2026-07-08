@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201023000701
 wayback_snapshot_url: "http://web.archive.org/web/20201023000701/https://cfi.co/europe/2020/09/between-a-rock-and-a-hard-place-uk-discovers-the-hard-limits-of-its-newfound-sovereignty/"
+license: CFI-OAAL-1.0
 content_sha256: 2383bd67320c6257a4e3cf3f76aca4f523b6f17e5787b15a322e7b437ac2afb3
 canonical: 16998-between-a-rock-and-a-hard-place-uk-discovers-the-hard-limits-of-its-newfound-sov.json
 ---
