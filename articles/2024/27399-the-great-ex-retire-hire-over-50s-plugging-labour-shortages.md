@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241213093350
 wayback_snapshot_url: "http://web.archive.org/web/20241213093350/https://cfi.co/sustainability/2024/12/the-great-ex-retire-hire-over-50s-plugging-labour-shortages/"
+license: CFI-OAAL-1.0
 content_sha256: 4153c0af9ab77618f26ac2cd4aee71798312e9861c2d075e9284697048fc76c4
 canonical: 27399-the-great-ex-retire-hire-over-50s-plugging-labour-shortages.json
 ---
