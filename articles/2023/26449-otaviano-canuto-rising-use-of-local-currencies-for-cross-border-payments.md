@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231206173252
 wayback_snapshot_url: "http://web.archive.org/web/20231206173252/https://cfi.co/finance/2023/11/otaviano-canuto-rising-use-of-local-currencies-for-cross-border-payments/"
+license: CFI-OAAL-1.0
 content_sha256: 7233034d5e47aadc7d255114e12dd84a1822f89a8d4fee74394c10d098bc462c
 canonical: 26449-otaviano-canuto-rising-use-of-local-currencies-for-cross-border-payments.json
 ---
