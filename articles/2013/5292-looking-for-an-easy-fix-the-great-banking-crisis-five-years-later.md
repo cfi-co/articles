@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827070007
 wayback_snapshot_url: "http://web.archive.org/web/20140827070007/http://cfi.co/banking/2013/09/looking-for-an-easy-fix-the-great-banking-crisis-five-years-later/"
+license: CFI-OAAL-1.0
 content_sha256: 31e5c3908e04b45c09dcd5cfcfba778954f50084a002876ba7d40805148f7ba8
 canonical: 5292-looking-for-an-easy-fix-the-great-banking-crisis-five-years-later.json
 ---
