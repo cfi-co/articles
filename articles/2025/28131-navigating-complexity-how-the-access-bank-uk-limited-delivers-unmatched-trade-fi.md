@@ -19,6 +19,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260108195915
 wayback_snapshot_url: "http://web.archive.org/web/20260108195915/https://cfi.co/banking/2025/12/navigating-complexity-how-the-access-bank-uk-limited-delivers-unmatched-trade-finance-solutions/"
+license: CFI-OAAL-1.0
 content_sha256: ed640a8cece378ccf13afe149f3c820621080d6c9c71f64426e3b7394b2be464
 canonical: 28131-navigating-complexity-how-the-access-bank-uk-limited-delivers-unmatched-trade-fi.json
 ---
