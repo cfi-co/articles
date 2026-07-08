@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024309
 wayback_snapshot_url: "http://web.archive.org/web/20190724024309/https://cfi.co/africa/2014/10/graca-machel-the-only-first-lady-of-two-countries/"
+license: CFI-OAAL-1.0
 content_sha256: d51a9dacc440b0fd9baf8ed2283a85214c3c4d184d8a6ff6f967b44ef3a7fdf9
 canonical: 8184-graca-machel-the-only-first-lady-of-two-countries.json
 ---
