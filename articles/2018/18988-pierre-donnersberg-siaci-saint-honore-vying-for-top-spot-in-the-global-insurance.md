@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422024536
 wayback_snapshot_url: "http://web.archive.org/web/20210422024536/https://cfi.co/menu/corporate/2018/03/pierre-donnersberg-siaci-saint-honore-vying-for-top-spot-in-the-global-insurance-market/"
+license: CFI-OAAL-1.0
 content_sha256: e1d6f66f15b784199ca017cd62cae8775539a5f2a0980759d22c7a9c65d49380
 canonical: 18988-pierre-donnersberg-siaci-saint-honore-vying-for-top-spot-in-the-global-insurance.json
 ---
