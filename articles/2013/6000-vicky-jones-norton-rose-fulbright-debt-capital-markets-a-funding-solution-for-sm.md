@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826144229
 wayback_snapshot_url: "http://web.archive.org/web/20140826144229/http://cfi.co/europe/2013/11/vicky-jones-norton-rose-fulbright-debt-capital-markets-a-funding-solution-for-smes-and-projects/"
+license: CFI-OAAL-1.0
 content_sha256: 05e285f730d03d9398cb2979bb673d9897396146468b6a9b9f7512c9925e961a
 canonical: 6000-vicky-jones-norton-rose-fulbright-debt-capital-markets-a-funding-solution-for-sm.json
 ---
