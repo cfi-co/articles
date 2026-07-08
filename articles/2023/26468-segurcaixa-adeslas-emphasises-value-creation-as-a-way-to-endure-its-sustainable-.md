@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231207192614
 wayback_snapshot_url: "http://web.archive.org/web/20231207192614/https://cfi.co/europe/2023/11/segurcaixa-adeslas-emphasises-value-creation-as-a-way-to-endure-its-sustainable-growth-strategy/"
+license: CFI-OAAL-1.0
 content_sha256: 7d66f94db2b4abf8b1d362fd5a36548e1a60d05e3f9c57aebd4cb56cbdebb082
 canonical: 26468-segurcaixa-adeslas-emphasises-value-creation-as-a-way-to-endure-its-sustainable-.json
 ---
