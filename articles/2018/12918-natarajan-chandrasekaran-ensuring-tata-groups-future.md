@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720031947
 wayback_snapshot_url: "http://web.archive.org/web/20190720031947/https://cfi.co/editors-picks/2018/09/natarajan-chandrasekaran-ensuring-tata-groups-future/"
+license: CFI-OAAL-1.0
 content_sha256: 4161c1cb0672e911e878a8b9c1acfc93740485e004af4285d2c36f3329ffebf5
 canonical: 12918-natarajan-chandrasekaran-ensuring-tata-groups-future.json
 ---
