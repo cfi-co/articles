@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200706171832
 wayback_snapshot_url: "http://web.archive.org/web/20200706171832/https://cfi.co/c-19/2020/04/the-great-lockdown-and-echoes-from-the-past/"
+license: CFI-OAAL-1.0
 content_sha256: 9cbc40af09a4f951cdd61177c427a4234f10c4ec65e847866fa1ebf8317ee4bd
 canonical: 14934-the-great-lockdown-and-echoes-from-the-past.json
 ---
