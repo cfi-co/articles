@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221222123322
 wayback_snapshot_url: "http://web.archive.org/web/20221222123322/https://cfi.co/europe/2022/12/lord-waverley-new-thinking-in-the-uk/"
+license: CFI-OAAL-1.0
 content_sha256: fa874c5ca4284299c40b05da24b0378a73322a7f646c15c836684e3af26565dc
 canonical: 24262-lord-waverley-new-thinking-in-the-uk.json
 ---
