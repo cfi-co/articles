@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210325080055
 wayback_snapshot_url: "http://web.archive.org/web/20210325080055/https://cfi.co/northamerica/2021/03/a-possible-tug-of-war-between-the-fed-and-the-markets/"
+license: CFI-OAAL-1.0
 content_sha256: 2013a4cfee02f523d6452ad2c9bcec541ad4aada9abd8aefdc6e74eeb9845987
 canonical: 19271-a-possible-tug-of-war-between-the-fed-and-the-markets.json
 ---
