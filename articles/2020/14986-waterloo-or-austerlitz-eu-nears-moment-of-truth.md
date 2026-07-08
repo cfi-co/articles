@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201022233330
 wayback_snapshot_url: "http://web.archive.org/web/20201022233330/https://cfi.co/c-19/2020/04/waterloo-or-austerlitz-eu-nears-moment-of-truth/"
+license: CFI-OAAL-1.0
 content_sha256: d492acc91e446a0511fed7d827ace6dc3c8329f19ad59751c2884f3037c1d43e
 canonical: 14986-waterloo-or-austerlitz-eu-nears-moment-of-truth.json
 ---
