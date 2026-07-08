@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014233325
 wayback_snapshot_url: "http://web.archive.org/web/20191014233325/https://cfi.co/europe/2014/09/mr-cameron-throws-a-tantrum-and-loses-an-agenda/"
+license: CFI-OAAL-1.0
 content_sha256: d6493fa838f468c09ed370f633413f610b022cfb6205be56d33ec5a4a57f567d
 canonical: 8001-mr-cameron-throws-a-tantrum-and-loses-an-agenda.json
 ---
