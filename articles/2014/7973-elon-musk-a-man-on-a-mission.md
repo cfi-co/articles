@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210725185553
 wayback_snapshot_url: "http://web.archive.org/web/20210725185553/https://cfi.co/editors-picks/2014/09/elon-musk-a-man-on-a-mission/"
+license: CFI-OAAL-1.0
 content_sha256: a2de23c13b8a36d98e5c8a9a237f97ae954de37cfc7faae514f1f34171f40a93
 canonical: 7973-elon-musk-a-man-on-a-mission.json
 ---
