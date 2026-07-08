@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720180450
 wayback_snapshot_url: "http://web.archive.org/web/20190720180450/https://cfi.co/editors-picks/2018/12/robert-azevedo-levelling-the-playing-field/"
+license: CFI-OAAL-1.0
 content_sha256: 46c9258060a6917de458bbd4cc5f08683719cdad1db432a4bc642a368cceee2d
 canonical: 13164-robert-azevedo-levelling-the-playing-field.json
 ---
