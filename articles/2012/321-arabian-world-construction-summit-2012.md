@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050528
 wayback_snapshot_url: "http://web.archive.org/web/20190818050528/https://cfi.co/middleeast/2012/05/arabian-world-construction-summit-2012/"
+license: CFI-OAAL-1.0
 content_sha256: d559ac7eb96a8ae6e1cc64c1ded64d560832c752006f43c4385b5572fa3330fe
 canonical: 321-arabian-world-construction-summit-2012.json
 ---
