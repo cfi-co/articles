@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203235813
 wayback_snapshot_url: "http://web.archive.org/web/20201203235813/https://cfi.co/finance/2020/11/markets-move-in-anticipation-of-boom-times/"
+license: CFI-OAAL-1.0
 content_sha256: 881ec4bbdc060d2e2b3fd822e60dcd09fff4592f86bab830f6eeed531ec7317b
 canonical: 17835-markets-move-in-anticipation-of-boom-times.json
 ---
