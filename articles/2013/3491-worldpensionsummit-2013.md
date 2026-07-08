@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823053009
 wayback_snapshot_url: "http://web.archive.org/web/20190823053009/https://cfi.co/europe/2013/04/worldpensionsummit-2013/"
+license: CFI-OAAL-1.0
 content_sha256: 468695f053f1b0ac7891f698f9c3aef12bdbe2fec3bdfa3114b281c6928a03d8
 canonical: 3491-worldpensionsummit-2013.json
 ---
