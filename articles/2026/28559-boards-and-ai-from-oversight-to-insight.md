@@ -15,8 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
-content_sha256: 8c7358231650c2bc846311cd3eabbd2c3989d3e2869813bdfaf71e4cdca7b534
+wayback_status: not_found
+license: CFI-OAAL-1.0
+content_sha256: c9965a85eac3110bfaca9946097fbc9140abab43620ab97b3c60adf57c0b5bb9
 canonical: 28559-boards-and-ai-from-oversight-to-insight.json
 ---
 
@@ -55,7 +56,8 @@ canonical: 28559-boards-and-ai-from-oversight-to-insight.json
 <h3 style="text-align: justify;">The evidence: AI-savvy boards and return on equity</h3>
 [caption id="attachment_28564" align="aligncenter" width="900"]<img class="size-large wp-image-28564" src="https://cfi.co/wp-content/uploads/2026/07/Figure1-1024x534.png" alt="Figure 1. Companies with digital and AI expertise on their boards averaged a return on equity 10.9 percentage points above their industry, while those without averaged 3.8 points below. Chart: AccountAbility, derived from MIT Center for Information Systems Research, “Digitally Savvy Boards: AI Update,” 2025." width="900" height="469" /> <strong>Figure 1:</strong> Companies with digital and AI expertise on their boards averaged a return on equity 10.9 percentage points above their industry, while those without averaged 3.8 points below. <em>Chart: AccountAbility, derived from MIT Center for Information Systems Research, “Digitally Savvy Boards: AI Update,” 2025.</em>[/caption]
 <p style="text-align: justify;">MIT’s Center for Information Systems Research reports that companies whose boards have digital and AI expertise sit 10.9 percentage points above their industry’s average return on equity, while those without it sit 3.8 percentage points below.</p>
-<p style="text-align: justify;">Adoption, though, remains slow. McKinsey finds that only 39% of Fortune 100 companies disclose any form of board oversight of AI, and Deloitte’s global survey of directors finds that 66% say their boards have “limited to no knowledge or experience” with AI. The gap between the performance on offer and the readiness on the ground is precisely the opportunity.</p>
+<p style="text-align: justify;">The figure measures the directors that comprise the board rather than how the board works: directors with digital and AI expertise, not the use of AI tools in its processes. While it is adjacent evidence rather than direct proof, nonetheless, it points in the same direction. Fluency with AI at board level travels with stronger performance, and boards with that fluency are best placed to put the tools described here to work.</p>
+<p style="text-align: justify;">Adoption, though, remains slow. McKinsey finds that only 39% of Fortune 100 companies disclose any form of board oversight of AI, and Deloitte’s global survey of directors finds that 66% say their boards have “limited to no knowledge or experience” with AI. The gap between the performance associated with AI-fluent boards and the readiness on the ground is precisely the opportunity.</p>
 
 <h3 style="text-align: justify;">The trade-offs are real</h3>
 <p style="text-align: justify;">Using AI in the boardroom carries real responsibilities that need to be designed in from the start:</p>
@@ -74,7 +76,7 @@ canonical: 28559-boards-and-ai-from-oversight-to-insight.json
 <p style="text-align: justify;"><strong>How can AI improve board effectiveness?</strong></p>
 <p style="text-align: justify;">By closing the information gap. AI can summarise dense board packs, surface what is missing, draft pointed questions, compare a company against its peers, handle routine administrative tasks, and help a board assess its own performance, so directors can spend more time on judgement based decision-making.</p>
 <p style="text-align: justify;"><strong>Do AI-savvy boards perform better?</strong></p>
-<p style="text-align: justify;">The data suggests so. MIT CISR found that companies with digitally and AI-savvy boards sat 10.9 percentage points above their industry’s average return on equity, while those without sat 3.8 points below (MIT CISR, 2025).</p>
+<p style="text-align: justify;">The data suggests so. MIT CISR found that companies with digitally and AI-savvy boards sat 10.9 percentage points above their industry’s average return on equity, while those without sat 3.8 points below (MIT CISR, 2025). The measure is expertise on the board rather than the board's use of AI tools, so it shows fluency and performance moving together rather than proving cause.</p>
 <p style="text-align: justify;"><strong>How widely do boards use AI today?</strong></p>
 <p style="text-align: justify;">AI adoption is in its early stages. PwC found 35% of directors say their boards have started using AI in their oversight work, while McKinsey found only 39% of Fortune 100 companies disclose any board oversight of AI, and Deloitte found 66% of boards report limited or no AI experience.</p>
 <p style="text-align: justify;"><strong>What are the risks of using AI in the boardroom?</strong></p>
