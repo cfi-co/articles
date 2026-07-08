@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140828161025
 wayback_snapshot_url: "http://web.archive.org/web/20140828161025/http://cfi.co/latinamerica/2013/04/cfi-co-meets-enrique-gomez-junco-a-qa-session-with-the-founder-of-optima-energia-mexico/"
+license: CFI-OAAL-1.0
 content_sha256: a5073a2e3c39b5da94d1e7dabdafa2e68c22ea3e3c5674f8c0f69f8bc2b4c2b5
 canonical: 3752-cfi-co-meets-enrique-gomez-junco-a-qa-session-with-the-founder-of-optima-energia.json
 ---
