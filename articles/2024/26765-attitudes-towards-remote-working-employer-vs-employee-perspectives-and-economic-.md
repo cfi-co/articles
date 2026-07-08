@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240517124650
 wayback_snapshot_url: "http://web.archive.org/web/20240517124650/https://cfi.co/lifestyle/2024/04/attitudes-towards-remote-working-employer-vs-employee-perspectives-and-economic-implications/"
+license: CFI-OAAL-1.0
 content_sha256: 2492ae9c418d600899e4480ace74bd422984f411441d515bf4554824478226c8
 canonical: 26765-attitudes-towards-remote-working-employer-vs-employee-perspectives-and-economic-.json
 ---
