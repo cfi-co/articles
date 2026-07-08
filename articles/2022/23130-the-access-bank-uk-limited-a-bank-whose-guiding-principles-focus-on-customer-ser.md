@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928164647
 wayback_snapshot_url: "http://web.archive.org/web/20220928164647/https://cfi.co/menu/corporate/2022/08/the-access-bank-uk-limited-a-bank-whose-guiding-principles-focus-on-customer-service-and-innovative-solutions/"
+license: CFI-OAAL-1.0
 content_sha256: 57bc923c46e837bf17ec6ba4a06a9091d078694e429c9da2ccfb615b655f7692
 canonical: 23130-the-access-bank-uk-limited-a-bank-whose-guiding-principles-focus-on-customer-ser.json
 ---
