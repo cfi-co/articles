@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422023808
 wayback_snapshot_url: "http://web.archive.org/web/20210422023808/https://cfi.co/menu/corporate/2021/02/juan-antonio-nino-pulgar-weathering-the-pandemics-storm-and-growing-stronger-by-the-day/"
+license: CFI-OAAL-1.0
 content_sha256: d5c445ce5c268a78a7ad72fe7f639bb87163724560f3f0c0ac5b705c15d2f901
 canonical: 18605-juan-antonio-nino-pulgar-weathering-the-pandemics-storm-and-growing-stronger-by-.json
 ---
