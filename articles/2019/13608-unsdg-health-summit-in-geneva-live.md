@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825093827
 wayback_snapshot_url: "http://web.archive.org/web/20190825093827/https://cfi.co/projects/2019/05/unsdg-health-summit-in-geneva-live/"
+license: CFI-OAAL-1.0
 content_sha256: dbeab596a3f84ee177eb7b0fa61392aca1ed6fa9ca5a0903c33a08c7107a07a2
 canonical: 13608-unsdg-health-summit-in-geneva-live.json
 ---

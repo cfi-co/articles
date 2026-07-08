@@ -23,10 +23,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190825093827",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190825093827/https://cfi.co/projects/2019/05/unsdg-health-summit-in-geneva-live/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190825093827/https://cfi.co/projects/2019/05/unsdg-health-summit-in-geneva-live/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_13609\" align=\"aligncenter\" width=\"1024\"]<img class=\"size-full wp-image-13609\" src=\"https://cfi.co/wp-content/uploads/2019/05/UNSDG.jpg\" alt=\"\" width=\"1024\" height=\"598\" /> Panel discussion[/caption]\r\n<p style=\"text-align: justify;\">UNSDG healthcare summit is by invitation only, attendance is limited in order to maintain an intimate dialogue among all participants. The event is attended by State Heads, Health Ministers, Policy Makers, Chairman &amp; CEO’s from industry &amp; Civil Societies, High Ranking UN, WHO and NGO officials, noble Laureates and Leading Scientist.</p>\r\nFor live coverage, follow <a href=\"https://twitter.com/cfimagazine\" target=\"_blank\" rel=\"noopener noreferrer\">our Twitter account</a> or follow <a href=\"https://twitter.com/UNSDGHealth\" target=\"_blank\" rel=\"noopener noreferrer\">@UNSDGHealth</a>.",
     "content_sha256": "dbeab596a3f84ee177eb7b0fa61392aca1ed6fa9ca5a0903c33a08c7107a07a2",
-    "record_sha256": "6caf9b9e24198c31293e8e82639775f87d336a41fdd29503b9dec0f107c9ecde"
+    "record_sha256": "a3a899ba7f2599334b4bb5f22553ed539d85d303af329ea3f98f876b11d76f99"
 }
