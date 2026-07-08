@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422021240
 wayback_snapshot_url: "http://web.archive.org/web/20210422021240/https://cfi.co/menu/corporate/2020/07/yelo-bank-brighter-banking-for-the-people-and-business-community-of-azerbaijan/"
+license: CFI-OAAL-1.0
 content_sha256: d21c5d786311ff39a357e09d8482491799353554572a946e9ffcfb25036d165e
 canonical: 15955-yelo-bank-brighter-banking-for-the-people-and-business-community-of-azerbaijan.json
 ---
