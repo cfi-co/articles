@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240704153227
 wayback_snapshot_url: "http://web.archive.org/web/20240704153227/https://cfi.co/banking/2024/06/pioneering-spirit-boldness-and-a-deep-understanding-of-unity/"
+license: CFI-OAAL-1.0
 content_sha256: 08d37807c6b1a8134e22b9462d789999afba442950d7a7942acf85da21b966a4
 canonical: 26882-pioneering-spirit-boldness-and-a-deep-understanding-of-unity.json
 ---
