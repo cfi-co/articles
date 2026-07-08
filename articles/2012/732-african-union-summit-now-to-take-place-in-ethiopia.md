@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132334
 wayback_snapshot_url: "http://web.archive.org/web/20190818132334/https://cfi.co/africa/2012/06/african-union-summit-now-to-take-place-in-ethiopia/"
+license: CFI-OAAL-1.0
 content_sha256: e4911ba6288862cbbd94fdb4fb2251317009a315c8e0345a6dffbc9d356db409
 canonical: 732-african-union-summit-now-to-take-place-in-ethiopia.json
 ---
