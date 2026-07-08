@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132526
 wayback_snapshot_url: "http://web.archive.org/web/20190818132526/https://cfi.co/europe/2012/06/to-converge-or-not-to-converge-the-greek-tragedy-continues/"
+license: CFI-OAAL-1.0
 content_sha256: 41562b8007dc317527c611f143e4b362890cb534e5ddadceca13cebb873ba4d1
 canonical: 801-to-converge-or-not-to-converge-the-greek-tragedy-continues.json
 ---
