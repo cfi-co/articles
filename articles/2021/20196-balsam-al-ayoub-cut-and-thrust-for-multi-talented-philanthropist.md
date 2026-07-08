@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210713150028
 wayback_snapshot_url: "http://web.archive.org/web/20210713150028/https://cfi.co/middleeast/2021/07/balsam-al-ayoub-cut-and-thrust-for-multi-talented-philanthropist/"
+license: CFI-OAAL-1.0
 content_sha256: 137151beb6fde7b92c1c634e7f11976e4e4a9dc8ccbd7a16a0ea93cae2537df2
 canonical: 20196-balsam-al-ayoub-cut-and-thrust-for-multi-talented-philanthropist.json
 ---
