@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150204072726
 wayback_snapshot_url: "http://web.archive.org/web/20150204072726/http://cfi.co/africa/2014/10/world-investment-forum-seeking-ways-to-unlock-the-idle-trillions/"
+license: CFI-OAAL-1.0
 content_sha256: c6b1f353f6f7ebdec37a9a04f0986dfc62d290aef2f588d7c96d00d723463809
 canonical: 8221-world-investment-forum-seeking-ways-to-unlock-the-idle-trillions.json
 ---
