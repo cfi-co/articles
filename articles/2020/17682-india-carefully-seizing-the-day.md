@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201119155441
 wayback_snapshot_url: "http://web.archive.org/web/20201119155441/https://cfi.co/c-19/2020/10/india-carefully-seizing-the-day/"
+license: CFI-OAAL-1.0
 content_sha256: 3455233eb2c543981d1b3879537d703fc75c1c52343c2712ed83442a151b54df
 canonical: 17682-india-carefully-seizing-the-day.json
 ---
