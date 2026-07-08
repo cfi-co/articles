@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140925185801
 wayback_snapshot_url: "http://web.archive.org/web/20140925185801/http://cfi.co/europe/2014/06/achieving-green-growth-in-fyr-macedonia/"
+license: CFI-OAAL-1.0
 content_sha256: 02011037d8016e757475ad9023dc609ecfbea3d654e919550da602e5c3e230fd
 canonical: 7521-achieving-green-growth-in-fyr-macedonia.json
 ---
