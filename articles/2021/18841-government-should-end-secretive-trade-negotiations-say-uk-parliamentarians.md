@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210224143231
 wayback_snapshot_url: "http://web.archive.org/web/20210224143231/https://cfi.co/europe/2021/02/government-should-end-secretive-trade-negotiations-say-uk-parliamentarians/"
+license: CFI-OAAL-1.0
 content_sha256: d36a000938ca2aa83fb9432d1eb05c91304ae0091654b7bfb5afb6b5ac81812a
 canonical: 18841-government-should-end-secretive-trade-negotiations-say-uk-parliamentarians.json
 ---
