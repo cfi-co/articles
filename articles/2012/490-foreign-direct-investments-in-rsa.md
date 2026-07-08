@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823051117
 wayback_snapshot_url: "http://web.archive.org/web/20190823051117/https://cfi.co/africa/2012/05/foreign-direct-investments-in-rsa/"
+license: CFI-OAAL-1.0
 content_sha256: 5dd14d9b5eee95b86274603d260078b3896a92155ad67d88858ddb82b213f4fd
 canonical: 490-foreign-direct-investments-in-rsa.json
 ---
