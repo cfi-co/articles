@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920195816
 wayback_snapshot_url: "http://web.archive.org/web/20200920195816/https://cfi.co/menu/corporate/2020/05/equipment-leasing-in-the-uae-what-do-a-bio-diesel-refinery-a-fork-lift-truck-and-a-laser-hair-removal-device-have-in-common/"
+license: CFI-OAAL-1.0
 content_sha256: 59c04291f49e2e652347da471b415ec3a02f7f6ddc858208c7039112873c9ce3
 canonical: 16018-equipment-leasing-in-the-uae-what-do-a-bio-diesel-refinery-a-fork-lift-truck-and.json
 ---
