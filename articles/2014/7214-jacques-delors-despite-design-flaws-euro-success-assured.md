@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140705063608
 wayback_snapshot_url: "http://web.archive.org/web/20140705063608/http://cfi.co/europe/2014/05/jacques-delors-despite-design-flaws-euro-success-assured/"
+license: CFI-OAAL-1.0
 content_sha256: c9e98f30ad32e44c2775ef1ae456ead558e0859498e9fd741db311fcf5d7bfee
 canonical: 7214-jacques-delors-despite-design-flaws-euro-success-assured.json
 ---
