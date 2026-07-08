@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200526025133
 wayback_snapshot_url: "http://web.archive.org/web/20200526025133/https://cfi.co/c-19/2020/05/otaviano-canuto-shapes-of-the-post-coronavirus-economic-recovery/"
+license: CFI-OAAL-1.0
 content_sha256: 3f55741091db1ab95a890fe9ae9003dd1c77190a9649ffe2ef87dd5f63affce0
 canonical: 15326-otaviano-canuto-shapes-of-the-post-coronavirus-economic-recovery.json
 ---
