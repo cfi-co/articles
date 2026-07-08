@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327180822
 wayback_snapshot_url: "http://web.archive.org/web/20140327180822/http://cfi.co/middleeast/2013/08/mohamed-al-jaber-the-arabs-and-technology/"
+license: CFI-OAAL-1.0
 content_sha256: 68c47077ce31396fa0fd696d3410598384d6c69c4c42020dbc515714856fb937
 canonical: 4923-mohamed-al-jaber-the-arabs-and-technology.json
 ---
