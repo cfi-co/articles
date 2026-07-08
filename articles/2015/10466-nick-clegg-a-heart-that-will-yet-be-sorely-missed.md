@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228085121
 wayback_snapshot_url: "http://web.archive.org/web/20210228085121/https://cfi.co/editors-picks/2015/09/nick-clegg-a-heart-that-will-yet-be-sorely-missed/"
+license: CFI-OAAL-1.0
 content_sha256: 1143aa5867561710109c5d500214731a2e5753d0f07c3f83081b54b8cb7416c5
 canonical: 10466-nick-clegg-a-heart-that-will-yet-be-sorely-missed.json
 ---
