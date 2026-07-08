@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180209184034
 wayback_snapshot_url: "http://web.archive.org/web/20180209184034/http://cfi.co/banking/2015/02/greece-vs-the-euro-righteous-waiting-for-the-other-guy-to-blink/"
+license: CFI-OAAL-1.0
 content_sha256: f9dfce2eccacea67b730bb3c4e648b9997120058cb4d89f9d52b20bf65bf5910
 canonical: 8963-greece-vs-the-euro-righteous-waiting-for-the-other-guy-to-blink.json
 ---
