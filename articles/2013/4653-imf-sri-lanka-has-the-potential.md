@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180701023605
 wayback_snapshot_url: "http://web.archive.org/web/20180701023605/http://cfi.co/asia-pacific/2013/07/imf-sri-lanka-has-the-potential/"
+license: CFI-OAAL-1.0
 content_sha256: 24ee39a7be3d327a9632e01c4f5e336b3ad2604d903d54b5f0142336e1131992
 canonical: 4653-imf-sri-lanka-has-the-potential.json
 ---
