@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724030125
 wayback_snapshot_url: "http://web.archive.org/web/20190724030125/https://cfi.co/africa/2013/05/cfi-co-meets-asad-aziz-ahmed/"
+license: CFI-OAAL-1.0
 content_sha256: b7580dca6cfd528cf25345856df9e183ba214cbf89bccbc5dca0623c3b8ac51b
 canonical: 4093-cfi-co-meets-asad-aziz-ahmed.json
 ---
