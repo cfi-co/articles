@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717213626
 wayback_snapshot_url: "http://web.archive.org/web/20190717213626/https://cfi.co/africa/2014/08/miga-world-bank-islamic-finance-a-growing-source-of-capital-for-the-developing-world/"
+license: CFI-OAAL-1.0
 content_sha256: adb369e82647f0e76b65cf925ebff8598dcd41235720e9db991cd0b8e16297aa
 canonical: 7776-miga-world-bank-islamic-finance-a-growing-source-of-capital-for-the-developing-w.json
 ---
