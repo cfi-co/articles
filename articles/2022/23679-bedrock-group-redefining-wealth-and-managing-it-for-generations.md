@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221021075843
 wayback_snapshot_url: "http://web.archive.org/web/20221021075843/https://cfi.co/finance/2022/10/bedrock-group-redefining-wealth-and-managing-it-for-generations/"
+license: CFI-OAAL-1.0
 content_sha256: 1c25f6e1d1af4cfbe10161017088091c3e20877cf12bac4b8f645e91d6f7c8c6
 canonical: 23679-bedrock-group-redefining-wealth-and-managing-it-for-generations.json
 ---
