@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140705144852
 wayback_snapshot_url: "http://web.archive.org/web/20140705144852/http://cfi.co/middleeast/2014/03/cfi-co-meets-the-chairman-of-farazad-investments-inc-korosh-farazad/"
+license: CFI-OAAL-1.0
 content_sha256: dabe47e78f423deb12bfe5b4e333ceaec189ae9370ad14c99ae3045addc52c1b
 canonical: 7309-cfi-co-meets-the-chairman-of-farazad-investments-inc-korosh-farazad.json
 ---
