@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180302235921
 wayback_snapshot_url: "http://web.archive.org/web/20180302235921/http://cfi.co/finance/2017/10/evan-harvey-nasdaq-stock-exchanges-an-engine-for-sustainable-development/"
+license: CFI-OAAL-1.0
 content_sha256: bce2ac0f7fee62760ffc87b50606ac32993add6b84d176804f17f32b84440430
 canonical: 12104-evan-harvey-nasdaq-stock-exchanges-an-engine-for-sustainable-development.json
 ---
