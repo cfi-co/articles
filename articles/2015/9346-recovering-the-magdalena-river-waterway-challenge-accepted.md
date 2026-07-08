@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724090543
 wayback_snapshot_url: "http://web.archive.org/web/20190724090543/https://cfi.co/latinamerica/2015/03/recovering-the-magdalena-river-waterway-challenge-accepted/"
+license: CFI-OAAL-1.0
 content_sha256: c50463b1e62de1f3adf46d363c0735e66b4ff839dc4417c3ce34d1c2a4b38089
 canonical: 9346-recovering-the-magdalena-river-waterway-challenge-accepted.json
 ---
