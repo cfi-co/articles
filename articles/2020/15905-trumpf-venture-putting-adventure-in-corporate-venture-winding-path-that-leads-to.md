@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210616010851
 wayback_snapshot_url: "http://web.archive.org/web/20210616010851/https://cfi.co/corporate-leaders/2020/07/trumpf-venture-putting-adventure-in-corporate-venture-winding-path-that-leads-to-industry-4-0-revolution/"
+license: CFI-OAAL-1.0
 content_sha256: dba1514b6fd0c2a8c5667a9504bd61136a04ae63b20449c1b1523cf34f723af6
 canonical: 15905-trumpf-venture-putting-adventure-in-corporate-venture-winding-path-that-leads-to.json
 ---
