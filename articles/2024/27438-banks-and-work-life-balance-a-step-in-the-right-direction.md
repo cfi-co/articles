@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250124123829
 wayback_snapshot_url: "http://web.archive.org/web/20250124123829/https://cfi.co/banking/2024/12/banks-and-work-life-balance-a-step-in-the-right-direction/"
+license: CFI-OAAL-1.0
 content_sha256: b3cfab1b7c2dcbf5955588cd7980c47b769bccfb0288212dd21390ecfecd78b1
 canonical: 27438-banks-and-work-life-balance-a-step-in-the-right-direction.json
 ---
