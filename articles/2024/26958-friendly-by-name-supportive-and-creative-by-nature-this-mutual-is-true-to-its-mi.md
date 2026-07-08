@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240806194022
 wayback_snapshot_url: "http://web.archive.org/web/20240806194022/https://cfi.co/europe/2024/07/friendly-by-name-supportive-and-creative-by-nature-this-mutual-is-true-to-its-mission-and-core-values/"
+license: CFI-OAAL-1.0
 content_sha256: 9f6b3a1e6634024f427d9f7383f4b71d4faff86ae1c04a734fa28a4b8584440f
 canonical: 26958-friendly-by-name-supportive-and-creative-by-nature-this-mutual-is-true-to-its-mi.json
 ---
