@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916092118
 wayback_snapshot_url: "http://web.archive.org/web/20190916092118/https://cfi.co/asia-pacific/2014/03/how-to-tame-an-unruly-bear/"
+license: CFI-OAAL-1.0
 content_sha256: 45c76d5e589cecf87734f6ef20581424cb785a49e2e4b097d76f1a495984f721
 canonical: 6826-how-to-tame-an-unruly-bear.json
 ---
