@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920200820
 wayback_snapshot_url: "http://web.archive.org/web/20200920200820/https://cfi.co/corporate-leaders/2019/07/dr-manny-pohl-a-survivor-with-a-cool-head-and-a-knack-for-long-term-investment/"
+license: CFI-OAAL-1.0
 content_sha256: 1fa5700be99c2e35702a5c153fa68c135704becb4c6aa8a7c76d2eda6472f91b
 canonical: 15678-dr-manny-pohl-a-survivor-with-a-cool-head-and-a-knack-for-long-term-investment.json
 ---
