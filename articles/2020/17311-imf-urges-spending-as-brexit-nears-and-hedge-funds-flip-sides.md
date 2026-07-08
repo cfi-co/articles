@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210303062715
 wayback_snapshot_url: "http://web.archive.org/web/20210303062715/https://cfi.co/europe/2020/10/imf-urges-spending-as-brexit-nears-and-hedge-funds-flip-sides/"
+license: CFI-OAAL-1.0
 content_sha256: af405526f85ba3efd2829ad9a3cde5317e2ca681ee963a093913d8d49f3c8cc7
 canonical: 17311-imf-urges-spending-as-brexit-nears-and-hedge-funds-flip-sides.json
 ---
