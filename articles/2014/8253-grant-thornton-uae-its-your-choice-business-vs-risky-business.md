@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825094354
 wayback_snapshot_url: "http://web.archive.org/web/20190825094354/https://cfi.co/finance/2014/10/grant-thornton-uae-its-your-choice-business-vs-risky-business/"
+license: CFI-OAAL-1.0
 content_sha256: d4b75402a9ecbf0682eb3a10568e9955b08f2ed28ac6c4b692d7996b68a1d429
 canonical: 8253-grant-thornton-uae-its-your-choice-business-vs-risky-business.json
 ---
