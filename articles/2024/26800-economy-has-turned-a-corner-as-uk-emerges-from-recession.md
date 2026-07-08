@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240520223432
 wayback_snapshot_url: "http://web.archive.org/web/20240520223432/https://cfi.co/europe/2024/05/economy-has-turned-a-corner-as-uk-emerges-from-recession/"
+license: CFI-OAAL-1.0
 content_sha256: 430b5e8c98c9f1a6bd8ab8902093d31b6665f7c880bcd9ddd0fa55aa9c0df63f
 canonical: 26800-economy-has-turned-a-corner-as-uk-emerges-from-recession.json
 ---
