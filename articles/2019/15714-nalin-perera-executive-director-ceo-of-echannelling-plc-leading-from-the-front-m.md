@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200922210539
 wayback_snapshot_url: "http://web.archive.org/web/20200922210539/https://cfi.co/corporate-leaders/2019/07/nalin-perera-executive-director-ceo-of-echannelling-plc-leading-from-the-front-meet-sri-lankan-whirlwind-perera/"
+license: CFI-OAAL-1.0
 content_sha256: 7a0023fc1414b7232295de521dfffe584598db0ae8b8567f2300e814dab3e60e
 canonical: 15714-nalin-perera-executive-director-ceo-of-echannelling-plc-leading-from-the-front-m.json
 ---
