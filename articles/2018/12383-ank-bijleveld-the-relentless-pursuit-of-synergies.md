@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920015332
 wayback_snapshot_url: "http://web.archive.org/web/20200920015332/https://cfi.co/editors-picks/2018/02/ank-bijleveld-the-relentless-pursuit-of-synergies/"
+license: CFI-OAAL-1.0
 content_sha256: a6123d6712856e20750367dbcbf8e71e0aedf8c496b48841597a1e5c4e44d962
 canonical: 12383-ank-bijleveld-the-relentless-pursuit-of-synergies.json
 ---
