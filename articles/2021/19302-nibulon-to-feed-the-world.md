@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422025215
 wayback_snapshot_url: "http://web.archive.org/web/20210422025215/https://cfi.co/menu/corporate/2021/03/nibulon-to-feed-the-world/"
+license: CFI-OAAL-1.0
 content_sha256: 12d49b7d367692d96070121edf915db3fb7cf70541ea88e3bfaf482139d8b9b1
 canonical: 19302-nibulon-to-feed-the-world.json
 ---
