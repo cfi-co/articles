@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916044121
 wayback_snapshot_url: "http://web.archive.org/web/20190916044121/https://cfi.co/finance/2015/01/change-the-economy-save-the-world/"
+license: CFI-OAAL-1.0
 content_sha256: f714d7ca584afa3c79568124b4a3a3c9cdd83125911229ecbb1641544db58bbf
 canonical: 8652-change-the-economy-save-the-world.json
 ---
