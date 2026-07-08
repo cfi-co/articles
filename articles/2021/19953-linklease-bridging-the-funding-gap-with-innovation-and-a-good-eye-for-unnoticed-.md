@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920113216
 wayback_snapshot_url: "http://web.archive.org/web/20210920113216/https://cfi.co/menu/corporate/2021/07/linklease-bridging-the-funding-gap-with-innovation-and-a-good-eye-for-unnoticed-opportunities/"
+license: CFI-OAAL-1.0
 content_sha256: be4b5bad085b5fde6a137995030d50d8e7939689327e472a53cb81a02a70f7f3
 canonical: 19953-linklease-bridging-the-funding-gap-with-innovation-and-a-good-eye-for-unnoticed-.json
 ---
