@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200918171306
 wayback_snapshot_url: "http://web.archive.org/web/20200918171306/https://cfi.co/c-19/2020/06/japan-opens-the-money-spigot/"
+license: CFI-OAAL-1.0
 content_sha256: 28bce0f249320b8bb90d0bc56c7ffae3dc8893df3c4c32e291af99ba7de61b5b
 canonical: 15734-japan-opens-the-money-spigot.json
 ---
