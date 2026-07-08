@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050506
 wayback_snapshot_url: "http://web.archive.org/web/20190823050506/https://cfi.co/asia-pacific/2014/07/cfi-co-meets-the-ceo-of-makhtag-muhammad-halim-fidai/"
+license: CFI-OAAL-1.0
 content_sha256: 2e1811bece82472fd589bfb020481deacd24688aafb56079e6a7b3e39c52a984
 canonical: 7915-cfi-co-meets-the-ceo-of-makhtag-muhammad-halim-fidai.json
 ---
