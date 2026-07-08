@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250225091631
 wayback_snapshot_url: "http://web.archive.org/web/20250225091631/https://cfi.co/editors-picks/2025/02/leo-burnett-the-man-who-gave-brands-a-heartbeat/"
+license: CFI-OAAL-1.0
 content_sha256: 00422996ef17e0f8a731687c940614033ea0eabe401d4a17a38667692422d197
 canonical: 27593-leo-burnett-the-man-who-gave-brands-a-heartbeat.json
 ---
