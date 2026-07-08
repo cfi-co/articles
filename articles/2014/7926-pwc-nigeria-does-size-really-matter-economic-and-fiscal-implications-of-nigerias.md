@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140905043908
 wayback_snapshot_url: "http://web.archive.org/web/20140905043908/http://cfi.co/africa/2014/08/pwc-nigeria-does-size-really-matter-economic-and-fiscal-implications-of-nigerias-rebased-gdp/"
+license: CFI-OAAL-1.0
 content_sha256: 83da2a526e5fcad86d19e77ea60dcf2dd45d0d2ef1210a3351bf73f5be58bed2
 canonical: 7926-pwc-nigeria-does-size-really-matter-economic-and-fiscal-implications-of-nigerias.json
 ---
