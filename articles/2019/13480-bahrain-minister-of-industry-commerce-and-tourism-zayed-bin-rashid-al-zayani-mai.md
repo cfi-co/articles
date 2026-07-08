@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190507120216
 wayback_snapshot_url: "http://web.archive.org/web/20190507120216/https://cfi.co/middleeast/2019/03/bahrain-minister-of-industry-commerce-and-tourism-zayed-bin-rashid-al-zayani-maintaining-and-expanding-a-leading-edge/"
+license: CFI-OAAL-1.0
 content_sha256: 64880688cf673d9a8684bdbcd59f5ed3e0b05e524617ce090db338af9d4ace65
 canonical: 13480-bahrain-minister-of-industry-commerce-and-tourism-zayed-bin-rashid-al-zayani-mai.json
 ---
