@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924114848
 wayback_snapshot_url: "http://web.archive.org/web/20210924114848/https://cfi.co/finance/2021/09/john-gandolfo-ifcs-treasurer-looking-towards-recovery-from-covid-19-and-a-green-resilient-inclusive-future/"
+license: CFI-OAAL-1.0
 content_sha256: 4dd3229205766730d5a246a9e96ca8ad7fcb335de066c32cc7623f364c05cb8e
 canonical: 20720-john-gandolfo-ifcs-treasurer-looking-towards-recovery-from-covid-19-and-a-green-.json
 ---
