@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524044825
 wayback_snapshot_url: "http://web.archive.org/web/20260524044825/https://cfi.co/asia-pacific/2026/03/asian-development-bank-the-world-isnt-flat-but-government-data-is/"
+license: CFI-OAAL-1.0
 content_sha256: 2a270ee8356361db44d0b604f6575b9c734f3871f0ddce5bf0bcaa89baa4c331
 canonical: 28340-asian-development-bank-the-world-isnt-flat-but-government-data-is.json
 ---
