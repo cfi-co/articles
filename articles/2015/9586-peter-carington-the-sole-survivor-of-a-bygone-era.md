@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818051100
 wayback_snapshot_url: "http://web.archive.org/web/20190818051100/https://cfi.co/editors-picks/2015/03/peter-carington-the-sole-survivor-of-a-bygone-era/"
+license: CFI-OAAL-1.0
 content_sha256: 2aaf72b1f4d46c67aed735c3b22fef9d6091a6273dd302def5e270f9aa5c16d3
 canonical: 9586-peter-carington-the-sole-survivor-of-a-bygone-era.json
 ---
