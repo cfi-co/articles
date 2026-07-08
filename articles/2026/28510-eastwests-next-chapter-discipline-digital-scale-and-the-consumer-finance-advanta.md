@@ -19,6 +19,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260603040029
 wayback_snapshot_url: "http://web.archive.org/web/20260603040029/https://cfi.co/asia-pacific/2026/05/eastwests-next-chapter-discipline-digital-scale-and-the-consumer-finance-advantage/"
+license: CFI-OAAL-1.0
 content_sha256: b0c0732dfabcefd2a400376f18186c7a5ba38b1062e92bb09692eb59e6413cde
 canonical: 28510-eastwests-next-chapter-discipline-digital-scale-and-the-consumer-finance-advanta.json
 ---
