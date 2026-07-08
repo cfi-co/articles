@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920113833
 wayback_snapshot_url: "http://web.archive.org/web/20210920113833/https://cfi.co/menu/corporate/2021/07/farazad-investments-boutique-investment-bank-believes-in-a-tried-and-tested-formula-with-innovation-on-the-side/"
+license: CFI-OAAL-1.0
 content_sha256: ac5756b834ef54899765d2e2a8b091e16024a66635490de5d278282c8d95c87f
 canonical: 19919-farazad-investments-boutique-investment-bank-believes-in-a-tried-and-tested-form.json
 ---
