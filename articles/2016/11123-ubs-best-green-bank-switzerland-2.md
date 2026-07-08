@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20131014093804
 wayback_snapshot_url: "http://web.archive.org/web/20131014093804/http://cfi.co/awards/"
+license: CFI-OAAL-1.0
 content_sha256: 0371c8be4dc6ca59ac15c68165599d7bf91da9c781b44dde8c66de73b527b6af
 canonical: 11123-ubs-best-green-bank-switzerland-2.json
 ---
