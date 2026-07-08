@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210725193610
 wayback_snapshot_url: "http://web.archive.org/web/20210725193610/https://cfi.co/menu/corporate/2020/01/sfo-group-a-disciplined-approach-to-real-estate-investing/"
+license: CFI-OAAL-1.0
 content_sha256: a66f4c7d7ad48cec18a4009df3e1a1cdb518e297762819b1031333e25d9e6e3c
 canonical: 17467-sfo-group-a-disciplined-approach-to-real-estate-investing.json
 ---
