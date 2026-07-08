@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230502132222
 wayback_snapshot_url: "http://web.archive.org/web/20230502132222/https://cfi.co/brave-new-world/2023/04/eu-gender-pay-gap/"
+license: CFI-OAAL-1.0
 content_sha256: 10b048e3d17e6cf68805d9b8a8de8ea05c37330ce17800b95cf6a06a67a33fe6
 canonical: 25245-doors-closing-mind-the-eu-gender-pay-gap.json
 ---
