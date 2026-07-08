@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050441
 wayback_snapshot_url: "http://web.archive.org/web/20190818050441/https://cfi.co/banking/2015/03/the-surprising-vitality-and-resilience-of-nasdaq/"
+license: CFI-OAAL-1.0
 content_sha256: 4d6f91a6db49dc7c4d90c9797be56e6e015dda9ee11ed0e8f1c0a2f0346c5ff8
 canonical: 9471-the-surprising-vitality-and-resilience-of-nasdaq.json
 ---
