@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210121013730
 wayback_snapshot_url: "http://web.archive.org/web/20210121013730/https://cfi.co/menu/corporate/2018/01/containers-printers-premier-packaging-solutions-provider/"
+license: CFI-OAAL-1.0
 content_sha256: 74abd3397bac8312e4e175626c5d169ea56851748539bfaab5cd1aaa497bb493
 canonical: 12230-containers-printers-premier-packaging-solutions-provider.json
 ---
