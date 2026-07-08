@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827103854
 wayback_snapshot_url: "http://web.archive.org/web/20140827103854/http://cfi.co/finance/2013/08/ernst-young-argentina-trusts-tax-evasion-and-money-laundering/"
+license: CFI-OAAL-1.0
 content_sha256: 9b78878bf8b7e11854ed16656078fc44e3ded4708258b8a81c45ed5553ffc77d
 canonical: 5103-ernst-young-argentina-trusts-tax-evasion-and-money-laundering.json
 ---
