@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140705055822
 wayback_snapshot_url: "http://web.archive.org/web/20140705055822/http://cfi.co/banking/2014/04/ernst-young-argentina-tax-reform-affects-stocks-and-dividends/"
+license: CFI-OAAL-1.0
 content_sha256: 99df8764f90dbca8fb5d9db8efa60412acd9cccb59974317b731e99c32cf9c7b
 canonical: 6945-ernst-young-argentina-tax-reform-affects-stocks-and-dividends.json
 ---
