@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717205750
 wayback_snapshot_url: "http://web.archive.org/web/20190717205750/https://cfi.co/europe/2014/09/professor-mary-beard-every-inch-a-fascinating-woman/"
+license: CFI-OAAL-1.0
 content_sha256: cc8d5bbd7c7d6ffcafe80a57aa92dbaab5d2524e55edd7bdbe8986d1ee8e9560
 canonical: 8005-professor-mary-beard-every-inch-a-fascinating-woman.json
 ---
