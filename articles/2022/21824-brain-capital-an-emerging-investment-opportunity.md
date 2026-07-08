@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220513195051
 wayback_snapshot_url: "http://web.archive.org/web/20220513195051/https://cfi.co/europe/2022/05/brain-capital-an-emerging-investment-opportunity/"
+license: CFI-OAAL-1.0
 content_sha256: afc91fd99db665eb3e43d65ee6117352213d28f6a5914c3796f6bdc8aea8c4e6
 canonical: 21824-brain-capital-an-emerging-investment-opportunity.json
 ---
