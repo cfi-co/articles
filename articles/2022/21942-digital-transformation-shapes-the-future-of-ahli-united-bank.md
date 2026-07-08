@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625232521
 wayback_snapshot_url: "http://web.archive.org/web/20220625232521/https://cfi.co/menu/corporate/2022/05/digital-transformation-shapes-the-future-of-ahli-united-bank/"
+license: CFI-OAAL-1.0
 content_sha256: 3813fd79312899426012ddaea457159d9f5567b49186d2799292843217d86c81
 canonical: 21942-digital-transformation-shapes-the-future-of-ahli-united-bank.json
 ---
