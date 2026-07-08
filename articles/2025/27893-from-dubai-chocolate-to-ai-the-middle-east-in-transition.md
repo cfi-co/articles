@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250903130944
 wayback_snapshot_url: "http://web.archive.org/web/20250903130944/https://cfi.co/middleeast/2025/09/from-dubai-chocolate-to-ai-the-middle-east-in-transition/"
+license: CFI-OAAL-1.0
 content_sha256: 29cfd780257a3c671bb7eba6259c15bf27b233c8b48047c2e6600c4f683d91c3
 canonical: 27893-from-dubai-chocolate-to-ai-the-middle-east-in-transition.json
 ---
