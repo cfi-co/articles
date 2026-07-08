@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140828183026
 wayback_snapshot_url: "http://web.archive.org/web/20140828183026/http://cfi.co/editors-picks/2013/03/our-hero-melinda-gates-no-little-woman/"
+license: CFI-OAAL-1.0
 content_sha256: ed5e9bdf1d84241a8dcb9ba9b916d036f07cebe8451d632aad8120b4d98e6d13
 canonical: 3275-our-hero-melinda-gates-no-little-woman.json
 ---
