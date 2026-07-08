@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211107134243
 wayback_snapshot_url: "http://web.archive.org/web/20211107134243/https://cfi.co/menu/corporate/2021/10/meet-the-satorp-team-guardians-of-the-rolls-royce-of-refineries/"
+license: CFI-OAAL-1.0
 content_sha256: 187108892263c60821922383125d4c0549225b0a8e05db0914b634725a501471
 canonical: 20873-meet-the-satorp-team-guardians-of-the-rolls-royce-of-refineries.json
 ---
