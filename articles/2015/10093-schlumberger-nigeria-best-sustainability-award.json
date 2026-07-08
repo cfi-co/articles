@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190723005756",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190723005756/https://cfi.co/awards/africa/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190723005756/https://cfi.co/awards/africa/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>In over forty countries, oilfield services company Schlumberger is actively engaged in promoting science, technology, engineering, and math (STEM) education through its SEED (Schlumberger Excellence in Education Development) programme. The company is fully committed to share its corporate culture which prioritises science and learning.</strong></p>\r\n<p style=\"text-align: justify;\">SEED is the embodiment of this passion. The programme counts on the volunteer work of hundreds of educators to reach students and engage them in global challenges such as climate change, energy, and water which may be addressed by science.</p>\r\n<p style=\"text-align: justify;\">In Nigeria, SEED has collaborated with over 34 schools and the Nigerian Academy of Science to promote science education. Participating schools work on research projects aimed at igniting a passion for science in students.</p>\r\n<p style=\"text-align: justify;\">The CFI.co Judging Panel considers SEED an exemplary initiative and applauds Schlumberger for its sustained commitment to STEM education. As production processes become ever more complex, demand for engineers and scientists are expected to increase by leaps and bounds over the next few decades. A technology company par excellence, Schlumberger seems to not just recognise this need, but address it in a hands-on manner as well. The CFI.co Judges unanimously decided to hand Schlumberger Nigeria for the second consecutive year its Best Sustainability Award.</p>",
     "content_sha256": "a6c6916905acd5d1a770e888d74ee11677025062ceae79d8dc7d7abe5af8219d",
-    "record_sha256": "da7022acb96efa6638a3b274fd24e66f953e67cbd141d4f55de35c162899ff02"
+    "record_sha256": "a94c79feec605aebad1d99c379317c4af47196c864efadec7c4f78e5bab8603a"
 }

@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723005756
 wayback_snapshot_url: "http://web.archive.org/web/20190723005756/https://cfi.co/awards/africa/"
+license: CFI-OAAL-1.0
 content_sha256: a6c6916905acd5d1a770e888d74ee11677025062ceae79d8dc7d7abe5af8219d
 canonical: 10093-schlumberger-nigeria-best-sustainability-award.json
 ---
