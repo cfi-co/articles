@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140828183045
 wayback_snapshot_url: "http://web.archive.org/web/20140828183045/http://cfi.co/editors-picks/2013/03/idb-hero-al-madani-resources-creativity-and-credibility/"
+license: CFI-OAAL-1.0
 content_sha256: 36c41f70deb503a519d9522309dfea1abecf880aaec68b3c72eeaf0301537e36
 canonical: 3240-idb-hero-al-madani-resources-creativity-and-credibility.json
 ---
