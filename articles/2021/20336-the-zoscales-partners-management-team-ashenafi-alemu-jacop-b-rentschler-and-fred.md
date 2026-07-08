@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220815152138
 wayback_snapshot_url: "http://web.archive.org/web/20220815152138/https://cfi.co/menu/corporate/2021/08/the-zoscales-partners-management-team-ashenafi-alemu-jacop-b-rentschler-and-frederick-kambo/"
+license: CFI-OAAL-1.0
 content_sha256: e7a3d5b325e86f894971dc35795ace2aade5f0a7d49cb08f075e0b9c4944d458
 canonical: 20336-the-zoscales-partners-management-team-ashenafi-alemu-jacop-b-rentschler-and-fred.json
 ---
