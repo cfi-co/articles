@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920102007
 wayback_snapshot_url: "http://web.archive.org/web/20200920102007/https://cfi.co/menu/corporate/2019/10/containers-printers-a-word-in-your-ear-via-your-eye-the-fine-art-of-communicative-packaging/"
+license: CFI-OAAL-1.0
 content_sha256: a424fc7f8a4781864e4193d993c21e7880eb46aa7385728414acb8a718c83dba
 canonical: 16160-containers-printers-a-word-in-your-ear-via-your-eye-the-fine-art-of-communicativ.json
 ---
