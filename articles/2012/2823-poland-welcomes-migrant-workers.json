@@ -23,10 +23,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190823052049",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190823052049/https://cfi.co/europe/2012/12/poland-welcomes-migrant-workers/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190823052049/https://cfi.co/europe/2012/12/poland-welcomes-migrant-workers/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"alignright  wp-image-2824\" alt=\"\" src=\"https://cfi.co/wp-content/uploads/2012/12/warsaw.jpg\" width=\"180\" height=\"180\" /><strong>The only EU member state to avoid recession during the 2008/9 economic crisis, Poland looks set to become a magnet for migrant workers.</strong> Offering some relief following the mass emigration of their own people to other European countries, Poles are beginning to welcome unfamiliar faces around town.</p>\r\n<p style=\"text-align: justify;\">At Bakalarska market, just outside Warsaw, Poles are served by workers from Turkey, Africa, China, Vietnam as well as some of the former Soviet states. Most of these new faces are working legally following an amnesty announced earlier this year. This ethnic mix in Poland would have been unthinkable until quite recently.</p>\r\n\r\n<blockquote>\r\n<h3 style=\"text-align: justify;\"> \"We understand them perfectly because up until now we were the economic migrants.\"</h3>\r\n</blockquote>\r\n<p style=\"text-align: justify;\">Rafai Rogola, responsible for Poland’s immigration policy is happy that his country is now a destination of choice for foreigners seeking to improve their economic situation. He has been quoted as saying, ‘We understand them perfectly because up until now we were the economic migrants.’</p>",
     "content_sha256": "fffcbc0fe6f093800174f74b2d01f9a05f97cb2bb7bc466638df22875985a306",
-    "record_sha256": "ebd2da857dbd785339ae2e3390470eebace0835f53fffe6049c42cf8ad96fc22"
+    "record_sha256": "3efaf8dcc7308b9f7425a4048b4db907d6133ca16069438aae8a6ccffc805bdf"
 }
