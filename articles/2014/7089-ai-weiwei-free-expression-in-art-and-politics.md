@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916043609
 wayback_snapshot_url: "http://web.archive.org/web/20190916043609/https://cfi.co/asia-pacific/2014/04/ai-weiwei-free-expression-in-art-and-politics/"
+license: CFI-OAAL-1.0
 content_sha256: d14d422f71e9359256d5cbc6926d0506e220d8d5eaf54c3bb980eb2a9ec25df6
 canonical: 7089-ai-weiwei-free-expression-in-art-and-politics.json
 ---
