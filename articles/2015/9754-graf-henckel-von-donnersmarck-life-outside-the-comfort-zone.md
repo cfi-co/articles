@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720033322
 wayback_snapshot_url: "http://web.archive.org/web/20190720033322/https://cfi.co/europe/2015/05/graf-henckel-von-donnersmarck-life-outside-the-comfort-zone/"
+license: CFI-OAAL-1.0
 content_sha256: 5273537d89c3fdfa50c2da3b84ca8afa74d4c667b4de571c4f5150a207aa2e20
 canonical: 9754-graf-henckel-von-donnersmarck-life-outside-the-comfort-zone.json
 ---
