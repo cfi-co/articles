@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180703200329
 wayback_snapshot_url: "http://web.archive.org/web/20180703200329/http://cfi.co/africa/2014/07/world-bank-group-customer-is-king-toward-more-effective-development/"
+license: CFI-OAAL-1.0
 content_sha256: ad143f25b8f8cd45e6e1ea3148d5e6ab0e25654aa82fad666485137457a60609
 canonical: 7679-world-bank-group-customer-is-king-toward-more-effective-development.json
 ---
