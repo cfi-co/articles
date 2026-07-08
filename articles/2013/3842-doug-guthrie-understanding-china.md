@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724023948
 wayback_snapshot_url: "http://web.archive.org/web/20190724023948/https://cfi.co/editors-picks/2013/05/doug-guthrie-understanding-china/"
+license: CFI-OAAL-1.0
 content_sha256: f4659a9aa27f66bb9679ee24afe05ef3db57cfec9400215395ecd5e5fc3bc0d4
 canonical: 3842-doug-guthrie-understanding-china.json
 ---
