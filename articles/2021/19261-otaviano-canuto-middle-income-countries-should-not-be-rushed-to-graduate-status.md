@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210323083721
 wayback_snapshot_url: "http://web.archive.org/web/20210323083721/https://cfi.co/finance/2021/03/otaviano-canuto-middle-income-countries-should-not-be-rushed-to-graduate-status/"
+license: CFI-OAAL-1.0
 content_sha256: c1b4642669da6a93e9ecc12220a73f618cefde6edd19f206e4e136ce01a96ba7
 canonical: 19261-otaviano-canuto-middle-income-countries-should-not-be-rushed-to-graduate-status.json
 ---
