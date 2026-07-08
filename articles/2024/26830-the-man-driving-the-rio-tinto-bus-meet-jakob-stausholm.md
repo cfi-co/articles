@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240529103130
 wayback_snapshot_url: "http://web.archive.org/web/20240529103130/https://cfi.co/sustainability/2024/05/the-man-driving-the-rio-tinto-bus-meet-jakob-stausholm/"
+license: CFI-OAAL-1.0
 content_sha256: 9e27f4eb2c707eeeebe43d87fb15ea4700b659f39b24f75e34841817dae50994
 canonical: 26830-the-man-driving-the-rio-tinto-bus-meet-jakob-stausholm.json
 ---
