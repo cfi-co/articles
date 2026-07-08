@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140929051733
 wayback_snapshot_url: "http://web.archive.org/web/20140929051733/http://cfi.co/latinamerica/2014/09/from-haiti-to-canada-michaelle-jean-a-viceroy-from-the-caribbean/"
+license: CFI-OAAL-1.0
 content_sha256: 0d4284d15429650bb4c27c0d1219f8b8f671b07ae38e64bd5aae84a1d166f766
 canonical: 7953-from-haiti-to-canada-michaelle-jean-a-viceroy-from-the-caribbean.json
 ---
