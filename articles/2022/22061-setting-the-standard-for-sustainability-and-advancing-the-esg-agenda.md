@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630123752
 wayback_snapshot_url: "http://web.archive.org/web/20220630123752/https://cfi.co/menu/corporate/2022/05/setting-the-standard-for-sustainability-and-advancing-the-esg-agenda/"
+license: CFI-OAAL-1.0
 content_sha256: ca385cd468545abd212e87c9d032d58a5b0a8210154def4c7631fb53910cb0ce
 canonical: 22061-setting-the-standard-for-sustainability-and-advancing-the-esg-agenda.json
 ---
