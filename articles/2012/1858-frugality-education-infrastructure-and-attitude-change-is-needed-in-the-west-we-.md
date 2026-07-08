@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050534
 wayback_snapshot_url: "http://web.archive.org/web/20190818050534/https://cfi.co/asia-pacific/2012/08/frugality-education-infrastructure-and-attitude-change-is-needed-in-the-west-we-should-not-rely-on-keynesian-nostrums-to-pull-us-through/"
+license: CFI-OAAL-1.0
 content_sha256: 49bde04c71d003580f97cefed7f564d58f826d440039e0086d058bc702761c73
 canonical: 1858-frugality-education-infrastructure-and-attitude-change-is-needed-in-the-west-we-.json
 ---
