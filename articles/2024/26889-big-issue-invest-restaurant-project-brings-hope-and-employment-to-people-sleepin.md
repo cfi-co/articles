@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240627110441
 wayback_snapshot_url: "http://web.archive.org/web/20240627110441/https://cfi.co/lifestyle/2024/06/big-issue-invest-restaurant-project-brings-hope-and-employment-to-people-sleeping-rough-in-london/"
+license: CFI-OAAL-1.0
 content_sha256: cfbc7c985fa5823cec00dce1e247d8b1048b58e8b8028485dd48cd5581465dab
 canonical: 26889-big-issue-invest-restaurant-project-brings-hope-and-employment-to-people-sleepin.json
 ---
