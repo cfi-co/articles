@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045628
 wayback_snapshot_url: "http://web.archive.org/web/20190823045628/https://cfi.co/banking/2012/05/emerging-managers-summit-south/"
+license: CFI-OAAL-1.0
 content_sha256: 88883c97e550ddb4e8cc01c025539179880457166eeb11bd6bc844ecf596d75b
 canonical: 404-emerging-managers-summit-south.json
 ---

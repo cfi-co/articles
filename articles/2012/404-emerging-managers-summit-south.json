@@ -26,10 +26,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190823045628",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190823045628/https://cfi.co/banking/2012/05/emerging-managers-summit-south/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190823045628/https://cfi.co/banking/2012/05/emerging-managers-summit-south/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<strong>October 2012 - Las Vegas, NV</strong>\n\nIf you are looking to expand and diversify your asset allocation by investing in emerging managers as well as women and minority owned investment managers, the <em>emerging managers conference</em> will provide the unique opportunity to access a diversified group of up-and-coming performance-oriented managers and manager of managers. The event will explore the benefits and opportunities offered by investing in emerging managers as well as new strategies for implementing an emerging managers program. If you are an emerging manager, you will learn the procedures used by institutions to launch and maintain successful emerging manager programs. This event will showcase a variety of emerging mangers as well as minority-owned manager funds and other high potential smaller investment firms, and it will offer participants invaluable networking opportunities.\n\nClick for <a href=\"http://www.opalgroup.net/trk/emssc1103.html\" target=\"_blank\">additional details</a>.",
     "content_sha256": "88883c97e550ddb4e8cc01c025539179880457166eeb11bd6bc844ecf596d75b",
-    "record_sha256": "a42dcc24a6d66b7f021fed0a334cf96697a953b547593f94537c88b1381785b0"
+    "record_sha256": "43d7e264fd17772772b0e6f7c14a506774b32b2aad9f88aaa9efe57a5f35b0bb"
 }
