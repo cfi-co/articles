@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724031128
 wayback_snapshot_url: "http://web.archive.org/web/20190724031128/https://cfi.co/middleeast/2013/05/cfi-co-meets-fady-jamaleddine/"
+license: CFI-OAAL-1.0
 content_sha256: ea06424ca44279f973e73ba623d4219971a2458073f07310c93e2e88d85acef8
 canonical: 4140-cfi-co-meets-fady-jamaleddine.json
 ---
