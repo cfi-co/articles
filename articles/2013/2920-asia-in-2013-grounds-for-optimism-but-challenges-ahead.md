@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132620
 wayback_snapshot_url: "http://web.archive.org/web/20190818132620/https://cfi.co/asia-pacific/2013/01/asia-in-2013-grounds-for-optimism-but-challenges-ahead/"
+license: CFI-OAAL-1.0
 content_sha256: c370d47062c3b2193ad48dff41c20feb7b092db3c7de41d14b656bbf94cfb66d
 canonical: 2920-asia-in-2013-grounds-for-optimism-but-challenges-ahead.json
 ---
