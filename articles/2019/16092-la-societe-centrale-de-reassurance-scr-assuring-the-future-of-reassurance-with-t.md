@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200925072501
 wayback_snapshot_url: "http://web.archive.org/web/20200925072501/https://cfi.co/menu/corporate/2019/10/la-societe-centrale-de-reassurance-scr-assuring-the-future-of-reassurance-with-training-compliance-and-effort/"
+license: CFI-OAAL-1.0
 content_sha256: 5e9720cabe5d5bd985af750ae1a95dd1310899625bac214905d5bcf1eedad4b4
 canonical: 16092-la-societe-centrale-de-reassurance-scr-assuring-the-future-of-reassurance-with-t.json
 ---
