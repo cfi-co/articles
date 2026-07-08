@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191013212858
 wayback_snapshot_url: "http://web.archive.org/web/20191013212858/https://cfi.co/asia-pacific/2014/06/bangladesh-receives-600-million-to-improve-rural-electricity-supply/"
+license: CFI-OAAL-1.0
 content_sha256: 994b89643880fd518c3330ad8e0ff2fc5ec809775af8ba7e278d26475190137f
 canonical: 7503-bangladesh-receives-600-million-to-improve-rural-electricity-supply.json
 ---
