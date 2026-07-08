@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180709013507
 wayback_snapshot_url: "http://web.archive.org/web/20180709013507/http://cfi.co/asia-pacific/2015/02/sergey-glazyev-much-more-than-meets-the-eye/"
+license: CFI-OAAL-1.0
 content_sha256: 0c8d91797f327f8700c62ff74b39e38169e1193c1a051c0275757ce3352ee79f
 canonical: 8855-sergey-glazyev-much-more-than-meets-the-eye.json
 ---
