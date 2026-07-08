@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140828135156
 wayback_snapshot_url: "http://web.archive.org/web/20140828135156/http://cfi.co/technology/2013/02/thanks-for-giving-us-space-juan/"
+license: CFI-OAAL-1.0
 content_sha256: 07957c6c063ba8f306d374ff022518ee2797fef808385472fbe8bfbd10d67c12
 canonical: 3128-thanks-for-giving-us-space-juan.json
 ---
