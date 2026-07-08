@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625233545
 wayback_snapshot_url: "http://web.archive.org/web/20220625233545/https://cfi.co/menu/corporate/2021/09/verdant-capital-the-fintech-ecosystem-in-africa-is-entering-into-a-new-era-of-growth-and-consolidation/"
+license: CFI-OAAL-1.0
 content_sha256: 9c62237adf4ac5d4e471d6221d1897819db35259622e63bf616e2a0220e97ef1
 canonical: 20674-verdant-capital-the-fintech-ecosystem-in-africa-is-entering-into-a-new-era-of-gr.json
 ---
