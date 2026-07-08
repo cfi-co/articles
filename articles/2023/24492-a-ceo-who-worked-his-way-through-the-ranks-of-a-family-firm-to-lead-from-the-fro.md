@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230112141741
 wayback_snapshot_url: "http://web.archive.org/web/20230112141741/https://cfi.co/menu/corporate/2023/01/a-ceo-who-worked-his-way-through-the-ranks-of-a-family-firm-to-lead-from-the-front/"
+license: CFI-OAAL-1.0
 content_sha256: ae0a197c6625ded39e76082f2b5ea70b47146cc64bf9642d41d0a605234b1d97
 canonical: 24492-a-ceo-who-worked-his-way-through-the-ranks-of-a-family-firm-to-lead-from-the-fro.json
 ---
