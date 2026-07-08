@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20171004012032
 wayback_snapshot_url: "http://web.archive.org/web/20171004012032/http://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-edreams-odigeo-dana-dunne/"
+license: CFI-OAAL-1.0
 content_sha256: 7df30df2e656fe04e695ecba61d70ebbc8a954cab2969ff265c559aae2ffa5ba
 canonical: 10938-cfi-co-meets-the-ceo-of-edreams-odigeo-dana-dunne.json
 ---
