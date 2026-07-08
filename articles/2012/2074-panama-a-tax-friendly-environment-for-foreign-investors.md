@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190305164106
 wayback_snapshot_url: "http://web.archive.org/web/20190305164106/https://cfi.co/finance/2012/08/panama-a-tax-friendly-environment-for-foreign-investors/"
+license: CFI-OAAL-1.0
 content_sha256: e4481f8d95369c695850529a2f465c5a8457755ab5f64a8dc222a8d62acf98c2
 canonical: 2074-panama-a-tax-friendly-environment-for-foreign-investors.json
 ---
