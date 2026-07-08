@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021051827
 wayback_snapshot_url: "http://web.archive.org/web/20191021051827/https://cfi.co/asia-pacific/2014/07/cfi-co-meets-the-ceo-of-green-delta-securities-wafi-s-m-khan/"
+license: CFI-OAAL-1.0
 content_sha256: 24b8932a7d2e56f07e7b599197baf01af5abb8944a621d2b1fc0f5c09f0ee74c
 canonical: 7922-cfi-co-meets-the-ceo-of-green-delta-securities-wafi-s-m-khan.json
 ---
