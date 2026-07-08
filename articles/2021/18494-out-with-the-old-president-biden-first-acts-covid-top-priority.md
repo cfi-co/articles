@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228104014
 wayback_snapshot_url: "http://web.archive.org/web/20210228104014/https://cfi.co/c-19/2021/01/out-with-the-old-president-biden-first-acts-covid-top-priority/"
+license: CFI-OAAL-1.0
 content_sha256: 1d302c7cf576a1ad91d64add5d8ece366fb9319c66f78b3c9ed4794e03604283
 canonical: 18494-out-with-the-old-president-biden-first-acts-covid-top-priority.json
 ---
