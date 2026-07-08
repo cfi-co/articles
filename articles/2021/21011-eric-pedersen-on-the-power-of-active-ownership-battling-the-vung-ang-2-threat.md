@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630123649
 wayback_snapshot_url: "http://web.archive.org/web/20220630123649/https://cfi.co/menu/corporate/2021/11/eric-pedersen-on-the-power-of-active-ownership-battling-the-vung-ang-2-threat/"
+license: CFI-OAAL-1.0
 content_sha256: 9b31f0a921f6467cfcf44ff5ec3bba4685db12dd656a6c247686b60021d850eb
 canonical: 21011-eric-pedersen-on-the-power-of-active-ownership-battling-the-vung-ang-2-threat.json
 ---
