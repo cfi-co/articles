@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210114015642
 wayback_snapshot_url: "http://web.archive.org/web/20210114015642/https://cfi.co/finance/2020/12/matein-khalid-a-random-walk-down-silicon-valleys-pre-ipo-deal-flow/"
+license: CFI-OAAL-1.0
 content_sha256: 8e46e55decfa75a80ac3886a3c43d14d0001cc347d3d8b5e765290e5e13976a3
 canonical: 18270-matein-khalid-a-random-walk-down-silicon-valleys-pre-ipo-deal-flow.json
 ---
