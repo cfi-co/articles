@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210701144029
 wayback_snapshot_url: "http://web.archive.org/web/20210701144029/https://cfi.co/technology/2021/07/banking-ceos-tell-ibm-what-is-essential-in-a-post-pandemic-reality/"
+license: CFI-OAAL-1.0
 content_sha256: f524a8e501bb2f0679a4bf636247c9d00a30991414ed3e9f5c1e5193fcf0c8e7
 canonical: 20093-banking-ceos-tell-ibm-what-is-essential-in-a-post-pandemic-reality.json
 ---
