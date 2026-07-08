@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418043903
 wayback_snapshot_url: "http://web.archive.org/web/20210418043903/https://cfi.co/europe/2020/11/commissioner-gentiloni-on-eu-economy-andante-ma-non-troppo/"
+license: CFI-OAAL-1.0
 content_sha256: 0adb42c3f0185f0aa677db649f979a0045ec1f58514745fc66d17a28b8de24c1
 canonical: 17900-commissioner-gentiloni-on-eu-economy-andante-ma-non-troppo.json
 ---
