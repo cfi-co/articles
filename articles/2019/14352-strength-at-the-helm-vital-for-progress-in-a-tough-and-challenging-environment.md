@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191215002954
 wayback_snapshot_url: "http://web.archive.org/web/20191215002954/https://cfi.co/middleeast/2019/11/strength-at-the-helm-vital-for-progress-in-a-tough-and-challenging-environment/"
+license: CFI-OAAL-1.0
 content_sha256: 4d1b00e18b11008a72c776cd5ce8751cc1cc918516b3f94abbd580e671dd15a9
 canonical: 14352-strength-at-the-helm-vital-for-progress-in-a-tough-and-challenging-environment.json
 ---
