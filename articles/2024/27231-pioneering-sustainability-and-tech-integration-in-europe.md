@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241101181626
 wayback_snapshot_url: "http://web.archive.org/web/20241101181626/https://cfi.co/europe/2024/10/pioneering-sustainability-and-tech-integration-in-europe/"
+license: CFI-OAAL-1.0
 content_sha256: b923c232db951ca11a2a59025b847549bf83cab8a3d380f6aacad22de7b3a5ee
 canonical: 27231-pioneering-sustainability-and-tech-integration-in-europe.json
 ---
