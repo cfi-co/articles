@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720033020
 wayback_snapshot_url: "http://web.archive.org/web/20190720033020/https://cfi.co/middleeast/2011/12/sharing-of-the-abu-dhabi-experience-to-support-enhanced-environmental-decision-making-in-emerging-economies/"
+license: CFI-OAAL-1.0
 content_sha256: db3415ab17ac0ea2d9ff6a3db145312fec8ef8a2563e95934d319a50915886ac
 canonical: 136-sharing-of-the-abu-dhabi-experience-to-support-enhanced-environmental-decision-m.json
 ---
