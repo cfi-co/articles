@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723005445
 wayback_snapshot_url: "http://web.archive.org/web/20190723005445/https://cfi.co/awards/middle-east/"
+license: CFI-OAAL-1.0
 content_sha256: b05ecc51cc9ec666b483c9a58c32788e787cb95ff831d1501d23ce7fdeeba05a
 canonical: 9096-ubp-wins-the-cfi-co-private-banking-award-uae.json
 ---

@@ -23,10 +23,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190723005445",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190723005445/https://cfi.co/awards/middle-east/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190723005445/https://cfi.co/awards/middle-east/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>Now that many of the global universal banks are returning to their core business and divesting of private banking interests, traditional private banks are growing both organically and through acquisition. Private banks in the UAE received many strong nominations this year and after careful consideration the CFI.co Judging Panel has decided to declare UBP ‘Best Private Bank UAE 2013’.</strong></p>\r\n<p style=\"text-align: justify;\"><img class=\"alignleft wp-image-1314\" src=\"https://cfi.co/awards/wp-content/uploads/2014/08/u.jpg\" alt=\"u\" width=\"80\" height=\"80\" />UBP’s entrepreneurial culture and family ownership have allowed the Bank to align themselves very closely to client needs. With very high capital adequacy ratios and a conviction led approach to investment, the Bank is able to add real value to their client balance sheets while ensuring peace of mind. With very clear lines of communication the bank is able to respond quickly to opportunities while keeping an ever watchful eye on long term protection of capital. The panel feels that the Bank’s careful integration of Lloyds Bank into UBP in the UAE stands out as an example of how the divestment of private banking assets by some global banks will benefit clients and hopefully help those same clients contribute to sustainable economic growth.</p>",
     "content_sha256": "b05ecc51cc9ec666b483c9a58c32788e787cb95ff831d1501d23ce7fdeeba05a",
-    "record_sha256": "b90cd7032c89ee240c5d2136c17eb9ada3b35cd46493f028e2e3db2a8441d130"
+    "record_sha256": "5e7900d58d1111e915e89f664c29dc1b5eb2cb0c0dc225771156e58ad16a1e74"
 }
