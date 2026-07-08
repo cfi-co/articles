@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250522232516
 wayback_snapshot_url: "http://web.archive.org/web/20250522232516/https://cfi.co/finance/2025/02/secondaries-soar-private-equitys-secondary-market/"
+license: CFI-OAAL-1.0
 content_sha256: cd8a735743894d94321012531ba047dcc1b6613ce220186eae4934ea73bc40f0
 canonical: 27555-secondaries-soar-private-equitys-secondary-market.json
 ---
