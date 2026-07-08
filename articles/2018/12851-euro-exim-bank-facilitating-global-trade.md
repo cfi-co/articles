@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422025607
 wayback_snapshot_url: "http://web.archive.org/web/20210422025607/https://cfi.co/menu/corporate/2018/08/euro-exim-bank-facilitating-global-trade/"
+license: CFI-OAAL-1.0
 content_sha256: 2052fc79c0de8b714e2fc2e52f1a907a39640cfb3ade79a2e8747be09e8c37a5
 canonical: 12851-euro-exim-bank-facilitating-global-trade.json
 ---
