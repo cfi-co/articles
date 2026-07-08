@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720034229
 wayback_snapshot_url: "http://web.archive.org/web/20190720034229/https://cfi.co/africa/2015/05/nigeria-an-economic-upswing-foretold/"
+license: CFI-OAAL-1.0
 content_sha256: b7acdd74d986aae5e92386ec7c1e9b6f28de1036c762fd17079e0796c63e3afc
 canonical: 9743-nigeria-an-economic-upswing-foretold.json
 ---
