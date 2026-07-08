@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191015000257
 wayback_snapshot_url: "http://web.archive.org/web/20191015000257/https://cfi.co/africa/2014/08/world-bank-policies-include-screening-for-climate-risks/"
+license: CFI-OAAL-1.0
 content_sha256: c0f8222c46957c6e6d80842b5cd7f255fb71c081e80d1ce7287a9971fc505cd1
 canonical: 7772-world-bank-policies-include-screening-for-climate-risks.json
 ---
