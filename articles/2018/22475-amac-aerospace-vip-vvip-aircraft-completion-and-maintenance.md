@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220814175933
 wayback_snapshot_url: "http://web.archive.org/web/20220814175933/https://cfi.co/menu/corporate/2018/07/amac-aerospace-vip-vvip-aircraft-completion-and-maintenance/"
+license: CFI-OAAL-1.0
 content_sha256: b83da82f7f01c51d3b3a0114d3b0b9d2274f1c11178689abbdb4ff11778c51e0
 canonical: 22475-amac-aerospace-vip-vvip-aircraft-completion-and-maintenance.json
 ---
