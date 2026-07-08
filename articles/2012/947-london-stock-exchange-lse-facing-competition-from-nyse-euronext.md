@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820141410
 wayback_snapshot_url: "http://web.archive.org/web/20190820141410/https://cfi.co/europe/2012/07/london-stock-exchange-lse-facing-competition-from-nyse-euronext/"
+license: CFI-OAAL-1.0
 content_sha256: f2cb930b73fec7d02862393fb61c11d0904a2adb4641c117bcac5be22d8fd157
 canonical: 947-london-stock-exchange-lse-facing-competition-from-nyse-euronext.json
 ---
