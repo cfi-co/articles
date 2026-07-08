@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724023832
 wayback_snapshot_url: "http://web.archive.org/web/20190724023832/https://cfi.co/technology/2018/07/cryptoevolution-why-bitcoin-will-overtake-fiat/"
+license: CFI-OAAL-1.0
 content_sha256: 9f503270f70866c27090206a66e42169f3e69c4065d0792882fdcee043a1a881
 canonical: 12816-cryptoevolution-why-bitcoin-will-overtake-fiat.json
 ---
