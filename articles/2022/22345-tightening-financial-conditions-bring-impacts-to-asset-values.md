@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220712081026
 wayback_snapshot_url: "http://web.archive.org/web/20220712081026/https://cfi.co/finance/2022/07/tightening-financial-conditions-bring-impacts-to-asset-values/"
+license: CFI-OAAL-1.0
 content_sha256: 5840b85d18571134882dfaa1ce751bfd1e61628c44e77231f46b9c43e73e5f2b
 canonical: 22345-tightening-financial-conditions-bring-impacts-to-asset-values.json
 ---
