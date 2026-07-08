@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625225330
 wayback_snapshot_url: "http://web.archive.org/web/20220625225330/https://cfi.co/brave-new-world/2022/04/a-reacquaintance-with-inflation-safe-havens-in-short-supply/"
+license: CFI-OAAL-1.0
 content_sha256: ca1f0771acb5dd8a1eaa85a6f93eb7509b0a556e85f9def01620562b8a44ff69
 canonical: 21693-a-reacquaintance-with-inflation-safe-havens-in-short-supply.json
 ---
