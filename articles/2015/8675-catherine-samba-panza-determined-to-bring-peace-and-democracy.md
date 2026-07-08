@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916044141
 wayback_snapshot_url: "http://web.archive.org/web/20190916044141/https://cfi.co/africa/2015/01/catherine-samba-panza-determined-to-bring-peace-and-democracy/"
+license: CFI-OAAL-1.0
 content_sha256: 238b9141d075c4d9deaba5d6d6ec8c308300b217ceaf19aeaead852661e8ae0d
 canonical: 8675-catherine-samba-panza-determined-to-bring-peace-and-democracy.json
 ---
