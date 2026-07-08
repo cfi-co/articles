@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201023004732
 wayback_snapshot_url: "http://web.archive.org/web/20201023004732/https://cfi.co/europe/2020/10/brexit-fishing-in-troubled-waters/"
+license: CFI-OAAL-1.0
 content_sha256: 3bc314df8787705dab522e3b10318b0f17abc969c987245cb3fea44f08e2d672
 canonical: 17209-brexit-fishing-in-troubled-waters.json
 ---
