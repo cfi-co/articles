@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024324
 wayback_snapshot_url: "http://web.archive.org/web/20190724024324/https://cfi.co/northamerica/2015/08/ellen-ochoa-how-dreams-come-true/"
+license: CFI-OAAL-1.0
 content_sha256: 88bd43ac99148433c82b9f52b423bd4ed0435c8f875a66f404532b1288137b2c
 canonical: 10190-ellen-ochoa-how-dreams-come-true.json
 ---
