@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050447
 wayback_snapshot_url: "http://web.archive.org/web/20190818050447/https://cfi.co/banking/2012/08/european-investment-fund-eif-eur-180m-of-loans-for-microbusinesses-across-europe-under-progress-microfinance/"
+license: CFI-OAAL-1.0
 content_sha256: d154aece907352e06d47054d6c34d09996cad374d170f16482e7c5c5afc6373a
 canonical: 1317-european-investment-fund-eif-eur-180m-of-loans-for-microbusinesses-across-europe.json
 ---
