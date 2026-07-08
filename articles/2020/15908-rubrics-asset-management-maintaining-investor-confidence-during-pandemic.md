@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418060859
 wayback_snapshot_url: "http://web.archive.org/web/20210418060859/https://cfi.co/corporate-leaders/2020/07/rubrics-asset-management-maintaining-investor-confidence-during-pandemic/"
+license: CFI-OAAL-1.0
 content_sha256: d42f3ed11bda7eaa87ad585ad7dba892e4cfceb722b0f51201fc90f1d38054b0
 canonical: 15908-rubrics-asset-management-maintaining-investor-confidence-during-pandemic.json
 ---
