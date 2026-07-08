@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220816113756
 wayback_snapshot_url: "http://web.archive.org/web/20220816113756/https://cfi.co/finance/2022/08/know-the-risks-and-see-the-future-with-the-integrity-and-transparency-of-moodys-local/"
+license: CFI-OAAL-1.0
 content_sha256: 51df7abce4175274e1464b2a7f223e54cab51890e4372940918a8c4b5c1fc595
 canonical: 23043-know-the-risks-and-see-the-future-with-the-integrity-and-transparency-of-moodys-.json
 ---
