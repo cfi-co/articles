@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327045259
 wayback_snapshot_url: "http://web.archive.org/web/20140327045259/http://cfi.co/lifestyle/2012/08/spain-still-up-for-a-class-ride/"
+license: CFI-OAAL-1.0
 content_sha256: 1498e40e5ebf4861e7a179398589b0b99b133499fdd261f1aaf952b5424f86fb
 canonical: 718-spain-still-up-for-a-class-ride.json
 ---
