@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050329
 wayback_snapshot_url: "http://web.archive.org/web/20190818050329/https://cfi.co/banking/2012/07/european-councils-van-rompey-europe-must-overcome-crisis-to-defend-democratic-values/"
+license: CFI-OAAL-1.0
 content_sha256: 4bbd03b63a3af9544cd4567dd2f1ece94629cfeeb00912032e377f9a03958977
 canonical: 1062-european-councils-van-rompey-europe-must-overcome-crisis-to-defend-democratic-va.json
 ---
