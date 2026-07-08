@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220728082310
 wayback_snapshot_url: "http://web.archive.org/web/20220728082310/https://cfi.co/sustainability/2022/07/oecd-only-scale-and-development-impact-will-help-us-reach-the-sdg-mountain-summit/"
+license: CFI-OAAL-1.0
 content_sha256: aee3f567a4cd61cb46dcf27a52c3f055f142f00a091cd0668a4a28dec9eaa042
 canonical: 22491-oecd-only-scale-and-development-impact-will-help-us-reach-the-sdg-mountain-summi.json
 ---
