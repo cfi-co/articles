@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422013826
 wayback_snapshot_url: "http://web.archive.org/web/20210422013826/https://cfi.co/menu/corporate/2019/04/victoria-mutual-group-building-on-dreams-with-some-solid-foundations/"
+license: CFI-OAAL-1.0
 content_sha256: bd0bcb97f1d219cb834e2f4c2c455df52f6e13b47893f0da5f0f02e89b2b3efe
 canonical: 19288-victoria-mutual-group-building-on-dreams-with-some-solid-foundations.json
 ---
