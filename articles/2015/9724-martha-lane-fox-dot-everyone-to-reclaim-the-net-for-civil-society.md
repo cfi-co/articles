@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720031937
 wayback_snapshot_url: "http://web.archive.org/web/20190720031937/https://cfi.co/europe/2015/05/martha-lane-fox-dot-everyone-to-reclaim-the-net-for-civil-society/"
+license: CFI-OAAL-1.0
 content_sha256: 20f6881e564dbde0632cde0cf262ebc8109c365a56f3bf1d0ac5da305c7d611e
 canonical: 9724-martha-lane-fox-dot-everyone-to-reclaim-the-net-for-civil-society.json
 ---
