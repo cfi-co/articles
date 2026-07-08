@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720032135
 wayback_snapshot_url: "http://web.archive.org/web/20190720032135/https://cfi.co/menu/corporate/2018/02/alexander-forbes-group-three-strategies-for-growth/"
+license: CFI-OAAL-1.0
 content_sha256: be21adc7afcb17e29f86779a3594a5bbc370d7ddcd4b80000f069903d03f6090
 canonical: 9374-alexander-forbes-group-three-strategies-for-growth.json
 ---
