@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250310140104
 wayback_snapshot_url: "http://web.archive.org/web/20250310140104/https://cfi.co/africa/2025/03/powering-africas-future-an-interview-with-the-founder-ceo-of-ariya-capital-group/"
+license: CFI-OAAL-1.0
 content_sha256: 613c7b367ee2dd2bfb9d9baf1a262a7006be14d1913d9ad80af8bc0562da250d
 canonical: 27613-powering-africas-future-an-interview-with-the-founder-executive-chair-of-ariya-c.json
 ---
