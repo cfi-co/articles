@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201124105124
 wayback_snapshot_url: "http://web.archive.org/web/20201124105124/https://cfi.co/editors-picks/2020/11/poverty-myths-and-professorial-power-couple-dispelling-them/"
+license: CFI-OAAL-1.0
 content_sha256: 497b3b1697d83b1d1d4586c65e71adc0cb4601fb7a4aa7ad506cd477baca8616
 canonical: 18035-poverty-myths-and-professorial-power-couple-dispelling-them.json
 ---
