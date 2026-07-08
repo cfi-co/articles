@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524044459
 wayback_snapshot_url: "http://web.archive.org/web/20260524044459/https://cfi.co/approval/2025/03/arval-driving-the-future-of-fleet-mobility-through-sustainability-innovation-and-performance/"
+license: CFI-OAAL-1.0
 content_sha256: d28c0c2be88fc018cb38ae912099bcee590ceaefc08d50122f1267f940c75356
 canonical: 27656-arval-driving-the-future-of-fleet-mobility-through-sustainability-innovation-and.json
 ---
