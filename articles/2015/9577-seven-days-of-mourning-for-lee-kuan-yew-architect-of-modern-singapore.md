@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050400
 wayback_snapshot_url: "http://web.archive.org/web/20190823050400/https://cfi.co/asia-pacific/2015/03/seven-days-of-mourning-for-lee-kuan-yew-architect-of-modern-singapore/"
+license: CFI-OAAL-1.0
 content_sha256: 35b989d8917d9b401f73e97fec87c3b54a97c667544894db92db9eafb05d1e39
 canonical: 9577-seven-days-of-mourning-for-lee-kuan-yew-architect-of-modern-singapore.json
 ---
