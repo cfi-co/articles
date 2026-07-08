@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190723005620",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190723005620/https://cfi.co/awards/north-america/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190723005620/https://cfi.co/awards/north-america/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>The CFI Judging Panel would like to congratulate Banco Interacciones on repeating its triumph of last year.</strong> Once again this outstanding institution is named Best Investment Bank and Best Government Bank, Mexico. The Panel was delighted to confirm successive year awards and commented that highly focused and ambitious Interacciones is moving from strength to strength in an important and very promising market.</p>\r\n<p style=\"text-align: justify;\">Banco Interacciones, headquartered in Mexico City, celebrated its twentieth year of operation in 2013. The Bank lends to domestic municipalities and states to finance construction, energy and infrastructure projects. More than half of the highway network has been constructed with the help of this bank.</p>\r\n<p style=\"text-align: justify;\">Interacciones is now reaching out to overseas companies and positioning itself – realistically in the opinion of the Panel – as best partner for infrastructure projects in Mexico.</p>",
     "content_sha256": "16b3ccb2fdd7d45a016310b20785bbe97fc9b9c0d8b35d96bf983e9b2549b44f",
-    "record_sha256": "52a74e2af66c9056051c92efc691b6184da57aee6580415e7ea79b87c078f57f"
+    "record_sha256": "864d9c5f3a773c67e9077a3e5b8b762b1f7e17be5292e7b7f4c038905a3e6777"
 }

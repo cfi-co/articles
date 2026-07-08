@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723005620
 wayback_snapshot_url: "http://web.archive.org/web/20190723005620/https://cfi.co/awards/north-america/"
+license: CFI-OAAL-1.0
 content_sha256: 16b3ccb2fdd7d45a016310b20785bbe97fc9b9c0d8b35d96bf983e9b2549b44f
 canonical: 9406-banco-interacciones-our-winner-in-mexico-for-a-second-year.json
 ---
