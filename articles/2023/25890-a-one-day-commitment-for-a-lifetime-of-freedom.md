@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230823185445
 wayback_snapshot_url: "http://web.archive.org/web/20230823185445/https://cfi.co/europe/2023/08/a-one-day-commitment-for-a-lifetime-of-freedom/"
+license: CFI-OAAL-1.0
 content_sha256: f72e9770dbfcb7cf3f000899ced433f7d06410360d3190c39d8364e1b82fba81
 canonical: 25890-a-one-day-commitment-for-a-lifetime-of-freedom.json
 ---
