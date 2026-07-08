@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630135308
 wayback_snapshot_url: "http://web.archive.org/web/20220630135308/https://cfi.co/menu/corporate/2021/06/brand-new-brand-kaleido-privatbank-puts-harmony-colour-and-passion-into-its-new-look/"
+license: CFI-OAAL-1.0
 content_sha256: 8897fb695b34e49368f47f19d9e89a0b73d5f0029e789e91c144c5d3590155a9
 canonical: 19847-brand-new-brand-kaleido-privatbank-puts-harmony-colour-and-passion-into-its-new-.json
 ---
