@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418045745
 wayback_snapshot_url: "http://web.archive.org/web/20210418045745/https://cfi.co/menu/corporate/2018/11/instrumental-in-rental-with-ceo-charles-haresnape-gatehouse-is-a-shariah-compliant-bank-on-the-move/"
+license: CFI-OAAL-1.0
 content_sha256: aa7fd1bcd133e0bcce96de9543264eb82266d733f5b3549cb40ac73772fa226c
 canonical: 18974-instrumental-in-rental-with-ceo-charles-haresnape-gatehouse-is-a-shariah-complia.json
 ---
