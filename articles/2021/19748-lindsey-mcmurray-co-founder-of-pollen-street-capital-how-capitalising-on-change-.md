@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210601081623
 wayback_snapshot_url: "http://web.archive.org/web/20210601081623/https://cfi.co/europe/2021/06/lindsey-mcmurray-co-founder-of-pollen-street-capital-how-capitalising-on-change-can-drive-benefits-for-financial-services-industry/"
+license: CFI-OAAL-1.0
 content_sha256: 93227e2ce9da4dfd5a28d9c712a09cc1cd0a836fbb8e8209b2ae13a9145bee49
 canonical: 19748-lindsey-mcmurray-co-founder-of-pollen-street-capital-how-capitalising-on-change-.json
 ---
