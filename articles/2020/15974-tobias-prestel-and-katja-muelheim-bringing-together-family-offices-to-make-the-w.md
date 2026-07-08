@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200918134651
 wayback_snapshot_url: "http://web.archive.org/web/20200918134651/https://cfi.co/europe/2020/05/tobias-prestel-and-katja-muelheim-bringing-together-family-offices-to-make-the-world-a-better-place/"
+license: CFI-OAAL-1.0
 content_sha256: 10470e87832ee9a633c9aa096d41babb157ca6ecaa4cc97df7670a5a9c99f859
 canonical: 15974-tobias-prestel-and-katja-muelheim-bringing-together-family-offices-to-make-the-w.json
 ---
