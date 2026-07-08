@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625225912
 wayback_snapshot_url: "http://web.archive.org/web/20220625225912/https://cfi.co/menu/corporate/2022/05/artico-partners-combining-investment-performance-sustainability-and-climate-objectives/"
+license: CFI-OAAL-1.0
 content_sha256: 65e57811c72b3d6a67c11f66838033294a64d39c3e4533caf3fea28ed950fada
 canonical: 21997-artico-partners-combining-investment-performance-sustainability-and-climate-obje.json
 ---
