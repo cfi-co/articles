@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190722120620
 wayback_snapshot_url: "http://web.archive.org/web/20190722120620/https://cfi.co/asia-pacific/2014/11/wb-vietnam-sign-us-500-million-loan-to-improve-energy-efficiency/"
+license: CFI-OAAL-1.0
 content_sha256: 3aa9957b2b944ab23be0d7d2c0612a1317a73df8f413bb5437b3f527638c0446
 canonical: 8390-wb-vietnam-sign-us-500-million-loan-to-improve-energy-efficiency.json
 ---
