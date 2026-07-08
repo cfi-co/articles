@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418061716
 wayback_snapshot_url: "http://web.archive.org/web/20210418061716/https://cfi.co/c-19/2020/10/eu-recovery-the-summer-before-dark-2-0/"
+license: CFI-OAAL-1.0
 content_sha256: 2d1ce04e7f5406a9c22d15be29a01cc05d789afac11fa6df6a83aef425b2dfe8
 canonical: 17323-eu-recovery-the-summer-before-dark-2-0.json
 ---
