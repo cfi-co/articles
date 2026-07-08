@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024050
 wayback_snapshot_url: "http://web.archive.org/web/20190724024050/https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-vp-of-banco-de-corrientes-alejandro-enrique-abraham/"
+license: CFI-OAAL-1.0
 content_sha256: b9f02a18cca31fd0467a779c62bfe0147f19c054e51a4a854fd504c956fc2aae
 canonical: 11948-cfi-co-meets-the-vp-of-banco-de-corrientes-alejandro-enrique-abraham.json
 ---
