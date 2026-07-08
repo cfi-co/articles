@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190508141200
 wayback_snapshot_url: "http://web.archive.org/web/20190508141200/https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-management-team-fideicomiso-hipotecario/"
+license: CFI-OAAL-1.0
 content_sha256: cc0dafe71787c523068d12a3451c9e93919ec393c1e73b1a3d3f8f61ba7a2a2d
 canonical: 11959-cfi-co-meets-the-management-team-fideicomiso-hipotecario.json
 ---
