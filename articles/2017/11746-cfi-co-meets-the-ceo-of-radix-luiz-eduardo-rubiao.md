@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916044157
 wayback_snapshot_url: "http://web.archive.org/web/20190916044157/https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-of-radix-luiz-eduardo-rubiao/"
+license: CFI-OAAL-1.0
 content_sha256: 0d1dcea48c6dd0f0e04176d27e46e9828349c8b01651723cd7a85636c655411a
 canonical: 11746-cfi-co-meets-the-ceo-of-radix-luiz-eduardo-rubiao.json
 ---
