@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045609
 wayback_snapshot_url: "http://web.archive.org/web/20190823045609/https://cfi.co/africa/2012/12/janamitra-devan-the-innovation-imperative/"
+license: CFI-OAAL-1.0
 content_sha256: 6c1130a00c97af976b3f558227eeb66b12dc80b980ce9d7c9ec4f202403578a5
 canonical: 2567-janamitra-devan-the-innovation-imperative.json
 ---
