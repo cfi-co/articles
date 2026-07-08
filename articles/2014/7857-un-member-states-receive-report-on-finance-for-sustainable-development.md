@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717213632
 wayback_snapshot_url: "http://web.archive.org/web/20190717213632/https://cfi.co/africa/2014/08/un-member-states-receive-report-on-finance-for-sustainable-development/"
+license: CFI-OAAL-1.0
 content_sha256: 7cfa8a87062dc101ffd19953af965115f147bc9beee5fc2032489252e9da20b0
 canonical: 7857-un-member-states-receive-report-on-finance-for-sustainable-development.json
 ---
