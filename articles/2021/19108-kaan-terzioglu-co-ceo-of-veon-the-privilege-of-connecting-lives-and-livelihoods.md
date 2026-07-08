@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418062325
 wayback_snapshot_url: "http://web.archive.org/web/20210418062325/https://cfi.co/menu/corporate/2021/03/kaan-terzioglu-co-ceo-of-veon-the-privilege-of-connecting-lives-and-livelihoods/"
+license: CFI-OAAL-1.0
 content_sha256: 40ae4b6989378036445da72dc1a7fe84c6af49a27a2a432ad6ebf2ed8552ada0
 canonical: 19108-kaan-terzioglu-co-ceo-of-veon-the-privilege-of-connecting-lives-and-livelihoods.json
 ---
