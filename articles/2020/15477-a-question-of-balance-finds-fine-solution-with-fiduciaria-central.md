@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200922171107
 wayback_snapshot_url: "http://web.archive.org/web/20200922171107/https://cfi.co/latinamerica/2020/05/a-question-of-balance-finds-fine-solution-with-fiduciaria-central/"
+license: CFI-OAAL-1.0
 content_sha256: a26fa45211b655252c9f541792d233b168d871e8912309c5b47508567ae16ade
 canonical: 15477-a-question-of-balance-finds-fine-solution-with-fiduciaria-central.json
 ---
