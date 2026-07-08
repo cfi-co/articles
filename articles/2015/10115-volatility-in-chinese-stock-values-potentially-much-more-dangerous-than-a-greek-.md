@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820145813
 wayback_snapshot_url: "http://web.archive.org/web/20190820145813/https://cfi.co/asia-pacific/2015/07/volatility-in-chinese-stock-values-potentially-much-more-dangerous-than-a-greek-tragedy/"
+license: CFI-OAAL-1.0
 content_sha256: c7ba07be4d0f6bb4e5cecbdc467202fee346698e603a8d49c2652b0000269a95
 canonical: 10115-volatility-in-chinese-stock-values-potentially-much-more-dangerous-than-a-greek-.json
 ---
