@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241119123734
 wayback_snapshot_url: "http://web.archive.org/web/20241119123734/https://cfi.co/sustainability/2024/11/asian-development-bank-freezing-the-impact-tackling-glacial-melt-with-resilient-solutions/"
+license: CFI-OAAL-1.0
 content_sha256: 2cdbedac99850959fb82e2278bc3c1b233f809a88029c2a7456366a42eea12e0
 canonical: 27301-asian-development-bank-freezing-the-impact-tackling-glacial-melt-with-resilient-.json
 ---
