@@ -19,6 +19,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260528040040
 wayback_snapshot_url: "http://web.archive.org/web/20260528040040/https://cfi.co/menu/corporate/2026/05/xm-trusted-execution-and-human-care-in-volatile-markets/"
+license: CFI-OAAL-1.0
 content_sha256: e5bc7c4c96dae23ade497f199c28dda28e563034f24f12ae0363163e8248ef5a
 canonical: 28507-xm-trusted-execution-and-human-care-in-volatile-markets.json
 ---
