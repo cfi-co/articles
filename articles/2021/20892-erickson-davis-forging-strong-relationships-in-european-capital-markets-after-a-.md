@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211029100307
 wayback_snapshot_url: "http://web.archive.org/web/20211029100307/https://cfi.co/banking/2021/10/erickson-davis-forging-strong-relationships-in-european-capital-markets-after-a-return-to-the-fold/"
+license: CFI-OAAL-1.0
 content_sha256: 155f6dd3864a1f6a77329733d2279ba52ea0d87c06458809da8bfaaf892449cf
 canonical: 20892-erickson-davis-forging-strong-relationships-in-european-capital-markets-after-a-.json
 ---
