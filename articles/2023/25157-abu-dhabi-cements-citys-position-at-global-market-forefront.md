@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230519060017
 wayback_snapshot_url: "http://web.archive.org/web/20230519060017/https://cfi.co/middleeast/2023/04/abu-dhabi-global-market-dhaher-bin-dhaher-al-mheiri"
+license: CFI-OAAL-1.0
 content_sha256: f421e1f63434f354eb992691aec50db51cfb66c169132c58c7ea48b38be46cbb
 canonical: 25157-abu-dhabi-cements-citys-position-at-global-market-forefront.json
 ---
