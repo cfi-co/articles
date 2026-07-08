@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724032007
 wayback_snapshot_url: "http://web.archive.org/web/20190724032007/https://cfi.co/africa/2013/05/al-ghannouchi-our-hero-in-tunisia/"
+license: CFI-OAAL-1.0
 content_sha256: b9fe389c203a8a3f38d5143b6d789e1142b3f55d4fcd7f8896419429d66d47e6
 canonical: 3877-al-ghannouchi-our-hero-in-tunisia.json
 ---
