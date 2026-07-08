@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220626000533
 wayback_snapshot_url: "http://web.archive.org/web/20220626000533/https://cfi.co/menu/corporate/2022/05/golar-industry-innovator-democratising-access-to-lng/"
+license: CFI-OAAL-1.0
 content_sha256: b5a758dffffa00c33acd3d62c27ba9d8e9b91ea15c376cd0f9fc3f9ebcee9260
 canonical: 21889-golar-industry-innovator-democratising-access-to-lng.json
 ---
