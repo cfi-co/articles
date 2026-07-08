@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250213204537
 wayback_snapshot_url: "http://web.archive.org/web/20250213204537/https://cfi.co/sustainability/2025/02/get-neds-get-ahead-these-people-are-important-for-your-business/"
+license: CFI-OAAL-1.0
 content_sha256: c460ae138c012f6d8bc24b687c7bebea610be58a3a66262e520638ad9cf0367b
 canonical: 27566-get-neds-get-ahead-these-people-are-important-for-your-business.json
 ---
