@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225152620
 wayback_snapshot_url: "http://web.archive.org/web/20240225152620/https://cfi.co/projects/2023/11/belarusian-entrepreneur-denis-primakov-is-developing-an-efficient-system-for-transporting-perishable-products/"
+license: CFI-OAAL-1.0
 content_sha256: 6746e8274e5524c6f35ee88bd857432477af8bcfd9a243677658d877822e38dc
 canonical: 26426-belarusian-entrepreneur-denis-primakov-is-developing-an-efficient-system-for-tra.json
 ---
