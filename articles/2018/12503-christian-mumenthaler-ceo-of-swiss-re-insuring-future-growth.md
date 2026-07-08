@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717211155
 wayback_snapshot_url: "http://web.archive.org/web/20190717211155/https://cfi.co/europe/2018/05/christian-mumenthaler-ceo-of-swiss-re-insuring-future-growth/"
+license: CFI-OAAL-1.0
 content_sha256: 196aa786149c567e147a8ce2ecb42d3d25eb733a2853dfe3e137b02c53767300
 canonical: 12503-christian-mumenthaler-ceo-of-swiss-re-insuring-future-growth.json
 ---
