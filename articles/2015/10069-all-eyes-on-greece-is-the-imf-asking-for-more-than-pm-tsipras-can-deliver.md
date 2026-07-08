@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180710165432
 wayback_snapshot_url: "http://web.archive.org/web/20180710165432/http://cfi.co/europe/2015/06/all-eyes-on-greece-is-the-imf-asking-for-more-than-pm-tsipras-can-deliver/"
+license: CFI-OAAL-1.0
 content_sha256: 83f845e544584f3a02412dabbd6213c2ca6a786ad4c8a616088a3d6805b23f4a
 canonical: 10069-all-eyes-on-greece-is-the-imf-asking-for-more-than-pm-tsipras-can-deliver.json
 ---
