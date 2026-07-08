@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260701040129
 wayback_snapshot_url: "http://web.archive.org/web/20260701040129/https://cfi.co/sustainability/2026/06/the-ghost-in-the-hiring-machine-is-ai-about-to-make-the-recruiter-extinct/"
+license: CFI-OAAL-1.0
 content_sha256: e18863c87534f591c158b3d6a0b18f4b0646b6b54c936db905f48f9c23bd97d6
 canonical: 28542-the-ghost-in-the-hiring-machine-is-ai-about-to-make-the-recruiter-extinct.json
 ---
