@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625225215
 wayback_snapshot_url: "http://web.archive.org/web/20220625225215/https://cfi.co/menu/corporate/2022/05/barrick-the-gold-standard-in-sustainability-bringing-socio-economic-benefits-to-host-countries-and-communities/"
+license: CFI-OAAL-1.0
 content_sha256: 349b4db04ca2127cbc33432866b928bc7824cf01e4567dfd486745ba70eaa257
 canonical: 21916-barrick-the-gold-standard-in-sustainability-bringing-socio-economic-benefits-to-.json
 ---
