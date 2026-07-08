@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240522104959
 wayback_snapshot_url: "http://web.archive.org/web/20240522104959/https://cfi.co/finance/2024/05/otaviano-canuto-the-global-war-of-subsidies/"
+license: CFI-OAAL-1.0
 content_sha256: 9b2019e684b70373db493d3ba4884b28858ee4dd8374728319504fd8d3c7184d
 canonical: 26797-otaviano-canuto-the-global-war-of-subsidies.json
 ---
