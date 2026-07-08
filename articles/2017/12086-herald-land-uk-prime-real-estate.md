@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422023351
 wayback_snapshot_url: "http://web.archive.org/web/20210422023351/https://cfi.co/menu/corporate/2017/10/herald-land-uk-prime-real-estate/"
+license: CFI-OAAL-1.0
 content_sha256: eea3dc1902e48b04ff7cb1f33aec722061b962a913462773468d592f02dc5480
 canonical: 12086-herald-land-uk-prime-real-estate.json
 ---
