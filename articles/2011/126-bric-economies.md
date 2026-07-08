@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720031821
 wayback_snapshot_url: "http://web.archive.org/web/20190720031821/https://cfi.co/africa/2011/12/bric-economies/"
+license: CFI-OAAL-1.0
 content_sha256: a024081b66fcd45c95c86f13fdfb055ad0d37545428de744d592a5feb930be2b
 canonical: 126-bric-economies.json
 ---
