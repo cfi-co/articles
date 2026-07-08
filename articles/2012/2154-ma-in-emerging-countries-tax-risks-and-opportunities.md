@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20131001111621
 wayback_snapshot_url: "http://web.archive.org/web/20131001111621/http://cfi.co/banking/2012/09/ma-in-emerging-countries-tax-risks-and-opportunities/"
+license: CFI-OAAL-1.0
 content_sha256: 94cbbeff1b3a8febfd06830b59f040d9fb9007abe0872508d540cc638178d8e8
 canonical: 2154-ma-in-emerging-countries-tax-risks-and-opportunities.json
 ---
