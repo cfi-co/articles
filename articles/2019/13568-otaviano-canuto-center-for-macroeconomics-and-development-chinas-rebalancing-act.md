@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190515122614
 wayback_snapshot_url: "http://web.archive.org/web/20190515122614/https://cfi.co/asia-pacific/2019/05/otaviano-canuto-center-for-macroeconomics-and-development-chinas-rebalancing-act-is-slowly-addressing-sliding-growth-figures/"
+license: CFI-OAAL-1.0
 content_sha256: 72e79907f6784eee191168d4dd54dfbc67dc389b205deb70e20c35bfc856060a
 canonical: 13568-otaviano-canuto-center-for-macroeconomics-and-development-chinas-rebalancing-act.json
 ---
