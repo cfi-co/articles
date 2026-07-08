@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724023838
 wayback_snapshot_url: "http://web.archive.org/web/20190724023838/https://cfi.co/asia-pacific/2017/07/g20-challenges-in-shaping-an-interconnected-world/"
+license: CFI-OAAL-1.0
 content_sha256: d3a5150fb5a4b7e87f95a7605bfc9d08167609938eaf4c68fcbfe87faecb911b
 canonical: 11685-g20-challenges-in-shaping-an-interconnected-world.json
 ---
