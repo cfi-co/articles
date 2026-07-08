@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050535
 wayback_snapshot_url: "http://web.archive.org/web/20190823050535/https://cfi.co/asia-pacific/2012/09/grant-thornton-china-ma-due-diligence-pitfalls/"
+license: CFI-OAAL-1.0
 content_sha256: aae8cf13a4b14703480d2c3e1b37f2628a3039b96b3776f21948413d94b0d3fe
 canonical: 2182-grant-thornton-china-ma-due-diligence-pitfalls.json
 ---
