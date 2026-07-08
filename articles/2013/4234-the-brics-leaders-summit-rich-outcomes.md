@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20131003015048
 wayback_snapshot_url: "http://web.archive.org/web/20131003015048/http://cfi.co/africa/2013/05/the-brics-leaders-summit-rich-outcomes/"
+license: CFI-OAAL-1.0
 content_sha256: c5e991bd11910956b6ab883f83eb490362c69940436d678c48337a8985c2822c
 canonical: 4234-the-brics-leaders-summit-rich-outcomes.json
 ---
