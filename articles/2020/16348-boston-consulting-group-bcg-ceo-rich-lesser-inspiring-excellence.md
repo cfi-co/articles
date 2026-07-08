@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200921083831
 wayback_snapshot_url: "http://web.archive.org/web/20200921083831/https://cfi.co/northamerica/2020/07/boston-consulting-group-bcg-ceo-rich-lesser-inspiring-excellence/"
+license: CFI-OAAL-1.0
 content_sha256: 8efd9894de5a6f9f02e623299218e469a64e840e2ade034604e5a21332ab9095
 canonical: 16348-boston-consulting-group-bcg-ceo-rich-lesser-inspiring-excellence.json
 ---
