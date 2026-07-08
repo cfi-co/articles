@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024015
 wayback_snapshot_url: "http://web.archive.org/web/20190724024015/https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-ceo-of-delen-private-bank-paul-de-winter/"
+license: CFI-OAAL-1.0
 content_sha256: b390c68eeaddaead72b3195b8c0f4ee481ba310496f5bfd46d5fb9e9d93e593f
 canonical: 11927-cfi-co-meets-the-ceo-of-delen-private-bank-paul-de-winter.json
 ---
