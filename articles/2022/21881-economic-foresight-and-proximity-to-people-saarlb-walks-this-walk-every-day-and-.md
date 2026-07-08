@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625231756
 wayback_snapshot_url: "http://web.archive.org/web/20220625231756/https://cfi.co/menu/corporate/2022/05/economic-foresight-and-proximity-to-people-saarlb-walks-this-walk-every-day-and-across-borders/"
+license: CFI-OAAL-1.0
 content_sha256: fcccfa698d67b810fee0c8eb8561486ea7696d1cd3a232378f0a09872149ed46
 canonical: 21881-economic-foresight-and-proximity-to-people-saarlb-walks-this-walk-every-day-and-.json
 ---
