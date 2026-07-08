@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260108180253
 wayback_snapshot_url: "http://web.archive.org/web/20260108180253/https://cfi.co/northamerica/2026/01/trump-targets-wall-street-landlords-putting-private-equity-underwriting-on-notice/"
+license: CFI-OAAL-1.0
 content_sha256: a4c105dae48bf6d65a8c4e0796e51d3ff5b09ac05f059c27cd3c4a15a860ef08
 canonical: 28186-trump-targets-wall-street-landlords-putting-private-equity-underwriting-on-notic.json
 ---
