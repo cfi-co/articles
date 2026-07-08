@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230731185739
 wayback_snapshot_url: "http://web.archive.org/web/20230731185739/https://cfi.co/brave-new-world/2023/07/video-gaming-firm-forced-to-cut-staff-despite-cult-like-following-for-a-franchise-that-just-wont-die/"
+license: CFI-OAAL-1.0
 content_sha256: 89003435bbd8d12673508f9fa1c8ce5969c9a28fd2f702231141e9acac393a30
 canonical: 25702-video-gaming-firm-forced-to-cut-staff-despite-cult-like-following-for-a-franchis.json
 ---
