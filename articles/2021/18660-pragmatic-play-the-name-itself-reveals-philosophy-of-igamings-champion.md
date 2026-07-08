@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418045831
 wayback_snapshot_url: "http://web.archive.org/web/20210418045831/https://cfi.co/menu/corporate/2021/02/pragmatic-play-the-name-itself-reveals-philosophy-of-igamings-champion/"
+license: CFI-OAAL-1.0
 content_sha256: 001cf00add2ebdddd3f29318bdb540568e0daeac595a095c9328b5e24bae7425
 canonical: 18660-pragmatic-play-the-name-itself-reveals-philosophy-of-igamings-champion.json
 ---
