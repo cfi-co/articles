@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014233553
 wayback_snapshot_url: "http://web.archive.org/web/20191014233553/https://cfi.co/europe/2013/08/elusive-democracy-while-voters-fume-brussels-fixes-the-caravan/"
+license: CFI-OAAL-1.0
 content_sha256: 16f376636655babd89d54f97939419dffa12f61d9b9beaef6c8dbf782b9a898f
 canonical: 5036-elusive-democracy-while-voters-fume-brussels-fixes-the-caravan.json
 ---
