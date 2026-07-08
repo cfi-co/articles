@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920140717
 wayback_snapshot_url: "http://web.archive.org/web/20200920140717/https://cfi.co/menu/corporate/2020/05/first-qatar-a-development-company-casting-pearls-on-dohas-golden-beaches/"
+license: CFI-OAAL-1.0
 content_sha256: ba916f5ac2a27f48f6b63657d818add97fc0ac1726f214e6cdf018a10e2b5d34
 canonical: 16029-first-qatar-a-development-company-casting-pearls-on-dohas-golden-beaches.json
 ---
