@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20131001074339
 wayback_snapshot_url: "http://web.archive.org/web/20131001074339/http://cfi.co/europe/2013/09/cbi-great-expectations-on-the-uk-high-street-but-not-out-of-the-woods-yet/"
+license: CFI-OAAL-1.0
 content_sha256: 334562acdf31767127d4c7c6c7484bdb576d22b4142dfadeb315f2f8bebbad81
 canonical: 5334-cbi-great-expectations-on-the-uk-high-street-but-not-out-of-the-woods-yet.json
 ---
