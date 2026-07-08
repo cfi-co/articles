@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720032209
 wayback_snapshot_url: "http://web.archive.org/web/20190720032209/https://cfi.co/finance/2013/05/the-imf-on-prospects-for-growth-latin-america-caribbean/"
+license: CFI-OAAL-1.0
 content_sha256: 50794397f11a74d4585e15115346572d0885ccf986fa7e79ba397268f836b81e
 canonical: 3897-the-imf-on-prospects-for-growth-latin-america-caribbean.json
 ---
