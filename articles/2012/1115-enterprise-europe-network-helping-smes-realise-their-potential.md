@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820141913
 wayback_snapshot_url: "http://web.archive.org/web/20190820141913/https://cfi.co/europe/2012/07/enterprise-europe-network-helping-smes-realise-their-potential/"
+license: CFI-OAAL-1.0
 content_sha256: 0559eb2b6ea7334797c8576ef3a52fc238dfe4ad4d2ce24fcaeaf666a54527bf
 canonical: 1115-enterprise-europe-network-helping-smes-realise-their-potential.json
 ---
