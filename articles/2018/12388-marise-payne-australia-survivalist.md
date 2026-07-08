@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200813172416
 wayback_snapshot_url: "http://web.archive.org/web/20200813172416/https://cfi.co/editors-picks/2018/02/marise-payne-australia-survivalist/"
+license: CFI-OAAL-1.0
 content_sha256: 5f6b6f5da73bc80eb570589c461f13cfc46b0c64031cd0378c725e2845c908be
 canonical: 12388-marise-payne-australia-survivalist.json
 ---
