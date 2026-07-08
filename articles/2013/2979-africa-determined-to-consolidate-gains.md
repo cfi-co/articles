@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132844
 wayback_snapshot_url: "http://web.archive.org/web/20190818132844/https://cfi.co/africa/2013/01/africa-determined-to-consolidate-gains/"
+license: CFI-OAAL-1.0
 content_sha256: 527e86513028498d4bc68edc92b70ce3b914ac37f9728374816601c195ee49c0
 canonical: 2979-africa-determined-to-consolidate-gains.json
 ---
