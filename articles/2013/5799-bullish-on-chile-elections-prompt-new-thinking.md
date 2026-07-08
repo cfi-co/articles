@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327082958
 wayback_snapshot_url: "http://web.archive.org/web/20140327082958/http://cfi.co/finance/2013/11/bullish-on-chile-elections-prompt-new-thinking/"
+license: CFI-OAAL-1.0
 content_sha256: baebc0a68bf7ccfbd44009e11e89dfdbb3c6672887e48131c9d5e43677a5e242
 canonical: 5799-bullish-on-chile-elections-prompt-new-thinking.json
 ---
