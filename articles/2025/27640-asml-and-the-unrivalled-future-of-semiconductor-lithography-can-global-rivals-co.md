@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250319014711
 wayback_snapshot_url: "http://web.archive.org/web/20250319014711/https://cfi.co/technology/2025/03/asml-and-the-unrivalled-future-of-semiconductor-lithography-can-global-rivals-compete/"
+license: CFI-OAAL-1.0
 content_sha256: 25fba2530cc49582533d27727ef08403c6e1fc099b9540098d6435a8174734f4
 canonical: 27640-asml-and-the-unrivalled-future-of-semiconductor-lithography-can-global-rivals-co.json
 ---
