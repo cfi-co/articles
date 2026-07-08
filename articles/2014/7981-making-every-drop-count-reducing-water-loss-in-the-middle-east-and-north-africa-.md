@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20141009075336
 wayback_snapshot_url: "http://web.archive.org/web/20141009075336/http://cfi.co/africa/2014/09/making-every-drop-count-reducing-water-loss-in-the-middle-east-and-north-africa-region/"
+license: CFI-OAAL-1.0
 content_sha256: 82c118ec8c853e3f33c3cbd9a6a4e2d2f274ec4db5d9bb1a870a8250b28d2af0
 canonical: 7981-making-every-drop-count-reducing-water-loss-in-the-middle-east-and-north-africa-.json
 ---
