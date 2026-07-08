@@ -19,6 +19,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524045915
 wayback_snapshot_url: "http://web.archive.org/web/20260524045915/https://cfi.co/finance/2026/05/schafer-cullen-why-discipline-still-defines-value-investing/"
+license: CFI-OAAL-1.0
 content_sha256: d2c1242d71af2769031b5f855b025f692dac1a528809d7afe930c15e493b715d
 canonical: 28468-schafer-cullen-why-discipline-still-defines-value-investing.json
 ---
