@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220223151322
 wayback_snapshot_url: "http://web.archive.org/web/20220223151322/https://cfi.co/brave-new-world/2022/02/oil-north-of-60-africa-seeks-to-cash-in-on-energy-crunch/"
+license: CFI-OAAL-1.0
 content_sha256: 28534ce45a55952e5a1e6d64cd80edcb391c1102bf38e4d248e9f2ed7986d806
 canonical: 21590-oil-north-of-60-africa-seeks-to-cash-in-on-energy-crunch.json
 ---
