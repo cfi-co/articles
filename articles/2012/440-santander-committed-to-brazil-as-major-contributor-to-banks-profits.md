@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050614
 wayback_snapshot_url: "http://web.archive.org/web/20190823050614/https://cfi.co/banking/2012/05/santander-committed-to-brazil-as-major-contributor-to-banks-profits/"
+license: CFI-OAAL-1.0
 content_sha256: b26bcfb1544a34df9deb267bb2ad987065c151cfb7e4f490acc4c4c3473c3620
 canonical: 440-santander-committed-to-brazil-as-major-contributor-to-banks-profits.json
 ---
