@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201024234150
 wayback_snapshot_url: "http://web.archive.org/web/20201024234150/https://cfi.co/middleeast/2020/09/qa-with-ibms-bashar-kilani-need-for-new-skills-emerging-as-we-re-imagine-and-transition-to-the-new-normal/"
+license: CFI-OAAL-1.0
 content_sha256: eff7f1de99ebef5d3f52a599356e44035f66e69ed88f4bd330d63e73f9a25c3e
 canonical: 16995-qa-with-ibms-bashar-kilani-need-for-new-skills-emerging-as-we-re-imagine-and-tra.json
 ---
