@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050126
 wayback_snapshot_url: "http://web.archive.org/web/20190823050126/https://cfi.co/asia-pacific/2012/05/could-the-solution-to-growth-be-tax/"
+license: CFI-OAAL-1.0
 content_sha256: 189154c6a45a8fd072bb9ca524fe1a84a2bb7637f0ee8d05f583faec03ce6190
 canonical: 586-could-the-solution-to-growth-be-tax.json
 ---
