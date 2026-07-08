@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720180825
 wayback_snapshot_url: "http://web.archive.org/web/20190720180825/https://cfi.co/asia-pacific/2014/02/world-bank-group-financial-inclusion-banking-on-low-income-households/"
+license: CFI-OAAL-1.0
 content_sha256: dc1a81d070450d0c243fbcfa3b26f3886c270882510ce40bdcacea7756c98a8c
 canonical: 6686-world-bank-group-financial-inclusion-banking-on-low-income-households.json
 ---
