@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810090157
 wayback_snapshot_url: "http://web.archive.org/web/20200810090157/https://cfi.co/europe/2020/07/rishi-sunak-the-safest-pair-of-hands-for-mission-impossible/"
+license: CFI-OAAL-1.0
 content_sha256: 3d8cf350e60b433f40ed9753ed8c6e91b86638f20a401ba575c3df6eef2a1281
 canonical: 16227-rishi-sunak-the-safest-pair-of-hands-for-mission-impossible.json
 ---
