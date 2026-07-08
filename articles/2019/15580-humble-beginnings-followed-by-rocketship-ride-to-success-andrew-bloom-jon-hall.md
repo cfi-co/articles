@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200918175305
 wayback_snapshot_url: "http://web.archive.org/web/20200918175305/https://cfi.co/corporate-leaders/2019/06/humble-beginnings-followed-by-rocketship-ride-to-success-andrew-bloom-jon-hall/"
+license: CFI-OAAL-1.0
 content_sha256: 87d92751925165f84991271d85dea4267a30262edbdc0c05c5180e374dd8dab7
 canonical: 15580-humble-beginnings-followed-by-rocketship-ride-to-success-andrew-bloom-jon-hall.json
 ---
