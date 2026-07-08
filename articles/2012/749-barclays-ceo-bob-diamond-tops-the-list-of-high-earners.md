@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820142305
 wayback_snapshot_url: "http://web.archive.org/web/20190820142305/https://cfi.co/banking/2012/06/barclays-ceo-bob-diamond-tops-the-list-of-high-earners/"
+license: CFI-OAAL-1.0
 content_sha256: 385408fc077600e937abbc81ac17b4002d0307caf617715d7cb29fb85fa32b7d
 canonical: 749-barclays-ceo-bob-diamond-tops-the-list-of-high-earners.json
 ---
