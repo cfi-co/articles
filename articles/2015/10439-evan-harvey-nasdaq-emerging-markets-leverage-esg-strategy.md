@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180209190659
 wayback_snapshot_url: "http://web.archive.org/web/20180209190659/http://cfi.co/africa/2015/09/evan-harvey-nasdaq-emerging-markets-leverage-esg-strategy/"
+license: CFI-OAAL-1.0
 content_sha256: 5543e81cc6bd2544f7e65295cda4c00bce1baddb2a0c48b5dcbafecce50b39b6
 canonical: 10439-evan-harvey-nasdaq-emerging-markets-leverage-esg-strategy.json
 ---
