@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200928084127
 wayback_snapshot_url: "http://web.archive.org/web/20200928084127/https://cfi.co/c-19/2020/05/a-famine-of-biblical-proportion/"
+license: CFI-OAAL-1.0
 content_sha256: 2ecdef428da7a6e2daff306ebb6bdd78e615d6b98944208939ecda03060d591a
 canonical: 15318-a-famine-of-biblical-proportion.json
 ---
