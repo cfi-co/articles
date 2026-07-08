@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024243
 wayback_snapshot_url: "http://web.archive.org/web/20190724024243/https://cfi.co/middleeast/2013/05/child-bride-hero-nujood-ali/"
+license: CFI-OAAL-1.0
 content_sha256: 4ae831762f200a6def38c8cec41645eaa82d1532fa164e21c32b4bc3b90416c1
 canonical: 3917-child-bride-hero-nujood-ali.json
 ---
