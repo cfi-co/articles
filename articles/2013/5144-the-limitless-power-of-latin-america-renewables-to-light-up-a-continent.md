@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827062603
 wayback_snapshot_url: "http://web.archive.org/web/20140827062603/http://cfi.co/latinamerica/2013/09/the-limitless-power-of-latin-america-renewables-to-light-up-a-continent/"
+license: CFI-OAAL-1.0
 content_sha256: 60b3e76f95c39088257d8c76754502b9a20d2edac92cdbc44bd69fdca9939851
 canonical: 5144-the-limitless-power-of-latin-america-renewables-to-light-up-a-continent.json
 ---
