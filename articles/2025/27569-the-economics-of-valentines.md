@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250214133623
 wayback_snapshot_url: "http://web.archive.org/web/20250214133623/https://cfi.co/finance/2025/02/the-economics-of-valentines/"
+license: CFI-OAAL-1.0
 content_sha256: ed28765294ceef4d0087657fba20942c5bbbcc2929e1a01cd38840d6a978d77f
 canonical: 27569-the-economics-of-valentines.json
 ---
