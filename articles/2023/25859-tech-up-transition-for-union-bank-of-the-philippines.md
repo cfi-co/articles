@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923173204
 wayback_snapshot_url: "http://web.archive.org/web/20230923173204/https://cfi.co/asia-pacific/2023/07/tech-up-transition-for-union-bank-of-the-philippines/"
+license: CFI-OAAL-1.0
 content_sha256: c940cbc2caf6e07f5aa0b4afc8a50686f1911e3be0c3035195c33e94d8675b32
 canonical: 25859-tech-up-transition-for-union-bank-of-the-philippines.json
 ---
