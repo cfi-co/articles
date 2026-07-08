@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916091157
 wayback_snapshot_url: "http://web.archive.org/web/20190916091157/https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-ceo-of-cooperative-central-bank-nicholas-hadjiyiannis/"
+license: CFI-OAAL-1.0
 content_sha256: 9e715189f337b100c550228a606ff1df9a2839c6f2735640ccd8b5817141e8c7
 canonical: 11851-cfi-co-meets-the-ceo-of-cooperative-central-bank-nicholas-hadjiyiannis.json
 ---
