@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150204030443
 wayback_snapshot_url: "http://web.archive.org/web/20150204030443/http://cfi.co/africa/2014/12/trade-balance-of-developing-and-developed-countries-continues-to-converge-unctad-statistics-show/"
+license: CFI-OAAL-1.0
 content_sha256: 9287a63f71309cce508f03a51404e790796c1ead5c0eaae4f84ff7e4735146c9
 canonical: 8496-trade-balance-of-developing-and-developed-countries-continues-to-converge-unctad.json
 ---
