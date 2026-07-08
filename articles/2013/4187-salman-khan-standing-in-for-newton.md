@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20131002194552
 wayback_snapshot_url: "http://web.archive.org/web/20131002194552/http://cfi.co/northamerica/2013/05/salman-khan-standing-in-for-newton/"
+license: CFI-OAAL-1.0
 content_sha256: 14e09523d0bd010dbe9047d64ed90e05c5e2474145a9280e2be213b76417696f
 canonical: 4187-salman-khan-standing-in-for-newton.json
 ---
