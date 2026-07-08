@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230208102430
 wayback_snapshot_url: "http://web.archive.org/web/20230208102430/https://cfi.co/europe/2022/09/lord-waverley-pm-should-appoint-envoys-if-uk-is-serious-about-free-trade-agreement-with-india/"
+license: CFI-OAAL-1.0
 content_sha256: 2d2254fad0a1ac30511d25a58d4a2b22af5997688d8caa652aabf7f50967c88b
 canonical: 23587-lord-waverley-on-digital-transactions-pm-should-appoint-envoys-if-uk-is-serious-.json
 ---
