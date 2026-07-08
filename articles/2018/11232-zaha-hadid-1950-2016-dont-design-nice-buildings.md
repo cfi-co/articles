@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720032047
 wayback_snapshot_url: "http://web.archive.org/web/20190720032047/https://cfi.co/lifestyle/2018/01/zaha-hadid-1950-2016-dont-design-nice-buildings/"
+license: CFI-OAAL-1.0
 content_sha256: ad5056d348499924ac9e6b2eac5e6b42223fab849e2e06ca8572f954d32b6cd0
 canonical: 11232-zaha-hadid-1950-2016-dont-design-nice-buildings.json
 ---
