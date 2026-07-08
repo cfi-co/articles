@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201119153829
 wayback_snapshot_url: "http://web.archive.org/web/20201119153829/https://cfi.co/corporate-leaders/2020/10/bankinvest-ceo-lars-bo-bertram-strong-demand-ensures-good-returns-on-esg-compliant-investments/"
+license: CFI-OAAL-1.0
 content_sha256: 5c17a7bc6bb680635457b53e9dc44bbfef1e3d599139b2dab1db96e78a616c29
 canonical: 17632-bankinvest-ceo-lars-bo-bertram-strong-demand-ensures-good-returns-on-esg-complia.json
 ---
