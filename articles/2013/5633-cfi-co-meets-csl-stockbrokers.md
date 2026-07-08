@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140328052317
 wayback_snapshot_url: "http://web.archive.org/web/20140328052317/http://cfi.co/africa/2013/10/cfi-co-meets-csl-stockbrokers/"
+license: CFI-OAAL-1.0
 content_sha256: d4392c03b260d32ea76526169a704457b94fb86a0fbc5e0ed3959dab8536ca44
 canonical: 5633-cfi-co-meets-csl-stockbrokers.json
 ---
