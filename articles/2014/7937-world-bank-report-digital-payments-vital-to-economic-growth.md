@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20141003054837
 wayback_snapshot_url: "http://web.archive.org/web/20141003054837/http://cfi.co/africa/2014/08/world-bank-report-digital-payments-vital-to-economic-growth/"
+license: CFI-OAAL-1.0
 content_sha256: 1b5744635f555d7ac081c5569347be9411ab1e6fbf6a4debb47ea12be5a106e6
 canonical: 7937-world-bank-report-digital-payments-vital-to-economic-growth.json
 ---
