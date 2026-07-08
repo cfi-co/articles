@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200922011412
 wayback_snapshot_url: "http://web.archive.org/web/20200922011412/https://cfi.co/c-19/2020/04/european-commission-warns-banks/"
+license: CFI-OAAL-1.0
 content_sha256: d3b2c61c533ff1d678944fbb289fbfe8014b4063dce6ee54d3f4bd32ea5e5774
 canonical: 15082-european-commission-warns-banks.json
 ---
