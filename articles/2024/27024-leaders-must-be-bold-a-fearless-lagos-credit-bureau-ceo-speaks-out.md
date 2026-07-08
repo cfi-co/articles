@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240815154753
 wayback_snapshot_url: "http://web.archive.org/web/20240815154753/https://cfi.co/africa/2024/08/leaders-must-be-bold-a-fearless-lagos-credit-bureau-ceo-speaks-out/"
+license: CFI-OAAL-1.0
 content_sha256: 21db0b13eeb20a383ec57d1256128192583a8bb40d4f1520c3726b0fb4bcc475
 canonical: 27024-leaders-must-be-bold-a-fearless-lagos-credit-bureau-ceo-speaks-out.json
 ---
