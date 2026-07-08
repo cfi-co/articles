@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220811153129
 wayback_snapshot_url: "http://web.archive.org/web/20220811153129/https://cfi.co/latinamerica/2022/07/eike-batista-brought-down-by-mining-disaster-above-ground/"
+license: CFI-OAAL-1.0
 content_sha256: 106a7b4e191a78686ad0b043ca3c4160ab895f249e797ded1ee03ba76cb7e463
 canonical: 22482-eike-batista-brought-down-by-mining-disaster-above-ground.json
 ---
