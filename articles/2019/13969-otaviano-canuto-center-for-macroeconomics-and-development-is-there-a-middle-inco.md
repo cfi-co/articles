@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190923114056
 wayback_snapshot_url: "http://web.archive.org/web/20190923114056/https://cfi.co/finance/2019/08/otaviano-canuto-center-for-macroeconomics-and-development-is-there-a-middle-income-trap/"
+license: CFI-OAAL-1.0
 content_sha256: 6eba77d2c46bc2f89f5cd2dcbeac4a83cf9079eaa6409c6139d850108e9d798e
 canonical: 13969-otaviano-canuto-center-for-macroeconomics-and-development-is-there-a-middle-inco.json
 ---
