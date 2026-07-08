@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140704192147
 wayback_snapshot_url: "http://web.archive.org/web/20140704192147/http://cfi.co/europe/2014/06/turkeys-public-finances-time-for-a-fiscal-policy-pivot/"
+license: CFI-OAAL-1.0
 content_sha256: 7ba88798e21191c43ac4c9b3cbf8b9542cb17d576fe290327b04f9990c670c10
 canonical: 7384-turkeys-public-finances-time-for-a-fiscal-policy-pivot.json
 ---
