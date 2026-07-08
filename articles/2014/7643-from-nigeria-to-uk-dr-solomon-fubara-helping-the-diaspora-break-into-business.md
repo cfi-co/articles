@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045815
 wayback_snapshot_url: "http://web.archive.org/web/20190823045815/https://cfi.co/africa/2014/07/from-nigeria-to-uk-dr-solomon-fubara-helping-the-diaspora-break-into-business/"
+license: CFI-OAAL-1.0
 content_sha256: 81e2f191f76fa5f1c6e7ec2b9b5484c6556f1b829cd688f6363857a39a2c704c
 canonical: 7643-from-nigeria-to-uk-dr-solomon-fubara-helping-the-diaspora-break-into-business.json
 ---
