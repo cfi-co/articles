@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250318111409
 wayback_snapshot_url: "http://web.archive.org/web/20250318111409/https://cfi.co/finance/2023/09/the-week-that-was-38/"
+license: CFI-OAAL-1.0
 content_sha256: d8c33a0bf8aeac600634f33d1c345c5aaf0f93da430e9ff09d87599d889e68ff
 canonical: 26099-the-week-that-was-2.json
 ---
