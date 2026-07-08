@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014231843
 wayback_snapshot_url: "http://web.archive.org/web/20191014231843/https://cfi.co/asia-pacific/2013/08/now-even-more-powerful-our-hero-helen-clark/"
+license: CFI-OAAL-1.0
 content_sha256: 2a30fc1f61eea70460dc636806312e0d7a43e6bffc1d78ccdafe261e493e408f
 canonical: 4893-now-even-more-powerful-our-hero-helen-clark.json
 ---
