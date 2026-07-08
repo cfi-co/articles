@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327091429
 wayback_snapshot_url: "http://web.archive.org/web/20140327091429/http://cfi.co/africa/2013/09/angola-powering-a-booming-economy-with-renewables/"
+license: CFI-OAAL-1.0
 content_sha256: 861003db3c0addb8f17fe547c2780aa031a366e2a48e66fbdefa300305df6df2
 canonical: 5242-angola-powering-a-booming-economy-with-renewables.json
 ---
