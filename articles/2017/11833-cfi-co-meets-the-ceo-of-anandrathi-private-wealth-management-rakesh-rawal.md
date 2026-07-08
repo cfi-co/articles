@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921112830
 wayback_snapshot_url: "http://web.archive.org/web/20210921112830/https://cfi.co/menu/corporate/2019/03/rakesh-rawal-ceo-of-anand-rathi-wealth-services-ltd-makings-of-a-great-ceo-professionalism-humility-and-being-a-good-human/"
+license: CFI-OAAL-1.0
 content_sha256: 69db4c7b4c6b11ba43f1029484e359c5e36dfb4aecc03872485f5fb9a4f7ce70
 canonical: 11833-cfi-co-meets-the-ceo-of-anandrathi-private-wealth-management-rakesh-rawal.json
 ---
