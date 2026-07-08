@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418063219
 wayback_snapshot_url: "http://web.archive.org/web/20210418063219/https://cfi.co/menu/corporate/2021/02/kathrein-privatbank-us-election-outcome-is-a-reason-for-fresh-optimism-says-austrian-responsible-investment-specialist/"
+license: CFI-OAAL-1.0
 content_sha256: 9213d8e735aad196fb3591be53ee0226bbea2cd687d3e2991882815f784e4c45
 canonical: 18621-kathrein-privatbank-us-election-outcome-is-a-reason-for-fresh-optimism-says-aust.json
 ---
