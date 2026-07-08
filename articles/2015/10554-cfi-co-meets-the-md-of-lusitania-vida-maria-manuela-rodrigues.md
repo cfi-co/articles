@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024157
 wayback_snapshot_url: "http://web.archive.org/web/20190724024157/https://cfi.co/corporate-leaders/2015/08/cfi-co-meets-the-md-of-lusitania-vida-maria-manuela-rodrigues/"
+license: CFI-OAAL-1.0
 content_sha256: 5e9fbc6e6bb7543875c124102cadf74d0fc10d945a586b5c977f4ac5569e1dad
 canonical: 10554-cfi-co-meets-the-md-of-lusitania-vida-maria-manuela-rodrigues.json
 ---
