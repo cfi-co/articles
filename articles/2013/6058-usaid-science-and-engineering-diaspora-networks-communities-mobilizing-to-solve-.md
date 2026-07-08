@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327081115
 wayback_snapshot_url: "http://web.archive.org/web/20140327081115/http://cfi.co/northamerica/2013/11/usaid-science-and-engineering-diaspora-networks-communities-mobilizing-to-solve-global-development-challenges/"
+license: CFI-OAAL-1.0
 content_sha256: 6a9209ed16b0c678eb2d1c290b3028b8f3370bb615e9d38471101eb9175b4fb5
 canonical: 6058-usaid-science-and-engineering-diaspora-networks-communities-mobilizing-to-solve-.json
 ---
