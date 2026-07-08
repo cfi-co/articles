@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220215151407
 wayback_snapshot_url: "http://web.archive.org/web/20220215151407/https://cfi.co/banking/2022/02/fausto-ribeiro-ceo-of-banco-do-brasil-green-dreams-coming-true-as-brazilian-bank-focuses-on-esg/"
+license: CFI-OAAL-1.0
 content_sha256: 9d175bda9c56e0207903e61d9bc67bf449944e567a341b88c7de292675b95a6a
 canonical: 21571-fausto-ribeiro-ceo-of-banco-do-brasil-green-dreams-coming-true-as-brazilian-bank.json
 ---
