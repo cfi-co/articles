@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200918204206
 wayback_snapshot_url: "http://web.archive.org/web/20200918204206/https://cfi.co/finance/2020/06/heidelberg-university-csi-on-financial-innovation-unleashing-full-potential-of-impact-investing/"
+license: CFI-OAAL-1.0
 content_sha256: 47794834f82ec8402bc7bfc222cfe2a2efd7566166ce642565de4e6690eb6a3b
 canonical: 15745-heidelberg-university-csi-on-financial-innovation-unleashing-full-potential-of-i.json
 ---
