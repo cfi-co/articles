@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140704204552
 wayback_snapshot_url: "http://web.archive.org/web/20140704204552/http://cfi.co/europe/2014/03/shami-chakrabarti-the-need-for-loyal-dissent/"
+license: CFI-OAAL-1.0
 content_sha256: 632f0d737d1964000586e6291f54225aad8eace6d6bf85481ae751e0bf9661bb
 canonical: 6821-shami-chakrabarti-the-need-for-loyal-dissent.json
 ---
