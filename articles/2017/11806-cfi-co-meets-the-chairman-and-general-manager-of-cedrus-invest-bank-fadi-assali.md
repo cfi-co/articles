@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916043842
 wayback_snapshot_url: "http://web.archive.org/web/20190916043842/https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-chairman-and-general-manager-of-cedrus-invest-bank-fadi-assali/"
+license: CFI-OAAL-1.0
 content_sha256: 457a31c14a3dbbd38c44fb9af6bdd8bcb3812f16629a7606a189e8d18c0a8eaa
 canonical: 11806-cfi-co-meets-the-chairman-and-general-manager-of-cedrus-invest-bank-fadi-assali.json
 ---
