@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241112105819
 wayback_snapshot_url: "http://web.archive.org/web/20241112105819/https://cfi.co/lifestyle/2024/11/forging-fitness-dissolving-boundaries-give-crossfit-a-try-sometime-soon/"
+license: CFI-OAAL-1.0
 content_sha256: e15056bb08fb57b2a65e7f0a854ae1ea1f3d116c52978af45cd19ea0f665b675
 canonical: 27287-forging-fitness-dissolving-boundaries-give-crossfit-a-try-sometime-soon.json
 ---
