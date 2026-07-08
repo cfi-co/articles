@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820143437
 wayback_snapshot_url: "http://web.archive.org/web/20190820143437/https://cfi.co/finance/2012/07/wto-the-changing-nature-of-global-trade/"
+license: CFI-OAAL-1.0
 content_sha256: cf224ada7e2c59a2e45194990058c924096f6efffd8de6be0a97a22fee241fc5
 canonical: 1033-wto-the-changing-nature-of-global-trade.json
 ---
