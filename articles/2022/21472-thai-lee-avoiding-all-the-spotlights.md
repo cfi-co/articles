@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220121122125
 wayback_snapshot_url: "http://web.archive.org/web/20220121122125/https://cfi.co/menu/heroes/2022/01/thai-lee-avoiding-all-the-spotlights/"
+license: CFI-OAAL-1.0
 content_sha256: bc572519ee3232bc55467c64c68eba8c46a1f4f9d542da2b0e4b9de88775447f
 canonical: 21472-thai-lee-avoiding-all-the-spotlights.json
 ---
