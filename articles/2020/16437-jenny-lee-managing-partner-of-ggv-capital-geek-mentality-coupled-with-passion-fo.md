@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810082254
 wayback_snapshot_url: "http://web.archive.org/web/20200810082254/https://cfi.co/editors-picks/2020/07/jenny-lee-managing-partner-of-ggv-capital-geek-mentality-coupled-with-passion-for-disruption-makes-a-neat-niche/"
+license: CFI-OAAL-1.0
 content_sha256: 75e9674cbeba5e756be268f5312d9b5bc8fdd730e1082503f36ec262a92c7ce9
 canonical: 16437-jenny-lee-managing-partner-of-ggv-capital-geek-mentality-coupled-with-passion-fo.json
 ---
