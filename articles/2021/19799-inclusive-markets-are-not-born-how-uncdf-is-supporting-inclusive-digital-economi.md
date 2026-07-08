@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210610122329
 wayback_snapshot_url: "http://web.archive.org/web/20210610122329/https://cfi.co/technology/2021/06/inclusive-markets-are-not-born-how-uncdf-is-supporting-inclusive-digital-economies/"
+license: CFI-OAAL-1.0
 content_sha256: eee09b6dd850ec08f9cff2c6bdf1023c67db6200c01c2954a1de7cd7d427a4fa
 canonical: 19799-inclusive-markets-are-not-born-how-uncdf-is-supporting-inclusive-digital-economi.json
 ---
