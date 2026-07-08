@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810075836
 wayback_snapshot_url: "http://web.archive.org/web/20200810075836/https://cfi.co/asia-pacific/2020/07/world-bank-vice-president-for-europe-and-central-asia-interview-with-anna-bjerde/"
+license: CFI-OAAL-1.0
 content_sha256: 07e3d003a6e305f103adff2b853b9a70313da7c4c422299b43e9a38560b5b1ad
 canonical: 15889-world-bank-vice-president-for-europe-and-central-asia-interview-with-anna-bjerde.json
 ---
