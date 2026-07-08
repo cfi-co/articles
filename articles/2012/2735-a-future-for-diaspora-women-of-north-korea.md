@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132757
 wayback_snapshot_url: "http://web.archive.org/web/20190818132757/https://cfi.co/asia-pacific/2012/12/a-future-for-diaspora-women-of-north-korea/"
+license: CFI-OAAL-1.0
 content_sha256: 92efd1a1c23b373f0a6ff484f5c4d3acd7cb89f04337b35e018cb7a768a534b2
 canonical: 2735-a-future-for-diaspora-women-of-north-korea.json
 ---
