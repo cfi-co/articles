@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230717001424
 wayback_snapshot_url: "http://web.archive.org/web/20230717001424/https://cfi.co/corporate-leaders/2023/07/gabriel-chaleplis-online-gaming-is-here-to-stay/"
+license: CFI-OAAL-1.0
 content_sha256: 6c15ba7ac220ad6629165aea7dec46cdb4c9c17ed0d00b1e24dc8fd56865a594
 canonical: 25705-gabriel-chaleplis-online-gaming-is-here-to-stay.json
 ---
