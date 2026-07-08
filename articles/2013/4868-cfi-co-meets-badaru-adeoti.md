@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191013203949
 wayback_snapshot_url: "http://web.archive.org/web/20191013203949/https://cfi.co/africa/2013/07/cfi-co-meets-badaru-adeoti/"
+license: CFI-OAAL-1.0
 content_sha256: c041c55655809ab81b1133f50c73f5a04bfa214f396667d4027b934791aee83c
 canonical: 4868-cfi-co-meets-badaru-adeoti.json
 ---
