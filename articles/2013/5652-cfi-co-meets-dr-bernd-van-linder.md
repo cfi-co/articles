@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140328063827
 wayback_snapshot_url: "http://web.archive.org/web/20140328063827/http://cfi.co/banking/2013/10/cfi-co-meets-dr-bernd-van-linder/"
+license: CFI-OAAL-1.0
 content_sha256: 874f007166f5926a9f55a42b0fe3eb2efa0ce9d37e044acb6eb1f04707e063c8
 canonical: 5652-cfi-co-meets-dr-bernd-van-linder.json
 ---
