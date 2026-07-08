@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200414071828
 wayback_snapshot_url: "http://web.archive.org/web/20200414071828/https://cfi.co/europe/2020/01/klaus-schwab-what-kind-of-capitalism-do-we-want/"
+license: CFI-OAAL-1.0
 content_sha256: 079b442e31dc211fa74ba6ab738f6354b112a0647ba51afb82844e300193c9cd
 canonical: 14491-klaus-schwab-what-kind-of-capitalism-do-we-want.json
 ---
