@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327082316
 wayback_snapshot_url: "http://web.archive.org/web/20140327082316/http://cfi.co/latinamerica/2013/08/female-head-of-petrobras-is-the-inside-outsider/"
+license: CFI-OAAL-1.0
 content_sha256: a9d7c23eb8ada4b6ca59e0a000db5386708f2035ad708160d35774e12545021a
 canonical: 4756-female-head-of-petrobras-is-the-inside-outsider.json
 ---
