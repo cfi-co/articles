@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191013210405
 wayback_snapshot_url: "http://web.archive.org/web/20191013210405/https://cfi.co/asia-pacific/2014/06/india-in-a-strong-position-to-tap-global-growth/"
+license: CFI-OAAL-1.0
 content_sha256: 7a9393a04d0df0ba35df56e99f154d56341ab48374f1695baa041bbe99392082
 canonical: 7482-india-in-a-strong-position-to-tap-global-growth.json
 ---
