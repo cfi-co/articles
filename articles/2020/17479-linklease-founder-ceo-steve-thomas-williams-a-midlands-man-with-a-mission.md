@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201124090253
 wayback_snapshot_url: "http://web.archive.org/web/20201124090253/https://cfi.co/corporate-leaders/2020/01/linklease-founder-ceo-steve-thomas-williams-a-midlands-man-with-a-mission/"
+license: CFI-OAAL-1.0
 content_sha256: 6e05c9bd4c6bbf4fd52076b986a2f418db949597fea82d94e2f595e8e909bc20
 canonical: 17479-linklease-founder-ceo-steve-thomas-williams-a-midlands-man-with-a-mission.json
 ---
