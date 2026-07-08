@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827151522
 wayback_snapshot_url: "http://web.archive.org/web/20140827151522/http://cfi.co/editors-picks/2013/03/michelle-bachelet-and-the-right-of-a-woman-to-decide/"
+license: CFI-OAAL-1.0
 content_sha256: 90946cc03d6edc36cf3826ad0c1b716ff5df2f1ea586bc1e46706b25262211c2
 canonical: 3326-michelle-bachelet-and-the-right-of-a-woman-to-decide.json
 ---
