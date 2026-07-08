@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260122045859
 wayback_snapshot_url: "http://web.archive.org/web/20260122045859/https://cfi.co/projects/2025/02/the-restaurant-industry-a-recipe-for-disaster-or-resilience/"
+license: CFI-OAAL-1.0
 content_sha256: 3f97af22d09883201f052a1cff28c9a25f7ff22a97c87f9e37823c9992d7d5d5
 canonical: 27546-the-restaurant-industry-a-recipe-for-disaster-or-resilience.json
 ---
