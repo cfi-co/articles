@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230616110314
 wayback_snapshot_url: "http://web.archive.org/web/20230616110314/https://cfi.co/featured/2023/06/world-bank-tackling-development-crisis-through-financial-innovation/"
+license: CFI-OAAL-1.0
 content_sha256: df20f4471e5339da3347bca50faa8db5811e688359a8935dde8b37c8c23edea5
 canonical: 25599-world-bank-tackling-development-crisis-through-financial-innovation.json
 ---
