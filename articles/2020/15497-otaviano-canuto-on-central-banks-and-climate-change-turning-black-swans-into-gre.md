@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200922012400
 wayback_snapshot_url: "http://web.archive.org/web/20200922012400/https://cfi.co/banking/2020/06/otaviano-canuto-on-central-banks-and-climate-change-turning-black-swans-into-green/"
+license: CFI-OAAL-1.0
 content_sha256: 97cdff31b05779b3a78dd9e2e85318f94406b0ea5a36fbc1999bbcc335da0c48
 canonical: 15497-otaviano-canuto-on-central-banks-and-climate-change-turning-black-swans-into-gre.json
 ---
