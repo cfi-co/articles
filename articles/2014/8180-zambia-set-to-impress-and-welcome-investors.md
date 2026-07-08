@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825094257
 wayback_snapshot_url: "http://web.archive.org/web/20190825094257/https://cfi.co/africa/2014/10/zambia-set-to-impress-and-welcome-investors/"
+license: CFI-OAAL-1.0
 content_sha256: 7c329b276310d0992c3d6fa998701edc48814d1bda2d8013df435b16a80abac3
 canonical: 8180-zambia-set-to-impress-and-welcome-investors.json
 ---
