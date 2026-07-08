@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200511151825
 wayback_snapshot_url: "http://web.archive.org/web/20200511151825/https://cfi.co/europe/2020/05/spain-nab-setting-agenda-for-spanish-impact-investment-market/"
+license: CFI-OAAL-1.0
 content_sha256: 7c87eacd7b25d5f908dc29b0db8f34d9b73a0909c72dc2f1ff8bae113a3919b7
 canonical: 15256-spain-nab-setting-agenda-for-spanish-impact-investment-market.json
 ---
