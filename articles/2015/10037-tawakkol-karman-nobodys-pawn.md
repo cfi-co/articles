@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724023920
 wayback_snapshot_url: "http://web.archive.org/web/20190724023920/https://cfi.co/editors-picks/2015/06/tawakkol-karman-nobodys-pawn/"
+license: CFI-OAAL-1.0
 content_sha256: 1c24a9c3e98e266921716426240101919e7577e8e881468f3df9a0d83d7effb4
 canonical: 10037-tawakkol-karman-nobodys-pawn.json
 ---
