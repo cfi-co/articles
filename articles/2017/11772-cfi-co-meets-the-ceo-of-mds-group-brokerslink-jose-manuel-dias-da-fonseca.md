@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916043257
 wayback_snapshot_url: "http://web.archive.org/web/20190916043257/https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-of-mds-group-brokerslink-jose-manuel-dias-da-fonseca/"
+license: CFI-OAAL-1.0
 content_sha256: a8c219d8fd17104e8090a38ec21d0efc7ec7ccb27aa705bdea060cf8b54feff1
 canonical: 11772-cfi-co-meets-the-ceo-of-mds-group-brokerslink-jose-manuel-dias-da-fonseca.json
 ---
