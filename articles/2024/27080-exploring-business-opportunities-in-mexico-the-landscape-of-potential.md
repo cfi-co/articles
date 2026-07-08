@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240911211243
 wayback_snapshot_url: "http://web.archive.org/web/20240911211243/https://cfi.co/finance/2024/08/exploring-business-opportunities-in-mexico-the-landscape-of-potential/"
+license: CFI-OAAL-1.0
 content_sha256: 11fe49de3ac600d2286333518bf5bc9c9e9d09dfa81f870e316573ec8a929bab
 canonical: 27080-exploring-business-opportunities-in-mexico-the-landscape-of-potential.json
 ---
