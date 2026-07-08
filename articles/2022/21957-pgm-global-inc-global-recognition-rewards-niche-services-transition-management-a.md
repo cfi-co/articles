@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625232739
 wayback_snapshot_url: "http://web.archive.org/web/20220625232739/https://cfi.co/menu/corporate/2022/05/pgm-global-inc-global-recognition-rewards-niche-services-transition-management-and-a-comprehensive-strategy/"
+license: CFI-OAAL-1.0
 content_sha256: 4d5b6243ed811c04dbb3a538c3d6eabbe000c66289aca9ca4171709c3807fa82
 canonical: 21957-pgm-global-inc-global-recognition-rewards-niche-services-transition-management-a.json
 ---
