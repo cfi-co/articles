@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210512100524
 wayback_snapshot_url: "http://web.archive.org/web/20210512100524/https://cfi.co/menu/hidden-gems/2021/05/uzbekistans-dynamism-presents-new-opportunities-for-post-brexit-britain/"
+license: CFI-OAAL-1.0
 content_sha256: d86fed2cd652b5b5878da9c515a90caf321eac6dc08ae147362c3ed503e66854
 canonical: 19669-uzbekistans-dynamism-presents-new-opportunities-for-post-brexit-britain.json
 ---
