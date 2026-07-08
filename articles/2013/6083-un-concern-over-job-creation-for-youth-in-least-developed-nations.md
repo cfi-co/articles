@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327011445
 wayback_snapshot_url: "http://web.archive.org/web/20140327011445/http://cfi.co/africa/2013/11/un-concern-over-job-creation-for-youth-in-least-developed-nations/"
+license: CFI-OAAL-1.0
 content_sha256: a2d5baf712f1cc7d038959307836e0006385cd633d51b4a132a072c8eb8feadb
 canonical: 6083-un-concern-over-job-creation-for-youth-in-least-developed-nations.json
 ---
