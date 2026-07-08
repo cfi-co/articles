@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231030221814
 wayback_snapshot_url: "http://web.archive.org/web/20231030221814/https://cfi.co/lifestyle/2023/10/when-wheels-fall-off-a-gender-balance-bid-by-a-wall-st-hedge-fund-it-turns-to-woman-vs-man/"
+license: CFI-OAAL-1.0
 content_sha256: f8db805e276873e7857459b7c302f056465728e00054e4266022dcf932d68938
 canonical: 26136-when-wheels-fall-off-a-gender-balance-bid-by-a-wall-st-hedge-fund-it-turns-to-wo.json
 ---
