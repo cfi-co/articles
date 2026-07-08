@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191119062616
 wayback_snapshot_url: "http://web.archive.org/web/20191119062616/https://cfi.co/technology/2019/11/hala-hanna-and-vilas-dhar-how-ai-can-promote-social-good/"
+license: CFI-OAAL-1.0
 content_sha256: b095bab3f86e6ea22c370e332a194e82cea8bc0cf7db4c874f2dd13a039dd9b5
 canonical: 14338-hala-hanna-and-vilas-dhar-how-ai-can-promote-social-good.json
 ---
