@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825094104
 wayback_snapshot_url: "http://web.archive.org/web/20190825094104/https://cfi.co/finance/2014/10/james-zhan-unctad-investing-in-sustainable-development-goals/"
+license: CFI-OAAL-1.0
 content_sha256: 724fcae6efe45568606d27e3d58b635b98c88080aec929c0850aae6d48c1dedd
 canonical: 8170-james-zhan-unctad-investing-in-sustainable-development-goals.json
 ---
