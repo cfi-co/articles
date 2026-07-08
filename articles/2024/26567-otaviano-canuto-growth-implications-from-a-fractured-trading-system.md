@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240104150528
 wayback_snapshot_url: "http://web.archive.org/web/20240104150528/https://cfi.co/finance/2024/01/otaviano-canuto-growth-implications-from-a-fractured-trading-system/"
+license: CFI-OAAL-1.0
 content_sha256: 16387536a723427380e1bfbf76e99ba331960354e82bae2f4ac48466b312600c
 canonical: 26567-otaviano-canuto-growth-implications-from-a-fractured-trading-system.json
 ---
