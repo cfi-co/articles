@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826225559
 wayback_snapshot_url: "http://web.archive.org/web/20140826225559/http://cfi.co/finance/2014/03/qatar-tops-per-capita-investment-in-dubai-realty-aed-6-71-million-followed-by-oman-uae-ksa-germany-india-and-britain/"
+license: CFI-OAAL-1.0
 content_sha256: 0c89bc73da810e9fdee95fc00e4c52075e4e9293aea3450b51e31bc378e39a9d
 canonical: 6752-qatar-tops-per-capita-investment-in-dubai-realty-aed-6-71-million-followed-by-om.json
 ---
