@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050037
 wayback_snapshot_url: "http://web.archive.org/web/20190823050037/https://cfi.co/editors-picks/2013/04/powerful-leadership-from-sonia-gandhi/"
+license: CFI-OAAL-1.0
 content_sha256: a36ef33f5080822632cbda055bf31988a57afe56d5fdd7454094f1f09cf054d8
 canonical: 3519-powerful-leadership-from-sonia-gandhi.json
 ---
