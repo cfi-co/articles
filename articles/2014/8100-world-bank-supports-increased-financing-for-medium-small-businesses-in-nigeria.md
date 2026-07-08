@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014235411
 wayback_snapshot_url: "http://web.archive.org/web/20191014235411/https://cfi.co/africa/2014/09/world-bank-supports-increased-financing-for-medium-small-businesses-in-nigeria/"
+license: CFI-OAAL-1.0
 content_sha256: 9d3a50e0a93850c27831064c7ed2dae90e1ed74b66eb7975478db1f66272cdeb
 canonical: 8100-world-bank-supports-increased-financing-for-medium-small-businesses-in-nigeria.json
 ---
