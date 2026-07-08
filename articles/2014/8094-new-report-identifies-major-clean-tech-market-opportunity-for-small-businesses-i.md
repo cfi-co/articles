@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014233908
 wayback_snapshot_url: "http://web.archive.org/web/20191014233908/https://cfi.co/africa/2014/09/new-report-identifies-major-clean-tech-market-opportunity-for-small-businesses-in-developing-countries/"
+license: CFI-OAAL-1.0
 content_sha256: db2c26ae659bc3d34bf501a1a5290699fcdfd1a4c70d936d09eee03ba92e4391
 canonical: 8094-new-report-identifies-major-clean-tech-market-opportunity-for-small-businesses-i.json
 ---
