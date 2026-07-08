@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150204060726
 wayback_snapshot_url: "http://web.archive.org/web/20150204060726/http://cfi.co/editors-picks/2014/12/pope-francis-repairing-the-roman-catholic-church/"
+license: CFI-OAAL-1.0
 content_sha256: 72292ff4c07ede71f642a944f4a124ccdc52823c044ede80ac0899fb531750db
 canonical: 8487-pope-francis-repairing-the-roman-catholic-church.json
 ---
