@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422033339
 wayback_snapshot_url: "http://web.archive.org/web/20210422033339/https://cfi.co/menu/corporate/2021/02/east-africa-metals-prospecting-for-precious-metal-uncovering-wealth-of-trust-in-fostering-personal-relationships/"
+license: CFI-OAAL-1.0
 content_sha256: bdada69bce23c89e7e7b966ad80faa5d58c2ad14831ebb9212d1b93f87aa25f6
 canonical: 18690-east-africa-metals-prospecting-for-precious-metal-uncovering-wealth-of-trust-in-.json
 ---
