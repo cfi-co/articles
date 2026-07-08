@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140429095102
 wayback_snapshot_url: "http://web.archive.org/web/20140429095102/http://cfi.co/finance/2014/04/grant-thornton-uae-a-defining-period-for-uae-capital-markets/"
+license: CFI-OAAL-1.0
 content_sha256: d159be0d98be63ab945e7be383d3029fc2934e6b65e38ccca7fd5cc1ab36df09
 canonical: 7011-grant-thornton-uae-a-defining-period-for-uae-capital-markets.json
 ---
