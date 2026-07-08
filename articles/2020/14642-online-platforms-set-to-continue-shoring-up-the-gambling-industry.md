@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418054050
 wayback_snapshot_url: "http://web.archive.org/web/20210418054050/https://cfi.co/menu/corporate/2020/02/online-platforms-set-to-continue-shoring-up-the-gambling-industry/"
+license: CFI-OAAL-1.0
 content_sha256: 11eaa522ce9500276ef9abe103fb7fad12191ccd8b14a4ec65cec5d49828d65c
 canonical: 14642-online-platforms-set-to-continue-shoring-up-the-gambling-industry.json
 ---
