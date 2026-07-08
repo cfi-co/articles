@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045520
 wayback_snapshot_url: "http://web.archive.org/web/20190823045520/https://cfi.co/editors-picks/2012/10/usain-bolt-nothing-left-to-prove/"
+license: CFI-OAAL-1.0
 content_sha256: f694a2b16b51d6acdc1162686e55ce1023b308ff2c003d4d8a57ddb9d0ade479
 canonical: 2443-usain-bolt-nothing-left-to-prove.json
 ---
