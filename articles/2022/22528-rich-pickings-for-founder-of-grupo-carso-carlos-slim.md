@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220811143448
 wayback_snapshot_url: "http://web.archive.org/web/20220811143448/https://cfi.co/latinamerica/2022/08/rich-pickings-for-founder-of-grupo-carso-carlos-slim/"
+license: CFI-OAAL-1.0
 content_sha256: 464a0582ff83720c6e4d7e480774866852857e3a76a780765953bd6f62d43aec
 canonical: 22528-rich-pickings-for-founder-of-grupo-carso-carlos-slim.json
 ---
