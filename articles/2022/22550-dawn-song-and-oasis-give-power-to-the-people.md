@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220802113236
 wayback_snapshot_url: "http://web.archive.org/web/20220802113236/https://cfi.co/finance/2022/08/dawn-song-and-oasis-give-power-to-the-people/"
+license: CFI-OAAL-1.0
 content_sha256: 7e58e343d816ba4c9c21b251664e2898b7ceb80ab61c33c4d7a3debf73f03e69
 canonical: 22550-dawn-song-and-oasis-give-power-to-the-people.json
 ---
