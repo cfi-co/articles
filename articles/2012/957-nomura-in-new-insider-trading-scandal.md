@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820143402
 wayback_snapshot_url: "http://web.archive.org/web/20190820143402/https://cfi.co/asia-pacific/2012/07/nomura-in-new-insider-trading-scandal/"
+license: CFI-OAAL-1.0
 content_sha256: 73f8abf6f41e16184047dbc90ed55dafb0317558c547a96377a1458cf01ec1f0
 canonical: 957-nomura-in-new-insider-trading-scandal.json
 ---

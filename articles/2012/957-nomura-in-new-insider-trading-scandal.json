@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190820143402",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190820143402/https://cfi.co/asia-pacific/2012/07/nomura-in-new-insider-trading-scandal/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190820143402/https://cfi.co/asia-pacific/2012/07/nomura-in-new-insider-trading-scandal/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><a href=\"http://capitalfinanceint.com/news/wp-content/uploads/2012/07/nomura-1.jpg\"><img class=\"alignleft size-full wp-image-958\" title=\"nomura-1\" src=\"http://capitalfinanceint.com/news/wp-content/uploads/2012/07/nomura-1.jpg\" alt=\"\" width=\"284\" height=\"177\" /></a>Nomura is facing a new insider trading scandal. Nomura Holdings admitted to sweeping breaches of safeguards on confidential client information and will slash top executives' pay and shut an equity sales desk as Japan's largest brokerage seeks to resolve a damaging insider trading probe.</p>\n<p style=\"text-align: justify;\">Nomura said CEO Kenichi Watanabe's pay would be halved for six months to take responsibility for the brokerage's third insider trading scandal since he took charge four years ago. In the year to end-March, 59-year-old Watanabe was paid US $1.6 million, including options.</p>\n<p style=\"text-align: justify;\">Nomura has 27,000 employees and is Japans largest asset manager with US$ one trillion from private clients alone.</p>\n<p style=\"text-align: justify;\">Nomura reported profits of $141 million for the 12 months fiscal year ending March 31<sup>st</sup>, 2012. This was a better result than in 2009 when the company lost $7.1 Billion. Nomura has $29 billion in shareholders equity. Nomura’s shares pay a current dividend yield of 2%.</p>",
     "content_sha256": "73f8abf6f41e16184047dbc90ed55dafb0317558c547a96377a1458cf01ec1f0",
-    "record_sha256": "d7ff80d964482d9b1a87cd650cf659181f36bab8e79a1f41c6152a5647ed6bcb"
+    "record_sha256": "d8dcb313df385539ebc939ed68b40861647e110c8b0dd880ee8e1caef6cd621a"
 }
