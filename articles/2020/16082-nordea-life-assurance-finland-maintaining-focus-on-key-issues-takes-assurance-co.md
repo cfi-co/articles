@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200919094117
 wayback_snapshot_url: "http://web.archive.org/web/20200919094117/https://cfi.co/corporate-leaders/2020/06/nordea-life-assurance-finland-maintaining-focus-on-key-issues-takes-assurance-company-to-a-winning-position/"
+license: CFI-OAAL-1.0
 content_sha256: 76a28d5fde48be18cc9a0d6c264fcc96f8b48b71a4e84301c9f2f4c8c637563f
 canonical: 16082-nordea-life-assurance-finland-maintaining-focus-on-key-issues-takes-assurance-co.json
 ---
