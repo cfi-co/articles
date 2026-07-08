@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180704125117
 wayback_snapshot_url: "http://web.archive.org/web/20180704125117/http://cfi.co/banking/2015/01/world-economic-forum-all-eyes-on-european-central-bank/"
+license: CFI-OAAL-1.0
 content_sha256: a323758c977ef95a0d1d396579541bd75690d9e49f46f168e01c598ad31c03e2
 canonical: 8807-world-economic-forum-all-eyes-on-european-central-bank.json
 ---
