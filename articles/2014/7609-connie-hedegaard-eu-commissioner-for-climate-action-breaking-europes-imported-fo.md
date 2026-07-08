@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050955
 wayback_snapshot_url: "http://web.archive.org/web/20190818050955/https://cfi.co/europe/2014/07/connie-hedegaard-eu-commissioner-for-climate-action-breaking-europes-imported-fossil-fuels-addiction/"
+license: CFI-OAAL-1.0
 content_sha256: 69c97405c9208cdf3dc6f9cb37a590aea88cca94b5884df8cfab8fb6e7034b94
 canonical: 7609-connie-hedegaard-eu-commissioner-for-climate-action-breaking-europes-imported-fo.json
 ---
