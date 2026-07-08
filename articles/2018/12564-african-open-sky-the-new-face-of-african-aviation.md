@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210114203943
 wayback_snapshot_url: "http://web.archive.org/web/20210114203943/https://cfi.co/menu/corporate/2018/05/african-open-sky-the-new-face-of-african-aviation/"
+license: CFI-OAAL-1.0
 content_sha256: 7ff7fb2ef6aee2a7c2d3663b92f2cf89ceee028ad97667744709b82b060bfa1f
 canonical: 12564-african-open-sky-the-new-face-of-african-aviation.json
 ---
