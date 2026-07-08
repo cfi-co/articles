@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180702224315
 wayback_snapshot_url: "http://web.archive.org/web/20180702224315/http://cfi.co/africa/2013/11/miga-world-bank-energy-in-africa-the-many-sides-of-sustainability/"
+license: CFI-OAAL-1.0
 content_sha256: 97bfb25637aa830468e7a73561e9b8ec50b594a82158451834e1af2be4f30e32
 canonical: 6016-miga-world-bank-energy-in-africa-the-many-sides-of-sustainability.json
 ---
