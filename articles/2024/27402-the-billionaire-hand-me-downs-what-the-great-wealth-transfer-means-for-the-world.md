@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241216132456
 wayback_snapshot_url: "http://web.archive.org/web/20241216132456/https://cfi.co/finance/2024/12/the-billionaire-hand-me-downs-what-the-great-wealth-transfer-means-for-the-world/"
+license: CFI-OAAL-1.0
 content_sha256: fe128629d8544293996f5d3e3490a3b514fd80a1b3d4ee69de9084f6e62244ed
 canonical: 27402-the-billionaire-hand-me-downs-what-the-great-wealth-transfer-means-for-the-world.json
 ---
