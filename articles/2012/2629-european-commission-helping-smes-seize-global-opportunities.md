@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721110644
 wayback_snapshot_url: "http://web.archive.org/web/20190721110644/https://cfi.co/europe/2012/12/european-commission-helping-smes-seize-global-opportunities/"
+license: CFI-OAAL-1.0
 content_sha256: fe679710954dc2eb756cb3f8f17f5eca9317a6cd0b5f985393364217c7752092
 canonical: 2629-european-commission-helping-smes-seize-global-opportunities.json
 ---
