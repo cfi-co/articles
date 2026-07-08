@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916085736
 wayback_snapshot_url: "http://web.archive.org/web/20190916085736/https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-ceo-of-maubank-sridhar-nagarajan/"
+license: CFI-OAAL-1.0
 content_sha256: 96f4586f8dd24031b4535e7610d328081e54a5e704476933ba74ee1a5df15add
 canonical: 11882-cfi-co-meets-the-ceo-of-maubank-sridhar-nagarajan.json
 ---
