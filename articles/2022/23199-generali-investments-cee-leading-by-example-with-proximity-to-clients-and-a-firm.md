@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230323012748
 wayback_snapshot_url: "http://web.archive.org/web/20230323012748/https://cfi.co/menu/corporate/2022/07/generali-investments-cee-leading-by-example-with-proximity-to-clients-and-a-firm-sustainability-focus/"
+license: CFI-OAAL-1.0
 content_sha256: 56379dfb7f243d85d252190eac532ac2637d827431fd6af085916e882c686f9f
 canonical: 23199-generali-investments-cee-leading-by-example-with-proximity-to-clients-and-a-firm.json
 ---
