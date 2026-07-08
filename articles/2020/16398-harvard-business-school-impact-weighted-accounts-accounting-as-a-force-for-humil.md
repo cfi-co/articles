@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810080626
 wayback_snapshot_url: "http://web.archive.org/web/20200810080626/https://cfi.co/finance/2020/07/harvard-business-school-impact-weighted-accounts-accounting-as-a-force-for-humility-and-prosperity/"
+license: CFI-OAAL-1.0
 content_sha256: ed6b74e25a8a0d16502d36027cc6236de29cc1672697210bcb782fdbbedfbd08
 canonical: 16398-harvard-business-school-impact-weighted-accounts-accounting-as-a-force-for-humil.json
 ---
