@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260129012328
 wayback_snapshot_url: "http://web.archive.org/web/20260129012328/https://cfi.co/europe/2026/01/the-dissonance-of-davos-2026-capital-allocation-in-an-age-of-fragmentation-and-the-ai-energy-nexus/"
+license: CFI-OAAL-1.0
 content_sha256: d69f2daa04e271e9c9b5bda6627062d576eb4773aa8d7ef8d88c9057d64368dc
 canonical: 28238-the-dissonance-of-davos-2026-capital-allocation-in-an-age-of-fragmentation-and-t.json
 ---
