@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203061459
 wayback_snapshot_url: "http://web.archive.org/web/20221203061459/https://cfi.co/lifestyle/2022/07/living-in-new-york-youre-welcome-but-it-helps-if-youre-wealthy/"
+license: CFI-OAAL-1.0
 content_sha256: 8f3ab49d6b9d26127701e5d84c7557fdfa9ee90b514dc96b7489c577ef564598
 canonical: 22316-living-in-new-york-you-dont-need-to-be-wealthy.json
 ---
