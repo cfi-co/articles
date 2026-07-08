@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720181051
 wayback_snapshot_url: "http://web.archive.org/web/20190720181051/https://cfi.co/banking/2014/10/the-underrated-modesty-of-executive-pay-at-the-world-bank/"
+license: CFI-OAAL-1.0
 content_sha256: 2cf4260b6c6e5e5032ef3c92a305236ab25210cbf1fc4db791f32697cd7cbeee
 canonical: 8166-the-underrated-modesty-of-executive-pay-at-the-world-bank.json
 ---
