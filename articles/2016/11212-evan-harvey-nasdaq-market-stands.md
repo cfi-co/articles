@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210226094502
 wayback_snapshot_url: "http://web.archive.org/web/20210226094502/https://cfi.co/sustainability/2016/05/evan-harvey-nasdaq-market-stands/"
+license: CFI-OAAL-1.0
 content_sha256: ddcb40297413c75aa6913ef7b684cdc832672a82fb1c66741c43348a34fa55fc
 canonical: 11212-evan-harvey-nasdaq-market-stands.json
 ---
