@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045327
 wayback_snapshot_url: "http://web.archive.org/web/20190823045327/https://cfi.co/finance/2015/02/aim-2015-focuses-in-fdi-based-on-innovation-and-technology-transfer-to-achieve-sustainable-development/"
+license: CFI-OAAL-1.0
 content_sha256: c7add442c94b8da256ffc67a87fba8c5119c32af43a3b3bacbbfa51f648700f8
 canonical: 8859-aim-2015-focuses-in-fdi-based-on-innovation-and-technology-transfer-to-achieve-s.json
 ---
