@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200924121227
 wayback_snapshot_url: "http://web.archive.org/web/20200924121227/https://cfi.co/banking/2020/05/kathrein-privatbank-a-past-rich-in-tradition-a-future-filled-with-promise/"
+license: CFI-OAAL-1.0
 content_sha256: dfbdb2fe7e9780e184c6123bb0d6f848ebb1fa547972d25c688f22039fb5d68e
 canonical: 16000-kathrein-privatbank-a-past-rich-in-tradition-a-future-filled-with-promise.json
 ---
