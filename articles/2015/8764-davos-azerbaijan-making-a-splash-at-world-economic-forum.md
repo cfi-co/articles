@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180709042809
 wayback_snapshot_url: "http://web.archive.org/web/20180709042809/http://cfi.co/asia-pacific/2015/01/davos-azerbaijan-making-a-splash-at-world-economic-forum/"
+license: CFI-OAAL-1.0
 content_sha256: 79cb2de4ebd471f53197c31859682fcd33c720b7a11347c21c0f0447a44b3ad9
 canonical: 8764-davos-azerbaijan-making-a-splash-at-world-economic-forum.json
 ---
