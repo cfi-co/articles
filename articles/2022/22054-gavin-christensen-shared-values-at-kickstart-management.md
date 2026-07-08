@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630124420
 wayback_snapshot_url: "http://web.archive.org/web/20220630124420/https://cfi.co/menu/start-ups/2022/05/gavin-christensen-shared-values-at-kickstart-management/"
+license: CFI-OAAL-1.0
 content_sha256: 85ed62416b93bff508e9b259d410cd593069b9f4480f2b5876079b792ac2417c
 canonical: 22054-gavin-christensen-shared-values-at-kickstart-management.json
 ---
