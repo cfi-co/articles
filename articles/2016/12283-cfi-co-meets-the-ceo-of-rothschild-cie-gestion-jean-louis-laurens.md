@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916090253
 wayback_snapshot_url: "http://web.archive.org/web/20190916090253/https://cfi.co/corporate-leaders/2016/03/cfi-co-meets-the-ceo-of-rothschild-cie-gestion-jean-louis-laurens/"
+license: CFI-OAAL-1.0
 content_sha256: b5589573d66af74e9a5e86a841d10ccaf4993eb3af2ad37b37a261c53eda49cb
 canonical: 12283-cfi-co-meets-the-ceo-of-rothschild-cie-gestion-jean-louis-laurens.json
 ---
