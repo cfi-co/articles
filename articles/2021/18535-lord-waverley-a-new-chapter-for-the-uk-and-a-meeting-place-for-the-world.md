@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210129080935
 wayback_snapshot_url: "http://web.archive.org/web/20210129080935/https://cfi.co/europe/2021/01/lord-waverley-a-new-chapter-for-the-uk-and-a-meeting-place-for-the-world/"
+license: CFI-OAAL-1.0
 content_sha256: d9f985719c645de84351334be416d5f9e31bc7142ce0b78e8b4d5bbc089cb283
 canonical: 18535-lord-waverley-a-new-chapter-for-the-uk-and-a-meeting-place-for-the-world.json
 ---
