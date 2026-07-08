@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916085926
 wayback_snapshot_url: "http://web.archive.org/web/20190916085926/https://cfi.co/africa/2013/01/global-fdi-recovery-stalls-in-2012/"
+license: CFI-OAAL-1.0
 content_sha256: 3a9a0d965256e30fdc3964e5409828d387b8c7b4fd443839f1f6103f5f9af872
 canonical: 2945-global-fdi-recovery-stalls-in-2012.json
 ---
