@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014231410
 wayback_snapshot_url: "http://web.archive.org/web/20191014231410/https://cfi.co/asia-pacific/2014/12/world-bank-approves-financing-for-nepal-grid-solar-and-energy-efficiency-project/"
+license: CFI-OAAL-1.0
 content_sha256: 94c5380519235ce281d36dd8a0bd555ae1723bc577a9b9af41a210a41faaf57f
 canonical: 8605-world-bank-approves-financing-for-nepal-grid-solar-and-energy-efficiency-project.json
 ---
