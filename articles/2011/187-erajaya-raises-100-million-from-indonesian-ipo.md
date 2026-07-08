@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720032515
 wayback_snapshot_url: "http://web.archive.org/web/20190720032515/https://cfi.co/asia-pacific/2011/12/erajaya-raises-100-million-from-indonesian-ipo/"
+license: CFI-OAAL-1.0
 content_sha256: 81c5af000b20ed58b6966c482094011cd94b0be6c68b4a66de831c0dec2d0bbf
 canonical: 187-erajaya-raises-100-million-from-indonesian-ipo.json
 ---
