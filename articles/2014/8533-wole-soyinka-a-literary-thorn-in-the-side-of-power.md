@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150204045115
 wayback_snapshot_url: "http://web.archive.org/web/20150204045115/http://cfi.co/editors-picks/2014/12/wole-soyinka-a-literary-thorn-in-the-side-of-power/"
+license: CFI-OAAL-1.0
 content_sha256: ac82429e61042a019f0e26be0fbf3fa0f1768eaa0800d352de2548a787afff1a
 canonical: 8533-wole-soyinka-a-literary-thorn-in-the-side-of-power.json
 ---
