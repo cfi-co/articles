@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180210080557
 wayback_snapshot_url: "http://web.archive.org/web/20180210080557/http://cfi.co/northamerica/2015/11/grand-old-party-wacky-is-the-new-normal/"
+license: CFI-OAAL-1.0
 content_sha256: dc8fdd3955f67e9d99814a3fc811cd60d802d7ce60b6dd39218ba96c71726d6f
 canonical: 10626-grand-old-party-wacky-is-the-new-normal.json
 ---
