@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625222631
 wayback_snapshot_url: "http://web.archive.org/web/20220625222631/https://cfi.co/menu/corporate/2021/11/arca-fondi-sgr-innovation-sustainability-and-modern-technology/"
+license: CFI-OAAL-1.0
 content_sha256: 6df0dfb3c6ad2cdb94e79fb6e79882c7fc4ddcd7d17518ea468fa9f308994bf1
 canonical: 21027-arca-fondi-sgr-innovation-sustainability-and-modern-technology.json
 ---
