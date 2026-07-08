@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250127095705
 wayback_snapshot_url: "http://web.archive.org/web/20250127095705/https://cfi.co/africa/2025/01/njmpf-empowering-financial-literacy-exemplary-leadership/"
+license: CFI-OAAL-1.0
 content_sha256: 04f86c3636592ef6890d3e4c253438dd0c6a63b5e1f7f6bc83a13c7ea711a9ec
 canonical: 27524-njmpf-empowering-financial-literacy-exemplary-leadership.json
 ---
