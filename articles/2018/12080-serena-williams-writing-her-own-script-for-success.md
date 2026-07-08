@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200918212804
 wayback_snapshot_url: "http://web.archive.org/web/20200918212804/https://cfi.co/editors-picks/2018/02/serena-williams-writing-her-own-script-for-success/"
+license: CFI-OAAL-1.0
 content_sha256: 3bb8e7c9e34e9b0f252dca8805f9e6f6d1365bb536e8e68f57f841febcea160b
 canonical: 12080-serena-williams-writing-her-own-script-for-success.json
 ---
