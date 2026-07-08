@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200514210132
 wayback_snapshot_url: "http://web.archive.org/web/20200514210132/https://cfi.co/c-19/2020/04/debt-relief-needed-to-preserve-30-years-of-progress/"
+license: CFI-OAAL-1.0
 content_sha256: 888ec56309641915aaac62e0e4ae422c05a7e0f0ca202160ce60a5f6cfac4675
 canonical: 14931-debt-relief-needed-to-preserve-30-years-of-progress.json
 ---
