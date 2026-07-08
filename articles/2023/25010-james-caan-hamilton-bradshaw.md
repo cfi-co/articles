@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230326145611
 wayback_snapshot_url: "http://web.archive.org/web/20230326145611/https://cfi.co/james-caan-hamilton-bradshaw/"
+license: CFI-OAAL-1.0
 content_sha256: 1578209829eb0cb480dfc69d62e37d43915afc092bbdadeab5936dd28d5dbef9
 canonical: 25010-james-caan-hamilton-bradshaw.json
 ---
