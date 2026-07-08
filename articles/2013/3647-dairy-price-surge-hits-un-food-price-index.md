@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045335
 wayback_snapshot_url: "http://web.archive.org/web/20190823045335/https://cfi.co/asia-pacific/2013/04/dairy-price-surge-hits-un-food-price-index/"
+license: CFI-OAAL-1.0
 content_sha256: a476c92bff821ba0e2d2fe0256e1ae80caa13876762473703addb42c4a3a601e
 canonical: 3647-dairy-price-surge-hits-un-food-price-index.json
 ---
