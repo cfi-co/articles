@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180709121606
 wayback_snapshot_url: "http://web.archive.org/web/20180709121606/http://cfi.co/banking/2015/10/brazil-argentina-only-one-getting-real/"
+license: CFI-OAAL-1.0
 content_sha256: 96a89417abeaafa309c5c401baafff2ddd47cf96b11df4491ea8bf900fadc2de
 canonical: 10546-brazil-argentina-only-one-getting-real.json
 ---
