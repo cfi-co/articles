@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823052350
 wayback_snapshot_url: "http://web.archive.org/web/20190823052350/https://cfi.co/africa/2013/04/big-crowds-witnessed-at-cityscape-egypt/"
+license: CFI-OAAL-1.0
 content_sha256: 2f69baac3eb9d8a09899ea7222529697347011b54cdfc3294cfcd113e2eef470
 canonical: 3445-big-crowds-witnessed-at-cityscape-egypt.json
 ---
