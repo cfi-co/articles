@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220506100617
 wayback_snapshot_url: "http://web.archive.org/web/20220506100617/https://cfi.co/brave-new-world/2022/05/corporate-earnings-fine-markets-not-so-much-seesawing-stock-markets-rattle-investors/"
+license: CFI-OAAL-1.0
 content_sha256: 07d738e29bbabb3586796570a264d9897e94e3a456d8dd675462b16a4a1d1631
 canonical: 21791-corporate-earnings-fine-markets-not-so-much-seesawing-stock-markets-rattle-inves.json
 ---
