@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422063922
 wayback_snapshot_url: "http://web.archive.org/web/20210422063922/https://cfi.co/europe/2021/04/a-covid-19-silver-lining-precision-medicine-for-brain-mental-health/"
+license: CFI-OAAL-1.0
 content_sha256: 38c56637561988d930777d21f5df93ca0a2765452466f88df429d24792a6e3ba
 canonical: 19554-a-covid-19-silver-lining-precision-medicine-for-brain-mental-health.json
 ---
