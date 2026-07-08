@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200506021646
 wayback_snapshot_url: "http://web.archive.org/web/20200506021646/https://cfi.co/c-19/2020/03/blessings-curses-co-operation-and-collaboration-the-virus-is-forcing-knowledge-upon-us/"
+license: CFI-OAAL-1.0
 content_sha256: 7fca9c7906eb4a8fbeb9466c9db655b0474be584f961f77ad0f1341f05ff2b51
 canonical: 14769-blessings-curses-co-operation-and-collaboration-the-virus-is-forcing-knowledge-u.json
 ---
