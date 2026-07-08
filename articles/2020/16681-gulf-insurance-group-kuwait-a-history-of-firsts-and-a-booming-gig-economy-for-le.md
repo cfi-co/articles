@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200922082654
 wayback_snapshot_url: "http://web.archive.org/web/20200922082654/https://cfi.co/menu/corporate/2020/08/gulf-insurance-group-kuwait-a-history-of-firsts-and-a-booming-gig-economy-for-leader-in-insurance/"
+license: CFI-OAAL-1.0
 content_sha256: 40faa49cf923c70deac64bfec1e2994168effb3ea170869e0d4fa2b7aec23483
 canonical: 16681-gulf-insurance-group-kuwait-a-history-of-firsts-and-a-booming-gig-economy-for-le.json
 ---
