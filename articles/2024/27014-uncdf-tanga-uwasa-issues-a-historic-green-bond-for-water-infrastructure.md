@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240815164719
 wayback_snapshot_url: "http://web.archive.org/web/20240815164719/https://cfi.co/africa/2024/08/uncdf-tanga-uwasa-issues-a-historic-green-bond-for-water-infrastructure/"
+license: CFI-OAAL-1.0
 content_sha256: 60dde548bd45e917a67fa92eb72551788d61551f1db93ea7b67c4d3783557961
 canonical: 27014-uncdf-tanga-uwasa-issues-a-historic-green-bond-for-water-infrastructure.json
 ---
