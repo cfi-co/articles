@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220414151302
 wayback_snapshot_url: "http://web.archive.org/web/20220414151302/https://cfi.co/finance/2022/04/otaviano-canuto-some-economies-may-soon-face-a-hard-landing/"
+license: CFI-OAAL-1.0
 content_sha256: 7393e12d193f5e9872b4409db1a052208084ae03e9ba48a45905e8647d977335
 canonical: 21710-otaviano-canuto-some-economies-may-soon-face-a-hard-landing.json
 ---
