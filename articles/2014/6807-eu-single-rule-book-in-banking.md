@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827002038
 wayback_snapshot_url: "http://web.archive.org/web/20140827002038/http://cfi.co/banking/2014/03/eu-single-rule-book-in-banking/"
+license: CFI-OAAL-1.0
 content_sha256: d719de0a4658be806fcad15f198ecefdf9dab84f647b3bb813db78d6e433e394
 canonical: 6807-eu-single-rule-book-in-banking.json
 ---
