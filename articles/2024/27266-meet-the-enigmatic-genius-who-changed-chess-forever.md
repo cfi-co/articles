@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241207043541
 wayback_snapshot_url: "http://web.archive.org/web/20241207043541/https://cfi.co/lifestyle/2024/11/meet-the-enigmatic-genius-who-changed-chess-forever/"
+license: CFI-OAAL-1.0
 content_sha256: 7ff265cacbd3ada6dd206c14b9f0eb994da26159f572bb16469dc311a5ef7ce3
 canonical: 27266-meet-the-enigmatic-genius-who-changed-chess-forever.json
 ---
