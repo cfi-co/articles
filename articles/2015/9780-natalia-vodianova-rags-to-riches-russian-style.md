@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720035148
 wayback_snapshot_url: "http://web.archive.org/web/20190720035148/https://cfi.co/editors-picks/2015/05/natalia-vodianova-rags-to-riches-russian-style/"
+license: CFI-OAAL-1.0
 content_sha256: 0addb6fa042ae9c66c0200735ccc0e8c59a0b32ae4dd36c192437157555a7e4d
 canonical: 9780-natalia-vodianova-rags-to-riches-russian-style.json
 ---
