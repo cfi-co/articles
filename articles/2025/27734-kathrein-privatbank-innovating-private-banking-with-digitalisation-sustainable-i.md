@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250516123338
 wayback_snapshot_url: "http://web.archive.org/web/20250516123338/https://cfi.co/banking/2025/05/kathrein-privatbank-innovating-private-banking-with-digitalisation-sustainable-investing-and-regional-expansion/"
+license: CFI-OAAL-1.0
 content_sha256: eee328ba5fbba2b3ddcfc832d432435f16a20a0a55c1d007f20d2dfa289511cf
 canonical: 27734-kathrein-privatbank-innovating-private-banking-with-digitalisation-sustainable-i.json
 ---
