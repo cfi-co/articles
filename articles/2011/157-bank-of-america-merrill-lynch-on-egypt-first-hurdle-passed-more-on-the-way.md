@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720032353
 wayback_snapshot_url: "http://web.archive.org/web/20190720032353/https://cfi.co/middleeast/2011/12/bank-of-america-merrill-lynch-on-egypt-first-hurdle-passed-more-on-the-way/"
+license: CFI-OAAL-1.0
 content_sha256: aae9c5d5607d2ffa2e31ddc8af948cd5521ea297b78771c2abc1be99e4055b4f
 canonical: 157-bank-of-america-merrill-lynch-on-egypt-first-hurdle-passed-more-on-the-way.json
 ---
