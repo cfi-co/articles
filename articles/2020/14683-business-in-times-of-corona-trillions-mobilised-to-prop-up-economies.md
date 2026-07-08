@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200626105404
 wayback_snapshot_url: "http://web.archive.org/web/20200626105404/https://cfi.co/sustainability/2020/03/business-in-times-of-corona-trillions-mobilised-to-prop-up-economies/"
+license: CFI-OAAL-1.0
 content_sha256: 7b1249a191e98cf3fd0159af4b8aa799d027ffc129460409c0d3dee69dab4233
 canonical: 14683-business-in-times-of-corona-trillions-mobilised-to-prop-up-economies.json
 ---
