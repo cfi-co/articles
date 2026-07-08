@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230307094037
 wayback_snapshot_url: "http://web.archive.org/web/20230307094037/https://cfi.co/menu/corporate/2023/01/maubank-ceo-is-a-lifelong-learner-with-no-fear-of-tough-lessons/"
+license: CFI-OAAL-1.0
 content_sha256: 05f9a59a5b41a3dc96b134e3df89425cfea1a52a213308de92fe677a0cef7442
 canonical: 24668-maubank-ceo-is-a-lifelong-learner-with-no-fear-of-tough-lessons.json
 ---
