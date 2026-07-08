@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721110728
 wayback_snapshot_url: "http://web.archive.org/web/20190721110728/https://cfi.co/banking/2012/12/europe-has-nothing-to-fear-but-fear-itself/"
+license: CFI-OAAL-1.0
 content_sha256: f88f4836e3b775cd42cd268c3929c3a93b24843cc9d482d94c18a207825abea6
 canonical: 2778-europe-has-nothing-to-fear-but-fear-itself.json
 ---
