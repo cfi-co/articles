@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014231620
 wayback_snapshot_url: "http://web.archive.org/web/20191014231620/https://cfi.co/asia-pacific/2014/12/world-bank-vietnam-sees-early-signs-of-economic-recovery/"
+license: CFI-OAAL-1.0
 content_sha256: 2f8f038fe8ce851a7936035f8c17065754c6a993e20a89a0d6594d4e862735c0
 canonical: 8472-world-bank-vietnam-sees-early-signs-of-economic-recovery.json
 ---
