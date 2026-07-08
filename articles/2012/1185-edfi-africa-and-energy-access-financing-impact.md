@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140704224730
 wayback_snapshot_url: "http://web.archive.org/web/20140704224730/http://cfi.co/africa/2012/07/edfi-africa-and-energy-access-financing-impact/"
+license: CFI-OAAL-1.0
 content_sha256: cec30d8b482d508769d5ae97afc0821189fa9d98021731aa7c72e4d2615640a6
 canonical: 1185-edfi-africa-and-energy-access-financing-impact.json
 ---
