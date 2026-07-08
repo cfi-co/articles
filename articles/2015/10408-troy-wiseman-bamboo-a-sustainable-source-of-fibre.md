@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170919160139
 wayback_snapshot_url: "http://web.archive.org/web/20170919160139/http://cfi.co/northamerica/2015/08/troy-wiseman-bamboo-a-sustainable-source-of-fibre/"
+license: CFI-OAAL-1.0
 content_sha256: 714791f9b11089adb718d1067354be93615bb3b521f878dfc59f84d90dc3bdc5
 canonical: 10408-troy-wiseman-bamboo-a-sustainable-source-of-fibre.json
 ---
