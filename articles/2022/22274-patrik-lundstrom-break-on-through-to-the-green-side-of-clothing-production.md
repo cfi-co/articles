@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220617081543
 wayback_snapshot_url: "http://web.archive.org/web/20220617081543/https://cfi.co/menu/heroes/2022/06/patrik-lundstrom-break-on-through-to-the-green-side-of-clothing-production/"
+license: CFI-OAAL-1.0
 content_sha256: 8acffebb8ab1e0e9a5b9fba5987bd00639a778ec2f3c830c4e2d3b5aa9322cfd
 canonical: 22274-patrik-lundstrom-break-on-through-to-the-green-side-of-clothing-production.json
 ---
