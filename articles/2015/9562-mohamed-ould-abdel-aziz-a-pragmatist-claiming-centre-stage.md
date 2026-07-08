@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180706192638
 wayback_snapshot_url: "http://web.archive.org/web/20180706192638/http://cfi.co/africa/2015/03/mohamed-ould-abdel-aziz-a-pragmatist-claiming-centre-stage/"
+license: CFI-OAAL-1.0
 content_sha256: 5016348846068321543d1d56b9a8e02bdf405984ba68e0056aac5616f4341113
 canonical: 9562-mohamed-ould-abdel-aziz-a-pragmatist-claiming-centre-stage.json
 ---
