@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132724
 wayback_snapshot_url: "http://web.archive.org/web/20190818132724/https://cfi.co/asia-pacific/2014/06/chinas-growth-moderates-with-continued-economic-transformation/"
+license: CFI-OAAL-1.0
 content_sha256: 2106ee03e6b7b6bcb3938206df488865535977c7b6f8719224c5c4125c4e6a6b
 canonical: 7403-chinas-growth-moderates-with-continued-economic-transformation.json
 ---
