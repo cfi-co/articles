@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140429120328
 wayback_snapshot_url: "http://web.archive.org/web/20140429120328/http://cfi.co/africa/2014/04/norwegian-african-business-association-naba-private-business-as-educator-bridging-africas-job-skills-gap/"
+license: CFI-OAAL-1.0
 content_sha256: 992b7345ee3fe4219c9facf38b63d630a133f6ae22735743712cfcac57f1a3f5
 canonical: 7040-norwegian-african-business-association-naba-private-business-as-educator-bridgin.json
 ---
