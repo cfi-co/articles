@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200622100332
 wayback_snapshot_url: "http://web.archive.org/web/20200622100332/https://cfi.co/middleeast/2020/01/tactical-management-global-goals-and-expertise-specific-focus-on-looking-after-client-needs/"
+license: CFI-OAAL-1.0
 content_sha256: 8c895ece67c79107aa9adcbe82f1bd511d351b5555c5294d9421c0e29d9a4370
 canonical: 14525-tactical-management-global-goals-and-expertise-specific-focus-on-looking-after-c.json
 ---
