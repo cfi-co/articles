@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721113254
 wayback_snapshot_url: "http://web.archive.org/web/20190721113254/https://cfi.co/asia-pacific/2014/04/united-nations-office-for-project-services-unops-infrastructure-to-empower-women/"
+license: CFI-OAAL-1.0
 content_sha256: f113946ad1acddf9f032c722377e4d5582d772453395587f34901d119884ab12
 canonical: 7056-united-nations-office-for-project-services-unops-infrastructure-to-empower-women.json
 ---
