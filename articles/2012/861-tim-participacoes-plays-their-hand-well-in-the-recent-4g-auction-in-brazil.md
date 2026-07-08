@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190722121641
 wayback_snapshot_url: "http://web.archive.org/web/20190722121641/https://cfi.co/latinamerica/2012/06/tim-participacoes-plays-their-hand-well-in-the-recent-4g-auction-in-brazil/"
+license: CFI-OAAL-1.0
 content_sha256: 55ae301276a7fad091106024e3d2f5ac48d717c2d84c44ade5d894acb1e67e25
 canonical: 861-tim-participacoes-plays-their-hand-well-in-the-recent-4g-auction-in-brazil.json
 ---
