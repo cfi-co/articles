@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418052547
 wayback_snapshot_url: "http://web.archive.org/web/20210418052547/https://cfi.co/uncategorized/2019/01/oleksiy-vadaturskyy-a-business-legend-of-modern-ukraine/"
+license: CFI-OAAL-1.0
 content_sha256: 862fb4dc4b37a634fd7660f163ba3da78edceb95a259d3998d499724c48b0a6c
 canonical: 19306-oleksiy-vadaturskyy-a-business-legend-of-modern-ukraine.json
 ---
