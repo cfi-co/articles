@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200919081440
 wayback_snapshot_url: "http://web.archive.org/web/20200919081440/https://cfi.co/menu/corporate/2020/05/change-change-change-with-sustainability-at-the-very-core-transformation-poses-no-threat/"
+license: CFI-OAAL-1.0
 content_sha256: 476e262328a280aab364613ae0a269fcff2fde7bd0375233c7ab2caa75f1f06b
 canonical: 16059-change-change-change-with-sustainability-at-the-very-core-transformation-poses-n.json
 ---
