@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140519210157
 wayback_snapshot_url: "http://web.archive.org/web/20140519210157/http://cfi.co/europe/2014/05/miga-world-bank-a-new-boon-for-emerging-market-financing-achieving-investment-grade-bonds-with-migas-credit-enhancement/"
+license: CFI-OAAL-1.0
 content_sha256: 9d206ee94063f7f6b3e6491c82821adc117c7efef84c6999ba46e9c8e628243a
 canonical: 7176-miga-world-bank-a-new-boon-for-emerging-market-financing-achieving-investment-gr.json
 ---
