@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818051305
 wayback_snapshot_url: "http://web.archive.org/web/20190818051305/https://cfi.co/banking/2012/07/institute-for-new-economic-thinking-inet-and-inet-council-on-the-euro-zone-crisis-icec-europe-is-sleepwalking-towards-disaster-of-incalculable-proportions/"
+license: CFI-OAAL-1.0
 content_sha256: c335c5b6ce7a2a5741e863c66be9173593ac4ac39e015ab7ac846c50c9e38508
 canonical: 1270-institute-for-new-economic-thinking-inet-and-inet-council-on-the-euro-zone-crisi.json
 ---
