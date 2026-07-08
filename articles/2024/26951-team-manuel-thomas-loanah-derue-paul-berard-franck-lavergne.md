@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240806194026
 wayback_snapshot_url: "http://web.archive.org/web/20240806194026/https://cfi.co/europe/2024/07/ile-de-france-leading-the-way-for-local-authorities"
+license: CFI-OAAL-1.0
 content_sha256: 862fa475cdb29aef022003782d53f2288f01f806570b503e70fb4ed6b3b1d897
 canonical: 26951-team-manuel-thomas-loanah-derue-paul-berard-franck-lavergne.json
 ---
