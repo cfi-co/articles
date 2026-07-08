@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240618094717
 wayback_snapshot_url: "http://web.archive.org/web/20240618094717/https://cfi.co/menu/heroes/2024/05/goldin-girl-putting-womens-rights-on-a-level-footing/"
+license: CFI-OAAL-1.0
 content_sha256: f6c192e7d319b4edc11226b60b8fc3cf2f5727e47d9ebe21c7f64b84b803b4da
 canonical: 26804-goldin-girl-putting-womens-rights-on-a-level-footing.json
 ---
