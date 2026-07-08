@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200408100621
 wayback_snapshot_url: "http://web.archive.org/web/20200408100621/https://cfi.co/northamerica/2020/03/evan-harvey-nasdaq-medium-is-the-message-esg-delivery-and-market-distrust/"
+license: CFI-OAAL-1.0
 content_sha256: e5a78fb060d1cff40eb34ac9643804efdafb77b4b2a48642e6639d6c6574820a
 canonical: 14700-evan-harvey-nasdaq-medium-is-the-message-esg-delivery-and-market-distrust.json
 ---
