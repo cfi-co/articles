@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20131002213311
 wayback_snapshot_url: "http://web.archive.org/web/20131002213311/http://cfi.co/finance/2013/05/the-feds-flawed-model/"
+license: CFI-OAAL-1.0
 content_sha256: 39b6bd3e94c3dd5e4788fde875743db014c1195b0eb209f68465014a8af68263
 canonical: 4224-the-feds-flawed-model.json
 ---
