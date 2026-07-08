@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916092003
 wayback_snapshot_url: "http://web.archive.org/web/20190916092003/https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-vice-president-and-managing-director-of-ccl-secure-bernhard-imbach/"
+license: CFI-OAAL-1.0
 content_sha256: 655d464bc8ce67769a5b7900ed8f9e37a6f81a9b366b9ef8d76815dce9eb162c
 canonical: 11842-cfi-co-meets-the-vice-president-and-managing-director-of-ccl-secure-bernhard-imb.json
 ---
