@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050408
 wayback_snapshot_url: "http://web.archive.org/web/20190818050408/https://cfi.co/europe/2014/07/from-armenia-to-france-and-back-francis-kurkdjian/"
+license: CFI-OAAL-1.0
 content_sha256: 2272f8a52f9cfe68134ac9d1cd1ebe4a2b0b046027628da45f4b8f76776142dd
 canonical: 7620-from-armenia-to-france-and-back-francis-kurkdjian.json
 ---
