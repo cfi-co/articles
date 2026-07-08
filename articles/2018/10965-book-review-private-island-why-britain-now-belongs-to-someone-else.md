@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723005200
 wayback_snapshot_url: "http://web.archive.org/web/20190723005200/https://cfi.co/europe/2018/02/book-review-private-island-why-britain-now-belongs-to-someone-else/"
+license: CFI-OAAL-1.0
 content_sha256: 167e09577f0dbdbbbaaf786bc49afb91d5e33ca21110d851c74a3ce2799bac0e
 canonical: 10965-book-review-private-island-why-britain-now-belongs-to-someone-else.json
 ---
