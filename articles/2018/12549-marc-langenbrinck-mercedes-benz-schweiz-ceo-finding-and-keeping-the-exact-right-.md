@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717205837
 wayback_snapshot_url: "http://web.archive.org/web/20190717205837/https://cfi.co/lifestyle/2018/05/marc-langenbrinck-mercedes-benz-schweiz-ceo-finding-and-keeping-the-exact-right-competitive-angle/"
+license: CFI-OAAL-1.0
 content_sha256: 14befd0c74e57fa7edcd0300c831042f1bfc93a97623d40c5d534c5362b71612
 canonical: 12549-marc-langenbrinck-mercedes-benz-schweiz-ceo-finding-and-keeping-the-exact-right-.json
 ---
