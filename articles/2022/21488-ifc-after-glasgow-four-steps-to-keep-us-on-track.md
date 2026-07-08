@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220126101631
 wayback_snapshot_url: "http://web.archive.org/web/20220126101631/https://cfi.co/sustainability/2022/01/ifc-after-glasgow-four-steps-to-keep-us-on-track/"
+license: CFI-OAAL-1.0
 content_sha256: 74a9bbb9fa48096e1800e91a3f04a6333a49d18013139d82212ba63f046b6af4
 canonical: 21488-ifc-after-glasgow-four-steps-to-keep-us-on-track.json
 ---
