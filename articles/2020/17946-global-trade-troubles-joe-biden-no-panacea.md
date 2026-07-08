@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422020234
 wayback_snapshot_url: "http://web.archive.org/web/20210422020234/https://cfi.co/c-19/2020/11/global-trade-troubles-joe-biden-no-panacea/"
+license: CFI-OAAL-1.0
 content_sha256: 91eab4b6a40f417d082d2f6b522f22350f80d9325cff12b706e3dbe706212198
 canonical: 17946-global-trade-troubles-joe-biden-no-panacea.json
 ---
