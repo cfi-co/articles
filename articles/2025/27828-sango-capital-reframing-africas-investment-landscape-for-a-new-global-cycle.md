@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250730002430
 wayback_snapshot_url: "http://web.archive.org/web/20250730002430/https://cfi.co/africa/2025/07/sango-capital-reframing-africas-investment-landscape-for-a-new-global-cycle/"
+license: CFI-OAAL-1.0
 content_sha256: c53bc9482be6ac6966a06ce8ae4fad8bfa8a627338a3a82d35f68db1b36bdcb1
 canonical: 27828-sango-capital-reframing-africas-investment-landscape-for-a-new-global-cycle.json
 ---
