@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240625115712
 wayback_snapshot_url: "http://web.archive.org/web/20240625115712/https://cfi.co/lifestyle/2024/06/from-solo-star-to-team-captain-an-accidental-managers-journey/"
+license: CFI-OAAL-1.0
 content_sha256: 0b3947c1eae1c938c94108d7508309efa4f741c1538d3bc6be7aa079d1ff81de
 canonical: 26879-from-solo-star-to-team-captain-an-accidental-managers-journey.json
 ---
