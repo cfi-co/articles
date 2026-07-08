@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050547
 wayback_snapshot_url: "http://web.archive.org/web/20190823050547/https://cfi.co/europe/2012/10/pier-carlo-padoan-oecd-a-new-era-for-the-euro-area/"
+license: CFI-OAAL-1.0
 content_sha256: 7876719a3f1157eed7fc3a1dfe85b53482a84fe46eebb66ee3aab0c5b0ca850e
 canonical: 2379-pier-carlo-padoan-oecd-a-new-era-for-the-euro-area.json
 ---
