@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220124221751
 wayback_snapshot_url: "http://web.archive.org/web/20220124221751/https://cfi.co/brave-new-world/2022/01/market-volatility-as-push-slowly-comes-to-shove-grappling-with-a-multitude-of-crises-in-an-increasingly-dangerous-world/"
+license: CFI-OAAL-1.0
 content_sha256: 5ed82414555759064b0dbe54bf6df49867ecb390a9efe71e4ba6df5a13a62fcf
 canonical: 21480-market-volatility-as-push-slowly-comes-to-shove-grappling-with-a-multitude-of-cr.json
 ---
