@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250328144216
 wayback_snapshot_url: "http://web.archive.org/web/20250328144216/https://cfi.co/sustainability/2025/03/sustainable-investment-in-the-dominican-republic-driving-economic-development-in-the-caribbean/"
+license: CFI-OAAL-1.0
 content_sha256: a949bf193be6de8662d1a8a8a48d9abe58b9d8d87a911ae20f5a76d65b2d07df
 canonical: 27658-sustainable-investment-in-the-dominican-republic-driving-economic-development-in.json
 ---
