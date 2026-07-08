@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190722120343
 wayback_snapshot_url: "http://web.archive.org/web/20190722120343/https://cfi.co/northamerica/2014/11/pj-orourke-one-of-the-last-of-the-gonzo-journalists/"
+license: CFI-OAAL-1.0
 content_sha256: 054fade4c03aed59d837eecb142043bf9d74b4f534215087f35752abab070aef
 canonical: 8384-pj-orourke-one-of-the-last-of-the-gonzo-journalists.json
 ---
