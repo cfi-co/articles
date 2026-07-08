@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916044117
 wayback_snapshot_url: "http://web.archive.org/web/20190916044117/https://cfi.co/corporate-leaders/2019/08/an-exclusive-interview-with-gabriel-chaleplis-founder-the-leader-that-makes-leaders/"
+license: CFI-OAAL-1.0
 content_sha256: 7420820f5727eacbd6eee793b8cb6fd4781b5679b07c51daa586d6aec4576c20
 canonical: 13954-an-exclusive-interview-with-gabriel-chaleplis-founder-the-leader-that-makes-lead.json
 ---
