@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210830101945
 wayback_snapshot_url: "http://web.archive.org/web/20210830101945/https://cfi.co/editors-picks/2021/01/dissidents-daughter-crusader-for-health-and-womens-rights-and-mother-of-current-emir-of-qatar-sheikha-moza-bint-nasser-al-missned/"
+license: CFI-OAAL-1.0
 content_sha256: 35f989f021c3f884dc34f4c279aa3c576afd9e3dcd6019adb2297c93293d65d0
 canonical: 18413-dissidents-daughter-crusader-for-health-and-womens-rights-and-mother-of-current-.json
 ---
