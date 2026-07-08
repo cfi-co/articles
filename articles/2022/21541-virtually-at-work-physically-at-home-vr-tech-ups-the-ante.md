@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220306131853
 wayback_snapshot_url: "http://web.archive.org/web/20220306131853/https://cfi.co/brave-new-world/2022/02/virtually-at-work-physically-at-home-vr-tech-ups-the-ante/"
+license: CFI-OAAL-1.0
 content_sha256: 1b69701aa63d3d44795dbf67ea5d702b73ff917d36d81ac9dc655310c77014aa
 canonical: 21541-virtually-at-work-physically-at-home-vr-tech-ups-the-ante.json
 ---
