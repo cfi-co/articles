@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200925055952
 wayback_snapshot_url: "http://web.archive.org/web/20200925055952/https://cfi.co/asia-pacific/2020/04/lessons-from-china/"
+license: CFI-OAAL-1.0
 content_sha256: c82a80c8c7f0125edd81d7d58c4394582ecf6b95ce8053de20b9c8143792e725
 canonical: 14950-lessons-from-china.json
 ---
