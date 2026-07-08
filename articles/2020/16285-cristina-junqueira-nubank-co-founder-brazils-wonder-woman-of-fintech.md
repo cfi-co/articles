@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210130175334
 wayback_snapshot_url: "http://web.archive.org/web/20210130175334/https://cfi.co/latinamerica/2020/10/cristina-junqueira-nubank-co-founder-brazils-wonder-woman-of-fintech/"
+license: CFI-OAAL-1.0
 content_sha256: b5d7edd736d0aea5665bbdcc8fa6f028f8521f0ea4b442da92d2fb5698eb9ec8
 canonical: 16285-cristina-junqueira-nubank-co-founder-brazils-wonder-woman-of-fintech.json
 ---
