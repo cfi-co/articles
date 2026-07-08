@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210725185859
 wayback_snapshot_url: "http://web.archive.org/web/20210725185859/https://cfi.co/lifestyle/2016/05/hermes-corporate-savoir-vivre/"
+license: CFI-OAAL-1.0
 content_sha256: b12ee9842c0c9f07855775f9650ac1a1ca91aaef632b6c1d8de765564fb44d1e
 canonical: 11177-hermes-corporate-savoir-vivre.json
 ---
