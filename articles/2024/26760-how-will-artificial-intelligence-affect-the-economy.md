@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240522111705
 wayback_snapshot_url: "http://web.archive.org/web/20240522111705/https://cfi.co/technology/2024/04/how-will-artificial-intelligence-affect-the-economy/"
+license: CFI-OAAL-1.0
 content_sha256: 94f2b2cd92467a26f35afa368ef5b6e775a4350493223e0cf2b346a93ffe3604
 canonical: 26760-how-will-artificial-intelligence-affect-the-economy.json
 ---
