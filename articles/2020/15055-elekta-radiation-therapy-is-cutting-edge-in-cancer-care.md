@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418050420
 wayback_snapshot_url: "http://web.archive.org/web/20210418050420/https://cfi.co/europe/2020/04/elekta-radiation-therapy-is-cutting-edge-in-cancer-care/"
+license: CFI-OAAL-1.0
 content_sha256: 88d85b069d65909c6d1bb28d72ab0a5aa0709d97d458b706a9b6053612cc5ae1
 canonical: 15055-elekta-radiation-therapy-is-cutting-edge-in-cancer-care.json
 ---
