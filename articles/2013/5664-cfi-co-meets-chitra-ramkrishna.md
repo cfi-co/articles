@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190106234120
 wayback_snapshot_url: "http://web.archive.org/web/20190106234120/https://cfi.co/asia-pacific/2013/10/cfi-co-meets-chitra-ramkrishna/"
+license: CFI-OAAL-1.0
 content_sha256: 0af9ad276adf5b50ab687ca1022dbaa153ec96fdc2b023654ff5be4db14a4ad3
 canonical: 5664-cfi-co-meets-chitra-ramkrishna.json
 ---
