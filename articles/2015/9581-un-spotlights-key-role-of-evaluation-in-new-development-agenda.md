@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045959
 wayback_snapshot_url: "http://web.archive.org/web/20190823045959/https://cfi.co/sustainability/2015/03/un-spotlights-key-role-of-evaluation-in-new-development-agenda/"
+license: CFI-OAAL-1.0
 content_sha256: e9bf16daa9e25362b1193e6c8d88648173ff59da6e393bb71289117ce6a5ee2b
 canonical: 9581-un-spotlights-key-role-of-evaluation-in-new-development-agenda.json
 ---
