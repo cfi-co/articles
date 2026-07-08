@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201127082439
 wayback_snapshot_url: "http://web.archive.org/web/20201127082439/https://cfi.co/menu/corporate/2020/01/tadau-energy-set-the-controls-for-the-heart-of-the-sun-ultimate-energy-solution-is-finding-traction/"
+license: CFI-OAAL-1.0
 content_sha256: a67efa7ffa1ace03069c6793849540a31ea276a9b095a390c10f2735cbb6e5b3
 canonical: 17535-tadau-energy-set-the-controls-for-the-heart-of-the-sun-ultimate-energy-solution-.json
 ---
