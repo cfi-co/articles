@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720031850
 wayback_snapshot_url: "http://web.archive.org/web/20190720031850/https://cfi.co/europe/2019/01/book-review-by-kenneth-rogoff-crash-time/"
+license: CFI-OAAL-1.0
 content_sha256: bb783376d23fe6993fcccf18513235ff65dea69a148a5f48ccb78ee0e5c2c88d
 canonical: 13283-book-review-by-kenneth-rogoff-crash-time.json
 ---
