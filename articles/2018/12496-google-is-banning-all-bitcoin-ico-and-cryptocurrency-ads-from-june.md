@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720032523
 wayback_snapshot_url: "http://web.archive.org/web/20190720032523/https://cfi.co/technology/2018/05/google-is-banning-all-bitcoin-ico-and-cryptocurrency-ads-from-june/"
+license: CFI-OAAL-1.0
 content_sha256: e0f76d3eeba99324b8d0713e8689c497e83a2ead6bc07ba9282b154f1a14bef5
 canonical: 12496-google-is-banning-all-bitcoin-ico-and-cryptocurrency-ads-from-june.json
 ---
