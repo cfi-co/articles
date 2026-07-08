@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201023005903
 wayback_snapshot_url: "http://web.archive.org/web/20201023005903/https://cfi.co/europe/2020/10/reshma-sohoni-an-identity-and-an-ambition-forged-through-a-lifetime-of-migration-and-adaptation/"
+license: CFI-OAAL-1.0
 content_sha256: 3e3fb42a70a02af4f4ea206f656e494d6c56ac7eb59a0e22dfbdc1d4fd7c7048
 canonical: 17151-reshma-sohoni-an-identity-and-an-ambition-forged-through-a-lifetime-of-migration.json
 ---
