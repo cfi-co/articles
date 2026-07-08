@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190507120149
 wayback_snapshot_url: "http://web.archive.org/web/20190507120149/https://cfi.co/finance/2019/04/miga-exclusive-interview-business-priority-to-work-with-all-people/"
+license: CFI-OAAL-1.0
 content_sha256: 10d2cba7b320d0f896ecc966c99611c467e7e8eed7d00236785d8f394fbabe83
 canonical: 13535-miga-exclusive-interview-business-priority-to-work-with-all-people.json
 ---
