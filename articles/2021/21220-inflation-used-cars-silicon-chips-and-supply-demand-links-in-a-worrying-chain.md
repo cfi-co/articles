@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207215504
 wayback_snapshot_url: "http://web.archive.org/web/20211207215504/https://cfi.co/c-19/2021/11/inflation-used-cars-silicon-chips-and-supply-demand-links-in-a-worrying-chain/"
+license: CFI-OAAL-1.0
 content_sha256: a79d633677e5f71b50644d31eda3108a03570019cec996c8fa0acefd8fa09d66
 canonical: 21220-inflation-used-cars-silicon-chips-and-supply-demand-links-in-a-worrying-chain.json
 ---
