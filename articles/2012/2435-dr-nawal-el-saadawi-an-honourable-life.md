@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045349
 wayback_snapshot_url: "http://web.archive.org/web/20190823045349/https://cfi.co/editors-picks/2012/10/dr-nawal-el-saadawi-an-honourable-life/"
+license: CFI-OAAL-1.0
 content_sha256: 426683b0331db5531e9113ba4b919cfef2997b016f697f67f384e91ff6760f8e
 canonical: 2435-dr-nawal-el-saadawi-an-honourable-life.json
 ---
