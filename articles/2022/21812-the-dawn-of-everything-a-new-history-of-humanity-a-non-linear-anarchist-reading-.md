@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220516010558
 wayback_snapshot_url: "http://web.archive.org/web/20220516010558/https://cfi.co/brave-new-world/2022/05/the-dawn-of-everything-a-new-history-of-humanity-a-non-linear-anarchist-reading-of-world-history/"
+license: CFI-OAAL-1.0
 content_sha256: e785325d8b5897fa7bfa713fcf6be3162b116ea9b365373cc5fb3914f343d34d
 canonical: 21812-the-dawn-of-everything-a-new-history-of-humanity-a-non-linear-anarchist-reading-.json
 ---
