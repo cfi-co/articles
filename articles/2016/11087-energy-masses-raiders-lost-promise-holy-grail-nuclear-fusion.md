@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228104813
 wayback_snapshot_url: "http://web.archive.org/web/20210228104813/https://cfi.co/sustainability/2016/03/energy-masses-raiders-lost-promise-holy-grail-nuclear-fusion/"
+license: CFI-OAAL-1.0
 content_sha256: cdfb62122e49390e0db184951a6b8fbbbe4d2b87f84444bea9c14e69e561298a
 canonical: 11087-energy-masses-raiders-lost-promise-holy-grail-nuclear-fusion.json
 ---
