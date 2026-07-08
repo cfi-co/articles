@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818133509
 wayback_snapshot_url: "http://web.archive.org/web/20190818133509/https://cfi.co/africa/2012/02/indonesia-to-top-happy-index/"
+license: CFI-OAAL-1.0
 content_sha256: e630ca2fd2cbd7d45ed4046e465dafc24617a30067371eaa5003087cbcf7703b
 canonical: 181-indonesia-to-top-happy-index.json
 ---
