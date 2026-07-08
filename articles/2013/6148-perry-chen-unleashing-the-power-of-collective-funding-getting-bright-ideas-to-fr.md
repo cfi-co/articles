@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327182431
 wayback_snapshot_url: "http://web.archive.org/web/20140327182431/http://cfi.co/finance/2013/12/perry-chen-unleashing-the-power-of-collective-funding-getting-bright-ideas-to-fruition/"
+license: CFI-OAAL-1.0
 content_sha256: 59d521aa5ab68f67d4445a1038d631bb336f621737840d05753bff10b1d7f7e3
 canonical: 6148-perry-chen-unleashing-the-power-of-collective-funding-getting-bright-ideas-to-fr.json
 ---
