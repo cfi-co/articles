@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211001070027
 wayback_snapshot_url: "http://web.archive.org/web/20211001070027/https://cfi.co/europe/2021/10/spain-nab-impact-washing-its-a-thing-and-to-be-avoided-at-all-costs/"
+license: CFI-OAAL-1.0
 content_sha256: 7144a5ef456824c43c30268efcec66c66ed43e75baded662c668e8f7ee808fcb
 canonical: 20759-spain-nab-impact-washing-its-a-thing-and-to-be-avoided-at-all-costs.json
 ---
