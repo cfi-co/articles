@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170923092502
 wayback_snapshot_url: "http://web.archive.org/web/20170923092502/http://cfi.co/banking/2015/11/ross-jackson-eurozone-the-end-game/"
+license: CFI-OAAL-1.0
 content_sha256: 1bddaf922ec0b993e97736a2d82120fc7fb618ae6d5334849be45594c829a544
 canonical: 10619-ross-jackson-eurozone-the-end-game.json
 ---
