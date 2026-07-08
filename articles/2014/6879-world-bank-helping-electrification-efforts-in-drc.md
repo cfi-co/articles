@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140705123317
 wayback_snapshot_url: "http://web.archive.org/web/20140705123317/http://cfi.co/africa/2014/03/world-bank-helping-electrification-efforts-in-drc/"
+license: CFI-OAAL-1.0
 content_sha256: 7194d57af94ac4dc41970ee866227a8d92b92a08f3a1cadab1dbfb46627f7fcd
 canonical: 6879-world-bank-helping-electrification-efforts-in-drc.json
 ---
