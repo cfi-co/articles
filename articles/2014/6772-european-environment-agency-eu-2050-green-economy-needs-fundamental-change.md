@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140705145036
 wayback_snapshot_url: "http://web.archive.org/web/20140705145036/http://cfi.co/europe/2014/03/european-environment-agency-eu-2050-green-economy-needs-fundamental-change/"
+license: CFI-OAAL-1.0
 content_sha256: f324b1d3eebbcd5e2537297bbe272294e995535cf71ae372eaea921f3acb7c8a
 canonical: 6772-european-environment-agency-eu-2050-green-economy-needs-fundamental-change.json
 ---
