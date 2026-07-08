@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210226095449
 wayback_snapshot_url: "http://web.archive.org/web/20210226095449/https://cfi.co/northamerica/2020/10/gallatin-point-capital-differentiated-capital-via-industry-expertise-and-bespoke-solutions/"
+license: CFI-OAAL-1.0
 content_sha256: c09aab12452fb9a17175ed0eac5c89f70a532a87f3638d7c4f688a73e73100ed
 canonical: 17598-gallatin-point-capital-differentiated-capital-via-industry-expertise-and-bespoke.json
 ---
