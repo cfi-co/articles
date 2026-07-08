@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210226101715
 wayback_snapshot_url: "http://web.archive.org/web/20210226101715/https://cfi.co/editors-picks/2015/09/sophie-in-t-veld-calling-the-european-council-to-order/"
+license: CFI-OAAL-1.0
 content_sha256: 7551805973cbeec68a14d2fc4f285c750924792cb09017fbf2148ffbb2d75657
 canonical: 10434-sophie-in-t-veld-calling-the-european-council-to-order.json
 ---
