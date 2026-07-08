@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220822170026
 wayback_snapshot_url: "http://web.archive.org/web/20220822170026/https://cfi.co/finance/2022/08/dollar-dominance-greenback-will-endure-current-hardships/"
+license: CFI-OAAL-1.0
 content_sha256: 4b7b2d4e4163a0fe5fbb8876a26a62ba0197990262585d05b5fbf38681c0c7dd
 canonical: 23090-dollar-dominance-greenback-will-endure-current-hardships.json
 ---
