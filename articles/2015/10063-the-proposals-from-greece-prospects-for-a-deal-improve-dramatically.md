@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724030851
 wayback_snapshot_url: "http://web.archive.org/web/20190724030851/https://cfi.co/europe/2015/06/the-proposals-from-greece-prospects-for-a-deal-improve-dramatically/"
+license: CFI-OAAL-1.0
 content_sha256: dab92ee9c90bc036c515d3161184e02812a6b8474770a683def615cfa23028bd
 canonical: 10063-the-proposals-from-greece-prospects-for-a-deal-improve-dramatically.json
 ---
