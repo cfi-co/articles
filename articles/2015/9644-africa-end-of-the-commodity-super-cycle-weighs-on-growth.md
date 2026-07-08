@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717212148
 wayback_snapshot_url: "http://web.archive.org/web/20190717212148/https://cfi.co/africa/2015/04/africa-end-of-the-commodity-super-cycle-weighs-on-growth/"
+license: CFI-OAAL-1.0
 content_sha256: d55684a0c8f659f93f62c158fabb63775a4215bbc1c9a3c5f1b2c83db9bbb8b0
 canonical: 9644-africa-end-of-the-commodity-super-cycle-weighs-on-growth.json
 ---
