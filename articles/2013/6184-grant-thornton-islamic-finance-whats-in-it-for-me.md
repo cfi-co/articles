@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327170359
 wayback_snapshot_url: "http://web.archive.org/web/20140327170359/http://cfi.co/banking/2013/12/grant-thornton-islamic-finance-whats-in-it-for-me/"
+license: CFI-OAAL-1.0
 content_sha256: 6ebb5f4f0bcab69412a764fb7d868480ef9dffc900406579f58fda2381376c59
 canonical: 6184-grant-thornton-islamic-finance-whats-in-it-for-me.json
 ---
