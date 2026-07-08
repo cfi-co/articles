@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209170606
 wayback_snapshot_url: "http://web.archive.org/web/20250209170606/https://cfi.co/banking/2024/12/kbc-group-a-digital-first-pioneer-with-an-eye-on-sustainability-and-growth/"
+license: CFI-OAAL-1.0
 content_sha256: 299513783e3631b73d71de187d7d4dcbcf521062968d7ebcde5a54d172da3a33
 canonical: 27364-kbc-group-a-digital-first-pioneer-with-an-eye-on-sustainability-and-growth.json
 ---
