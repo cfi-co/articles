@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422014307
 wayback_snapshot_url: "http://web.archive.org/web/20210422014307/https://cfi.co/menu/cfi-co-meets/2021/02/jeffrey-phlegar-a-ceo-with-a-full-plate-an-open-mind-and-a-commitment-to-esg-integration/"
+license: CFI-OAAL-1.0
 content_sha256: ccc5eb2992f5a6b9e9cb7a6c9302ad1be3bf0000f5e97b42c66a46defbf26a93
 canonical: 18553-jeffrey-phlegar-a-ceo-with-a-full-plate-an-open-mind-and-a-commitment-to-esg-int.json
 ---
