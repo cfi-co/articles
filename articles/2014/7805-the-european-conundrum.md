@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823051006
 wayback_snapshot_url: "http://web.archive.org/web/20190823051006/https://cfi.co/europe/2014/08/the-european-conundrum/"
+license: CFI-OAAL-1.0
 content_sha256: b3d1695dcda39728786b72d8a8316df891f63b92b93f0b4e5cc0319d9bd87de3
 canonical: 7805-the-european-conundrum.json
 ---
