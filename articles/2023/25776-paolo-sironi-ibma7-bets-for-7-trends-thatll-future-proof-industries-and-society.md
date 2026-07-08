@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230718190817
 wayback_snapshot_url: "http://web.archive.org/web/20230718190817/https://cfi.co/europe/2023/07/paolo-sironi-ibm-7-bets-for-7-trends-thatll-future-proof-industries-and-society/"
+license: CFI-OAAL-1.0
 content_sha256: 9724dd13194024b345f14d93ad2b6aaeb957eecdb9ffd389f72ebfc4db80bd22
 canonical: 25776-paolo-sironi-ibma7-bets-for-7-trends-thatll-future-proof-industries-and-society.json
 ---
