@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916044256
 wayback_snapshot_url: "http://web.archive.org/web/20190916044256/https://cfi.co/africa/2012/11/un-security-council-urges-wider-role-for-womens-groups-in-peace-efforts/"
+license: CFI-OAAL-1.0
 content_sha256: f459a2a228b732fb983aa5bc877d4c9be5bebb5a487c8051eb4256cd85176f80
 canonical: 2542-un-security-council-urges-wider-role-for-womens-groups-in-peace-efforts.json
 ---
