@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250614232901
 wayback_snapshot_url: "http://web.archive.org/web/20250614232901/https://cfi.co/banking/2025/05/central-reserve-bank-of-el-salvador-driving-innovation-and-financial-inclusion-for-national-development/"
+license: CFI-OAAL-1.0
 content_sha256: 2d3895ad8b37ab0858799d42f6d8ed08ed363465b75d62bc83dec19acaf8fa3f
 canonical: 27739-central-reserve-bank-of-el-salvador-driving-innovation-and-financial-inclusion-f.json
 ---
