@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221226145717
 wayback_snapshot_url: "http://web.archive.org/web/20221226145717/https://cfi.co/brave-new-world/2022/12/us-housing-crisis-profits-over-people/"
+license: CFI-OAAL-1.0
 content_sha256: f4d8cb5b5d0ad7beb4a4a8fe25d6af3d90a052962db061139e0b42507a229e00
 canonical: 24129-us-housing-crisis-profits-over-people.json
 ---
