@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916043334
 wayback_snapshot_url: "http://web.archive.org/web/20190916043334/https://cfi.co/africa/2016/02/winnie-byanyima-from-the-bush-to-the-global-stage/"
+license: CFI-OAAL-1.0
 content_sha256: 968b5d46a09ca6af0303b7584054779a4ffba1db87f0daf8d7881421e4a5ee14
 canonical: 14020-winnie-byanyima-from-the-bush-to-the-global-stage.json
 ---
