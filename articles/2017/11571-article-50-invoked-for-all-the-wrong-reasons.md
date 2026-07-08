@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170513195738
 wayback_snapshot_url: "http://web.archive.org/web/20170513195738/http://cfi.co/europe/2017/04/article-50-invoked-for-all-the-wrong-reasons/"
+license: CFI-OAAL-1.0
 content_sha256: 3d0e5d1a8d7e848a7e8d97624b3c1829a37b5971641aaa351798e4185a4feec8
 canonical: 11571-article-50-invoked-for-all-the-wrong-reasons.json
 ---
