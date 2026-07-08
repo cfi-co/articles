@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230323005228
 wayback_snapshot_url: "http://web.archive.org/web/20230323005228/https://cfi.co/c-19/2020/09/middle-east-business-trumps-politics/"
+license: CFI-OAAL-1.0
 content_sha256: 0358117b35818d23fbf293a564028ba1413857bc53b43a7e59ff6d419b12f4bb
 canonical: 16954-middle-east-business-trumps-politics.json
 ---
