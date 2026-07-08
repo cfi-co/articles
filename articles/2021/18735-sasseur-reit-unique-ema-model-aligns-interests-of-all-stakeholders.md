@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228105132
 wayback_snapshot_url: "http://web.archive.org/web/20210228105132/https://cfi.co/menu/corporate/2021/02/sasseur-reit-unique-ema-model-aligns-interests-of-all-stakeholders/"
+license: CFI-OAAL-1.0
 content_sha256: 7551827eae95938558fe1526526ddecec7a866d1d967b4d16f3c67e1d3517981
 canonical: 18735-sasseur-reit-unique-ema-model-aligns-interests-of-all-stakeholders.json
 ---
