@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916043856
 wayback_snapshot_url: "http://web.archive.org/web/20190916043856/https://cfi.co/corporate-leaders/2017/05/cfi-co-meets-bsc-management-team-expertise-at-the-helm/"
+license: CFI-OAAL-1.0
 content_sha256: 51b67a45981d5ba78aff3b4611a52c58f9c112152c12f0d685cc32b0b38d6d98
 canonical: 11876-cfi-co-meets-bsc-management-team-expertise-at-the-helm.json
 ---
