@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250124122633
 wayback_snapshot_url: "http://web.archive.org/web/20250124122633/https://cfi.co/banking/2025/01/boutiques-bet-big-on-2025-talent-wars-and-the-push-for-revenue/"
+license: CFI-OAAL-1.0
 content_sha256: ee467b61c6f100699046a236bc8ae62358f29e82c56b06857df698a9eaabf04f
 canonical: 27457-boutiques-bet-big-on-2025-talent-wars-and-the-push-for-revenue.json
 ---
