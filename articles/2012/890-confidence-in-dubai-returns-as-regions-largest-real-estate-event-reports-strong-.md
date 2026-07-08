@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132957
 wayback_snapshot_url: "http://web.archive.org/web/20190818132957/https://cfi.co/middleeast/2012/06/confidence-in-dubai-returns-as-regions-largest-real-estate-event-reports-strong-growth/"
+license: CFI-OAAL-1.0
 content_sha256: dd3e1d4ad6a3972e68755090c3eb0241cc3d40fc2343a90daaaae18aa539194a
 canonical: 890-confidence-in-dubai-returns-as-regions-largest-real-estate-event-reports-strong-.json
 ---
