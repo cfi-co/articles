@@ -19,6 +19,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260315104629
 wayback_snapshot_url: "http://web.archive.org/web/20260315104629/https://cfi.co/africa/2026/02/angolas-transport-infrastructure-evolution-rebuilding-a-nation-rewiring-a-region/"
+license: CFI-OAAL-1.0
 content_sha256: 070ce7cf3515ff349147e2407a3ccafee8cc4bb46a66eb1e99739472c01541f7
 canonical: 28286-angolas-transport-infrastructure-evolution-rebuilding-a-nation-rewiring-a-region.json
 ---
