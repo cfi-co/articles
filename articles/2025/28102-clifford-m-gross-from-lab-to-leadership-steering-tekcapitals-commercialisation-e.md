@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251206004816
 wayback_snapshot_url: "http://web.archive.org/web/20251206004816/https://cfi.co/corporate-leaders/2025/11/clifford-m-gross-from-lab-to-leadership-steering-tekcapitals-commercialisation-engine/"
+license: CFI-OAAL-1.0
 content_sha256: c1b64cb3c316cda76f098c95d79d510b2b53ea3fa010b26d2c25bc56726e7ddc
 canonical: 28102-clifford-m-gross-from-lab-to-leadership-steering-tekcapitals-commercialisation-e.json
 ---
