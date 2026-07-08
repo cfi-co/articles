@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820141511
 wayback_snapshot_url: "http://web.archive.org/web/20190820141511/https://cfi.co/finance/2016/09/venezuela-economy-sinks-bond-markets-take-heart/"
+license: CFI-OAAL-1.0
 content_sha256: 496d0c06f3b47a8ed8555a8ffc997a2e7bb7a4bcb366daedd44704694e754a70
 canonical: 11340-venezuela-economy-sinks-bond-markets-take-heart.json
 ---
