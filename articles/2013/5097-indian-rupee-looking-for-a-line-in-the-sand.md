@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721111608
 wayback_snapshot_url: "http://web.archive.org/web/20190721111608/https://cfi.co/asia-pacific/2013/08/indian-rupee-looking-for-a-line-in-the-sand/"
+license: CFI-OAAL-1.0
 content_sha256: d0245c1412b2b38687ba20c78efb5cdd57d48c756dcd249b30b0cd07da5d03d1
 canonical: 5097-indian-rupee-looking-for-a-line-in-the-sand.json
 ---
