@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916085529
 wayback_snapshot_url: "http://web.archive.org/web/20190916085529/https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-ceo-of-molino-canuelas-aldo-navilli/"
+license: CFI-OAAL-1.0
 content_sha256: 79406e5614a07f396433792034b847cfd4683adc2f3ff0e80aa808a8a498181e
 canonical: 11873-cfi-co-meets-the-ceo-of-molino-canuelas-aldo-navilli.json
 ---
