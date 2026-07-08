@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240803145544
 wayback_snapshot_url: "http://web.archive.org/web/20240803145544/https://cfi.co/latinamerica/2024/07/sustainable-development-a-legacy-of-innovation-czfss-50-year-milestone/"
+license: CFI-OAAL-1.0
 content_sha256: fde05443741db5ee4e413f48ca2c94655c0b5a29ad8311eb794e6f30800d8f25
 canonical: 26967-sustainable-development-a-legacy-of-innovation-czfss-50-year-milestone.json
 ---
