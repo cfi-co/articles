@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220814185811
 wayback_snapshot_url: "http://web.archive.org/web/20220814185811/https://cfi.co/menu/corporate/2022/07/bvi-finance-one-countrys-role-in-the-ongoing-globalisation-story/"
+license: CFI-OAAL-1.0
 content_sha256: 95549553bf9f76e374d594dc6611f4ab9efa74d042fc70391b7a36a21dd747f7
 canonical: 22442-bvi-finance-one-countrys-role-in-the-ongoing-globalisation-story.json
 ---
