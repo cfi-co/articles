@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140705133247
 wayback_snapshot_url: "http://web.archive.org/web/20140705133247/http://cfi.co/africa/2014/03/opic-low-write-offs-in-emerging-markets-investments/"
+license: CFI-OAAL-1.0
 content_sha256: 008696fa6b5d51a0f0423ca29b8b0d09c1238f73cd06cb4564ec6fce10d59012
 canonical: 6760-opic-low-write-offs-in-emerging-markets-investments.json
 ---
