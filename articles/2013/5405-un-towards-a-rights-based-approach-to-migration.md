@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818134121
 wayback_snapshot_url: "http://web.archive.org/web/20190818134121/https://cfi.co/africa/2013/10/un-towards-a-rights-based-approach-to-migration/"
+license: CFI-OAAL-1.0
 content_sha256: 8bec76f55da4d8f14a224f719271738e38eb10f4d036e5a191cef969c9e0dc57
 canonical: 5405-un-towards-a-rights-based-approach-to-migration.json
 ---
