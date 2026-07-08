@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920013756
 wayback_snapshot_url: "http://web.archive.org/web/20200920013756/https://cfi.co/menu/corporate/2019/10/arbah-capital-netting-firsts-and-paving-the-way-for-islamic-investment-firms-in-ksa/"
+license: CFI-OAAL-1.0
 content_sha256: 227d236f904bed6c0ab921008164d10f7e821c16f0df648e88076ad4ab43d53d
 canonical: 16132-arbah-capital-netting-firsts-and-paving-the-way-for-islamic-investment-firms-in-.json
 ---
