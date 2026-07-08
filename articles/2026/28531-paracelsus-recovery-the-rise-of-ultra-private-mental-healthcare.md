@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260621040029
 wayback_snapshot_url: "http://web.archive.org/web/20260621040029/https://cfi.co/europe/2026/06/paracelsus-recovery-the-rise-of-ultra-private-mental-healthcare/"
+license: CFI-OAAL-1.0
 content_sha256: 3ae74ad6459ceed348d56f6b60e24da0e7a60b4ed8e2f6a9f61e19990e59d42f
 canonical: 28531-paracelsus-recovery-the-rise-of-ultra-private-mental-healthcare.json
 ---
