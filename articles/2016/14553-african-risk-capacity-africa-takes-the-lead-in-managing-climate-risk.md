@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422024330
 wayback_snapshot_url: "http://web.archive.org/web/20210422024330/https://cfi.co/menu/corporate/2016/05/african-risk-capacity-africa-takes-the-lead-in-managing-climate-risk/"
+license: CFI-OAAL-1.0
 content_sha256: 99aaab74fd6d3fbd1e516731deff98f54087750cc78bbf5229d964fa0f9ec4d2
 canonical: 14553-african-risk-capacity-africa-takes-the-lead-in-managing-climate-risk.json
 ---
