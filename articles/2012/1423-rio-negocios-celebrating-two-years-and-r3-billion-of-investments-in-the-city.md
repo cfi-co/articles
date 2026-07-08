@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818140240
 wayback_snapshot_url: "http://web.archive.org/web/20190818140240/https://cfi.co/latinamerica/2012/08/rio-negocios-celebrating-two-years-and-r3-billion-of-investments-in-the-city/"
+license: CFI-OAAL-1.0
 content_sha256: ead4805174ae71fa3ab134cfca4df177a50314881f7df55a9ea9ab12dbdfa1d7
 canonical: 1423-rio-negocios-celebrating-two-years-and-r3-billion-of-investments-in-the-city.json
 ---
