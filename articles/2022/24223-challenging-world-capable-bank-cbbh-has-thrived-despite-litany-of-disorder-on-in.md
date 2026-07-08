@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330020643
 wayback_snapshot_url: "http://web.archive.org/web/20230330020643/https://cfi.co/banking/2022/12/challenging-world-capable-bank-cbbh-has-thrived-despite-litany-of-disorder-on-international-stage/"
+license: CFI-OAAL-1.0
 content_sha256: 748ee5644c15e701d887d6a4e9da1bdf253037515dfa02ff9e8f052d2086f187
 canonical: 24223-challenging-world-capable-bank-cbbh-has-thrived-despite-litany-of-disorder-on-in.json
 ---
