@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625235618
 wayback_snapshot_url: "http://web.archive.org/web/20220625235618/https://cfi.co/menu/corporate/2020/01/eccelsa-aviation-at-olbia-costa-smeralda-airport-this-sardinian-airport-is-worth-a-visit/"
+license: CFI-OAAL-1.0
 content_sha256: c1123361495f54c7ba6c210b15539333c345d063c9d72fc33d1b93d8c1025eac
 canonical: 17395-eccelsa-aviation-at-olbia-costa-smeralda-airport-this-sardinian-airport-is-worth.json
 ---
