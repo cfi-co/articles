@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724092109
 wayback_snapshot_url: "http://web.archive.org/web/20190724092109/https://cfi.co/corporate-leaders/2018/09/cfi-co-meets-the-vp-md-of-ccl-secure-bernhard-imbach/"
+license: CFI-OAAL-1.0
 content_sha256: 16053ffd1faa2d382b18f2cd0a734444bed63983dad6b06101334dd82ed80ee6
 canonical: 12970-cfi-co-meets-the-vp-md-of-ccl-secure-bernhard-imbach.json
 ---
