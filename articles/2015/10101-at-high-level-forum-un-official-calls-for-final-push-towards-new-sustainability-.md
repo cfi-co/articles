@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820141630
 wayback_snapshot_url: "http://web.archive.org/web/20190820141630/https://cfi.co/africa/2015/07/at-high-level-forum-un-official-calls-for-final-push-towards-new-sustainability-agenda/"
+license: CFI-OAAL-1.0
 content_sha256: f19345eea7f9de9c52f99c20f0479005153e6c4b0159792b1f97f78171562318
 canonical: 10101-at-high-level-forum-un-official-calls-for-final-push-towards-new-sustainability-.json
 ---
