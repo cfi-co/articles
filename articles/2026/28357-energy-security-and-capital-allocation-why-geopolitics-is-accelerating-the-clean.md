@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523042812
 wayback_snapshot_url: "http://web.archive.org/web/20260523042812/https://cfi.co/oil-and-mining/2026/03/energy-security-and-capital-allocation-why-geopolitics-is-accelerating-the-clean-energy-investment-cycle/"
+license: CFI-OAAL-1.0
 content_sha256: 6486dfa55c16119ea0c311d65d05cdb5d37ba5d96b11f0e9e4ca36af78e6188d
 canonical: 28357-energy-security-and-capital-allocation-why-geopolitics-is-accelerating-the-clean.json
 ---
