@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724090412
 wayback_snapshot_url: "http://web.archive.org/web/20190724090412/https://cfi.co/banking/2013/07/cbi-urges-banks-to-think-of-customers-first/"
+license: CFI-OAAL-1.0
 content_sha256: 2071d1aabde34294c5f4b9e8f5a99021c279d94c04204c39291789762497ae9d
 canonical: 4536-cbi-urges-banks-to-think-of-customers-first.json
 ---
