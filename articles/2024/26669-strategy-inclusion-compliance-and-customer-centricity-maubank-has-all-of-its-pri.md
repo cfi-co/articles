@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225153155
 wayback_snapshot_url: "http://web.archive.org/web/20240225153155/https://cfi.co/banking/2024/02/strategy-inclusion-compliance-and-customer-centricity-maubank-has-all-of-its-priorities-firmly-in-place/"
+license: CFI-OAAL-1.0
 content_sha256: 2858392b15fb8e60874410be8b17acad294f3b2bdc6cfbaa51b12d5217a44805
 canonical: 26669-strategy-inclusion-compliance-and-customer-centricity-maubank-has-all-of-its-pri.json
 ---
