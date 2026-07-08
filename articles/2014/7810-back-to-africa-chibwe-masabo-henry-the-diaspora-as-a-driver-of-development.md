@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20141003105556
 wayback_snapshot_url: "http://web.archive.org/web/20141003105556/http://cfi.co/africa/2014/08/back-to-africa-chibwe-masabo-henry-the-diaspora-as-a-driver-of-development/"
+license: CFI-OAAL-1.0
 content_sha256: f580123445b7cc5e4e2b1a2090b2a937e4b57f78bb5e2456da0139d67d288544
 canonical: 7810-back-to-africa-chibwe-masabo-henry-the-diaspora-as-a-driver-of-development.json
 ---
