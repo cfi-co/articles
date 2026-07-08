@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327170237
 wayback_snapshot_url: "http://web.archive.org/web/20140327170237/http://cfi.co/northamerica/2013/12/tobias-preis-beating-the-stock-market-with-googles-big-data/"
+license: CFI-OAAL-1.0
 content_sha256: 66f74ddb8cb6e213e31a37053060a9a22a0a03137a8379c604fcbe55069ba70c
 canonical: 6152-tobias-preis-beating-the-stock-market-with-googles-big-data.json
 ---
