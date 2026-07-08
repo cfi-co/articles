@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140825021825
 wayback_snapshot_url: "http://web.archive.org/web/20140825021825/http://cfi.co/africa/2013/06/pwc-south-africa-africa-rising/"
+license: CFI-OAAL-1.0
 content_sha256: a8721bb0165950ae27d07f8a94251ecb656e88d3471dbc63ee47ac9b2c5c38a0
 canonical: 4277-pwc-south-africa-africa-rising.json
 ---
