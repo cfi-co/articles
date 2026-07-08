@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201113113558
 wayback_snapshot_url: "http://web.archive.org/web/20201113113558/https://cfi.co/northamerica/2020/11/tech-trust-and-womens-role-in-creating-the-future/"
+license: CFI-OAAL-1.0
 content_sha256: cf5d2290d96a537328ef0b3743fc4bd8493669186fd2953e1a3e21eab2a357df
 canonical: 17876-tech-trust-and-womens-role-in-creating-the-future.json
 ---
