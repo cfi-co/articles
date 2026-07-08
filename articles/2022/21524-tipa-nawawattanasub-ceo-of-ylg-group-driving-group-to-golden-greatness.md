@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625223345
 wayback_snapshot_url: "http://web.archive.org/web/20220625223345/https://cfi.co/menu/corporate/2022/02/tipa-nawawattanasub-ceo-of-ylg-group-driving-group-to-golden-greatness/"
+license: CFI-OAAL-1.0
 content_sha256: 04b6c229c27836776deb3b4067b66536709723928966df6f0247a4d7df63a98c
 canonical: 21524-tipa-nawawattanasub-ceo-of-ylg-group-driving-group-to-golden-greatness.json
 ---
