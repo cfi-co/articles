@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190129215539
 wayback_snapshot_url: "http://web.archive.org/web/20190129215539/https://cfi.co/projects/2019/01/united-nations-leadership-launches-initiative-against-unregulated-small-arms-circulation/"
+license: CFI-OAAL-1.0
 content_sha256: 433ba0ed34b0968712552347389fcb6a0b88ea751cd0113b3b87185fe9cd368f
 canonical: 13401-united-nations-leadership-launches-initiative-against-unregulated-small-arms-cir.json
 ---
