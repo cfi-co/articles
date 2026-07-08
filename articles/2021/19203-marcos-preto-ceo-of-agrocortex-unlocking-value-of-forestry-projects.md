@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422030209
 wayback_snapshot_url: "http://web.archive.org/web/20210422030209/https://cfi.co/menu/corporate/2021/03/marcos-preto-ceo-of-agrocortex-unlocking-value-of-forestry-projects/"
+license: CFI-OAAL-1.0
 content_sha256: a9c59a02f591ee982b29006810a5f8001d056e263c60c0dcb88a05e390d42810
 canonical: 19203-marcos-preto-ceo-of-agrocortex-unlocking-value-of-forestry-projects.json
 ---
