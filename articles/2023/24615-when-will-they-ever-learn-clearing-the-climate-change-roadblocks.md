@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230117153536
 wayback_snapshot_url: "http://web.archive.org/web/20230117153536/https://cfi.co/brave-new-world/2023/01/when-will-they-ever-learn-clearing-the-climate-change-roadblocks/"
+license: CFI-OAAL-1.0
 content_sha256: f9548ca515ecead467f700535034beb6095715f27f7e2c3bf3999bfc7554dd69
 canonical: 24615-when-will-they-ever-learn-clearing-the-climate-change-roadblocks.json
 ---
