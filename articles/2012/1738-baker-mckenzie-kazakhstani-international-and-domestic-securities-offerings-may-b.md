@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327045228
 wayback_snapshot_url: "http://web.archive.org/web/20140327045228/http://cfi.co/finance/2012/08/baker-mckenzie-kazakhstani-international-and-domestic-securities-offerings-may-be-substantially-affected-by-recent-legal-amendments/"
+license: CFI-OAAL-1.0
 content_sha256: 50e8a78760c2a221adb8ec653731d98ad758568c4fe7f5ca4c9fc4fe2977cbc1
 canonical: 1738-baker-mckenzie-kazakhstani-international-and-domestic-securities-offerings-may-b.json
 ---
