@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241217084341
 wayback_snapshot_url: "http://web.archive.org/web/20241217084341/https://cfi.co/finance/2024/12/the-economics-of-christmas/"
+license: CFI-OAAL-1.0
 content_sha256: f6dbdf0c5ae04a783368e1d2f504aa556b2d23cf2ce57d3ab095ba054ebc3004
 canonical: 27405-the-economics-of-christmas.json
 ---
