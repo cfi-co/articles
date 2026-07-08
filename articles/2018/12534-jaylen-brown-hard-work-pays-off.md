@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200919113143
 wayback_snapshot_url: "http://web.archive.org/web/20200919113143/https://cfi.co/editors-picks/2018/07/jaylen-brown-hard-work-pays-off/"
+license: CFI-OAAL-1.0
 content_sha256: 9dbd4027d2216fa866e15284fa2c49e72fab2270351b9044bb807fb861ad0205
 canonical: 12534-jaylen-brown-hard-work-pays-off.json
 ---
