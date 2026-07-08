@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211020065252
 wayback_snapshot_url: "http://web.archive.org/web/20211020065252/https://cfi.co/asia-pacific/2021/10/uzbekistan-on-the-path-to-becoming-carbon-neutral/"
+license: CFI-OAAL-1.0
 content_sha256: 9ca065c5a35c72a2133b5054e21c8cae2752db0d1036f5562cb134538bea1bb3
 canonical: 20834-uzbekistan-on-the-path-to-becoming-carbon-neutral.json
 ---
