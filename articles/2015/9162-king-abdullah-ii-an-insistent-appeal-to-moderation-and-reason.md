@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180709074343
 wayback_snapshot_url: "http://web.archive.org/web/20180709074343/http://cfi.co/editors-picks/2015/02/king-abdullah-ii-an-insistent-appeal-to-moderation-and-reason/"
+license: CFI-OAAL-1.0
 content_sha256: d132f513f82c37f25719642ae001f486d106bd48238fa0e108d571af33ea0d45
 canonical: 9162-king-abdullah-ii-an-insistent-appeal-to-moderation-and-reason.json
 ---
