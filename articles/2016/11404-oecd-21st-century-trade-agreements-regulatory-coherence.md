@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180210054954
 wayback_snapshot_url: "http://web.archive.org/web/20180210054954/http://cfi.co/finance/2016/11/oecd-21st-century-trade-agreements-regulatory-coherence/"
+license: CFI-OAAL-1.0
 content_sha256: 3e195761dfc76a0a99533c98d5a2a2c96de1297b15aa332db1b50772495d3968
 canonical: 11404-oecd-21st-century-trade-agreements-regulatory-coherence.json
 ---
