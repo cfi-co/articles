@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210612125138
 wayback_snapshot_url: "http://web.archive.org/web/20210612125138/https://cfi.co/finance/2021/06/deloitte-changes-on-the-horizon-for-europes-alternative-investment-fund-market/"
+license: CFI-OAAL-1.0
 content_sha256: ea3283cc437c8863e3caf8ba994620cee7c4a2e52c77a0be5b7e54ced2c0a005
 canonical: 19812-deloitte-changes-on-the-horizon-for-europes-alternative-investment-fund-market.json
 ---
