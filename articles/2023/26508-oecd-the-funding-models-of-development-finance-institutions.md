@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231221221613
 wayback_snapshot_url: "http://web.archive.org/web/20231221221613/https://cfi.co/menu/multilaterals/2023/12/oecd-the-funding-models-of-development-finance-institutions/"
+license: CFI-OAAL-1.0
 content_sha256: e6382502c9ebcf5162765d25f5042a0c8dd9cd74696fa59a550f0da546bd8012
 canonical: 26508-oecd-the-funding-models-of-development-finance-institutions.json
 ---
