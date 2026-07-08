@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240525140139
 wayback_snapshot_url: "http://web.archive.org/web/20240525140139/https://cfi.co/europe/2024/05/cement-recycling-a-breakthrough-for-more-sustainable-construction/"
+license: CFI-OAAL-1.0
 content_sha256: ee4b8ba05ca2ab5e3f4c2b4e7b3757faa923a5a17345f5927a74cf968e11312f
 canonical: 26823-cement-recycling-a-breakthrough-for-more-sustainable-construction.json
 ---
