@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625225253
 wayback_snapshot_url: "http://web.archive.org/web/20220625225253/https://cfi.co/menu/corporate/2022/05/orbian-optimised-supplier-strategies-and-ongoing-recognition/"
+license: CFI-OAAL-1.0
 content_sha256: 8f420904814bd6edd04b9325a51010cb23f5d90a0ef016385b6e3c83e79229f7
 canonical: 21794-orbian-optimised-supplier-strategies-and-ongoing-recognition.json
 ---
