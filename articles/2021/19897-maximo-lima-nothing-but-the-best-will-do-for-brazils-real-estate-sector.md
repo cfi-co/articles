@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920111826
 wayback_snapshot_url: "http://web.archive.org/web/20210920111826/https://cfi.co/menu/corporate/2021/07/maximo-lima-nothing-but-the-best-will-do-for-brazils-real-estate-sector/"
+license: CFI-OAAL-1.0
 content_sha256: 35864ee10268a770ae35361ddb89d6d21b1df51fe6610650d9b360a1de9fe7de
 canonical: 19897-maximo-lima-nothing-but-the-best-will-do-for-brazils-real-estate-sector.json
 ---
