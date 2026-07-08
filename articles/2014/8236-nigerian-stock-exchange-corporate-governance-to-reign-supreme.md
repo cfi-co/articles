@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150204023251
 wayback_snapshot_url: "http://web.archive.org/web/20150204023251/http://cfi.co/africa/2014/10/nigerian-stock-exchange-corporate-governance-to-reign-supreme/"
+license: CFI-OAAL-1.0
 content_sha256: 6a324a1a984501ddbb5c748c37bf79e4bc8f1308b32bbc3ccd601ca09dee6c2b
 canonical: 8236-nigerian-stock-exchange-corporate-governance-to-reign-supreme.json
 ---
