@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260705040050
 wayback_snapshot_url: "http://web.archive.org/web/20260705040050/https://cfi.co/lifestyle/2026/07/the-gilded-sanctuary-inside-the-last-bastion-of-the-british-gentleman/"
+license: CFI-OAAL-1.0
 content_sha256: 82657d4039e1e22d220a89ae5da65a397fb8034af3e947900317430b896a904e
 canonical: 28556-the-gilded-sanctuary-inside-the-last-bastion-of-the-british-gentleman.json
 ---
