@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050116
 wayback_snapshot_url: "http://web.archive.org/web/20190818050116/https://cfi.co/finance/2014/07/grant-thornton-uae-bridging-the-gap-in-private-ma-transactions/"
+license: CFI-OAAL-1.0
 content_sha256: 03dfbffc72d2f3afe6d101ef786946d241fb8e2979cade0c62e12123e978ec1f
 canonical: 7695-grant-thornton-uae-bridging-the-gap-in-private-ma-transactions.json
 ---
