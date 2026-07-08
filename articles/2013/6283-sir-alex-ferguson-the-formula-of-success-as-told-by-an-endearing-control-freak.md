@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327044714
 wayback_snapshot_url: "http://web.archive.org/web/20140327044714/http://cfi.co/europe/2013/12/sir-alex-ferguson-the-formula-of-success-as-told-by-an-endearing-control-freak/"
+license: CFI-OAAL-1.0
 content_sha256: f1c0b18c5f4df73c5d6ef6e8aa67695889c7cfb944e4554b89d3e5276b9795cd
 canonical: 6283-sir-alex-ferguson-the-formula-of-success-as-told-by-an-endearing-control-freak.json
 ---
