@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225161225
 wayback_snapshot_url: "http://web.archive.org/web/20240225161225/https://cfi.co/latinamerica/2023/11/moodys-investors-service-provides-thought-leadership-in-latin-america/"
+license: CFI-OAAL-1.0
 content_sha256: c9667b170379e3449217b69e1a1dacdd1711e57f869d449761690bca3c58564b
 canonical: 26400-moodys-investors-service-provides-thought-leadership-in-latin-america.json
 ---
