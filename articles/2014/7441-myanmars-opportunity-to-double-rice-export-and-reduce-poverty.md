@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191013203558
 wayback_snapshot_url: "http://web.archive.org/web/20191013203558/https://cfi.co/asia-pacific/2014/06/myanmars-opportunity-to-double-rice-export-and-reduce-poverty/"
+license: CFI-OAAL-1.0
 content_sha256: 302aec83c374ffefb85f3ce5dc2469e6fb3d0bfb76a8cdd38d393edd1070dd57
 canonical: 7441-myanmars-opportunity-to-double-rice-export-and-reduce-poverty.json
 ---
