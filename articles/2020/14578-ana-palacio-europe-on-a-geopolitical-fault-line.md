@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200408063342
 wayback_snapshot_url: "http://web.archive.org/web/20200408063342/https://cfi.co/europe/2020/01/ana-palacio-europe-on-a-geopolitical-fault-line/"
+license: CFI-OAAL-1.0
 content_sha256: d07518fa4431d2710f8bd77fc7fb42ab385658a0d5965253cdd0979765705fa6
 canonical: 14578-ana-palacio-europe-on-a-geopolitical-fault-line.json
 ---
