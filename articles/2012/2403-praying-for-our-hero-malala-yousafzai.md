@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823052811
 wayback_snapshot_url: "http://web.archive.org/web/20190823052811/https://cfi.co/editors-picks/2012/10/praying-for-our-hero-malala-yousafzai/"
+license: CFI-OAAL-1.0
 content_sha256: 1fae7bd8d897674d074f30c49e381c7f9ae286b082ae4a49c8f90b9c1bb8fbd5
 canonical: 2403-praying-for-our-hero-malala-yousafzai.json
 ---
