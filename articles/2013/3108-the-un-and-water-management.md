@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140828172730
 wayback_snapshot_url: "http://web.archive.org/web/20140828172730/http://cfi.co/sustainability/2013/02/the-un-and-water-management/"
+license: CFI-OAAL-1.0
 content_sha256: 2904c19ee3a9a50ac829ec2f7fd0f4f250e6d7982941a998ac5393b87cb69914
 canonical: 3108-the-un-and-water-management.json
 ---
