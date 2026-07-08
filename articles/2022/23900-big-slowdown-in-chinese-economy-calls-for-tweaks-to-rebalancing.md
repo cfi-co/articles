@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221107085400
 wayback_snapshot_url: "http://web.archive.org/web/20221107085400/https://cfi.co/asia-pacific/2022/11/big-slowdown-in-chinese-economy-calls-for-tweaks-to-rebalancing/"
+license: CFI-OAAL-1.0
 content_sha256: 1dea8d3457b75399e7d26a3eb94c34179e5c02b52fd1dbd934c3d4a48ce54fab
 canonical: 23900-big-slowdown-in-chinese-economy-calls-for-tweaks-to-rebalancing.json
 ---
