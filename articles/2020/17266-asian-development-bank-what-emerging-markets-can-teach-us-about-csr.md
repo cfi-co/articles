@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201023000910
 wayback_snapshot_url: "http://web.archive.org/web/20201023000910/https://cfi.co/asia-pacific/2020/10/asian-development-bank-what-emerging-markets-can-teach-us-about-csr/"
+license: CFI-OAAL-1.0
 content_sha256: 9acb18829288e262a898490f4066b8ea68143969088c447d144ec9d9dd8bd153
 canonical: 17266-asian-development-bank-what-emerging-markets-can-teach-us-about-csr.json
 ---
