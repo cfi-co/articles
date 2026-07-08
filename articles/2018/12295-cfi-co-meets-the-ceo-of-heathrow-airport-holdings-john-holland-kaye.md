@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818053137
 wayback_snapshot_url: "http://web.archive.org/web/20190818053137/https://cfi.co/corporate-leaders/2018/02/cfi-co-meets-the-ceo-of-heathrow-airport-holdings-john-holland-kaye/"
+license: CFI-OAAL-1.0
 content_sha256: 64f7878d696564e3ae589ad21a95d2cd417f81c2d243c0025103faa2448085ae
 canonical: 12295-cfi-co-meets-the-ceo-of-heathrow-airport-holdings-john-holland-kaye.json
 ---
