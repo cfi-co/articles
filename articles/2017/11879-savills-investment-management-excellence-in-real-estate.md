@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422022026
 wayback_snapshot_url: "http://web.archive.org/web/20210422022026/https://cfi.co/menu/corporate/2017/09/savills-investment-management-excellence-in-real-estate/"
+license: CFI-OAAL-1.0
 content_sha256: b7dcc10815f5d2ef24e4e7018abffe18e226ba0251f80e4cb26741b45dc3b04d
 canonical: 11879-savills-investment-management-excellence-in-real-estate.json
 ---
