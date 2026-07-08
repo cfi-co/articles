@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140209015923
 wayback_snapshot_url: "http://web.archive.org/web/20140209015923/http://cfi.co/latinamerica/2014/01/jose-pinera-echenique-robbing-the-state-of-its-piggy-bank/"
+license: CFI-OAAL-1.0
 content_sha256: 8f12834ec2f7cd7e6fd8987a231c6181f12372741510f9cd0ec398595ac9dd09
 canonical: 6459-jose-pinera-echenique-robbing-the-state-of-its-piggy-bank.json
 ---
