@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170917185824
 wayback_snapshot_url: "http://web.archive.org/web/20170917185824/http://cfi.co/africa/2016/01/strategy-gaining-a-competitive-edge-in-africa/"
+license: CFI-OAAL-1.0
 content_sha256: ecbd28d9a47202fa536bee7dd71ff455fadc1f244d73accb1bc96c04debc91f2
 canonical: 10748-strategy-gaining-a-competitive-edge-in-africa.json
 ---
