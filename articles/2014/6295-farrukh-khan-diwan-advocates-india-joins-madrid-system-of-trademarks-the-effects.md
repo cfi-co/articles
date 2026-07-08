@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050215
 wayback_snapshot_url: "http://web.archive.org/web/20190818050215/https://cfi.co/asia-pacific/2014/01/farrukh-khan-diwan-advocates-india-joins-madrid-system-of-trademarks-the-effects/"
+license: CFI-OAAL-1.0
 content_sha256: cfb648436867b71a829b4dd6fd88abc0e3a9f1db4f58d7787a3171299514c92a
 canonical: 6295-farrukh-khan-diwan-advocates-india-joins-madrid-system-of-trademarks-the-effects.json
 ---
