@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190722122449
 wayback_snapshot_url: "http://web.archive.org/web/20190722122449/https://cfi.co/africa/2014/11/overall-tax-cost-and-compliance-burden-lower-for-businesses-around-the-world/"
+license: CFI-OAAL-1.0
 content_sha256: f91a532eb42a8dd6c44812baa56ff7cb90c43633b6f5dc31f08f97ba3c074421
 canonical: 8412-overall-tax-cost-and-compliance-burden-lower-for-businesses-around-the-world.json
 ---
