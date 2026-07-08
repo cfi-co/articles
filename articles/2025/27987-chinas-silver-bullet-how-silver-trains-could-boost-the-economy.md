@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251008090028
 wayback_snapshot_url: "http://web.archive.org/web/20251008090028/https://cfi.co/asia-pacific/2025/10/chinas-silver-bullet-how-silver-trains-could-boost-the-economy/"
+license: CFI-OAAL-1.0
 content_sha256: 5261dccfe24a89c51de5a0aaf7a78324bc386e37a512352cac0bb95d9056fd4e
 canonical: 27987-chinas-silver-bullet-how-silver-trains-could-boost-the-economy.json
 ---
