@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920115403
 wayback_snapshot_url: "http://web.archive.org/web/20210920115403/https://cfi.co/menu/corporate/2021/07/pollen-street-capital-beyond-esg-and-accelerating-progress-by-adding-caring-to-the-priority-list/"
+license: CFI-OAAL-1.0
 content_sha256: a6d9cd3844c905eeaace0185f9b88984f72134afd5a70215be70ca13ae701d9f
 canonical: 19902-pollen-street-capital-beyond-esg-and-accelerating-progress-by-adding-caring-to-t.json
 ---
