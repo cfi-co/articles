@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916043827
 wayback_snapshot_url: "http://web.archive.org/web/20190916043827/https://cfi.co/europe/2015/01/davos-getting-it-right-some-of-the-time/"
+license: CFI-OAAL-1.0
 content_sha256: 563f2ae0bd71e288ff2dfb5c225c5fea7ed8c6d68fb4ba19a0d4a038b0044e9e
 canonical: 8740-davos-getting-it-right-some-of-the-time.json
 ---
