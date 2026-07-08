@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523042812
 wayback_snapshot_url: "http://web.archive.org/web/20260523042812/https://cfi.co/finance/2026/03/the-ultimate-investment-pitch-how-to-win-funding-on-conviction-not-cash/"
+license: CFI-OAAL-1.0
 content_sha256: 88571aecbd543aa1e513605d74474dfc43d9235c3b23764615d566966dcb2b4e
 canonical: 28352-the-ultimate-investment-pitch-how-to-win-funding-on-conviction-not-cash.json
 ---
