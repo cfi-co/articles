@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228103000
 wayback_snapshot_url: "http://web.archive.org/web/20210228103000/https://cfi.co/northamerica/2020/12/appreciation-of-esg-values-has-increased-during-pandemic-says-asset-manager-of-goldman-sachs-sheila-patel/"
+license: CFI-OAAL-1.0
 content_sha256: d967b4a76640ae8d69c2b9dd2fbdc0f864791e7740563e004e238fd7b2d21a7c
 canonical: 18511-appreciation-of-esg-values-has-increased-during-pandemic-says-asset-manager-of-g.json
 ---
