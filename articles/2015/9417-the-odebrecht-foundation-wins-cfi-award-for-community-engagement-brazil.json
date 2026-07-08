@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190723005543",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190723005543/https://cfi.co/awards/latin-america/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190723005543/https://cfi.co/awards/latin-america/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>The Odebrecht Organisation is a very successful and highly diversified Brazilian group which is active in the domestic engineering and construction sectors and invests heavily in energy and infrastructure projects. The history of the business can be traced back to the arrival in Brazil in 1856 of Emil Odebrecht as an immigrant from Germany.</strong></p>\r\n<p style=\"text-align: justify;\">Family member Norberto set up the Odebrecht Foundation in 1965 with a view to offering additional support to employees. After some years individual Odebrecht companies took up these responsibilities allowing the Foundation to focus on matters of public concern. Simply put, Odebrecht set out to help government improve the quality of life of Brazilian society. According to the CFI Judging Panel, ‘Much has been achieved in Brazil through Odebrecht dedication and generosity’.</p>\r\n<p style=\"text-align: justify;\">The focus for Odebrecht has always been on the education of Brazil’s young people. The first priority was to encourage progress in the north east and particularly in the most needy regions not properly benefiting from the national economy. In 2003, the Foundation partnered with government and other concerned parties to bring support to Bahia Southern Lowlands. The laudable objective here was to allow youth to remain in the region by delivering work opportunities and generally improving lifestyles. This resulted in a United Nations Public Service award in the year 2010.</p>",
     "content_sha256": "71936c0c5e7967741832479f466f143f3d9ae5c7327532903176841013159f96",
-    "record_sha256": "620a1063f93d7ec960e23d744ac702aa7575c3e17864ca5a4ef951d24047d25f"
+    "record_sha256": "b3d948add6d051454aab43eb30cec803d56b8028587b1eb2c84a42867f9bc5f7"
 }
