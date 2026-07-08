@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210618094817
 wayback_snapshot_url: "http://web.archive.org/web/20210618094817/https://cfi.co/middleeast/2021/06/investment-house-team-efforts-bring-qatari-company-to-the-fore-with-rewards-awards-and-exciting-plans-for-the-future/"
+license: CFI-OAAL-1.0
 content_sha256: f5b8a55cfaca049ee99f903f7fb00274324ade618f63dde6305e66e6ec6b352a
 canonical: 19869-investment-house-team-efforts-bring-qatari-company-to-the-fore-with-rewards-awar.json
 ---
