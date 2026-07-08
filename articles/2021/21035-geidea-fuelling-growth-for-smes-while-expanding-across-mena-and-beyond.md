@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625225522
 wayback_snapshot_url: "http://web.archive.org/web/20220625225522/https://cfi.co/menu/corporate/2021/11/geidea-fuelling-growth-for-smes-while-expanding-across-mena-and-beyond/"
+license: CFI-OAAL-1.0
 content_sha256: 1ff1c7df3132352f11f9bdb78a7762d3247f84fd8b75269826b6e20d58a7c4fd
 canonical: 21035-geidea-fuelling-growth-for-smes-while-expanding-across-mena-and-beyond.json
 ---
