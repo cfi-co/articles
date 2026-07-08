@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20171204160644
 wayback_snapshot_url: "http://web.archive.org/web/20171204160644/http://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-stoxx-hartmut-graf/"
+license: CFI-OAAL-1.0
 content_sha256: e85ee5b836d089645824bb865f008f960dc65a57379ae50e5d8bcc45ba1b92d1
 canonical: 10933-cfi-co-meets-the-ceo-of-stoxx-hartmut-graf.json
 ---
