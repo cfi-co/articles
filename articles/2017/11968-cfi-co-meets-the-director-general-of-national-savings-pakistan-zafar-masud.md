@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180417021914
 wayback_snapshot_url: "http://web.archive.org/web/20180417021914/http://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-director-general-of-national-savings-pakistan-zafar-masud/"
+license: CFI-OAAL-1.0
 content_sha256: fba703d70bad2af4c0ab7a178e4fd16ce259f24574d8c93699be1cddffafacc2
 canonical: 11968-cfi-co-meets-the-director-general-of-national-savings-pakistan-zafar-masud.json
 ---
