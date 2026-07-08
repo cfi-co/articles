@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630123533
 wayback_snapshot_url: "http://web.archive.org/web/20220630123533/https://cfi.co/menu/corporate/2022/05/segurcaixa-adeslas-a-strategy-based-on-value-creation-and-a-track-record-of-innovation/"
+license: CFI-OAAL-1.0
 content_sha256: 3ca47e7ce10438f837aa0ddd9e6f94473597a9551c7482d0d7d313e018f3938c
 canonical: 21966-segurcaixa-adeslas-a-strategy-based-on-value-creation-and-a-track-record-of-inno.json
 ---
