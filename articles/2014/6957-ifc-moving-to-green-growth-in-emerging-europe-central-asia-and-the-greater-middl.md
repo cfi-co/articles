@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916044126
 wayback_snapshot_url: "http://web.archive.org/web/20190916044126/https://cfi.co/asia-pacific/2014/04/ifc-moving-to-green-growth-in-emerging-europe-central-asia-and-the-greater-middle-east/"
+license: CFI-OAAL-1.0
 content_sha256: 9a22e6fa773f4577c5df228d68aa0025c51165fa6f1b313c10bdeb47264f5669
 canonical: 6957-ifc-moving-to-green-growth-in-emerging-europe-central-asia-and-the-greater-middl.json
 ---
