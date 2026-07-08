@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260109210505
 wayback_snapshot_url: "http://web.archive.org/web/20260109210505/https://cfi.co/asia-pacific/2025/12/sanae-takaichi-becoming-japans-first-female-prime-minister/"
+license: CFI-OAAL-1.0
 content_sha256: 9064c1f10aa1252bbd209d191bd652c4114627058714ea91039c34543a641aa1
 canonical: 28142-sanae-takaichi-becoming-japans-first-female-prime-minister.json
 ---
