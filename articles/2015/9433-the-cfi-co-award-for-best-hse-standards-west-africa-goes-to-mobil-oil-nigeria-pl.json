@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190723005756",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190723005756/https://cfi.co/awards/africa/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190723005756/https://cfi.co/awards/africa/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>Mobil Oil Nigeria Plc traces its proud history back to 1907.</strong></p>\r\n<p style=\"text-align: justify;\">This top petroleum products marketing player now operates extensively and very successfully throughout all states in the country.</p>\r\n<p style=\"text-align: justify;\">The CFI.co Judging Panel confirms that their 2014 award for Best Health Safety and Environment Standards (Oil &amp; Gas), West Africa goes to this outstanding organisation which they say, ‘always places HSE concerns at the heart of their operating strategy. Mobil Oil Nigeria is not only an exemplar of industry efficiency but also conducts itself according to the very highest ethical standards. We congratulate Mobil on this award which is well deserved.’</p>",
     "content_sha256": "1af504fd7c005fac4c77b2534266e6879edc6874ae7427ce6948f4a72282134c",
-    "record_sha256": "7e97f3e6bd45ff7ed476a9dca6a3e7e557999c7df5f94c9e6cfa7c02fb7d5aa1"
+    "record_sha256": "a7c1c4f1ba93d5c65e136ddfd50823c2f1e8499d56467d0d832ebe5466ae739a"
 }
