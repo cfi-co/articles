@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251206005125
 wayback_snapshot_url: "http://web.archive.org/web/20251206005125/https://cfi.co/finance/2025/11/deem-finance-driving-financial-inclusion-and-digital-transformation-in-the-uae/"
+license: CFI-OAAL-1.0
 content_sha256: 2c7b9e5edf4c69233556801016b7ecc5489eb51423da54851942e83ba173a785
 canonical: 28066-deem-finance-driving-financial-inclusion-and-digital-transformation-in-the-uae.json
 ---
