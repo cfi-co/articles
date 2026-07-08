@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422013545
 wayback_snapshot_url: "http://web.archive.org/web/20210422013545/https://cfi.co/corporate-leaders/2020/05/kc-li-career-started-high-and-then-it-took-off-big-time/"
+license: CFI-OAAL-1.0
 content_sha256: dec944d8408ac6fd8930098c72a71dfa191f417b9c4971cb87b52d6a69e31bd2
 canonical: 16049-kc-li-career-started-high-and-then-it-took-off-big-time.json
 ---
