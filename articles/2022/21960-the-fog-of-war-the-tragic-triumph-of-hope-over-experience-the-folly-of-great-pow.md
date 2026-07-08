@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220518151253
 wayback_snapshot_url: "http://web.archive.org/web/20220518151253/https://cfi.co/brave-new-world/2022/05/the-fog-of-war-the-tragic-triumph-of-hope-over-experience-the-folly-of-great-powers/"
+license: CFI-OAAL-1.0
 content_sha256: 0925bfff3750e8590ce704c9571e3b7436539729b607022add881d4c40bd5b49
 canonical: 21960-the-fog-of-war-the-tragic-triumph-of-hope-over-experience-the-folly-of-great-pow.json
 ---
