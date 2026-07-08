@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250322100342
 wayback_snapshot_url: "http://web.archive.org/web/20250322100342/https://cfi.co/northamerica/2025/03/mary-wells-lawrence-the-woman-who-redefined-advertising/"
+license: CFI-OAAL-1.0
 content_sha256: 9c88bc1cfef33a50dd595985037deaf565ed9fde932b5e90b21e76e333891b42
 canonical: 27632-mary-wells-lawrence-the-woman-who-redefined-advertising.json
 ---
