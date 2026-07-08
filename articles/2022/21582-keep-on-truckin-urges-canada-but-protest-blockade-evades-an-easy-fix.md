@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625230108
 wayback_snapshot_url: "http://web.archive.org/web/20220625230108/https://cfi.co/brave-new-world/2022/02/keep-on-truckin-urges-canada-but-protest-blockade-evades-an-easy-fix/"
+license: CFI-OAAL-1.0
 content_sha256: 9cadd1d7624f71a0c8db29cf7aef60cb55051445cc60cdfa2a9229eca4a54e64
 canonical: 21582-keep-on-truckin-urges-canada-but-protest-blockade-evades-an-easy-fix.json
 ---
