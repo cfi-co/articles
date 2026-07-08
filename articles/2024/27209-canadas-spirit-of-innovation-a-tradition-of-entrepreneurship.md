@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250513094821
 wayback_snapshot_url: "http://web.archive.org/web/20250513094821/https://cfi.co/northamerica/2024/10/canadas-spirit-of-innovation-a-tradition-of-entrepreneurship/"
+license: CFI-OAAL-1.0
 content_sha256: e1ca6635a53267dff239e91317ca6fbb15131041613cdddc9446cf4c2a8c74bd
 canonical: 27209-canadas-spirit-of-innovation-a-tradition-of-entrepreneurship.json
 ---
