@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251107155801
 wayback_snapshot_url: "http://web.archive.org/web/20251107155801/https://cfi.co/finance/2025/10/blended-finances-second-act-the-oecd-renews-guidance-to-effectively-align-development-goals-and-investment-returns/"
+license: CFI-OAAL-1.0
 content_sha256: 8700c439c6a1a5895f5242996a7b06c69b4093756b4d5dd0ccbfa426f481e58e
 canonical: 28031-blended-finances-second-act-the-oecd-renews-guidance-to-effectively-align-develo.json
 ---
