@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220906072129
 wayback_snapshot_url: "http://web.archive.org/web/20220906072129/https://cfi.co/lifestyle/2022/09/we-do-love-to-be-beside-the-seaside-and-fashion-is-so-much-better-for-that/"
+license: CFI-OAAL-1.0
 content_sha256: 4fed701b780ec624bdfe6dbc5211eb487394a311a9b3b2e905cf25c0833c47a7
 canonical: 23277-we-do-love-to-be-beside-the-seaside-and-fashion-is-so-much-better-for-that.json
 ---
