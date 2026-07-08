@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717205647
 wayback_snapshot_url: "http://web.archive.org/web/20190717205647/https://cfi.co/menu/special-features/2018/05/us-trade-policy-end-of-the-liberal-world-order/"
+license: CFI-OAAL-1.0
 content_sha256: 37deeecc1da908ffaa4c8f2fffa62a41b0b8c7718a4370103e0af44f011e83e9
 canonical: 12483-us-trade-policy-end-of-the-liberal-world-order.json
 ---
