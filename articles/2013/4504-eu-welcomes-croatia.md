@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191013203659
 wayback_snapshot_url: "http://web.archive.org/web/20191013203659/https://cfi.co/europe/2013/07/eu-welcomes-croatia/"
+license: CFI-OAAL-1.0
 content_sha256: de997aeb2aea76d53303bbcdb7a58e4714c0f123f96b5229c7ceebeaf5fc066b
 canonical: 4504-eu-welcomes-croatia.json
 ---
