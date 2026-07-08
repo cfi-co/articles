@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220721113606
 wayback_snapshot_url: "http://web.archive.org/web/20220721113606/https://cfi.co/middleeast/2022/07/massimo-falcioni-reinforcing-uaes-economic-diversification-away-from-oil-trade-in-a-co-operative-way/"
+license: CFI-OAAL-1.0
 content_sha256: 5bb420abcb117234fe38a3c41f76dd48a0f109faab31e4143344412b27341aad
 canonical: 22294-massimo-falcioni-reinforcing-uaes-economic-diversification-away-from-oil-trade-i.json
 ---
