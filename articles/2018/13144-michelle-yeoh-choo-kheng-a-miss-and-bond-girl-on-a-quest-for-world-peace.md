@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200626145803
 wayback_snapshot_url: "http://web.archive.org/web/20200626145803/https://cfi.co/editors-picks/2018/06/michelle-yeoh-choo-kheng-a-miss-and-bond-girl-on-a-quest-for-world-peace/"
+license: CFI-OAAL-1.0
 content_sha256: 838587ced2fb1efbaaa574196d45ab851e9c0985f017ca59b7d123de581c33a6
 canonical: 13144-michelle-yeoh-choo-kheng-a-miss-and-bond-girl-on-a-quest-for-world-peace.json
 ---
