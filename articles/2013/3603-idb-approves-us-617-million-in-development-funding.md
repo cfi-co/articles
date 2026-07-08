@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045803
 wayback_snapshot_url: "http://web.archive.org/web/20190823045803/https://cfi.co/finance/2013/04/idb-approves-us-617-million-in-development-funding/"
+license: CFI-OAAL-1.0
 content_sha256: 7e4d9295cb0938a5530a6f7ac6256f574600126e187ee98cbc1baaf1cae26be5
 canonical: 3603-idb-approves-us-617-million-in-development-funding.json
 ---
