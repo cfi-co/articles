@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201119155456
 wayback_snapshot_url: "http://web.archive.org/web/20201119155456/https://cfi.co/asia-pacific/2020/10/containers-printers-expanding-horizons-for-packaging-industry-and-customers-despite-covid-19s-ravages-on-the-world/"
+license: CFI-OAAL-1.0
 content_sha256: d7b53c3836aca650935427b328f1344ec836a417119f5d2e4e3dfadbdf304ffa
 canonical: 17586-containers-printers-expanding-horizons-for-packaging-industry-and-customers-desp.json
 ---
