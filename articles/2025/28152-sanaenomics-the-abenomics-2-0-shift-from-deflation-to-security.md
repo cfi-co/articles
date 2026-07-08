@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260101123706
 wayback_snapshot_url: "http://web.archive.org/web/20260101123706/https://cfi.co/asia-pacific/2025/12/sanaenomics-the-abenomics-2-0-shift-from-deflation-to-security/"
+license: CFI-OAAL-1.0
 content_sha256: c52bbecb17f77b3dcc365edb028424cbe60745e873c57d9f08294c8b954e391a
 canonical: 28152-sanaenomics-the-abenomics-2-0-shift-from-deflation-to-security.json
 ---
