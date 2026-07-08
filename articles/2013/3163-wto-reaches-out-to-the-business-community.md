@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140828172707
 wayback_snapshot_url: "http://web.archive.org/web/20140828172707/http://cfi.co/finance/2013/02/wto-reaches-out-to-the-business-community/"
+license: CFI-OAAL-1.0
 content_sha256: 4e114f6157818e950f0663bc7f701efe85d9a0058a7bf1082a70d185acfc66b3
 canonical: 3163-wto-reaches-out-to-the-business-community.json
 ---
