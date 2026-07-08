@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200626101512
 wayback_snapshot_url: "http://web.archive.org/web/20200626101512/https://cfi.co/editors-picks/2020/06/taking-underground-approach-to-carbon-neutral-heating-for-homes/"
+license: CFI-OAAL-1.0
 content_sha256: ab73324edaafeb1dc2850371d006b03cd7fb5534f845eebf5d1ade8663475e01
 canonical: 15782-taking-underground-approach-to-carbon-neutral-heating-for-homes.json
 ---
