@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720183137
 wayback_snapshot_url: "http://web.archive.org/web/20190720183137/https://cfi.co/middleeast/2013/05/cfi-co-meets-ceo-jamal-bin-ghalaita/"
+license: CFI-OAAL-1.0
 content_sha256: 7ffea9f0e6528775fc54ebb9de80de610eee014f2d5e49c8949fd5c5a7b56973
 canonical: 4118-cfi-co-meets-ceo-jamal-bin-ghalaita.json
 ---
