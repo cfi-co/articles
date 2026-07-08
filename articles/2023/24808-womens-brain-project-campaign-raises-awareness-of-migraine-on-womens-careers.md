@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230304025401
 wayback_snapshot_url: "http://web.archive.org/web/20230304025401/https://cfi.co/europe/2023/02/womens-brain-project-campaign-raises-awareness-of-migraine-on-womens-careers/"
+license: CFI-OAAL-1.0
 content_sha256: f78549c73768b93f0127b85fe90b9178182c1d0aa37757190e5c047e4c29970c
 canonical: 24808-womens-brain-project-campaign-raises-awareness-of-migraine-on-womens-careers.json
 ---
