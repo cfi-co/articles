@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240523005519
 wayback_snapshot_url: "http://web.archive.org/web/20240523005519/https://cfi.co/asia-pacific/2023/10/mufaddal-idris-khumri-a-passion-for-inclusivity-and-the-arts/"
+license: CFI-OAAL-1.0
 content_sha256: 9250a96c8e308d367419349f4344819942b105c26e326b3ab4327dff8683a5b8
 canonical: 26290-a-passion-for-inclusivity-and-the-arts-meet-the-chief-exec-of-an-islamic-bank.json
 ---
