@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200919081222
 wayback_snapshot_url: "http://web.archive.org/web/20200919081222/https://cfi.co/corporate-leaders/2019/10/breaking-into-the-bolivian-stock-market-made-easier-and-simpler/"
+license: CFI-OAAL-1.0
 content_sha256: 0bcd28a3e932c9c9ef912d769939b75d8ae428d534fa0e29ef41ece60ee97a5d
 canonical: 16141-breaking-into-the-bolivian-stock-market-made-easier-and-simpler.json
 ---
