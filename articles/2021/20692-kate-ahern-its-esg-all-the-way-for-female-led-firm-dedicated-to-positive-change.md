@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211001143151
 wayback_snapshot_url: "http://web.archive.org/web/20211001143151/https://cfi.co/menu/corporate/2021/09/kate-ahern-its-esg-all-the-way-for-female-led-firm-dedicated-to-positive-change/"
+license: CFI-OAAL-1.0
 content_sha256: 93759578373b7e8db594f49fb36e4e6f987373b21baf41f09f7de9cc15f75a0b
 canonical: 20692-kate-ahern-its-esg-all-the-way-for-female-led-firm-dedicated-to-positive-change.json
 ---
