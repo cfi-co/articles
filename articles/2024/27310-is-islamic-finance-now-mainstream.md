@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241121115644
 wayback_snapshot_url: "http://web.archive.org/web/20241121115644/https://cfi.co/banking/2024/11/is-islamic-finance-now-mainstream/"
+license: CFI-OAAL-1.0
 content_sha256: 0a0b12fa7fa4f7d4cfb510dee7c77d82a50b21be13b97cb0435cbce918e363aa
 canonical: 27310-is-islamic-finance-now-mainstream.json
 ---
