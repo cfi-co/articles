@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220819114749
 wayback_snapshot_url: "http://web.archive.org/web/20220819114749/https://cfi.co/menu/corporate/2022/07/nike-founder-phil-knight-a-swoosh-and-business-nous-for-victory/"
+license: CFI-OAAL-1.0
 content_sha256: fdb1e73a6e7bea78d8c96558fad642315656bf060f10ce2effb7116bf6f7a61e
 canonical: 22450-nike-founder-phil-knight-a-swoosh-and-business-nous-for-victory.json
 ---
