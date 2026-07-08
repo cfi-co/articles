@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920003141
 wayback_snapshot_url: "http://web.archive.org/web/20200920003141/https://cfi.co/europe/2020/09/kristalina-georgieva-managing-director-of-the-imf-europe-and-the-global-recovery-in-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 07b0bfca9fc1202b02e47f5c8aafdbd02cd4690a79577431bcc694ca059a2eb6
 canonical: 16822-kristalina-georgieva-managing-director-of-the-imf-europe-and-the-global-recovery.json
 ---
