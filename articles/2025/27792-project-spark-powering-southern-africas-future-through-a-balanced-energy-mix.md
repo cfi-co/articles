@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250717160812
 wayback_snapshot_url: "http://web.archive.org/web/20250717160812/https://cfi.co/africa/2025/07/project-spark-powering-southern-africas-future-through-a-balanced-energy-mix/"
+license: CFI-OAAL-1.0
 content_sha256: 90e20ed9108a45047350a38018a4bc513a4ce3b1ae0637ae947d2b47d600451f
 canonical: 27792-project-spark-powering-southern-africas-future-through-a-balanced-energy-mix.json
 ---
