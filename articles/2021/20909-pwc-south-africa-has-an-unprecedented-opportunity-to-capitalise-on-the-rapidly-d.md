@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625222038
 wayback_snapshot_url: "http://web.archive.org/web/20220625222038/https://cfi.co/africa/2021/01/pwc-south-africa-has-an-unprecedented-opportunity-to-capitalise-on-the-rapidly-developing-global-hydrogen-economy/"
+license: CFI-OAAL-1.0
 content_sha256: 80455c9753aba5f0164a7553db0fc016ee7f867c3ed12cb5a4a28c8908577b0a
 canonical: 20909-pwc-south-africa-has-an-unprecedented-opportunity-to-capitalise-on-the-rapidly-d.json
 ---
