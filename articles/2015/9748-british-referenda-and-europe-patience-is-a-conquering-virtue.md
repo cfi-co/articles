@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724030224
 wayback_snapshot_url: "http://web.archive.org/web/20190724030224/https://cfi.co/europe/2015/05/british-referenda-and-europe-patience-is-a-conquering-virtue/"
+license: CFI-OAAL-1.0
 content_sha256: 8f051f643544bbda3dc0fbfc6370220b0ad4758852808f8269f29614db894027
 canonical: 9748-british-referenda-and-europe-patience-is-a-conquering-virtue.json
 ---
