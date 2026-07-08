@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818052310
 wayback_snapshot_url: "http://web.archive.org/web/20190818052310/https://cfi.co/asia-pacific/2013/12/deg-germany-eyes-future-markets-beyond-the-brics/"
+license: CFI-OAAL-1.0
 content_sha256: e552ddead6cae02b9db895b0c94918fc553d78150c859c7f857de989d9b7e081
 canonical: 6156-deg-germany-eyes-future-markets-beyond-the-brics.json
 ---
