@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200511153958
 wayback_snapshot_url: "http://web.archive.org/web/20200511153958/https://cfi.co/africa/2020/04/pwc-nigeria-nigerias-finance-act-gets-a-facelift-to-attract-business-and-investment/"
+license: CFI-OAAL-1.0
 content_sha256: 30f697924b6bb6433ed0450c5a952e0b437699e3e4b21af54e933ecd36abee78
 canonical: 14973-pwc-nigeria-nigerias-finance-act-gets-a-facelift-to-attract-business-and-investm.json
 ---
