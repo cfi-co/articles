@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724023942
 wayback_snapshot_url: "http://web.archive.org/web/20190724023942/https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-managing-director-of-herald-land/"
+license: CFI-OAAL-1.0
 content_sha256: 92ecd3667e1511ce5d8e5f020c0ec0063711ad6ab22d9321993a892b5fd8f17a
 canonical: 11919-cfi-co-meets-the-managing-director-of-herald-land.json
 ---
