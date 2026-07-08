@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422024257
 wayback_snapshot_url: "http://web.archive.org/web/20210422024257/https://cfi.co/menu/corporate/2018/08/national-energy-services-reunited-providing-in-country-solutions-to-mena-oil-and-gas-producers/"
+license: CFI-OAAL-1.0
 content_sha256: 6a5b9d64ead1a2dd4ec59e059b065de995d8ec1c3bb0434f7028d258790ffcc4
 canonical: 12863-national-energy-services-reunited-providing-in-country-solutions-to-mena-oil-and.json
 ---
