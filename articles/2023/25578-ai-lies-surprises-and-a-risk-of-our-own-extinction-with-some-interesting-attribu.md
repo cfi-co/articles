@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230612131038
 wayback_snapshot_url: "http://web.archive.org/web/20230612131038/https://cfi.co/brave-new-world/2023/06/ai-lies-surprises-and-a-risk-of-our-own-extinction-with-some-interesting-attributes/"
+license: CFI-OAAL-1.0
 content_sha256: 7300d52fb19cba74a56b6e7f7c66f5f4223c180c0941e05aa69f663227588035
 canonical: 25578-ai-lies-surprises-and-a-risk-of-our-own-extinction-with-some-interesting-attribu.json
 ---
