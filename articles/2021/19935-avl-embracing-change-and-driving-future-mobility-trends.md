@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920101803
 wayback_snapshot_url: "http://web.archive.org/web/20210920101803/https://cfi.co/menu/corporate/2021/07/avl-embracing-change-and-driving-future-mobility-trends/"
+license: CFI-OAAL-1.0
 content_sha256: dd028c7fdd0338c97038b56bc2ac5486752cb166c0aa83ce4880798ab57852cf
 canonical: 19935-avl-embracing-change-and-driving-future-mobility-trends.json
 ---
