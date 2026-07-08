@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210306101657
 wayback_snapshot_url: "http://web.archive.org/web/20210306101657/https://cfi.co/c-19/2020/09/africa-fighting-covid-19-unity-key-to-remarkable-success/"
+license: CFI-OAAL-1.0
 content_sha256: d3705df9c3b843dc1172cf61a5ba10b57759a88acf326e45187caae5240b9595
 canonical: 17050-africa-fighting-covid-19-unity-key-to-remarkable-success.json
 ---
