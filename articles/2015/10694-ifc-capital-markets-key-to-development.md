@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820145808
 wayback_snapshot_url: "http://web.archive.org/web/20190820145808/https://cfi.co/africa/2015/12/ifc-capital-markets-key-to-development/"
+license: CFI-OAAL-1.0
 content_sha256: 54cd7e410a5780e37b874b59b24b2dc7d38ad1a51de1fb4114671941436d9ae8
 canonical: 10694-ifc-capital-markets-key-to-development.json
 ---
