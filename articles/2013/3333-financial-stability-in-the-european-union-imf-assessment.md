@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140828073712
 wayback_snapshot_url: "http://web.archive.org/web/20140828073712/http://cfi.co/europe/2013/03/financial-stability-in-the-european-union-imf-assessment/"
+license: CFI-OAAL-1.0
 content_sha256: e26ffd2c8f406b4a2537ab27bf3062e23db0ac23e38d0c24c98e7e220a1ff813
 canonical: 3333-financial-stability-in-the-european-union-imf-assessment.json
 ---
