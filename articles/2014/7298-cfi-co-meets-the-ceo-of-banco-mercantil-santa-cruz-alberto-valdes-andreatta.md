@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827073501
 wayback_snapshot_url: "http://web.archive.org/web/20140827073501/http://cfi.co/latinamerica/2014/01/cfi-co-meets-the-ceo-of-banco-mercantil-santa-cruz-alberto-valdes-andreatta/"
+license: CFI-OAAL-1.0
 content_sha256: 00d3d8ad64f271c6206092c5d4ce4fb48192bfecf1733a99bdb18628ec1acafb
 canonical: 7298-cfi-co-meets-the-ceo-of-banco-mercantil-santa-cruz-alberto-valdes-andreatta.json
 ---
