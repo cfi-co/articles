@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228104310
 wayback_snapshot_url: "http://web.archive.org/web/20210228104310/https://cfi.co/middleeast/2016/04/abu-dhabi-securities-exchange-adx-heart-vision-2030/"
+license: CFI-OAAL-1.0
 content_sha256: dfd450937a8fe5ffa60146cc6ed60e1686c3a5c1d1f7bedba2a7c2c17af8ebc5
 canonical: 11143-abu-dhabi-securities-exchange-adx-heart-vision-2030.json
 ---
