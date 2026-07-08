@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418061940
 wayback_snapshot_url: "http://web.archive.org/web/20210418061940/https://cfi.co/menu/cfi-co-meets/2021/02/professor-robert-anthony-anthony-cie-a-specialist-in-many-fields-with-a-passion-for-all-things-financial-and-family-office/"
+license: CFI-OAAL-1.0
 content_sha256: 001ff8352d6b9e4e90d3ede90554238e16a0085a96c251c8af116b886da4b0a2
 canonical: 18568-professor-robert-anthony-anthony-cie-a-specialist-in-many-fields-with-a-passion-.json
 ---
