@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231030223810
 wayback_snapshot_url: "http://web.archive.org/web/20231030223810/https://cfi.co/banking/2023/10/andras-puskas-deputy-ceo-and-cso-mbh-bank/"
+license: CFI-OAAL-1.0
 content_sha256: cb80a57d625456a1652f944df38a2fdd4c0d1e56dda7f7fafd2f22f5ba5714ea
 canonical: 26142-when-environmental-considerations-are-a-driving-force-banking-needs-a-keen-eye-a.json
 ---
