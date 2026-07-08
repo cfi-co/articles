@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210915041351
 wayback_snapshot_url: "http://web.archive.org/web/20210915041351/https://cfi.co/finance/2021/09/kpmg-lower-gulf-banking-on-esg-risks-in-future/"
+license: CFI-OAAL-1.0
 content_sha256: 5b204e2b1208bf1c06df62bfe1058cd54359aca2178710f26f2a2e44d56daf2f
 canonical: 20628-kpmg-lower-gulf-banking-on-esg-risks-in-future.json
 ---
