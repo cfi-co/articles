@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045646
 wayback_snapshot_url: "http://web.archive.org/web/20190823045646/https://cfi.co/middleeast/2013/06/cfi-hero-malala-and-george-brown-fight-back-for-childrens-education/"
+license: CFI-OAAL-1.0
 content_sha256: d70e908f6cb846275d26b20d951a014667e3b953da617e6359cfa153f8d22b32
 canonical: 4390-cfi-hero-malala-and-george-brown-fight-back-for-childrens-education.json
 ---
