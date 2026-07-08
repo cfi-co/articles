@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230320151223
 wayback_snapshot_url: "http://web.archive.org/web/20230320151223/https://cfi.co/menu/corporate/2023/03/hamdi-ulukaya-chobani-ceo-and-founder/"
+license: CFI-OAAL-1.0
 content_sha256: 9f0afab19675e9937dbcbcab270e0db69232fbc8c059f10f3c99e285732e5dfa
 canonical: 24849-hamdi-ulukaya-chobani-ceo-and-founder.json
 ---
