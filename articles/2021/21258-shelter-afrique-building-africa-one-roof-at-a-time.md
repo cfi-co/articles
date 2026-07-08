@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220119084203
 wayback_snapshot_url: "http://web.archive.org/web/20220119084203/https://cfi.co/menu/corporate/2021/12/shelter-afrique-building-africa-one-roof-at-a-time/"
+license: CFI-OAAL-1.0
 content_sha256: 9fd768e2e0512553ba6066de2b5a887f0c86c447e08fd867a7e92055e204c602
 canonical: 21258-shelter-afrique-building-africa-one-roof-at-a-time.json
 ---
