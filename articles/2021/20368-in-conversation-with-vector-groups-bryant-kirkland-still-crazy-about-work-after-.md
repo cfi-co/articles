@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220528110244
 wayback_snapshot_url: "http://web.archive.org/web/20220528110244/https://cfi.co/menu/corporate/2021/08/in-conversation-with-vector-groups-bryant-kirkland-still-crazy-about-work-after-all-these-years-fun-factor-is-running-strong-for-kirkland/"
+license: CFI-OAAL-1.0
 content_sha256: 01f026e0c7d052f137f7aec5775bcfd4c01e2e621a044cc67784c0e621992a11
 canonical: 20368-in-conversation-with-vector-groups-bryant-kirkland-still-crazy-about-work-after-.json
 ---
