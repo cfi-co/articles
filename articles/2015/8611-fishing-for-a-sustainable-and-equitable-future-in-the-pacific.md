@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916044941
 wayback_snapshot_url: "http://web.archive.org/web/20190916044941/https://cfi.co/projects/2015/01/fishing-for-a-sustainable-and-equitable-future-in-the-pacific/"
+license: CFI-OAAL-1.0
 content_sha256: df1543cdfddf7f1ef08d1334be18b74d69b6dc079d188b8cf4a98bde113df92b
 canonical: 8611-fishing-for-a-sustainable-and-equitable-future-in-the-pacific.json
 ---
