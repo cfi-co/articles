@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024545
 wayback_snapshot_url: "http://web.archive.org/web/20190724024545/https://cfi.co/europe/2015/06/playing-with-fire-greek-tragedy-reaches-climax/"
+license: CFI-OAAL-1.0
 content_sha256: c3ba7ca375846f79c5d43759e2aa207afbc7a3c6f163e6cff9d09cfe2d2c93ac
 canonical: 10028-playing-with-fire-greek-tragedy-reaches-climax.json
 ---
