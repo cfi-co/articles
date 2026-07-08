@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928191300
 wayback_snapshot_url: "http://web.archive.org/web/20220928191300/https://cfi.co/menu/corporate/2022/09/affirmative-investment-management-a-thriving-firm-and-a-winning-strategy/"
+license: CFI-OAAL-1.0
 content_sha256: 1d29f8aa9a10dd006af32f6979e032708d3a78f5ea95566160fb176235d165c2
 canonical: 23435-affirmative-investment-management-a-thriving-firm-and-a-winning-strategy.json
 ---
