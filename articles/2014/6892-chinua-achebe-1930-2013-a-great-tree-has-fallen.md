@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140705132945
 wayback_snapshot_url: "http://web.archive.org/web/20140705132945/http://cfi.co/africa/2014/04/chinua-achebe-1930-2013-a-great-tree-has-fallen/"
+license: CFI-OAAL-1.0
 content_sha256: ce9b86a946384e05a1edd5953a4e802db286d2997d3952e441288c47a1247790
 canonical: 6892-chinua-achebe-1930-2013-a-great-tree-has-fallen.json
 ---
