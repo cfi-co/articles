@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150915195528
 wayback_snapshot_url: "http://web.archive.org/web/20150915195528/http://cfi.co/europe/2015/09/jonathan-may-bowles-uk-uncut-and-its-impact/"
+license: CFI-OAAL-1.0
 content_sha256: fff0cf0614d0817bc920fe50a277fcc1e54934ba396aed92cb2ba508c4b2936c
 canonical: 10449-jonathan-may-bowles-uk-uncut-and-its-impact.json
 ---
