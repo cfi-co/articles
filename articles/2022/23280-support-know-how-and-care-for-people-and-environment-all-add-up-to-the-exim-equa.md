@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221208001201
 wayback_snapshot_url: "http://web.archive.org/web/20221208001201/https://cfi.co/menu/corporate/2022/09/support-know-how-and-care-for-people-and-environment-all-add-up-to-the-exim-equation/"
+license: CFI-OAAL-1.0
 content_sha256: 89b78dfd1f7f4af175d349eba85524e2176d0713a04c1abc98a57858f13cbf54
 canonical: 23280-support-know-how-and-care-for-people-and-environment-all-add-up-to-the-exim-equa.json
 ---
