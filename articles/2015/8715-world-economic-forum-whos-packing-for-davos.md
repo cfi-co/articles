@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916044034
 wayback_snapshot_url: "http://web.archive.org/web/20190916044034/https://cfi.co/asia-pacific/2015/01/world-economic-forum-whos-packing-for-davos/"
+license: CFI-OAAL-1.0
 content_sha256: c7593a81768c703d9f7d9abd4fd694d00e98e7e609e2a1c40702c3e55b2156e9
 canonical: 8715-world-economic-forum-whos-packing-for-davos.json
 ---
