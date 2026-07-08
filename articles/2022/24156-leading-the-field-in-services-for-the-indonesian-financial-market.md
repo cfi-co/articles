@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330005153
 wayback_snapshot_url: "http://web.archive.org/web/20230330005153/https://cfi.co/menu/corporate/2022/12/leading-the-field-in-services-for-the-indonesian-financial-market/"
+license: CFI-OAAL-1.0
 content_sha256: b6c066582f6f268ec3dba9d72e0112d0fa22d212716c65b437c4f908415cde24
 canonical: 24156-leading-the-field-in-services-for-the-indonesian-financial-market.json
 ---
