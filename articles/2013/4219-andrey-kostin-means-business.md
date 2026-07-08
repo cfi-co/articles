@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20131002194545
 wayback_snapshot_url: "http://web.archive.org/web/20131002194545/http://cfi.co/editors-picks/2013/05/andrey-kostin-means-business/"
+license: CFI-OAAL-1.0
 content_sha256: c51e5c14b11e4ce0f52bea07cd74aea0761179d05302f6ec504b3373519c7e20
 canonical: 4219-andrey-kostin-means-business.json
 ---
