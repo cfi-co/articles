@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210226094907
 wayback_snapshot_url: "http://web.archive.org/web/20210226094907/https://cfi.co/corporate-leaders/2020/01/pavilion-global-markets-global-recognition-in-niche-market-as-company-expands-its-horizons/"
+license: CFI-OAAL-1.0
 content_sha256: 577f44b744d3c9b60913336084fc47f5485eadf797713292f55e9bea2aa46540
 canonical: 17503-pavilion-global-markets-global-recognition-in-niche-market-as-company-expands-it.json
 ---
