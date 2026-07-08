@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717205725
 wayback_snapshot_url: "http://web.archive.org/web/20190717205725/https://cfi.co/europe/2015/04/evan-harvey-nasdaq-stock-exchanges-european-capital-markets-and-sustainability/"
+license: CFI-OAAL-1.0
 content_sha256: c416d407dce5b1c66b35619ffa99398a37ebe7fabca7ee08181e854b280def4a
 canonical: 9699-evan-harvey-nasdaq-stock-exchanges-european-capital-markets-and-sustainability.json
 ---
