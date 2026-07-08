@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190923114001
 wayback_snapshot_url: "http://web.archive.org/web/20190923114001/https://cfi.co/latinamerica/2019/08/ann-low-us-department-of-state-combat-corruption-by-enabling-tax-payment-el-salvador-case-study/"
+license: CFI-OAAL-1.0
 content_sha256: 96fa2fda82167a3692734491063041ade4016ae462605c04b48c006a08366543
 canonical: 13964-ann-low-us-department-of-state-combat-corruption-by-enabling-tax-payment-el-salv.json
 ---
