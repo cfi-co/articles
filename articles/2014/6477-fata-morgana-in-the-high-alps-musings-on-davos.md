@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140209014432
 wayback_snapshot_url: "http://web.archive.org/web/20140209014432/http://cfi.co/africa/2014/02/fata-morgana-in-the-high-alps-musings-on-davos/"
+license: CFI-OAAL-1.0
 content_sha256: 7ed2604633e9c35c769aafa7dd1db77d81913aae68f188eb1c84a6c85d4b19af
 canonical: 6477-fata-morgana-in-the-high-alps-musings-on-davos.json
 ---
