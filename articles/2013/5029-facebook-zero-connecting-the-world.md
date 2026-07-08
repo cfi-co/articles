@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327163434
 wayback_snapshot_url: "http://web.archive.org/web/20140327163434/http://cfi.co/africa/2013/08/facebook-zero-connecting-the-world/"
+license: CFI-OAAL-1.0
 content_sha256: 3df7eda746f3de314a1ac4e22cd87a3156c888987cc407d559235523cb6f1304
 canonical: 5029-facebook-zero-connecting-the-world.json
 ---
