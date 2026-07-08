@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916043411
 wayback_snapshot_url: "http://web.archive.org/web/20190916043411/https://cfi.co/banking/2017/11/kristalina-georgieva/"
+license: CFI-OAAL-1.0
 content_sha256: 26b0253d98ad6f3043931f84934f6b7bad4731c90b218fe32d61dfa1ca1fde99
 canonical: 14023-kristalina-georgieva.json
 ---
