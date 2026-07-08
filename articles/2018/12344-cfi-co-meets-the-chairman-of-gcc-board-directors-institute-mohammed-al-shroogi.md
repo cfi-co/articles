@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818053352
 wayback_snapshot_url: "http://web.archive.org/web/20190818053352/https://cfi.co/corporate-leaders/2018/05/cfi-co-meets-the-chairman-of-gcc-board-directors-institute-mohammed-al-shroogi/"
+license: CFI-OAAL-1.0
 content_sha256: 9c69683ee7837c2e1bfca451b4c386dfcbcb175ffaafee09dc87c95e85f9d6c4
 canonical: 12344-cfi-co-meets-the-chairman-of-gcc-board-directors-institute-mohammed-al-shroogi.json
 ---
