@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724090311
 wayback_snapshot_url: "http://web.archive.org/web/20190724090311/https://cfi.co/africa/2013/07/ursula-burns-driving-change-at-xerox/"
+license: CFI-OAAL-1.0
 content_sha256: acc239e063d1fbd1c7283355a65ffe3a472e5f9bff7daa9b3f9ac79e8f8b7194
 canonical: 4665-ursula-burns-driving-change-at-xerox.json
 ---
