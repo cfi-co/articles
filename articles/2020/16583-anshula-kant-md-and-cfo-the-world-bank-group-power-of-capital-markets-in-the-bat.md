@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200823230654
 wayback_snapshot_url: "http://web.archive.org/web/20200823230654/https://cfi.co/banking/2020/08/anshula-kant-md-and-cfo-the-world-bank-group-power-of-capital-markets-in-the-battle-against-covid-19/"
+license: CFI-OAAL-1.0
 content_sha256: 08169c4d47c1d58bf2e3e72fb48f799e961e280f9461f4c84bc5a40d7f771e96
 canonical: 16583-anshula-kant-md-and-cfo-the-world-bank-group-power-of-capital-markets-in-the-bat.json
 ---
