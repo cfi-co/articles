@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231030221856
 wayback_snapshot_url: "http://web.archive.org/web/20231030221856/https://cfi.co/europe/2023/09/murdoch-asset-management-forging-an-enviable-reputation/"
+license: CFI-OAAL-1.0
 content_sha256: fba6133d3721779250c418de984946053ecb7c7eac1d64d33e0c03cf3175be9c
 canonical: 26039-murdoch-asset-management-forging-an-enviable-reputation.json
 ---
