@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045713
 wayback_snapshot_url: "http://web.archive.org/web/20190823045713/https://cfi.co/africa/2013/11/nasir-ahmad-el-rufai-good-governance-group-stunted-potentials-hobble-africas-giant/"
+license: CFI-OAAL-1.0
 content_sha256: 3f2fe30cf6f77f0857b767f4ca4e2111a382c7a8b289f20b4701e6d66fb1d539
 canonical: 6028-nasir-ahmad-el-rufai-good-governance-group-stunted-potentials-hobble-africas-gia.json
 ---
