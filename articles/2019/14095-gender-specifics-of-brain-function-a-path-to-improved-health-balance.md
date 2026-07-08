@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021052404
 wayback_snapshot_url: "http://web.archive.org/web/20191021052404/https://cfi.co/europe/2019/10/gender-specifics-of-brain-function-a-path-to-improved-health-balance/"
+license: CFI-OAAL-1.0
 content_sha256: 111c9d32fce23ee5f059d47243ba0e5a5317c1ea8c35d437321591083d1afdbc
 canonical: 14095-gender-specifics-of-brain-function-a-path-to-improved-health-balance.json
 ---
