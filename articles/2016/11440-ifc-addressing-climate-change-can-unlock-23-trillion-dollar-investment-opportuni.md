@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180714115317
 wayback_snapshot_url: "http://web.archive.org/web/20180714115317/http://cfi.co/africa/2016/12/ifc-addressing-climate-change-can-unlock-23-trillion-dollar-investment-opportunities-in-emerging-markets/"
+license: CFI-OAAL-1.0
 content_sha256: 0d15b947ea1d6ab7b0654699a3f64b81a1cf716dc0bdf44adc95b8d51b10f480
 canonical: 11440-ifc-addressing-climate-change-can-unlock-23-trillion-dollar-investment-opportuni.json
 ---
