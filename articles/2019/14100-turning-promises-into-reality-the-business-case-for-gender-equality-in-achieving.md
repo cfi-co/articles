@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191016001247
 wayback_snapshot_url: "http://web.archive.org/web/20191016001247/https://cfi.co/northamerica/2019/10/turning-promises-into-reality-the-business-case-for-gender-equality-in-achieving-the-sdgs/"
+license: CFI-OAAL-1.0
 content_sha256: 83892798ddde3e1f3024b9aaa603983e921dbc3728bb3e681e2a37cfa2612888
 canonical: 14100-turning-promises-into-reality-the-business-case-for-gender-equality-in-achieving.json
 ---
