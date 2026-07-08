@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920132958
 wayback_snapshot_url: "http://web.archive.org/web/20200920132958/https://cfi.co/uncategorized/2018/09/paul-p-andrews-keeping-up-with-fast-changing-equity-markets/"
+license: CFI-OAAL-1.0
 content_sha256: 599737a8ab08946b10346a9b069e1d0edce4a16099018254b022c70d2d5e3181
 canonical: 13173-paul-p-andrews-keeping-up-with-fast-changing-equity-markets.json
 ---
