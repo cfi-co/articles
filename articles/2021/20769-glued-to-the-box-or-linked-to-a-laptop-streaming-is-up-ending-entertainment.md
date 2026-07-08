@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211005204730
 wayback_snapshot_url: "http://web.archive.org/web/20211005204730/https://cfi.co/c-19/2021/10/glued-to-the-box-or-linked-to-a-laptop-streaming-is-up-ending-entertainment/"
+license: CFI-OAAL-1.0
 content_sha256: 36163a32054d7e3dc380c31ccc17508d63715e21269259b4433f9738b41342bf
 canonical: 20769-glued-to-the-box-or-linked-to-a-laptop-streaming-is-up-ending-entertainment.json
 ---
