@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140519210106
 wayback_snapshot_url: "http://web.archive.org/web/20140519210106/http://cfi.co/europe/2014/05/andy-green-inspiring-a-new-generation-of-engineers/"
+license: CFI-OAAL-1.0
 content_sha256: 30121199916d5f2384f831a5be054390db05b4f70ce646cb495090f3b3f33865
 canonical: 7191-andy-green-inspiring-a-new-generation-of-engineers.json
 ---
