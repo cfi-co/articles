@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818135733
 wayback_snapshot_url: "http://web.archive.org/web/20190818135733/https://cfi.co/africa/2013/10/world-bank-initiative-for-a-low-carbon-future/"
+license: CFI-OAAL-1.0
 content_sha256: ca32a25b06d7795682429315a21f9c32140673ae2db24ca14e2617abf41331c3
 canonical: 5382-world-bank-initiative-for-a-low-carbon-future.json
 ---
