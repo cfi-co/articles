@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200924120955
 wayback_snapshot_url: "http://web.archive.org/web/20200924120955/https://cfi.co/editors-picks/2017/09/jacob-rees-mogg/"
+license: CFI-OAAL-1.0
 content_sha256: 4571e898fe9a05430bd0a2bf159eb19ccb568b6d307d87736ca6d3f5d8d54a68
 canonical: 11972-jacob-rees-mogg.json
 ---
