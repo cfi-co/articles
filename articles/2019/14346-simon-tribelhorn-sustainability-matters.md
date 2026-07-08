@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191214232216
 wayback_snapshot_url: "http://web.archive.org/web/20191214232216/https://cfi.co/banking/2019/11/simon-tribelhorn-sustainability-matters/"
+license: CFI-OAAL-1.0
 content_sha256: 588efb75018565b3fc2319bf79ba4561e545c97a10c1636e786ff502e1b8f1fb
 canonical: 14346-simon-tribelhorn-sustainability-matters.json
 ---
