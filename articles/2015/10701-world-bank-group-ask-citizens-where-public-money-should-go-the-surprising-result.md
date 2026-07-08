@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170929202508
 wayback_snapshot_url: "http://web.archive.org/web/20170929202508/http://cfi.co/africa/2015/12/world-bank-group-ask-citizens-where-public-money-should-go-the-surprising-results/"
+license: CFI-OAAL-1.0
 content_sha256: 1ccf91b8000a2f83ef898154194f97ed882b4a6b09129f662604a3769b669ed4
 canonical: 10701-world-bank-group-ask-citizens-where-public-money-should-go-the-surprising-result.json
 ---
