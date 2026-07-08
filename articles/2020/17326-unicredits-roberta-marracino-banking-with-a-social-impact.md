@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418050921
 wayback_snapshot_url: "http://web.archive.org/web/20210418050921/https://cfi.co/banking/2020/12/unicredits-roberta-marracino-banking-with-a-social-impact/"
+license: CFI-OAAL-1.0
 content_sha256: 3a7866a0825283b0ab5abc4167f2adb2f65c5591a0f020c4ffd4761cce64cf2a
 canonical: 17326-unicredits-roberta-marracino-banking-with-a-social-impact.json
 ---
