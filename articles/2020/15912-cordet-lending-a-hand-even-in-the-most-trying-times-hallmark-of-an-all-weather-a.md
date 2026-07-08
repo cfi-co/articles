@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422015144
 wayback_snapshot_url: "http://web.archive.org/web/20210422015144/https://cfi.co/menu/corporate/2020/07/cordet-lending-a-hand-even-in-the-most-trying-times-hallmark-of-an-all-weather-attitude/"
+license: CFI-OAAL-1.0
 content_sha256: 556324726e12debbe91b446a61ffa5a42050d83e9e28e039e875630f723712ce
 canonical: 15912-cordet-lending-a-hand-even-in-the-most-trying-times-hallmark-of-an-all-weather-a.json
 ---
