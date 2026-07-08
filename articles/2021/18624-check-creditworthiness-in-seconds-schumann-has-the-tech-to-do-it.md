@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418050757
 wayback_snapshot_url: "http://web.archive.org/web/20210418050757/https://cfi.co/menu/corporate/2021/02/check-creditworthiness-in-seconds-schumann-has-the-tech-to-do-it/"
+license: CFI-OAAL-1.0
 content_sha256: d009a79ce5db97f9b5c44c09f15fa528de4b34367153a06a9c694ff73957db11
 canonical: 18624-check-creditworthiness-in-seconds-schumann-has-the-tech-to-do-it.json
 ---
