@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180214020010
 wayback_snapshot_url: "http://web.archive.org/web/20180214020010/http://cfi.co/europe/2015/02/roderick-and-floris-wolters-freezing-the-sun/"
+license: CFI-OAAL-1.0
 content_sha256: ae8abd0622d93b02d14d06a63fbeaf47b6d91fcec7c9ad4984e28f084379f0c5
 canonical: 8947-roderick-and-floris-wolters-freezing-the-sun.json
 ---
