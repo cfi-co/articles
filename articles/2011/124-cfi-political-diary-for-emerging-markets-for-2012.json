@@ -26,10 +26,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190720183828",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190720183828/https://cfi.co/africa/2011/12/cfi-political-diary-for-emerging-markets-for-2012/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190720183828/https://cfi.co/africa/2011/12/cfi-political-diary-for-emerging-markets-for-2012/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<a href=\"http://capitalfinanceint.com/news/wp-content/uploads/2011/12/calendar.jpg\"><img class=\"aligncenter size-full wp-image-536\" title=\"calendar\" src=\"http://capitalfinanceint.com/news/wp-content/uploads/2011/12/calendar.jpg\" alt=\"\" width=\"398\" height=\"298\" /></a>\n<table width=\"100%\">\n<tbody>\n<tr>\n<td width=\"23%\">Date</td>\n<td width=\"19%\">Country</td>\n<td width=\"58%\">Event</td>\n</tr>\n<tr>\n<td>January - March</td>\n<td>Egypt</td>\n<td>Parliamentary Elections</td>\n</tr>\n<tr>\n<td>January 14</td>\n<td>Taiwan</td>\n<td>Parliamentary and Presidential Elections</td>\n</tr>\n<tr>\n<td>March 4</td>\n<td>Russia</td>\n<td>Parliamentary Elections</td>\n</tr>\n<tr>\n<td>March 29</td>\n<td>Iran</td>\n<td>Presidential Elections</td>\n</tr>\n<tr>\n<td>April</td>\n<td>South Korea</td>\n<td>Parliamentary Elections</td>\n</tr>\n<tr>\n<td>May</td>\n<td>Algeria</td>\n<td>Presidential Elections</td>\n</tr>\n<tr>\n<td>June</td>\n<td>Egypt</td>\n<td>Presidential Elections</td>\n</tr>\n<tr>\n<td>June 17-18</td>\n<td>Mexico</td>\n<td>G20 Summit in Los Cabos</td>\n</tr>\n<tr>\n<td>July 1</td>\n<td>Mexico</td>\n<td>Parliamentary and Presidential Elections</td>\n</tr>\n<tr>\n<td>July 1</td>\n<td>India</td>\n<td>Presidential Elections</td>\n</tr>\n<tr>\n<td>September</td>\n<td>Hong Kong</td>\n<td>Parliamentary Elections</td>\n</tr>\n<tr>\n<td>August 28</td>\n<td>Ukraine</td>\n<td>Parliamentary Elections</td>\n</tr>\n<tr>\n<td>October</td>\n<td>China</td>\n<td>18th National Congress of Chinese Communist Party</td>\n</tr>\n<tr>\n<td>December</td>\n<td>Kazakhstan</td>\n<td>Presidential Elections</td>\n</tr>\n<tr>\n<td>December</td>\n<td>South Korea</td>\n<td>Presidential Elections</td>\n</tr>\n</tbody>\n</table>\n<p align=\"right\"><em>Source: CFI, UBS, other</em></p>",
     "content_sha256": "9f61990f36bff99dfb577ba041774da49df53d18ca63dc407c5f6ad97740dfbb",
-    "record_sha256": "6a4cf7541e158b4630d7d7fe0b9d95fb3aa72e37a75a4871dab84a62d665b739"
+    "record_sha256": "36274ce621db45a939f43997645506ee60fe6666e5ff49053788489aadc113f6"
 }
