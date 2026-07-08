@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180210034737
 wayback_snapshot_url: "http://web.archive.org/web/20180210034737/http://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-paris-gallery-group-mohammed-abdul-rahim-al-fahim/"
+license: CFI-OAAL-1.0
 content_sha256: 0e773974544ae758f99b4f3f14f7460cf2b6fc5eeb6a2b866640f9c35cceae3b
 canonical: 10872-cfi-co-meets-the-ceo-of-paris-gallery-group-mohammed-abdul-rahim-al-fahim.json
 ---
