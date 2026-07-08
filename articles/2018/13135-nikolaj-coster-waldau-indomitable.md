@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200919225033
 wayback_snapshot_url: "http://web.archive.org/web/20200919225033/https://cfi.co/editors-picks/2018/09/nikolaj-coster-waldau-indomitable/"
+license: CFI-OAAL-1.0
 content_sha256: 077e96910297fe64d204196908810be418256572e96b56e62c86a69f6bf17cb3
 canonical: 13135-nikolaj-coster-waldau-indomitable.json
 ---
