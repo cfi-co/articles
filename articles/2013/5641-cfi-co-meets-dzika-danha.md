@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140328055529
 wayback_snapshot_url: "http://web.archive.org/web/20140328055529/http://cfi.co/africa/2013/10/cfi-co-meets-dzika-danha/"
+license: CFI-OAAL-1.0
 content_sha256: 88d2e90966c399a19adbddecf1b63610016c15025f4ec1d4bcf372a485cef085
 canonical: 5641-cfi-co-meets-dzika-danha.json
 ---
