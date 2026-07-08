@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201215165358
 wayback_snapshot_url: "http://web.archive.org/web/20201215165358/https://cfi.co/finance/2020/12/building-the-bridge-between-non-financial-and-mandatory-reporting/"
+license: CFI-OAAL-1.0
 content_sha256: 7cf025b58e80272475de5f1f77702a322618d16400873b904c36a82a581e5fda
 canonical: 18312-building-the-bridge-between-non-financial-and-mandatory-reporting.json
 ---
