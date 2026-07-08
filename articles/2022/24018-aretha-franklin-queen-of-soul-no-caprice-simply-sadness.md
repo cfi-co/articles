@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221127010933
 wayback_snapshot_url: "http://web.archive.org/web/20221127010933/https://cfi.co/menu/lifestyle-menu/2022/11/aretha-franklin-queen-of-soul-no-caprice-simply-sadness/"
+license: CFI-OAAL-1.0
 content_sha256: 9c3e5403ceba51fe7c64c6321a3e88719f54f7e07b4122a90d6dd5f1184ca211
 canonical: 24018-aretha-franklin-queen-of-soul-no-caprice-simply-sadness.json
 ---
