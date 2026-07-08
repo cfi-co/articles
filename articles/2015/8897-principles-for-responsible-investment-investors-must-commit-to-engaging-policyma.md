@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720181122
 wayback_snapshot_url: "http://web.archive.org/web/20190720181122/https://cfi.co/europe/2015/02/principles-for-responsible-investment-investors-must-commit-to-engaging-policymakers/"
+license: CFI-OAAL-1.0
 content_sha256: 105e2557f79cd5760f13ab79e42370cd67f189160766e8420566c827e04dd344
 canonical: 8897-principles-for-responsible-investment-investors-must-commit-to-engaging-policyma.json
 ---
