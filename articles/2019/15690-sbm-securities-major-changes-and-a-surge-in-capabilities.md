@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200918164737
 wayback_snapshot_url: "http://web.archive.org/web/20200918164737/https://cfi.co/menu/corporate/2019/07/sbm-securities-major-changes-and-a-surge-in-capabilities/"
+license: CFI-OAAL-1.0
 content_sha256: 2d985d5ba94587e591c727b2ca5a0ec7cb76e10a6c293169e8c30a21c86ad567
 canonical: 15690-sbm-securities-major-changes-and-a-surge-in-capabilities.json
 ---
