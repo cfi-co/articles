@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240420141150
 wayback_snapshot_url: "http://web.archive.org/web/20240420141150/https://cfi.co/africa/2023/09/no-sugar-coating-for-kenyas-cane-industry-but-kiscol-has-an-established-place-in-industry/"
+license: CFI-OAAL-1.0
 content_sha256: 4d13285b8c44f9aaafa6847b1d16f3a8463a07c60de8051f2597b999fa80981d
 canonical: 25978-no-sugar-coating-for-kenyas-cane-industry-but-kiscol-has-an-established-place-in.json
 ---
