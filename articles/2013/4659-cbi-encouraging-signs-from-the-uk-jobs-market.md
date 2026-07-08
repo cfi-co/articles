@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191013203613
 wayback_snapshot_url: "http://web.archive.org/web/20191013203613/https://cfi.co/europe/2013/07/cbi-encouraging-signs-from-the-uk-jobs-market/"
+license: CFI-OAAL-1.0
 content_sha256: c82f5c9c6991ea8c623471473469e1b4cf60cd350865bc818601039eb4763cd8
 canonical: 4659-cbi-encouraging-signs-from-the-uk-jobs-market.json
 ---
