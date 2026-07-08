@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180210034906
 wayback_snapshot_url: "http://web.archive.org/web/20180210034906/http://cfi.co/asia-pacific/2015/04/world-bank-group-increased-support-for-reforms-to-accelerate-economic-growth/"
+license: CFI-OAAL-1.0
 content_sha256: 23f5010bb4b3ca202ae16ef7e484b1f657d6f734677fc2fb708fd3154c68f74b
 canonical: 9608-world-bank-group-increased-support-for-reforms-to-accelerate-economic-growth.json
 ---
