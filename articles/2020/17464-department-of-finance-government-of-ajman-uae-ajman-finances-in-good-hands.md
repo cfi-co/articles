@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210226102619
 wayback_snapshot_url: "http://web.archive.org/web/20210226102619/https://cfi.co/middleeast/2020/01/department-of-finance-government-of-ajman-uae-ajman-finances-in-good-hands/"
+license: CFI-OAAL-1.0
 content_sha256: 290fbe624405826bb188a1debcece438bd3e30b3e44870b23327933b40ad2740
 canonical: 17464-department-of-finance-government-of-ajman-uae-ajman-finances-in-good-hands.json
 ---
