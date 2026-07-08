@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827143724
 wayback_snapshot_url: "http://web.archive.org/web/20140827143724/http://cfi.co/sustainability/2014/02/harbingers-of-climate-doom-gear-up-over-storm/"
+license: CFI-OAAL-1.0
 content_sha256: 908b3919d66fbe41cb7a275cc6c5a408d23f0bd610290b965f20b09af88ac272
 canonical: 6647-harbingers-of-climate-doom-gear-up-over-storm.json
 ---
