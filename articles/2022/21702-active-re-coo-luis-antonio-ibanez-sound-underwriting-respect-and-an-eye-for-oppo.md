@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630131322
 wayback_snapshot_url: "http://web.archive.org/web/20220630131322/https://cfi.co/menu/corporate/2022/04/active-re-coo-luis-antonio-ibanez-sound-underwriting-respect-and-an-eye-for-opportunity/"
+license: CFI-OAAL-1.0
 content_sha256: 2ef879a047bcf22b489497b08cfd2661c6b227a92fe6b8ea3a54b3e16758d7fd
 canonical: 21702-active-re-coo-luis-antonio-ibanez-sound-underwriting-respect-and-an-eye-for-oppo.json
 ---
