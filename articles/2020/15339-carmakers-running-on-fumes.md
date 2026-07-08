@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200525150242
 wayback_snapshot_url: "http://web.archive.org/web/20200525150242/https://cfi.co/c-19/2020/05/carmakers-running-on-fumes/"
+license: CFI-OAAL-1.0
 content_sha256: f67250d4df8f8c65ea85bd2835bf423f32866c771da29228468057d358f50919
 canonical: 15339-carmakers-running-on-fumes.json
 ---
