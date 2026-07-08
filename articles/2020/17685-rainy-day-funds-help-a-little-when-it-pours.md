@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422022234
 wayback_snapshot_url: "http://web.archive.org/web/20210422022234/https://cfi.co/c-19/2020/10/rainy-day-funds-help-a-little-when-it-pours/"
+license: CFI-OAAL-1.0
 content_sha256: 115b3518d3a9e583707b12c5927c181e9c43ea5619b9012b731c46c8a436ce3d
 canonical: 17685-rainy-day-funds-help-a-little-when-it-pours.json
 ---
