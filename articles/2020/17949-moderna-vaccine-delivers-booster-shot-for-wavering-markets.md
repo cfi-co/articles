@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418052259
 wayback_snapshot_url: "http://web.archive.org/web/20210418052259/https://cfi.co/c-19/2020/11/moderna-vaccine-delivers-booster-shot-for-wavering-markets/"
+license: CFI-OAAL-1.0
 content_sha256: 656b5b0c44690492d7bb4591d5f5ac7e28a04867a8e94f5d91b44a3689a42bd3
 canonical: 17949-moderna-vaccine-delivers-booster-shot-for-wavering-markets.json
 ---
