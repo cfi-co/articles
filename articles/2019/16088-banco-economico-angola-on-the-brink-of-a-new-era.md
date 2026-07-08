@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200922195740
 wayback_snapshot_url: "http://web.archive.org/web/20200922195740/https://cfi.co/menu/corporate/2019/10/banco-economico-angola-on-the-brink-of-a-new-era/"
+license: CFI-OAAL-1.0
 content_sha256: 2cd2ea82ae168955dc244f4bcaab98c5044d0473e5cc60cfe6f2200132dc0b66
 canonical: 16088-banco-economico-angola-on-the-brink-of-a-new-era.json
 ---
