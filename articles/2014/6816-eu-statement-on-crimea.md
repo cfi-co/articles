@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140825165625
 wayback_snapshot_url: "http://web.archive.org/web/20140825165625/http://cfi.co/europe/2014/03/eu-statement-on-crimea/"
+license: CFI-OAAL-1.0
 content_sha256: 30e18ed4a926c6260021d992414c3c39ff2eff6724417ee25700714cad138d6c
 canonical: 6816-eu-statement-on-crimea.json
 ---
