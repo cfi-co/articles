@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240911140258
 wayback_snapshot_url: "http://web.archive.org/web/20240911140258/https://cfi.co/sustainability/2024/09/otaviano-canuto-politics-and-climate-change-make-awkward-bedfellows-in-the-race-to-tackle-a-truly-fearsome-foe/"
+license: CFI-OAAL-1.0
 content_sha256: f08e7913001491d024d9c53e37f3c8e404b260f0216b7f124878077b2954c2e1
 canonical: 27106-otaviano-canuto-politics-and-climate-change-make-awkward-bedfellows-in-the-race-.json
 ---
