@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200922003836
 wayback_snapshot_url: "http://web.archive.org/web/20200922003836/https://cfi.co/europe/2020/06/pandemic-gives-boost-to-illicit-trade/"
+license: CFI-OAAL-1.0
 content_sha256: ff4eba3d44bef26cf869f8f40c38a91597ca6d2aeed2c8feaf4de489988413b2
 canonical: 15851-pandemic-gives-boost-to-illicit-trade.json
 ---
