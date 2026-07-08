@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210226104859
 wayback_snapshot_url: "http://web.archive.org/web/20210226104859/https://cfi.co/corporate-leaders/2020/01/unity-central-american-insurance-giant-counts-its-people-as-assets/"
+license: CFI-OAAL-1.0
 content_sha256: 4757e5a3abc19fd42ae05fb8fc0dbd12aaabf943c8e9e22f14eab983aa12a3ed
 canonical: 17494-unity-central-american-insurance-giant-counts-its-people-as-assets.json
 ---
