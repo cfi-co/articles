@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045809
 wayback_snapshot_url: "http://web.archive.org/web/20190823045809/https://cfi.co/asia-pacific/2013/04/china-the-big-spenders/"
+license: CFI-OAAL-1.0
 content_sha256: 37f5066be61230f403cacd8cc126a5d87aff16bd143804071c964830a2159f2c
 canonical: 3560-china-the-big-spenders.json
 ---
