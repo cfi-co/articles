@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230104125436
 wayback_snapshot_url: "http://web.archive.org/web/20230104125436/https://cfi.co/europe/2023/01/specialist-multi-manager-architas-responsible-investing-comes-first/"
+license: CFI-OAAL-1.0
 content_sha256: 5667ed6b72f30d17950e9d99714be42290b9191767c8d378f4723dad104917ae
 canonical: 24286-specialist-multi-manager-architas-responsible-investing-comes-first.json
 ---
