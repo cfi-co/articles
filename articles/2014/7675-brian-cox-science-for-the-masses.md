@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228093424
 wayback_snapshot_url: "http://web.archive.org/web/20210228093424/https://cfi.co/editors-picks/2014/07/brian-cox-science-for-the-masses/"
+license: CFI-OAAL-1.0
 content_sha256: 608320c27477985214f7db52d69a645869153f969e0f0ae903bb1f5e9bbffbcf
 canonical: 7675-brian-cox-science-for-the-masses.json
 ---
