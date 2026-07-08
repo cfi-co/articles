@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330024549
 wayback_snapshot_url: "http://web.archive.org/web/20230330024549/https://cfi.co/corporate-leaders/2022/07/generalis-josef-benes-takes-decisions-with-care-based-on-a-century-of-experience/"
+license: CFI-OAAL-1.0
 content_sha256: 1d7f8fb881ca606ed4e87ab2bb718f56e6ea6c547c4776420a6d499d8b78f6a8
 canonical: 23198-generalis-josef-benes-takes-decisions-with-care-based-on-a-century-of-experience.json
 ---
