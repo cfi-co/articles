@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823051524
 wayback_snapshot_url: "http://web.archive.org/web/20190823051524/https://cfi.co/africa/2015/03/a-synchrotron-for-africa-scientists-unite-behind-proposed-project/"
+license: CFI-OAAL-1.0
 content_sha256: e9c551361bc781367a1e453dd00fad771d6d73d8f35572b3d316d27f35d87b6a
 canonical: 9491-a-synchrotron-for-africa-scientists-unite-behind-proposed-project.json
 ---
