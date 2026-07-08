@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418051547
 wayback_snapshot_url: "http://web.archive.org/web/20210418051547/https://cfi.co/c-19/2021/01/bitcoin-volatility-a-fatal-lapse-of-memory/"
+license: CFI-OAAL-1.0
 content_sha256: 277c68cc4f703426bb0fe7b9146010158e35980f8ca92c887bf0aa2fbd037490
 canonical: 18436-bitcoin-volatility-a-fatal-lapse-of-memory.json
 ---
