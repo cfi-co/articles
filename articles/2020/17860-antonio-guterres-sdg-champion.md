@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201113065743
 wayback_snapshot_url: "http://web.archive.org/web/20201113065743/https://cfi.co/menu/special-features/2020/11/antonio-guterres-sdg-champion/"
+license: CFI-OAAL-1.0
 content_sha256: 9943f8261179fd7a220c41464661928890e2c34c441eba7d405af081271c32dc
 canonical: 17860-antonio-guterres-sdg-champion.json
 ---
