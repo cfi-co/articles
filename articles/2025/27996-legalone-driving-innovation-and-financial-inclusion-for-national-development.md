@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251108163607
 wayback_snapshot_url: "http://web.archive.org/web/20251108163607/https://cfi.co/asia-pacific/2025/10/legalone-driving-innovation-and-financial-inclusion-for-national-development/"
+license: CFI-OAAL-1.0
 content_sha256: 2d51d1608097e861129c5e8567284a95acf25ab197c9dd8667043a7611d70ebe
 canonical: 27996-legalone-driving-innovation-and-financial-inclusion-for-national-development.json
 ---
