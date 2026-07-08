@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231030230604
 wayback_snapshot_url: "http://web.archive.org/web/20231030230604/https://cfi.co/banking/2023/09/jakob-lindquist-knows-which-questions-to-ask-and-where-to-find-answers/"
+license: CFI-OAAL-1.0
 content_sha256: bd74de6512e9664d7464df8b872611711a43263c974e2697d832accfdbd3fb33
 canonical: 26016-finance-expert-knows-which-questions-to-ask-and-where-to-find-answers.json
 ---
