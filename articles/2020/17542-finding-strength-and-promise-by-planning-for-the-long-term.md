@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201115165602
 wayback_snapshot_url: "http://web.archive.org/web/20201115165602/https://cfi.co/banking/2020/10/finding-strength-and-promise-by-planning-for-the-long-term/"
+license: CFI-OAAL-1.0
 content_sha256: 909fc3f4e6b1c8ff4c85086fc2bb04bc3f5545263abd5b60b690d34656e724bc
 canonical: 17542-finding-strength-and-promise-by-planning-for-the-long-term.json
 ---
