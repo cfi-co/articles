@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231206164709
 wayback_snapshot_url: "http://web.archive.org/web/20231206164709/https://cfi.co/brave-new-world/2023/11/from-beeb-rescue-to-champion-of-a-break-out-platform-for-content-creators/"
+license: CFI-OAAL-1.0
 content_sha256: ec782aeaf89c611a3d465c32bd54a40bbb348015b41b8522a37fa1956d61ee03
 canonical: 26457-from-beeb-rescue-to-champion-of-a-break-out-platform-for-content-creators.json
 ---
