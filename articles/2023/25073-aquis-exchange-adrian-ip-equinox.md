@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230413190834
 wayback_snapshot_url: "http://web.archive.org/web/20230413190834/https://cfi.co/2023/04/aquis-exchange-adrian-ip-equinox"
+license: CFI-OAAL-1.0
 content_sha256: fb066d34d6787f8cf2fb09817551b22afb90d0433627692eb765751b63a18261
 canonical: 25073-aquis-exchange-adrian-ip-equinox.json
 ---
