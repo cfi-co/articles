@@ -19,6 +19,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523042812
 wayback_snapshot_url: "http://web.archive.org/web/20260523042812/https://cfi.co/menu/corporate/2026/05/miguel-lama-ceo-of-corporacion-zona-franca-santiago-building-a-leading-investment-hub-in-the-americas/"
+license: CFI-OAAL-1.0
 content_sha256: d03f0fd629ba11957260ef3c4a87e3f1d8de6264708afaba4f4caa32d6b227fe
 canonical: 28482-miguel-lama-ceo-of-corporacion-zona-franca-santiago-building-a-leading-investmen.json
 ---
