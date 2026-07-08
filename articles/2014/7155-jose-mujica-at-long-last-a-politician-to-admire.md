@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140519210126
 wayback_snapshot_url: "http://web.archive.org/web/20140519210126/http://cfi.co/latinamerica/2014/05/jose-mujica-at-long-last-a-politician-to-admire/"
+license: CFI-OAAL-1.0
 content_sha256: 6026797d470ecf9450392f1e03922f4a6fe456a180c1d53e027c1956be934b79
 canonical: 7155-jose-mujica-at-long-last-a-politician-to-admire.json
 ---
