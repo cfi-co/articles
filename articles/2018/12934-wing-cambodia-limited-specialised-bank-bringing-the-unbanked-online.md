@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422015354
 wayback_snapshot_url: "http://web.archive.org/web/20210422015354/https://cfi.co/menu/corporate/2018/08/wing-cambodia-limited-specialised-bank-bringing-the-unbanked-online/"
+license: CFI-OAAL-1.0
 content_sha256: 62a7215ada650473ba8a404636f28e5fc2476d21b4fd0dc7fb6de4616d647c35
 canonical: 12934-wing-cambodia-limited-specialised-bank-bringing-the-unbanked-online.json
 ---
