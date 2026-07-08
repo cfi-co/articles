@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190917031047
 wayback_snapshot_url: "http://web.archive.org/web/20190917031047/https://cfi.co/africa/2011/11/brics-countries-crystalize-spirit-of-practical-cooperation-at-delhi-summit/"
+license: CFI-OAAL-1.0
 content_sha256: 973f7b084f86033e66555a768efe45dce85cd2e1337ac2f9e59d4ec20f2af858
 canonical: 121-brics-countries-crystalize-spirit-of-practical-cooperation-at-delhi-summit.json
 ---
