@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180213210549
 wayback_snapshot_url: "http://web.archive.org/web/20180213210549/http://cfi.co/europe/2014/09/what-does-carbon-pricing-success-look-like-ask-these-leaders/"
+license: CFI-OAAL-1.0
 content_sha256: 3cdd219d2a4c83a333511bece0addc670fd2069e991604e49c7382680bd8572a
 canonical: 8070-what-does-carbon-pricing-success-look-like-ask-these-leaders.json
 ---
