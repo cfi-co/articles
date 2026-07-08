@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810082903
 wayback_snapshot_url: "http://web.archive.org/web/20200810082903/https://cfi.co/menu/corporate/2020/07/bawag-group-austrian-front-runner-bank-applies-compassion-during-coronavirus-crisis/"
+license: CFI-OAAL-1.0
 content_sha256: ca9c5f736d5f947e242c1b3dad44c66117c3bddc9f4bd291552e4dab2798604b
 canonical: 15895-bawag-group-austrian-front-runner-bank-applies-compassion-during-coronavirus-cri.json
 ---
