@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230121020423
 wayback_snapshot_url: "http://web.archive.org/web/20230121020423/https://cfi.co/asia-pacific/2023/01/singapore-the-leading-financial-centre-in-the-asia-pacific-region/"
+license: CFI-OAAL-1.0
 content_sha256: 72244bb74754787e5d44c8581207cf34c1a44357cfaf5c582c8175061cb4f622
 canonical: 23708-singapore-the-leading-financial-centre-in-the-asia-pacific-region.json
 ---
