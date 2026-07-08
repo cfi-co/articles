@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140927065328
 wayback_snapshot_url: "http://web.archive.org/web/20140927065328/http://cfi.co/middleeast/2014/09/demand-for-sustainable-developments-rises-as-uae-residents-vode-for-a-greener-lifestyle/"
+license: CFI-OAAL-1.0
 content_sha256: d37655ad2beead011594374611a953898d0be57c814fde2995f6bc9552eaa3e4
 canonical: 7946-demand-for-sustainable-developments-rises-as-uae-residents-vode-for-a-greener-li.json
 ---
