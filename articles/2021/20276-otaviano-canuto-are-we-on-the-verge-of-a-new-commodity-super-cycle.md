@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210728105423
 wayback_snapshot_url: "http://web.archive.org/web/20210728105423/https://cfi.co/menu/economics-convergence/2021/07/otaviano-canuto-are-we-on-the-verge-of-a-new-commodity-super-cycle/"
+license: CFI-OAAL-1.0
 content_sha256: ddf182745f1483a6071992c0f72fded252f14cd86c9c3d93905ccd47828436ff
 canonical: 20276-otaviano-canuto-are-we-on-the-verge-of-a-new-commodity-super-cycle.json
 ---
