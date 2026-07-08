@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210201122919
 wayback_snapshot_url: "http://web.archive.org/web/20210201122919/https://cfi.co/middleeast/2021/02/exclusive-interview-with-ibm-leading-in-a-hybrid-world/"
+license: CFI-OAAL-1.0
 content_sha256: 7900d866b57e9620b42ed125f8fd6f32e68b5be1df87bcf87c7eed6108376e70
 canonical: 18539-exclusive-interview-with-ibm-leading-in-a-hybrid-world.json
 ---
