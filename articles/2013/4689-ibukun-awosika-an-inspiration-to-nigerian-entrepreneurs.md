@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826141724
 wayback_snapshot_url: "http://web.archive.org/web/20140826141724/http://cfi.co/africa/2013/07/ibukun-awosika-an-inspiration-to-nigerian-entrepreneurs/"
+license: CFI-OAAL-1.0
 content_sha256: bffa031aed51aae5ec4a145f1f6fcc256708f75303f8f0e641cf6577579eed1e
 canonical: 4689-ibukun-awosika-an-inspiration-to-nigerian-entrepreneurs.json
 ---
