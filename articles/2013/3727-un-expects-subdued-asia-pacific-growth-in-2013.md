@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045653
 wayback_snapshot_url: "http://web.archive.org/web/20190823045653/https://cfi.co/asia-pacific/2013/04/un-expects-subdued-asia-pacific-growth-in-2013/"
+license: CFI-OAAL-1.0
 content_sha256: 11fff1dd5989c7e0fe328e3eba7d9fae0a9e4a2e5fb1d0156e5cf4fd67843584
 canonical: 3727-un-expects-subdued-asia-pacific-growth-in-2013.json
 ---
