@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260315114743
 wayback_snapshot_url: "http://web.archive.org/web/20260315114743/https://cfi.co/europe/2026/02/the-middle-power-dilemma-the-uk-and-the-sovereignty-paradox-in-a-tri-polar-world/"
+license: CFI-OAAL-1.0
 content_sha256: 2c498118d50c0c768f19051677977cbe85973bc33983e11172f38bd0063ac795
 canonical: 28253-the-middle-power-dilemma-the-uk-and-the-sovereignty-paradox-in-a-tri-polar-world.json
 ---
