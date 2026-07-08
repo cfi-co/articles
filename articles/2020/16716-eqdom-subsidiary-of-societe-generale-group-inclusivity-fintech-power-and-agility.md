@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920112529
 wayback_snapshot_url: "http://web.archive.org/web/20200920112529/https://cfi.co/menu/corporate/2020/08/eqdom-subsidiary-of-societe-generale-group-inclusivity-fintech-power-and-agility-provides-competitive-edge-to-moroccan-consumer-credit-provider/"
+license: CFI-OAAL-1.0
 content_sha256: d3fae58a4a4ce8f93014b730939d6dbe89b374240f50a59640c65ec4d63c8166
 canonical: 16716-eqdom-subsidiary-of-societe-generale-group-inclusivity-fintech-power-and-agility.json
 ---
