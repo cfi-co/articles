@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916084937
 wayback_snapshot_url: "http://web.archive.org/web/20190916084937/https://cfi.co/europe/2013/01/world-economic-forum-calls-for-resilient-dynamism/"
+license: CFI-OAAL-1.0
 content_sha256: 9f656173e4c893de9f7f20bd9989ac5aed9ff8f5ba0d11d37fe66cff6ff25a54
 canonical: 2914-world-economic-forum-calls-for-resilient-dynamism.json
 ---
