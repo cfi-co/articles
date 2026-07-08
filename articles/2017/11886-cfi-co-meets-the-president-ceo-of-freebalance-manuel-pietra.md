@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916091817
 wayback_snapshot_url: "http://web.archive.org/web/20190916091817/https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-president-ceo-of-freebalance-manuel-pietra/"
+license: CFI-OAAL-1.0
 content_sha256: 22457a26dc6031a7e50f238f98e7feaebab14220c4a4b6cda8da8c083651a24a
 canonical: 11886-cfi-co-meets-the-president-ceo-of-freebalance-manuel-pietra.json
 ---
