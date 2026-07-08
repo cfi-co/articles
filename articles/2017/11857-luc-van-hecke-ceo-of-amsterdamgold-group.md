@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210509103952
 wayback_snapshot_url: "http://web.archive.org/web/20210509103952/https://cfi.co/corporate-leaders/2017/09/luc-van-hecke-ceo-of-amsterdamgold-group/"
+license: CFI-OAAL-1.0
 content_sha256: 6a108a4006f4c9220b2cafe3bf6acc99a0f930ebe90e1414f35ec31a8aad2196
 canonical: 11857-luc-van-hecke-ceo-of-amsterdamgold-group.json
 ---
