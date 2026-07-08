@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140828182814
 wayback_snapshot_url: "http://web.archive.org/web/20140828182814/http://cfi.co/sustainability/2013/02/developing-countries-face-higher-trade-costs/"
+license: CFI-OAAL-1.0
 content_sha256: e15717e4912febc450843ca37892f293f52f39640568a995a7e5a668ac064dd3
 canonical: 3076-developing-countries-face-higher-trade-costs.json
 ---
