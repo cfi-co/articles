@@ -19,6 +19,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524045727
 wayback_snapshot_url: "http://web.archive.org/web/20260524045727/https://cfi.co/corporate-leaders/2026/05/tomas-spurny-steering-moneta-money-banks-transformation-with-discipline-and-scale/"
+license: CFI-OAAL-1.0
 content_sha256: 803af070608554538c5ef095a8fbafd662fdacf4bab12a1d067321301a075459
 canonical: 28450-tomas-spurny-steering-moneta-money-banks-transformation-with-discipline-and-scal.json
 ---
