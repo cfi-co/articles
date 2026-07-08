@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200922073508
 wayback_snapshot_url: "http://web.archive.org/web/20200922073508/https://cfi.co/corporate-leaders/2019/08/financial-services-ceo-puts-the-pedal-to-metal-and-adgm-goes-scorching-ahead/"
+license: CFI-OAAL-1.0
 content_sha256: a00bb30414d760dd519bab49c21986633e817ab07285df4f63637ea4a2d19c5f
 canonical: 15694-financial-services-ceo-puts-the-pedal-to-metal-and-adgm-goes-scorching-ahead.json
 ---
