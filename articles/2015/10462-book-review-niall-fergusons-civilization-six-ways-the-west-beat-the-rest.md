@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825103124
 wayback_snapshot_url: "http://web.archive.org/web/20190825103124/https://cfi.co/northamerica/2015/09/book-review-niall-fergusons-civilization-six-ways-the-west-beat-the-rest/"
+license: CFI-OAAL-1.0
 content_sha256: ae392e8c17dbb9fd9ed8f6e108f564a1e4a9876059dcbbc2a18c09c73ce02e4c
 canonical: 10462-book-review-niall-fergusons-civilization-six-ways-the-west-beat-the-rest.json
 ---
