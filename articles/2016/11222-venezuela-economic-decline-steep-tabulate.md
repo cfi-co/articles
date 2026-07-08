@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210226093342
 wayback_snapshot_url: "http://web.archive.org/web/20210226093342/https://cfi.co/latinamerica/2016/05/venezuela-economic-decline-steep-tabulate/"
+license: CFI-OAAL-1.0
 content_sha256: bd524257bd9f14ef0631c0b0c38bf1a9f6a33212edb55e020ad8adb44a408117
 canonical: 11222-venezuela-economic-decline-steep-tabulate.json
 ---
