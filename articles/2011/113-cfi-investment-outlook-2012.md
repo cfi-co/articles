@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191119062944
 wayback_snapshot_url: "http://web.archive.org/web/20191119062944/https://cfi.co/africa/2011/11/cfi-investment-outlook-2012/"
+license: CFI-OAAL-1.0
 content_sha256: 88936ad5eb58f1abffc439e6463430bb98446ea18d4c0cfca9eb7a5e7e27b7a9
 canonical: 113-cfi-investment-outlook-2012.json
 ---
