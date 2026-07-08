@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250124132420
 wayback_snapshot_url: "http://web.archive.org/web/20250124132420/https://cfi.co/lifestyle/2025/01/understanding-body-language-secret-weapon-in-negotiation/"
+license: CFI-OAAL-1.0
 content_sha256: acb2cb350a56d7a2444fab2953fc7cd49b3fe5b52c1495d772d500885fe60790
 canonical: 27460-understanding-body-language-secret-weapon-in-negotiation.json
 ---
