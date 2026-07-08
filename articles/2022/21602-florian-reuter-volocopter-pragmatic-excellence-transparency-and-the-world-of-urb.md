@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220314142943
 wayback_snapshot_url: "http://web.archive.org/web/20220314142943/https://cfi.co/menu/corporate/2022/02/florian-reuter-volocopter-pragmatic-excellence-transparency-and-the-world-of-urban-air-mobility/"
+license: CFI-OAAL-1.0
 content_sha256: b5301297f836c181b361ae1d7e80dbb7dc10a3f048be5315a3f3d2d95ae86886
 canonical: 21602-florian-reuter-volocopter-pragmatic-excellence-transparency-and-the-world-of-urb.json
 ---
