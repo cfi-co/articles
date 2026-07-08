@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717211750
 wayback_snapshot_url: "http://web.archive.org/web/20190717211750/https://cfi.co/asia-pacific/2013/03/wto-chinas-role-in-global-economic-governance/"
+license: CFI-OAAL-1.0
 content_sha256: 672c3030974c4ac78616918fe8b36888d9c0af08a5c31f136a07a54f8f80f7d2
 canonical: 3436-wto-chinas-role-in-global-economic-governance.json
 ---
