@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418051047
 wayback_snapshot_url: "http://web.archive.org/web/20210418051047/https://cfi.co/menu/corporate/2021/02/international-financial-centres-in-the-post-covid-world/"
+license: CFI-OAAL-1.0
 content_sha256: 3891c9f944d68a5057cc9a5bc8b4adc04fc75d786a610cbe2157e8c4f7a82343
 canonical: 18596-international-financial-centres-in-the-post-covid-world.json
 ---
