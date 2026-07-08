@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920120327
 wayback_snapshot_url: "http://web.archive.org/web/20210920120327/https://cfi.co/menu/corporate/2021/07/now-i-see-icici-bank-builds-bridges-linking-india-and-uk/"
+license: CFI-OAAL-1.0
 content_sha256: ea28c83d3546e320f84d0a803e3283b4ac344db0dcf8914d1bef65428ccaad01
 canonical: 19943-now-i-see-icici-bank-builds-bridges-linking-india-and-uk.json
 ---
