@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024150
 wayback_snapshot_url: "http://web.archive.org/web/20190724024150/https://cfi.co/middleeast/2014/10/cityscape-launches-inaugural-event-in-kuwait/"
+license: CFI-OAAL-1.0
 content_sha256: 3b22ddf6334c7d6cfc4da4a6d0002996fc511c41997da1ba9f166b7412dcd227
 canonical: 8228-cityscape-launches-inaugural-event-in-kuwait.json
 ---
