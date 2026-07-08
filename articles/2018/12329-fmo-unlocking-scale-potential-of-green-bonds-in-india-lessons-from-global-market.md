@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720032059
 wayback_snapshot_url: "http://web.archive.org/web/20190720032059/https://cfi.co/asia-pacific/2018/02/fmo-unlocking-scale-potential-of-green-bonds-in-india-lessons-from-global-markets/"
+license: CFI-OAAL-1.0
 content_sha256: 7d3f62e0c549127190438be443d01d73e761aa5653cf9c7fca0d7e0fc96498b8
 canonical: 12329-fmo-unlocking-scale-potential-of-green-bonds-in-india-lessons-from-global-market.json
 ---
