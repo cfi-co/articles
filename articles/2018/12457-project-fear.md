@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717211531
 wayback_snapshot_url: "http://web.archive.org/web/20190717211531/https://cfi.co/menu/brexit-notes/2018/05/project-fear/"
+license: CFI-OAAL-1.0
 content_sha256: 4bb92389585eb73541e205db047c0a616467f57641f3623db1c852d50c3824f3
 canonical: 12457-project-fear.json
 ---
