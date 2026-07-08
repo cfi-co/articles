@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327051929
 wayback_snapshot_url: "http://web.archive.org/web/20140327051929/http://cfi.co/lifestyle/2013/07/worlds-biggest-workshop-in-dubai/"
+license: CFI-OAAL-1.0
 content_sha256: bcfb72cdca4ab9877c542b6a72a230bf7b390b66563b5f3b0b246df469da602d
 canonical: 4724-worlds-biggest-workshop-in-dubai.json
 ---
