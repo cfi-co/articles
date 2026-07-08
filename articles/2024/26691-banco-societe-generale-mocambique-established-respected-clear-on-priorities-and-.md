@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240309202605
 wayback_snapshot_url: "http://web.archive.org/web/20240309202605/https://cfi.co/banking/2024/02/banco-societe-generale-mocambique-established-respected-clear-on-priorities-and-transparent-in-all-its-dealings/"
+license: CFI-OAAL-1.0
 content_sha256: df03bf80f03011d13cd580538d47cf56d73238f3cb252375127a35f451d062d9
 canonical: 26691-banco-societe-generale-mocambique-established-respected-clear-on-priorities-and-.json
 ---
