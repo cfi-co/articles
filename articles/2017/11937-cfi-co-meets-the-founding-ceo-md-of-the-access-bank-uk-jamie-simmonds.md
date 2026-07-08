@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024036
 wayback_snapshot_url: "http://web.archive.org/web/20190724024036/https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-founding-ceo-md-of-the-access-bank-uk-jamie-simmonds/"
+license: CFI-OAAL-1.0
 content_sha256: 28f7cf19537f6910aa26de5b622454138c150959fc338b9b13a3af95e01c6f44
 canonical: 11937-cfi-co-meets-the-founding-ceo-md-of-the-access-bank-uk-jamie-simmonds.json
 ---
