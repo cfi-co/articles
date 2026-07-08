@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050343
 wayback_snapshot_url: "http://web.archive.org/web/20190823050343/https://cfi.co/banking/2012/05/hsbc-continues-to-sell-non-core-assets/"
+license: CFI-OAAL-1.0
 content_sha256: f87828883e493b501f0311eafc24a6b176aa37cef125a8de8ac61cf85aca11bb
 canonical: 647-hsbc-continues-to-sell-non-core-assets.json
 ---
