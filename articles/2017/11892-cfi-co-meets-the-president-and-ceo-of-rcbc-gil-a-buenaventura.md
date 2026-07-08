@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916091420
 wayback_snapshot_url: "http://web.archive.org/web/20190916091420/https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-president-and-ceo-of-rcbc-gil-a-buenaventura/"
+license: CFI-OAAL-1.0
 content_sha256: 6f963c83ee34f7d70716a18d06e8fa90c3b4b73faf7e5cdcfdc99e3e607fcb06
 canonical: 11892-cfi-co-meets-the-president-and-ceo-of-rcbc-gil-a-buenaventura.json
 ---
