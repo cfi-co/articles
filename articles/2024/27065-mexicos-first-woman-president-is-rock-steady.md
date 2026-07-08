@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240824090612
 wayback_snapshot_url: "http://web.archive.org/web/20240824090612/https://cfi.co/latinamerica/2024/08/mexicos-first-woman-president-is-rock-steady/"
+license: CFI-OAAL-1.0
 content_sha256: fd77f2a54e41a912ae96762fbf44c628cbe72b4802bdbfd61172dd0ec0015179
 canonical: 27065-mexicos-first-woman-president-is-rock-steady.json
 ---
