@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210115125644
 wayback_snapshot_url: "http://web.archive.org/web/20210115125644/https://cfi.co/europe/2020/11/wealth-on-the-move-hnwis-continually-searching-for-their-own-little-piece-of-paradise/"
+license: CFI-OAAL-1.0
 content_sha256: 12939c759e6ee1ee9610da8d7b74be08dc59cec3f3ab173fdde65902a1b3903f
 canonical: 18150-wealth-on-the-move-hnwis-continually-searching-for-their-own-little-piece-of-par.json
 ---
