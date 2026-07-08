@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231030221021
 wayback_snapshot_url: "http://web.archive.org/web/20231030221021/https://cfi.co/banking/2023/09/fortman-cline-capital-markets/"
+license: CFI-OAAL-1.0
 content_sha256: a523414f64328e803c00668be9f4f06a7c5ddcece717be2115204deff0b9a823
 canonical: 26005-creating-more-strategic-relevance-for-the-investment-banking-sector.json
 ---
