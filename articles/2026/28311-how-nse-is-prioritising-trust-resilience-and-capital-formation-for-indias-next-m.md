@@ -19,6 +19,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523042812
 wayback_snapshot_url: "http://web.archive.org/web/20260523042812/https://cfi.co/finance/2026/02/leading-the-next-cycle-nses-trust-first-agenda-for-indias-capital-markets"
+license: CFI-OAAL-1.0
 content_sha256: 5ecde860602b7ae734a5be1044f1ec7e0398cb07b07d687680b964661fff563c
 canonical: 28311-how-nse-is-prioritising-trust-resilience-and-capital-formation-for-indias-next-m.json
 ---
