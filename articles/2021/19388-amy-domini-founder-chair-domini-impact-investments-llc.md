@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418051718
 wayback_snapshot_url: "http://web.archive.org/web/20210418051718/https://cfi.co/menu/corporate/2021/04/amy-domini-founder-chair-domini-impact-investments-llc/"
+license: CFI-OAAL-1.0
 content_sha256: 88740e4859a8dcc8b1f40f82cc2bb8d5a759732a6bb0c450c676bf18eddc0de2
 canonical: 19388-amy-domini-founder-chair-domini-impact-investments-llc.json
 ---
