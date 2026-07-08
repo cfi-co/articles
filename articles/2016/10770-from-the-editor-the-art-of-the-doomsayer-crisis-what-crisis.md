@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818133456
 wayback_snapshot_url: "http://web.archive.org/web/20190818133456/https://cfi.co/africa/2016/01/from-the-editor-the-art-of-the-doomsayer-crisis-what-crisis/"
+license: CFI-OAAL-1.0
 content_sha256: c8f79efdf227f4141b7e06409e4c46c2e31845340beafdb2ca5adee13d90bf5e
 canonical: 10770-from-the-editor-the-art-of-the-doomsayer-crisis-what-crisis.json
 ---
