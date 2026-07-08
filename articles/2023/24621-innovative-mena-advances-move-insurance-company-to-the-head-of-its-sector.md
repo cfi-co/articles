@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230121020423
 wayback_snapshot_url: "http://web.archive.org/web/20230121020423/https://cfi.co/menu/corporate/2023/01/innovative-mena-advances-move-insurance-company-to-the-head-of-its-sector/"
+license: CFI-OAAL-1.0
 content_sha256: be7097e3bf0a9cade9f210edecfd035d937de61ed94775275faf8123e9c180c1
 canonical: 24621-innovative-mena-advances-move-insurance-company-to-the-head-of-its-sector.json
 ---
