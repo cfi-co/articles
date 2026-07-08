@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220629083920
 wayback_snapshot_url: "http://web.archive.org/web/20220629083920/https://cfi.co/menu/corporate/2022/05/kbc-asset-management-with-ceo-johan-lema-everyone-invested-strategy-has-taken-belgian-firm-to-prominence/"
+license: CFI-OAAL-1.0
 content_sha256: ab9317d45fd1074664c6b669043a04afaf327ab0c80145e6f60c775fd2af2fe5
 canonical: 21981-kbc-asset-management-with-ceo-johan-lema-everyone-invested-strategy-has-taken-be.json
 ---
