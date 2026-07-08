@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201024231012
 wayback_snapshot_url: "http://web.archive.org/web/20201024231012/https://cfi.co/c-19/2020/09/perfect-storm-brewing-the-winter-of-our-discontent/"
+license: CFI-OAAL-1.0
 content_sha256: a1f64c33563961e743a7f5f0a841685195c5dfaa03e3e0141547f21c8a69c382
 canonical: 17047-perfect-storm-brewing-the-winter-of-our-discontent.json
 ---
