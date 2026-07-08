@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200813173938
 wayback_snapshot_url: "http://web.archive.org/web/20200813173938/https://cfi.co/africa/2020/05/african-finance-evolution-it-may-not-be-televised-yet-but-the-world-is-certainly-taking-note/"
+license: CFI-OAAL-1.0
 content_sha256: 06c312588e2487385b9de6c82fb87475c8ba13dd879ea5cd3d190ffc87dff7fe
 canonical: 16004-african-finance-evolution-it-may-not-be-televised-yet-but-the-world-is-certainly.json
 ---
