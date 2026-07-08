@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140828183129
 wayback_snapshot_url: "http://web.archive.org/web/20140828183129/http://cfi.co/editors-picks/2013/03/gro-harlem-brudtland-doctor-politician-and-our-hero/"
+license: CFI-OAAL-1.0
 content_sha256: 6d6c59a57ea0c9fba0641cf2825986655adfcc3dc892cd7f231dcdbca6389db5
 canonical: 3347-gro-harlem-brudtland-doctor-politician-and-our-hero.json
 ---
