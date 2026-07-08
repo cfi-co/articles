@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200624203413
 wayback_snapshot_url: "http://web.archive.org/web/20200624203413/https://cfi.co/corporate-leaders/2020/06/tirelli-partners-being-happy-is-a-priority-and-ethics-cant-be-limited-to-a-code-of-practice/"
+license: CFI-OAAL-1.0
 content_sha256: ac7b600bc67049f3411d256e8a8a41d7b104de5aaf564d7947aa57410803eccf
 canonical: 15642-tirelli-partners-being-happy-is-a-priority-and-ethics-cant-be-limited-to-a-code-.json
 ---
