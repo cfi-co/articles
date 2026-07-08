@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916043634
 wayback_snapshot_url: "http://web.archive.org/web/20190916043634/https://cfi.co/europe/2017/08/emmanuel-macron-perfect-timing/"
+license: CFI-OAAL-1.0
 content_sha256: de2acafe899c75686d9adb54c0e3633f12814014b4a96d09afb3624cbc2d05d3
 canonical: 11734-emmanuel-macron-perfect-timing.json
 ---
