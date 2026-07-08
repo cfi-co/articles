@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825094852
 wayback_snapshot_url: "http://web.archive.org/web/20190825094852/https://cfi.co/corporate-leaders/2014/10/cfi-co-meets-the-executive-chairman-of-ism-capital-cliff-siegel/"
+license: CFI-OAAL-1.0
 content_sha256: 11a19a11272a94dbccd166fa6598b794d790c78f98e96e7d0249911e8192d47d
 canonical: 10578-cfi-co-meets-the-executive-chairman-of-ism-capital-cliff-siegel.json
 ---
