@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201023005216
 wayback_snapshot_url: "http://web.archive.org/web/20201023005216/https://cfi.co/menu/corporate/2018/03/ey-germany-champion-in-professional-services/"
+license: CFI-OAAL-1.0
 content_sha256: 20b59e3d6faf2fed6166a63df92f462a956fa4aa95c681a2596593e168bf7a38
 canonical: 17082-ey-germany-champion-in-professional-services.json
 ---
