@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180210034323
 wayback_snapshot_url: "http://web.archive.org/web/20180210034323/http://cfi.co/europe/2016/06/uk-independence-day/"
+license: CFI-OAAL-1.0
 content_sha256: b2b3d18b8af80e882a776163cae8c8a4f75367fe1f5fb06b5ebcac345a1cbfcf
 canonical: 11244-uk-independence-day.json
 ---
