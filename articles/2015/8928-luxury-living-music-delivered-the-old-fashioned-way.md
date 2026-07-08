@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050407
 wayback_snapshot_url: "http://web.archive.org/web/20190823050407/https://cfi.co/lifestyle/2015/02/luxury-living-music-delivered-the-old-fashioned-way/"
+license: CFI-OAAL-1.0
 content_sha256: 2ba8a588abe2b21479bc022dc0c19df6231f57ffa474c8d8b40a8d46d015a5f5
 canonical: 8928-luxury-living-music-delivered-the-old-fashioned-way.json
 ---
