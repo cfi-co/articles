@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220820022307
 wayback_snapshot_url: "http://web.archive.org/web/20220820022307/https://cfi.co/northamerica/2022/08/david-thomson-grit-loyalty-and-optimism/"
+license: CFI-OAAL-1.0
 content_sha256: bd4f3a78cbc635f0f941855205e2a887a85edb72028cb980615bc206b37d0e53
 canonical: 22573-david-thomson-grit-loyalty-and-optimism.json
 ---
