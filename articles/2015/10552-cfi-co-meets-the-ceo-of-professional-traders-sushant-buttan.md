@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724023933
 wayback_snapshot_url: "http://web.archive.org/web/20190724023933/https://cfi.co/corporate-leaders/2015/08/cfi-co-meets-the-ceo-of-professional-traders-sushant-buttan/"
+license: CFI-OAAL-1.0
 content_sha256: 7190cc0b041d5efb867cbc70305ac40ce3b49084fe8a878f7924b2f06856600a
 canonical: 10552-cfi-co-meets-the-ceo-of-professional-traders-sushant-buttan.json
 ---
