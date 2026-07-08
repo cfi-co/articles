@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140705053805
 wayback_snapshot_url: "http://web.archive.org/web/20140705053805/http://cfi.co/finance/2014/05/paul-krugman-a-plea-for-a-return-to-basics-in-finance/"
+license: CFI-OAAL-1.0
 content_sha256: 2b58ffd794d893c270f0adaf4ca4e902870922a1e57a1afb901b8a79b09d9dd5
 canonical: 7368-paul-krugman-a-plea-for-a-return-to-basics-in-finance.json
 ---
