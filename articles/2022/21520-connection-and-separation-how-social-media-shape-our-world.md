@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220201134839
 wayback_snapshot_url: "http://web.archive.org/web/20220201134839/https://cfi.co/lifestyle/2022/02/connection-and-separation-how-social-media-shape-our-world/"
+license: CFI-OAAL-1.0
 content_sha256: 4fb7c4e5a1280347f284d06e5fd3fd3e69c151ea95c62eaca6da55ab5e1c9e0f
 canonical: 21520-connection-and-separation-how-social-media-shape-our-world.json
 ---
