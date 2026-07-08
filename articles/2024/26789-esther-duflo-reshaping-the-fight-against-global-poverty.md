@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240523001616
 wayback_snapshot_url: "http://web.archive.org/web/20240523001616/https://cfi.co/europe/2024/05/esther-duflo-reshaping-the-fight-against-global-poverty/"
+license: CFI-OAAL-1.0
 content_sha256: 073652387c984bef6e264523d57947e9b79ec4ee64d38112b9dfe6d95c89cf96
 canonical: 26789-esther-duflo-reshaping-the-fight-against-global-poverty.json
 ---
