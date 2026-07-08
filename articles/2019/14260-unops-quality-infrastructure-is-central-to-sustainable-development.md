@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191119062732
 wayback_snapshot_url: "http://web.archive.org/web/20191119062732/https://cfi.co/africa/2019/10/unops-quality-infrastructure-is-central-to-sustainable-development/"
+license: CFI-OAAL-1.0
 content_sha256: a5849b277c11fe4c3aebfbe7664f7140288f7f2b1f7db34d082bca4c25d3306e
 canonical: 14260-unops-quality-infrastructure-is-central-to-sustainable-development.json
 ---
