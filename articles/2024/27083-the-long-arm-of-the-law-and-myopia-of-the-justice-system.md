@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240902151855
 wayback_snapshot_url: "http://web.archive.org/web/20240902151855/https://cfi.co/northamerica/2024/09/the-long-arm-of-the-law-and-myopia-of-the-justice-system/"
+license: CFI-OAAL-1.0
 content_sha256: bd6bc1ffc0c4cc35798d1e889558ecb986d9da4896a64fdd6062e438a642f7ba
 canonical: 27083-the-long-arm-of-the-law-and-myopia-of-the-justice-system.json
 ---
