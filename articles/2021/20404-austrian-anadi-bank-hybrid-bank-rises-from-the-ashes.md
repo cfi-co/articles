@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210830095218
 wayback_snapshot_url: "http://web.archive.org/web/20210830095218/https://cfi.co/menu/corporate/2021/08/austrian-anadi-bank-hybrid-bank-rises-from-the-ashes/"
+license: CFI-OAAL-1.0
 content_sha256: b91115946c4a5a3d2921bb4f939486648568016bcd12d6c5daebe4268986564c
 canonical: 20404-austrian-anadi-bank-hybrid-bank-rises-from-the-ashes.json
 ---
