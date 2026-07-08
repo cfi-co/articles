@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220820030812
 wayback_snapshot_url: "http://web.archive.org/web/20220820030812/https://cfi.co/brave-new-world/2022/07/imf-turbulence-and-the-lessons-of-history/"
+license: CFI-OAAL-1.0
 content_sha256: 8db0fe48a308bb67e5b6df6c1774ee3cc6ee4a9dd11072d9a47d107eb8175742
 canonical: 22433-imf-turbulence-and-the-lessons-of-history.json
 ---
