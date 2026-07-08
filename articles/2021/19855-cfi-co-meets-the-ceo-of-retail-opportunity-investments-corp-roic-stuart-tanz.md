@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724003859
 wayback_snapshot_url: "http://web.archive.org/web/20210724003859/https://cfi.co/menu/corporate/2021/06/cfi-co-meets-the-ceo-of-retail-opportunity-investments-corp-roic-stuart-tanz/"
+license: CFI-OAAL-1.0
 content_sha256: 0e7b89f4003177b53a7683c611a0c41e8b4a70cfa534d49c390991d6d4180a8f
 canonical: 19855-cfi-co-meets-the-ceo-of-retail-opportunity-investments-corp-roic-stuart-tanz.json
 ---
