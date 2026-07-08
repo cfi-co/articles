@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721110535
 wayback_snapshot_url: "http://web.archive.org/web/20190721110535/https://cfi.co/northamerica/2016/10/travis-kalanick-uber-or-bust/"
+license: CFI-OAAL-1.0
 content_sha256: fa0c359d458f5ea18619c84ea862d997eb3bbae1c0951d0cf42b2d682caaaa1b
 canonical: 11371-travis-kalanick-uber-or-bust.json
 ---
