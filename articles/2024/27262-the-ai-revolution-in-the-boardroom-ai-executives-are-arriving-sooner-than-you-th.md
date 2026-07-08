@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241207055322
 wayback_snapshot_url: "http://web.archive.org/web/20241207055322/https://cfi.co/technology/2024/11/the-ai-revolution-in-the-boardroom-ai-executives-are-arriving-sooner-than-you-think/"
+license: CFI-OAAL-1.0
 content_sha256: 142edf7449a7c74da454bad48dcc9cb780743920ed0af1b4666ac2e2966f17fa
 canonical: 27262-the-ai-revolution-in-the-boardroom-ai-executives-are-arriving-sooner-than-you-th.json
 ---
