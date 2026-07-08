@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211009014241
 wayback_snapshot_url: "http://web.archive.org/web/20211009014241/https://cfi.co/c-19/2021/09/click-ok-and-call-me-in-the-morning-how-online-has-changed-shopping-for-meds/"
+license: CFI-OAAL-1.0
 content_sha256: fa097a41f3a28659d03e5ac09d8241b8a42b0ef23d257e0a909931d8883f29e7
 canonical: 20634-click-ok-and-call-me-in-the-morning-how-online-has-changed-shopping-for-meds.json
 ---
