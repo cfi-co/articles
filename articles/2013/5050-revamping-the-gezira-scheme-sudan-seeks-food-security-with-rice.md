@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826033644
 wayback_snapshot_url: "http://web.archive.org/web/20140826033644/http://cfi.co/africa/2013/08/revamping-the-gezira-scheme-sudan-seeks-food-security-with-rice/"
+license: CFI-OAAL-1.0
 content_sha256: 72b831280c6b7800706aba315f6edafc8a8ad4decb64062c374d4178d711366c
 canonical: 5050-revamping-the-gezira-scheme-sudan-seeks-food-security-with-rice.json
 ---
