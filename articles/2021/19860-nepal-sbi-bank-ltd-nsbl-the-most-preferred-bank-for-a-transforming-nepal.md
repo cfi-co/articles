@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920110252
 wayback_snapshot_url: "http://web.archive.org/web/20210920110252/https://cfi.co/menu/corporate/2021/06/nepal-sbi-bank-ltd-nsbl-the-most-preferred-bank-for-a-transforming-nepal/"
+license: CFI-OAAL-1.0
 content_sha256: c306cc4cba1bb24723b0003629c5fcd7b4c8194bffb752297aeb3c8a02cf1130
 canonical: 19860-nepal-sbi-bank-ltd-nsbl-the-most-preferred-bank-for-a-transforming-nepal.json
 ---
