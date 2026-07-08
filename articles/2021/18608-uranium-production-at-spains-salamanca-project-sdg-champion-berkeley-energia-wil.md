@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422033650
 wayback_snapshot_url: "http://web.archive.org/web/20210422033650/https://cfi.co/menu/corporate/2021/02/uranium-production-at-spains-salamanca-project-sdg-champion-berkeley-energia-will-create-jobs-new-skills-and-prosperity/"
+license: CFI-OAAL-1.0
 content_sha256: f87c4c469c0b565b9a1d2bc3a5012bf6935efe30008dd3f5b62187d09d5032b8
 canonical: 18608-uranium-production-at-spains-salamanca-project-sdg-champion-berkeley-energia-wil.json
 ---
