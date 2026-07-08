@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200921054312
 wayback_snapshot_url: "http://web.archive.org/web/20200921054312/https://cfi.co/c-19/2020/06/hold-the-bulls-us-recovery-marred-by-uncertainty/"
+license: CFI-OAAL-1.0
 content_sha256: 90150744189fb26ea3e41c51f761239a171782f6e80792900c99e543b62739db
 canonical: 15611-hold-the-bulls-us-recovery-marred-by-uncertainty.json
 ---
