@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250124134752
 wayback_snapshot_url: "http://web.archive.org/web/20250124134752/https://cfi.co/banking/2025/01/paolo-sironi-ibm-mind-the-gap-between-small-medium-businesses-and-their-banks/"
+license: CFI-OAAL-1.0
 content_sha256: c6f826f2cb972e6bc163db07804dc28c11ba2f27becebf7bd9e95e060e7da043
 canonical: 27466-paolo-sironi-ibm-mind-the-gap-between-small-medium-businesses-and-their-banks.json
 ---
