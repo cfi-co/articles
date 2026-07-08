@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210610130904
 wayback_snapshot_url: "http://web.archive.org/web/20210610130904/https://cfi.co/c-19/2021/05/bonds-name-of-the-game-for-cool-and-resilient-operators/"
+license: CFI-OAAL-1.0
 content_sha256: 115a70a8123891e2ea06760e632e16827315078531a2f04179c518a98d90e52e
 canonical: 19602-bonds-name-of-the-game-for-cool-and-resilient-operators.json
 ---
