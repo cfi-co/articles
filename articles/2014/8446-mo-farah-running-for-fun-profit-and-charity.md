@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190722123723
 wayback_snapshot_url: "http://web.archive.org/web/20190722123723/https://cfi.co/europe/2014/11/mo-farah-running-for-fun-profit-and-charity/"
+license: CFI-OAAL-1.0
 content_sha256: f3346c3fb317dcdaada149d5441be6f30b9abba467d62ac8dcf618b10ec177d2
 canonical: 8446-mo-farah-running-for-fun-profit-and-charity.json
 ---
