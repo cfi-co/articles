@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422025449
 wayback_snapshot_url: "http://web.archive.org/web/20210422025449/https://cfi.co/banking/2020/05/aib-a-new-name-on-the-high-streets-of-northern-ireland-adrian-moynihan/"
+license: CFI-OAAL-1.0
 content_sha256: 103479425a3be149cdd2266c380b6165f5d1c446eddefc8d9a6cfe1ad89f1cce
 canonical: 15985-aib-a-new-name-on-the-high-streets-of-northern-ireland-adrian-moynihan.json
 ---
