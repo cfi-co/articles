@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240522233859
 wayback_snapshot_url: "http://web.archive.org/web/20240522233859/https://cfi.co/asia-pacific/2024/04/mitsuko-tottori-flying-high-at-japan-airlines/"
+license: CFI-OAAL-1.0
 content_sha256: f640f60f05a59f1c594e437e20b94e444bcf84d051163f6089075ebfac93eddf
 canonical: 26781-mitsuko-tottori-flying-high-at-japan-airlines.json
 ---
