@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717212458
 wayback_snapshot_url: "http://web.archive.org/web/20190717212458/https://cfi.co/menu/brexit-notes/2018/05/brexit-notes-border-trouble/"
+license: CFI-OAAL-1.0
 content_sha256: b5e36a506c938cf1cc55d97be1113122c1b8aeb68a34df586f055658f651ebb7
 canonical: 12450-brexit-notes-border-trouble.json
 ---
