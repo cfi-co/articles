@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140328014354
 wayback_snapshot_url: "http://web.archive.org/web/20140328014354/http://cfi.co/africa/2013/11/pwc-south-africa-contributing-to-the-development-of-south-africa/"
+license: CFI-OAAL-1.0
 content_sha256: da19f7c3877d277d979cabfb4daee6fa5057941516f986eaf5ce8a08c3716a3c
 canonical: 5729-pwc-south-africa-contributing-to-the-development-of-south-africa.json
 ---
