@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200918200309
 wayback_snapshot_url: "http://web.archive.org/web/20200918200309/https://cfi.co/corporate-leaders/2019/10/dammam-west-independent-sewage-treatment-plant-another-step-to-realising-ambitious-infrastructural-projects-in-the-ksa/"
+license: CFI-OAAL-1.0
 content_sha256: 5a4897214fec0102d5a6673aa45a37aa75462ea6c4b3d156aafcae937d218348
 canonical: 16108-dammam-west-independent-sewage-treatment-plant-another-step-to-realising-ambitio.json
 ---
