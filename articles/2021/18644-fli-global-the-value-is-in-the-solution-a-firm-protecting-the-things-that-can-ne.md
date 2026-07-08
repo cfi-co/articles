@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418052223
 wayback_snapshot_url: "http://web.archive.org/web/20210418052223/https://cfi.co/menu/corporate/2021/02/fli-global-the-value-is-in-the-solution-a-firm-protecting-the-things-that-can-never-be-replaced/"
+license: CFI-OAAL-1.0
 content_sha256: 21ff95a7f600239443b43b141719972a276ffba99b5ab4e3bc5e04a62c836cfe
 canonical: 18644-fli-global-the-value-is-in-the-solution-a-firm-protecting-the-things-that-can-ne.json
 ---
