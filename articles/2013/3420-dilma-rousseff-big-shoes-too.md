@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827142348
 wayback_snapshot_url: "http://web.archive.org/web/20140827142348/http://cfi.co/editors-picks/2013/03/dilma-rousseff-big-shoes-too/"
+license: CFI-OAAL-1.0
 content_sha256: 9605baae09c9fa6e86e0bc1bc966b1c4f0379be692829236f0a5ba7e2af604b9
 canonical: 3420-dilma-rousseff-big-shoes-too.json
 ---
