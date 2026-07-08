@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201023005014
 wayback_snapshot_url: "http://web.archive.org/web/20201023005014/https://cfi.co/northamerica/2020/10/canada-this-is-our-time-to-be-kind/"
+license: CFI-OAAL-1.0
 content_sha256: 137bd53064489a999d36824310b17ce5d5659cfa6afc2106b588cb15c08856fd
 canonical: 17212-canada-this-is-our-time-to-be-kind.json
 ---
