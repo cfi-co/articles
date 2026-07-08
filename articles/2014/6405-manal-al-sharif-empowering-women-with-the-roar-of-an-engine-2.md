@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327011408
 wayback_snapshot_url: "http://web.archive.org/web/20140327011408/http://cfi.co/middleeast/2014/01/manal-al-sharif-empowering-women-with-the-roar-of-an-engine-2/"
+license: CFI-OAAL-1.0
 content_sha256: 146be6c4192112f6902ffc608d61f95c0b4e1f2a24d33719696a76cc9095305b
 canonical: 6405-manal-al-sharif-empowering-women-with-the-roar-of-an-engine-2.json
 ---
