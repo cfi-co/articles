@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260210032618
 wayback_snapshot_url: "http://web.archive.org/web/20260210032618/https://cfi.co/europe/2026/01/earth-active-under-neil-jeffery-de-risking-capital-in-complex-markets/"
+license: CFI-OAAL-1.0
 content_sha256: 79f9c1d7948293bac57074d8df32743b932d2837a15c2b4f7ff0f9c065e8f147
 canonical: 28178-earth-active-under-neil-jeffery-de-risking-capital-in-complex-markets.json
 ---
