@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170925181136
 wayback_snapshot_url: "http://web.archive.org/web/20170925181136/http://cfi.co/europe/2016/03/science-based-emissions-targets-new-foundation-corporate-climate-action/"
+license: CFI-OAAL-1.0
 content_sha256: f817b732c5a5f4cbff47963b6601c49d6c183ada6c36bdc92cdf1f62fbad0440
 canonical: 11066-science-based-emissions-targets-new-foundation-corporate-climate-action.json
 ---
