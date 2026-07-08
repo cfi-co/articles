@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20171204205004
 wayback_snapshot_url: "http://web.archive.org/web/20171204205004/http://cfi.co/asia-pacific/2016/03/grant-thornton-hong-kong-mergers-acquisitions-cultural-alignment-successful-integration/"
+license: CFI-OAAL-1.0
 content_sha256: d236a6be9b2d5373d82ae7fee6d28a8080726f66ddd34ce5e78d5dc44bf1a8ec
 canonical: 11077-grant-thornton-hong-kong-mergers-acquisitions-cultural-alignment-successful-inte.json
 ---
