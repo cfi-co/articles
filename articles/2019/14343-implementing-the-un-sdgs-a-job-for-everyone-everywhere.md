@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191214232626
 wayback_snapshot_url: "http://web.archive.org/web/20191214232626/https://cfi.co/europe/2019/11/implementing-the-un-sdgs-a-job-for-everyone-everywhere/"
+license: CFI-OAAL-1.0
 content_sha256: 30112fe9721c3861b0909e1f459b7ab1afcbb24f63e93b0233b01b1be1e3ca8f
 canonical: 14343-implementing-the-un-sdgs-a-job-for-everyone-everywhere.json
 ---
