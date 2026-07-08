@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418060124
 wayback_snapshot_url: "http://web.archive.org/web/20210418060124/https://cfi.co/corporate-leaders/2020/01/celina-padilla-meardi-banco-hipotecario-vision-dynamism-and-sdg-adherence/"
+license: CFI-OAAL-1.0
 content_sha256: ba8d788ecda0c60e9884b6a75dffb8634cb493f55b0c9a89046aef69e1ba87fe
 canonical: 17500-celina-padilla-meardi-banco-hipotecario-vision-dynamism-and-sdg-adherence.json
 ---
