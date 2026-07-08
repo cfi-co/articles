@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820141755
 wayback_snapshot_url: "http://web.archive.org/web/20190820141755/https://cfi.co/europe/2019/08/lord-waverley-blockchain-new-way-of-doing-business-in-a-changing-world/"
+license: CFI-OAAL-1.0
 content_sha256: 4751f4eae141cb80de75c5afd51051fa23e4277542af54fe128ef1d7f7e3c90d
 canonical: 13912-lord-waverley-blockchain-new-way-of-doing-business-in-a-changing-world.json
 ---
