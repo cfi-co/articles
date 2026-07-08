@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630133944
 wayback_snapshot_url: "http://web.archive.org/web/20220630133944/https://cfi.co/menu/innovation-technology/2022/05/via-optronics-ag-challenged-by-optics-or-display-issues-vias-got-this-one-covered/"
+license: CFI-OAAL-1.0
 content_sha256: fb0bb816c01095e432159e0301bdf6cbf4918b670e250e93e469fa103d7715fa
 canonical: 22013-via-optronics-ag-challenged-by-optics-or-display-issues-vias-got-this-one-covere.json
 ---
