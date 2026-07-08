@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221208161328
 wayback_snapshot_url: "http://web.archive.org/web/20221208161328/https://cfi.co/finance/2022/12/the-rise-and-fall-of-globalisation-and-the-g20s-role-in-world-trade/"
+license: CFI-OAAL-1.0
 content_sha256: 4e50a2a56201d9ae7ec4926b4b1fdfb388678647aa87c5be63f37e727ea33fca
 canonical: 24131-the-rise-and-fall-of-globalisation-and-the-g20s-role-in-world-trade.json
 ---
