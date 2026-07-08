@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228103645
 wayback_snapshot_url: "http://web.archive.org/web/20210228103645/https://cfi.co/menu/corporate/2020/01/rokel-commercial-bank-this-gateway-bank-named-after-a-river-knows-how-to-flow-and-grow/"
+license: CFI-OAAL-1.0
 content_sha256: 085854c6cbc2696c542b8e0b114e60144af4855e21037729edbe1bafe1d5571c
 canonical: 17445-rokel-commercial-bank-this-gateway-bank-named-after-a-river-knows-how-to-flow-an.json
 ---
