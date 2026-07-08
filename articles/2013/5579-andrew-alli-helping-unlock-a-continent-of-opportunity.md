@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827161550
 wayback_snapshot_url: "http://web.archive.org/web/20140827161550/http://cfi.co/africa/2013/10/andrew-alli-helping-unlock-a-continent-of-opportunity/"
+license: CFI-OAAL-1.0
 content_sha256: 7c051718042f617c66dd7de97542a52ac50f8796fca2bd128cdfed10f569efde
 canonical: 5579-andrew-alli-helping-unlock-a-continent-of-opportunity.json
 ---
