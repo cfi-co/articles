@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720032053
 wayback_snapshot_url: "http://web.archive.org/web/20190720032053/https://cfi.co/technology/2016/08/artificial-intelligence-in-fintech/"
+license: CFI-OAAL-1.0
 content_sha256: 22697c28af6a00a054eef5cc8fdcd3e71adbb7558a7720cd7398b8e90bfc0ea9
 canonical: 12813-artificial-intelligence-in-fintech.json
 ---
