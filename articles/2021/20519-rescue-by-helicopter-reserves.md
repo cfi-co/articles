@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210827083859
 wayback_snapshot_url: "http://web.archive.org/web/20210827083859/https://cfi.co/finance/2021/08/rescue-by-helicopter-reserves/"
+license: CFI-OAAL-1.0
 content_sha256: bfb22fcfe6da2ceb562ce3bcca98b130acbfbfda6bfb3099e7045d21042a344e
 canonical: 20519-rescue-by-helicopter-reserves.json
 ---
