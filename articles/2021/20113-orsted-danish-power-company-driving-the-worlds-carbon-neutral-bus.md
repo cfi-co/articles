@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210706073438
 wayback_snapshot_url: "http://web.archive.org/web/20210706073438/https://cfi.co/sustainability/2021/07/orsted-danish-power-company-driving-the-worlds-carbon-neutral-bus/"
+license: CFI-OAAL-1.0
 content_sha256: a411f88c78ec2de23de051b803c1197ce224e2bd15f588d23b6001ea3ed508ef
 canonical: 20113-orsted-danish-power-company-driving-the-worlds-carbon-neutral-bus.json
 ---
