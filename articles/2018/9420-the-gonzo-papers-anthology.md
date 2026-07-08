@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721115542
 wayback_snapshot_url: "http://web.archive.org/web/20190721115542/https://cfi.co/menu/the-editors-list/2018/03/the-gonzo-papers-anthology/"
+license: CFI-OAAL-1.0
 content_sha256: ba19a728fb09ab5fa30fae1915f9cd4635074d066651af84edcb61fb3c644b79
 canonical: 9420-the-gonzo-papers-anthology.json
 ---
