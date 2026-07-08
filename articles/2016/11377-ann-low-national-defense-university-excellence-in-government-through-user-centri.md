@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180803211741
 wayback_snapshot_url: "http://web.archive.org/web/20180803211741/http://cfi.co/northamerica/2016/11/ann-low-national-defense-university-excellence-in-government-through-user-centric-design/"
+license: CFI-OAAL-1.0
 content_sha256: 3a3809f6f507a681813ba02ce16d44eba59766456d7b41e00ac4dc7d600cdbf8
 canonical: 11377-ann-low-national-defense-university-excellence-in-government-through-user-centri.json
 ---
