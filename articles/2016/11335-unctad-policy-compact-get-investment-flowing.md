@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228104443
 wayback_snapshot_url: "http://web.archive.org/web/20210228104443/https://cfi.co/finance/2016/08/unctad-policy-compact-get-investment-flowing/"
+license: CFI-OAAL-1.0
 content_sha256: 3c1a33fec93da91f24d6f66b84b16355f48c70b96f44018ace7212b8b791d9a0
 canonical: 11335-unctad-policy-compact-get-investment-flowing.json
 ---
