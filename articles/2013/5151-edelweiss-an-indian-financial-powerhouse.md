@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724090450
 wayback_snapshot_url: "http://web.archive.org/web/20190724090450/https://cfi.co/asia-pacific/2013/07/edelweiss-an-indian-financial-powerhouse/"
+license: CFI-OAAL-1.0
 content_sha256: 37d2f720748a742b535fa85af484ee1006424ffe900ef3094dac6d865071debd
 canonical: 5151-edelweiss-an-indian-financial-powerhouse.json
 ---
