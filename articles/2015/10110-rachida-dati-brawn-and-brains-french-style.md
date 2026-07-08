@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180709201922
 wayback_snapshot_url: "http://web.archive.org/web/20180709201922/http://cfi.co/europe/2015/07/rachida-dati-brawn-and-brains-french-style/"
+license: CFI-OAAL-1.0
 content_sha256: d44f81aa75c07e4b11141896607fcd69b090523f30a1f7d3a4a976db03bbe941
 canonical: 10110-rachida-dati-brawn-and-brains-french-style.json
 ---
