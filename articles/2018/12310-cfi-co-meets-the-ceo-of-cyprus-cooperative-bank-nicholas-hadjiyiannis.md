@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916092006
 wayback_snapshot_url: "http://web.archive.org/web/20190916092006/https://cfi.co/corporate-leaders/2018/02/cfi-co-meets-the-ceo-of-cyprus-cooperative-bank-nicholas-hadjiyiannis/"
+license: CFI-OAAL-1.0
 content_sha256: 8de34313765ac206f2d70cc58f816dc71c6c1904169ed6e8c44f52ac9c700e39
 canonical: 12310-cfi-co-meets-the-ceo-of-cyprus-cooperative-bank-nicholas-hadjiyiannis.json
 ---
