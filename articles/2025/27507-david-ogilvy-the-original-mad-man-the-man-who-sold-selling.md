@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209171249
 wayback_snapshot_url: "http://web.archive.org/web/20250209171249/https://cfi.co/northamerica/2025/01/david-ogilvy-the-original-mad-man-the-man-who-sold-selling/"
+license: CFI-OAAL-1.0
 content_sha256: 14ca6f74c9f19b5f0dec67db8ee70d5135f97c0e6fc4fc6d116bb771b109e0ac
 canonical: 27507-david-ogilvy-the-original-mad-man-the-man-who-sold-selling.json
 ---
