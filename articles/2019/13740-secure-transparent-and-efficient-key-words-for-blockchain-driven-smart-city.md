@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190725031434
 wayback_snapshot_url: "http://web.archive.org/web/20190725031434/https://cfi.co/middleeast/2019/07/secure-transparent-and-efficient-key-words-for-blockchain-driven-smart-city/"
+license: CFI-OAAL-1.0
 content_sha256: 6c41397749fafb16f3764617e4d1842faec46811398db7b5593132a0511e7c24
 canonical: 13740-secure-transparent-and-efficient-key-words-for-blockchain-driven-smart-city.json
 ---
