@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720031959
 wayback_snapshot_url: "http://web.archive.org/web/20190720031959/https://cfi.co/middleeast/2019/05/deloitte-construction-hitches-in-the-gcc-lead-to-calls-for-positive-change/"
+license: CFI-OAAL-1.0
 content_sha256: 5a406ee934e494f04220c001c92c8b56777547048c85cfc5e95e22354b7117c4
 canonical: 13580-deloitte-construction-hitches-in-the-gcc-lead-to-calls-for-positive-change.json
 ---
