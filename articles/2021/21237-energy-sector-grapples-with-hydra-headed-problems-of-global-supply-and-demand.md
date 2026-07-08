@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220113164234
 wayback_snapshot_url: "http://web.archive.org/web/20220113164234/https://cfi.co/menu/energy/2021/11/energy-sector-grapples-with-hydra-headed-problems-of-global-supply-and-demand/"
+license: CFI-OAAL-1.0
 content_sha256: ddb6270a4746299e27cc058cab5c1b60967b416b7ca99be6c95fa99cf3584b21
 canonical: 21237-energy-sector-grapples-with-hydra-headed-problems-of-global-supply-and-demand.json
 ---
