@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220819120004
 wayback_snapshot_url: "http://web.archive.org/web/20220819120004/https://cfi.co/lifestyle/2022/08/modest-frugal-retiring-and-famous-for-being-anonymous-the-founder-of-the-zara-brand/"
+license: CFI-OAAL-1.0
 content_sha256: 7ff5a66538809772016781b47050ff41563774a8bf48f97247de3164118ba47f
 canonical: 22544-modest-frugal-retiring-and-famous-for-being-anonymous-the-founder-of-the-zara-br.json
 ---
