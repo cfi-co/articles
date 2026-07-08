@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250614231601
 wayback_snapshot_url: "http://web.archive.org/web/20250614231601/https://cfi.co/banking/2025/06/biat-strengthening-market-leadership-through-innovation-digitalisation-and-responsible-governance/"
+license: CFI-OAAL-1.0
 content_sha256: 8ce7f4b50cc59610e8df545b4c5fbc59a3a306476f55b34b19ec3e83eac7c110
 canonical: 27760-biat-strengthening-market-leadership-through-innovation-digitalisation-and-respo.json
 ---
