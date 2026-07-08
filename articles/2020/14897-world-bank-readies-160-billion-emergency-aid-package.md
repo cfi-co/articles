@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200424115851
 wayback_snapshot_url: "http://web.archive.org/web/20200424115851/https://cfi.co/finance/2020/04/world-bank-readies-160-billion-emergency-aid-package/"
+license: CFI-OAAL-1.0
 content_sha256: 4fe5827d6f5f8820f988ce0f9d4d0abda0f8ff56b4b54389cb75ed1e524d6d41
 canonical: 14897-world-bank-readies-160-billion-emergency-aid-package.json
 ---
