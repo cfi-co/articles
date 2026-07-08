@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210402104618
 wayback_snapshot_url: "http://web.archive.org/web/20210402104618/https://cfi.co/editors-picks/2021/04/mackenzie-scott-giving-wealth-away/"
+license: CFI-OAAL-1.0
 content_sha256: 8544d99563cebf75ed2d6d83145c3debc811f9a2a33c38f0f7a4559c92e83996
 canonical: 19403-mackenzie-scott-giving-wealth-away.json
 ---
