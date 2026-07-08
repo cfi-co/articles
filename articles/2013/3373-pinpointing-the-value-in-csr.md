@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140429095059
 wayback_snapshot_url: "http://web.archive.org/web/20140429095059/http://cfi.co/finance/2013/03/pinpointing-the-value-in-csr/"
+license: CFI-OAAL-1.0
 content_sha256: 3693e98107a907fdd26a308222c048dd11582ea41f218160bb0c41899ef1fb5b
 canonical: 3373-pinpointing-the-value-in-csr.json
 ---
