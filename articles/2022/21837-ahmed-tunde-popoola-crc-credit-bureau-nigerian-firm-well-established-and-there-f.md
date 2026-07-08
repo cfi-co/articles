@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220518122551
 wayback_snapshot_url: "http://web.archive.org/web/20220518122551/https://cfi.co/menu/corporate/2022/05/ahmed-tunde-popoola-crc-credit-bureau-nigerian-firm-well-established-and-there-for-the-long-haul/"
+license: CFI-OAAL-1.0
 content_sha256: 5e25042ac3f852692cc4ddcf857152831d0be2b50369cd67467b0a46955cc888
 canonical: 21837-ahmed-tunde-popoola-crc-credit-bureau-nigerian-firm-well-established-and-there-f.json
 ---
