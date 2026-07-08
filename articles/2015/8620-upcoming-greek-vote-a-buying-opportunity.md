@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916044146
 wayback_snapshot_url: "http://web.archive.org/web/20190916044146/https://cfi.co/europe/2015/01/upcoming-greek-vote-a-buying-opportunity/"
+license: CFI-OAAL-1.0
 content_sha256: a37eec041b02283583edb34a08ddd878aff7420338c276fa80413e10b51d4bab
 canonical: 8620-upcoming-greek-vote-a-buying-opportunity.json
 ---
