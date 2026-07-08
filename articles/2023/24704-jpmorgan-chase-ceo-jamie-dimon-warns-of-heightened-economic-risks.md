@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230323012626
 wayback_snapshot_url: "http://web.archive.org/web/20230323012626/https://cfi.co/banking/2023/02/jpmorgan-chase-ceo-jamie-dimon-warns-of-heightened-economic-risks/"
+license: CFI-OAAL-1.0
 content_sha256: b1961fcfc9b4dfaf57aa1ceb6f6fb67c559fc108c84aa0365c1ad36f5b174d7c
 canonical: 24704-jpmorgan-chase-ceo-jamie-dimon-warns-of-heightened-economic-risks.json
 ---
