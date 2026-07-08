@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230913103556
 wayback_snapshot_url: "http://web.archive.org/web/20230913103556/https://cfi.co/latinamerica/2023/09/a-coup-remembered-50-years-later-chile-still-split-over-pinochet-legacy/"
+license: CFI-OAAL-1.0
 content_sha256: 1cf220952e21bfe6d4a8dbdfcbca0413526c41e0adb522bd8c645313017510dc
 canonical: 26034-a-coup-remembered-50-years-later-chile-still-split-over-pinochet-legacy.json
 ---
