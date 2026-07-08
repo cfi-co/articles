@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818133056
 wayback_snapshot_url: "http://web.archive.org/web/20190818133056/https://cfi.co/africa/2017/02/evan-harvey-nasdaq-a-short-term-look-at-long-term-growth-the-expert-outlook-on-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 117c7e60d9b6c89ebbfb3df8a5e2f760d399cfe5c84ddcf7b5f2ab85563698a7
 canonical: 11552-evan-harvey-nasdaq-a-short-term-look-at-long-term-growth-the-expert-outlook-on-2.json
 ---
