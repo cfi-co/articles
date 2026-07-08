@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630125011
 wayback_snapshot_url: "http://web.archive.org/web/20220630125011/https://cfi.co/brave-new-world/2022/01/in-search-of-lost-time-mapping-the-chip-on-russias-shoulder/"
+license: CFI-OAAL-1.0
 content_sha256: 9341464f03da33e78af7d9aafb6a4fb69eb16d18b06e041c03bc1022646fadf8
 canonical: 21508-in-search-of-lost-time-mapping-the-chip-on-russias-shoulder.json
 ---
