@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045552
 wayback_snapshot_url: "http://web.archive.org/web/20190823045552/https://cfi.co/africa/2012/05/emerging-managers-summit/"
+license: CFI-OAAL-1.0
 content_sha256: 8321212154cda638be1fce46465491231a5582fe8501b48273d2e984b9b2d7ea
 canonical: 343-emerging-managers-summit.json
 ---

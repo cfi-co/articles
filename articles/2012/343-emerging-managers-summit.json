@@ -30,10 +30,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190823045552",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190823045552/https://cfi.co/africa/2012/05/emerging-managers-summit/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190823045552/https://cfi.co/africa/2012/05/emerging-managers-summit/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<span style=\"font-family: 'Times New Roman'; font-size: small;\">The Radisson Blu Aqua Hotel Chicago, Chicago, IL\nMay 30-June 1, 2012</span>\n\n<span style=\"font-family: 'Times New Roman'; font-size: small;\">If you are looking to expand and diversify your asset allocation by investing in emerging managers as well as women and minority owned investment managers, the <em><em><span style=\"font-family: 'Times New Roman';\">emerging managers conference</span></em></em> will provide the unique opportunity to access a diversified group of up-and-coming performance-oriented managers and manager of managers. The conference will explore the benefits and opportunities offered by investing in emerging managers as well as new strategies for implementing an emerging managers program. If you are an emerging manager, you will learn the procedures used by institutions to launch and maintain successful emerging manager programs. This event will showcase a variety of emerging mangers as well as minority-owned manager funds and other high potential smaller investment firms, and it will offer participants invaluable networking opportunities. </span>\n\n<a href=\"http://www.opalgroup.net/trk/emsc1228.html\" target=\"_blank\">Additional Information</a>",
     "content_sha256": "8321212154cda638be1fce46465491231a5582fe8501b48273d2e984b9b2d7ea",
-    "record_sha256": "b13b2f6d8f04dd8fbed5ecf0006201812f67b35254b086e5e2072fe9d155b0b0"
+    "record_sha256": "9413bbc530e5ff52d8fb150f28221291bca49ce310752e52402e654012fd1d1f"
 }
