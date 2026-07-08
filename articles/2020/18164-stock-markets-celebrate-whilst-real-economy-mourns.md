@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210112070122
 wayback_snapshot_url: "http://web.archive.org/web/20210112070122/https://cfi.co/c-19/2020/12/stock-markets-celebrate-whilst-real-economy-mourns/"
+license: CFI-OAAL-1.0
 content_sha256: 708af8df3173f5bbf1357263d5fae817873b932e6237688f66a022b15ccdd70b
 canonical: 18164-stock-markets-celebrate-whilst-real-economy-mourns.json
 ---
