@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327000138
 wayback_snapshot_url: "http://web.archive.org/web/20140327000138/http://cfi.co/finance/2014/01/us-political-strife-threatens-to-derail-imf-reforms/"
+license: CFI-OAAL-1.0
 content_sha256: 8e44e0c0f553f4e496cfc946519fe78d00fb2bc85204b312aff98bac46ab8e0d
 canonical: 6377-us-political-strife-threatens-to-derail-imf-reforms.json
 ---
