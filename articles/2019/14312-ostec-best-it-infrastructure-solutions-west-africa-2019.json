@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20191119063625",
-        "wayback_snapshot_url": "http://web.archive.org/web/20191119063625/https://cfi.co/awards/africa/2019/ostec-best-it-infrastructure-solutions-west-africa-2019/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20191119063625/https://cfi.co/awards/africa/2019/ostec-best-it-infrastructure-solutions-west-africa-2019/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "Ostec is a front-runner of Ghana’s IT sector, and offers infrastructure solutions, managed services and consulting sessions to help clients extract the biggest bang from their tech investment buck. Ostec applies an industry focus to a comprehensive portfolio that targets banking and finance, telecoms, consumer and government products and services, and resources. It delivers industry-tailored solutions that are flexible, scalable, and crafted with a thorough understanding of the evolution and applicable technologies of each sector. Ostec urges clients to resist tech fads and instead take a more measured approach with a process of continuous tech updates. Ostec gives clients space and freedom to grow within the scope of their needs, scaling tech services as required. The company builds and operates data centres that clients trust for the protection, processing, and storage of their data. Ostec helps companies overcome crises with its Disaster Recovery Solutions operation, equipped with technology, connectivity, and a specialised support crew. Over the past two decades, the company has been key to Ghana’s growing reputation for top class tech infrastructure and has enabled its clients — from SME to blue-chip — consolidate their IT performance. As the company continues to fulfil its leadership role in the Ghanaian market, it envisions expansion into neighbouring countries such as Nigeria and Cameroon over the next five years. The CFI.co judging panel is pleased to present Ostec with the 2019 award for Best IT Infrastructure Solutions (West Africa).",
     "content_sha256": "6ba437a6adb3f2bd270c7717b20b25e1be6af9104b6703b40d6f2f68beb3d584",
-    "record_sha256": "f4b9f46db478a85ec8d6600ae461d95c2aaec382bd466482455b37aec556b4b2"
+    "record_sha256": "d7bb2d9de27ecf7beef1ca409b97ca961424b3c7f90a176562ff36504710d592"
 }
