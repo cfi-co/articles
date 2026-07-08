@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050541
 wayback_snapshot_url: "http://web.archive.org/web/20190818050541/https://cfi.co/editors-picks/2012/12/ibms-virginia-rometty-and-strategic-belief/"
+license: CFI-OAAL-1.0
 content_sha256: cb85e43ebd2b36e17d948f8665ea4209fb681670e1fa87ca9508cd569cb73d5f
 canonical: 2801-ibms-virginia-rometty-and-strategic-belief.json
 ---
