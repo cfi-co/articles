@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422031421
 wayback_snapshot_url: "http://web.archive.org/web/20210422031421/https://cfi.co/c-19/2020/12/british-vaccine-approval-celebrated/"
+license: CFI-OAAL-1.0
 content_sha256: 31cdd6d04b9f39f7b060d673db3d599b7d04feca3a7fc4b6e3f8a94d46dfa64f
 canonical: 18193-british-vaccine-approval-celebrated.json
 ---
