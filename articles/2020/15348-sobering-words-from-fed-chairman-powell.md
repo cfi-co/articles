@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200919194147
 wayback_snapshot_url: "http://web.archive.org/web/20200919194147/https://cfi.co/c-19/2020/05/sobering-words-from-fed-chairman-powell/"
+license: CFI-OAAL-1.0
 content_sha256: b733712495800c4577ac7433071cc1f3b0ded1a346c7aee4f90828324cf54dcb
 canonical: 15348-sobering-words-from-fed-chairman-powell.json
 ---
