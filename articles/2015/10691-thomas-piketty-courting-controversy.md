@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210226102536
 wayback_snapshot_url: "http://web.archive.org/web/20210226102536/https://cfi.co/editors-picks/2015/12/thomas-piketty-courting-controversy/"
+license: CFI-OAAL-1.0
 content_sha256: ced2e21966d82c64dc4b53fb45504d444c6d844265bcc7bea5e5e1d8638f3c71
 canonical: 10691-thomas-piketty-courting-controversy.json
 ---
