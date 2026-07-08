@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220617180513
 wayback_snapshot_url: "http://web.archive.org/web/20220617180513/https://cfi.co/menu/lifestyle-menu/2022/05/augustin-de-romanet-chairman-ceo-of-groupe-adp-aeroports-de-paris-keeping-the-worlds-gates-open-airport-chief-shares-insights-and-aims/"
+license: CFI-OAAL-1.0
 content_sha256: 618cc450eb1b20e375178cedfaa8b808bdb7a47b2d3a8532bf99fd8032211cfc
 canonical: 21970-augustin-de-romanet-chairman-ceo-of-groupe-adp-aeroports-de-paris-keeping-the-wo.json
 ---
