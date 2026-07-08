@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190706090353
 wayback_snapshot_url: "http://web.archive.org/web/20190706090353/https://cfi.co/asia-pacific/2018/02/otaviano-canuto-world-bank-overlapping-globalisations/"
+license: CFI-OAAL-1.0
 content_sha256: 8e717f4aae4c5ec96c025e1f5a9e61b4c452c63b0daad556379b262ad36e7fde
 canonical: 12274-otaviano-canuto-world-bank-overlapping-globalisations.json
 ---
