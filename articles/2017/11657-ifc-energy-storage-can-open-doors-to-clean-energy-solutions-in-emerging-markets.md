@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825094702
 wayback_snapshot_url: "http://web.archive.org/web/20190825094702/https://cfi.co/asia-pacific/2017/06/ifc-energy-storage-can-open-doors-to-clean-energy-solutions-in-emerging-markets/"
+license: CFI-OAAL-1.0
 content_sha256: c72ec0ef21884bca6874f89c63fb93cf599fc123090dd6bfb252941ba09aaaa6
 canonical: 11657-ifc-energy-storage-can-open-doors-to-clean-energy-solutions-in-emerging-markets.json
 ---
