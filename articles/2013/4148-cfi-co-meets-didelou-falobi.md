@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724032059
 wayback_snapshot_url: "http://web.archive.org/web/20190724032059/https://cfi.co/africa/2013/05/cfi-co-meets-didelou-falobi/"
+license: CFI-OAAL-1.0
 content_sha256: b544fd255034e12eed061867e562ece6aa5384087cd2df8c94ab89ce2ef90f47
 canonical: 4148-cfi-co-meets-didelou-falobi.json
 ---
