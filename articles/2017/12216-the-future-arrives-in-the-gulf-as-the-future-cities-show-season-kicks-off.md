@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820145648
 wayback_snapshot_url: "http://web.archive.org/web/20190820145648/https://cfi.co/projects/2017/12/the-future-arrives-in-the-gulf-as-the-future-cities-show-season-kicks-off/"
+license: CFI-OAAL-1.0
 content_sha256: fd45f6e6818e990bcc9aca6c1e758cbd1ef6cb1f7b95b67eb20c2b936e3fee1e
 canonical: 12216-the-future-arrives-in-the-gulf-as-the-future-cities-show-season-kicks-off.json
 ---
