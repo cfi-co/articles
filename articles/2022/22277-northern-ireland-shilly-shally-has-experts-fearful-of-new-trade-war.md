@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630134302
 wayback_snapshot_url: "http://web.archive.org/web/20220630134302/https://cfi.co/brave-new-world/2022/06/northern-ireland-shilly-shally-has-experts-fearful-of-new-trade-war/"
+license: CFI-OAAL-1.0
 content_sha256: 024c2c859a959175189f1dff0ba81641009e45d7a3b23ca38e91d3f24355b49f
 canonical: 22277-northern-ireland-shilly-shally-has-experts-fearful-of-new-trade-war.json
 ---
