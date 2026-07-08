@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200514205355
 wayback_snapshot_url: "http://web.archive.org/web/20200514205355/https://cfi.co/sustainability/2020/03/business-in-times-of-corona-world-bank-and-imf-ready-to-assist-low-and-middle-income-countries/"
+license: CFI-OAAL-1.0
 content_sha256: 45fe40bba2cdf16d1c7a485f68b18814eed695765ace9d5b8199956d7c337fbb
 canonical: 14686-business-in-times-of-corona-world-bank-and-imf-ready-to-assist-low-and-middle-in.json
 ---
