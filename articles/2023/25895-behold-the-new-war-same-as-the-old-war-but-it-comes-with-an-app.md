@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923182222
 wayback_snapshot_url: "http://web.archive.org/web/20230923182222/https://cfi.co/brave-new-world/2023/08/behold-the-new-war-same-as-the-old-war-but-it-comes-with-an-app/"
+license: CFI-OAAL-1.0
 content_sha256: 496006ec7d60a7f0786da9ab71b859afdaf96dd4fe487e5d773ff32d98088273
 canonical: 25895-behold-the-new-war-same-as-the-old-war-but-it-comes-with-an-app.json
 ---
