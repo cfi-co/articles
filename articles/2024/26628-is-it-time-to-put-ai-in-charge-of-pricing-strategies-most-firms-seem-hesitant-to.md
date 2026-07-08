@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225150503
 wayback_snapshot_url: "http://web.archive.org/web/20240225150503/https://cfi.co/brave-new-world/2024/01/is-it-time-to-put-ai-in-charge-of-pricing-strategies-most-firms-seem-hesitant-to-take-the-leap/"
+license: CFI-OAAL-1.0
 content_sha256: 270a9452722c2247885311ecb3f91d9e8dc5a6200c7209869a3ebb13ffed4023
 canonical: 26628-is-it-time-to-put-ai-in-charge-of-pricing-strategies-most-firms-seem-hesitant-to.json
 ---
