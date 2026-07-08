@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221118122557
 wayback_snapshot_url: "http://web.archive.org/web/20221118122557/https://cfi.co/menu/corporate/2022/08/aminvest-conventional-and-shariah-compliant-funds-guided-by-deep-expertise/"
+license: CFI-OAAL-1.0
 content_sha256: 301e08c082492ba3506d0a8342a4b73de4d32cda08eec1f467f36717026f0180
 canonical: 23086-aminvest-conventional-and-shariah-compliant-funds-guided-by-deep-expertise.json
 ---
