@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210414154218
 wayback_snapshot_url: "http://web.archive.org/web/20210414154218/https://cfi.co/menu/corporate/2021/04/convergence-partners-impact-investing-and-the-metrics-needed-to-ascertain-the-benefits/"
+license: CFI-OAAL-1.0
 content_sha256: 3f45feba89e200610b8fa57ebaef6b17f8cced551986ef9788228ccdeeb5cbff
 canonical: 19513-convergence-partners-impact-investing-and-the-metrics-needed-to-ascertain-the-be.json
 ---
