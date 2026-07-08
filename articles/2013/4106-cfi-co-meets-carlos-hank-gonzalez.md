@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720180805
 wayback_snapshot_url: "http://web.archive.org/web/20190720180805/https://cfi.co/latinamerica/2013/05/cfi-co-meets-carlos-hank-gonzalez/"
+license: CFI-OAAL-1.0
 content_sha256: fca6743a2f6c53f9adb01386a4f841bb983c6013f7402dd89656d5b38adbbb64
 canonical: 4106-cfi-co-meets-carlos-hank-gonzalez.json
 ---
