@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210722061524
 wayback_snapshot_url: "http://web.archive.org/web/20210722061524/https://cfi.co/menu/corporate/2021/06/yinager-dessie-nbe-governor-takes-bank-to-the-forefront/"
+license: CFI-OAAL-1.0
 content_sha256: 28ca4151bb6b8ce6b56b5a2e2aba666701b53fb3c0a9536a574ec3a8792c4b88
 canonical: 20063-yinager-dessie-nbe-governor-takes-bank-to-the-forefront.json
 ---
