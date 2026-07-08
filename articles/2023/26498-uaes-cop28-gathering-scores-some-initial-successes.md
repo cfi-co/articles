@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231205135253
 wayback_snapshot_url: "http://web.archive.org/web/20231205135253/https://cfi.co/middleeast/2023/12/uaes-cop28-gathering-scores-some-initial-successes/"
+license: CFI-OAAL-1.0
 content_sha256: 5b6410e46c8307b9db5c7782809d9c0c3a4c85dfeafa0e26e185d288a7783469
 canonical: 26498-uaes-cop28-gathering-scores-some-initial-successes.json
 ---
