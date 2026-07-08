@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724032048
 wayback_snapshot_url: "http://web.archive.org/web/20190724032048/https://cfi.co/asia-pacific/2013/05/chen-lihua-its-a-natural-thing-to-give/"
+license: CFI-OAAL-1.0
 content_sha256: 150e77e91ab1d1d72218f573c71ec21c9c756dcd9998c424136d63a949c75e33
 canonical: 4204-chen-lihua-its-a-natural-thing-to-give.json
 ---
