@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625233327
 wayback_snapshot_url: "http://web.archive.org/web/20220625233327/https://cfi.co/menu/corporate/2022/05/kommunalkredit-ceo-bernd-fislage-dont-just-talk-about-sustainability-live-it/"
+license: CFI-OAAL-1.0
 content_sha256: ce88aac6b039f460af601443412e31e7c3e760f3ef731534a0f159dfd5fda839
 canonical: 21870-kommunalkredit-ceo-bernd-fislage-dont-just-talk-about-sustainability-live-it.json
 ---
