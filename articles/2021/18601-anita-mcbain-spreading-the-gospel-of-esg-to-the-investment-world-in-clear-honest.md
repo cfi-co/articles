@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210204080941
 wayback_snapshot_url: "http://web.archive.org/web/20210204080941/https://cfi.co/menu/heroes/2021/02/anita-mcbain-spreading-the-gospel-of-esg-to-the-investment-world-in-clear-honest-and-understandable-terms/"
+license: CFI-OAAL-1.0
 content_sha256: 8f4393485fe9c86cf70fa9ed9c17a3237a2f8cfc8cc6e2bfedd9caceac1257f2
 canonical: 18601-anita-mcbain-spreading-the-gospel-of-esg-to-the-investment-world-in-clear-honest.json
 ---
