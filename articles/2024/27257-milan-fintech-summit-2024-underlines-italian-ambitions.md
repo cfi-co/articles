@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241105130628
 wayback_snapshot_url: "http://web.archive.org/web/20241105130628/https://cfi.co/europe/2024/11/milan-fintech-summit-2024-underlines-italian-ambitions/"
+license: CFI-OAAL-1.0
 content_sha256: 3547dc345c2b70effc653a2070afea492db0b3ed0900025c7d9f758e14955a06
 canonical: 27257-milan-fintech-summit-2024-underlines-italian-ambitions.json
 ---
