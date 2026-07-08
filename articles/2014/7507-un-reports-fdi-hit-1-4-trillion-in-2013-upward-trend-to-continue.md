@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140704182348
 wayback_snapshot_url: "http://web.archive.org/web/20140704182348/http://cfi.co/africa/2014/06/un-reports-fdi-hit-1-4-trillion-in-2013-upward-trend-to-continue/"
+license: CFI-OAAL-1.0
 content_sha256: 6965396e84f7ed1c6a5200fc107f862ed41b08b25dde8e2460932f1b69224b70
 canonical: 7507-un-reports-fdi-hit-1-4-trillion-in-2013-upward-trend-to-continue.json
 ---
