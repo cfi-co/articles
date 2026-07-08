@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220504084457
 wayback_snapshot_url: "http://web.archive.org/web/20220504084457/https://cfi.co/menu/corporate/2022/05/sean-thompson-camradata-future-proofing-with-understanding-honesty-transparency-and-fun/"
+license: CFI-OAAL-1.0
 content_sha256: fbe334f4a4dfcb52ee9bf0d4c9e600b8ec125618c777f9cd15c9337930de7c93
 canonical: 21747-sean-thompson-camradata-future-proofing-with-understanding-honesty-transparency-.json
 ---
