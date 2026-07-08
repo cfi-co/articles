@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180703214229
 wayback_snapshot_url: "http://web.archive.org/web/20180703214229/http://cfi.co/asia-pacific/2013/07/world-bank-philippines-poised-for-more-and-better-jobs/"
+license: CFI-OAAL-1.0
 content_sha256: 003ae518d080c2a08f3ceb288b9c9b6d1f8e01e905faeb598c37ac8692e9ca41
 canonical: 4633-world-bank-philippines-poised-for-more-and-better-jobs.json
 ---
