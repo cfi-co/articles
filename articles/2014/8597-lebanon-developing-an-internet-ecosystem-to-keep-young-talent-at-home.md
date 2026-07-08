@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014233505
 wayback_snapshot_url: "http://web.archive.org/web/20191014233505/https://cfi.co/middleeast/2014/12/lebanon-developing-an-internet-ecosystem-to-keep-young-talent-at-home/"
+license: CFI-OAAL-1.0
 content_sha256: 1a5e668b76d712522049e8afe994e6fa10f41a84f7ea947863c55dcd44773b24
 canonical: 8597-lebanon-developing-an-internet-ecosystem-to-keep-young-talent-at-home.json
 ---
