@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724090753
 wayback_snapshot_url: "http://web.archive.org/web/20190724090753/https://cfi.co/northamerica/2017/01/the-45%E1%B5%97%CA%B0-us-president-in-his-own-words/"
+license: CFI-OAAL-1.0
 content_sha256: c24694c0f314e2d423f7a5bf92fd629ccf8311d600d36c5979e45fb410f714f6
 canonical: 11491-the-45-e1-b5-97-ca-b0-us-president-in-his-own-words.json
 ---
