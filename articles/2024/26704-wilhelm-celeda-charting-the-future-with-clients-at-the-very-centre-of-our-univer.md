@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240303064609
 wayback_snapshot_url: "http://web.archive.org/web/20240303064609/https://cfi.co/banking/2024/02/wilhelm-celeda-charting-the-future-with-clients-at-the-very-centre-of-our-universe/"
+license: CFI-OAAL-1.0
 content_sha256: eb68f7091dea872a452a52e2171871c58dbdbbf841b234c5447dcc7c19ecc2b1
 canonical: 26704-wilhelm-celeda-charting-the-future-with-clients-at-the-very-centre-of-our-univer.json
 ---
