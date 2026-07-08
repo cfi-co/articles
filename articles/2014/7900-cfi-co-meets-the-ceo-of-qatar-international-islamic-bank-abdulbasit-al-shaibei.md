@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818051834
 wayback_snapshot_url: "http://web.archive.org/web/20190818051834/https://cfi.co/banking/2014/07/cfi-co-meets-the-ceo-of-qatar-international-islamic-bank-abdulbasit-al-shaibei/"
+license: CFI-OAAL-1.0
 content_sha256: 2d5166fe1124c55e4b786481aaa1483365b5253cd22b848cdcc191894fdb4113
 canonical: 7900-cfi-co-meets-the-ceo-of-qatar-international-islamic-bank-abdulbasit-al-shaibei.json
 ---
