@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250401120549
 wayback_snapshot_url: "http://web.archive.org/web/20250401120549/https://cfi.co/asia-pacific/2025/03/from-strength-to-strength-peak-re-expands-its-role-as-a-trusted-reinsurance-partner-in-emerging-asia/"
+license: CFI-OAAL-1.0
 content_sha256: b73fa469a2abdeca1ac7c3b8aec3a0385fc5eb346d0b8cc4be365f7e5e1ff693
 canonical: 27662-from-strength-to-strength-peak-re-expands-its-role-as-a-trusted-reinsurance-part.json
 ---
