@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418045238
 wayback_snapshot_url: "http://web.archive.org/web/20210418045238/https://cfi.co/corporate-leaders/2020/05/welltec-building-on-innovation-for-efficiency-and-sustainability/"
+license: CFI-OAAL-1.0
 content_sha256: 1e2ec82c65bf8aea1c359ce57d248abee6555dedea91a59970464a10aae0ea60
 canonical: 15967-welltec-building-on-innovation-for-efficiency-and-sustainability.json
 ---
