@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200924105022
 wayback_snapshot_url: "http://web.archive.org/web/20200924105022/https://cfi.co/corporate-leaders/2019/07/jakob-von-ganske-ph-d-taking-strategic-steps-and-keeping-a-close-eye-on-risks/"
+license: CFI-OAAL-1.0
 content_sha256: a174aea786696b78a8741d341bcbdf59d5b8b8ab14e5e2f582d0f5b1a305a034
 canonical: 15668-jakob-von-ganske-ph-d-taking-strategic-steps-and-keeping-a-close-eye-on-risks.json
 ---
