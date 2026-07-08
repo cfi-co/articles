@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230125145517
 wayback_snapshot_url: "http://web.archive.org/web/20230125145517/https://cfi.co/brave-new-world/2023/01/good-news-roundup-of-2022-spotlight-on-renewables/"
+license: CFI-OAAL-1.0
 content_sha256: eabfc7603f7c098322d38f9f938f862a0c06d0b8c2af5a358746adac326b9a6d
 canonical: 24402-good-news-roundup-of-2022-spotlight-on-renewables.json
 ---
