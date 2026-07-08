@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045600
 wayback_snapshot_url: "http://web.archive.org/web/20190823045600/https://cfi.co/sustainability/2013/04/un-education-and-youth-unemployment-issues-must-be-addressed-now/"
+license: CFI-OAAL-1.0
 content_sha256: d0bdd32adaa8ca7287a0d76def27a11580fdd28d1b4fc40ad1070a7ddc3b5018
 canonical: 3482-un-education-and-youth-unemployment-issues-must-be-addressed-now.json
 ---
