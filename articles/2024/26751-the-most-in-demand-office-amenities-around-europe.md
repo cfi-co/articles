@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240522230118
 wayback_snapshot_url: "http://web.archive.org/web/20240522230118/https://cfi.co/europe/2024/04/the-most-in-demand-office-amenities-around-europe/"
+license: CFI-OAAL-1.0
 content_sha256: 6e7787dcb76b1e4aba62232dea7c14c1c3056f293d2355cb7c540275dce29b34
 canonical: 26751-the-most-in-demand-office-amenities-around-europe.json
 ---
