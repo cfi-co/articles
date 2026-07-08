@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920115845
 wayback_snapshot_url: "http://web.archive.org/web/20210920115845/https://cfi.co/menu/corporate/2021/07/bluerock-group-as-solid-as-a-rock-and-building-a-reputation-for-the-right-reasons/"
+license: CFI-OAAL-1.0
 content_sha256: ce79215fb8f5d38974c09aaf526ea0276b9a9b7e4c8f5522d86b66dddb577d12
 canonical: 20139-bluerock-group-as-solid-as-a-rock-and-building-a-reputation-for-the-right-reason.json
 ---
