@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170520200045
 wayback_snapshot_url: "http://web.archive.org/web/20170520200045/http://cfi.co/banking/2017/03/devere-group-decisive-move-into-private-and-investment-banking/"
+license: CFI-OAAL-1.0
 content_sha256: 2c313aad2169d59791154b55921102d599eb82fad8f8238101b5655c3e5779d1
 canonical: 11557-devere-group-decisive-move-into-private-and-investment-banking.json
 ---
