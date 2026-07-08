@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132243
 wayback_snapshot_url: "http://web.archive.org/web/20190818132243/https://cfi.co/asia-pacific/2013/10/cfi-co-meets-citygate-securities/"
+license: CFI-OAAL-1.0
 content_sha256: 85d662277061e582124d9e70997db909e7ff2fffbf0f49ed8a1bb8ab06a43761
 canonical: 5659-cfi-co-meets-citygate-securities.json
 ---
