@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225152930
 wayback_snapshot_url: "http://web.archive.org/web/20240225152930/https://cfi.co/europe/2024/02/from-davos-to-digital-transformation-the-key-trends-that-will-define-the-global-financial-services-sector-in-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 5a23cc80ae213c585a92d3aea2190fe7a95e6d315ebc2ac1493f41698097bc48
 canonical: 26632-from-davos-to-digital-transformation-the-key-trends-that-will-define-the-global-.json
 ---
