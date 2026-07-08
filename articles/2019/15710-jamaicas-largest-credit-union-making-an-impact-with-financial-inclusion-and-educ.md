@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200919000102
 wayback_snapshot_url: "http://web.archive.org/web/20200919000102/https://cfi.co/menu/corporate/2019/07/jamaicas-largest-credit-union-making-an-impact-with-financial-inclusion-and-education/"
+license: CFI-OAAL-1.0
 content_sha256: f0b46d8cfcdb2800997ac44e848df0bfadd262aa00f6fd70f0493d2869bf1353
 canonical: 15710-jamaicas-largest-credit-union-making-an-impact-with-financial-inclusion-and-educ.json
 ---
