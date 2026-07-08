@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630130101
 wayback_snapshot_url: "http://web.archive.org/web/20220630130101/https://cfi.co/northamerica/2022/05/kickstart-seed-fund-from-recession-to-co-operation/"
+license: CFI-OAAL-1.0
 content_sha256: 85cc769695424ca78a4c3c4145c2aa74a2608dfd1f1456f10e107b8b1e21f7b8
 canonical: 22058-kickstart-seed-fund-from-recession-to-co-operation.json
 ---
