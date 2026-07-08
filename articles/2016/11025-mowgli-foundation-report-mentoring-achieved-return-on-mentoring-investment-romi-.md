@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170930024322
 wayback_snapshot_url: "http://web.archive.org/web/20170930024322/http://cfi.co/africa/2016/02/mowgli-foundation-report-mentoring-achieved-return-on-mentoring-investment-romi-returns-of-890/"
+license: CFI-OAAL-1.0
 content_sha256: 2a2d0ca90023687ab8567172028b5c0183bed30cdf33dc3801ea391d0dc11c43
 canonical: 11025-mowgli-foundation-report-mentoring-achieved-return-on-mentoring-investment-romi-.json
 ---
