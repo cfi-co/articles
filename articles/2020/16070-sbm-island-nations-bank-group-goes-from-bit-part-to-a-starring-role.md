@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200702155716
 wayback_snapshot_url: "http://web.archive.org/web/20200702155716/https://cfi.co/menu/corporate/2020/05/sbm-island-nations-bank-group-goes-from-bit-part-to-a-starring-role/"
+license: CFI-OAAL-1.0
 content_sha256: 1d98b580f626a0f142b9c43e1b359c56f7dffda2155de26f5168cdc741f96e31
 canonical: 16070-sbm-island-nations-bank-group-goes-from-bit-part-to-a-starring-role.json
 ---
