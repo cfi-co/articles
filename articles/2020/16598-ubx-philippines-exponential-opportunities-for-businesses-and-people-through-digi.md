@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422032902
 wayback_snapshot_url: "http://web.archive.org/web/20210422032902/https://cfi.co/corporate-leaders/2020/08/ubx-philippines-exponential-opportunities-for-businesses-and-people-through-digital-transformation/"
+license: CFI-OAAL-1.0
 content_sha256: 9db13f67496d9de2e417a58eee493cd9a363345d5cd83694c54aaec9f24141d6
 canonical: 16598-ubx-philippines-exponential-opportunities-for-businesses-and-people-through-digi.json
 ---
