@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524045658
 wayback_snapshot_url: "http://web.archive.org/web/20260524045658/https://cfi.co/northamerica/2026/05/the-reno-siege-rupert-murdoch-and-the-great-succession-schism/"
+license: CFI-OAAL-1.0
 content_sha256: b24f3c31ec64d47f808894d0778fd4b086a0241ce744ec0f93c034ffecc432a4
 canonical: 28431-the-reno-siege-rupert-murdoch-and-the-great-succession-schism.json
 ---
