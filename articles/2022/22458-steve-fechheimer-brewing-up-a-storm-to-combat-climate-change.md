@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220726131655
 wayback_snapshot_url: "http://web.archive.org/web/20220726131655/https://cfi.co/menu/heroes/2022/07/steve-fechheimer-brewing-up-a-storm-to-combat-climate-change/"
+license: CFI-OAAL-1.0
 content_sha256: 126844ebecd0a6dc45d5c5f348c15ef4779a1ea023e203be8124de31fea1d9c3
 canonical: 22458-steve-fechheimer-brewing-up-a-storm-to-combat-climate-change.json
 ---
