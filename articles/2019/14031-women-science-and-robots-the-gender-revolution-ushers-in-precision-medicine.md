@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021052928
 wayback_snapshot_url: "http://web.archive.org/web/20191021052928/https://cfi.co/europe/2019/09/women-science-and-robots-the-gender-revolution-ushers-in-precision-medicine/"
+license: CFI-OAAL-1.0
 content_sha256: f9410332d6039c86cae0f2fecb08496f0fc6208849deeae54a7b5e6b7965a7fa
 canonical: 14031-women-science-and-robots-the-gender-revolution-ushers-in-precision-medicine.json
 ---
