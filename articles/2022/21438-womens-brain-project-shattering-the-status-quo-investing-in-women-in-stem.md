@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220112112455
 wayback_snapshot_url: "http://web.archive.org/web/20220112112455/https://cfi.co/europe/2022/01/womens-brain-project-shattering-the-status-quo-investing-in-women-in-stem/"
+license: CFI-OAAL-1.0
 content_sha256: 2e4fa52ab30f30855daa3d9a4dc6eec0f1ca31c33ce2d97558fba9c07eeda8d3
 canonical: 21438-womens-brain-project-shattering-the-status-quo-investing-in-women-in-stem.json
 ---
