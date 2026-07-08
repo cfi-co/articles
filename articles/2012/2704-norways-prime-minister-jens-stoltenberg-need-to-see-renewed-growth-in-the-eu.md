@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916090114
 wayback_snapshot_url: "http://web.archive.org/web/20190916090114/https://cfi.co/europe/2012/12/norways-prime-minister-jens-stoltenberg-need-to-see-renewed-growth-in-the-eu/"
+license: CFI-OAAL-1.0
 content_sha256: 10ec13b2cb2283748b3f1d2dfb8c86245c9aead4cdcc59ba411d3f8cad21afc2
 canonical: 2704-norways-prime-minister-jens-stoltenberg-need-to-see-renewed-growth-in-the-eu.json
 ---
