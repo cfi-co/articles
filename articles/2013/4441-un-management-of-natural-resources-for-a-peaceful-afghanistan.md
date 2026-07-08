@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021051714
 wayback_snapshot_url: "http://web.archive.org/web/20191021051714/https://cfi.co/middleeast/2013/06/un-management-of-natural-resources-for-a-peaceful-afghanistan/"
+license: CFI-OAAL-1.0
 content_sha256: 6c0d6a2a613c4652ac17d57dbbcc06910f8d7fcce05f6e52191d89e4156d6ec0
 canonical: 4441-un-management-of-natural-resources-for-a-peaceful-afghanistan.json
 ---
