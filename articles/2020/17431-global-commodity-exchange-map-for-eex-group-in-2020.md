@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210226103309
 wayback_snapshot_url: "http://web.archive.org/web/20210226103309/https://cfi.co/menu/corporate/2020/01/global-commodity-exchange-map-for-eex-group-in-2020/"
+license: CFI-OAAL-1.0
 content_sha256: db54b0ff717f3038dab7cd5e9c8b2e4329da9f4c8487ae17da1416b27c26e77f
 canonical: 17431-global-commodity-exchange-map-for-eex-group-in-2020.json
 ---
