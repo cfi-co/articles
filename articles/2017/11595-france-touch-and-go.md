@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170624223734
 wayback_snapshot_url: "http://web.archive.org/web/20170624223734/http://cfi.co/europe/2017/05/france-touch-and-go/"
+license: CFI-OAAL-1.0
 content_sha256: 92e3b67493daa203c20505ec4f715c439384372dff282f03df7ddf96334c083c
 canonical: 11595-france-touch-and-go.json
 ---
