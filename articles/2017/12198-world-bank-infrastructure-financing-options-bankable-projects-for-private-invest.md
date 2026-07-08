@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20171129214939
 wayback_snapshot_url: "http://web.archive.org/web/20171129214939/http://cfi.co/finance/2017/11/world-bank-infrastructure-financing-options-bankable-projects-for-private-investors/"
+license: CFI-OAAL-1.0
 content_sha256: aca28134855c147c2955ecf1bd931bd8ddd776c36e37b8b350d8f5c2a970aab2
 canonical: 12198-world-bank-infrastructure-financing-options-bankable-projects-for-private-invest.json
 ---
