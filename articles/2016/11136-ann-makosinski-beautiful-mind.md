@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228101346
 wayback_snapshot_url: "http://web.archive.org/web/20210228101346/https://cfi.co/editors-picks/2016/04/ann-makosinski-beautiful-mind/"
+license: CFI-OAAL-1.0
 content_sha256: 3f49cedfc6b0a11d6a1cf0b7f45753074b53b7268f14639953e67ac4a28bf205
 canonical: 11136-ann-makosinski-beautiful-mind.json
 ---
