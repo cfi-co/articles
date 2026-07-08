@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210114124546
 wayback_snapshot_url: "http://web.archive.org/web/20210114124546/https://cfi.co/finance/2021/01/qa-with-ovais-shabab-head-of-financial-services-at-kpmg-investing-in-people-creating-jobs-inventing-strategies-its-a-world-of-possibilities-for-kpmg-network/"
+license: CFI-OAAL-1.0
 content_sha256: a6204c34fb020d385190b6afe9c95199c623ab9ec227b5fac02a70c083898b3e
 canonical: 18429-qa-with-ovais-shabab-head-of-financial-services-at-kpmg-investing-in-people-crea.json
 ---
