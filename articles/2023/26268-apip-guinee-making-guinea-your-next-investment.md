@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225154743
 wayback_snapshot_url: "http://web.archive.org/web/20240225154743/https://cfi.co/africa/2023/10/apip-guinee-making-guinea-your-next-investment/"
+license: CFI-OAAL-1.0
 content_sha256: 2c11c10dd69d945c4cb8c0f2e83537221a65edea5e9afa39a9d3a01ffb9c8dbe
 canonical: 26268-apip-guinee-making-guinea-your-next-investment.json
 ---
