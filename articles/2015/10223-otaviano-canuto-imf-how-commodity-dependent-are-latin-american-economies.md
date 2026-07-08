@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724023906
 wayback_snapshot_url: "http://web.archive.org/web/20190724023906/https://cfi.co/banking/2015/08/otaviano-canuto-imf-how-commodity-dependent-are-latin-american-economies/"
+license: CFI-OAAL-1.0
 content_sha256: ed939db072bd4d19cec3e2e0e8a7b2be73a001dbb6acd18db2abaa67d6531ab6
 canonical: 10223-otaviano-canuto-imf-how-commodity-dependent-are-latin-american-economies.json
 ---
