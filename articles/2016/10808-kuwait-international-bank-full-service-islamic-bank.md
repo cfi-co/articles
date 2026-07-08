@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422023111
 wayback_snapshot_url: "http://web.archive.org/web/20210422023111/https://cfi.co/menu/corporate/2016/01/kuwait-international-bank-full-service-islamic-bank/"
+license: CFI-OAAL-1.0
 content_sha256: fc21b0d91938a9baba4fd0226297752c6a12df2e446182f8d99aee12e211428b
 canonical: 10808-kuwait-international-bank-full-service-islamic-bank.json
 ---
