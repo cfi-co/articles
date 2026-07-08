@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191119062315
 wayback_snapshot_url: "http://web.archive.org/web/20191119062315/https://cfi.co/middleeast/2019/10/digitalisation-and-4ir-in-mena-augmented-intelligence-from-data-and-self-learning/"
+license: CFI-OAAL-1.0
 content_sha256: 1466d074df25141448b7a1e588048f502b3450f64a8d7fcf22c8788a28d9f7e2
 canonical: 14325-digitalisation-and-4ir-in-mena-augmented-intelligence-from-data-and-self-learnin.json
 ---
