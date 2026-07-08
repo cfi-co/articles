@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230927155606
 wayback_snapshot_url: "http://web.archive.org/web/20230927155606/https://cfi.co/europe/2023/09/behind-schedule-and-running-out-of-ideas-germany-is-on-track-for-a-homegrown-infrastructure-crisis/"
+license: CFI-OAAL-1.0
 content_sha256: f4b2b5331a4b7b71233897f448852eb4b76d8b97b48f5fa4714edc55ceebcee3
 canonical: 26105-behind-schedule-and-running-out-of-ideas-germany-is-on-track-for-a-homegrown-inf.json
 ---
