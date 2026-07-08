@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210825185203
 wayback_snapshot_url: "http://web.archive.org/web/20210825185203/https://cfi.co/asia-pacific/2021/08/chinas-renminbi-needs-convertibility-to-internationalise/"
+license: CFI-OAAL-1.0
 content_sha256: b40a516c82ac94aa8fe99e37ac60ccdfee5bf100ec2dcef597e13eece8c0a49e
 canonical: 20505-chinas-renminbi-needs-convertibility-to-internationalise.json
 ---
