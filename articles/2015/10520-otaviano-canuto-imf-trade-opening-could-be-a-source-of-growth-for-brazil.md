@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20151015180621
 wayback_snapshot_url: "http://web.archive.org/web/20151015180621/http://cfi.co/finance/2015/10/otaviano-canuto-imf-trade-opening-could-be-a-source-of-growth-for-brazil/"
+license: CFI-OAAL-1.0
 content_sha256: c4a9038ec8f0141196ab3a6f6a74ade3229b4bf2abd7c695853b4a85e4245126
 canonical: 10520-otaviano-canuto-imf-trade-opening-could-be-a-source-of-growth-for-brazil.json
 ---
