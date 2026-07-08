@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327061237
 wayback_snapshot_url: "http://web.archive.org/web/20140327061237/http://cfi.co/europe/2013/11/dame-zaha-mohammed-hadid-never-an-understatement-design-rooted-in-nature/"
+license: CFI-OAAL-1.0
 content_sha256: 3a1ed45a2fb9768454cd2699fa2dfc13d113a6fb3b987b6c69617cb8498820e7
 canonical: 6142-dame-zaha-mohammed-hadid-never-an-understatement-design-rooted-in-nature.json
 ---
