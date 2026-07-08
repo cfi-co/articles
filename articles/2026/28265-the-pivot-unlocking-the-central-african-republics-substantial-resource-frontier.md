@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260315114256
 wayback_snapshot_url: "http://web.archive.org/web/20260315114256/https://cfi.co/africa/2026/02/the-pivot-unlocking-the-central-african-republics-substantial-resource-frontier/"
+license: CFI-OAAL-1.0
 content_sha256: 95020fe0fa15086595ca9b27c4fa7564248b07434fba6723ae41f1d0e9a244d5
 canonical: 28265-the-pivot-unlocking-the-central-african-republics-substantial-resource-frontier.json
 ---
