@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225142146
 wayback_snapshot_url: "http://web.archive.org/web/20240225142146/https://cfi.co/asia-pacific/2024/02/co-ordinates-co-ordination-action/"
+license: CFI-OAAL-1.0
 content_sha256: bd774e6321dfdce2e565938de4621e18c164754bc2274b9d08fdffd20d685ab6
 canonical: 26659-co-ordinates-co-ordination-action.json
 ---
