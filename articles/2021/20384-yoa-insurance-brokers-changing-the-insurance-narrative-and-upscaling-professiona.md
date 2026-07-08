@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625232444
 wayback_snapshot_url: "http://web.archive.org/web/20220625232444/https://cfi.co/menu/corporate/2021/08/yoa-insurance-brokers-changing-the-insurance-narrative-and-upscaling-professionalism/"
+license: CFI-OAAL-1.0
 content_sha256: 8973f0d00007924521376c7f94ad806b0c0daa0475ff54bfc86daa7dd51ca4ad
 canonical: 20384-yoa-insurance-brokers-changing-the-insurance-narrative-and-upscaling-professiona.json
 ---
