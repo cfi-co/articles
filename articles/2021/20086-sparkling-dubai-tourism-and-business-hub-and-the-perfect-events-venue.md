@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724021259
 wayback_snapshot_url: "http://web.archive.org/web/20210724021259/https://cfi.co/menu/events/2021/01/sparkling-dubai-tourism-and-business-hub-and-the-perfect-events-venue/"
+license: CFI-OAAL-1.0
 content_sha256: 54c1319253cbb66988904ee00a8dbcbdb1d26def19eb04e5a514321509528f4a
 canonical: 20086-sparkling-dubai-tourism-and-business-hub-and-the-perfect-events-venue.json
 ---
