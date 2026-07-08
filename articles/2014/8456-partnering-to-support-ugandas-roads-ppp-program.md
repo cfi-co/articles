@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190722120640
 wayback_snapshot_url: "http://web.archive.org/web/20190722120640/https://cfi.co/africa/2014/11/partnering-to-support-ugandas-roads-ppp-program/"
+license: CFI-OAAL-1.0
 content_sha256: 517126f9f60e4031a80600905b313dcc7bf147e904c6381a5b03be9da0492109
 canonical: 8456-partnering-to-support-ugandas-roads-ppp-program.json
 ---
