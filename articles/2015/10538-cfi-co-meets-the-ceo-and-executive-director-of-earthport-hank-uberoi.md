@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825094136
 wayback_snapshot_url: "http://web.archive.org/web/20190825094136/https://cfi.co/corporate-leaders/2015/09/cfi-co-meets-the-ceo-and-executive-director-of-earthport-hank-uberoi/"
+license: CFI-OAAL-1.0
 content_sha256: ae7c75503c0af69534ccdb319ddec8dbd05494fc0e328503751e210f74ff1afd
 canonical: 10538-cfi-co-meets-the-ceo-and-executive-director-of-earthport-hank-uberoi.json
 ---
