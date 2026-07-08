@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827151817
 wayback_snapshot_url: "http://web.archive.org/web/20140827151817/http://cfi.co/europe/2013/10/hildegunn-kyvik-nordas-why-do-countries-regulate-differently-and-how-does-it-affect-trade/"
+license: CFI-OAAL-1.0
 content_sha256: 218e95342b670e4ffaa095cccc252121e9322e13bf4c45ea18dd52dd9561c783
 canonical: 5567-hildegunn-kyvik-nordas-why-do-countries-regulate-differently-and-how-does-it-aff.json
 ---
