@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210115150538
 wayback_snapshot_url: "http://web.archive.org/web/20210115150538/https://cfi.co/corporate-leaders/2020/11/founder-executive-chairman-of-fli-global-michael-flynn-on-the-esg-front-line-with-a-solid-set-of-values/"
+license: CFI-OAAL-1.0
 content_sha256: c83e003667e7804cc9a8b455c31058045ba1fd75646a55677bcde46152f67b94
 canonical: 18077-founder-executive-chairman-of-fli-global-michael-flynn-on-the-esg-front-line-wit.json
 ---
