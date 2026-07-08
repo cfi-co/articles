@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210412160510
 wayback_snapshot_url: "http://web.archive.org/web/20210412160510/https://cfi.co/banking/2021/04/kpmg-lower-gulf-what-should-banks-focus-on/"
+license: CFI-OAAL-1.0
 content_sha256: 49b296a07bad9c141a5bf2b15ce3d53ad99c0cdc5541206d1695e8e527d4ab4f
 canonical: 19510-kpmg-lower-gulf-what-should-banks-focus-on.json
 ---
