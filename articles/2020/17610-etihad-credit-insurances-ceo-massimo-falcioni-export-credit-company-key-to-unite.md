@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210130123358
 wayback_snapshot_url: "http://web.archive.org/web/20210130123358/https://cfi.co/middleeast/2020/10/etihad-credit-insurances-ceo-massimo-falcioni-export-credit-company-key-to-united-arab-emirates-resilience/"
+license: CFI-OAAL-1.0
 content_sha256: c01888d7df307b6f09a7497d161f99d96fd8cfabd22dab26c90358729a84dc61
 canonical: 17610-etihad-credit-insurances-ceo-massimo-falcioni-export-credit-company-key-to-unite.json
 ---
