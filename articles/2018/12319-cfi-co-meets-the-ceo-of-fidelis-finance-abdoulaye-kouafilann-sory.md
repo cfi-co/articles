@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721110520
 wayback_snapshot_url: "http://web.archive.org/web/20190721110520/https://cfi.co/corporate-leaders/2018/05/cfi-co-meets-the-ceo-of-fidelis-finance-abdoulaye-kouafilann-sory/"
+license: CFI-OAAL-1.0
 content_sha256: cd5ba9e90018ef1496ed7c0fa6c9d791c865c4efc277e3d3bdfef80eb27046ab
 canonical: 12319-cfi-co-meets-the-ceo-of-fidelis-finance-abdoulaye-kouafilann-sory.json
 ---
