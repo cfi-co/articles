@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240806194022
 wayback_snapshot_url: "http://web.archive.org/web/20240806194022/https://cfi.co/sustainability/2024/07/norvestor-leading-the-charge-in-sustainable-private-equity-transformation/"
+license: CFI-OAAL-1.0
 content_sha256: 6545c1f77860c60a971f96198dde96a9c42747dfef0d3553bc072933346fe85b
 canonical: 26932-norvestor-leading-the-charge-in-sustainable-private-equity-transformation.json
 ---
