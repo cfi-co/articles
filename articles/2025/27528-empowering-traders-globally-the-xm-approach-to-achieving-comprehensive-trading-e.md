@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250129094303
 wayback_snapshot_url: "http://web.archive.org/web/20250129094303/https://cfi.co/europe/2025/01/empowering-traders-globally-the-xm-approach-to-achieving-comprehensive-trading-excellence/"
+license: CFI-OAAL-1.0
 content_sha256: 07c88bfc023b1642cb0c9e9758d6421c5ffd10e98551bc3b588b72a1650c8737
 canonical: 27528-empowering-traders-globally-the-xm-approach-to-achieving-comprehensive-trading-e.json
 ---
