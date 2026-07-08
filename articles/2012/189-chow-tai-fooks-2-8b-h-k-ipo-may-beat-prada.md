@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818135934
 wayback_snapshot_url: "http://web.archive.org/web/20190818135934/https://cfi.co/asia-pacific/2012/03/chow-tai-fooks-2-8b-h-k-ipo-may-beat-prada/"
+license: CFI-OAAL-1.0
 content_sha256: 85a3b501660a951bc28a2c3df9152c9d6d98bd2955ed9c6e7df4afeb0742c286
 canonical: 189-chow-tai-fooks-2-8b-h-k-ipo-may-beat-prada.json
 ---
