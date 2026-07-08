@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20171003223408
 wayback_snapshot_url: "http://web.archive.org/web/20171003223408/http://cfi.co/corporate-leaders/2016/01/cfi-co-meets-akerton-partners-the-experience-and-knowhow-to-make-a-difference/"
+license: CFI-OAAL-1.0
 content_sha256: d78c4a9e7691a8d63c8c4f95355d59b201d1a4de482dce98f4a818b3993eb31c
 canonical: 10927-cfi-co-meets-akerton-partners-the-experience-and-knowhow-to-make-a-difference.json
 ---
