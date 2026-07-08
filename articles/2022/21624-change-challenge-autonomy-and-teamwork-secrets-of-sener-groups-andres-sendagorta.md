@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625235536
 wayback_snapshot_url: "http://web.archive.org/web/20220625235536/https://cfi.co/menu/corporate/2022/03/change-challenge-autonomy-and-teamwork-secrets-of-sener-groups-andres-sendagorta/"
+license: CFI-OAAL-1.0
 content_sha256: c2d60932af6840af6984056cd5bbafc9aad2c2292955cd37eb05bab3402adcda
 canonical: 21624-change-challenge-autonomy-and-teamwork-secrets-of-sener-groups-andres-sendagorta.json
 ---
