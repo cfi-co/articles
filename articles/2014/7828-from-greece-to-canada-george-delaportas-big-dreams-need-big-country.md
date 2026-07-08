@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20141003113226
 wayback_snapshot_url: "http://web.archive.org/web/20141003113226/http://cfi.co/europe/2014/08/from-greece-to-canada-george-delaportas-big-dreams-need-big-country/"
+license: CFI-OAAL-1.0
 content_sha256: 8be29bd9b3f8355c3aa13c68fdb188d04b5e5eabfa580c1e5708ecb9d2998b3c
 canonical: 7828-from-greece-to-canada-george-delaportas-big-dreams-need-big-country.json
 ---
