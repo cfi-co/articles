@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916043650
 wayback_snapshot_url: "http://web.archive.org/web/20190916043650/https://cfi.co/africa/2012/01/big-banks-cure-or-curse-for-the-global-economy/"
+license: CFI-OAAL-1.0
 content_sha256: 9a2e9a9c883e63f0e71c6a9e66af89282dcd7f23a17775405ddf55968df85b92
 canonical: 313-big-banks-cure-or-curse-for-the-global-economy.json
 ---
