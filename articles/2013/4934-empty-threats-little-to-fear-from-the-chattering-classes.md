@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021051445
 wayback_snapshot_url: "http://web.archive.org/web/20191021051445/https://cfi.co/middleeast/2013/08/empty-threats-little-to-fear-from-the-chattering-classes/"
+license: CFI-OAAL-1.0
 content_sha256: abb14dacfb34641dc38197b1a5a5967a065bbb2c042afcb54f1836c3d8d57703
 canonical: 4934-empty-threats-little-to-fear-from-the-chattering-classes.json
 ---
