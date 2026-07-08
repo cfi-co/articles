@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230731183920
 wayback_snapshot_url: "http://web.archive.org/web/20230731183920/https://cfi.co/brave-new-world/2023/07/trusting-ai-in-international-trade-the-road-to-failure-or-the-future/"
+license: CFI-OAAL-1.0
 content_sha256: 95d08e5f43228eac311908b14c14f9b1814119f2763c3858bcad6f073ca949a4
 canonical: 25849-trusting-ai-in-international-trade-the-road-to-failure-or-the-future.json
 ---
