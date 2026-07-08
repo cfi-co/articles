@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916043936
 wayback_snapshot_url: "http://web.archive.org/web/20190916043936/https://cfi.co/europe/2015/01/uk-economic-growth-beyond-the-glitter/"
+license: CFI-OAAL-1.0
 content_sha256: b79e503aec86c5b5e0a51ab89abae1c686be4a89af9557f34aaff5d94109d1d4
 canonical: 8719-uk-economic-growth-beyond-the-glitter.json
 ---
