@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210226101145
 wayback_snapshot_url: "http://web.archive.org/web/20210226101145/https://cfi.co/editors-picks/2015/01/stephen-heintz-getting-the-rockefellers-out-of-oil/"
+license: CFI-OAAL-1.0
 content_sha256: 5db843f6892da571750ed33e75262239689e268cd4e0c2f91860bb1aff37ce9d
 canonical: 8833-stephen-heintz-getting-the-rockefellers-out-of-oil.json
 ---
