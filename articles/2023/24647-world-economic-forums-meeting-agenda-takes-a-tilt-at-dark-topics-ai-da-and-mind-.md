@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230120074036
 wayback_snapshot_url: "http://web.archive.org/web/20230120074036/https://cfi.co/brave-new-world/2023/01/world-economic-forums-meeting-agenda-takes-a-tilt-at-dark-topics-ai-da-and-mind-control/"
+license: CFI-OAAL-1.0
 content_sha256: 56fb3456d43174b58f15fa63bb5e3f10eafa91f5feb80f975c4bc31a2818275c
 canonical: 24647-world-economic-forums-meeting-agenda-takes-a-tilt-at-dark-topics-ai-da-and-mind-.json
 ---
