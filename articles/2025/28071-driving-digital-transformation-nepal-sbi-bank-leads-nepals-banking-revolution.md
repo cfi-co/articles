@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251205232623
 wayback_snapshot_url: "http://web.archive.org/web/20251205232623/https://cfi.co/banking/2025/11/driving-digital-transformation-nepal-sbi-bank-leads-nepals-banking-revolution/"
+license: CFI-OAAL-1.0
 content_sha256: 9694e978e7a4b8ef20fffa594b22f27397294b94fcac0117abc70e12e3f1d68f
 canonical: 28071-driving-digital-transformation-nepal-sbi-bank-leads-nepals-banking-revolution.json
 ---
