@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140705144801
 wayback_snapshot_url: "http://web.archive.org/web/20140705144801/http://cfi.co/finance/2014/05/saudi-arabias-capital-market-foreign-investors-told-not-just-yet/"
+license: CFI-OAAL-1.0
 content_sha256: c9e039d3ae4cd46440a9ee246a42bbf47f05f245a3ec89d1b95a81b946a4daa7
 canonical: 7165-saudi-arabias-capital-market-foreign-investors-told-not-just-yet.json
 ---
