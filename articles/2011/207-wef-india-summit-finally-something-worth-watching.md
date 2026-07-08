@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191119062108
 wayback_snapshot_url: "http://web.archive.org/web/20191119062108/https://cfi.co/asia-pacific/2011/11/wef-india-summit-finally-something-worth-watching/"
+license: CFI-OAAL-1.0
 content_sha256: 57ba60faebac3eb927c4a62e6436dd7c7fe8bdd3a5fb3dda8c1ff5c8df2ec807
 canonical: 207-wef-india-summit-finally-something-worth-watching.json
 ---
