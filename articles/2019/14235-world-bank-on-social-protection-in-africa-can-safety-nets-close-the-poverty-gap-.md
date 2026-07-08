@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191119063504
 wayback_snapshot_url: "http://web.archive.org/web/20191119063504/https://cfi.co/africa/2019/10/world-bank-on-social-protection-in-africa-can-safety-nets-close-the-poverty-gap-in-burkina-faso-and-ensure-family-welfare/"
+license: CFI-OAAL-1.0
 content_sha256: 45060db58b53d931584c2d10a865400227eefae7c2a58a0041d2a28bb06d8394
 canonical: 14235-world-bank-on-social-protection-in-africa-can-safety-nets-close-the-poverty-gap-.json
 ---
