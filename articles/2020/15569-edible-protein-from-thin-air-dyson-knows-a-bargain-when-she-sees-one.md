@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200626103403
 wayback_snapshot_url: "http://web.archive.org/web/20200626103403/https://cfi.co/europe/2020/06/edible-protein-from-thin-air-dyson-knows-a-bargain-when-she-sees-one/"
+license: CFI-OAAL-1.0
 content_sha256: 273c2969b8d382d9875f150e24e5cc5fbda6385c0382800eca4c2ff2f71d0dd4
 canonical: 15569-edible-protein-from-thin-air-dyson-knows-a-bargain-when-she-sees-one.json
 ---
