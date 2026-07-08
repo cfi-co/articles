@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132458
 wayback_snapshot_url: "http://web.archive.org/web/20190818132458/https://cfi.co/africa/2012/06/baker-mckenzie-continues-to-expand-its-global-reach/"
+license: CFI-OAAL-1.0
 content_sha256: 76783be9fb3e7f5909a3b2ea2b7c8739126652c78e90f54b4cfe2a88592106a2
 canonical: 789-baker-mckenzie-continues-to-expand-its-global-reach.json
 ---
