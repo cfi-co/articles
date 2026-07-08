@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191114024432
 wayback_snapshot_url: "http://web.archive.org/web/20191114024432/https://cfi.co/sustainability/2016/04/ann-low-us-department-state-good-corporate-governance-good-business/"
+license: CFI-OAAL-1.0
 content_sha256: fde9f23c71eaf3268c8d2bcc80cb448238fff039956cea693b430a468b693132
 canonical: 11107-ann-low-us-department-state-good-corporate-governance-good-business.json
 ---
