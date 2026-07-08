@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240420140041
 wayback_snapshot_url: "http://web.archive.org/web/20240420140041/https://cfi.co/finance/2024/03/defining-client-expectations-and-quietly-exceeding-them-is-the-xm-philosophy-thats-proving-a-winner/"
+license: CFI-OAAL-1.0
 content_sha256: 63e9c7e5c7601150cbbebd3a7b1b174341bc85aaf3a2a5045f81a719b157301d
 canonical: 26730-defining-client-expectations-and-quietly-exceeding-them-is-the-xm-philosophy-tha.json
 ---
