@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228092602
 wayback_snapshot_url: "http://web.archive.org/web/20210228092602/https://cfi.co/menu/corporate/2020/01/sg-finans-as-financing-green-revolution-to-keep-the-world-turning/"
+license: CFI-OAAL-1.0
 content_sha256: 7d009272f98c7ce86e28e8fe7ea30cbd3581a79abcde57bdf5c8a586d501200b
 canonical: 17402-sg-finans-as-financing-green-revolution-to-keep-the-world-turning.json
 ---
