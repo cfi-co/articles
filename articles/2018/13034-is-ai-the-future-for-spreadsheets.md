@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720033205
 wayback_snapshot_url: "http://web.archive.org/web/20190720033205/https://cfi.co/europe/2018/10/is-ai-the-future-for-spreadsheets/"
+license: CFI-OAAL-1.0
 content_sha256: 81782e2696b22dc1bf679899e7ea3335f1d428bc12639fe926bae8dec484fcee
 canonical: 13034-is-ai-the-future-for-spreadsheets.json
 ---
