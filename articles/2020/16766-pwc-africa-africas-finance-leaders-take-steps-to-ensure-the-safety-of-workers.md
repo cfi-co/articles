@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200918130718
 wayback_snapshot_url: "http://web.archive.org/web/20200918130718/https://cfi.co/africa/2020/08/pwc-africa-africas-finance-leaders-take-steps-to-ensure-the-safety-of-workers/"
+license: CFI-OAAL-1.0
 content_sha256: 65f076b54e6af7788029fbadb2604efe3c327ea7a3c2dd7ada4071c260ccfb0a
 canonical: 16766-pwc-africa-africas-finance-leaders-take-steps-to-ensure-the-safety-of-workers.json
 ---
