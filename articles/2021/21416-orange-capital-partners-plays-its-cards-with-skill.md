@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230208113621
 wayback_snapshot_url: "http://web.archive.org/web/20230208113621/https://cfi.co/menu/corporate/2021/12/orange-capital-partners-plays-its-cards-with-skill/"
+license: CFI-OAAL-1.0
 content_sha256: 012aaca6437245ed5e473b6b6ececff5d45dec04695c0b548a6d97a5dd4abf06
 canonical: 21416-orange-capital-partners-plays-its-cards-with-skill.json
 ---
