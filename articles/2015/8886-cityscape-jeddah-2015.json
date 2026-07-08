@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20180705065644",
-        "wayback_snapshot_url": "http://web.archive.org/web/20180705065644/http://cfi.co/middleeast/2015/02/cityscape-jeddah-2015/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20180705065644/http://cfi.co/middleeast/2015/02/cityscape-jeddah-2015/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>Cityscape Jeddah 2015, the Jeddah Urban Development and Real Estate Investment Event, will give you the best view into the region’s largest real estate market, as well as providing you with an unrivalled opportunity to network with the largest gathering of real estate stakeholders in Saudi Arabia and beyond.</strong></p>\r\n[gallery columns=\"5\" ids=\"8892,8893\"]\r\n<p style=\"text-align: justify;\">Taking place on 5-7 April 2015 at the Jeddah Centre for Forums &amp; Events, Cityscape Jeddah will include a number of features; the largest Real Estate Exhibition in Saudi Arabia; the Jeddah Real Estate Workshops, involving discussions on strategies for real estate growth and investment in Jeddah; and the Cityscape Awards for Real Estate in Saudi Arabia, celebrating those companies that have excelled in the Saudi Real Estate sector.</p>\r\n<p style=\"text-align: justify;\">[iframe src=\"http://www.youtube.com/embed/GwF_R2sL9A0\" width=\"100%\" height=\"480\"]</p>\r\n<p style=\"text-align: justify;\">Cityscape Jeddah is Saudi Arabia’s most established show with an expected attendance of more than 9,000 visitors and over 70 exhibitors. Complete event details are available at <a href=\"http://www.cityscapejeddah.com\" target=\"_blank\" rel=\"noopener\">ww.cityscapejeddah.com</a>.</p>\r\n<a href=\"http://www.cityscapejeddah.com/en/Forms/VisitorPre-RegistrationForm/?utm_source=Free%20Media%20Partner&amp;utm_medium=Event%20Listing&amp;utm_campaign=CapitalFinance_event_listing\" target=\"_blank\" rel=\"noopener\">Click here to register</a>.",
     "content_sha256": "59e3705d966d5052f59c711050a8667394a25bedc3cd16b542e2f84d02c2bc13",
-    "record_sha256": "d9de40d793fb854f5112b0dc481857587be0323bc97c21710376b39e8974b732"
+    "record_sha256": "d4068d205edbdf4ec8c2d40cabe646ec9e9f4b53af1da82c9450b2fc91a5b115"
 }

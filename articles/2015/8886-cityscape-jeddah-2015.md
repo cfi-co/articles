@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180705065644
 wayback_snapshot_url: "http://web.archive.org/web/20180705065644/http://cfi.co/middleeast/2015/02/cityscape-jeddah-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 59e3705d966d5052f59c711050a8667394a25bedc3cd16b542e2f84d02c2bc13
 canonical: 8886-cityscape-jeddah-2015.json
 ---
