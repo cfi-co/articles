@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724085743
 wayback_snapshot_url: "http://web.archive.org/web/20190724085743/https://cfi.co/corporate-leaders/2017/10/cfi-co-meets-the-co-founding-partner-and-md-of-ioannides-demetriou-llc-pambos-ioannides/"
+license: CFI-OAAL-1.0
 content_sha256: 6754558e4a2cca2a1b4e1b50c24198ecc5d4352b65567a2cf62aabc46b3ce5f7
 canonical: 11941-cfi-co-meets-the-co-founding-partner-and-md-of-ioannides-demetriou-llc-pambos-io.json
 ---
