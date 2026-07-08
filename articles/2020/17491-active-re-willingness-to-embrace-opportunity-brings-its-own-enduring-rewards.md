@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210226100640
 wayback_snapshot_url: "http://web.archive.org/web/20210226100640/https://cfi.co/corporate-leaders/2020/01/active-re-willingness-to-embrace-opportunity-brings-its-own-enduring-rewards/"
+license: CFI-OAAL-1.0
 content_sha256: 4ea71d2e2f4c3555d5ee0f5c4a73a12cc96532d5379b4fa6a1208ac2d47951d7
 canonical: 17491-active-re-willingness-to-embrace-opportunity-brings-its-own-enduring-rewards.json
 ---
