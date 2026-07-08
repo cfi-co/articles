@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625235933
 wayback_snapshot_url: "http://web.archive.org/web/20220625235933/https://cfi.co/menu/corporate/2021/10/gnb-ga-change-challenge-and-reward-portuguese-firm-takes-teamwork-to-a-whole-new-level/"
+license: CFI-OAAL-1.0
 content_sha256: 1b4b3c472daf1fb4fa897be6a868b5dc6c3df85693086b0eabb3743e060cec63
 canonical: 20802-gnb-ga-change-challenge-and-reward-portuguese-firm-takes-teamwork-to-a-whole-new.json
 ---
