@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200511150006
 wayback_snapshot_url: "http://web.archive.org/web/20200511150006/https://cfi.co/projects/2020/02/unog-on-perception-change-project-pcp-what-does-the-pcp-do-for-sdgs/"
+license: CFI-OAAL-1.0
 content_sha256: 826b2b4c513ee97445ee1302202732c2d22386b0ab1af80698afa6ed2dd0dcec
 canonical: 14627-unog-on-perception-change-project-pcp-what-does-the-pcp-do-for-sdgs.json
 ---
