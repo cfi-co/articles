@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220813150222
 wayback_snapshot_url: "http://web.archive.org/web/20220813150222/https://cfi.co/menu/corporate/2022/08/mutual-benefits-scottish-friendly-puts-its-money-where-its-heart-is/"
+license: CFI-OAAL-1.0
 content_sha256: ac1befb27ca6f31f834d72b34586e4088f34be56c41cf37ab75319ac394d6886
 canonical: 23017-mutual-benefits-scottish-friendly-puts-its-money-where-its-heart-is.json
 ---
