@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200519032843
 wayback_snapshot_url: "http://web.archive.org/web/20200519032843/https://cfi.co/finance/2020/05/isid-mcgill-university-updating-the-dfis-operating-models-to-achieve-the-un-2030-sdg-agenda/"
+license: CFI-OAAL-1.0
 content_sha256: 27dadd4028b41de4c05578eebf1d9b33fde6fb62acfd9e5228818ecb0312c370
 canonical: 15332-isid-mcgill-university-updating-the-dfis-operating-models-to-achieve-the-un-2030.json
 ---
