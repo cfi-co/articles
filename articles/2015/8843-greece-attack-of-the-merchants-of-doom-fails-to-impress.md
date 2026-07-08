@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180708163959
 wayback_snapshot_url: "http://web.archive.org/web/20180708163959/http://cfi.co/banking/2015/01/greece-attack-of-the-merchants-of-doom-fails-to-impress/"
+license: CFI-OAAL-1.0
 content_sha256: e6a98851a5c1918e7678cadd67a4c018dc3ee020cd056b14c6464852903328ed
 canonical: 8843-greece-attack-of-the-merchants-of-doom-fails-to-impress.json
 ---
