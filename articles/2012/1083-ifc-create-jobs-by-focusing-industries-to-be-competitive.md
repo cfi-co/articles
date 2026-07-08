@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050937
 wayback_snapshot_url: "http://web.archive.org/web/20190818050937/https://cfi.co/africa/2012/07/ifc-create-jobs-by-focusing-industries-to-be-competitive/"
+license: CFI-OAAL-1.0
 content_sha256: 501e350839c208255f1f480ccc020a1f18f3fdf6d2c86a8dabe526e98992aa0c
 canonical: 1083-ifc-create-jobs-by-focusing-industries-to-be-competitive.json
 ---
