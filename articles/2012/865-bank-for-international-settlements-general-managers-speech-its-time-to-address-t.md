@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818140245
 wayback_snapshot_url: "http://web.archive.org/web/20190818140245/https://cfi.co/banking/2012/06/bank-for-international-settlements-general-managers-speech-its-time-to-address-the-root-causes/"
+license: CFI-OAAL-1.0
 content_sha256: eedc2fab908dbe30a0dd233f588db2f52bea9d1317e501ca7209cb642320996c
 canonical: 865-bank-for-international-settlements-general-managers-speech-its-time-to-address-t.json
 ---
