@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823052932
 wayback_snapshot_url: "http://web.archive.org/web/20190823052932/https://cfi.co/editors-picks/2013/04/gillard-under-pressure-unfairly-so/"
+license: CFI-OAAL-1.0
 content_sha256: aaa049e16f1c73ac3f512c0fa74c65fb7f314259ebb0ebe52d8ea773afa6ead4
 canonical: 3596-gillard-under-pressure-unfairly-so.json
 ---
