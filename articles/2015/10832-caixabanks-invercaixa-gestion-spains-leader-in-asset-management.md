@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422024059
 wayback_snapshot_url: "http://web.archive.org/web/20210422024059/https://cfi.co/menu/corporate/2015/04/caixabanks-invercaixa-gestion-spains-leader-in-asset-management/"
+license: CFI-OAAL-1.0
 content_sha256: 28ca29137c004d15f4e9aa2f35152f7d141d8ed8d0836fe33f390d5f672c39ed
 canonical: 10832-caixabanks-invercaixa-gestion-spains-leader-in-asset-management.json
 ---
