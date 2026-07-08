@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250124122908
 wayback_snapshot_url: "http://web.archive.org/web/20250124122908/https://cfi.co/northamerica/2024/12/north-americas-bold-new-frontier-silicon-valleys-impact-and-beyond/"
+license: CFI-OAAL-1.0
 content_sha256: b597c3973754cc2c117db5e24af1bc9497c67b7adc1a106f7e0ae67d8128ba3c
 canonical: 27357-north-americas-bold-new-frontier-silicon-valleys-impact-and-beyond.json
 ---
