@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200921030300
 wayback_snapshot_url: "http://web.archive.org/web/20200921030300/https://cfi.co/menu/corporate/2019/10/wey-education-wey-to-go-education-group-has-interests-of-students-at-heart/"
+license: CFI-OAAL-1.0
 content_sha256: 7f79e71ae5deb429f264fa263963693d394874727677876706453e83f43d51a4
 canonical: 16085-wey-education-wey-to-go-education-group-has-interests-of-students-at-heart.json
 ---
