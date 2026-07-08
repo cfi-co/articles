@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200702161154
 wayback_snapshot_url: "http://web.archive.org/web/20200702161154/https://cfi.co/middleeast/2020/05/smart-city-prince-a-prince-with-a-mission-a-vision/"
+license: CFI-OAAL-1.0
 content_sha256: 132daf00378a98d4ed61a1958c729b19736dead429be081f250c449b78b06e51
 canonical: 15960-smart-city-prince-a-prince-with-a-mission-a-vision.json
 ---
