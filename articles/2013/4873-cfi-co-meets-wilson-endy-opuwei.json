@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140327085618",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140327085618/http://cfi.co/africa/2013/07/cfi-co-meets-wilson-endy-opuwei/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140327085618/http://cfi.co/africa/2013/07/cfi-co-meets-wilson-endy-opuwei/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"alignright size-full wp-image-4874\" alt=\"Wilson Endy OPUWEI\" src=\"https://cfi.co/wp-content/uploads/2013/08/Wilson-Endy-OPUWEI.jpg\" width=\"250\" height=\"193\" />Wilson Endy Opuwei is an oil and gas entrepreneur with business interests in exploration and production, manufacturing, power and marine sectors, as a player in the global industry marketplace, Wilson has midwifed multi-currency boardroom transactions, even as he contributes to human capacity development and resource management.</strong></p>\r\n<p style=\"text-align: justify;\">With a background in international oil and gas law, this intellectually minded gentleman provides advisory services to multi-national corporations as well as governments. He has introduced strategies and policies towards the advancement of industry operations and regulatory frameworks.</p>\r\n<p style=\"text-align: justify;\">A recipient of many awards as well as member of professional organizations, Wilson is currently the executive Vice Chairman/CEO of Dateline Energy Services Group, whilst on the board of notable local and international companies.</p>\r\n<p style=\"text-align: justify;\">Wilson hails from Bayelsa State of Nigeria, married with 4 children, loves golfing and an ardent believer in Project Nigeria.</p>",
     "content_sha256": "6d9abfcd3dd47c5eeb7ca786cde18a9e900478b9f86cfcd7ee2d3f322ac5f1a5",
-    "record_sha256": "4e2f18e9206773d5a7859f2d2968e4f33d2c1b4fe363938e26c50224dba4718c"
+    "record_sha256": "6e2ff3b5640aa1fa5dbd8ffdf2c5827858775c15943685c2ce60c2670d723d44"
 }

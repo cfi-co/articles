@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327085618
 wayback_snapshot_url: "http://web.archive.org/web/20140327085618/http://cfi.co/africa/2013/07/cfi-co-meets-wilson-endy-opuwei/"
+license: CFI-OAAL-1.0
 content_sha256: 6d9abfcd3dd47c5eeb7ca786cde18a9e900478b9f86cfcd7ee2d3f322ac5f1a5
 canonical: 4873-cfi-co-meets-wilson-endy-opuwei.json
 ---
