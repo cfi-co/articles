@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721110833
 wayback_snapshot_url: "http://web.archive.org/web/20190721110833/https://cfi.co/northamerica/2013/08/sheri-mccoy-the-avon-lady/"
+license: CFI-OAAL-1.0
 content_sha256: 73dbae555de644c4775da6ae03284a368de37de49c7538c32905d90caf544c65
 canonical: 4894-sheri-mccoy-the-avon-lady.json
 ---
