@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241112194625
 wayback_snapshot_url: "http://web.archive.org/web/20241112194625/https://cfi.co/asia-pacific/2024/10/asia-pacifics-innovation-boom-technological-titans-are-emerging/"
+license: CFI-OAAL-1.0
 content_sha256: 1f187cd41b7bff7045850eb876e2096bfe3128df73f2eaebc7f965a5c33e404b
 canonical: 27188-asia-pacifics-innovation-boom-technological-titans-are-emerging.json
 ---
