@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132306
 wayback_snapshot_url: "http://web.archive.org/web/20190818132306/https://cfi.co/middleeast/2013/07/investor-confidence-in-dubai-real-estate-sets-tone-for-big-year-at-mid-easts-largest-property-show/"
+license: CFI-OAAL-1.0
 content_sha256: 5d43c3616319228e998fda87641a7488ed515694d2d853539e730638f71e545c
 canonical: 4625-investor-confidence-in-dubai-real-estate-sets-tone-for-big-year-at-mid-easts-lar.json
 ---
