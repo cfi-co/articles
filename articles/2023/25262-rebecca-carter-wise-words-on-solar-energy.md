@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230519055921
 wayback_snapshot_url: "http://web.archive.org/web/20230519055921/https://cfi.co/menu/corporate/2023/05/rebecca-carter-wise-words-on-solar-energy/"
+license: CFI-OAAL-1.0
 content_sha256: 3b152f7b7a62fcdf7f9623c2c721fb4c387bca4b0d08dd1a2cb2e3ede0d94a05
 canonical: 25262-rebecca-carter-wise-words-on-solar-energy.json
 ---
