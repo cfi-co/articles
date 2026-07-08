@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201210145200
 wayback_snapshot_url: "http://web.archive.org/web/20201210145200/https://cfi.co/africa/2020/12/thirdway-africa-thinking-anew-about-alternatives-and-innovations-for-investment-in-africa/"
+license: CFI-OAAL-1.0
 content_sha256: 99dff13818fb09069d786c2c5c0153e545d4bd45112705b0ae482faa8dccab2e
 canonical: 18262-thirdway-africa-thinking-anew-about-alternatives-and-innovations-for-investment-.json
 ---
