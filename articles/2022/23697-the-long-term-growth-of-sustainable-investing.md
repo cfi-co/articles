@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221111144921
 wayback_snapshot_url: "http://web.archive.org/web/20221111144921/https://cfi.co/sustainability/2022/10/the-long-term-growth-of-sustainable-investing/"
+license: CFI-OAAL-1.0
 content_sha256: 94a8e398f6070cedbc65c2a9816e161f87c745d64285812c20cc3dce0aa67002
 canonical: 23697-the-long-term-growth-of-sustainable-investing.json
 ---
