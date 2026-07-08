@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200424125148
 wayback_snapshot_url: "http://web.archive.org/web/20200424125148/https://cfi.co/finance/2020/02/evan-harvey-nasdaq-sdg-awareness-and-action-a-report-from-the-global-exchange-community/"
+license: CFI-OAAL-1.0
 content_sha256: 240d2d38a639460d1fc1286aa0b3cf176e293e279dc880745d675437f347c066
 canonical: 14605-evan-harvey-nasdaq-sdg-awareness-and-action-a-report-from-the-global-exchange-co.json
 ---
