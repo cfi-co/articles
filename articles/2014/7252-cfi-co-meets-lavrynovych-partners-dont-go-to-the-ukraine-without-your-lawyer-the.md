@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826163343
 wayback_snapshot_url: "http://web.archive.org/web/20140826163343/http://cfi.co/europe/2014/01/cfi-co-meets-lavrynovych-partners-dont-go-to-the-ukraine-without-your-lawyer-the-protection-of-business/"
+license: CFI-OAAL-1.0
 content_sha256: 35b83aad05ee538a737a9ca7d849b68746aaa61361df71a540654dcc8036c319
 canonical: 7252-cfi-co-meets-lavrynovych-partners-dont-go-to-the-ukraine-without-your-lawyer-the.json
 ---
