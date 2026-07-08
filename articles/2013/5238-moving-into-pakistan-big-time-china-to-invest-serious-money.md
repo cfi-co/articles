@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050657
 wayback_snapshot_url: "http://web.archive.org/web/20190818050657/https://cfi.co/asia-pacific/2013/09/moving-into-pakistan-big-time-china-to-invest-serious-money/"
+license: CFI-OAAL-1.0
 content_sha256: 492be0f7db0974b5578ddf77ffc2c7646037190ae54124476547c804a8064ca4
 canonical: 5238-moving-into-pakistan-big-time-china-to-invest-serious-money.json
 ---
