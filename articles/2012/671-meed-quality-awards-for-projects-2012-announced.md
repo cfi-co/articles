@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818053103
 wayback_snapshot_url: "http://web.archive.org/web/20190818053103/https://cfi.co/middleeast/2012/05/meed-quality-awards-for-projects-2012-announced/"
+license: CFI-OAAL-1.0
 content_sha256: 4264ecbd10a21136b440d3c86ac3581216d6b984f002814f764df58607a36124
 canonical: 671-meed-quality-awards-for-projects-2012-announced.json
 ---
