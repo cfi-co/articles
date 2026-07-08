@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240105120708
 wayback_snapshot_url: "http://web.archive.org/web/20240105120708/https://cfi.co/europe/2023/12/philip-engel-carlsson-true-passion-is-a-prerequisite-for-success/"
+license: CFI-OAAL-1.0
 content_sha256: a8cf2941cab6354038706bce997980eb48490b034bf4b780e98c76a4edb44229
 canonical: 26522-philip-engel-carlsson-true-passion-is-a-prerequisite-for-success.json
 ---
