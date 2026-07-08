@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190723005756",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190723005756/https://cfi.co/awards/africa/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190723005756/https://cfi.co/awards/africa/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>Responsibility is at the heart of Old Mutual’s  success over the past 165 years and the CFI.co judging panel is impressed  to see that core value has been translated into the community work of this financial group.</strong></p>\r\n<p style=\"text-align: justify;\">The panel feels that the way Old Mutual has used this core value of the business stands out as an example to others across the word. Many companies have extensive community engagement programmes but what sets Old Mutual apart is the way the company delivers directly through its business. By effectively leveraging the group’s key strengths the impact goes far further than the value of money spent. Old Mutual has perfected this approach over the years and stands out as an example of what can be achieved for the benefit of communities by combining responsibility and keen intelligence.</p>",
     "content_sha256": "b9053aa8e95c66aee30774250a78166a7d87acb773b2f1e207c429ecbde715ef",
-    "record_sha256": "31ee056f8e45e4662947a18b715f774f022fec98795e6c991dd115ad79cba6e9"
+    "record_sha256": "539dcbacecaeb87081582f3d8de31ccffb44f029e907ba0715e5f1a8c2b553ae"
 }
