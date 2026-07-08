@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140209010502
 wayback_snapshot_url: "http://web.archive.org/web/20140209010502/http://cfi.co/banking/2013/12/otaviano-canuto-world-bank-group-walking-on-the-wild-side-monetary-policy-and-prudential-regulation/"
+license: CFI-OAAL-1.0
 content_sha256: 4886c0a923de6a39e95917c4c0d8943fd26bb854651f666fe46396e653d67af6
 canonical: 6247-otaviano-canuto-world-bank-group-walking-on-the-wild-side-monetary-policy-and-pr.json
 ---
