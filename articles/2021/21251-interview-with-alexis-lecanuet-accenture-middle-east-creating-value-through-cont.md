@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211202062959
 wayback_snapshot_url: "http://web.archive.org/web/20211202062959/https://cfi.co/middleeast/2021/12/interview-with-alexis-lecanuet-accenture-middle-east-creating-value-through-continuous-transformation/"
+license: CFI-OAAL-1.0
 content_sha256: ce2e7bb33f0913c219d3408f0f709e768029ba1b41cff0aabbcb347910a86960
 canonical: 21251-interview-with-alexis-lecanuet-accenture-middle-east-creating-value-through-cont.json
 ---
