@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140704191401
 wayback_snapshot_url: "http://web.archive.org/web/20140704191401/http://cfi.co/europe/2013/11/a-crowded-room-with-barry-sternlicht-and-kent-swig-new-financing-for-real-estate/"
+license: CFI-OAAL-1.0
 content_sha256: c19a71e1f50152f0e8985cfecdfdfa9f76101e0f2bbae9274d1419e26c30b53f
 canonical: 6099-a-crowded-room-with-barry-sternlicht-and-kent-swig-new-financing-for-real-estate.json
 ---
