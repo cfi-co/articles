@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050033
 wayback_snapshot_url: "http://web.archive.org/web/20190818050033/https://cfi.co/technology/2018/09/the-current-crypto-bear-market-the-future-of-blockchain-asset-backed-token-abt-icos/"
+license: CFI-OAAL-1.0
 content_sha256: d662bbf4d71d5e1c6fa35054dbb8abe8bf6648211ab93496898679f9da79d753
 canonical: 12896-the-current-crypto-bear-market-the-future-of-blockchain-asset-backed-token-abt-i.json
 ---
