@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825094152
 wayback_snapshot_url: "http://web.archive.org/web/20190825094152/https://cfi.co/africa/2014/10/sustainable-stock-exchanges-the-relevance-of-green-indices/"
+license: CFI-OAAL-1.0
 content_sha256: 5b226fe17ac3dfb0aeb49ef1dcac93d3155331cd3f3c7ad4831e2cf3e65a9715
 canonical: 8202-sustainable-stock-exchanges-the-relevance-of-green-indices.json
 ---
