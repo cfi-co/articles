@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327052027
 wayback_snapshot_url: "http://web.archive.org/web/20140327052027/http://cfi.co/lifestyle/2013/03/higher-growth-when-more-women-work/"
+license: CFI-OAAL-1.0
 content_sha256: 27d166cce03b82b4ff8b57882644ddada0c9de4652e91c262bf8e90084eae364
 canonical: 3248-higher-growth-when-more-women-work.json
 ---
