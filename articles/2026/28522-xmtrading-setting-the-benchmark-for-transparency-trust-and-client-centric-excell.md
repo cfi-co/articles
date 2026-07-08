@@ -19,6 +19,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260611041756
 wayback_snapshot_url: "http://web.archive.org/web/20260611041756/https://cfi.co/asia-pacific/2026/06/xmtrading-setting-the-benchmark-for-transparency-trust-and-client-centric-excellence/"
+license: CFI-OAAL-1.0
 content_sha256: 19acb10968d8ae2188f59367c54305f95a9e66e1949647c30eb5f625a4c3ea36
 canonical: 28522-xmtrading-setting-the-benchmark-for-transparency-trust-and-client-centric-excell.json
 ---
