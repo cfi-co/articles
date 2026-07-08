@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810083142
 wayback_snapshot_url: "http://web.archive.org/web/20200810083142/https://cfi.co/menu/corporate/2020/07/etihad-engineering-one-stop-provider-for-aircraft-maintenance-and-engineering-consistently-delivering-excellence/"
+license: CFI-OAAL-1.0
 content_sha256: 7edb89d3479468da1df2c7ac7f949efd97c7fc44f2c09b7c6af5da297cf505e8
 canonical: 16125-etihad-engineering-one-stop-provider-for-aircraft-maintenance-and-engineering-co.json
 ---
