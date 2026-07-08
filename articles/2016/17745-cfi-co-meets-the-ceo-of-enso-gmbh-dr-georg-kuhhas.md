@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228102403
 wayback_snapshot_url: "http://web.archive.org/web/20210228102403/https://cfi.co/corporate-leaders/2016/04/cfi-co-meets-the-ceo-of-enso-gmbh-dr-georg-kuhhas/"
+license: CFI-OAAL-1.0
 content_sha256: 87d3fa1527be01321100009bc2f23da3a9524fe021856a4d02175c082017567e
 canonical: 17745-cfi-co-meets-the-ceo-of-enso-gmbh-dr-georg-kuhhas.json
 ---
