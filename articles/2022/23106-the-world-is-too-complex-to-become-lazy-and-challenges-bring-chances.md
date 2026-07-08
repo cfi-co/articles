@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221111144952
 wayback_snapshot_url: "http://web.archive.org/web/20221111144952/https://cfi.co/menu/corporate/2022/11/the-world-is-too-complex-to-become-lazy-and-challenges-bring-chances/"
+license: CFI-OAAL-1.0
 content_sha256: ad753600390e9ba672ff944448e93e36f08ae71f09053b596c712299c08edf0f
 canonical: 23106-the-world-is-too-complex-to-become-lazy-and-challenges-bring-chances.json
 ---
