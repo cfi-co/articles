@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818053347
 wayback_snapshot_url: "http://web.archive.org/web/20190818053347/https://cfi.co/editors-picks/2019/01/andres-manuel-lopez-obrador-the-remaking-of-mexico/"
+license: CFI-OAAL-1.0
 content_sha256: 5d82ba1669f5db4f78a835119c5aa5c42476ba3a407432dd8afea00eed82099a
 canonical: 13354-andres-manuel-lopez-obrador-the-remaking-of-mexico.json
 ---
