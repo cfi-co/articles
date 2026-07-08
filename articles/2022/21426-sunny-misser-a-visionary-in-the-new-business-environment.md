@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220113155951
 wayback_snapshot_url: "http://web.archive.org/web/20220113155951/https://cfi.co/menu/corporate/2022/01/sunny-misser-a-visionary-in-the-new-business-environment/"
+license: CFI-OAAL-1.0
 content_sha256: deb7ba2493368370f4777f62d98380bd387ea8083cf662f8255b48bf46d557a3
 canonical: 21426-sunny-misser-a-visionary-in-the-new-business-environment.json
 ---
