@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625224112
 wayback_snapshot_url: "http://web.archive.org/web/20220625224112/https://cfi.co/menu/corporate/2021/08/psp-places-responsible-investment-at-the-core-of-its-investment-strategy/"
+license: CFI-OAAL-1.0
 content_sha256: bfabc3b1ec490a4ee22929270f7de7b41ad4057cc2a68955540ff6100db92595
 canonical: 20361-psp-places-responsible-investment-at-the-core-of-its-investment-strategy.json
 ---
