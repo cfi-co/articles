@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210226095745
 wayback_snapshot_url: "http://web.archive.org/web/20210226095745/https://cfi.co/menu/corporate/2020/01/banco-finca-ecuador-everything-is-possible-with-small-is-beautiful-model-from-finca/"
+license: CFI-OAAL-1.0
 content_sha256: de4521ff8c994c9f4350186e2d24ee8d4da7ac39b70d5104e740ef9055917ff8
 canonical: 17482-banco-finca-ecuador-everything-is-possible-with-small-is-beautiful-model-from-fi.json
 ---
