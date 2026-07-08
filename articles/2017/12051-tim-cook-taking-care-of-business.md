@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180417022502
 wayback_snapshot_url: "http://web.archive.org/web/20180417022502/http://cfi.co/editors-picks/2017/10/tim-cook-taking-care-of-business/"
+license: CFI-OAAL-1.0
 content_sha256: 07cbaefbfb220706af5845f479a58d705c34330239f9e4015845cab550ea70aa
 canonical: 12051-tim-cook-taking-care-of-business.json
 ---
