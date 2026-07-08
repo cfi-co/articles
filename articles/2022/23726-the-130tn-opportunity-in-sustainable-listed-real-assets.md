@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221026091908
 wayback_snapshot_url: "http://web.archive.org/web/20221026091908/https://cfi.co/europe/2022/10/the-130tn-opportunity-in-sustainable-listed-real-assets/"
+license: CFI-OAAL-1.0
 content_sha256: 6befda035860be9ae1013469fc780bc6ad9edeb8b922eba9f441a8a224a46f8a
 canonical: 23726-the-130tn-opportunity-in-sustainable-listed-real-assets.json
 ---
