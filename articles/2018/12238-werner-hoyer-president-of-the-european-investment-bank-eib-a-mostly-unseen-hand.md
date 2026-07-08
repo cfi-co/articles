@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190623205349
 wayback_snapshot_url: "http://web.archive.org/web/20190623205349/https://cfi.co/banking/2018/01/werner-hoyer-president-of-the-european-investment-bank-eib-a-mostly-unseen-hand/"
+license: CFI-OAAL-1.0
 content_sha256: 1495fd340c4bb111227211fc35ba1ecdbac802d76574877d2a15364d19ba2a4f
 canonical: 12238-werner-hoyer-president-of-the-european-investment-bank-eib-a-mostly-unseen-hand.json
 ---
