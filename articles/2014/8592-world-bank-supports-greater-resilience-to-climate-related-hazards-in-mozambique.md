@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014230909
 wayback_snapshot_url: "http://web.archive.org/web/20191014230909/https://cfi.co/africa/2014/12/world-bank-supports-greater-resilience-to-climate-related-hazards-in-mozambique/"
+license: CFI-OAAL-1.0
 content_sha256: 864198f6e739a3f31ac551393ffd47415bdec72a4105545e9f89f29b5cd66998
 canonical: 8592-world-bank-supports-greater-resilience-to-climate-related-hazards-in-mozambique.json
 ---
