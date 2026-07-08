@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014232241
 wayback_snapshot_url: "http://web.archive.org/web/20191014232241/https://cfi.co/africa/2013/06/wto-and-aid-for-trade-connecting-to-value-chains/"
+license: CFI-OAAL-1.0
 content_sha256: d5c7bd8c1fb17880a2c4a892ae8629c7619edd918ca69c3d64bdd1595bc0f93b
 canonical: 4330-wto-and-aid-for-trade-connecting-to-value-chains.json
 ---
