@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241004123438
 wayback_snapshot_url: "http://web.archive.org/web/20241004123438/https://cfi.co/asia-pacific/2024/10/exploring-indias-rapid-economic-growth/"
+license: CFI-OAAL-1.0
 content_sha256: af19cf9dceef758d345803c2490b4d84b569962881b96adec3dbbf52c58d9b79
 canonical: 27178-exploring-indias-rapid-economic-growth.json
 ---
