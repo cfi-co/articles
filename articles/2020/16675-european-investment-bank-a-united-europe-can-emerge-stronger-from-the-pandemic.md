@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920101342
 wayback_snapshot_url: "http://web.archive.org/web/20200920101342/https://cfi.co/europe/2020/08/european-investment-bank-a-united-europe-can-emerge-stronger-from-the-pandemic/"
+license: CFI-OAAL-1.0
 content_sha256: a10c078072559f6412af307ad17d29942a5c506d0497ee13f7b34090df973620
 canonical: 16675-european-investment-bank-a-united-europe-can-emerge-stronger-from-the-pandemic.json
 ---
