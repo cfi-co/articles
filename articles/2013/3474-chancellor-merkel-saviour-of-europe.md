@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050420
 wayback_snapshot_url: "http://web.archive.org/web/20190823050420/https://cfi.co/europe/2013/04/chancellor-merkel-saviour-of-europe/"
+license: CFI-OAAL-1.0
 content_sha256: d502ada599668b9713302ab0d08d7cf7f5c405d0c3ff304b607419f6629dad37
 canonical: 3474-chancellor-merkel-saviour-of-europe.json
 ---
