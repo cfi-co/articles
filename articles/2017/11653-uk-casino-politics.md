@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717210052
 wayback_snapshot_url: "http://web.archive.org/web/20190717210052/https://cfi.co/europe/2017/06/uk-casino-politics/"
+license: CFI-OAAL-1.0
 content_sha256: a91e0fe7771a8089a9bfe3efedac448f014edaed90b352571dfdac0105531f07
 canonical: 11653-uk-casino-politics.json
 ---
