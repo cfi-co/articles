@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150204024318
 wayback_snapshot_url: "http://web.archive.org/web/20150204024318/http://cfi.co/africa/2014/09/liquidity-glut-infrastructure-finance-drought-and-development-banks/"
+license: CFI-OAAL-1.0
 content_sha256: 9a41d59e5c829474ec8a1e0d40ca43f7b7771d42c40d748581249d09d775702f
 canonical: 8045-liquidity-glut-infrastructure-finance-drought-and-development-banks.json
 ---
