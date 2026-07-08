@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825100617
 wayback_snapshot_url: "http://web.archive.org/web/20190825100617/https://cfi.co/corporate-leaders/2018/01/cfi-co-meets-the-director-general-of-wafacash-samira-khamlichi/"
+license: CFI-OAAL-1.0
 content_sha256: 46411dd35d2c5ec61d69c64006f05baf5adf5faeb7e19797e073b5bf0071ec63
 canonical: 12254-cfi-co-meets-the-director-general-of-wafacash-samira-khamlichi.json
 ---
