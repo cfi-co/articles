@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200806013713
 wayback_snapshot_url: "http://web.archive.org/web/20200806013713/https://cfi.co/c-19/2020/05/business-in-times-of-corona/"
+license: CFI-OAAL-1.0
 content_sha256: 80249c1cfe84994942f4fc1d8cefcd906e9afe6755d12de2cee525131a3fcc5d
 canonical: 15436-business-in-times-of-corona.json
 ---
