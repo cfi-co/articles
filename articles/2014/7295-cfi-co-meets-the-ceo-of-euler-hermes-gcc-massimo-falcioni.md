@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827152941
 wayback_snapshot_url: "http://web.archive.org/web/20140827152941/http://cfi.co/middleeast/2014/01/cfi-co-meets-the-ceo-of-euler-hermes-gcc-massimo-falcioni/"
+license: CFI-OAAL-1.0
 content_sha256: fb2756d00817d1a190f5cda75f4a9ea7c511deb2893b507ef9005e4d4c49a589
 canonical: 7295-cfi-co-meets-the-ceo-of-euler-hermes-gcc-massimo-falcioni.json
 ---
