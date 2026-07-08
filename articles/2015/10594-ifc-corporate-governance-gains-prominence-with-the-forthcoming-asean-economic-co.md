@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170919022632
 wayback_snapshot_url: "http://web.archive.org/web/20170919022632/http://cfi.co/asia-pacific/2015/10/ifc-corporate-governance-gains-prominence-with-the-forthcoming-asean-economic-community/"
+license: CFI-OAAL-1.0
 content_sha256: dcd8bd3f4ee6e886b35d5f68782eb8b5ff830294072c7b53a76c8d848a0026c8
 canonical: 10594-ifc-corporate-governance-gains-prominence-with-the-forthcoming-asean-economic-co.json
 ---
