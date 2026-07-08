@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180210060021
 wayback_snapshot_url: "http://web.archive.org/web/20180210060021/http://cfi.co/banking/2015/02/ross-jackson-nero-politics-meet-limits-to-growth/"
+license: CFI-OAAL-1.0
 content_sha256: d1aa95a4283948e9559b3b4292497956b19103f397312b59c6c898ef3ee384c7
 canonical: 9124-ross-jackson-nero-politics-meet-limits-to-growth.json
 ---
