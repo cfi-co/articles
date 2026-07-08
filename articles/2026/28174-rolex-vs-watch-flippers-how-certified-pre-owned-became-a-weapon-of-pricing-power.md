@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260106020329
 wayback_snapshot_url: "http://web.archive.org/web/20260106020329/https://cfi.co/europe/2026/01/rolex-vs-watch-flippers-how-certified-pre-owned-became-a-weapon-of-pricing-power/"
+license: CFI-OAAL-1.0
 content_sha256: 709718b365ba4afbfdda5ac065af7d99e391666a9689ce552695599a093012f2
 canonical: 28174-rolex-vs-watch-flippers-how-certified-pre-owned-became-a-weapon-of-pricing-power.json
 ---
