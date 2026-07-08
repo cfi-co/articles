@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140825052225
 wayback_snapshot_url: "http://web.archive.org/web/20140825052225/http://cfi.co/banking/2013/01/phased-time-table-for-liquidity-coverage-ratio/"
+license: CFI-OAAL-1.0
 content_sha256: 5eeaf5176ce4f1c2f825f868f822804b95fcf5026e3f4d647dc2a53c1d520d0b
 canonical: 2875-phased-time-table-for-liquidity-coverage-ratio.json
 ---
