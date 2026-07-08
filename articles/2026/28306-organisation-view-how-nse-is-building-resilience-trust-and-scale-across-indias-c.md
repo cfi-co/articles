@@ -19,6 +19,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523043511
 wayback_snapshot_url: "http://web.archive.org/web/20260523043511/https://cfi.co/finance/2026/02/nses-resilience-blueprint-scale-trust-and-sustainable-market-growth"
+license: CFI-OAAL-1.0
 content_sha256: 3e7bc6cfa82ba13aa4a0a5ecb2054314f570cc686336943c1dca98ea548e485c
 canonical: 28306-organisation-view-how-nse-is-building-resilience-trust-and-scale-across-indias-c.json
 ---
