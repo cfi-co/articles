@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050025
 wayback_snapshot_url: "http://web.archive.org/web/20190823050025/https://cfi.co/latinamerica/2014/08/gabriel-garcia-marquez-1927-2014-a-farewell-to-the-patriarch-of-literature/"
+license: CFI-OAAL-1.0
 content_sha256: d9cc5b62ebbac5fb8e3fae2d383d7f25193379d082f198b09560c651d4c55db1
 canonical: 7798-gabriel-garcia-marquez-1927-2014-a-farewell-to-the-patriarch-of-literature.json
 ---
