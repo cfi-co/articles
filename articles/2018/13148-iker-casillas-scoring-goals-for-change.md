@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200626100007
 wayback_snapshot_url: "http://web.archive.org/web/20200626100007/https://cfi.co/editors-picks/2018/06/iker-casillas-scoring-goals-for-change/"
+license: CFI-OAAL-1.0
 content_sha256: 179698001f4514f7ba537b1653c07d0c3d490c8e8b131160cd818c6e12329819
 canonical: 13148-iker-casillas-scoring-goals-for-change.json
 ---
