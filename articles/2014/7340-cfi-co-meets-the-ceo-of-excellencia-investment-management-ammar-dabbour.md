@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140705181157
 wayback_snapshot_url: "http://web.archive.org/web/20140705181157/http://cfi.co/middleeast/2014/03/cfi-co-meets-the-ceo-of-excellencia-investment-management-ammar-dabbour/"
+license: CFI-OAAL-1.0
 content_sha256: 8ed47cd7642cf423f7945eb7b9c4cab46e0f41b586ef6243a6ff466a51c31fb8
 canonical: 7340-cfi-co-meets-the-ceo-of-excellencia-investment-management-ammar-dabbour.json
 ---
