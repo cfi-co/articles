@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021052743
 wayback_snapshot_url: "http://web.archive.org/web/20191021052743/https://cfi.co/finance/2013/06/lagarde-on-the-prerequisites-for-a-strong-global-economy/"
+license: CFI-OAAL-1.0
 content_sha256: 6a44bf1cff5d46a27cc7c375f0bbc026193857f40b6136e713d4be9bf216ac3f
 canonical: 4431-lagarde-on-the-prerequisites-for-a-strong-global-economy.json
 ---
