@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818051024
 wayback_snapshot_url: "http://web.archive.org/web/20190818051024/https://cfi.co/banking/2014/07/cfi-co-meets-the-vice-president-of-global-trust-andreas-thanos/"
+license: CFI-OAAL-1.0
 content_sha256: bc0f42d9b8fb334917b1a2500c7e0b7f14eec25cbf182795e31a56ff8cf90af9
 canonical: 7874-cfi-co-meets-the-vice-president-of-global-trust-andreas-thanos.json
 ---
