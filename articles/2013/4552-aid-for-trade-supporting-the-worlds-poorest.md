@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826152157
 wayback_snapshot_url: "http://web.archive.org/web/20140826152157/http://cfi.co/africa/2013/07/aid-for-trade-supporting-the-worlds-poorest/"
+license: CFI-OAAL-1.0
 content_sha256: 0a25df13b767c2642dbd015cc8d6e493e84d66ee2d6441a073ce221b6d59df6b
 canonical: 4552-aid-for-trade-supporting-the-worlds-poorest.json
 ---
