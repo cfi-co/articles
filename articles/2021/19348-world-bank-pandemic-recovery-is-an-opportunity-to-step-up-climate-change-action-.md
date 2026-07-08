@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210331082924
 wayback_snapshot_url: "http://web.archive.org/web/20210331082924/https://cfi.co/finance/2021/03/world-bank-pandemic-recovery-is-an-opportunity-to-step-up-climate-change-action-in-europe-and-central-asia/"
+license: CFI-OAAL-1.0
 content_sha256: 6baee19f6cc929cf9487cb6bc45ff8842705ec2a525ad37c8543164be2ed03cb
 canonical: 19348-world-bank-pandemic-recovery-is-an-opportunity-to-step-up-climate-change-action-.json
 ---
