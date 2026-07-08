@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190721114843",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190721114843/https://cfi.co/4673/2017/04/jury-for-aim-2017-ipa-awards-receives-recognition/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190721114843/https://cfi.co/4673/2017/04/jury-for-aim-2017-ipa-awards-receives-recognition/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\">The six esteemed jury members for the AIM 2017’s Investment Promotion Agency (IPA) awards receives recognition for their kind support when the final winners results are presented at the gala ceremony at the Armani hotel at the The Burj Khalifa (in Dubai on April 2<sup>nd</sup>, 2017).</p>\r\n<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-11575\" src=\"https://cfi.co/wp-content/uploads/2017/04/AIM2017.jpg\" alt=\"\" width=\"700\" height=\"420\" /></p>\r\n<p style=\"text-align: justify;\">Mr. Ismail Ersahin, <em>Deputy CEO from WAIPA</em></p>\r\n<p style=\"text-align: justify;\">Mr. Emmanuel Noutary, <em>General Delegate from Anima Investment Network</em></p>\r\n<p style=\"text-align: justify;\">Mr. Andreas Dressler, <em>executive from FDI Advisory</em></p>\r\n<p style=\"text-align: justify;\">Mr. Kai Hammerich, <em>former WAIPA president; now president of KA Foreign Investment Co.</em></p>\r\n<p style=\"text-align: justify;\">Dr. Douglas van den Berghe, <em>CEO of Investment Consulting Associates (ICA)</em></p>",
     "content_sha256": "45bed7fe3bd61cb1bd314c53b3dea7ebcc3e765624b21fdd882de405fc0b6922",
-    "record_sha256": "9c816173a561b6650e5e1928d6d94ee5c22957efcd83c9926b0477a4ddcbb2f9"
+    "record_sha256": "e76486d3e1b349d03948f5166771257dc8bb3627bdee0b5eb4d3aa3842c5b986"
 }
