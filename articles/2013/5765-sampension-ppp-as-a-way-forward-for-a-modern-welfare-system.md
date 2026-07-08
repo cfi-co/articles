@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140328022647
 wayback_snapshot_url: "http://web.archive.org/web/20140328022647/http://cfi.co/europe/2013/11/sampension-ppp-as-a-way-forward-for-a-modern-welfare-system/"
+license: CFI-OAAL-1.0
 content_sha256: f73a778802db966ce70e309616f9096672bfe9a2aeefc324d82575acd80372bc
 canonical: 5765-sampension-ppp-as-a-way-forward-for-a-modern-welfare-system.json
 ---
