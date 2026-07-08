@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220503064935
 wayback_snapshot_url: "http://web.archive.org/web/20220503064935/https://cfi.co/brave-new-world/2022/05/from-bear-to-bull-warren-buffett-casts-a-vote-of-confidence-in-us-stock-market/"
+license: CFI-OAAL-1.0
 content_sha256: 84f7a124f206b1e5cc3f49fff17f3daaaf098350310c0d1b16315e998c74a606
 canonical: 21736-from-bear-to-bull-warren-buffett-casts-a-vote-of-confidence-in-us-stock-market.json
 ---
