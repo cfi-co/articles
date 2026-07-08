@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250407104404
 wayback_snapshot_url: "http://web.archive.org/web/20250407104404/https://cfi.co/finance/2025/04/portobello-capital-driving-growth-and-industry-leadership-in-iberian-private-equity/"
+license: CFI-OAAL-1.0
 content_sha256: 760311fd5fb9d86e4043e2756cc44d0d1d6ac3c73c47d8e4a4afdb5d6ac5deb5
 canonical: 27675-portobello-capital-driving-growth-and-industry-leadership-in-iberian-private-equ.json
 ---
