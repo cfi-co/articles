@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045505
 wayback_snapshot_url: "http://web.archive.org/web/20190823045505/https://cfi.co/asia-pacific/2013/11/grant-thornton-hong-kong-managing-innovative-technologies-clomoso/"
+license: CFI-OAAL-1.0
 content_sha256: cb02ef85f6bc8a4567775a8e783fb86e7c361392a61616f868cce747d22aa4dd
 canonical: 6065-grant-thornton-hong-kong-managing-innovative-technologies-clomoso.json
 ---
