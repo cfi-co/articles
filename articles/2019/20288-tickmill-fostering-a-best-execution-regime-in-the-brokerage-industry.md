@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220528100030
 wayback_snapshot_url: "http://web.archive.org/web/20220528100030/https://cfi.co/menu/corporate/2019/07/tickmill-fostering-a-best-execution-regime-in-the-brokerage-industry/"
+license: CFI-OAAL-1.0
 content_sha256: 40036aafa03aa5029d6e1da7cc6ea21441a1c6a6347eed9360e25e4d2263a792
 canonical: 20288-tickmill-fostering-a-best-execution-regime-in-the-brokerage-industry.json
 ---
