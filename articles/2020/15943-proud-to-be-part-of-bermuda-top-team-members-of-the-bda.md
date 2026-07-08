@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920000714
 wayback_snapshot_url: "http://web.archive.org/web/20200920000714/https://cfi.co/corporate-leaders/2020/07/proud-to-be-part-of-bermuda-top-team-members-of-the-bda/"
+license: CFI-OAAL-1.0
 content_sha256: fa3d8d3e1a03eac72271f637976cc5b9cd4e31c2db34f409a0eb12f12c17f169
 canonical: 15943-proud-to-be-part-of-bermuda-top-team-members-of-the-bda.json
 ---
