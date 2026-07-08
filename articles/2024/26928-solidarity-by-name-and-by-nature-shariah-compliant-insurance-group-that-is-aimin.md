@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241207060958
 wayback_snapshot_url: "http://web.archive.org/web/20241207060958/https://cfi.co/middleeast/2024/07/solidarity-by-name-and-by-nature-shariah-compliant-insurance-group-that-is-aiming-to-be-top-of-the-tree/"
+license: CFI-OAAL-1.0
 content_sha256: 3e04e9efda08b9dc35d64ef512405dc315f234a88f7108c80140732599b93d2c
 canonical: 26928-solidarity-by-name-and-by-nature-shariah-compliant-insurance-group-that-is-aimin.json
 ---
