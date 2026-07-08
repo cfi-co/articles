@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210804161651
 wayback_snapshot_url: "http://web.archive.org/web/20210804161651/https://cfi.co/europe/2021/08/green-bonds-how-active-management-aims-to-make-the-most-of-a-dynamic-sector/"
+license: CFI-OAAL-1.0
 content_sha256: 752cae6023aabd90a766e0ed15b0498cdc8cdcc7e76bbbaa0e1d5c917af927ea
 canonical: 20311-green-bonds-how-active-management-aims-to-make-the-most-of-a-dynamic-sector.json
 ---
