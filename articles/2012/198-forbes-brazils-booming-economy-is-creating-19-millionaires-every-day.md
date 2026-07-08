@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826031808
 wayback_snapshot_url: "http://web.archive.org/web/20140826031808/http://cfi.co/latinamerica/2012/03/forbes-brazils-booming-economy-is-creating-19-millionaires-every-day/"
+license: CFI-OAAL-1.0
 content_sha256: 94036ddaa2ba3d29f60c3799e2996a43e5ae4b60fc3a01eeb7fae7b40f2f3705
 canonical: 198-forbes-brazils-booming-economy-is-creating-19-millionaires-every-day.json
 ---
