@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260315110626
 wayback_snapshot_url: "http://web.archive.org/web/20260315110626/https://cfi.co/featured/2026/03/blackstones-data-centre-push-when-private-capital-opens-the-ai-rails-to-public-investors/"
+license: CFI-OAAL-1.0
 content_sha256: a21095d58b4c19ee6a1945fd130ad5204ffcaeedcac357e78a9f28529b203ef5
 canonical: 28335-blackstones-data-centre-push-when-private-capital-opens-the-ai-rails-to-public-i.json
 ---
