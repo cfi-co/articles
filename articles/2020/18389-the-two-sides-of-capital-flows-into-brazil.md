@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201223114051
 wayback_snapshot_url: "http://web.archive.org/web/20201223114051/https://cfi.co/banking/2020/12/the-two-sides-of-capital-flows-into-brazil/"
+license: CFI-OAAL-1.0
 content_sha256: e6857ef0f71967e9b60916d75c1e756ee24871f62b3df80a64a834521bf5f805
 canonical: 18389-the-two-sides-of-capital-flows-into-brazil.json
 ---
