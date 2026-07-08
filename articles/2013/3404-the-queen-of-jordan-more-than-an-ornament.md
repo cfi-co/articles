@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140827161432
 wayback_snapshot_url: "http://web.archive.org/web/20140827161432/http://cfi.co/editors-picks/2013/03/the-queen-of-jordan-more-than-an-ornament/"
+license: CFI-OAAL-1.0
 content_sha256: b4fc631cdbee76ea6c5f9a4661183b8b2c3f4de2a49c365295e8e1b9709126f0
 canonical: 3404-the-queen-of-jordan-more-than-an-ornament.json
 ---
