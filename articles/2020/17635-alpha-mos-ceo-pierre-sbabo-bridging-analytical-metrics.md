@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418052756
 wayback_snapshot_url: "http://web.archive.org/web/20210418052756/https://cfi.co/corporate-leaders/2020/10/alpha-mos-ceo-pierre-sbabo-bridging-analytical-metrics/"
+license: CFI-OAAL-1.0
 content_sha256: 7a2fc9da6737e471ded265ff9bcb4fb15d5fd5c7c3a782f4bb32d2e5a146a27b
 canonical: 17635-alpha-mos-ceo-pierre-sbabo-bridging-analytical-metrics.json
 ---
