@@ -19,6 +19,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260315120203
 wayback_snapshot_url: "http://web.archive.org/web/20260315120203/https://cfi.co/africa/2026/02/from-penetration-to-inclusion-how-crc-credit-bureau-is-re-engineering-nigerias-credit-ecosystem/"
+license: CFI-OAAL-1.0
 content_sha256: 8fcf52b23859654283f542a39fa3cba3628e9be4754ca0239393227e6de78017
 canonical: 28250-from-penetration-to-inclusion-how-crc-credit-bureau-is-re-engineering-nigerias-c.json
 ---
