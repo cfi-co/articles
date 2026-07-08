@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920010040
 wayback_snapshot_url: "http://web.archive.org/web/20200920010040/https://cfi.co/asia-pacific/2020/09/otaviano-canuto-brazil-south-korea-two-tales-of-climbing-an-income-ladder/"
+license: CFI-OAAL-1.0
 content_sha256: 529157203f28c95e2556d326b81d6b5ea8cc297a250b52ab42c53da4c6c75fa7
 canonical: 16885-otaviano-canuto-brazil-south-korea-two-tales-of-climbing-an-income-ladder.json
 ---
