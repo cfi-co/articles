@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050632
 wayback_snapshot_url: "http://web.archive.org/web/20190818050632/https://cfi.co/finance/2013/08/corruption-as-the-scourge-of-development-the-case-of-venezuela/"
+license: CFI-OAAL-1.0
 content_sha256: 166913ea2c24c1469c55e1d1c5444be9dd03f7ec9fc8f3561c54f455b6bbe374
 canonical: 5000-corruption-as-the-scourge-of-development-the-case-of-venezuela.json
 ---
