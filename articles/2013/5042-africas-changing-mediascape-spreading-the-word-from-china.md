@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050224
 wayback_snapshot_url: "http://web.archive.org/web/20190818050224/https://cfi.co/africa/2013/08/africas-changing-mediascape-spreading-the-word-from-china/"
+license: CFI-OAAL-1.0
 content_sha256: e6421a06576bdf90ed32d20038325970ad88a39206254127c3f4544fba66ee46
 canonical: 5042-africas-changing-mediascape-spreading-the-word-from-china.json
 ---
