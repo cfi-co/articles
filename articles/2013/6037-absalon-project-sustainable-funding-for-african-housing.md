@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327180157
 wayback_snapshot_url: "http://web.archive.org/web/20140327180157/http://cfi.co/africa/2013/11/absalon-project-sustainable-funding-for-african-housing/"
+license: CFI-OAAL-1.0
 content_sha256: 415b894aeef899a2192f261619bd1a6718185d1dc518c8a886533b8e99b5e8ff
 canonical: 6037-absalon-project-sustainable-funding-for-african-housing.json
 ---
