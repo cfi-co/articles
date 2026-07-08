@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200919085359
 wayback_snapshot_url: "http://web.archive.org/web/20200919085359/https://cfi.co/c-19/2020/05/recession-or-depression-nadir-has-passed-recovery-delayed/"
+license: CFI-OAAL-1.0
 content_sha256: da9e5cf506acc347c68bee6f59596a1872e49099da7175874213c92691640bb3
 canonical: 15421-recession-or-depression-nadir-has-passed-recovery-delayed.json
 ---
