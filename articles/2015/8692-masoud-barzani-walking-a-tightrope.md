@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916043837
 wayback_snapshot_url: "http://web.archive.org/web/20190916043837/https://cfi.co/middleeast/2015/01/masoud-barzani-walking-a-tightrope/"
+license: CFI-OAAL-1.0
 content_sha256: 39070292d361328bc089923914c2694564520cf9a246540059749f8a5f875664
 canonical: 8692-masoud-barzani-walking-a-tightrope.json
 ---
