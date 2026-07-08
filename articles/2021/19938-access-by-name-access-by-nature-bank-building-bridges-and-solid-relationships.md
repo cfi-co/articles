@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920115440
 wayback_snapshot_url: "http://web.archive.org/web/20210920115440/https://cfi.co/menu/corporate/2021/07/access-by-name-access-by-nature-bank-building-bridges-and-solid-relationships/"
+license: CFI-OAAL-1.0
 content_sha256: 05da88b468611ebfcc5b261c54640303e1ed7df4316221fb323119f859a4eaf3
 canonical: 19938-access-by-name-access-by-nature-bank-building-bridges-and-solid-relationships.json
 ---
