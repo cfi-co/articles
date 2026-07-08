@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820141838
 wayback_snapshot_url: "http://web.archive.org/web/20190820141838/https://cfi.co/finance/2016/04/otaviano-canuto-imf-happened-world-trade/"
+license: CFI-OAAL-1.0
 content_sha256: 642491effa216037eea8dc783f4144ec4d3be75f7509a51cf551163e40597f27
 canonical: 11164-otaviano-canuto-imf-happened-world-trade.json
 ---
