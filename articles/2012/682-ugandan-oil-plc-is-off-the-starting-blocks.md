@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045737
 wayback_snapshot_url: "http://web.archive.org/web/20190823045737/https://cfi.co/africa/2012/05/ugandan-oil-plc-is-off-the-starting-blocks/"
+license: CFI-OAAL-1.0
 content_sha256: ce67db436ecc51057a74c3acba687f3c5d1639aa43b20eadbac289ea7ecc4a22
 canonical: 682-ugandan-oil-plc-is-off-the-starting-blocks.json
 ---
