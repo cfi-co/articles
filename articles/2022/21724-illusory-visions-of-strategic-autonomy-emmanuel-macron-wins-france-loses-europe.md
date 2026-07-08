@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220425112803
 wayback_snapshot_url: "http://web.archive.org/web/20220425112803/https://cfi.co/brave-new-world/2022/04/illusory-visions-of-strategic-autonomy-emmanuel-macron-wins-france-loses-europe/"
+license: CFI-OAAL-1.0
 content_sha256: e06761c7a2778f30fd582c5a1885f829c0c1291087eafbc153817078dcfd2273
 canonical: 21724-illusory-visions-of-strategic-autonomy-emmanuel-macron-wins-france-loses-europe.json
 ---
