@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625222719
 wayback_snapshot_url: "http://web.archive.org/web/20220625222719/https://cfi.co/menu/corporate/2022/05/fondo-pensione-nazionale-bcc-cra-pioneering-pension-fund-provides-balance-and-choice-for-members/"
+license: CFI-OAAL-1.0
 content_sha256: a037415a2287ba0d566a15610f492d16a000dc107b7ec9b0af78bc6ae9ed168a
 canonical: 21903-fondo-pensione-nazionale-bcc-cra-pioneering-pension-fund-provides-balance-and-ch.json
 ---
