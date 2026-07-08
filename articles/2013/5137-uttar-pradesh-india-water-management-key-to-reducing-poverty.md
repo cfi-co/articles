@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721113335
 wayback_snapshot_url: "http://web.archive.org/web/20190721113335/https://cfi.co/asia-pacific/2013/09/uttar-pradesh-india-water-management-key-to-reducing-poverty/"
+license: CFI-OAAL-1.0
 content_sha256: 8cdfcc1a0496fb4f5467e6eb79953da4a179ad59f46d96d42f8c42bf45fcfcfd
 canonical: 5137-uttar-pradesh-india-water-management-key-to-reducing-poverty.json
 ---
