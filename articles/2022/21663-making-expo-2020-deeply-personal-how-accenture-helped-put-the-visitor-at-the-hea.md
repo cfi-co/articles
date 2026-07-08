@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220325143845
 wayback_snapshot_url: "http://web.archive.org/web/20220325143845/https://cfi.co/menu/events/2022/03/making-expo-2020-deeply-personal-how-accenture-helped-put-the-visitor-at-the-heart-of-the-worlds-greatest-show/"
+license: CFI-OAAL-1.0
 content_sha256: 1dca03b95f4bd3bc9f52ccb8dba10e883374acc7f1393ce69a31cf14ddaa7eb8
 canonical: 21663-making-expo-2020-deeply-personal-how-accenture-helped-put-the-visitor-at-the-hea.json
 ---
