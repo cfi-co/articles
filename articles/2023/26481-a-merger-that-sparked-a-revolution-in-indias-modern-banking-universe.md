@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231207185732
 wayback_snapshot_url: "http://web.archive.org/web/20231207185732/https://cfi.co/banking/2023/11/idfc-first-bank-a-merger-that-sparked-a-revolution-in-indias-modern-banking-universe/"
+license: CFI-OAAL-1.0
 content_sha256: 75382c202473ba57fb7c47f3ed2630c9f76c56012e9196d8025637766ea6cf6b
 canonical: 26481-a-merger-that-sparked-a-revolution-in-indias-modern-banking-universe.json
 ---
