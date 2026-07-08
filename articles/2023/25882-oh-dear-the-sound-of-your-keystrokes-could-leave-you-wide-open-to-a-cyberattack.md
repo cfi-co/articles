@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230814225346
 wayback_snapshot_url: "http://web.archive.org/web/20230814225346/https://cfi.co/brave-new-world/2023/08/oh-dear-the-sound-of-your-keystrokes-could-leave-you-wide-open-to-a-cyberattack/"
+license: CFI-OAAL-1.0
 content_sha256: 93a90a3db48b70989cf506f99a0fb331d27754992e58b12d821e9501324c4461
 canonical: 25882-oh-dear-the-sound-of-your-keystrokes-could-leave-you-wide-open-to-a-cyberattack.json
 ---
