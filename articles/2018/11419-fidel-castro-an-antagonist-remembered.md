@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720033758
 wayback_snapshot_url: "http://web.archive.org/web/20190720033758/https://cfi.co/featured/2018/01/fidel-castro-an-antagonist-remembered/"
+license: CFI-OAAL-1.0
 content_sha256: 226d19c97e4bd5840bd694abd9821d65025f9ca5b60759f909e9fa4d015d8af2
 canonical: 11419-fidel-castro-an-antagonist-remembered.json
 ---
