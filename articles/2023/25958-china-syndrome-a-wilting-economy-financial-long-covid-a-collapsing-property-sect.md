@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923182531
 wayback_snapshot_url: "http://web.archive.org/web/20230923182531/https://cfi.co/asia-pacific/2023/08/china-syndrome-a-wilting-economy-financial-long-covid-a-collapsing-property-sector-and-the-spectre-of-deflation-hovering-nearby/"
+license: CFI-OAAL-1.0
 content_sha256: 7ad52ac8f273cb157a93183ba7f256cadb5aeae30429bf79beea254af988c97e
 canonical: 25958-china-syndrome-a-wilting-economy-financial-long-covid-a-collapsing-property-sect.json
 ---
