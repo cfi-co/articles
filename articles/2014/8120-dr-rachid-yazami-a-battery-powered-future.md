@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825094010
 wayback_snapshot_url: "http://web.archive.org/web/20190825094010/https://cfi.co/middleeast/2014/10/dr-rachid-yazami-a-battery-powered-future/"
+license: CFI-OAAL-1.0
 content_sha256: 4a997c5d18a98b867215c526732ee071de8ee2317709e0324f94b46fc7ad36ec
 canonical: 8120-dr-rachid-yazami-a-battery-powered-future.json
 ---
