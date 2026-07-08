@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230203074232
 wayback_snapshot_url: "http://web.archive.org/web/20230203074232/https://cfi.co/technology/2023/02/oracle-ceo-safra-catz/"
+license: CFI-OAAL-1.0
 content_sha256: 2e5f468861a05251b46f69623bf1163d219d36995f45d4e112108380c31a9a4f
 canonical: 24692-oracle-ceo-safra-catz.json
 ---
