@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021060834
 wayback_snapshot_url: "http://web.archive.org/web/20191021060834/https://cfi.co/editors-picks/2013/08/france-cordova-a-stunning-career-record/"
+license: CFI-OAAL-1.0
 content_sha256: 8d4351316e599977637a4f3d18561047c669e062ffccdc4f0d0aec8fd3467f52
 canonical: 4956-france-cordova-a-stunning-career-record.json
 ---
