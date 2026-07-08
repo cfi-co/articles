@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724090245
 wayback_snapshot_url: "http://web.archive.org/web/20190724090245/https://cfi.co/asia-pacific/2013/03/pm-shinawatra-power-through-the-democratic-process/"
+license: CFI-OAAL-1.0
 content_sha256: f0b8f0194fb5c8a801374e3965ff1951d71786d617bb495bdff743cdc3c24c39
 canonical: 3368-pm-shinawatra-power-through-the-democratic-process.json
 ---
