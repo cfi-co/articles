@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014233628
 wayback_snapshot_url: "http://web.archive.org/web/20191014233628/https://cfi.co/africa/2013/06/cfi-co-meets-naeem-mawji/"
+license: CFI-OAAL-1.0
 content_sha256: bfac8d0a97f6e164dd6c046ac5ade7e191eeea984bde229d51df20b8e7f54eef
 canonical: 4714-cfi-co-meets-naeem-mawji.json
 ---
