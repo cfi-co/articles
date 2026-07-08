@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200921055255
 wayback_snapshot_url: "http://web.archive.org/web/20200921055255/https://cfi.co/c-19/2020/05/private-equity-takes-care-of-its-own/"
+license: CFI-OAAL-1.0
 content_sha256: 4329b33fcbb4203989aaefe2778447e291b5a35c9af4aae269702c45239d7571
 canonical: 15266-private-equity-takes-care-of-its-own.json
 ---
