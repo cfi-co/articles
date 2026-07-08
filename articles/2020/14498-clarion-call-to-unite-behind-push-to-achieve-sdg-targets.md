@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200414102733
 wayback_snapshot_url: "http://web.archive.org/web/20200414102733/https://cfi.co/europe/2020/01/clarion-call-to-unite-behind-push-to-achieve-sdg-targets/"
+license: CFI-OAAL-1.0
 content_sha256: cf2b9708e3911955e21d43b36380b1e1e74af722ff927a5f162030a2f1f9f855
 canonical: 14498-clarion-call-to-unite-behind-push-to-achieve-sdg-targets.json
 ---
