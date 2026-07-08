@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220525121042
 wayback_snapshot_url: "http://web.archive.org/web/20220525121042/https://cfi.co/asia-pacific/2022/05/in-the-face-of-grim-challenges-uzbekistan-forges-ahead-on-privatisation/"
+license: CFI-OAAL-1.0
 content_sha256: 6e53c4d391a19f5b1f6e79e2264ba72c80a3c421b48efa8cad45b6f6081150be
 canonical: 22021-in-the-face-of-grim-challenges-uzbekistan-forges-ahead-on-privatisation.json
 ---
