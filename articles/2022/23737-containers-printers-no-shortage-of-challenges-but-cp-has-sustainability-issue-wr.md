@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203055131
 wayback_snapshot_url: "http://web.archive.org/web/20221203055131/https://cfi.co/menu/corporate/2022/10/containers-printers-no-shortage-of-challenges-but-cp-has-sustainability-issue-wrapped/"
+license: CFI-OAAL-1.0
 content_sha256: b2999acae6ac363edd30d8ad65acf8015aaac050700ed2e5b21d305c75f8c05c
 canonical: 23737-containers-printers-no-shortage-of-challenges-but-cp-has-sustainability-issue-wr.json
 ---
