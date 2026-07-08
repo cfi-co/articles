@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180701165947
 wayback_snapshot_url: "http://web.archive.org/web/20180701165947/http://cfi.co/northamerica/2013/07/braggarts-become-leaders/"
+license: CFI-OAAL-1.0
 content_sha256: 3937f8436af0882c164a631e898390873776153c577181987dff4808ecbe73e6
 canonical: 4513-braggarts-become-leaders.json
 ---
