@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225145429
 wayback_snapshot_url: "http://web.archive.org/web/20240225145429/https://cfi.co/asia-pacific/2023/11/asian-development-bank-optimising-capital-management-to-meet-challenges-of-asia-pacific-development/"
+license: CFI-OAAL-1.0
 content_sha256: 8c8fef1565061cfca61a678955593d1d5a6810edb59ee6574b774cfa300ae1bb
 canonical: 26495-asian-development-bank-optimising-capital-management-to-meet-challenges-of-asia-.json
 ---
