@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720033817
 wayback_snapshot_url: "http://web.archive.org/web/20190720033817/https://cfi.co/corporate-leaders/2018/02/cfi-co-meets-the-cfo-of-heathrow-airport-holdings-javier-echave/"
+license: CFI-OAAL-1.0
 content_sha256: f4807d6bc4caa8183c508fb25df6e70c095e69d1a85a1d87a372650fdba4a241
 canonical: 12302-cfi-co-meets-the-cfo-of-heathrow-airport-holdings-javier-echave.json
 ---
