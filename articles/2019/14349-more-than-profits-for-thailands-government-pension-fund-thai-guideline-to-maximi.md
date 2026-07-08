@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191214232508
 wayback_snapshot_url: "http://web.archive.org/web/20191214232508/https://cfi.co/asia-pacific/2019/11/more-than-profits-for-thailands-government-pension-fund-thai-guideline-to-maximise-returns-and-remain-true-to-spirit-of-responsibility/"
+license: CFI-OAAL-1.0
 content_sha256: 9b035afbfe26a4122ec73641a0a01225ed134638060fc3cc8e9856b48b811958
 canonical: 14349-more-than-profits-for-thailands-government-pension-fund-thai-guideline-to-maximi.json
 ---
