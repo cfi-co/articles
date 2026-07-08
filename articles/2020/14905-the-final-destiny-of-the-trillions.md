@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200525193837
 wayback_snapshot_url: "http://web.archive.org/web/20200525193837/https://cfi.co/c-19/2020/04/the-final-destiny-of-the-trillions/"
+license: CFI-OAAL-1.0
 content_sha256: 22900afaf3fdc72a78411ac64fbe70b51b66d87388326e3c57b11d0455267055
 canonical: 14905-the-final-destiny-of-the-trillions.json
 ---
