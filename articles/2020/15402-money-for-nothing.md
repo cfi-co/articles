@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200922193327
 wayback_snapshot_url: "http://web.archive.org/web/20200922193327/https://cfi.co/c-19/2020/05/money-for-nothing/"
+license: CFI-OAAL-1.0
 content_sha256: f812217764861d01a68a91e449a7bcc8afac4bec21bccc0188e0baa3f9f870e6
 canonical: 15402-money-for-nothing.json
 ---
