@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240619123422
 wayback_snapshot_url: "http://web.archive.org/web/20240619123422/https://cfi.co/asia-pacific/2024/06/asian-development-bank-pathways-to-transform-food-systems-in-asia-pacific-region/"
+license: CFI-OAAL-1.0
 content_sha256: 6b0ab405fbea7186adf03f6d8fa9f38cd0a611bd9b615e9579be1e2b788fab02
 canonical: 26875-asian-development-bank-pathways-to-transform-food-systems-in-asia-pacific-region.json
 ---
