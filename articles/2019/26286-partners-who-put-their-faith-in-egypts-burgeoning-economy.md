@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240623215849
 wayback_snapshot_url: "http://web.archive.org/web/20240623215849/https://cfi.co/africa/2019/05/partners-who-put-their-faith-in-egypts-burgeoning-economy/"
+license: CFI-OAAL-1.0
 content_sha256: f1b3166fe54ad9027beee7efe178634f7bdfd7f57e3b6485d3b5eaeef837bd7f
 canonical: 26286-partners-who-put-their-faith-in-egypts-burgeoning-economy.json
 ---
