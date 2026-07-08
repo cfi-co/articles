@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721110508
 wayback_snapshot_url: "http://web.archive.org/web/20190721110508/https://cfi.co/banking/2019/03/daniele-nouy-getting-tough-with-bankers/"
+license: CFI-OAAL-1.0
 content_sha256: 97ca9f9a180191a04565f15a1a32e0f7427dfa8aa569d65b681b23351ee1c6da
 canonical: 13452-daniele-nouy-getting-tough-with-bankers.json
 ---
