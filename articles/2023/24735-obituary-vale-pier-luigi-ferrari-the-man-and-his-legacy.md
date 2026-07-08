@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230311145529
 wayback_snapshot_url: "http://web.archive.org/web/20230311145529/https://cfi.co/menu/obituaries/2023/02/obituary-vale-pier-luigi-ferrari-the-man-and-his-legacy/"
+license: CFI-OAAL-1.0
 content_sha256: ad32325daae20f06e33af652f47503217e6646c5cddb9e6bc491eb78a0bf2271
 canonical: 24735-obituary-vale-pier-luigi-ferrari-the-man-and-his-legacy.json
 ---
