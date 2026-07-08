@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211107124401
 wayback_snapshot_url: "http://web.archive.org/web/20211107124401/https://cfi.co/menu/corporate/2021/11/containers-printers-sustainability-is-non-negotiable-for-a-packaging-firm-with-a-conscience/"
+license: CFI-OAAL-1.0
 content_sha256: 198a0f64f23182f66f0022840844e6e8c412a994b9a4a00f9692682ba94e2693
 canonical: 20934-containers-printers-sustainability-is-non-negotiable-for-a-packaging-firm-with-a.json
 ---
