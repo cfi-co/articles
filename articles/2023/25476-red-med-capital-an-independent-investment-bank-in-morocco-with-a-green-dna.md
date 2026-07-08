@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230520010827
 wayback_snapshot_url: "http://web.archive.org/web/20230520010827/https://cfi.co/africa/2023/05/red-med-capital-an-independent-investment-bank-in-morocco-with-a-green-dna/"
+license: CFI-OAAL-1.0
 content_sha256: 1750031659ab91102344fe4ad549791caaccb9867ee00a250e27f1cc7ef7e317
 canonical: 25476-red-med-capital-an-independent-investment-bank-in-morocco-with-a-green-dna.json
 ---
