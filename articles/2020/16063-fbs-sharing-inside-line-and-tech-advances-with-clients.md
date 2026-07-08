@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200702151658
 wayback_snapshot_url: "http://web.archive.org/web/20200702151658/https://cfi.co/menu/corporate/2020/05/fbs-sharing-inside-line-and-tech-advances-with-clients/"
+license: CFI-OAAL-1.0
 content_sha256: 784f2e41c021d609e0a1bb364074db22070141d2b292d7e59581c88f4766a5f0
 canonical: 16063-fbs-sharing-inside-line-and-tech-advances-with-clients.json
 ---
