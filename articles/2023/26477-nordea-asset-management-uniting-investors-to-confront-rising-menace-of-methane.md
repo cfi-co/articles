@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231207192558
 wayback_snapshot_url: "http://web.archive.org/web/20231207192558/https://cfi.co/menu/energy/2023/11/nordea-asset-management-uniting-investors-to-confront-rising-menace-of-methane/"
+license: CFI-OAAL-1.0
 content_sha256: 648125e47014bfab9fb8a789639e356b576bb40e74e5f6adb683d60bb07e048f
 canonical: 26477-nordea-asset-management-uniting-investors-to-confront-rising-menace-of-methane.json
 ---
