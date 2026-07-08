@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220413143754
 wayback_snapshot_url: "http://web.archive.org/web/20220413143754/https://cfi.co/menu/corporate/2022/04/graphite-and-graphene-for-the-green-transition-tirupati-graphite-leading-the-way/"
+license: CFI-OAAL-1.0
 content_sha256: 5a22e90f4e9c41a0d455bc7ebe84380eab86bfa81792193633291cabf8878a7c
 canonical: 21687-graphite-and-graphene-for-the-green-transition-tirupati-graphite-leading-the-way.json
 ---
