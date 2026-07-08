@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230202150601
 wayback_snapshot_url: "http://web.archive.org/web/20230202150601/https://cfi.co/brave-new-world/2023/02/why-are-us-conservatives-against-investment-in-esg/"
+license: CFI-OAAL-1.0
 content_sha256: 0b266ff4b15476b35c8cb2868ea1c1950ade9b2553d4eefb97bc229285c7e4ef
 canonical: 24683-why-are-us-conservatives-against-investment-in-esg.json
 ---
