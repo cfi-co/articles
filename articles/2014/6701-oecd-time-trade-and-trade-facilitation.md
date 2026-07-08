@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140705072511
 wayback_snapshot_url: "http://web.archive.org/web/20140705072511/http://cfi.co/africa/2014/02/oecd-time-trade-and-trade-facilitation/"
+license: CFI-OAAL-1.0
 content_sha256: a57fd601c57dfa445b464e953af990214e9a257a1c6252db5bb391c2a9d5585b
 canonical: 6701-oecd-time-trade-and-trade-facilitation.json
 ---
