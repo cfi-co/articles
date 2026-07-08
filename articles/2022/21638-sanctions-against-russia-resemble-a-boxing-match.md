@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220315130025
 wayback_snapshot_url: "http://web.archive.org/web/20220315130025/https://cfi.co/brave-new-world/2022/03/sanctions-against-russia-resemble-a-boxing-match/"
+license: CFI-OAAL-1.0
 content_sha256: 501d1d560c34d72f9b5b05229d9cf5632fa092e2fe22f7ee3fd0a44d89476256
 canonical: 21638-sanctions-against-russia-resemble-a-boxing-match.json
 ---
