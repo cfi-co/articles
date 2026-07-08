@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050523
 wayback_snapshot_url: "http://web.archive.org/web/20190818050523/https://cfi.co/asia-pacific/2013/08/the-equator-principles-banking-on-sustainability/"
+license: CFI-OAAL-1.0
 content_sha256: cb6d380089f22db6d7f6b9b064fdae96d6d93dfe98a3494e09e7c7c2648030d6
 canonical: 5075-the-equator-principles-banking-on-sustainability.json
 ---
