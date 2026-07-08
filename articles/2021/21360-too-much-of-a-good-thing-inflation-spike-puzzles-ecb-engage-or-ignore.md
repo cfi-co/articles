@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220528112618
 wayback_snapshot_url: "http://web.archive.org/web/20220528112618/https://cfi.co/brave-new-world/2021/12/too-much-of-a-good-thing-inflation-spike-puzzles-ecb-engage-or-ignore/"
+license: CFI-OAAL-1.0
 content_sha256: 56456684a12745f3920ffefaa94cbf4568fd5b4c9958ff5f70bb95f1e109646a
 canonical: 21360-too-much-of-a-good-thing-inflation-spike-puzzles-ecb-engage-or-ignore.json
 ---
