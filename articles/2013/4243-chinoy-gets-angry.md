@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190721112629
 wayback_snapshot_url: "http://web.archive.org/web/20190721112629/https://cfi.co/editors-picks/2013/06/chinoy-gets-angry/"
+license: CFI-OAAL-1.0
 content_sha256: 066241cd3340935f0c26020b578e18780bd48d78f61eed3ec8564aaf036804e9
 canonical: 4243-chinoy-gets-angry.json
 ---
