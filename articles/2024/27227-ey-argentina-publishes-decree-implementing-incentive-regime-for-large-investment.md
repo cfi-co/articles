@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241031131457
 wayback_snapshot_url: "http://web.archive.org/web/20241031131457/https://cfi.co/latinamerica/2024/10/ey-argentina-publishes-decree-implementing-incentive-regime-for-large-investments-rigi/"
+license: CFI-OAAL-1.0
 content_sha256: 224085befd7362fe48691f0c513f88d57557b767389c09988c8959c5dda01ec7
 canonical: 27227-ey-argentina-publishes-decree-implementing-incentive-regime-for-large-investment.json
 ---
