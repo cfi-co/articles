@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230722002439
 wayback_snapshot_url: "http://web.archive.org/web/20230722002439/https://cfi.co/finance/2023/06/aquis-exchange-ultra-low-latency-cloud-24-7-matching-engine/"
+license: CFI-OAAL-1.0
 content_sha256: 7f553a4fc71cab0c8711e31d5a5444628d3f4702fb13a3a60e984a39ea19d64f
 canonical: 25651-aquis-exchange-ultra-low-latency-cloud-24-7-matching-engine.json
 ---
