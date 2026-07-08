@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140825013253
 wayback_snapshot_url: "http://web.archive.org/web/20140825013253/http://cfi.co/latinamerica/2014/07/urban-energy-efficiency-key-to-mexicos-ambitious-goals-for-energy-and-low-carbon-growth/"
+license: CFI-OAAL-1.0
 content_sha256: 93777a871d5af418bf828fdc32a58b3b84540ac6871a7637f1775ebd7916e855
 canonical: 7553-urban-energy-efficiency-key-to-mexicos-ambitious-goals-for-energy-and-low-carbon.json
 ---
