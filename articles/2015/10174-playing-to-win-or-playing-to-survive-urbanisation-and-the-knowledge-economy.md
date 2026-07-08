@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724023723
 wayback_snapshot_url: "http://web.archive.org/web/20190724023723/https://cfi.co/finance/2015/08/playing-to-win-or-playing-to-survive-urbanisation-and-the-knowledge-economy/"
+license: CFI-OAAL-1.0
 content_sha256: 6008e55d3b9bcf15b20db5ad0ec0ec2b7aaa3db077597cb9515c853829a79c42
 canonical: 10174-playing-to-win-or-playing-to-survive-urbanisation-and-the-knowledge-economy.json
 ---
