@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050716
 wayback_snapshot_url: "http://web.archive.org/web/20190818050716/https://cfi.co/africa/2018/09/pwc-nigerian-report-on-ease-of-doing-business/"
+license: CFI-OAAL-1.0
 content_sha256: 77f811399921f213fa04a9f4c72b40796b59e3a44e130ce1bae422c14af154b4
 canonical: 12972-pwc-nigerian-report-on-ease-of-doing-business.json
 ---
