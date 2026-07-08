@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717210005
 wayback_snapshot_url: "http://web.archive.org/web/20190717210005/https://cfi.co/finance/2015/04/grant-thornton-governance-vs-corporate-governance/"
+license: CFI-OAAL-1.0
 content_sha256: e63506d9cbeef301e0b8b65c687e26139d3103b5badace4c1e13d02eaa4401a4
 canonical: 9707-grant-thornton-governance-vs-corporate-governance.json
 ---
