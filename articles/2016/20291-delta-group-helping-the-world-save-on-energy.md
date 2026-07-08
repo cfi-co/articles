@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211015235054
 wayback_snapshot_url: "http://web.archive.org/web/20211015235054/https://cfi.co/menu/corporate/2016/07/delta-group-helping-the-world-save-on-energy/"
+license: CFI-OAAL-1.0
 content_sha256: 8b52a7c521fd06d1859611654d4225d6981ab23d1a4691e30a380adff4ac06de
 canonical: 20291-delta-group-helping-the-world-save-on-energy.json
 ---
