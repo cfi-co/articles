@@ -23,10 +23,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190723005445",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190723005445/https://cfi.co/awards/middle-east/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190723005445/https://cfi.co/awards/middle-east/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>The CFI.co Judging Panel is always delighted when winners repeat their success in subsequent years. It is therefore with great pleasure that the panel confirms that this year’s award for ‘Best SME Bank, Saudi Arabia’ goes to Saudi Hollandi Bank – who won the same award in 2013.</strong></p>\r\n<p style=\"text-align: justify;\">According to the panel, ‘it is heartening to see Saudi Hollandi’s constant commitment to supporting SMEs in Saudi Arabia. The Kingdom’s Kafala (SME Loan Guarantee Programme) is exemplary and is translating into new business and employment opportunities which are critical to the development of the country. By the end of 2013, Saudi Hollandi was placed fourth of the Saudi banks in terms of Kafala loans and looks set to jump at least one position by the end of this year. Their ambition is clear and we wish the Bank great success. They have dedicated SME teams in place and they really do mean business.</p>",
     "content_sha256": "40fa49112c6c67295be3c33dd0392542291837ca15f34b10aeae61b4e22eed70",
-    "record_sha256": "b71f786149f694e1bbd58f03dfe8bcfb2523150112a7577dc29fb3791dacab8f"
+    "record_sha256": "21692edd31aaf6e8a56ab0bed84a7cbe72e1ccbfc7205932076e7abd26cae6c1"
 }
