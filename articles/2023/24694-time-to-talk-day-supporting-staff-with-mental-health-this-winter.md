@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230202122323
 wayback_snapshot_url: "http://web.archive.org/web/20230202122323/https://cfi.co/lifestyle/2023/02/time-to-talk-day-supporting-staff-with-mental-health-this-winter/"
+license: CFI-OAAL-1.0
 content_sha256: 73c81bed9d067fb3d4283b05c11b54801dfb27fc686b8ce8bae7192c887775e4
 canonical: 24694-time-to-talk-day-supporting-staff-with-mental-health-this-winter.json
 ---
