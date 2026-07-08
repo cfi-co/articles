@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625233622
 wayback_snapshot_url: "http://web.archive.org/web/20220625233622/https://cfi.co/menu/corporate/2022/05/italtile-resilient-south-african-group-remains-strong-optimistic-and-locked-into-its-ethical-stance/"
+license: CFI-OAAL-1.0
 content_sha256: d817e5c1b3bb001025c7c27d48627e414c1ac4ce539aac72e116699c88513d90
 canonical: 21919-italtile-resilient-south-african-group-remains-strong-optimistic-and-locked-into.json
 ---
