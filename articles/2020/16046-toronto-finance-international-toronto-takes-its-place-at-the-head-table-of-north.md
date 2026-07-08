@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201124234345
 wayback_snapshot_url: "http://web.archive.org/web/20201124234345/https://cfi.co/banking/2020/10/toronto-finance-international-toronto-takes-its-place-at-the-head-table-of-north-american-finance/"
+license: CFI-OAAL-1.0
 content_sha256: 21dd405e5096ac1c686e394f6e01283bd47162fa7b22464ace63c311e5cc64d6
 canonical: 16046-toronto-finance-international-toronto-takes-its-place-at-the-head-table-of-north.json
 ---
