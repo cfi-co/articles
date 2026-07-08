@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230412202313
 wayback_snapshot_url: "http://web.archive.org/web/20230412202313/https://cfi.co/lifestyle/2023/04/rugby-injuries-tackled-head-on-as-fans-clubs-and-ruling-bodies-put-renewed-focus-on-player-safety/"
+license: CFI-OAAL-1.0
 content_sha256: 089208b807272e28bc3eb699927efc8cc1bee878d5897a391f072bd04b767b10
 canonical: 25067-rugby-injuries-tackled-head-on-as-fans-clubs-and-ruling-bodies-put-renewed-focus.json
 ---
