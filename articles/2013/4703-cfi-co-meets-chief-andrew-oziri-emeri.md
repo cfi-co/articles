@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050432
 wayback_snapshot_url: "http://web.archive.org/web/20190823050432/https://cfi.co/africa/2013/06/cfi-co-meets-chief-andrew-oziri-emeri/"
+license: CFI-OAAL-1.0
 content_sha256: 46c64d712ea0bdc330304d10c66ccdd308efa835b29b21a6d1627e01e77c57d4
 canonical: 4703-cfi-co-meets-chief-andrew-oziri-emeri.json
 ---
