@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923183850
 wayback_snapshot_url: "http://web.archive.org/web/20230923183850/https://cfi.co/asia-pacific/2022/01/taiwans-chunghwa-telecom-takes-private-5g-tech-to-the-next-level/"
+license: CFI-OAAL-1.0
 content_sha256: 814a80da157a3cd9635f310f44ef61b10cae58631f8a4a96692156609c901db7
 canonical: 21441-taiwans-chunghwa-telecom-takes-private-5g-tech-to-the-next-level.json
 ---
