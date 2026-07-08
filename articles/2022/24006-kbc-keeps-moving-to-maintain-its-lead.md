@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221117131326
 wayback_snapshot_url: "http://web.archive.org/web/20221117131326/https://cfi.co/banking/2022/11/kbc-keeps-moving-to-maintain-its-lead/"
+license: CFI-OAAL-1.0
 content_sha256: 03c435e250e5611010ac9e939560d2e885f18d4b085c5c8165f4508a5d960734
 canonical: 24006-kbc-keeps-moving-to-maintain-its-lead.json
 ---
