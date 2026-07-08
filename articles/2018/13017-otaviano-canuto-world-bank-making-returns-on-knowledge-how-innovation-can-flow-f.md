@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190603002310
 wayback_snapshot_url: "http://web.archive.org/web/20190603002310/https://cfi.co/banking/2018/09/otaviano-canuto-world-bank-making-returns-on-knowledge-how-innovation-can-flow-from-globalisation/"
+license: CFI-OAAL-1.0
 content_sha256: 3d8f9cc36f88b2ff74e0b6f91b11bd67705804fba74631a0fef69e19ae82c829
 canonical: 13017-otaviano-canuto-world-bank-making-returns-on-knowledge-how-innovation-can-flow-f.json
 ---
