@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327011433
 wayback_snapshot_url: "http://web.archive.org/web/20140327011433/http://cfi.co/editors-picks/2014/01/lars-peter-hansen-professor-pleads-for-acknowledgment-of-knowledge-gap/"
+license: CFI-OAAL-1.0
 content_sha256: 58fedef6faaa5d6ca3c58c59fb699c124611fb070faf0b184ff8e1e1d87baa58
 canonical: 6401-lars-peter-hansen-professor-pleads-for-acknowledgment-of-knowledge-gap.json
 ---
