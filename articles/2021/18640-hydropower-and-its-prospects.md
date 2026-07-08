@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422025411
 wayback_snapshot_url: "http://web.archive.org/web/20210422025411/https://cfi.co/menu/corporate/2021/02/hydropower-and-its-prospects/"
+license: CFI-OAAL-1.0
 content_sha256: 552fe1f743d2b22051a9ab3526e00e589e039e5eb917d7b7db32107a5913bc9f
 canonical: 18640-hydropower-and-its-prospects.json
 ---
