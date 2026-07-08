@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220208081624
 wayback_snapshot_url: "http://web.archive.org/web/20220208081624/https://cfi.co/sustainability/2022/02/oecd-plugging-the-sdg-financing-gap/"
+license: CFI-OAAL-1.0
 content_sha256: 6257e874f3f6dee50199c48adf08ee96a855970d5fbbfde2335a7d9db1427b05
 canonical: 21535-oecd-plugging-the-sdg-financing-gap.json
 ---
