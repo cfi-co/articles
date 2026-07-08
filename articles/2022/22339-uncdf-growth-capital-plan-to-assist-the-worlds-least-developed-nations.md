@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220711084940
 wayback_snapshot_url: "http://web.archive.org/web/20220711084940/https://cfi.co/asia-pacific/2022/07/uncdf-growth-capital-plan-to-assist-the-worlds-least-developed-nations/"
+license: CFI-OAAL-1.0
 content_sha256: c52077581b5ac1e91ce6b4bd5297b5d773846b0d159b267c98351a90863dd1a0
 canonical: 22339-uncdf-growth-capital-plan-to-assist-the-worlds-least-developed-nations.json
 ---
