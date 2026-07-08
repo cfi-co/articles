@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200813175850
 wayback_snapshot_url: "http://web.archive.org/web/20200813175850/https://cfi.co/corporate-leaders/2018/07/cfi-co-meets-the-management-of-masthaven-bank-andrew-bloom-jon-hall/"
+license: CFI-OAAL-1.0
 content_sha256: aa2330bb9b9db07789865dceb132e855c54ed7bea7282e8235fd9300bdb0c440
 canonical: 12924-cfi-co-meets-the-management-of-masthaven-bank-andrew-bloom-jon-hall.json
 ---
