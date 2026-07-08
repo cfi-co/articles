@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825095139
 wayback_snapshot_url: "http://web.archive.org/web/20190825095139/https://cfi.co/europe/2019/02/president-armen-sarkissian-quantum-politics-defined-explained-and-considered/"
+license: CFI-OAAL-1.0
 content_sha256: a3fb143df86408afaca4f17b1a9ef584a12af507749c18a0a775844ce73a76fe
 canonical: 13434-president-armen-sarkissian-quantum-politics-defined-explained-and-considered.json
 ---
