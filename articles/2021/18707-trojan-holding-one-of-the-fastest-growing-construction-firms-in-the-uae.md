@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418052957
 wayback_snapshot_url: "http://web.archive.org/web/20210418052957/https://cfi.co/menu/corporate/2021/02/trojan-holding-one-of-the-fastest-growing-construction-firms-in-the-uae/"
+license: CFI-OAAL-1.0
 content_sha256: 94426d0ca39f4a037e9681385615acdfe1997c5264a666f0d435317137ce541a
 canonical: 18707-trojan-holding-one-of-the-fastest-growing-construction-firms-in-the-uae.json
 ---
