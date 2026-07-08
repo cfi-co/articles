@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210223081930
 wayback_snapshot_url: "http://web.archive.org/web/20210223081930/https://cfi.co/northamerica/2021/02/the-size-of-bidens-fiscal-package/"
+license: CFI-OAAL-1.0
 content_sha256: 04251501452178fe3568319e0b7513188981d5aeaf5b5813865b912dbedb6f4f
 canonical: 18801-the-size-of-bidens-fiscal-package.json
 ---
