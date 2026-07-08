@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20141009082445
 wayback_snapshot_url: "http://web.archive.org/web/20141009082445/http://cfi.co/europe/2014/07/from-croatia-to-chile-the-luksic-family-from-the-worlds-driest-desert-to-the-forbes-list/"
+license: CFI-OAAL-1.0
 content_sha256: 7e587c8386c23408c6fbde1e60039db2c13de67bf1457170e16b19fa5418f3bd
 canonical: 7635-from-croatia-to-chile-the-luksic-family-from-the-worlds-driest-desert-to-the-for.json
 ---
