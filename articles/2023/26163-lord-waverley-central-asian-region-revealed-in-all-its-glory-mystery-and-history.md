@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231030221043
 wayback_snapshot_url: "http://web.archive.org/web/20231030221043/https://cfi.co/asia-pacific/2023/03/lord-waverley-central-asian-region-revealed-in-all-its-glory-mystery-and-history/"
+license: CFI-OAAL-1.0
 content_sha256: 8e6ae0ad7aed4c8a44e7ce3f2ae72338415635b8d68e9e8b1a78b108b3b59f01
 canonical: 26163-lord-waverley-central-asian-region-revealed-in-all-its-glory-mystery-and-history.json
 ---
