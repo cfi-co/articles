@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250907054355
 wayback_snapshot_url: "http://web.archive.org/web/20250907054355/https://cfi.co/corporate-leaders/2025/09/filippo-surace-the-visionary-behind-italys-healthcare-venture-revolution/"
+license: CFI-OAAL-1.0
 content_sha256: ea5c6c7b59ee487f900ffca6610a0f027d2cb04d5b865d358079c33fc50b9ac3
 canonical: 27818-filippo-surace-the-visionary-behind-italys-healthcare-venture-revolution.json
 ---
