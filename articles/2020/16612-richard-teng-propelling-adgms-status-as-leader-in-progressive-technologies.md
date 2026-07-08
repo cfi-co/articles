@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200928090910
 wayback_snapshot_url: "http://web.archive.org/web/20200928090910/https://cfi.co/corporate-leaders/2020/08/richard-teng-propelling-adgms-status-as-leader-in-progressive-technologies/"
+license: CFI-OAAL-1.0
 content_sha256: 393f0d794dc6a1fd5f79dbbef7e92cf8e77bf1382c27e50e9d4ce5aabff12f83
 canonical: 16612-richard-teng-propelling-adgms-status-as-leader-in-progressive-technologies.json
 ---
