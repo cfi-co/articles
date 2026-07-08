@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200918194038
 wayback_snapshot_url: "http://web.archive.org/web/20200918194038/https://cfi.co/editors-picks/2017/09/catherine-abel-stretching-the-canvas-of-art-deco/"
+license: CFI-OAAL-1.0
 content_sha256: 058634083cc01199825b922bb0b10d4b965a89b2577b67609108e87c1938ef1b
 canonical: 12012-catherine-abel-stretching-the-canvas-of-art-deco.json
 ---
