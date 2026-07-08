@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150603112548
 wayback_snapshot_url: "http://web.archive.org/web/20150603112548/http://cfi.co/editors-picks/2015/04/ahmed-mater-flower-power-saudi-style/"
+license: CFI-OAAL-1.0
 content_sha256: fdefc4802232a3c25036998033219962b796cd20aa1f532e3a755f9f2e90b12c
 canonical: 9677-ahmed-mater-flower-power-saudi-style.json
 ---
