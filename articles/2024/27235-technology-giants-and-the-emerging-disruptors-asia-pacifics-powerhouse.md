@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241107034631
 wayback_snapshot_url: "http://web.archive.org/web/20241107034631/https://cfi.co/asia-pacific/2024/10/technology-giants-and-the-emerging-disruptors-asia-pacifics-powerhouse/"
+license: CFI-OAAL-1.0
 content_sha256: 0258d052617553c906ba789227992d74331ca142e6ec805fbdd086249b89a490
 canonical: 27235-technology-giants-and-the-emerging-disruptors-asia-pacifics-powerhouse.json
 ---
