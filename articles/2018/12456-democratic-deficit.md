@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825094919
 wayback_snapshot_url: "http://web.archive.org/web/20190825094919/https://cfi.co/menu/brexit-notes/2018/05/democratic-deficit/"
+license: CFI-OAAL-1.0
 content_sha256: f63457f9542b4f968706ac3d8c34cf1882c8e065b1708497031329d4329a3cb0
 canonical: 12456-democratic-deficit.json
 ---
