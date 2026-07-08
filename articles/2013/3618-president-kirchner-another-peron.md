@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050758
 wayback_snapshot_url: "http://web.archive.org/web/20190823050758/https://cfi.co/latinamerica/2013/04/president-kirchner-another-peron/"
+license: CFI-OAAL-1.0
 content_sha256: daaf3315255546229e3f66e6a7f8dc14dd292c30901ec78a8385bd43fb58fba1
 canonical: 3618-president-kirchner-another-peron.json
 ---
