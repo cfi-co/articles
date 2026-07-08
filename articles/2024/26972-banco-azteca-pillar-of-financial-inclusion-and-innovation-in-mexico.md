@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241205140449
 wayback_snapshot_url: "http://web.archive.org/web/20241205140449/https://cfi.co/banking/2024/07/banco-azteca-pillar-of-financial-inclusion-and-innovation-in-mexico/"
+license: CFI-OAAL-1.0
 content_sha256: b26ab30108d0018ef3666a6674968110734f2e9facc0b259696d98baf0693f90
 canonical: 26972-banco-azteca-pillar-of-financial-inclusion-and-innovation-in-mexico.json
 ---
