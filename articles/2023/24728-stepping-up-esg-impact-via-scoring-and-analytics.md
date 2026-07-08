@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230311145529
 wayback_snapshot_url: "http://web.archive.org/web/20230311145529/https://cfi.co/sustainability/2023/02/stepping-up-esg-impact-via-scoring-and-analytics/"
+license: CFI-OAAL-1.0
 content_sha256: 3d075bbd6305475467581b3dc5ba34cc9034b11735da8a86afc3c2e6bdd5c901
 canonical: 24728-stepping-up-esg-impact-via-scoring-and-analytics.json
 ---
