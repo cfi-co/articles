@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231030230509
 wayback_snapshot_url: "http://web.archive.org/web/20231030230509/https://cfi.co/europe/2023/10/poland-votes-pis-stranglehold-on-power-in-the-balance/"
+license: CFI-OAAL-1.0
 content_sha256: 565d876a47b3af2eb79589693d41452b595bf07ff9a64afebc6482db6ff61c68
 canonical: 26224-poland-votes-pis-stranglehold-on-power-in-the-balance.json
 ---
