@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210429150806
 wayback_snapshot_url: "http://web.archive.org/web/20210429150806/https://cfi.co/sustainability/2021/04/asian-development-bank-towards-a-blue-deal-to-restore-the-worlds-oceans/"
+license: CFI-OAAL-1.0
 content_sha256: db6865bfa9027d267dd9efa90904a26aadf42c6ea4b02d8e7f9d252365558cbe
 canonical: 19581-asian-development-bank-towards-a-blue-deal-to-restore-the-worlds-oceans.json
 ---
