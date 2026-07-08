@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920101354
 wayback_snapshot_url: "http://web.archive.org/web/20210920101354/https://cfi.co/menu/corporate/2021/07/santiago-free-zone-corporation-czfs-loosens-the-bonds-creating-growth-for-the-north-region-the-country/"
+license: CFI-OAAL-1.0
 content_sha256: de160aae243644c396cd170259c68327ee33460f8dc49ac3c148bc25805bb651
 canonical: 19968-santiago-free-zone-corporation-czfs-loosens-the-bonds-creating-growth-for-the-no.json
 ---
