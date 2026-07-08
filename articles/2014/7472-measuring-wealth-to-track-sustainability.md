@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140625150845
 wayback_snapshot_url: "http://web.archive.org/web/20140625150845/http://cfi.co/africa/2014/06/measuring-wealth-to-track-sustainability/"
+license: CFI-OAAL-1.0
 content_sha256: e32f65622fe8cedd4d1207cf6319f52f9066da41d0cebbc0a991f334b5ebedde
 canonical: 7472-measuring-wealth-to-track-sustainability.json
 ---
