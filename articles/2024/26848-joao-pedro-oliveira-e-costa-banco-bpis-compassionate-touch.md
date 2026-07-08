@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240726083502
 wayback_snapshot_url: "http://web.archive.org/web/20240726083502/https://cfi.co/banking/2024/06/joao-pedro-oliveira-e-costa-banco-bpis-compassionate-touch/"
+license: CFI-OAAL-1.0
 content_sha256: 2a89f1063b58c4f3dfcb6ffc0ad0345afaf0f5a8f0aaccfbb8dc8ba46b7b4b90
 canonical: 26848-joao-pedro-oliveira-e-costa-banco-bpis-compassionate-touch.json
 ---
