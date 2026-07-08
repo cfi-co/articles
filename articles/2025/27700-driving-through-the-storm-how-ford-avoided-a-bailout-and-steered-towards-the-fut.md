@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250519105245
 wayback_snapshot_url: "http://web.archive.org/web/20250519105245/https://cfi.co/northamerica/2025/04/driving-through-the-storm-how-ford-avoided-a-bailout-and-steered-towards-the-future/"
+license: CFI-OAAL-1.0
 content_sha256: f09e97daa2078636cae79b903fc3071ba6cf1d87f0656171d63af254bfa9abf5
 canonical: 27700-driving-through-the-storm-how-ford-avoided-a-bailout-and-steered-towards-the-fut.json
 ---
