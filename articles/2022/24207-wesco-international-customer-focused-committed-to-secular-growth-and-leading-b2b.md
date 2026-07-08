@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221219200801
 wayback_snapshot_url: "http://web.archive.org/web/20221219200801/https://cfi.co/northamerica/2022/12/wesco-international-customer-focused-committed-to-secular-growth-and-leading-b2b-supply-chain/"
+license: CFI-OAAL-1.0
 content_sha256: 0a6954b59c39c3dcbc25ff44ca7a2af623dcea0c1b4c29cce8215c0e5298e2d2
 canonical: 24207-wesco-international-customer-focused-committed-to-secular-growth-and-leading-b2b.json
 ---
