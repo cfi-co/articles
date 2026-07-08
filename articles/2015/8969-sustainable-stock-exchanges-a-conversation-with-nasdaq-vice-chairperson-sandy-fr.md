@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20171004125906
 wayback_snapshot_url: "http://web.archive.org/web/20171004125906/http://cfi.co/finance/2015/02/sustainable-stock-exchanges-a-conversation-with-nasdaq-vice-chairperson-sandy-frucher/"
+license: CFI-OAAL-1.0
 content_sha256: 66d012f4e52855016795825a220c6b322cb72a3092d5366746407a73d0df7f82
 canonical: 8969-sustainable-stock-exchanges-a-conversation-with-nasdaq-vice-chairperson-sandy-fr.json
 ---
