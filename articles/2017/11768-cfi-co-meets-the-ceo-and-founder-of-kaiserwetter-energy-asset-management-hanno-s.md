@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916044029
 wayback_snapshot_url: "http://web.archive.org/web/20190916044029/https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-ceo-and-founder-of-kaiserwetter-energy-asset-management-hanno-schoklitsch/"
+license: CFI-OAAL-1.0
 content_sha256: d4ed2ef92919c9c4d9ad0d2eaaf3c728cec5d65912aa4d0a551099895dbff313
 canonical: 11768-cfi-co-meets-the-ceo-and-founder-of-kaiserwetter-energy-asset-management-hanno-s.json
 ---
