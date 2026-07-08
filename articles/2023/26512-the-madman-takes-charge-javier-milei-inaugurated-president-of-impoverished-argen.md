@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231221221606
 wayback_snapshot_url: "http://web.archive.org/web/20231221221606/https://cfi.co/latinamerica/2023/12/the-madman-takes-charge-javier-milei-inaugurated-president-of-impoverished-argentina/"
+license: CFI-OAAL-1.0
 content_sha256: ba0e6acf655a6f02534401347eafba211a17cf4851e837bdae8d1f728efcb698
 canonical: 26512-the-madman-takes-charge-javier-milei-inaugurated-president-of-impoverished-argen.json
 ---
