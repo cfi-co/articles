@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231030222045
 wayback_snapshot_url: "http://web.archive.org/web/20231030222045/https://cfi.co/lifestyle/2023/10/the-changing-face-of-business-travel-and-how-best-to-reap-the-benefits/"
+license: CFI-OAAL-1.0
 content_sha256: 4cc33f1a9316794335a8f5d031c805bd04a0c7b4881c7fdab586900bcded3144
 canonical: 26248-the-changing-face-of-business-travel-and-how-best-to-reap-the-benefits.json
 ---
