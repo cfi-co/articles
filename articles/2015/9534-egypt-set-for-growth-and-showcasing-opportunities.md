@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724090028
 wayback_snapshot_url: "http://web.archive.org/web/20190724090028/https://cfi.co/asia-pacific/2015/03/egypt-set-for-growth-and-showcasing-opportunities/"
+license: CFI-OAAL-1.0
 content_sha256: 37b7c7d5cf9b06ed0cf54b9342ab4467719c5d643692fb26accdb20dcc791f2f
 canonical: 9534-egypt-set-for-growth-and-showcasing-opportunities.json
 ---
