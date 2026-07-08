@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240420131918
 wayback_snapshot_url: "http://web.archive.org/web/20240420131918/https://cfi.co/europe/2023/08/region-ile-de-france-leading-role-on-sustainability/"
+license: CFI-OAAL-1.0
 content_sha256: 284e56261b9869194867402e67d8823ec2cdcbdf6738b148ececd057763825bc
 canonical: 25944-region-ile-de-france-leading-role-on-sustainability.json
 ---
