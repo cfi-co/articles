@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230403221634
 wayback_snapshot_url: "http://web.archive.org/web/20230403221634/https://cfi.co/menu/corporate/2023/03/accountability-ceo-sunny-misser-leading-the-charge-in-a-changing-esg-universe/"
+license: CFI-OAAL-1.0
 content_sha256: f6ae2e271b5690a3ee4451906dc190238c87aac5e2760cb556417797eca4bfcc
 canonical: 25044-accountability-ceo-sunny-misser-leading-the-charge-in-a-changing-esg-universe.json
 ---
