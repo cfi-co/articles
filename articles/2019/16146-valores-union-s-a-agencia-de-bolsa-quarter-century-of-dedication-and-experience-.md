@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200918165629
 wayback_snapshot_url: "http://web.archive.org/web/20200918165629/https://cfi.co/menu/corporate/2019/10/valores-union-s-a-agencia-de-bolsa-quarter-century-of-dedication-and-experience-in-bolivia/"
+license: CFI-OAAL-1.0
 content_sha256: b79032ead88954bc2a44c7083c165b0a33eb24881be1b9624866e0d3ca9d0269
 canonical: 16146-valores-union-s-a-agencia-de-bolsa-quarter-century-of-dedication-and-experience-.json
 ---
