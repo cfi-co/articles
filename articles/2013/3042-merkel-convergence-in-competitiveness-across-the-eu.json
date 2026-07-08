@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190823050317",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190823050317/https://cfi.co/europe/2013/02/merkel-convergence-in-competitiveness-across-the-eu/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190823050317/https://cfi.co/europe/2013/02/merkel-convergence-in-competitiveness-across-the-eu/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"alignright  wp-image-3043\" alt=\"\" src=\"https://cfi.co/wp-content/uploads/2013/01/merkel.jpg\" width=\"160\" height=\"151\" />In an address at the 2013 World Economic Forum Annual Meeting, German Chancellor Angela Merkel said that reforms implemented in European economies are achieving results, but their full effects have yet to be felt.</strong> Europe has to stay the course of reform and restructuring, she said. “We are not where we want to be. We are not yet out of the woods, but we are going in the right direction.” While the euro area is still growing only modestly, the situation should improve, she reckoned. “Consolidation and growth are basically the two sides of the same coin.” The goal: to achieve dynamism as well as resilience, said Merkel. “We do not want dynamism at any price but dynamism that can withstand shocks.”</p>\r\n<p style=\"text-align: justify;\">Merkel stressed the need for Europe to conclude a pact that would drive convergence in competitiveness across the European Union. This would commit members to improve certain aspects of their economy that are not up to standard. In Europe, “we want to be as competitive as possible to ensure the prosperity of our people,” the German leader declared.</p>\r\n\r\n<blockquote>\r\n<h3 style=\"text-align: justify;\">“We do not want dynamism at any price but dynamism that can withstand shocks.”</h3>\r\n</blockquote>\r\n<p style=\"text-align: justify;\">Europe must also focus on persistent structural problems such as unemployment, particularly among the youth. Merkel welcomed any investors who want to give a helping hand to young people.</p>",
     "content_sha256": "84472bf89741d384dca01d536b07d206998cd614ac196bb6cb45dcdf5ad1d428",
-    "record_sha256": "4816818ec0ec1ff53ab08c7094f3563d1a9eb5f8b6c38f0f3ae444da659cf9bc"
+    "record_sha256": "ba434f9e3f91332c32f4c81977cc8d954bb06cddc310656d585578b299a7d907"
 }
