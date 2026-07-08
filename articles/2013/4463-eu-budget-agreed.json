@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190823050438",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190823050438/https://cfi.co/europe/2013/06/eu-budget-agreed/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190823050438/https://cfi.co/europe/2013/06/eu-budget-agreed/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"alignright  wp-image-4464\" alt=\"bsi\" src=\"https://cfi.co/wp-content/uploads/2013/06/bsi.jpg\" width=\"124\" height=\"106\" />Following their meeting on Thursday 27<sup>th</sup> June at the Commission headquarters, President Barroso, President Schulz and Irish Taoiseach Kenny announced a political agreement on the European Union's future budget 2014-2020.</strong></p>\r\n<p style=\"text-align: justify;\">President Barroso underlined that this was possible because all sides have gone the extra mile and said: \"This is a good deal for Europe, for European citizens and for the European economy.\"</p>\r\n<p style=\"text-align: justify;\">He pointed to the main elements of the agreement: more flexibility on both payments and commitments, frontloading of expenditure linked to youth employment, research, education and SMEs as well as the possibility to increase aid for the most deprived people. He also said that the deal confirms the agreement reached for the 2013 amending budget.</p>\r\n\r\n<blockquote>\r\n<h3 style=\"text-align: justify;\">\"This is a good deal for Europe.\"</h3>\r\n</blockquote>\r\n<p style=\"text-align: justify;\">He also pointed out that the Compact for Growth discussed at the European Council that same day cannot exist without a fund for growth and concluded: \"Our fund for growth is the European budget\". He thanked the representatives of the other institutions for their true European spirit.</p>\r\n<p style=\"text-align: justify;\">The deal will now be submitted to the European Parliament and the Council for formal endorsement.</p>",
     "content_sha256": "0f6072b7228407217f9e200d9bf54555aa442bb2807c1a3201b4ae3153b15332",
-    "record_sha256": "8a674a26e250746833667f5c1ab35828e6740ba3eb5a928f17618190e425def5"
+    "record_sha256": "4b7b77e9e9ffbb6ad78bad50347fb25514eae68cce166c87f09e1ee1eb177641"
 }
