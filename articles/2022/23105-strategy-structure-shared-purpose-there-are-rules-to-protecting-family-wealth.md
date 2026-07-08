@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221111144923
 wayback_snapshot_url: "http://web.archive.org/web/20221111144923/https://cfi.co/menu/corporate/2022/11/strategy-structure-shared-purpose-there-are-rules-to-protecting-family-wealth/"
+license: CFI-OAAL-1.0
 content_sha256: 205ff109e1e6e0eaf677ad4a0ab3dcf62f736babfc9d611d4ca5d613156a8de7
 canonical: 23105-strategy-structure-shared-purpose-there-are-rules-to-protecting-family-wealth.json
 ---
