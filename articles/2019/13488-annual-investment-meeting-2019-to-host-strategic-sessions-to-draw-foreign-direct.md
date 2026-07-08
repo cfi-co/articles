@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190408232007
 wayback_snapshot_url: "http://web.archive.org/web/20190408232007/https://cfi.co/middleeast/2019/04/annual-investment-meeting-2019-to-host-strategic-sessions-to-draw-foreign-direct-investments/"
+license: CFI-OAAL-1.0
 content_sha256: f8a95dac0beaf863fa54f04e51ccc8d264da10c49cc23b05b84f2fd342c1a507
 canonical: 13488-annual-investment-meeting-2019-to-host-strategic-sessions-to-draw-foreign-direct.json
 ---
