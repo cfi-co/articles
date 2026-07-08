@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220610173819
 wayback_snapshot_url: "http://web.archive.org/web/20220610173819/https://cfi.co/menu/corporate/2022/05/stc-high-ideals-and-a-series-of-firsts-for-kuwait/"
+license: CFI-OAAL-1.0
 content_sha256: fef2dd09d8b425475acbf0514caaccbc960b8f574ef96f0ce640cb4b3bd14013
 canonical: 21932-stc-high-ideals-and-a-series-of-firsts-for-kuwait.json
 ---
