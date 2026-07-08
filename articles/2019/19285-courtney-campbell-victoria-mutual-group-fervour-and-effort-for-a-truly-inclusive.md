@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418055038
 wayback_snapshot_url: "http://web.archive.org/web/20210418055038/https://cfi.co/corporate-leaders/2019/04/courtney-campbell-victoria-mutual-group-fervour-and-effort-for-a-truly-inclusive-jamaica/"
+license: CFI-OAAL-1.0
 content_sha256: 997f2625973b3baa2048bed9c48ee6f064e3f3b9268907d4bb9ede0cf8bdd012
 canonical: 19285-courtney-campbell-victoria-mutual-group-fervour-and-effort-for-a-truly-inclusive.json
 ---
