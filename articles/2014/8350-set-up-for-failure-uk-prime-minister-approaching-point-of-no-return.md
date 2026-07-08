@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190722120756
 wayback_snapshot_url: "http://web.archive.org/web/20190722120756/https://cfi.co/europe/2014/11/set-up-for-failure-uk-prime-minister-approaching-point-of-no-return/"
+license: CFI-OAAL-1.0
 content_sha256: ddffb481f16108335d556d0d98648a80ef2c08a44c5d2f4491e224f82e10f668
 canonical: 8350-set-up-for-failure-uk-prime-minister-approaching-point-of-no-return.json
 ---
