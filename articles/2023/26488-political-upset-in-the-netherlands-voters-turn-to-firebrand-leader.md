@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231124210400
 wayback_snapshot_url: "http://web.archive.org/web/20231124210400/https://cfi.co/europe/2023/11/political-upset-in-the-netherlands-voters-turn-to-firebrand-leader/"
+license: CFI-OAAL-1.0
 content_sha256: 2044ba2af810b6cc5049f63194a0eb2757e3a6de4574cc8e9a4f9e8e17297231
 canonical: 26488-political-upset-in-the-netherlands-voters-turn-to-firebrand-leader.json
 ---
