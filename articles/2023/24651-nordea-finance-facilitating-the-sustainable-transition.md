@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230120111807
 wayback_snapshot_url: "http://web.archive.org/web/20230120111807/https://cfi.co/sustainability/2023/01/nordea-finance-facilitating-the-sustainable-transition/"
+license: CFI-OAAL-1.0
 content_sha256: 8c36b7e179c0d80ed325995cf6f8acbce4dceebe04d5a89fcec6118a9cdefad1
 canonical: 24651-nordea-finance-facilitating-the-sustainable-transition.json
 ---
