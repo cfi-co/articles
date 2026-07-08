@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920113949
 wayback_snapshot_url: "http://web.archive.org/web/20210920113949/https://cfi.co/menu/corporate/2021/07/icbc-middle-east-resilience-in-times-of-crisis/"
+license: CFI-OAAL-1.0
 content_sha256: d47f1264f8c70510a3a87c7cd36eedcc08e8cbbc807f65225e50202f4a3531d2
 canonical: 19949-icbc-middle-east-resilience-in-times-of-crisis.json
 ---
