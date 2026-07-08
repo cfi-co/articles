@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20171004102449
 wayback_snapshot_url: "http://web.archive.org/web/20171004102449/http://cfi.co/editors-picks/2015/09/sebastiao-salgado-capturing-the-moment/"
+license: CFI-OAAL-1.0
 content_sha256: c7d63b34ab43fee98b9493dd9ca1b6fd13def90ec9c84236f1c09da9b5d567a4
 canonical: 10485-sebastiao-salgado-capturing-the-moment.json
 ---
