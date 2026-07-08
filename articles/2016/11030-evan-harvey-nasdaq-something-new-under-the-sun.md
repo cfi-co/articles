@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724024144
 wayback_snapshot_url: "http://web.archive.org/web/20190724024144/https://cfi.co/europe/2016/02/evan-harvey-nasdaq-something-new-under-the-sun/"
+license: CFI-OAAL-1.0
 content_sha256: ee7184e80e217d3866ccdaa4e6788035c40cc6ff6edc1171b98114464ce13a12
 canonical: 11030-evan-harvey-nasdaq-something-new-under-the-sun.json
 ---
