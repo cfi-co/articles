@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190130164936
 wayback_snapshot_url: "http://web.archive.org/web/20190130164936/https://cfi.co/technology/2019/01/ai-convergence-in-4ir/"
+license: CFI-OAAL-1.0
 content_sha256: 41301333f6c9fcffac82794594470808598d862fd25efa3eeec38070e585d557
 canonical: 13407-ai-convergence-in-4ir.json
 ---
