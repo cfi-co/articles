@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140328185401
 wayback_snapshot_url: "http://web.archive.org/web/20140328185401/http://cfi.co/middleeast/2013/07/iraqi-government-industry-gather-to-drive-oilfield-optimisation-in-iraq/"
+license: CFI-OAAL-1.0
 content_sha256: 002d133b25b5ec8bcd0c2ac4f0f596378991878b436905ed2af64a6425276c97
 canonical: 4563-iraqi-government-industry-gather-to-drive-oilfield-optimisation-in-iraq.json
 ---
