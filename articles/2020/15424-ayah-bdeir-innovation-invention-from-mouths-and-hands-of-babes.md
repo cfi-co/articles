@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200808120619
 wayback_snapshot_url: "http://web.archive.org/web/20200808120619/https://cfi.co/editors-picks/2020/05/ayah-bdeir-innovation-invention-from-mouths-and-hands-of-babes/"
+license: CFI-OAAL-1.0
 content_sha256: 75acfc29e0c5da3497493c86e24673a3ef3381f6120266ca488f03414e008b91
 canonical: 15424-ayah-bdeir-innovation-invention-from-mouths-and-hands-of-babes.json
 ---
