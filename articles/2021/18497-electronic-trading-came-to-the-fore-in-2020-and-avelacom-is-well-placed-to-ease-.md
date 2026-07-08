@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210127152630
 wayback_snapshot_url: "http://web.archive.org/web/20210127152630/https://cfi.co/menu/corporate/2021/01/electronic-trading-came-to-the-fore-in-2020-and-avelacom-is-well-placed-to-ease-the-transition-to-automation-technologies/"
+license: CFI-OAAL-1.0
 content_sha256: c1838a60d97809f751c21a9456ace27724815bc0de1b72d7ff3ee9a88fd64a6e
 canonical: 18497-electronic-trading-came-to-the-fore-in-2020-and-avelacom-is-well-placed-to-ease-.json
 ---
