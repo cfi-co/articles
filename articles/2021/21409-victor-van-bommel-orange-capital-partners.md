@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230323013210
 wayback_snapshot_url: "http://web.archive.org/web/20230323013210/https://cfi.co/menu/corporate/2021/12/victor-van-bommel-orange-capital-partners/"
+license: CFI-OAAL-1.0
 content_sha256: a066ca29756b0f5b3ea38a6a3e85d73039d44f50a4179a980a31952cc27e5b3f
 canonical: 21409-victor-van-bommel-orange-capital-partners.json
 ---
