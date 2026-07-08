@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211107073429
 wayback_snapshot_url: "http://web.archive.org/web/20211107073429/https://cfi.co/menu/corporate/2021/11/ghana-investment-promotion-centre-laws-of-attraction-gipc-draws-global-attention-to-the-investment-opportunities-in-ghana/"
+license: CFI-OAAL-1.0
 content_sha256: baded3aa3f4bba7df6b453651eed7494337f985bb40ef98e50684ff5c442cbee
 canonical: 20919-ghana-investment-promotion-centre-laws-of-attraction-gipc-draws-global-attention.json
 ---
