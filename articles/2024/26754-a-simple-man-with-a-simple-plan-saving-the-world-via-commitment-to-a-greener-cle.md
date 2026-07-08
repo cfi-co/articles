@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240517124650
 wayback_snapshot_url: "http://web.archive.org/web/20240517124650/https://cfi.co/asia-pacific/2024/04/bangchak-chaiwat-kovavisarach-simple-man-simple-plan/"
+license: CFI-OAAL-1.0
 content_sha256: 05280771f05155565d379fb8ca3ee102431597c550854d892508542898c8ff88
 canonical: 26754-a-simple-man-with-a-simple-plan-saving-the-world-via-commitment-to-a-greener-cle.json
 ---
