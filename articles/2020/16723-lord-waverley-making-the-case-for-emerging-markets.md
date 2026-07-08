@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920103250
 wayback_snapshot_url: "http://web.archive.org/web/20200920103250/https://cfi.co/asia-pacific/2020/08/lord-waverley-making-the-case-for-emerging-markets/"
+license: CFI-OAAL-1.0
 content_sha256: 7d969c1bf967a4c4c5c4a29eb40fe54e4a889b6da81a73e9b3ccb717c8913d66
 canonical: 16723-lord-waverley-making-the-case-for-emerging-markets.json
 ---
