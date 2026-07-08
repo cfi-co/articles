@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045934
 wayback_snapshot_url: "http://web.archive.org/web/20190823045934/https://cfi.co/middleeast/2013/04/imf-mission-to-egypt-improvement-in-targeting-of-energy-subsidies/"
+license: CFI-OAAL-1.0
 content_sha256: a70a141efcdba28e7ae3386519a3c27819d412fcc61696d3a5cfb4cba0f43828
 canonical: 3680-imf-mission-to-egypt-improvement-in-targeting-of-energy-subsidies.json
 ---
