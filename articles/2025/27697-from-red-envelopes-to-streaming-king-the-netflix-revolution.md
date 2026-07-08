@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250522222527
 wayback_snapshot_url: "http://web.archive.org/web/20250522222527/https://cfi.co/northamerica/2025/04/from-red-envelopes-to-streaming-king-the-netflix-revolution/"
+license: CFI-OAAL-1.0
 content_sha256: 84e4e5d3eb3b1d3c8e737970586446611dce4ba2ae166a262bfb8d7390df56bd
 canonical: 27697-from-red-envelopes-to-streaming-king-the-netflix-revolution.json
 ---
