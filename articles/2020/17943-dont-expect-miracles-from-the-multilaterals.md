@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201116144549
 wayback_snapshot_url: "http://web.archive.org/web/20201116144549/https://cfi.co/finance/2020/11/dont-expect-miracles-from-the-multilaterals/"
+license: CFI-OAAL-1.0
 content_sha256: 423372e860e6235e69592d6caacf8649cbe51ea3efb51124abec88725efec6d9
 canonical: 17943-dont-expect-miracles-from-the-multilaterals.json
 ---
