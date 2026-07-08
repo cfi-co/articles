@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200813172629
 wayback_snapshot_url: "http://web.archive.org/web/20200813172629/https://cfi.co/middleeast/2020/05/applied-science-private-university-aspu-bringing-tomorrows-tech-specialists-to-the-worlds-attention/"
+license: CFI-OAAL-1.0
 content_sha256: 2b85500903bb75ddb9d45b3ab686ce47de9d16da4a6b047bf08ed9324ffb2550
 canonical: 16035-applied-science-private-university-aspu-bringing-tomorrows-tech-specialists-to-t.json
 ---
