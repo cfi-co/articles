@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200505155418
 wayback_snapshot_url: "http://web.archive.org/web/20200505155418/https://cfi.co/europe/2019/12/jim-oneill-the-return-of-fiscal-policy/"
+license: CFI-OAAL-1.0
 content_sha256: d43395f2baa21050ccbaa971cd0935b8ae0ef19d89a630213c3beb758916a32b
 canonical: 14418-jim-oneill-the-return-of-fiscal-policy.json
 ---
