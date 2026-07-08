@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625235145
 wayback_snapshot_url: "http://web.archive.org/web/20220625235145/https://cfi.co/menu/corporate/2021/11/state-investment-corporation-ltd-sic-mauritian-investment-body-has-countrys-best-interests-in-mind/"
+license: CFI-OAAL-1.0
 content_sha256: c7c353730f327256dd02b8ec117ef4ddd1c45b84cc59705563d87e22de5c2677
 canonical: 21031-state-investment-corporation-ltd-sic-mauritian-investment-body-has-countrys-best.json
 ---
