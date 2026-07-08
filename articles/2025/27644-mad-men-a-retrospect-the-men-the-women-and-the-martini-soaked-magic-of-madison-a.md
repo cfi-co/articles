@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250322175616
 wayback_snapshot_url: "http://web.archive.org/web/20250322175616/https://cfi.co/lifestyle/2025/03/mad-men-a-retrospect-the-men-the-women-and-the-martini-soaked-magic-of-madison-avenue/"
+license: CFI-OAAL-1.0
 content_sha256: 50e209663a702e86367e6636981f274a2305b95756d3d47cb4974bff6590922d
 canonical: 27644-mad-men-a-retrospect-the-men-the-women-and-the-martini-soaked-magic-of-madison-a.json
 ---
