@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203235440
 wayback_snapshot_url: "http://web.archive.org/web/20201203235440/https://cfi.co/menu/corporate/2020/10/equiti-history-of-firsts-for-fintech-group-with-inclusive-vision/"
+license: CFI-OAAL-1.0
 content_sha256: 7a98240ee21208f8685b8adbdb3f281bff66b1002ca80ee6bf9b934769a0e700
 canonical: 17559-equiti-history-of-firsts-for-fintech-group-with-inclusive-vision.json
 ---
