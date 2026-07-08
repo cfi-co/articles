@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724031541
 wayback_snapshot_url: "http://web.archive.org/web/20190724031541/https://cfi.co/finance/2013/05/gcc-eyes-fast-growth-africa/"
+license: CFI-OAAL-1.0
 content_sha256: 6ee95185adbfca15bf3690fea718ca37f9f29b97faa7debe4a4d737ca2263b48
 canonical: 3820-gcc-eyes-fast-growth-africa.json
 ---
