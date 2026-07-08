@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825094750
 wayback_snapshot_url: "http://web.archive.org/web/20190825094750/https://cfi.co/banking/2018/05/world-bank-group-unveils-new-initiatives-in-investment-policy-and-promotion/"
+license: CFI-OAAL-1.0
 content_sha256: 2d22fdb605e3c1444958ee722188db5a14b3bacb1558aaf869b51d2ea95a251a
 canonical: 12605-world-bank-group-unveils-new-initiatives-in-investment-policy-and-promotion.json
 ---
