@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180422094343
 wayback_snapshot_url: "http://web.archive.org/web/20180422094343/https://cfi.co/europe/2015/01/charlie-hebdo-attack-the-triumph-of-the-last-laugh/"
+license: CFI-OAAL-1.0
 content_sha256: ea2053bb0ddb3cbb3778259b23690997abaaa1be2b7f8b33122cac96347371ee
 canonical: 8669-charlie-hebdo-attack-the-triumph-of-the-last-laugh.json
 ---
