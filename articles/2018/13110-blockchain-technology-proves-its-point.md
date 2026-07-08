@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050359
 wayback_snapshot_url: "http://web.archive.org/web/20190818050359/https://cfi.co/technology/2018/10/blockchain-technology-proves-its-point/"
+license: CFI-OAAL-1.0
 content_sha256: 44f2d55e6212eb704e479c1973935dadbc1ad629cab944b89e1dc1420a2460f4
 canonical: 13110-blockchain-technology-proves-its-point.json
 ---
