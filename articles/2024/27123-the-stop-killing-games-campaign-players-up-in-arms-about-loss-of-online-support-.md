@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240916103009
 wayback_snapshot_url: "http://web.archive.org/web/20240916103009/https://cfi.co/technology/2024/09/the-stop-killing-games-campaign-players-up-in-arms-about-loss-of-online-support-for-digital-worlds/"
+license: CFI-OAAL-1.0
 content_sha256: 0cae30d408b68bd0605d3247cdded46c2055b9289d043e9a983738d71d31d8b7
 canonical: 27123-the-stop-killing-games-campaign-players-up-in-arms-about-loss-of-online-support-.json
 ---
