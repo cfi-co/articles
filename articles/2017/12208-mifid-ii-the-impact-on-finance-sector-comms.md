@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720031759
 wayback_snapshot_url: "http://web.archive.org/web/20190720031759/https://cfi.co/europe/2017/12/mifid-ii-the-impact-on-finance-sector-comms/"
+license: CFI-OAAL-1.0
 content_sha256: 6c649788aed0ca4e0a07f73993a50815abb7f6be43562414a471e34736d0ab64
 canonical: 12208-mifid-ii-the-impact-on-finance-sector-comms.json
 ---
