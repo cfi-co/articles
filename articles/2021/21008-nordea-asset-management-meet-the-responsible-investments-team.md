@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630140206
 wayback_snapshot_url: "http://web.archive.org/web/20220630140206/https://cfi.co/menu/corporate/2021/11/nordea-asset-management-meet-the-responsible-investments-team/"
+license: CFI-OAAL-1.0
 content_sha256: 936073689004392c496dd530f9309b463fd0ec8e18e19d424fe34f08899bac60
 canonical: 21008-nordea-asset-management-meet-the-responsible-investments-team.json
 ---
