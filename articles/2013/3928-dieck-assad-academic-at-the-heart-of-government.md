@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720183512
 wayback_snapshot_url: "http://web.archive.org/web/20190720183512/https://cfi.co/latinamerica/2013/05/dieck-assad-academic-at-the-heart-of-government/"
+license: CFI-OAAL-1.0
 content_sha256: 67309f04ae83a70df80f2c1ac101ec404c73227d83979656a76b8ad8e424c367
 canonical: 3928-dieck-assad-academic-at-the-heart-of-government.json
 ---

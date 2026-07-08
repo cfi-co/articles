@@ -23,10 +23,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190720183512",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190720183512/https://cfi.co/latinamerica/2013/05/dieck-assad-academic-at-the-heart-of-government/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190720183512/https://cfi.co/latinamerica/2013/05/dieck-assad-academic-at-the-heart-of-government/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_3933\" align=\"alignright\" width=\"196\"]<img class=\" wp-image-3933 \" alt=\"Maria de Lourdes Dieck-Assad\" src=\"https://cfi.co/wp-content/uploads/2013/05/Maria-de-Lourdes-Dieck-Assad.jpg\" width=\"196\" height=\"192\" /> <strong>Maria de Lourdes Dieck-Assad</strong>[/caption]\r\n<p style=\"text-align: justify;\"><strong>Dr. Maria de Lourdes Dieck-Assad is the rector of EGADE, one of Latin America's leading business schools.</strong> It is always worth taking note when business school leaders spend a significant part of their career outside academia. In Dr. Dieck-Assad's case her experience goes to the heart of Mexican government as she was an ambassador and also served as chief of the Mexican Mission to the European Union. Her understanding of cross-sector relationships between business, government and academia is helping  drive the school forward. Under her guidance EGADE is becoming recognised not just as a leading Latin American school but as a true centre of excellence providing Mexican and international students with a real understanding of global business. Of particular interest is the work being done on project adaptation and how it can help mitigate risk - and more importantly, the effort put into creating real world solutions and spreading the knowledge to stakeholders in particular those running SMEs.</p>",
     "content_sha256": "67309f04ae83a70df80f2c1ac101ec404c73227d83979656a76b8ad8e424c367",
-    "record_sha256": "8273d007ab8401fb3368ff9573ad18da0db5226c849441a2db9cd63319ac196b"
+    "record_sha256": "3753b923e202bbc03b75c7d4a584e9152bc1b5f74306d5b1c0fde1552b8f2d90"
 }
