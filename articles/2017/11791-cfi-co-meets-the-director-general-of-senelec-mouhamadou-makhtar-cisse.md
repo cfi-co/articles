@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818131959
 wayback_snapshot_url: "http://web.archive.org/web/20190818131959/https://cfi.co/corporate-leaders/2017/08/cfi-co-meets-the-director-general-of-senelec-mouhamadou-makhtar-cisse/"
+license: CFI-OAAL-1.0
 content_sha256: 60328b211cb1bfc76c6a0cfbc9b0abf5cfd68cf0dd715640fddf693f216fe992
 canonical: 11791-cfi-co-meets-the-director-general-of-senelec-mouhamadou-makhtar-cisse.json
 ---
