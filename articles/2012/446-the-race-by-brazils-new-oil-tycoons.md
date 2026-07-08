@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724025629
 wayback_snapshot_url: "http://web.archive.org/web/20190724025629/https://cfi.co/africa/2012/03/the-race-by-brazils-new-oil-tycoons/"
+license: CFI-OAAL-1.0
 content_sha256: 43f7f21b155343551d02e71f699093306358f467cf74ede0b43bcb31eb07756a
 canonical: 446-the-race-by-brazils-new-oil-tycoons.json
 ---
