@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180705210305
 wayback_snapshot_url: "http://web.archive.org/web/20180705210305/http://cfi.co/asia-pacific/2015/07/wbg-launches-new-country-partnership-framework-to-support-azerbaijans-sustainable-inclusive-and-resilient-growth/"
+license: CFI-OAAL-1.0
 content_sha256: 15fa8c26df7429e1837042e899f43377ff5df0545c2112a113a14190f3af65b7
 canonical: 10132-wbg-launches-new-country-partnership-framework-to-support-azerbaijans-sustainabl.json
 ---
