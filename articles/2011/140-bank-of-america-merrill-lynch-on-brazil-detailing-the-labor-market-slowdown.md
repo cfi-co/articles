@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720033645
 wayback_snapshot_url: "http://web.archive.org/web/20190720033645/https://cfi.co/latinamerica/2011/12/bank-of-america-merrill-lynch-on-brazil-detailing-the-labor-market-slowdown/"
+license: CFI-OAAL-1.0
 content_sha256: 1dc0d878b9bbe3ae76c4e2612455c3669f2a1489058ab54e50540f3944bd5e8c
 canonical: 140-bank-of-america-merrill-lynch-on-brazil-detailing-the-labor-market-slowdown.json
 ---
