@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818135010
 wayback_snapshot_url: "http://web.archive.org/web/20190818135010/https://cfi.co/banking/2013/10/peter-blom-of-triodos-bank-the-assimilated-radical/"
+license: CFI-OAAL-1.0
 content_sha256: d0c67f3a94322c8b71b7f856153f72a1ce4fc16cdc6330757893e5907a618ed0
 canonical: 5460-peter-blom-of-triodos-bank-the-assimilated-radical.json
 ---
