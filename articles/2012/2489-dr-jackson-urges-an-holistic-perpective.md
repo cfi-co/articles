@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190916043345
 wayback_snapshot_url: "http://web.archive.org/web/20190916043345/https://cfi.co/editors-picks/2012/11/dr-jackson-urges-an-holistic-perpective/"
+license: CFI-OAAL-1.0
 content_sha256: 3ee48be43aed02c0cfa0b6a7030801af0edb4b8d634d7b819874fad3981d7829
 canonical: 2489-dr-jackson-urges-an-holistic-perpective.json
 ---
