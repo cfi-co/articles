@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720032019
 wayback_snapshot_url: "http://web.archive.org/web/20190720032019/https://cfi.co/europe/2018/10/maserati-on-value-creation-trident-badge-and-a-heady-rumble-mean-business-on-the-road-and-in-the-showroom/"
+license: CFI-OAAL-1.0
 content_sha256: 994f4ef1ecaf4623805f8fb6c68683791d66de206a19651cadc617629468cd33
 canonical: 13075-maserati-on-value-creation-trident-badge-and-a-heady-rumble-mean-business-on-the.json
 ---
