@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200526052253
 wayback_snapshot_url: "http://web.archive.org/web/20200526052253/https://cfi.co/menu/reviews/2015/02/pikettys-capital-a-problem-analysed-in-depth-but-not-solved/"
+license: CFI-OAAL-1.0
 content_sha256: 727b4c346aa0cb8bcd5313cd610b8880fa1d881aeaee45642be400345598d054
 canonical: 9303-pikettys-capital-a-problem-analysed-in-depth-but-not-solved.json
 ---
