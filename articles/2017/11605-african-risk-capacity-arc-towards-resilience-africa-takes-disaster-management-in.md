@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422024216
 wayback_snapshot_url: "http://web.archive.org/web/20210422024216/https://cfi.co/menu/corporate/2017/05/african-risk-capacity-arc-towards-resilience-africa-takes-disaster-management-into-its-own-hands/"
+license: CFI-OAAL-1.0
 content_sha256: 4c0b74b76383f2f0172370222e6ee318fab6bcafb69539fa73dcb866e5dc9751
 canonical: 11605-african-risk-capacity-arc-towards-resilience-africa-takes-disaster-management-in.json
 ---
