@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230426130738
 wayback_snapshot_url: "http://web.archive.org/web/20230426130738/https://cfi.co/africa/2023/04/yofi-grant-gipc-invest-africa"
+license: CFI-OAAL-1.0
 content_sha256: 233311ad320b4b29b2ff8928823612a4b9d142396ff90448181d671bd5189187
 canonical: 25172-yofi-grant.json
 ---
