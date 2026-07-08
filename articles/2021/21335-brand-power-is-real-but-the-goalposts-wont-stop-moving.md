@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220528110927
 wayback_snapshot_url: "http://web.archive.org/web/20220528110927/https://cfi.co/brave-new-world/2021/12/brand-power-is-real-but-the-goalposts-wont-stop-moving/"
+license: CFI-OAAL-1.0
 content_sha256: 770a810dc32659ef879d3821c5d1a247fe6cbab87786fb3dacf9f24537bf0c1e
 canonical: 21335-brand-power-is-real-but-the-goalposts-wont-stop-moving.json
 ---
