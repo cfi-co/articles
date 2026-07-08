@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230731183921
 wayback_snapshot_url: "http://web.archive.org/web/20230731183921/https://cfi.co/brave-new-world/2023/07/data-sharing-privacy-agreement-to-limit-prying-by-us-intelligence/"
+license: CFI-OAAL-1.0
 content_sha256: dfa5654cabd6c86116a3fe3ac6f8bcf8d28114b8c97c22c2bf06e0d5d3ca8cca
 canonical: 25781-data-sharing-privacy-agreement-to-limit-prying-by-us-intelligence.json
 ---
