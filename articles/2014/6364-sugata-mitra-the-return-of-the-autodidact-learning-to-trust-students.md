@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327125655
 wayback_snapshot_url: "http://web.archive.org/web/20140327125655/http://cfi.co/europe/2014/01/sugata-mitra-the-return-of-the-autodidact-learning-to-trust-students/"
+license: CFI-OAAL-1.0
 content_sha256: 1d9c81b5880dd7cd38c6fd752268d8acb36e842d89095e5246ddf7df67011c5a
 canonical: 6364-sugata-mitra-the-return-of-the-autodidact-learning-to-trust-students.json
 ---
