@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210212191926
 wayback_snapshot_url: "http://web.archive.org/web/20210212191926/https://cfi.co/banking/2021/02/otaviano-canuto-central-banks-and-inequality/"
+license: CFI-OAAL-1.0
 content_sha256: 4f98a65377aca008a1c666a62c3c748e69a325ad8b0415048a93658b1da395c0
 canonical: 18765-otaviano-canuto-central-banks-and-inequality.json
 ---
