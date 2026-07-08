@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200924034502
 wayback_snapshot_url: "http://web.archive.org/web/20200924034502/https://cfi.co/c-19/2020/09/the-twilight-zone-of-fiscal-stimulus/"
+license: CFI-OAAL-1.0
 content_sha256: 3821976cb86c8dade41c5e092fec6267e53b4f69e4c448a414b093ac778b6857
 canonical: 16981-the-twilight-zone-of-fiscal-stimulus.json
 ---
