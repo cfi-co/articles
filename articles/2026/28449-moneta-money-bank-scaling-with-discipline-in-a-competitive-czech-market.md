@@ -19,6 +19,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524045702
 wayback_snapshot_url: "http://web.archive.org/web/20260524045702/https://cfi.co/banking/2026/05/moneta-money-bank-scaling-with-discipline-in-a-competitive-czech-market/"
+license: CFI-OAAL-1.0
 content_sha256: 396f8bafe39b6ad2709590e9ed185576b6e3a43ee16e58653fb98b18ab033b20
 canonical: 28449-moneta-money-bank-scaling-with-discipline-in-a-competitive-czech-market.json
 ---
