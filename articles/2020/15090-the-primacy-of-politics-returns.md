@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200921042309
 wayback_snapshot_url: "http://web.archive.org/web/20200921042309/https://cfi.co/c-19/2020/04/the-primacy-of-politics-returns/"
+license: CFI-OAAL-1.0
 content_sha256: bd5192073a04bd8592df8abe9cee1965b9033ded154139cb23ae6355c264f8e5
 canonical: 15090-the-primacy-of-politics-returns.json
 ---
