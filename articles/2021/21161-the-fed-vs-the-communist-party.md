@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211118131845
 wayback_snapshot_url: "http://web.archive.org/web/20211118131845/https://cfi.co/asia-pacific/2021/11/the-fed-vs-the-communist-party/"
+license: CFI-OAAL-1.0
 content_sha256: f9448b6383e4719c345c2af990fed4b46a48828d9d1ee05be65721d091315b9d
 canonical: 21161-the-fed-vs-the-communist-party.json
 ---
