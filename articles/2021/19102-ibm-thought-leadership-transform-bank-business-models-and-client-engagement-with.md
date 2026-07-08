@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210315160121
 wayback_snapshot_url: "http://web.archive.org/web/20210315160121/https://cfi.co/technology/2021/03/ibm-thought-leadership-transform-bank-business-models-and-client-engagement-with-open-hybrid-multicloud/"
+license: CFI-OAAL-1.0
 content_sha256: d923ea78ab5d5ecca48ac171e7fb22b3c855367d1944d2a0a8d67b5666d1482c
 canonical: 19102-ibm-thought-leadership-transform-bank-business-models-and-client-engagement-with.json
 ---
