@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630132324
 wayback_snapshot_url: "http://web.archive.org/web/20220630132324/https://cfi.co/menu/corporate/2022/05/biat-supporting-clients-thriving-in-challenging-era/"
+license: CFI-OAAL-1.0
 content_sha256: f9ebe507bea698ff8ed91120b017f86e571f0859ae90088840c30b69d293b565
 canonical: 21923-biat-supporting-clients-thriving-in-challenging-era.json
 ---
