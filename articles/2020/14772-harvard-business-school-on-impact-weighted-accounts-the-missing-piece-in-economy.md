@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200424135017
 wayback_snapshot_url: "http://web.archive.org/web/20200424135017/https://cfi.co/finance/2020/03/harvard-business-school-on-impact-weighted-accounts-the-missing-piece-in-economy-puzzle/"
+license: CFI-OAAL-1.0
 content_sha256: e4ba048416b269118ac6d0ab889001253ed0e289ddc3382b08a62c3c5b45ced9
 canonical: 14772-harvard-business-school-on-impact-weighted-accounts-the-missing-piece-in-economy.json
 ---
