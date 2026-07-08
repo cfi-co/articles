@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724090051
 wayback_snapshot_url: "http://web.archive.org/web/20190724090051/https://cfi.co/corporate-leaders/2018/09/cfi-co-meets-the-ceo-of-montpensier-finance-guillaume-dard/"
+license: CFI-OAAL-1.0
 content_sha256: bfe5b02280b4c757c6e356bdd68e59890d5a83b993e083edb69a013f27c53d5a
 canonical: 12930-cfi-co-meets-the-ceo-of-montpensier-finance-guillaume-dard.json
 ---
