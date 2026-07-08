@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210726064225
 wayback_snapshot_url: "http://web.archive.org/web/20210726064225/https://cfi.co/finance/2021/07/interview-with-grete-faremo-executive-director-of-unops-inclusive-infrastructure-development/"
+license: CFI-OAAL-1.0
 content_sha256: c9392275f1b919f8bcdea0fe6d7b2423dc2ccb8d732b9276a8ce49b2711fe6cd
 canonical: 20258-interview-with-grete-faremo-executive-director-of-unops-inclusive-infrastructure.json
 ---
