@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132810
 wayback_snapshot_url: "http://web.archive.org/web/20190818132810/https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-of-golden-assets-antonio-nunes-da-silva/"
+license: CFI-OAAL-1.0
 content_sha256: 2cf8f12229799b9e0f16cb94374596860db144eef641fc17cdd1311b221107ef
 canonical: 10923-cfi-co-meets-the-ceo-of-golden-assets-antonio-nunes-da-silva.json
 ---
