@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225152345
 wayback_snapshot_url: "http://web.archive.org/web/20240225152345/https://cfi.co/brave-new-world/2024/01/major-tech-boost-for-logistics-sector/"
+license: CFI-OAAL-1.0
 content_sha256: e639ae7ec2a095bf2b45bc2b3ff154edb447a4ad81835130ce066e88b9c360fa
 canonical: 26618-major-tech-boost-for-logistics-sector.json
 ---
