@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625223218
 wayback_snapshot_url: "http://web.archive.org/web/20220625223218/https://cfi.co/menu/corporate/2019/01/artico-partners-are-major-co-investors-in-all-their-funds-the-importance-of-having-skin-in-the-game/"
+license: CFI-OAAL-1.0
 content_sha256: d3e9c8bad07c16427122c66783376b03f90ac534bfddd9df7633ac09979ccfad
 canonical: 21398-artico-partners-are-major-co-investors-in-all-their-funds-the-importance-of-havi.json
 ---
