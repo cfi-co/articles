@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211107045750
 wayback_snapshot_url: "http://web.archive.org/web/20211107045750/https://cfi.co/c-19/2021/10/home-is-where-the-mortgage-is-2008-crisis-has-lessons-for-sector/"
+license: CFI-OAAL-1.0
 content_sha256: f7827177ef5c23c2ff8655ee3d804a2c8d1d7b6009cf8feaa02ceef4a7da20dc
 canonical: 20868-home-is-where-the-mortgage-is-2008-crisis-has-lessons-for-sector.json
 ---
