@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170919224905
 wayback_snapshot_url: "http://web.archive.org/web/20170919224905/http://cfi.co/menu/obituaries/2015/08/eduardo-galeano-remembering-a-forgotten-continent/"
+license: CFI-OAAL-1.0
 content_sha256: d96eb23061460d4aed9fede1ec4ee88adede84d6795cbb1a24fc4a4b5f1c65b5
 canonical: 10215-eduardo-galeano-remembering-a-forgotten-continent.json
 ---
