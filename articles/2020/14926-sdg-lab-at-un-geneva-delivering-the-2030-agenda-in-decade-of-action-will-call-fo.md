@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200511154421
 wayback_snapshot_url: "http://web.archive.org/web/20200511154421/https://cfi.co/europe/2020/04/sdg-lab-at-un-geneva-delivering-the-2030-agenda-in-decade-of-action-will-call-for-co-operation-and-courage/"
+license: CFI-OAAL-1.0
 content_sha256: 35eece08abfb8b97604e10500b73ca0350dd17bb32dcdeda2e2e5f97089691d2
 canonical: 14926-sdg-lab-at-un-geneva-delivering-the-2030-agenda-in-decade-of-action-will-call-fo.json
 ---
