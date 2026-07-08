@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230323022909
 wayback_snapshot_url: "http://web.archive.org/web/20230323022909/https://cfi.co/menu/corporate/2022/11/dr-rak-vorrakitpokatorn-the-steps-to-sustainability/"
+license: CFI-OAAL-1.0
 content_sha256: 4182548761e4bfc40a169c81416bceadb03d08ef20f88b498504e376a7dc43a2
 canonical: 23866-dr-rak-vorrakitpokatorn-the-steps-to-sustainability.json
 ---
