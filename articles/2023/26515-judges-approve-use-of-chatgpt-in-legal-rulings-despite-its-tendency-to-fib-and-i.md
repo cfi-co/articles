@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240101174820
 wayback_snapshot_url: "http://web.archive.org/web/20240101174820/https://cfi.co/legal/2023/12/judges-approve-use-of-chatgpt-in-legal-rulings-despite-its-tendency-to-fib-and-invent-false-cases/"
+license: CFI-OAAL-1.0
 content_sha256: 04efcc06d3459f8f9ab2c671216b05c5c44d92820757cdee39a872fd2afa2b07
 canonical: 26515-judges-approve-use-of-chatgpt-in-legal-rulings-despite-its-tendency-to-fib-and-i.json
 ---
