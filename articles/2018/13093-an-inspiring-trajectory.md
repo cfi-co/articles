@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720031813
 wayback_snapshot_url: "http://web.archive.org/web/20190720031813/https://cfi.co/wif2018/2018/10/an-inspiring-trajectory/"
+license: CFI-OAAL-1.0
 content_sha256: dafde5c2d6839702fd88a48fbe25a4793d10b19b8e8f74543ae3b44fc124254c
 canonical: 13093-an-inspiring-trajectory.json
 ---
