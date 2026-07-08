@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923181002
 wayback_snapshot_url: "http://web.archive.org/web/20230923181002/https://cfi.co/europe/2023/07/piotr-zawistowski-ceo-towarowa-gielda-energii/"
+license: CFI-OAAL-1.0
 content_sha256: 6a6ecfb56c839375183b09446e4b06266ad4ba2b00069cd16f8111a8d5adf1a6
 canonical: 25822-poles-apart-tge-has-created-its-own-space-in-the-energy-market.json
 ---
