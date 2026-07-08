@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231030233043
 wayback_snapshot_url: "http://web.archive.org/web/20231030233043/https://cfi.co/brave-new-world/2023/10/money-munitions-military-outlay-and-eus-plight-in-war-of-catch-up/"
+license: CFI-OAAL-1.0
 content_sha256: b508aa8020dfc7b752c776ea201a15c172323d8d9ac221c7d05c7bdb5b5e741f
 canonical: 26123-money-munitions-military-outlay-and-eus-plight-in-war-of-catch-up.json
 ---
