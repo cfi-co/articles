@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20171208155508
 wayback_snapshot_url: "http://web.archive.org/web/20171208155508/http://cfi.co/lifestyle/2015/10/ray-ban-wearable-icon/"
+license: CFI-OAAL-1.0
 content_sha256: af506f4b786363ed29d6c3a6b1131ad14196327eeab4c80234a0564ba9ed768d
 canonical: 10500-ray-ban-wearable-icon.json
 ---
