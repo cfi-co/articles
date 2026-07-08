@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190916045222",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190916045222/https://cfi.co/asia-pacific/2013/01/do-not-over-heat/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190916045222/https://cfi.co/asia-pacific/2013/01/do-not-over-heat/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\" wp-image-2846  alignright\" alt=\"\" src=\"https://cfi.co/wp-content/uploads/2013/01/beijing.jpg\" width=\"105\" height=\"79\" />\r\n<p style=\"text-align: justify;\"><strong>The IMF reports that powered by a resurgence in Asia, emerging markets, especially those of China and India are leading the world out of recession.</strong> In many emerging and developing economies, output is already above pre-crisis trends, suggesting that recovery is complete and expansion under way. But this brighter outlook is balanced by fears of possible asset bubbles produced by the flood of investment capital into the region.</p>\r\n\r\n<blockquote>\r\n<h4 style=\"text-align: justify;\">Data suggest that inflation pressure is broadening. In several of the larger emerging market economies, headline inflation is running close to or above central bank targets. Furthermore, some economies are experiencing a credit boom.</h4>\r\n</blockquote>\r\n<p style=\"text-align: justify;\">The risk that food and energy price increases will start an inflationary spiral is much greater in emerging and developing economies than in advanced economies. In many such economies, monetary conditions appear very accommodative: real interest rates remain far below pre-crisis levels, and the extent of expected tightening seems limited relative to what is needed.</p>",
     "content_sha256": "32c3644a9f7f27e3cb81215bbd62e36a69361665912d0afd7237baf05b491acf",
-    "record_sha256": "0cd168b492134fd8527303ca65fb45b14e266bbe8a8e962341a5436d9f63dd0a"
+    "record_sha256": "097895dc31a529708c9b43a9bfc234e7137398a59acdffc52680d55b6a879fd5"
 }
