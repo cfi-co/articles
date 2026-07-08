@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201105124117
 wayback_snapshot_url: "http://web.archive.org/web/20201105124117/https://cfi.co/menu/corporate/2020/10/alpha-mos-improving-human-life/"
+license: CFI-OAAL-1.0
 content_sha256: c10fb95e1baed8b36b9113fca213213d190adeedcf724d1f3a8e412e0d879bf7
 canonical: 17638-alpha-mos-improving-human-life.json
 ---
