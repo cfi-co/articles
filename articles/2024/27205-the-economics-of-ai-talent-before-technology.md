@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241112194835
 wayback_snapshot_url: "http://web.archive.org/web/20241112194835/https://cfi.co/middleeast/2024/10/the-economics-of-ai-talent-before-technology/"
+license: CFI-OAAL-1.0
 content_sha256: a7be4b499d884b205577e1f1ae87c6393d7ccd0f4d5345575ab422afe0e1c472
 canonical: 27205-the-economics-of-ai-talent-before-technology.json
 ---
