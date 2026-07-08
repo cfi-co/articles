@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240129093921
 wayback_snapshot_url: "http://web.archive.org/web/20240129093921/https://cfi.co/brave-new-world/2024/01/peace-of-mind-for-financial-services-industry-in-2024/"
+license: CFI-OAAL-1.0
 content_sha256: d17fd4c0c16c1853964db3877f9bfab85df1c623230f500ce5ef04138324ff14
 canonical: 26593-peace-of-mind-for-financial-services-industry-in-2024.json
 ---
