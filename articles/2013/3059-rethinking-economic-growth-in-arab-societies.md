@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818050110
 wayback_snapshot_url: "http://web.archive.org/web/20190818050110/https://cfi.co/middleeast/2013/02/rethinking-economic-growth-in-arab-societies/"
+license: CFI-OAAL-1.0
 content_sha256: b94679cf8c2989a4280af727a269647c5d354a6ea36853b840b55f9d9a9fecda
 canonical: 3059-rethinking-economic-growth-in-arab-societies.json
 ---
