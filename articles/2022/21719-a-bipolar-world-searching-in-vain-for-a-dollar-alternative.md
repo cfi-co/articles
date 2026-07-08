@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220421095633
 wayback_snapshot_url: "http://web.archive.org/web/20220421095633/https://cfi.co/brave-new-world/2022/04/a-bipolar-world-searching-in-vain-for-a-dollar-alternative/"
+license: CFI-OAAL-1.0
 content_sha256: 9f0e57470bf7c6409de83b738be21edc19bda10f0489f45146bcffd7560f1fd2
 canonical: 21719-a-bipolar-world-searching-in-vain-for-a-dollar-alternative.json
 ---
