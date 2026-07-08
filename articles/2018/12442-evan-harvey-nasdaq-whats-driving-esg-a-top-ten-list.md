@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825103814
 wayback_snapshot_url: "http://web.archive.org/web/20190825103814/https://cfi.co/northamerica/2018/04/evan-harvey-nasdaq-whats-driving-esg-a-top-ten-list/"
+license: CFI-OAAL-1.0
 content_sha256: 51cf8ae05e1dbeaf1ea4611d3fd73c28b3538cfab17fefcc7b68434f2e140383
 canonical: 12442-evan-harvey-nasdaq-whats-driving-esg-a-top-ten-list.json
 ---
