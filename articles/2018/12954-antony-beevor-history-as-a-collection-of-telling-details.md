@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200514194647
 wayback_snapshot_url: "http://web.archive.org/web/20200514194647/https://cfi.co/editors-picks/2018/09/antony-beevor-history-as-a-collection-of-telling-details/"
+license: CFI-OAAL-1.0
 content_sha256: 35dfc2407bd566b1415e3da5565db3f4464a7d379a961f9a5149dd4ce7e47435
 canonical: 12954-antony-beevor-history-as-a-collection-of-telling-details.json
 ---
