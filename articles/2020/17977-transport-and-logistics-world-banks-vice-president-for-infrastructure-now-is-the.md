@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210315175953
 wayback_snapshot_url: "http://web.archive.org/web/20210315175953/https://cfi.co/banking/2020/11/transport-and-logistics-world-banks-vice-president-for-infrastructure-now-is-the-time-to-rethink/"
+license: CFI-OAAL-1.0
 content_sha256: 24f46db53ca9d862f0390ca93644b9f7d9fbf54260fa34ae9b6faf1bb1f0e8b0
 canonical: 17977-transport-and-logistics-world-banks-vice-president-for-infrastructure-now-is-the.json
 ---
