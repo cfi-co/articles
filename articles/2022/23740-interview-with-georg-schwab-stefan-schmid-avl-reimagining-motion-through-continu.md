@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221027144923
 wayback_snapshot_url: "http://web.archive.org/web/20221027144923/https://cfi.co/menu/corporate/2022/10/interview-with-georg-schwab-stefan-schmid-avl-reimagining-motion-through-continuous-innovation/"
+license: CFI-OAAL-1.0
 content_sha256: a513cee9b6ad35553314635694dc13cc995d8dc8f7868a35279dca9599f81305
 canonical: 23740-interview-with-georg-schwab-stefan-schmid-avl-reimagining-motion-through-continu.json
 ---
