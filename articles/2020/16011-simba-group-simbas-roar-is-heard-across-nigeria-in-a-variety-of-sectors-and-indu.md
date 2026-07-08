@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200706141252
 wayback_snapshot_url: "http://web.archive.org/web/20200706141252/https://cfi.co/africa/2020/07/simba-group-simbas-roar-is-heard-across-nigeria-in-a-variety-of-sectors-and-industries/"
+license: CFI-OAAL-1.0
 content_sha256: 214ec91c04f6d3e87789153147bb1a480777cefd22df4aa046bca1882a8d7963
 canonical: 16011-simba-group-simbas-roar-is-heard-across-nigeria-in-a-variety-of-sectors-and-indu.json
 ---
