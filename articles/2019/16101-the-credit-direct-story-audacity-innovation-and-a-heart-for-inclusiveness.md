@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920210442
 wayback_snapshot_url: "http://web.archive.org/web/20200920210442/https://cfi.co/corporate-leaders/2019/10/the-credit-direct-story-audacity-innovation-and-a-heart-for-inclusiveness/"
+license: CFI-OAAL-1.0
 content_sha256: 7fa571bcbb244e09ff493c145155b1bc416e2e908d2c0ead641497a47f3488fa
 canonical: 16101-the-credit-direct-story-audacity-innovation-and-a-heart-for-inclusiveness.json
 ---
