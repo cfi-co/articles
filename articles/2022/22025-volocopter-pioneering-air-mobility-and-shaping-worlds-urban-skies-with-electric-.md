@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220625221636
 wayback_snapshot_url: "http://web.archive.org/web/20220625221636/https://cfi.co/menu/corporate/2022/05/volocopter-pioneering-air-mobility-and-shaping-worlds-urban-skies-with-electric-fleet/"
+license: CFI-OAAL-1.0
 content_sha256: 22a2c77e30c7f4f338558a0d6886ef2a9f9d1d23eb4e6cdde7b244e5d9b83da3
 canonical: 22025-volocopter-pioneering-air-mobility-and-shaping-worlds-urban-skies-with-electric-.json
 ---
