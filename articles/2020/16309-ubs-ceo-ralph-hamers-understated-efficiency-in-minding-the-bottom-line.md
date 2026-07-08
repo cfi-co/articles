@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200918195940
 wayback_snapshot_url: "http://web.archive.org/web/20200918195940/https://cfi.co/banking/2020/07/ubs-ceo-ralph-hamers-understated-efficiency-in-minding-the-bottom-line/"
+license: CFI-OAAL-1.0
 content_sha256: efab817a2fb43a3c2df2ba79016d09ac8785358b017a5c1a1b5c8b89a6e8f81a
 canonical: 16309-ubs-ceo-ralph-hamers-understated-efficiency-in-minding-the-bottom-line.json
 ---
