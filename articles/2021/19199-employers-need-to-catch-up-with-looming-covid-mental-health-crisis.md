@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418045103
 wayback_snapshot_url: "http://web.archive.org/web/20210418045103/https://cfi.co/c-19/2021/03/employers-need-to-catch-up-with-looming-covid-mental-health-crisis/"
+license: CFI-OAAL-1.0
 content_sha256: 28d29c5227d802cbbbd7ce8982e0acc35fdc4534b7da38a8ac96a3c2ab7e403e
 canonical: 19199-employers-need-to-catch-up-with-looming-covid-mental-health-crisis.json
 ---
