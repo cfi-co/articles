@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200424113902
 wayback_snapshot_url: "http://web.archive.org/web/20200424113902/https://cfi.co/finance/2019/12/mohamed-a-el-erian-how-the-imf-can-battle-gradual-irrelevance/"
+license: CFI-OAAL-1.0
 content_sha256: eaa8ff4c882a318b5173a01ed2f7bc50be55677b62039073acc6ea56ed978b65
 canonical: 14441-mohamed-a-el-erian-how-the-imf-can-battle-gradual-irrelevance.json
 ---
