@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200924025040
 wayback_snapshot_url: "http://web.archive.org/web/20200924025040/https://cfi.co/menu/corporate/2019/10/megalabs-brand-new-brand-with-innovative-values-and-penchant-for-perfection/"
+license: CFI-OAAL-1.0
 content_sha256: 711ad9fb7fcb38eb5d4ce1472adfa080c1c4a0b2be0fc16959f69b5813bf1247
 canonical: 16137-megalabs-brand-new-brand-with-innovative-values-and-penchant-for-perfection.json
 ---
