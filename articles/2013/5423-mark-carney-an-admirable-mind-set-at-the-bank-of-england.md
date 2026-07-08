@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818052822
 wayback_snapshot_url: "http://web.archive.org/web/20190818052822/https://cfi.co/banking/2013/10/mark-carney-an-admirable-mind-set-at-the-bank-of-england/"
+license: CFI-OAAL-1.0
 content_sha256: 5c49db3aee668f8ae372b573145552a8191fa2515fd2c96b79c6b30116e02c00
 canonical: 5423-mark-carney-an-admirable-mind-set-at-the-bank-of-england.json
 ---
