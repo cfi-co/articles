@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240522235428
 wayback_snapshot_url: "http://web.archive.org/web/20240522235428/https://cfi.co/technology/2024/04/the-evolution-of-online-search-the-role-of-artificial-intelligence/"
+license: CFI-OAAL-1.0
 content_sha256: e376681709bb93219d91964db12e43ebcfe83e526032440e2b3fb1e0bc01fc87
 canonical: 26768-the-evolution-of-online-search-the-role-of-artificial-intelligence.json
 ---
