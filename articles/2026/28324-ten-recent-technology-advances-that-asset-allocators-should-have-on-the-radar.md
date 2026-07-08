@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260315112311
 wayback_snapshot_url: "http://web.archive.org/web/20260315112311/https://cfi.co/menu/innovation-technology/2026/03/ten-recent-technology-advances-that-asset-allocators-should-have-on-the-radar/"
+license: CFI-OAAL-1.0
 content_sha256: 9c75747f48254d91691b1a4dee5865bdd261dd8fae20152a0fff7974cf6675f1
 canonical: 28324-ten-recent-technology-advances-that-asset-allocators-should-have-on-the-radar.json
 ---
