@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201101033148
 wayback_snapshot_url: "http://web.archive.org/web/20201101033148/https://cfi.co/europe/2020/10/whither-interest-rates-in-advanced-economies-low-for-long/"
+license: CFI-OAAL-1.0
 content_sha256: bda88c6cbb827c84e02d32ed7f1e6fb98bb72d5025b477230b0636dc544ba634
 canonical: 17456-whither-interest-rates-in-advanced-economies-low-for-long.json
 ---
