@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140705095411
 wayback_snapshot_url: "http://web.archive.org/web/20140705095411/http://cfi.co/europe/2014/05/nicholas-brady-soccer-finance-and-the-pragmatist-who-fixed-a-debt-crisis/"
+license: CFI-OAAL-1.0
 content_sha256: e503f657693a20949ed3c406eebd3a50c8be972ec0c2022a5caa2edbd5bfa012
 canonical: 7360-nicholas-brady-soccer-finance-and-the-pragmatist-who-fixed-a-debt-crisis.json
 ---
