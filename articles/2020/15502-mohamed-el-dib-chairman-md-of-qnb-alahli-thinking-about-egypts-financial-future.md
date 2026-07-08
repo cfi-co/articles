@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422024420
 wayback_snapshot_url: "http://web.archive.org/web/20210422024420/https://cfi.co/corporate-leaders/2020/06/mohamed-el-dib-chairman-md-of-qnb-alahli-thinking-about-egypts-financial-future/"
+license: CFI-OAAL-1.0
 content_sha256: 3c07cae30430103903332ae5d024345e4109710c4c498c7cdf889bc28b984c92
 canonical: 15502-mohamed-el-dib-chairman-md-of-qnb-alahli-thinking-about-egypts-financial-future.json
 ---
