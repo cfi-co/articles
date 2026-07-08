@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211015230507
 wayback_snapshot_url: "http://web.archive.org/web/20211015230507/https://cfi.co/menu/corporate/2021/08/interview-with-colin-sharp-c2fo-svp-emea-feeding-the-engine-room-of-economies-maintaining-diversity-and-ensuring-that-an-efficient-supply-chain-is-rewarded/"
+license: CFI-OAAL-1.0
 content_sha256: ad2eac96caa97eedad1a262434b8a871ff87518b74c58079bc91b205121667c3
 canonical: 20398-interview-with-colin-sharp-c2fo-svp-emea-feeding-the-engine-room-of-economies-ma.json
 ---
