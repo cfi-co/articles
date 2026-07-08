@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140826032240
 wayback_snapshot_url: "http://web.archive.org/web/20140826032240/http://cfi.co/editors-picks/2013/08/taiwans-cher-wang-a-different-set-of-challenges/"
+license: CFI-OAAL-1.0
 content_sha256: bcab08be7c6d182e52f1ded4dfe225819b5652339d845c6f930615cc0c82d2eb
 canonical: 4957-taiwans-cher-wang-a-different-set-of-challenges.json
 ---
