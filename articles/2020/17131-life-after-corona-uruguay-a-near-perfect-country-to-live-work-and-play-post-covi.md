@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210306121628
 wayback_snapshot_url: "http://web.archive.org/web/20210306121628/https://cfi.co/latinamerica/2020/10/life-after-corona-uruguay-a-near-perfect-country-to-live-work-and-play-post-covid-19/"
+license: CFI-OAAL-1.0
 content_sha256: 533690b92cdc7414f762f2f031915f0fe2e7488bd433d7ae7da3ac4e7fadedd8
 canonical: 17131-life-after-corona-uruguay-a-near-perfect-country-to-live-work-and-play-post-covi.json
 ---
