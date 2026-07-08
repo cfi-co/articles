@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230509053159
 wayback_snapshot_url: "http://web.archive.org/web/20230509053159/https://cfi.co/latinamerica/2023/04/caixas-ceo-maria-rita-serrano"
+license: CFI-OAAL-1.0
 content_sha256: 85498860bc9fd527abff7899835fc27259ebc96f0c78dc93e20a2ce7d780d0f7
 canonical: 25130-social-activist-turned-chief-executive.json
 ---
