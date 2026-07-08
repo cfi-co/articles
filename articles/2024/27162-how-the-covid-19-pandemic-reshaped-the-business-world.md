@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240924115051
 wayback_snapshot_url: "http://web.archive.org/web/20240924115051/https://cfi.co/sustainability/2024/09/how-the-covid-19-pandemic-reshaped-the-business-world/"
+license: CFI-OAAL-1.0
 content_sha256: 95eca141f4b2250fec26e348bfb40ba6cc8acd40c1c20b488ce8b70e256a525c
 canonical: 27162-how-the-covid-19-pandemic-reshaped-the-business-world.json
 ---
