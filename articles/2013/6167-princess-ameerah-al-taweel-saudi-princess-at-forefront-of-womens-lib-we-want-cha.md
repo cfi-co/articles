@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140327165111
 wayback_snapshot_url: "http://web.archive.org/web/20140327165111/http://cfi.co/middleeast/2013/12/princess-ameerah-al-taweel-saudi-princess-at-forefront-of-womens-lib-we-want-change/"
+license: CFI-OAAL-1.0
 content_sha256: 8c80fa34a1aa434d53f0c2b735d0071552c6d08c4ae2511cfc337cd893e8d074
 canonical: 6167-princess-ameerah-al-taweel-saudi-princess-at-forefront-of-womens-lib-we-want-cha.json
 ---
