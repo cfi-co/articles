@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170624043729
 wayback_snapshot_url: "http://web.archive.org/web/20170624043729/http://cfi.co/editors-picks/2016/05/nick-daloisio-coding-philosopher/"
+license: CFI-OAAL-1.0
 content_sha256: 71745867552282911c39e3b5d000b517cb5061252046bfacdfe51d0f3ea61b9a
 canonical: 11207-nick-daloisio-coding-philosopher.json
 ---
