@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220228153922
 wayback_snapshot_url: "http://web.archive.org/web/20220228153922/https://cfi.co/brave-new-world/2022/02/fortress-russia-on-shaky-ground-eu-finds-its-footing-and-unleashes-its-economic-might/"
+license: CFI-OAAL-1.0
 content_sha256: f90fb5c6e96fbbf2babadd2795f408c231fe4be2238a5566a6d5e4a19cc64bef
 canonical: 21599-fortress-russia-on-shaky-ground-eu-finds-its-footing-and-unleashes-its-economic-.json
 ---
