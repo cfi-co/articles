@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140209021345
 wayback_snapshot_url: "http://web.archive.org/web/20140209021345/http://cfi.co/europe/2014/01/world-bank-group-spurring-job-growth-in-the-western-balkans-research-and-innovation/"
+license: CFI-OAAL-1.0
 content_sha256: 867c2c5897f4a4335afbf32f40dd3a42c9dad1f1064fc54282148ed6729157e2
 canonical: 6441-world-bank-group-spurring-job-growth-in-the-western-balkans-research-and-innovat.json
 ---
