@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014231558
 wayback_snapshot_url: "http://web.archive.org/web/20191014231558/https://cfi.co/lifestyle/2014/12/temple-grandin-autism-drives-academic-excellence/"
+license: CFI-OAAL-1.0
 content_sha256: fdd23b6fb8763455e673223849e48120afe066da8dfbf557da4a4191b763c968
 canonical: 8468-temple-grandin-autism-drives-academic-excellence.json
 ---
