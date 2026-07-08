@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191014234314
 wayback_snapshot_url: "http://web.archive.org/web/20191014234314/https://cfi.co/latinamerica/2014/12/un-backed-project-to-help-colombian-farmers-move-away-from-illicit-crops-towards-fair-trade-chocolate/"
+license: CFI-OAAL-1.0
 content_sha256: a66b9dc291b0700ef9c93ea16d02ff459f8345db8ed75decf96460bf015830c5
 canonical: 8571-un-backed-project-to-help-colombian-farmers-move-away-from-illicit-crops-towards.json
 ---
