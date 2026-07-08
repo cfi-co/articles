@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210315180029
 wayback_snapshot_url: "http://web.archive.org/web/20210315180029/https://cfi.co/menu/corporate/2021/03/katia-coudray-ceo-of-asteria-investment-managers-leading-from-the-front-keeping-focus-on-specific-goals/"
+license: CFI-OAAL-1.0
 content_sha256: eaebfc8c9de3d06d3101db5edee6ce50da311e5183f228c8a3ed6e453c287a83
 canonical: 19027-katia-coudray-ceo-of-asteria-investment-managers-leading-from-the-front-keeping-.json
 ---
