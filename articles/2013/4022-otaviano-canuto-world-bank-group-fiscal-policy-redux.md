@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20131002175600
 wayback_snapshot_url: "http://web.archive.org/web/20131002175600/http://cfi.co/africa/2013/05/otaviano-canuto-world-bank-group-fiscal-policy-redux/"
+license: CFI-OAAL-1.0
 content_sha256: 4dbc0e766b202df6f6eb34aae05f88f42a1811bdb4a3ef2e893c8a2db5ba890b
 canonical: 4022-otaviano-canuto-world-bank-group-fiscal-policy-redux.json
 ---
