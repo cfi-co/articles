@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200707023547
 wayback_snapshot_url: "http://web.archive.org/web/20200707023547/https://cfi.co/sustainability/2020/03/business-in-times-of-corona-steering-economies-by-dead-reckoning/"
+license: CFI-OAAL-1.0
 content_sha256: c3f5a9950f30a68b440480d9cb3126434c4295e1469dc3dbcbb81339512c0ffd
 canonical: 14677-business-in-times-of-corona-steering-economies-by-dead-reckoning.json
 ---
