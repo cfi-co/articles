@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260625040427
 wayback_snapshot_url: "http://web.archive.org/web/20260625040427/https://cfi.co/northamerica/2026/06/the-hidden-titan-why-the-american-rail-network-is-the-unsung-engine-of-global-commerce/"
+license: CFI-OAAL-1.0
 content_sha256: 83057c7b15adc215582c1eb4095edd5586a7a1d678617701f3f86395292ebb69
 canonical: 28535-the-hidden-titan-why-the-american-rail-network-is-the-unsung-engine-of-global-co.json
 ---
