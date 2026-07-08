@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921101930
 wayback_snapshot_url: "http://web.archive.org/web/20210921101930/https://cfi.co/menu/corporate/2021/07/tanqia-blueprint-for-sustainable-treatment-is-blazing-trails-in-water-strapped-region/"
+license: CFI-OAAL-1.0
 content_sha256: b7144d56fb7a26b4631569d04f7bf14858b9a65ace983834219b6a683e1593a9
 canonical: 19956-tanqia-blueprint-for-sustainable-treatment-is-blazing-trails-in-water-strapped-r.json
 ---
