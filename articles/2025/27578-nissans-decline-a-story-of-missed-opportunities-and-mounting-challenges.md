@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250218075646
 wayback_snapshot_url: "http://web.archive.org/web/20250218075646/https://cfi.co/asia-pacific/2025/02/nissans-decline-a-story-of-missed-opportunities-and-mounting-challenges/"
+license: CFI-OAAL-1.0
 content_sha256: bad1e187fb0a94676e853655a086725bab1744e938e61e588e08ada3ef6c22e6
 canonical: 27578-nissans-decline-a-story-of-missed-opportunities-and-mounting-challenges.json
 ---
