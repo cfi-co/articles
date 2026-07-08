@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260616040125
 wayback_snapshot_url: "http://web.archive.org/web/20260616040125/https://cfi.co/asia-pacific/2026/06/asian-development-bank-why-the-rule-of-law-matters-for-private-sector-growth-in-asia-and-the-pacific/"
+license: CFI-OAAL-1.0
 content_sha256: ff5a8b6754d5445857024eba512e745aa8ce3b53b7ebea0cc0a462b15044e741
 canonical: 28526-asian-development-bank-why-the-rule-of-law-matters-for-private-sector-growth-in-.json
 ---
