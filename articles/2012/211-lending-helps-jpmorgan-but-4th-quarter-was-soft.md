@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720032122
 wayback_snapshot_url: "http://web.archive.org/web/20190720032122/https://cfi.co/finance/2012/02/lending-helps-jpmorgan-but-4th-quarter-was-soft/"
+license: CFI-OAAL-1.0
 content_sha256: d7e3e763eeb65277e647788cf62cbda0f72e12524c3b5b44f07ec0fde5c605e7
 canonical: 211-lending-helps-jpmorgan-but-4th-quarter-was-soft.json
 ---
