@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818133003
 wayback_snapshot_url: "http://web.archive.org/web/20190818133003/https://cfi.co/corporate-leaders/2016/01/cfi-co-meets-the-ceo-and-president-of-hidrovias-do-brasil-bruno-pessoa-serapiao/"
+license: CFI-OAAL-1.0
 content_sha256: 3e798d22d851f75341c0815a788d855a96113b4fa0a6e1d5356c7aaa6255c3f4
 canonical: 10858-cfi-co-meets-the-ceo-and-president-of-hidrovias-do-brasil-bruno-pessoa-serapiao.json
 ---
