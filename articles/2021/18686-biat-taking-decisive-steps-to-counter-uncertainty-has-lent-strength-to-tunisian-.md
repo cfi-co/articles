@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422030755
 wayback_snapshot_url: "http://web.archive.org/web/20210422030755/https://cfi.co/menu/corporate/2021/02/biat-taking-decisive-steps-to-counter-uncertainty-has-lent-strength-to-tunisian-society-and-economy/"
+license: CFI-OAAL-1.0
 content_sha256: ea89b21dd4ddc749ca42f6e55889395a9e9f366603f034ff9bdc18081bafcff4
 canonical: 18686-biat-taking-decisive-steps-to-counter-uncertainty-has-lent-strength-to-tunisian-.json
 ---
