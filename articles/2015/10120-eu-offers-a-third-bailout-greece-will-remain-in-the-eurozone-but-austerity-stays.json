@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20180705020359",
-        "wayback_snapshot_url": "http://web.archive.org/web/20180705020359/http://cfi.co/europe/2015/07/eu-offers-a-third-bailout-greece-will-remain-in-the-eurozone-but-austerity-stays-too/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20180705020359/http://cfi.co/europe/2015/07/eu-offers-a-third-bailout-greece-will-remain-in-the-eurozone-but-austerity-stays-too/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"alignright  wp-image-10121\" src=\"https://cfi.co/wp-content/uploads/2015/07/eu.jpg\" alt=\"eu\" width=\"288\" height=\"162\" />The EU has survived the Greek debt default crisis and after seventeen hours of negotiations agreement for a third bailout was reached today. Greek PM Alexis Tsipras termed the negotiations as a tough battle that resulted in a growth package and debt restructuring.</strong></p>\r\n<p style=\"text-align: justify;\">The EU will be financing the country to the tune of EUR 86 billion over the next three years. Greece must now commit to streamlining pensions, raising tax revenues and liberalising the labour market. There will be no Grexit. EC chief Junker commented that they were no winners or losers and what we are seeing here is a typical European arrangement.</p>\r\n<p style=\"text-align: justify;\">Austerity policies will continue in Greece and, as a result of the agreement, much of the country’s sovereignty will be given up to outside supervision. There will be quarterly external monitoring of the economy during the three years of funding.</p>",
     "content_sha256": "e8f5b458063916ca4960df65e88474fa056fa23b7c1728414de82bf6d2f8ebf3",
-    "record_sha256": "8717ea373181d425fe34ed852d11fe584c261d3c11cc004b8720a36768b4c4ff"
+    "record_sha256": "d717d996da8abd954ce976d9ec9ed57087d189e8cedabf29b168cf72126727e8"
 }

@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180705020359
 wayback_snapshot_url: "http://web.archive.org/web/20180705020359/http://cfi.co/europe/2015/07/eu-offers-a-third-bailout-greece-will-remain-in-the-eurozone-but-austerity-stays-too/"
+license: CFI-OAAL-1.0
 content_sha256: e8f5b458063916ca4960df65e88474fa056fa23b7c1728414de82bf6d2f8ebf3
 canonical: 10120-eu-offers-a-third-bailout-greece-will-remain-in-the-eurozone-but-austerity-stays.json
 ---
