@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140625144821
 wayback_snapshot_url: "http://web.archive.org/web/20140625144821/http://cfi.co/technology/2014/06/building-a-better-data-revolution/"
+license: CFI-OAAL-1.0
 content_sha256: 35b28a0f8e3c835fa1d2e74badf41d41eb03e465277d13dc636f47d865f9e3d0
 canonical: 7492-building-a-better-data-revolution.json
 ---
