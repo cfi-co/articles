@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210222082838
 wayback_snapshot_url: "http://web.archive.org/web/20210222082838/https://cfi.co/editors-picks/2021/02/charlene-cranny-tipping-point-year-on-the-road-to-net-zero-reality-with-a-transition-truly-under-way/"
+license: CFI-OAAL-1.0
 content_sha256: 0841b1f2d4872bc4eae9190193babca608e67a3ed18866fb4e5c0918cba843e2
 canonical: 18792-charlene-cranny-tipping-point-year-on-the-road-to-net-zero-reality-with-a-transi.json
 ---
