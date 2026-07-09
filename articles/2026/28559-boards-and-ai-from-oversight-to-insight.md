@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: c9965a85eac3110bfaca9946097fbc9140abab43620ab97b3c60adf57c0b5bb9
 canonical: 28559-boards-and-ai-from-oversight-to-insight.json
