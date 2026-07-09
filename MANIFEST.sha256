@@ -1,3 +1,4 @@
+a6985780088f32ba4de4eca4e096bca0bae7f9883b3fbaeb511eb3dcdd714b6d  .gitattributes
 267c112ef7327a06f2d9d07deb719f0ef83a260cca19cc172c1cd8cf3418bb26  .gitignore
 27a5b96755742a83737f6b0a69ac2e572e5343da1d171843c4af0853842a87a5  LICENCE.md
 d980217906a6e6b99595b5b72e0dbd98cafe3b60185513dc422cf4250d18db5b  README.md
@@ -5549,8 +5550,8 @@ c6355338b5ccba68fc7eab425eb4992eb853c602afd1a7161d3de6c0636953be  articles/2026/
 92594c797eb047dbe3fb5afb72598ec552641d3d094474b70b2cbcfe9bf618dc  articles/2026/28550-vistra-making-global-expansion-feel-borderless.md
 1af6b8868bfb0ba99ed6f7ff79702dd9be7b4935d57f118c26ae602bec1ca21a  articles/2026/28556-the-gilded-sanctuary-inside-the-last-bastion-of-the-british-gentleman.json
 653a7220fd05243a22a092976b4a34524d3f113e1eed66caea0bb9cd8e95b756  articles/2026/28556-the-gilded-sanctuary-inside-the-last-bastion-of-the-british-gentleman.md
-90a59a50e22377938b3393bd16bce5bba9aac52372e9070daf9766cdfd6a42a7  articles/2026/28559-boards-and-ai-from-oversight-to-insight.json
-1c099ca797a7d534515b6b2ea2f7cbc4ea55e236187f33d7221cc6fafae9ba64  articles/2026/28559-boards-and-ai-from-oversight-to-insight.md
+08a1468e168981d94b29b0ac4d031c0e0058785845a580f25a4bdb2f8de62260  articles/2026/28559-boards-and-ai-from-oversight-to-insight.json
+f3059a34412297bbb4c9b70bc349bbd2f0947aa75247a834e10cc40ccd566411  articles/2026/28559-boards-and-ai-from-oversight-to-insight.md
 b38ad401b744adfac7757e82bccb45dd9fbd443b9602e554e75df7cd69ae6ebb  scripts/commit.sh
 b179c1a850cb6aed9471187e9fa2b9eda90b41281730a55d8d3fe06d2b93bac9  scripts/export.php
 280dceea9fa442cb93283a2a5db25df5fcdc42b0dc85480f97695bd3aaf51524  scripts/gh-app-token.php
