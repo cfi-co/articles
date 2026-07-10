@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: e85b6cf6e3afebb06a6a272ae95203037521bfb36411cea80c7e5a146c60f2e5
 canonical: 28574-the-bioforge-prophecy-how-houstons-enzyme-engineers-are-decarbonising-the-period.json
