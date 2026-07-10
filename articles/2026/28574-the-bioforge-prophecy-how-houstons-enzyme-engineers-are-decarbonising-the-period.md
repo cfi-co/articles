@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260710100628
+wayback_snapshot_url: "http://web.archive.org/web/20260710100628/https://cfi.co/technology/2026/07/the-bioforge-prophecy-how-houstons-enzyme-engineers-are-decarbonising-the-periodic-table/"
 license: CFI-OAAL-1.0
 content_sha256: e85b6cf6e3afebb06a6a272ae95203037521bfb36411cea80c7e5a146c60f2e5
 canonical: 28574-the-bioforge-prophecy-how-houstons-enzyme-engineers-are-decarbonising-the-period.json
