@@ -1,8 +1,9 @@
 a6985780088f32ba4de4eca4e096bca0bae7f9883b3fbaeb511eb3dcdd714b6d  .gitattributes
+569e88dd55cf993b8332d2bb062a8be6b8463b62a3ab9bb1ea0d843da73d6d7d  .github/workflows/verify.yml
 267c112ef7327a06f2d9d07deb719f0ef83a260cca19cc172c1cd8cf3418bb26  .gitignore
 27a5b96755742a83737f6b0a69ac2e572e5343da1d171843c4af0853842a87a5  LICENCE.md
 4077815a4437ab2fa85ec03a822104c65747cf052cb6d6834386e8864da0d121  README-AI.md
-d980217906a6e6b99595b5b72e0dbd98cafe3b60185513dc422cf4250d18db5b  README.md
+19c3cfb2d53da18822e2e37c22f88eed7d206bc562738ad412688cf9a210c653  README.md
 e6b87bcdf65d24815a82f67bf3cb823ce806ede2b308331f06d2228be2c13310  SIGNING-KEY.asc
 0cd2338774dc8b1033ee19cde568dfbac7d2d1cb66a44d9b64e5645e0c425803  articles/2011/108-singapore-to-allow-domestic-foreign-law-firm-mergers.json
 b7f4effbe1f4ecc815f9afaaa1db2ce7c010572086f9fb454181ed47bd6dbdd3  articles/2011/108-singapore-to-allow-domestic-foreign-law-firm-mergers.md
@@ -5552,10 +5553,10 @@ c6355338b5ccba68fc7eab425eb4992eb853c602afd1a7161d3de6c0636953be  articles/2026/
 92594c797eb047dbe3fb5afb72598ec552641d3d094474b70b2cbcfe9bf618dc  articles/2026/28550-vistra-making-global-expansion-feel-borderless.md
 1af6b8868bfb0ba99ed6f7ff79702dd9be7b4935d57f118c26ae602bec1ca21a  articles/2026/28556-the-gilded-sanctuary-inside-the-last-bastion-of-the-british-gentleman.json
 653a7220fd05243a22a092976b4a34524d3f113e1eed66caea0bb9cd8e95b756  articles/2026/28556-the-gilded-sanctuary-inside-the-last-bastion-of-the-british-gentleman.md
-08a1468e168981d94b29b0ac4d031c0e0058785845a580f25a4bdb2f8de62260  articles/2026/28559-boards-and-ai-from-oversight-to-insight.json
-f3059a34412297bbb4c9b70bc349bbd2f0947aa75247a834e10cc40ccd566411  articles/2026/28559-boards-and-ai-from-oversight-to-insight.md
-59b664c7e9660cc63ad113bfcefcbc7311de766919c19c3be7da8b8d30c5b1a2  articles/2026/28574-the-bioforge-prophecy-how-houstons-enzyme-engineers-are-decarbonising-the-period.json
-d9fd536c0a64b48cccdd8d7c386fe8c6dd2c41886aca3b7b64ec8a9cbab23fdc  articles/2026/28574-the-bioforge-prophecy-how-houstons-enzyme-engineers-are-decarbonising-the-period.md
+98ded07a995844969247a74c2d2a41b606a9cefef7e3de6a288ebb91e7e65695  articles/2026/28559-boards-and-ai-from-oversight-to-insight.json
+d853695077a6368f5ee9c90784d208f3028476697a920ba6b78c7da5b37a19db  articles/2026/28559-boards-and-ai-from-oversight-to-insight.md
+d46d2008386d5d7a2801fb4e6bc67c7ab7ecf693171fce68a84af9b912b2f806  articles/2026/28574-the-bioforge-prophecy-how-houstons-enzyme-engineers-are-decarbonising-the-period.json
+f3ae6bd566cf302c5908d4d3bdd4bb0b8791123846568425902c6256a986b504  articles/2026/28574-the-bioforge-prophecy-how-houstons-enzyme-engineers-are-decarbonising-the-period.md
 4fe77c2e5afc053964863d99f7606cf2a04d671d03d9f7e9bb1bb746b4ee988c  schema.json
 b38ad401b744adfac7757e82bccb45dd9fbd443b9602e554e75df7cd69ae6ebb  scripts/commit.sh
 b179c1a850cb6aed9471187e9fa2b9eda90b41281730a55d8d3fe06d2b93bac9  scripts/export.php
