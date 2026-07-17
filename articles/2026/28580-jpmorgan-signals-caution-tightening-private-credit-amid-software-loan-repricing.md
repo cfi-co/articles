@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260716051311
+wayback_snapshot_url: "http://web.archive.org/web/20260716051311/https://cfi.co/banking/2026/07/jpmorgan-signals-caution-tightening-private-credit-amid-software-loan-repricing/"
 license: CFI-OAAL-1.0
 content_sha256: e6b2ae0b20fbcbba60a8e5b14e951c5896b06f3240df3e0f566487be45049434
 canonical: 28580-jpmorgan-signals-caution-tightening-private-credit-amid-software-loan-repricing.json
