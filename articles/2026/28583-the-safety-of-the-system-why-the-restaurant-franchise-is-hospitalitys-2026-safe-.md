@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 5ce99577986e953869467687f92156fc5acc03c6e738d892847438ab7eb62f86
 canonical: 28583-the-safety-of-the-system-why-the-restaurant-franchise-is-hospitalitys-2026-safe-.json
