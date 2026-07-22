@@ -16,7 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 9d4b851853efed71bd81f254714165c07d3d658327470f40b0587294b6b97189
 canonical: 28549-kim-jenkins-building-vistras-next-chapter-around-digital-scale-and-client-choice.json
