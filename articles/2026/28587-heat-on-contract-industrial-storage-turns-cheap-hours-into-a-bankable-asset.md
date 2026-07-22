@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 1d59bb571f4ba7bb37eb467db8bfe776f80caa39d0cea55fc1428a8ddf4cfdec
 canonical: 28587-heat-on-contract-industrial-storage-turns-cheap-hours-into-a-bankable-asset.json
