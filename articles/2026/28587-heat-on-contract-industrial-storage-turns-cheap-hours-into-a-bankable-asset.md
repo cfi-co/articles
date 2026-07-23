@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260720223054
+wayback_snapshot_url: "http://web.archive.org/web/20260720223054/https://cfi.co/northamerica/2026/07/heat-on-contract-industrial-storage-turns-cheap-hours-into-a-bankable-asset/"
 license: CFI-OAAL-1.0
 content_sha256: 1d59bb571f4ba7bb37eb467db8bfe776f80caa39d0cea55fc1428a8ddf4cfdec
 canonical: 28587-heat-on-contract-industrial-storage-turns-cheap-hours-into-a-bankable-asset.json
