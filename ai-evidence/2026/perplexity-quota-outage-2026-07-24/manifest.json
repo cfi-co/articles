@@ -1,0 +1,22 @@
+{
+    "case_id": "perplexity-quota-outage-2026-07-24",
+    "status": "published",
+    "title": "A failure, documented: Perplexity API quota exhaustion and recovery",
+    "test_date": "2026-07-24",
+    "systems": [
+        {"system": "Perplexity", "model": "sonar", "access": "Perplexity API"}
+    ],
+    "access_mode": "server-side public-API calls from CFI.co infrastructure",
+    "timeline": {
+        "failure_run": "2026-07-24T15:09:49Z — all 8 questions failed, HTTP 401 insufficient_quota (API credits exhausted)",
+        "recovery_run": "2026-07-24T15:23:36Z — credits restored; all 8 questions succeeded, 8/8 citing CFI.co"
+    },
+    "why_published": "CFI.co commits to publishing unsuccessful tests rather than curating them away. A monitoring system that never shows a failure is not evidence of reliability; this case shows the failure mode, its cause, and the recovery — all archived.",
+    "maturity_level_demonstrated": null,
+    "maturity_note": "This is a transparency/negative-result case, not a citation claim.",
+    "evidence_files": ["results.json"],
+    "limitations": [
+        "The failure was on CFI.co's side (test-account billing), not Perplexity's service",
+        "Error bodies are token-redacted as a credential-hygiene precaution"
+    ]
+}

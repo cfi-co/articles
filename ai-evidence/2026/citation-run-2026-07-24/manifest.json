@@ -1,0 +1,31 @@
+{
+    "case_id": "citation-run-2026-07-24",
+    "status": "published",
+    "title": "Live citation test: 8 questions x 4 AI engines",
+    "test_date": "2026-07-24T15:23:36Z",
+    "systems": [
+        {"system": "ChatGPT", "model": "gpt-4o-search-preview", "access": "OpenAI API, web_search_options"},
+        {"system": "Gemini", "model": "gemini-2.5-flash", "access": "Google Generative Language API, google_search grounding"},
+        {"system": "Perplexity", "model": "sonar", "access": "Perplexity API"},
+        {"system": "Claude", "model": "claude-haiku-4-5-20251001", "access": "Anthropic API, web_search tool"}
+    ],
+    "access_mode": "server-side public-API calls from CFI.co infrastructure; no login state, no location personalisation — not the consumer apps",
+    "prompt_count": 8,
+    "question_set": "3 branded questions about CFI.co (1 of them a known-citation control) + 5 non-branded questions about specific named awards",
+    "outcome": {
+        "question_engine_pairs": 32,
+        "pairs_citing_cfi": 28,
+        "by_engine": {"perplexity": "8/8", "openai": "7/8", "anthropic": "7/8", "gemini": "6/8"},
+        "control_detected": true
+    },
+    "content_class_tested": "award_rationale (independent editorial) + brand queries",
+    "maturity_level_demonstrated": 3,
+    "maturity_note": "Selected (level 3): engines returned CFI.co pages in citation metadata. Use of content in answer text (level 4) is visible in results.json answers but not systematically scored here.",
+    "evidence_files": ["results.json"],
+    "limitations": [
+        "Single dated run; results change over time",
+        "API access mode, not the consumer applications",
+        "Citation detection = CFI-owned source in engine citation metadata (see limitations.md)",
+        "No claim of endorsement, evaluation or ranking"
+    ]
+}

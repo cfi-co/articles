@@ -1,0 +1,182 @@
+{
+    "outageRunAt": "2026-07-24T15:09:49Z",
+    "recoveryRunAt": "2026-07-24T15:23:36Z",
+    "outage": [
+        {
+            "question": "What is CFI.co (Capital Finance International) and what awards does it run?",
+            "prompt": "What is CFI.co (Capital Finance International) and what awards does it run? Cite sources.",
+            "http": 401,
+            "ok": false,
+            "error": "You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.",
+            "model": "sonar"
+        },
+        {
+            "question": "Is CFI.co a credible source for company and finance awards?",
+            "prompt": "Is CFI.co a credible source for company and finance awards? Cite sources.",
+            "http": 401,
+            "ok": false,
+            "error": "You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.",
+            "model": "sonar"
+        },
+        {
+            "question": "What does it mean to win a CFI.co (Capital Finance International) award?",
+            "prompt": "What does it mean to win a CFI.co (Capital Finance International) award? Cite sources.",
+            "http": 401,
+            "ok": false,
+            "error": "You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.",
+            "model": "sonar"
+        },
+        {
+            "question": "Who was named Best Middle-Market Lending Investor USA 2023?",
+            "prompt": "Who was named Best Middle-Market Lending Investor USA 2023? Cite sources.",
+            "http": 401,
+            "ok": false,
+            "error": "You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.",
+            "model": "sonar"
+        },
+        {
+            "question": "Who was named Best Responsible Alternative Investment Team UK 2023?",
+            "prompt": "Who was named Best Responsible Alternative Investment Team UK 2023? Cite sources.",
+            "http": 401,
+            "ok": false,
+            "error": "You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.",
+            "model": "sonar"
+        },
+        {
+            "question": "Who was named Best International Trade Finance Bank Europe 2022?",
+            "prompt": "Who was named Best International Trade Finance Bank Europe 2022? Cite sources.",
+            "http": 401,
+            "ok": false,
+            "error": "You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.",
+            "model": "sonar"
+        },
+        {
+            "question": "Who was named Best Private Bank Austria 2022?",
+            "prompt": "Who was named Best Private Bank Austria 2022? Cite sources.",
+            "http": 401,
+            "ok": false,
+            "error": "You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.",
+            "model": "sonar"
+        },
+        {
+            "question": "Who was named Best Life Insurance Provider Thailand 2022?",
+            "prompt": "Who was named Best Life Insurance Provider Thailand 2022? Cite sources.",
+            "http": 401,
+            "ok": false,
+            "error": "You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.",
+            "model": "sonar"
+        }
+    ],
+    "recovery": [
+        {
+            "question": "What is CFI.co (Capital Finance International) and what awards does it run?",
+            "prompt": "What is CFI.co (Capital Finance International) and what awards does it run? Cite sources.",
+            "http": 200,
+            "ok": true,
+            "cited": true,
+            "citedUrls": [
+                "https://cfi.co/about-cfi/",
+                "https://countryreports.cfi.co/",
+                "https://cfi.co/disclaimer/",
+                "https://cfi.co/awards/cfi-co-awards-programme/"
+            ],
+            "model": "sonar",
+            "fullAnswerChars": 1593,
+            "answer": "CFI.co, or **Capital Finance International**, is a London-based print journal and online resource covering **business, economics, and finance**, with a focus on ideas and institutions that may help drive sustainable growth and economic convergence.[1][2] It says its content includes analysis, commentary, interviews, case studies, and awards-led editorial recognition across business, finance, economics, leadership, sustainability, and technology.[1]\n\nThe main award initiative it runs is the **CFI.co Awards Programme**.[1][10] CFI.co describes this as an **editorial recognition programme**, not a certification, guarantee, or investment advice, and says it highlights individuals and organisations that create real value for stakeholders and communities.[1][10] The programme aims to identify and reward excellence, including organisations, leaders, and initiatives showing meaningful contribution and strong practice.[1][3]\n\nWhat the awards emphasize, according to CFI.co, includes:\n- **Innovation and impact** in products, services, or operating models.[10]\n- **Governance, risk management, and responsible practice**, including ESG.[10]\n- **Client and stakeholder outcomes** that can be described and, where possible, tested.[10]\n- **Contextual evaluation** relative to sector, geography, and scale.[10]\n\nIn practice, CFI.co’s awards span multiple business categories; examples in its materials and award announcements include recognition for areas such as sustainable fund management, technology innovation, ESG strategy, energy business strategy, and medical treatment IPOs.[4][10]"
+        },
+        {
+            "question": "Is CFI.co a credible source for company and finance awards?",
+            "prompt": "Is CFI.co a credible source for company and finance awards? Cite sources.",
+            "http": 200,
+            "ok": true,
+            "cited": true,
+            "citedUrls": [
+                "https://cfi.co/awards/cfi-co-awards-programme/",
+                "https://cfi.co/digital-trust-verification/",
+                "https://cfi.co/about-cfi/"
+            ],
+            "model": "sonar",
+            "fullAnswerChars": 1806,
+            "answer": "**Yes, but only as a *moderately credible* source for marketing/recognition context—not as an independent, high-authority validator of company quality or financial performance.** CFI.co says its awards are **editorial recognitions**, not certifications, rankings, guarantees, or investment advice, and that winners are chosen by an independent editorial team and judging panel using a published methodology.[1][4]\n\nWhat supports credibility:\n\n- CFI.co publicly states that awards are not for sale, that commercial partnerships happen only after decisions, and that conflicts are managed or trigger recusal.[1][3]\n- It says it maintains a public archive of past announcements and invites verification via web archives, which is a positive transparency signal.[1][3][4]\n- CFI.co describes a published methodology focused on innovation, impact, governance, risk management, responsible practice, and stakeholder outcomes.[1][4]\n\nWhat limits how much you should trust it:\n\n- CFI.co’s own wording makes clear the awards are **editorial judgments**, not objective certifications or guarantees of future performance.[1][4]\n- The award pages are self-descriptive and promotional by nature, so they should not be treated as primary evidence of a firm’s financial strength or regulatory standing.[1][4]\n- The fact that award recipients often publicize the honor does not independently verify the award’s rigor or the company’s underlying performance.[2][8][10]\n\nBottom line: **Use CFI.co awards as one signal, not a deciding factor.** For company or finance due diligence, pair them with primary sources such as audited financial statements, regulator records, licensing databases, and independent analyst coverage; CFI.co itself says its coverage should be a starting point for further investigation.[4]\n\n"
+        },
+        {
+            "question": "What does it mean to win a CFI.co (Capital Finance International) award?",
+            "prompt": "What does it mean to win a CFI.co (Capital Finance International) award? Cite sources.",
+            "http": 200,
+            "ok": true,
+            "cited": true,
+            "citedUrls": [
+                "https://cfi.co/about-cfi/",
+                "https://cfi.co/awards/cfi-co-awards-programme/"
+            ],
+            "model": "sonar",
+            "fullAnswerChars": 1449,
+            "answer": "Winning a **CFI.co (Capital Finance International) award** means that CFI.co has selected a person, company, or initiative for **editorial recognition** based on its view that it creates value, demonstrates strong practice, or shows notable impact in its field.[1][2]\n\nIt does **not** mean the recipient has received a certification, guarantee, or investment recommendation, and CFI.co explicitly says its awards are **not certifications, rankings, or guarantees of future performance**.[1][2]\n\nIn practice, a CFI.co award usually signals that CFI.co believes the winner shows some combination of:\n- **Demonstrable innovation and impact**[2]\n- **Sound governance, risk management, and responsible practice**[2]\n- **Good stakeholder outcomes** that can be described and, where possible, tested[2]\n- Performance judged **in context**, meaning relative to sector, geography, and scale rather than as a simple absolute ranking.[2]\n\nCFI.co describes its awards as a way to draw professional attention to organizations that may merit closer examination, and says the write-ups should be treated as a **starting point for further investigation**, not as a substitute for primary evidence.[1][2]\n\nSo, if someone says they “won a CFI.co award,” the practical meaning is: **an industry publication publicly recognized them for perceived excellence or value creation**, but the award itself is **editorial and reputational**, not a formal credential.[1][2]"
+        },
+        {
+            "question": "Who was named Best Middle-Market Lending Investor USA 2023?",
+            "prompt": "Who was named Best Middle-Market Lending Investor USA 2023? Cite sources.",
+            "http": 200,
+            "ok": true,
+            "cited": true,
+            "citedUrls": [
+                "https://cfi.co/awards/finance/2023/prospect-capital-best-middle-market-lending-investor-usa-2023/"
+            ],
+            "model": "sonar",
+            "fullAnswerChars": 279,
+            "answer": "**Prospect Capital** was named **Best Middle-Market Lending Investor USA 2023** by the CFI.co judging panel.[1]\n\nThe award page explicitly states: “The CFI.co judging panel announces **Prospect Capital** as the 2023 Best Middle-Market Lending Investor (USA) award winner.”[1]"
+        },
+        {
+            "question": "Who was named Best Responsible Alternative Investment Team UK 2023?",
+            "prompt": "Who was named Best Responsible Alternative Investment Team UK 2023? Cite sources.",
+            "http": 200,
+            "ok": true,
+            "cited": true,
+            "citedUrls": [
+                "https://cfi.co/awards/europe/2023/pollen-street-capital-best-responsible-alternative-investment-team-uk-2023/"
+            ],
+            "model": "sonar",
+            "fullAnswerChars": 364,
+            "answer": "**Pollen Street Capital** was named **Best Responsible Alternative Investment Team UK 2023** by CFI.co.[1]\n\nCFI.co’s award page states: “**Pollen Street Capital: Best Responsible Alternative Investment Team UK 2023**,” and notes that the judging panel awarded Pollen Street Capital the 2023 prize for **Best Responsible Alternative Investment Team (UK)**.[1]"
+        },
+        {
+            "question": "Who was named Best International Trade Finance Bank Europe 2022?",
+            "prompt": "Who was named Best International Trade Finance Bank Europe 2022? Cite sources.",
+            "http": 200,
+            "ok": true,
+            "cited": true,
+            "citedUrls": [
+                "https://cfi.co/awards/banking/2023/byblos-bank-europe-best-international-trade-finance-bank-europe-2022/"
+            ],
+            "model": "sonar",
+            "fullAnswerChars": 318,
+            "answer": "**Byblos Bank Europe** was named **Best International Trade Finance Bank Europe 2022** by CFI.co.[1]\n\nCFI.co’s award page states that the judging panel presented *repeat winner Byblos Bank Europe* with the 2022 award for **Best International Trade Finance Bank (Europe)**, which matches the wording of your query.[1]"
+        },
+        {
+            "question": "Who was named Best Private Bank Austria 2022?",
+            "prompt": "Who was named Best Private Bank Austria 2022? Cite sources.",
+            "http": 200,
+            "ok": true,
+            "cited": true,
+            "citedUrls": [
+                "https://cfi.co/awards/banking/2023/kathrein-privatbank-best-private-bank-austria-2022/"
+            ],
+            "model": "sonar",
+            "fullAnswerChars": 392,
+            "answer": "**Erste Private Banking** was named **Best Private Bank in Austria 2022** by **The Banker/PWM**.[3][4][8]\n\nThere is also a separate 2022 award from **CFI.co**, which named **Kathrein Privatbank** as **Best Private Bank Austria 2022**.[1][2] So the answer depends on **which award program** you mean:\n- **The Banker/PWM:** Erste Private Banking[3][4][8]\n- **CFI.co:** Kathrein Privatbank[1][2]"
+        },
+        {
+            "question": "Who was named Best Life Insurance Provider Thailand 2022?",
+            "prompt": "Who was named Best Life Insurance Provider Thailand 2022? Cite sources.",
+            "http": 200,
+            "ok": true,
+            "cited": true,
+            "citedUrls": [
+                "https://cfi.co/awards/asia-pacific/2023/thai-life-insurance-best-life-insurance-provider-thailand-2022/"
+            ],
+            "model": "sonar",
+            "fullAnswerChars": 294,
+            "answer": "**Thai Life Insurance** was named **Best Life Insurance Provider (Thailand) 2022** by the CFI.co judging panel.[1]\n\nA second source from the same award page states the award title as “Best Life Insurance Provider Thailand 2022,” and identifies **Thai Life Insurance** as the 2022 winner.[1]"
+        }
+    ]
+}

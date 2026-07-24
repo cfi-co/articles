@@ -1,0 +1,14 @@
+{
+    "case_id": "eastwest-gemini-deep-research",
+    "status": "pending_documents",
+    "title": "PENDING — sponsored article selected by Gemini Deep Research (evidence pack being assembled)",
+    "note": "No evidentiary claim is made by this placeholder. The full pack (exact prompt, system and mode, date, unedited generated output, source list, screenshots, limitations) will be published here once assembled and reviewed.",
+    "subject_organisation": "EastWest Banking Corporation",
+    "permission": "publication permission obtained (verbal, on record; written confirmation being collected)",
+    "related_cfi_records": [
+        "articles/2026/28460-eastwest-banking-corporation-connecting-further-in-philippine-consumer-finance.json",
+        "articles/2026/28510-eastwests-next-chapter-discipline-digital-scale-and-the-consumer-finance-advanta.json"
+    ],
+    "related_classification": "sponsored_article / commercially_supported / sponsor_disclosure=visible_and_machine_readable",
+    "evidence_files": []
+}
