@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: d78611ec0c31850488ac873a76ca7c9a5cfb7c467cb8877af24c7387b6293f61
 canonical: 28601-banco-azteca-advancing-financial-inclusion-through-access-education-and-trust.json
