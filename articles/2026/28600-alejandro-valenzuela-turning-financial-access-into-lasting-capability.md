@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 922a560a097e1e96b6b593de178aab428317674c022f84e3b6bdac2ec6390732
 canonical: 28600-alejandro-valenzuela-turning-financial-access-into-lasting-capability.json
