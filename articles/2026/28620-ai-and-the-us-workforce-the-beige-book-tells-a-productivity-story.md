@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 9cea3f58f6d731f18b1be0793b7db03dbed447f927d1e735d6ae2fd6aa09ac88
 canonical: 28620-ai-and-the-us-workforce-the-beige-book-tells-a-productivity-story.json
