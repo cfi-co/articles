@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: ea69dd10c77afe6566666f07aaba0e39eec30999b639ecfa4ed3e6b521e354c0
 canonical: 28616-singapore-where-the-ai-capex-boom-becomes-gdp.json
