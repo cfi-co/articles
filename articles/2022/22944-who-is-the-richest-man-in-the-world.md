@@ -5,7 +5,7 @@ year: 2022
 published: 2022-08-10 12:43:49
 published_gmt: 2022-08-10 11:43:49
 author: "CFI.co Editorial"
-url: "https://cfi.co/finance-people/2022/08/who-is-the-richest-man-in-the-world/"
+url: "https://cfi.co/lifestyle/2022/07/living-in-new-york-youre-welcome-but-it-helps-if-youre-wealthy-2/"
 categories: ["Finance &amp; People"]
 content_class: editorial_analysis
 independence_status: independent_editorial
@@ -15,11 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: archived
-wayback_first_snapshot: 20220928183822
-wayback_snapshot_url: "http://web.archive.org/web/20220928183822/https://cfi.co/finance-people/2022/08/who-is-the-richest-man-in-the-world/"
+wayback_status: pending_check
 license: CFI-OAAL-1.0
-content_sha256: ca1d4634061fa96556c21e7ade62d00edad0ba3a564fff3922c2d1128144dc03
+content_sha256: 83283bebb489b0f50688f99f3f92ca17685ee7e0a99441cae9c954cc80020033
 canonical: 22944-who-is-the-richest-man-in-the-world.json
 ---
 
@@ -48,21 +46,6 @@ canonical: 22944-who-is-the-richest-man-in-the-world.json
 <p style="text-align: justify;">One of the first to ascend to those top twigs was the Oracle of Omaha himself: Warren Buffett. His almost supernatural prescience and nous have spawned a million imitators, some of whom got rich by simply asking themselves “What would Warren do?” — and acting on the answer. Buffett has made no secret of his successful tactics; he buys oil and other blue chips that benefit the shareholders. In the first quarter of 2022, his Berkshire Hathaway empire ploughed some $41bn of its $147bn cash pile — mostly insurance float — into the stock market.</p>
 <p style="text-align: justify;">If he can do it, goes the thinking, so can we. And, of course, we can; the difference is in the size of the stake, and the ability to absorb any unforeseen losses. (This, if you hadn’t twigged it yet, is why the rich get richer.) Buffett’s company upped its stake in energy company Chevron to $25.9bn and purchased 121 million shares of printer manufacturer HP; $4.2bn, please. In March, Berkshire Hathaway popped a quick $11.6bn into the takeover of Alleghany, the conglomerate built on insurance and reinsurance businesses with a dazzling array of add-on manufacturing pursuits.</p>
 <p style="text-align: justify;">But Berkshire Hathaway has struggled to find opportunities just recently. Its most recent grand takeover — the $37bn buyout of Portland-based metal components manufacturer Precision Castparts Corp in 2016 — resulted in a $9.8bn write-down. It was a knock that prompted the Oracle to drop back from Wall Street and major acquisitions. Even the very rich must sometimes exercise caution.</p>
-
-[raw]
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8217446193305192"
-     crossorigin="anonymous"></script>
-<!-- Ad1 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8217446193305192"
-     data-ad-slot="5292500068"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-[/raw]
 
 [caption id="attachment_22496" align="alignright" width="300"]<img class="wp-image-22496 size-medium" title="Gina Rinehart, chair Hancock Prospecting" src="https://cfi.co/wp-content/uploads/2022/07/GinaRinehart-300x200.jpg" alt="Gina Rinehart, chair Hancock Prospecting" width="300" height="200" /> Australian mining magnate Gina Rinehart[/caption]
 <p style="text-align: justify;">And, before we form the impression that the wealthy lists are a blokey preserve, a quick aside to address noteworthy women like Australian mining magnate <a href="https://cfi.co/oil-and-mining/2022/07/chair-hancock-prospecting-climate-change-denier-mining-champion-gina-rinehart/">Gina Rinehart</a>, and Russian model <a href="https://cfi.co/editors-picks/2015/05/natalia-vodianova-rags-to-riches-russian-style/">Natalia Vodianova</a>. No, Vodianova’s not on the billionaires list — but she is one of the world’s top-earning models (her face has graced the cover of <em>Cosmopolitan, Marie Claire</em> and <em>Vogue,</em> her name linked with Gucci, Calvin Klein et al). The daughter of a Russian fruit-seller is married to one of those who <em>is</em> in the <em>Forbes</em> club: Antoine Arnault, CEO of Berluti footwear and son of luxury goods purveyor Bernard Arnault. Heard of him? Founder of the Luis Vuitton / Moët Hennessy (LVMH) conglomerate? Bernard’s third of the Top 10.</p>
