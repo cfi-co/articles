@@ -19,7 +19,7 @@ wayback_status: archived
 wayback_first_snapshot: 20221203061459
 wayback_snapshot_url: "http://web.archive.org/web/20221203061459/https://cfi.co/lifestyle/2022/07/living-in-new-york-youre-welcome-but-it-helps-if-youre-wealthy/"
 license: CFI-OAAL-1.0
-content_sha256: 8f3ab49d6b9d26127701e5d84c7557fdfa9ee90b514dc96b7489c577ef564598
+content_sha256: 065457e91417c71835c9f2663a022c3039ef041e87102a4cd095879ea75ea7d6
 canonical: 22316-living-in-new-york-you-dont-need-to-be-wealthy.json
 ---
 
@@ -61,14 +61,6 @@ Listen while you read with all the featured songs on our <a href="https://open.s
 </blockquote>
 <p style="text-align: justify;">In a compact metro area shared by almost 19 million people, that icon of the American Dream, the motor car, doesn’t enjoy its usual status in NYC.</p>
 <p style="text-align: justify;">Residents are canny about local transport tips and tricks, and keen to share their knowledge, so buying, renting, or owning a car doesn’t need to be part of a migrant’s to-do list. The city subway is the largest rapid transit system in the world, with 472 stops that would take a full day to navigate. At less than $3 per ride (monthly tickets are cheaper still) taking the subway is a no-brainer. Everyone else in New York will be doing the same thing, mind, so prepare for a bit of a crush in rush hour.</p>
-[raw]
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8217446193305192" crossorigin="anonymous"></script>
-<!-- Ad1 -->
-<ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-8217446193305192" data-ad-slot="5292500068" data-ad-format="auto" data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-[/raw]
 
 [caption id="attachment_22320" align="aligncenter" width="1000"]<img class="wp-image-22320 size-full" title="The Statue of Liberty, an icon for everyone living in New York" src="https://cfi.co/wp-content/uploads/2022/07/new-york-statue-of-liberty.jpg" alt="The Statue of Liberty, an icon for everyone living in New York" width="1000" height="562" /> While living in New York, you’ll want to see the sights, right? The Statue of Liberty and many others cost little or nothing.[/caption]
 <p style="text-align: justify;">If you step away from the glitz and budget carefully, you can get away with modest cash reserves until you hit the big time. And it can be fun: enjoying genuine Cantonese or Italian (or Mexican or Malaysian or Nepali, for that matter) from small diners and restaurants tucked into alleys and side-streets is a true blessing of living in New York City.</p>
