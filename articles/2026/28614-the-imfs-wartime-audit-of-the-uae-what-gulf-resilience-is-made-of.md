@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260726040223
+wayback_snapshot_url: "http://web.archive.org/web/20260726040223/https://cfi.co/middleeast/2026/07/the-imfs-wartime-audit-of-the-uae-what-gulf-resilience-is-made-of/"
 license: CFI-OAAL-1.0
 content_sha256: 8210ac4eb6387307d4b3bd4f2092aa6aaa79054f30dbc18881c1f2ebd1d5ef60
 canonical: 28614-the-imfs-wartime-audit-of-the-uae-what-gulf-resilience-is-made-of.json
