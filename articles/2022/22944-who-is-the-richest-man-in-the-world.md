@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 83283bebb489b0f50688f99f3f92ca17685ee7e0a99441cae9c954cc80020033
 canonical: 22944-who-is-the-richest-man-in-the-world.json
