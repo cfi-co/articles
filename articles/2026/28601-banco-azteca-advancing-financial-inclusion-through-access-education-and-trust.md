@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260726040159
+wayback_snapshot_url: "http://web.archive.org/web/20260726040159/https://cfi.co/approval/2026/07/banco-azteca-advancing-financial-inclusion-through-access-education-and-trust/"
 license: CFI-OAAL-1.0
 content_sha256: d78611ec0c31850488ac873a76ca7c9a5cfb7c467cb8877af24c7387b6293f61
 canonical: 28601-banco-azteca-advancing-financial-inclusion-through-access-education-and-trust.json
