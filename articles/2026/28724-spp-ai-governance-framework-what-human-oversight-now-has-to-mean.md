@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 162ac37325d2d63d067912391aa162dddefc8ba9e1342e1d8bf180eb96e82692
 canonical: 28724-spp-ai-governance-framework-what-human-oversight-now-has-to-mean.json
