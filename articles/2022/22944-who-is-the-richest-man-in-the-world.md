@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260729220223
+wayback_snapshot_url: "http://web.archive.org/web/20260729220223/https://cfi.co/lifestyle/2022/07/living-in-new-york-youre-welcome-but-it-helps-if-youre-wealthy-2/"
 license: CFI-OAAL-1.0
 content_sha256: 83283bebb489b0f50688f99f3f92ca17685ee7e0a99441cae9c954cc80020033
 canonical: 22944-who-is-the-richest-man-in-the-world.json
