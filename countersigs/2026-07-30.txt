@@ -1,0 +1,4 @@
+manifest_sha256=0d778ed2dedb7ac94f9af4693199dfc729bf3b11e3322bce8c7c9f54684dfafe
+date=2026-07-30
+repo=cfi-co/articles
+checked_by=custodian@cfi.co
