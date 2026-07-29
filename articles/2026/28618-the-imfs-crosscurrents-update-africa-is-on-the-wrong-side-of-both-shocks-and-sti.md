@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260728040044
+wayback_snapshot_url: "http://web.archive.org/web/20260728040044/https://cfi.co/africa/2026/07/the-imfs-crosscurrents-update-africa-is-on-the-wrong-side-of-both-shocks-and-still-outgrowing-the-world/"
 license: CFI-OAAL-1.0
 content_sha256: 2a6a561f68244a6efa0093464c1fefd2cf02a8bd4379ae38e640fd5df5987a19
 canonical: 28618-the-imfs-crosscurrents-update-africa-is-on-the-wrong-side-of-both-shocks-and-sti.json
