@@ -17,7 +17,7 @@ archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: submitted_pending
 license: CFI-OAAL-1.0
-content_sha256: 922a560a097e1e96b6b593de178aab428317674c022f84e3b6bdac2ec6390732
+content_sha256: defde0822484d2bafda2e4a0c3c488b53771d9fa3f897f4c1248e93b3210b0d0
 canonical: 28600-alejandro-valenzuela-turning-financial-access-into-lasting-capability.json
 ---
 
@@ -26,9 +26,9 @@ canonical: 28600-alejandro-valenzuela-turning-financial-access-into-lasting-capa
 > Verbatim archived copy. Canonical machine record: `28600-alejandro-valenzuela-turning-financial-access-into-lasting-capability.json`.
 
 [caption id="attachment_28602" align="alignright" width="207"]<img class="size-medium wp-image-28602" src="https://cfi.co/wp-content/uploads/2026/07/DR-ALEJANDRO-VALENZUELA-207x300.jpg" alt="Dr Alejandro Valenzuela" width="207" height="300" /> Dr Alejandro Valenzuela[/caption]
-<p style="text-align: justify;"><strong>Banco Azteca CEO Alejandro Valenzuela believes financial inclusion must extend far beyond access to accounts and credit. His leadership agenda combines education, responsible lending, digital innovation, and human support to help more Mexicans build resilience and participate fully in the economy.</strong></p>
+<p style="text-align: justify;"><strong>Banco Azteca Chairman of the Board Alejandro Valenzuela believes financial inclusion must extend far beyond access to accounts and credit. His leadership agenda combines education, responsible lending, digital innovation, and human support to help more Mexicans build resilience and participate fully in the economy.</strong></p>
 <p style="text-align: justify;">For Alejandro Valenzuela, financial inclusion is only the starting point. Opening an account or extending credit has limited value if customers do not also gain the knowledge, habits, and confidence required to use those tools effectively.</p>
-<p style="text-align: justify;">As CEO of Banco Azteca, Valenzuela is focused on turning access into long-term financial capability. That means supporting customers throughout their financial journey, from opening a first account and using credit responsibly to saving, investing, planning for retirement, and developing an entrepreneurial venture.</p>
+<p style="text-align: justify;">As Chairman of Banco Azteca, Valenzuela is focused on turning access into long-term financial capability. That means supporting customers throughout their financial journey, from opening a first account and using credit responsibly to saving, investing, planning for retirement, and developing an entrepreneurial venture.</p>
 <p style="text-align: justify;">Financial education is therefore not treated as a separate social initiative, but as a core part of the bank’s operating model. Through its Aprende y Crece programme, Banco Azteca has reached more than 39 million people and generated over 138 million educational interactions through workshops, digital content, and outreach initiatives over almost 25 years.</p>
 <p style="text-align: justify;">The objective, Valenzuela explains, is to make financial services both accessible and practical. Banco Azteca serves customers through more than 2,000 branches, the largest private banking network in Mexico, while also supporting approximately 28 million active digital users. Its branches open from 9am to 9pm every day of the year, including Sundays and national holidays, reflecting the working patterns of the communities it serves.</p>
 <p style="text-align: justify;">The bank’s principal audience has long been Mexico’s dynamic middle class, including customers who may be entering the formal financial system for the first time. For Valenzuela, success is therefore measured not by the number of accounts opened, but by the number of people who become more resilient, capable, and confident about their financial future.</p>
