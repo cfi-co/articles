@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260729182136
+wayback_snapshot_url: "http://web.archive.org/web/20260729182136/https://cfi.co/finance/2026/07/free-capped-and-contagious-why-a-us-tariff-could-not-stop-pix-going-global/"
 license: CFI-OAAL-1.0
 content_sha256: c0e1e443a44d65d4f0aec497bc923240313c1552bbc40052d7ee925cdfb7be82
 canonical: 28716-free-capped-and-contagious-why-a-us-tariff-could-not-stop-pix-going-global.json
