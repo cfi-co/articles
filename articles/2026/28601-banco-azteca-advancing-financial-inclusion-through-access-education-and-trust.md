@@ -2,11 +2,11 @@
 id: 28601
 title: "Banco Azteca: Advancing Financial Inclusion Through Access, Education, and Trust"
 year: 2026
-published: 2026-07-24 16:16:54
-published_gmt: 2026-07-24 15:16:54
+published: 2026-07-29 10:01:54
+published_gmt: 2026-07-29 09:01:54
 author: "CFI.co Editorial"
-url: "https://cfi.co/approval/2026/07/banco-azteca-advancing-financial-inclusion-through-access-education-and-trust/"
-categories: []
+url: "https://cfi.co/banking/2026/07/banco-azteca-advancing-financial-inclusion-through-access-education-and-trust/"
+categories: ["Banking", "Corporate", "Latin America"]
 content_class: editorial_analysis
 independence_status: independent_editorial
 sponsor_disclosure: none
@@ -15,9 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: archived
-wayback_first_snapshot: 20260726040159
-wayback_snapshot_url: "http://web.archive.org/web/20260726040159/https://cfi.co/approval/2026/07/banco-azteca-advancing-financial-inclusion-through-access-education-and-trust/"
+wayback_status: pending_check
 license: CFI-OAAL-1.0
 content_sha256: d78611ec0c31850488ac873a76ca7c9a5cfb7c467cb8877af24c7387b6293f61
 canonical: 28601-banco-azteca-advancing-financial-inclusion-through-access-education-and-trust.json
