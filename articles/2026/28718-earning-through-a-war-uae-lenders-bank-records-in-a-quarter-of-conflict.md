@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: dd961d5a7edeada2a2db2eb0b2770c42bc2893a93a342e87b18697697850c268
 canonical: 28718-earning-through-a-war-uae-lenders-bank-records-in-a-quarter-of-conflict.json
