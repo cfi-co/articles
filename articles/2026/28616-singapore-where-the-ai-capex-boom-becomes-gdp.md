@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260727040046
+wayback_snapshot_url: "http://web.archive.org/web/20260727040046/https://cfi.co/asia-pacific/2026/07/singapore-where-the-ai-capex-boom-becomes-gdp/"
 license: CFI-OAAL-1.0
 content_sha256: ea69dd10c77afe6566666f07aaba0e39eec30999b639ecfa4ed3e6b521e354c0
 canonical: 28616-singapore-where-the-ai-capex-boom-becomes-gdp.json
