@@ -4330,8 +4330,8 @@ d2c459f7b2419ba19d1fb45b40c0b8b511b5e23d91f620b52b77b53c454324a3  articles/2022/
 1751017c1b3b99ab10bb934ea8e77fa64168f3ee3c2aa5a4d25ed31ef1553803  articles/2022/22880-how-bernard-arnault-turned-one-franc-into-a-dynasty.md
 03c17bb13da9f917c9e180ca19443a5345a9a8711cb05c3bac8ffe39118500be  articles/2022/22918-melonee-wise-fetch-robotics-zebra-technologies.json
 6f00be0935e387c8987d2dbebb0966713f265e83413efb5a36ac0d261a238303  articles/2022/22918-melonee-wise-fetch-robotics-zebra-technologies.md
-8e1e0f4fa1d3e6ae78ac92ae3706fa1724e960e2638a1a7c68f7cef69b2acef0  articles/2022/22944-who-is-the-richest-man-in-the-world.json
-993c219c2243b035da59ca8b5c69587c1d0708dcd05d65bc8489231ac5c97465  articles/2022/22944-who-is-the-richest-man-in-the-world.md
+4acc3a0d5233b102b046b7addd0871fb98c733aa655aa19733cf44aaeefaf356  articles/2022/22944-who-is-the-richest-man-in-the-world.json
+b4747e9d62ae5d12f24c978f731e7e8522a7586a1bf0727c0088fb7beb6fd2a8  articles/2022/22944-who-is-the-richest-man-in-the-world.md
 07b2ea248cc74df51806d7731f88943e3fd7b824ce9c50cdc4363d80fa1157fe  articles/2022/23013-lord-waverley-on-digital-transactions-well-worth-the-paper-they-arent-written-on.json
 e2341ed431a2ca425561b39f84d31c2d15061dc6740d37663f06265493d97933  articles/2022/23013-lord-waverley-on-digital-transactions-well-worth-the-paper-they-arent-written-on.md
 41b372c76dc028bcdc45683a9d44375c83cb7e905047a1e829fe2f072359735e  articles/2022/23017-mutual-benefits-scottish-friendly-puts-its-money-where-its-heart-is.json
@@ -5598,7 +5598,9 @@ d26d1df0911d0bf5c1827e1fcd424c14362ec9e3498ec6d701d0cbe1b4e515c2  articles/2026/
 55b4607181dedac2860e85bc6745246705c4f34ca378b09f9330dd8e699ba466  articles/2026/28720-the-two-tier-tariff-washington-prices-labour-standards-into-trade.md
 25acc4c5aadb14b5d011c5309d21292116b9fd12228baf5e338a2766f0665f29  articles/2026/28724-spp-ai-governance-framework-what-human-oversight-now-has-to-mean.json
 7ecfc539922e158d7bb78bdf9094d887d88807952e9f40f27f745c9c9bffccc8  articles/2026/28724-spp-ai-governance-framework-what-human-oversight-now-has-to-mean.md
-e55afb16d2a693632df7a858d9617f240b6cd90d70f3e05e44d0b842ecce08d1  index.jsonl
+5a388694c6a49edde2713071fc3af78c345e23a84ae7c21dcbe55d679a6a7b48  countersigs/2026-07-30.txt
+6e22e3e9575f92296fca916c3115dccc84ad98aca19330938dec49b8b93ed12f  countersigs/2026-07-30.txt.asc
+b72411cd880adad6b947efd74fe5863e2486a27c016f65078e13eaaa265e3e90  index.jsonl
 91ff52b84f33e386ef30643af0ebd538f845541f142d3fcdfef7243c38b45474  schema.json
 b38ad401b744adfac7757e82bccb45dd9fbd443b9602e554e75df7cd69ae6ebb  scripts/commit.sh
 1553d0f647a7625ce2d78bc10de10f236908391082120ae5a9f85b1191288626  scripts/export.php
