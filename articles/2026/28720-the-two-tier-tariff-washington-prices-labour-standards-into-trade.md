@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 055b45db15192031b7053794dcd8eb30fd6f36265bed25eef3edca72afb4cc77
 canonical: 28720-the-two-tier-tariff-washington-prices-labour-standards-into-trade.json
