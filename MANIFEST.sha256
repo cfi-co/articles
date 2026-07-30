@@ -5584,8 +5584,8 @@ e540ef9cc424f6d0eabae98967a29b591556174fb9646f0eab5d90c7c6a0a387  articles/2026/
 42d168d630582bb7c3e0aeb71fe65af08d7be39af9426d884fa967d72c23b2c3  articles/2026/28616-singapore-where-the-ai-capex-boom-becomes-gdp.md
 a6c1f844d66ce303703810b26d8966d787996601f68cc25099a9a5c871201b6c  articles/2026/28618-the-imfs-crosscurrents-update-africa-is-on-the-wrong-side-of-both-shocks-and-sti.json
 8ad2dbbee873dc356f014ebd3dc2544d8b20429f3a5126ff8d31628a4fbff1cf  articles/2026/28618-the-imfs-crosscurrents-update-africa-is-on-the-wrong-side-of-both-shocks-and-sti.md
-587f7e2147fc832866508ec7c0ed7bbaa44c96b0cedef26905eb83c650326701  articles/2026/28620-ai-and-the-us-workforce-the-beige-book-tells-a-productivity-story.json
-61806107f2ad027ff52f45c463172734477da23aaa7dbbb2e5e99fc47602a7eb  articles/2026/28620-ai-and-the-us-workforce-the-beige-book-tells-a-productivity-story.md
+b72004fcaaa31af89cd3fdf0de305b19c7e82cf703b1d97a26dd3812ae1c1029  articles/2026/28620-ai-and-the-us-workforce-the-beige-book-tells-a-productivity-story.json
+0c16ffbeba57531198c5482743410e3bce348a560798b9759a64dd4996cf0016  articles/2026/28620-ai-and-the-us-workforce-the-beige-book-tells-a-productivity-story.md
 bbe33c538d160b52c5181e56cdb834412db0d5a1ae5acff9f9a185f733529c9f  articles/2026/28710-eurep-goes-global-the-ecbs-quiet-lender-of-last-resort.json
 02b02ac69a7e3b305a59a31ff507285e4f3962c9c6593045011b6f3d6b015023  articles/2026/28710-eurep-goes-global-the-ecbs-quiet-lender-of-last-resort.md
 e7cd7045d96745d0d11ea9d6d9a10c914cc4a977ff742b6918ff90e239fc9b2d  articles/2026/28712-rules-over-discretion-what-a-chinese-owned-lithium-expansion-says-about-argentin.json
@@ -5604,7 +5604,7 @@ aba5c432a8013223ad628092bfd0648baffb1347fd1300951f2874fb0ef0a65f  articles/2026/
 6e22e3e9575f92296fca916c3115dccc84ad98aca19330938dec49b8b93ed12f  countersigs/2026-07-30-custodian.txt.asc
 c3761b56a4ccae86704dfb72057fc5c346a5c755ea88241395108893436c0478  countersigs/2026-07-30-publisher.txt
 30df4faaa73aafebec86539105cc3a2a85d4e87a127b552e5f4e71e5617c0dae  countersigs/2026-07-30-publisher.txt.asc
-bb8fcfaad01a957c77782d5f13a1bd58a0d67405b95aa21b841b78dc18a787ce  index.jsonl
+121720a70f0b9cc51fdaacf66b72eac2e9876c7acb784163a1fed50f5c24f002  index.jsonl
 91ff52b84f33e386ef30643af0ebd538f845541f142d3fcdfef7243c38b45474  schema.json
 b38ad401b744adfac7757e82bccb45dd9fbd443b9602e554e75df7cd69ae6ebb  scripts/commit.sh
 1553d0f647a7625ce2d78bc10de10f236908391082120ae5a9f85b1191288626  scripts/export.php
