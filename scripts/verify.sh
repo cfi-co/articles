@@ -1,4 +1,58 @@
 #!/usr/bin/env bash
+# PREFLIGHT (added 2026-07-30, diff 2 — Anthony Michael, condition: python3 gets
+# the same functional check as php, in this same commit; see finding 3 in his
+# 30 July review). Exit 2 = "cannot run here"; exit 1 = "ran, and the archive
+# did not verify". A stranger must never read the second when the first is
+# true, so every environment failure below exits 2, not 1. Ported from awards,
+# which has carried this since the July 2026 archive review — articles had
+# neither this nor the index/record check below until now, which meant a
+# missing php produced 2,792 lines of "php: command not found" (one per
+# record) and exit 141, no verdict at all — reproduced live, not assumed.
+if [ -z "${BASH_VERSION:-}" ]; then
+  echo "verify.sh requires bash (uses process substitution and pipefail); run: bash scripts/verify.sh" >&2
+  exit 2
+fi
+_missing=""
+for _t in php git sha256sum find python3; do
+  command -v "$_t" >/dev/null 2>&1 || _missing="$_missing $_t"
+done
+# sha256sum is GNU; macOS/BSD ship shasum -a 256 or gsha256sum.
+if ! command -v sha256sum >/dev/null 2>&1; then
+  if command -v gsha256sum >/dev/null 2>&1; then sha256sum(){ gsha256sum "$@"; }; _missing="${_missing/ sha256sum/}"
+  elif command -v shasum   >/dev/null 2>&1; then sha256sum(){ shasum -a 256 "$@"; }; _missing="${_missing/ sha256sum/}"
+  fi
+fi
+if [ -n "$_missing" ]; then
+  echo "verify.sh cannot run: missing required tool(s):$_missing" >&2
+  echo "  (this is an environment problem, not an archive problem)" >&2
+  exit 2
+fi
+# php present is not php working: a php without JSON fails per-record and would be
+# read as "the archive is broken" when the machine is.
+if ! php -r 'exit(json_encode([1])==="[1]"?0:1);' >/dev/null 2>&1; then
+  echo "verify.sh cannot run: php is present but its JSON support is not working" >&2
+  exit 2
+fi
+# python3 present is not python3 working. On Windows, `command -v python3` finds
+# the Microsoft Store execution-alias stub: it exits 0, writes "Python was not
+# found - run without arguments to install from the Microsoft Store" to STDERR,
+# and produces EMPTY STDOUT. Every python3 call below would then silently return
+# nothing instead of erroring - idx_ids comes back empty, the comparison against
+# every real record fails, and the script reports INDEX/RECORD MISMATCH listing
+# thousands of "orphaned" records followed by VERIFICATION FAILED: the exact
+# false failure the exit-2/exit-1 split exists to prevent, and worse than the php
+# case above, because a zero exit code means nothing catches it on the way in.
+# Reproduced live on a stock Windows machine, 30 July 2026.
+_py_out="$(python3 -c 'print("ok")' 2>/dev/null || true)"
+if [ "$_py_out" != "ok" ]; then
+  echo "verify.sh cannot run: python3 is present but not working (Microsoft Store install stub, or no interpreter installed)" >&2
+  echo "  (this is an environment problem, not an archive problem)" >&2
+  exit 2
+fi
+if [ ! -d articles ]; then
+  echo "verify.sh cannot run: no articles/ directory here - run it from the repository root" >&2
+  exit 2
+fi
 # Independent re-verification of the CFI.co Articles transparency archive.
 # Recomputes content_sha256 + record_sha256 for every article and checks
 # them against MANIFEST.sha256. Exit 0 = all good; non-zero = mismatch found.
@@ -33,6 +87,59 @@ else
     fail=1
   fi
   sha256sum -c --quiet MANIFEST.sha256 || fail=1
+fi
+
+# 2b. Index/record agreement.
+#
+#     WHY THIS EXISTS (added 2026-07-30, diff 2, ported from awards). export.php
+#     emits records for published articles only, and nothing in the pipeline
+#     ever deletes. So if an article is unpublished, its record file persists -
+#     still tracked, still covered by the manifest, still under the signature -
+#     while index.jsonl, which is rewritten in full on every run, silently drops
+#     it. The record survives and leaves the only machine-readable enumeration of
+#     what this archive contains.
+#
+#     Until this check existed, verify.sh passed in that state: it never
+#     referenced index.jsonl at all. A consumer reading the index and a consumer
+#     walking the directory would diverge, and nothing reported it.
+#
+#     Checked in BOTH directions. An orphaned record (file with no index entry)
+#     is the unpublish case; a phantom entry (index entry with no file) would
+#     mean the index claims something the archive does not hold. Either is a
+#     failure.
+if [ ! -f index.jsonl ]; then
+  echo "index.jsonl missing" >&2; fail=1
+else
+  idx_ids="$(python3 -c '
+import json,sys
+out=[]
+for line in open("index.jsonl"):
+    line=line.strip()
+    if not line: continue
+    try: out.append(str(json.loads(line)["id"]))
+    except Exception as e: sys.exit("index.jsonl: unparseable line: %s" % e)
+print("\n".join(sorted(set(out))))')" || fail=1
+  rec_ids="$(python3 -c '
+import json,glob
+out=[]
+for f in glob.glob("articles/**/*.json", recursive=True):
+    try: out.append(str(json.load(open(f))["id"]))
+    except Exception: pass
+print("\n".join(sorted(set(out))))')"
+  if [ "$idx_ids" != "$rec_ids" ]; then
+    echo "INDEX/RECORD MISMATCH - index.jsonl does not enumerate exactly the record files" >&2
+    orph="$(comm -13 <(printf '%s\n' "$idx_ids") <(printf '%s\n' "$rec_ids"))"
+    phan="$(comm -23 <(printf '%s\n' "$idx_ids") <(printf '%s\n' "$rec_ids"))"
+    n_o=$(printf '%s' "$orph" | grep -c . || true)
+    n_p=$(printf '%s' "$phan" | grep -c . || true)
+    # Print the total before the sample: a bare head(1) shows ten names with no count,
+    # and an operator may reasonably read ten as the whole divergence.
+    echo "  orphaned records (file present, absent from index): $n_o total$( [ "$n_o" -gt 10 ] && echo ", first 10 shown" )" >&2
+    printf '%s\n' "$orph" | head -10 >&2
+    echo "  phantom entries (in index, no record file): $n_p total$( [ "$n_p" -gt 10 ] && echo ", first 10 shown" )" >&2
+    printf '%s\n' "$phan" | head -10 >&2
+    fail=1
+  fi
 fi
 
 # 3. Manifest signature (detached).
@@ -144,9 +251,15 @@ fi
 #    record is reported as such, not failed. Staleness is likewise reported, not
 #    failed — see the manifest-signing note above on why an ordinary-day control
 #    must degrade rather than fail, or it gets switched off.
-current_manifest_sha256=""
-[ -f MANIFEST.sha256 ] && command -v sha256sum >/dev/null 2>&1 && \
-  current_manifest_sha256="$(sha256sum MANIFEST.sha256 2>/dev/null | cut -d' ' -f1)"
+#
+#    cfi 2026-07-30 (finding from Anthony Michael, on the first real publisher
+#    signature): records are themselves covered by MANIFEST.sha256 (see the note
+#    on manifest exclusion above), so the manifest that INCLUDES a record can
+#    never be the one that record ATTESTS - "matches the live manifest" is
+#    structurally unreachable in steady state, not just usually stale. A branch
+#    that can never take its positive path is worse than no branch: it reads a
+#    correctly-working archive as permanently deficient. Removed the comparison
+#    entirely; this reports the dated state and its age, nothing else.
 for role_spec in "custodian:_archive-countersign.cfi.co:custodian@cfi.co:CUSTODIAN-KEY.asc" \
                  "publisher:_archive-publisher.cfi.co:publisher@cfi.co:PUBLISHER-KEY.asc"; do
   role="${role_spec%%:*}"; rest="${role_spec#*:}"
@@ -211,13 +324,12 @@ for role_spec in "custodian:_archive-countersign.cfi.co:custodian@cfi.co:CUSTODI
     fail=1; continue
   fi
 
-  rec_hash="$(grep -o 'manifest_sha256=.*' "$latest_txt" 2>/dev/null | cut -d= -f2 | tr -d '\r' || true)"
   rec_date="$(grep -o 'date=.*' "$latest_txt" 2>/dev/null | cut -d= -f2 | tr -d '\r' || true)"
-  if [ -n "$current_manifest_sha256" ] && [ "$rec_hash" = "$current_manifest_sha256" ]; then
-    echo "counter-signature ($role): CURRENT — $n_role on record, most recent $rec_date"
-  else
-    echo "counter-signature ($role): $n_role on record, most recent $rec_date — none attests the current manifest" >&2
+  age_str=""
+  if _today_epoch="$(date -u +%s 2>/dev/null)" && _rec_epoch="$(date -u -d "$rec_date" +%s 2>/dev/null)"; then
+    age_str=" ($(( (_today_epoch - _rec_epoch) / 86400 ))d ago)"
   fi
+  echo "counter-signature ($role): $n_role on record, most recent $rec_date${age_str} — attests the manifest as it stood on that date"
 done
 
 if [ "$fail" -eq 0 ]; then
