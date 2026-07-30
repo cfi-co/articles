@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260729233613
+wayback_snapshot_url: "http://web.archive.org/web/20260729233613/https://cfi.co/corporate-leaders/2026/07/alejandro-valenzuela-turning-financial-access-into-lasting-capability/"
 license: CFI-OAAL-1.0
 content_sha256: defde0822484d2bafda2e4a0c3c488b53771d9fa3f897f4c1248e93b3210b0d0
 canonical: 28600-alejandro-valenzuela-turning-financial-access-into-lasting-capability.json
