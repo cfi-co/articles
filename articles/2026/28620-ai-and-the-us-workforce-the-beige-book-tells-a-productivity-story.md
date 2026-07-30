@@ -19,7 +19,7 @@ wayback_status: archived
 wayback_first_snapshot: 20260727040126
 wayback_snapshot_url: "http://web.archive.org/web/20260727040126/https://cfi.co/finance/2026/07/ai-and-the-us-workforce-the-beige-book-tells-a-productivity-story/"
 license: CFI-OAAL-1.0
-content_sha256: 9cea3f58f6d731f18b1be0793b7db03dbed447f927d1e735d6ae2fd6aa09ac88
+content_sha256: 43eb48880c1c2bce9eaa86a9577eb2ad8cef411583a707db64bcd798f4323e85
 canonical: 28620-ai-and-the-us-workforce-the-beige-book-tells-a-productivity-story.json
 ---
 
@@ -28,7 +28,7 @@ canonical: 28620-ai-and-the-us-workforce-the-beige-book-tells-a-productivity-sto
 > Verbatim archived copy. Canonical machine record: `28620-ai-and-the-us-workforce-the-beige-book-tells-a-productivity-story.json`.
 
 <p style="text-align: justify;"><strong>The Federal Reserve's July Beige Book catches AI arriving in the American labour market as investment: firms buying the tools, reallocating the tasks and holding the headcount. Jamie Dimon's 30 to 40 per cent is the counterweight that reading must carry, and so far it can.</strong></p>
-<p style="text-align: justify;">On 14 July, on JPMorgan's second-quarter earnings call, Jamie Dimon gave the AI-and-jobs debate its bluntest data point of the year. "We have had discrete areas where we did reduce jobs by 30% or 40%," the chief executive told analysts, in a quarter for which the bank reported net income of $21.2 billion. The Federal Reserve's Beige Book appeared the following afternoon. Its material comes from business contacts across all twelve districts, collected on or before 6 July. Anyone expecting the two documents to argue with each other finds something stranger: they describe the same economy, and in that economy AI is not yet a layoff story. It is a capital-spending story.</p>
+<p style="text-align: justify;">On 14 July, on JPMorgan's second-quarter earnings call, Jamie Dimon gave the AI-and-jobs debate its bluntest data point of the year. "We have had discrete areas where we did reduce jobs by 30% or 40%," the chief executive told analysts, in a quarter for which the bank reported net income of $16.9 billion. The Federal Reserve's Beige Book appeared the following afternoon. Its material comes from business contacts across all twelve districts, collected on or before 6 July. Anyone expecting the two documents to argue with each other finds something stranger: they describe the same economy, and in that economy AI is not yet a layoff story. It is a capital-spending story.</p>
 
 
 [caption id="attachment_28619" align="aligncenter" width="900"]<img class="size-large wp-image-28619" src="https://cfi.co/wp-content/uploads/2026/07/AI-and-the-US-Workforce-The-Beige-Book-Tells-a-Productivity-Story-featured-1024x576.jpg" alt="AI and the US Workforce: The Beige Book Tells a Productivity Story" width="900" height="506" /> Photo: Vitaly Gariev / Pexels[/caption]
@@ -70,3 +70,5 @@ canonical: 28620-ai-and-the-us-workforce-the-beige-book-tells-a-productivity-sto
 <p style="text-align: justify;">12. US News (AP), "JPMorgan Chase Profit Hits $16.9 Billion in the Second Quarter, Boosted Again by Market Volatility", 14 July 2026, <a href="https://www.usnews.com/news/business/articles/2026-07-14/jpmorgan-chase-profit-hits-16-9-billion-in-the-second-quarter-boosted-again-by-market-volatility">https://www.usnews.com/news/business/articles/2026-07-14/jpmorgan-chase-profit-hits-16-9-billion-in-the-second-quarter-boosted-again-by-market-volatility</a>, headline and figure sighted 18 July 2026.</p>
 <p style="text-align: justify;">13. CFI.co, "The Ghost in the Hiring Machine: Is AI About to Make the Recruiter Extinct?", June 2026, <a href="https://cfi.co/sustainability/2026/06/the-ghost-in-the-hiring-machine-is-ai-about-to-make-the-recruiter-extinct/">https://cfi.co/sustainability/2026/06/the-ghost-in-the-hiring-machine-is-ai-about-to-make-the-recruiter-extinct/</a>, accessed 18 July 2026 (woven per commission).</p>
 <p style="text-align: justify;">14. CFI.co, "Boards and AI: From Oversight to Insight", July 2026, <a href="https://cfi.co/northamerica/2026/07/boards-and-ai-from-oversight-to-insight/">https://cfi.co/northamerica/2026/07/boards-and-ai-from-oversight-to-insight/</a>, accessed 18 July 2026 (woven per commission).</p>
+<p><em>Correction, 29 July 2026: an earlier version gave JPMorgan's second-quarter net income as $21.2 billion. The figure is $16.9 billion.</em></p>
+
