@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260730040033
+wayback_snapshot_url: "http://web.archive.org/web/20260730040033/https://cfi.co/latinamerica/2026/07/rules-over-discretion-what-a-chinese-owned-lithium-expansion-says-about-argentinas-investment-regime/"
 license: CFI-OAAL-1.0
 content_sha256: b8e6ee7256bc50c944fa2b9d8f57ba4e3b713ae7ea5c968d0e6ce3e32abb8e3e
 canonical: 28712-rules-over-discretion-what-a-chinese-owned-lithium-expansion-says-about-argentin.json
