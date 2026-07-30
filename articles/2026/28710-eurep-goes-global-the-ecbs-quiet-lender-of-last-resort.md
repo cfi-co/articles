@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260729220335
+wayback_snapshot_url: "http://web.archive.org/web/20260729220335/https://cfi.co/europe/2026/07/eurep-goes-global-the-ecbs-quiet-lender-of-last-resort/"
 license: CFI-OAAL-1.0
 content_sha256: 217cfa8fa79401ecdc468a406d26db82536c9e6e4d2dcd32db9c1c9e6e6ad821
 canonical: 28710-eurep-goes-global-the-ecbs-quiet-lender-of-last-resort.json
