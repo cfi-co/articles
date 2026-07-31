@@ -7,9 +7,10 @@ published_gmt: 2026-07-02 12:45:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/approval/2026/07/vistra-helping-companies-expand-across-borders-with-less-friction"
 categories: []
-content_class: editorial_analysis
-independence_status: independent_editorial
-sponsor_disclosure: none
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "Vistra"
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
 correction_status: revised
