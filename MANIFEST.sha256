@@ -5560,8 +5560,8 @@ e9c6ca314438c97d4459ef4a7e97465bda428621c60d6e65e5691bf6d4760d81  articles/2026/
 75f3245984c12641afca6b78008aec8e371273a8558835f3637dfbca2af0bfe1  articles/2026/28542-the-ghost-in-the-hiring-machine-is-ai-about-to-make-the-recruiter-extinct.md
 7acf59c24afe35fda3f0b38411b10a891125df7b16c787d31b065754555504b2  articles/2026/28549-kim-jenkins-building-vistras-next-chapter-around-digital-scale-and-client-choice.json
 4621d304853027ed2e991fed3b662bb21ce845858a52a7ae747a0a5fd6e53917  articles/2026/28549-kim-jenkins-building-vistras-next-chapter-around-digital-scale-and-client-choice.md
-80c7efd03ed92328c9c87ff982b8f6caa1945274af347a9ac2254a8cc742c06f  articles/2026/28550-vistra-making-global-expansion-feel-borderless.json
-e8723505169653b8ca8133c32fc87dc20911b44cd9f7ce54efbbf2a10ebe0d4b  articles/2026/28550-vistra-making-global-expansion-feel-borderless.md
+e22d3357393ad2fd5ffa878b19128ff1d4de15a98690f9094d1c86d59c8445a2  articles/2026/28550-vistra-making-global-expansion-feel-borderless.json
+2e504be84c7b7c8e6bf82cfc27ea111211458a2c619abf65d6201588c159d1a8  articles/2026/28550-vistra-making-global-expansion-feel-borderless.md
 3bf733c94df757e5e34cb6ef4746334a04a48d846d879aceef75e65f0573ea15  articles/2026/28556-the-gilded-sanctuary-inside-the-last-bastion-of-the-british-gentleman.json
 653a7220fd05243a22a092976b4a34524d3f113e1eed66caea0bb9cd8e95b756  articles/2026/28556-the-gilded-sanctuary-inside-the-last-bastion-of-the-british-gentleman.md
 293e02f30ab0fd1e3f73d048325ef45d7d1a9c2b48b7976271425e6f14c8aca5  articles/2026/28559-boards-and-ai-from-oversight-to-insight.json
@@ -5606,7 +5606,7 @@ c3761b56a4ccae86704dfb72057fc5c346a5c755ea88241395108893436c0478  countersigs/20
 30df4faaa73aafebec86539105cc3a2a85d4e87a127b552e5f4e71e5617c0dae  countersigs/2026-07-30-publisher.txt.asc
 f0ef767298ca18f2c491b4a023d07ed21455e26708134b80427c9391a194a749  countersigs/2026-07-31-custodian.txt
 ef81de61cec0d292ebe96a0cd64d829a3dc7237de7c6fd6ef9631ec00683bea0  countersigs/2026-07-31-custodian.txt.asc
-574c5898e563de960473c62db371c13f4869b1275c69f3f10ebd134d1cdd59f5  index.jsonl
+cbcd2f0fb0a94af0f2132fbf7155f407e6a865db5b0c41ba6863040f1d7e0767  index.jsonl
 91ff52b84f33e386ef30643af0ebd538f845541f142d3fcdfef7243c38b45474  schema.json
 b38ad401b744adfac7757e82bccb45dd9fbd443b9602e554e75df7cd69ae6ebb  scripts/commit.sh
 5d43536a04d46ac52e101a1e0bec1a824f8038425729fa91353c9dde0dc2c97c  scripts/export.php
