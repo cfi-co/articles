@@ -200,6 +200,19 @@ guessed.** The exact derivation (in `scripts/export.php`) is:
 | `historical_status` | `current_at_publication` | Articles are accurate to their time; recency must be judged against `published` |
 | `correction_status` | `none` · `revised` | The git history is the authoritative correction record; flips to `revised` when a later content change is committed |
 | `article_status` | `published` | Only published items are archived |
+
+**`independence_status` on records published before 9 November 2025 is a default, not a determination.**
+The field reads `independent_editorial` on every record where no sponsorship flag is set. Before
+9 November 2025 no labelling practice existed, so for those records the absence of a flag records
+that nobody asked the question - not that the question was asked and answered. In this archive that
+affects 2,766 of 2,792 records; 26 are marked `commercially_supported`. The awards archive carries
+the same default on all 2,385 of its records, 2,307 of which predate the cutoff.
+
+Read `independent_editorial` on a pre-cutoff record as "not flagged", and nothing more. The
+correction is open rather than applied, and the reason is recorded at
+https://cfi.co/known-open/ : a neutral value cannot simply be swapped in, because applying one to
+work contributed by a named outside author would assert that CFI.co could not determine whether it
+was sponsored, about a piece whose authorship is plain on its face.
 | `archive_policy` | `no_delete` | History is append-only and immutable |
 | `provenance_layer` | `github_versioned` | This repository |
 | `wayback_status` (+ `wayback_first_snapshot`, `wayback_snapshot_url`) | `archived` · `submitted_pending` · `not_found` · `pending_check` | Independent third-party corroboration. `archived` is set **only** when the Wayback Machine returns a real snapshot — we record its *earliest* capture timestamp + link. URLs with no snapshot are submitted to web.archive.org/save (→ `submitted_pending`). Never claimed without a real snapshot. |
