@@ -6,6 +6,8 @@ published: 2015-03-01 15:17:25
 published_gmt: 2015-03-01 15:17:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/"
+site_addressability: redirects_away
+site_note: "Navigation entry, not a separate article. This post exists on the main site to give a menu item its own thumbnail (a theme workaround) and redirects to a category index, so the url field is that redirect target rather than a page at which this text can be read. The announcement itself is published on cfi.co/awards and carries its own record in the awards archive."
 categories: []
 content_class: editorial_analysis
 independence_status: independent_editorial
