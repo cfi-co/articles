@@ -24,11 +24,11 @@
         "wayback_snapshot_url": "http://web.archive.org/web/20190723005620/https://cfi.co/awards/north-america/",
         "license": "CFI-OAAL-1.0",
         "site_addressability": "redirects_away",
-        "site_note": "Navigation entry, not a separate article. This post exists on the main site to give a menu item its own thumbnail (a theme workaround) and redirects to a category index, so the url field is that redirect target rather than a page at which this text can be read. The announcement itself is published on cfi.co/awards and carries its own record in the awards archive."
+        "site_note": "This post redirects to a different address on cfi.co, so the url field is a redirect target rather than a page at which this text can be read. The redirect is a site navigation arrangement, not a withdrawal: nothing has been removed, and the verbatim text is preserved in this record."
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>The CFI.co Judging Panel has named BNY Mellon as winner of the prestigious award, ’Best Wealth Manager, Unites States, 2014’.</strong></p>\r\n<p style=\"text-align: justify;\">Client retention at Mellon is strong and the Bank is a superb relationship manager. This truly outstanding name in North American banking, which can trace its heritage back 230 years, is the result of a 2007 merger between Bank of New York and Mellon Finance.</p>\r\n<p style=\"text-align: justify;\">The panel congratulates BNY Mellon, the largest deposit bank in the world, on its outstanding focus on and great success in providing the most sophisticated wealth management services.</p>",
     "content_text": "The CFI.co Judging Panel has named BNY Mellon as winner of the prestigious award, ’Best Wealth Manager, Unites States, 2014’.\n\nClient retention at Mellon is strong and the Bank is a superb relationship manager. This truly outstanding name in North American banking, which can trace its heritage back 230 years, is the result of a 2007 merger between Bank of New York and Mellon Finance.\n\nThe panel congratulates BNY Mellon, the largest deposit bank in the world, on its outstanding focus on and great success in providing the most sophisticated wealth management services.",
     "content_sha256": "cc2657a8229cdacdc17c10b3e4d2851a46d809c4499ac0a493e3742b78932e67",
-    "record_sha256": "5ed1f50e2e0464f432c40f8ae69d77ce8995f9eab0b0c65bf6c964ccfad5f8d7"
+    "record_sha256": "2528107279dacdb5716be51f3abbc61be2a09e89bb55e2ed4eb8430e60c2c62b"
 }
