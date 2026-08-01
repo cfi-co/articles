@@ -130,6 +130,17 @@ foreach ($posts as $p) {
     if (isset($catmap[$id])) { $cats = array_keys($catmap[$id]); sort($cats); }
 
     $url     = get_permalink($id);
+
+    // Page Links To (_links_to) can aim a post at another address. On this estate it is
+    // used as a theme workaround so a menu entry lands on a category index, which means
+    // get_permalink() above returns the redirect target rather than an address at which
+    // this article can be read. Disclose that: otherwise a verifier fetches the url,
+    // receives HTTP 200 on an index page, and concludes the record checks out. A 404
+    // announces its own failure; a 200 on the wrong page does not.
+    $links_to    = (string) get_post_meta($id, '_links_to', true);
+    $redirected  = ($links_to !== '' && $p->post_name !== ''
+                    && strpos($links_to, $p->post_name) === false);
+
     $content = (string) $p->post_content;          // RAW, verbatim
     $chash   = hash('sha256', $content);
 
@@ -192,6 +203,17 @@ foreach ($posts as $p) {
         'wayback_snapshot_url'   => $wb['snap'],
         'license'                => $LICENCE_ID,   // CFI.co Open AI Access Licence (schema v2.2)
     );
+    // Emitted only where it applies, like sponsor_name, so unaffected records keep
+    // their existing record_sha256.
+    if ($redirected) {
+        $classification['site_addressability'] = 'redirects_away';
+        $classification['site_note'] = 'Navigation entry, not a separate article. This post '
+            . 'exists on the main site to give a menu item its own thumbnail (a theme '
+            . 'workaround) and redirects to a category index, so the url field is that '
+            . 'redirect target rather than a page at which this text can be read. The '
+            . 'announcement itself is published on cfi.co/awards and carries its own record '
+            . 'in the awards archive.';
+    }
 
     // Exact machine record. Key order is fixed; record_sha256 covers all
     // fields except itself, so the public can independently re-verify.
@@ -227,6 +249,10 @@ foreach ($posts as $p) {
     $fm .= 'published_gmt: ' . $p->post_date_gmt . "\n";
     $fm .= 'author: ' . yaml_str($EDITORIAL_AUTHOR) . "\n";
     $fm .= 'url: ' . yaml_str($url) . "\n";
+    if ($redirected) {
+        $fm .= 'site_addressability: ' . $classification['site_addressability'] . "\n";
+        $fm .= 'site_note: ' . yaml_str($classification['site_note']) . "\n";
+    }
     $fm .= 'categories: [' . implode(', ', array_map('yaml_str', $cats)) . "]\n";
     $fm .= 'content_class: ' . $classification['content_class'] . "\n";
     $fm .= 'independence_status: ' . $classification['independence_status'] . "\n";
