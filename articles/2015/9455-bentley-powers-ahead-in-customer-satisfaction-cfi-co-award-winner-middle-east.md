@@ -7,7 +7,7 @@ published_gmt: 2015-03-01 09:49:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/"
 site_addressability: redirects_away
-site_note: "Navigation entry, not a separate article. This post exists on the main site to give a menu item its own thumbnail (a theme workaround) and redirects to a category index, so the url field is that redirect target rather than a page at which this text can be read. The announcement itself is published on cfi.co/awards and carries its own record in the awards archive."
+site_note: "This post redirects to a different address on cfi.co, so the url field is a redirect target rather than a page at which this text can be read. The redirect is a site navigation arrangement, not a withdrawal: nothing has been removed, and the verbatim text is preserved in this record."
 categories: ["Awards Middle East"]
 content_class: editorial_analysis
 independence_status: independent_editorial
