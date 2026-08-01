@@ -6,6 +6,8 @@ published: 2017-09-01 12:41:33
 published_gmt: 2017-09-01 11:41:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/menu/corporate/2019/03/rakesh-rawal-ceo-of-anand-rathi-wealth-services-ltd-makings-of-a-great-ceo-professionalism-humility-and-being-a-good-human/"
+site_addressability: redirects_away
+site_note: "Navigation entry, not a separate article. This post exists on the main site to give a menu item its own thumbnail (a theme workaround) and redirects to a category index, so the url field is that redirect target rather than a page at which this text can be read. The announcement itself is published on cfi.co/awards and carries its own record in the awards archive."
 categories: ["Corporate Leaders"]
 content_class: editorial_analysis
 independence_status: independent_editorial
