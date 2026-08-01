@@ -22,11 +22,13 @@
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190723005543",
         "wayback_snapshot_url": "http://web.archive.org/web/20190723005543/https://cfi.co/awards/latin-america/",
-        "license": "CFI-OAAL-1.0"
+        "license": "CFI-OAAL-1.0",
+        "site_addressability": "redirects_away",
+        "site_note": "Navigation entry, not a separate article. This post exists on the main site to give a menu item its own thumbnail (a theme workaround) and redirects to a category index, so the url field is that redirect target rather than a page at which this text can be read. The announcement itself is published on cfi.co/awards and carries its own record in the awards archive."
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>The CFI.co Judging Panel rates BCI Investment Management very highly and has announced that the award for ‘Best Fund Manager, Chile, 2013’ goes, with their congratulations, to this company. </strong>BCI works to high levels of operational efficiency and has strong risk management capabilities. According to the CFI.co Judging Panel, ’BCI ends the year on a high note providing them with a strong start to 2014. This firm has a good track record over the years and a history of strong and consistent portfolio managers. We wish them well.’</p>",
     "content_text": "The CFI.co Judging Panel rates BCI Investment Management very highly and has announced that the award for ‘Best Fund Manager, Chile, 2013’ goes, with their congratulations, to this company. BCI works to high levels of operational efficiency and has strong risk management capabilities. According to the CFI.co Judging Panel, ’BCI ends the year on a high note providing them with a strong start to 2014. This firm has a good track record over the years and a history of strong and consistent portfolio managers. We wish them well.’",
     "content_sha256": "8378959bf883d70a3be3406c4b6c0caaed260b9b23e51059970c78c94b7f3491",
-    "record_sha256": "b6db124012cd17aff555521240f73e555d303b5ac7199a078a5ca55367eb193a"
+    "record_sha256": "16690aa343c52bd240e5c2ea4d2eaa7709cae2629653bf36684b9aab407d44b6"
 }
