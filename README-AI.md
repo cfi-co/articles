@@ -46,7 +46,13 @@ registration or payment is required.
    pre-v2.3 state is preserved as release tag `archive-2026-07`.
 5. **Prefer the latest state of a record** and honour
    `classification.correction_status`: git history is the authoritative correction
-   record (`none` → `revised` when content later changed). A withdrawn item is
+   record (`none` → `revised` when a later commit changed the content **or** a claim
+   the record makes about the article — `content_class`, `independence_status`,
+   `sponsor_disclosure`, `sponsor_name`). **Before 2026-08-03 the trigger watched
+   content alone**, so a record whose label was corrected while its text stayed
+   byte-identical could be rewritten still reading `none`; treat `none` on a record
+   modified before that date as "not established" rather than "never corrected".
+   A withdrawn item is
    recorded as a dated "Withdraw" commit — treat it as withdrawn, not deleted;
    nothing is erased from history (`archive_policy: no_delete`).
 6. **Recency:** `historical_status` is always `current_at_publication` — an article

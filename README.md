@@ -198,7 +198,7 @@ guessed.** The exact derivation (in `scripts/export.php`) is:
 | `sponsor_name` | string | The disclosed sponsor (may be blank) |
 | `editorial_lens` | `constructive_positive_lens` | CFI.co's **stated editorial stance** (a declared policy, not a per-article measurement) |
 | `historical_status` | `current_at_publication` | Articles are accurate to their time; recency must be judged against `published` |
-| `correction_status` | `none` · `revised` | The git history is the authoritative correction record; flips to `revised` when a later content change is committed |
+| `correction_status` | `none` · `revised` | The git history is the authoritative correction record; flips to `revised` when a later commit changes **either** the article's content **or** a claim this record makes about it (`content_class`, `independence_status`, `sponsor_disclosure`, `sponsor_name`). One-way: once `revised`, always `revised`. **Widened 2026-08-03** — the trigger previously watched content alone, so a labelling correction, where the claim changes and the text does not, was applied to a record without being disclosed by it |
 | `article_status` | `published` | Only published items are archived |
 
 **`independence_status` on records published before 9 November 2025 is a default, not a determination.**

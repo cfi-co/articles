@@ -174,25 +174,72 @@ foreach ($posts as $p) {
     // matches again — a one-way transition, per the documented semantics,
     // so the record permanently discloses that it was corrected at least
     // once; git history remains the place to see exactly what changed.
+    //
+    // 2026-08-03: the content hash alone was not enough. The sponsorship
+    // labels live in post META (_cfi_jsonld_sponsored,
+    // _cfi_jsonld_sponsor_name), so correcting a mislabelled article changes
+    // what the record CLAIMS while leaving post_content — and therefore
+    // $chash — byte-identical. The record then rewrote independence_status
+    // from independent_editorial to commercially_supported with
+    // correction_status still reading 'none': a record asserting it had
+    // never been corrected, in the same run that corrected it. A claim
+    // changing while the content stays fixed is the case that most needs
+    // disclosing, so the claim-bearing fields are now compared as well.
+    //
+    // Deliberately NOT a diff of the whole classification block. wayback_*
+    // legitimately churns on ordinary re-checks (pending_check -> archived)
+    // and 'license' moves on schema bumps; either would flip thousands of
+    // records to 'revised' and leave the field meaning nothing. The set
+    // below is exactly the fields that state something about the article
+    // which a reader could rely on and we could get wrong.
+    $claim_fields = array(
+        'content_class'       => $content_class,
+        'independence_status' => $sponsored ? 'commercially_supported' : 'independent_editorial',
+        'sponsor_disclosure'  => $sponsored ? 'visible_and_machine_readable' : 'none',
+        'sponsor_name'        => $sponsor,
+    );
+
     $correction_status = 'none';
     if (is_file($prior_path)) {
         $prior = json_decode(file_get_contents($prior_path), true);
         if (is_array($prior)) {
             $prior_hash   = $prior['content_sha256'] ?? null;
             $prior_status = $prior['classification']['correction_status'] ?? 'none';
-            if ($prior_status === 'revised' || ($prior_hash !== null && $prior_hash !== $chash)) {
+            $prior_class  = isset($prior['classification']) && is_array($prior['classification'])
+                            ? $prior['classification'] : array();
+
+            // A key MISSING from the prior record is a schema addition, not a
+            // correction — only a key that was present and now says something
+            // different is a changed claim. Without this guard every record
+            // written before a field existed would flip to 'revised' the first
+            // time this ran, which is the mass-mislabelling the narrow field
+            // set above is meant to avoid.
+            $claim_changed = false;
+            foreach ($claim_fields as $ck => $cv) {
+                if (array_key_exists($ck, $prior_class) && $prior_class[$ck] !== $cv) {
+                    $claim_changed = true;
+                    break;
+                }
+            }
+
+            if ($prior_status === 'revised'
+                || ($prior_hash !== null && $prior_hash !== $chash)
+                || $claim_changed) {
                 $correction_status = 'revised';
             }
         }
     }
 
     $wb = $waybackmap[$url] ?? array('status' => 'pending_check', 'ts' => '', 'snap' => '');
+    // The claim fields are spread from $claim_fields rather than restated, so the
+    // values compared above and the values published below cannot drift apart. If
+    // they ever did, the detector would go quietly blind again.
     $classification = array(
-        'content_class'          => $content_class,
+        'content_class'          => $claim_fields['content_class'],
         'editorial_lens'         => 'constructive_positive_lens', // CFI's stated stance
-        'independence_status'    => $sponsored ? 'commercially_supported' : 'independent_editorial',
-        'sponsor_disclosure'     => $sponsored ? 'visible_and_machine_readable' : 'none',
-        'sponsor_name'           => $sponsor,
+        'independence_status'    => $claim_fields['independence_status'],
+        'sponsor_disclosure'     => $claim_fields['sponsor_disclosure'],
+        'sponsor_name'           => $claim_fields['sponsor_name'],
         'article_status'         => 'published',
         'historical_status'      => 'current_at_publication',
         'correction_status'      => $correction_status,
