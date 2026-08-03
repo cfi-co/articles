@@ -7,12 +7,13 @@ published_gmt: 2026-07-29 09:01:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/banking/2026/07/banco-azteca-advancing-financial-inclusion-through-access-education-and-trust/"
 categories: ["Banking", "Corporate", "Latin America"]
-content_class: editorial_analysis
-independence_status: independent_editorial
-sponsor_disclosure: none
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "Banco Azteca"
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived
