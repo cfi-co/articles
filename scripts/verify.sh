@@ -333,7 +333,19 @@ for role_spec in "custodian:_archive-countersign.cfi.co:custodian@cfi.co:CUSTODI
 done
 
 if [ "$fail" -eq 0 ]; then
-  echo "OK — $n article records verified, manifest intact."
+  # Name what was actually covered rather than folding it into "manifest intact".
+  # A reader should not have to read this script to learn that this script is
+  # covered. The last line is the important one: the signature over the manifest
+  # is what makes any of this checkable WITHOUT trusting this run -- a verifier
+  # cannot vouch for itself.
+  n_files="$(wc -l < MANIFEST.sha256 2>/dev/null | tr -d ' ')"
+  echo "OK — $n article records verified."
+  echo "     Manifest covers ${n_files:-?} tracked files and every hash matched: the"
+  echo "     records and index, the schema, licence and keys, the exporter that"
+  echo "     produced the records (scripts/export.php), and this script"
+  echo "     (scripts/verify.sh)."
+  echo "     All of them sit inside the GPG-signed manifest, so any can be re-checked"
+  echo "     against it independently of this run."
 else
   echo "VERIFICATION FAILED — see messages above." >&2
 fi
