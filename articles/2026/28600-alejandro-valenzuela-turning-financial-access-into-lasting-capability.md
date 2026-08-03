@@ -7,9 +7,10 @@ published_gmt: 2026-07-29 09:00:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/corporate-leaders/2026/07/alejandro-valenzuela-turning-financial-access-into-lasting-capability/"
 categories: ["Banking", "Corporate Leaders", "Latin America"]
-content_class: editorial_analysis
-independence_status: independent_editorial
-sponsor_disclosure: none
+content_class: sponsored_article
+independence_status: commercially_supported
+sponsor_disclosure: visible_and_machine_readable
+sponsor_name: "Banco Azteca"
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
 correction_status: revised
