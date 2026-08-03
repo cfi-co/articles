@@ -17,7 +17,7 @@ archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: not_found
 license: CFI-OAAL-1.0
-content_sha256: 6f529f5feb4d7de7feea5482a564a58931b5f0025efa114e8af69779e1880fc4
+content_sha256: c15fe5fcbb0984006d3e863eb59abce3f26c49ac31dfcbab514e25fbb2ff4235
 canonical: 28758-letter-from-the-publisher-rules-that-can-be-checked.json
 ---
 
@@ -73,7 +73,14 @@ The ending he reached is the one that matters here. In <em>Robots and Empire</em
   "headline": "A Letter from the Publisher: Rules That Can Be Checked",
   "author": {"@type": "Person", "name": "Anthony Michael", "jobTitle": "Publisher"},
   "publisher": {"@type": "Organization", "name": "CFI.co"},
-  
+  "isBasedOn": {
+    "@type": "CreativeWork",
+    "name": "CFI.co Governance — Public Edition v1.0 (internal v3.0)",
+    "url": "https://cfi.co/governance/",
+    "version": "Public Edition v1.0 (internal v3.0)",
+    "dateCreated": "2026-08-01",
+    "sha256": "6829072874467AB111D4A68C3A1D36FF111E5ACA52501B2EB13E287130B567CB"
+  },
   "citation": {
     "@type": "CreativeWork",
     "name": "Sentence-check evidence manifest: no other publisher has bound itself this way (31 July 2026)",
