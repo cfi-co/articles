@@ -329,7 +329,17 @@ for role_spec in "custodian:_archive-countersign.cfi.co:custodian@cfi.co:CUSTODI
   if _today_epoch="$(date -u +%s 2>/dev/null)" && _rec_epoch="$(date -u -d "$rec_date" +%s 2>/dev/null)"; then
     age_str=" ($(( (_today_epoch - _rec_epoch) / 86400 ))d ago)"
   fi
-  echo "counter-signature ($role): $n_role on record, most recent $rec_date${age_str} — attests the manifest as it stood on that date"
+  # cfi: 2026-08-03. Both roles previously printed identical trailing text, so two
+  # similar lines read as equivalent attestations. They are not, and the difference
+  # is the whole point of having two: custodian evidences a second MACHINE (the key
+  # never touches this server, so a server compromise cannot forge it), publisher
+  # evidences a second PERSON who does not administer the server. Say which.
+  case "$role" in
+    custodian) role_proves="a second MACHINE — the key never touches this server" ;;
+    publisher) role_proves="a second PERSON — one who does not administer this server" ;;
+    *)         role_proves="an independent check" ;;
+  esac
+  echo "counter-signature ($role): $n_role on record, most recent $rec_date${age_str} — attests the manifest as it stood on that date; evidences $role_proves"
 done
 
 if [ "$fail" -eq 0 ]; then
@@ -338,9 +348,16 @@ if [ "$fail" -eq 0 ]; then
   # covered. The last line is the important one: the signature over the manifest
   # is what makes any of this checkable WITHOUT trusting this run -- a verifier
   # cannot vouch for itself.
+  # cfi: 2026-08-03. State the denominator too. "covers N tracked files" invites
+  # the reader to take N as the total; it is not, and the gap is exactly the three
+  # files that cannot contain their own hashes. Saying so is cheaper than leaving
+  # a sceptic to find the discrepancy and wonder what else was left out.
   n_files="$(wc -l < MANIFEST.sha256 2>/dev/null | tr -d ' ')"
+  n_tracked="$(git ls-files 2>/dev/null | wc -l | tr -d ' ')"
   echo "OK — $n article records verified."
-  echo "     Manifest covers ${n_files:-?} tracked files and every hash matched: the"
+  echo "     Manifest covers ${n_files:-?} of ${n_tracked:-?} tracked files and every hash"
+  echo "     matched — the three not listed are MANIFEST.sha256 and its two signatures,"
+  echo "     which cannot contain their own hashes. Covered: the"
   echo "     records and index, the schema, licence and keys, the exporter that"
   echo "     produced the records (scripts/export.php), and this script"
   echo "     (scripts/verify.sh)."
