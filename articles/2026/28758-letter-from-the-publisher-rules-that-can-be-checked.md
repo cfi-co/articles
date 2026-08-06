@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: c15fe5fcbb0984006d3e863eb59abce3f26c49ac31dfcbab514e25fbb2ff4235
 canonical: 28758-letter-from-the-publisher-rules-that-can-be-checked.json
