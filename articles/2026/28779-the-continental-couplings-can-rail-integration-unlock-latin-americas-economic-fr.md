@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: b9dae99dfc78923cb2f77d8a36e4d8f96dca19462fe36f5192ce728f1c1ead98
 canonical: 28779-the-continental-couplings-can-rail-integration-unlock-latin-americas-economic-fr.json
