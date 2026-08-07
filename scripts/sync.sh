@@ -103,7 +103,13 @@ fi
 #    The manifest excludes itself AND its detached signature — both change as a
 #    consequence of hashing, so neither can be inside the hash list (verify.sh
 #    applies the identical exclusion).
-git ls-files | grep -vxF -e 'MANIFEST.sha256' -e 'MANIFEST.sha256.asc' -e 'MANIFEST.sha256.ots' | xargs -r -d '\n' sha256sum > MANIFEST.sha256
+# cfi 2026-08-06: anchors/ is excluded BY PREFIX, not by name. Retained OpenTimestamps
+# receipts live there (see cfi-archive-anchor.sh). If they were manifested, every retained
+# receipt would change the manifest, which would force a re-stamp, which would retire a
+# receipt into anchors/, which would change the manifest again - a loop that would re-stamp
+# on every run forever. The three MANIFEST.* names are excluded for the older reason: a
+# manifest cannot contain the hash of a file derived from itself.
+git ls-files | grep -vxF -e 'MANIFEST.sha256' -e 'MANIFEST.sha256.asc' -e 'MANIFEST.sha256.ots' | grep -v '^anchors/' | grep -vxF '.anchor-sha' | xargs -r -d '\n' sha256sum > MANIFEST.sha256
 if ! git diff --quiet -- MANIFEST.sha256 || [ ! -f MANIFEST.sha256.asc ]; then
   # Detached-sign the refreshed manifest (archive key 876FF2AA39133BF8; this
   # cron runs as root, whose keyring holds the key). Signing happens only when
