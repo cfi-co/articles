@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: ea5cb591c29ff6ff4bfa003130bb9777ec8415ce5e310e722f512a930c78e7a6
 canonical: 28801-the-cost-curve-did-not-reach-the-balance-sheet-reading-energys-latest-marks.json
