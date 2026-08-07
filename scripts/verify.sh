@@ -368,12 +368,21 @@ if [ "$fail" -eq 0 ]; then
   # the reader to take N as the total; it is not, and the gap is exactly the three
   # files that cannot contain their own hashes. Saying so is cheaper than leaving
   # a sceptic to find the discrepancy and wonder what else was left out.
+  # cfi: 2026-08-07. The gap stopped being three on 2026-08-06, when anchors/ began
+  # retaining receipts, and this summary went on saying "three" - understating its own
+  # uncovered set by exactly the files a sceptic would most want accounted for. The
+  # anchors count is now derived, not written down, so it cannot drift again.
   n_files="$(wc -l < MANIFEST.sha256 2>/dev/null | tr -d ' ')"
   n_tracked="$(git ls-files 2>/dev/null | wc -l | tr -d ' ')"
+  n_anchor="$(git ls-files 2>/dev/null | grep -c -e '^anchors/' -e '^\.anchor-sha$')"
   echo "OK — $n article records verified."
   echo "     Manifest covers ${n_files:-?} of ${n_tracked:-?} tracked files and every hash"
-  echo "     matched — the three not listed are MANIFEST.sha256 and its two signatures,"
-  echo "     which cannot contain their own hashes. Covered: the"
+  echo "     matched. Of the rest, three are MANIFEST.sha256 and its two signatures,"
+  echo "     which cannot contain their own hashes; the other ${n_anchor:-?} are the retained"
+  echo "     OpenTimestamps receipts under anchors/ and the .anchor-sha pointer — manifesting"
+  echo "     those would change the manifest, force a re-stamp, retire another receipt and"
+  echo "     change it again, forever. Each receipt already commits to the hash of the"
+  echo "     manifest it stamps, so it is checkable on its own. Covered: the"
   echo "     records and index, the schema, licence and keys, the exporter that"
   echo "     produced the records (scripts/export.php), and this script"
   echo "     (scripts/verify.sh)."
