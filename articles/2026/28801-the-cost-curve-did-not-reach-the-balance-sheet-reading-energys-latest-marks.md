@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260807043151
+wayback_snapshot_url: "http://web.archive.org/web/20260807043151/https://cfi.co/menu/energy/2026/08/the-cost-curve-did-not-reach-the-balance-sheet-reading-energys-latest-marks/"
 license: CFI-OAAL-1.0
 content_sha256: ea5cb591c29ff6ff4bfa003130bb9777ec8415ce5e310e722f512a930c78e7a6
 canonical: 28801-the-cost-curve-did-not-reach-the-balance-sheet-reading-energys-latest-marks.json
