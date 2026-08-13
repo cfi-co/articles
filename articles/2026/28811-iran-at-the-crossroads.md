@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260812040014
+wayback_snapshot_url: "http://web.archive.org/web/20260812040014/https://cfi.co/middleeast/2026/08/iran-at-the-crossroads/"
 license: CFI-OAAL-1.0
 content_sha256: bff1a1d1c0c4e6fd6bca9f0b08a5015a01b18c72ad4a4d4b2d929740652fee7f
 canonical: 28811-iran-at-the-crossroads.json
