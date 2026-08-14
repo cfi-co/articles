@@ -32,6 +32,24 @@ $US     = "\x1f";                            // field separator (unit separator)
 
 $EDITORIAL_AUTHOR = 'CFI.co Editorial';
 
+// Byline rule (2026-08-14). Until now `author` was this constant on EVERY record — all
+// 2,796 of them — so the field carried no information at all, and a named contributor's
+// work was recorded as house editorial. The rule: a house/automation login means unsigned
+// house copy and keeps $EDITORIAL_AUTHOR; any other WordPress user is a real person and is
+// named. These three logins are the house accounts (the same list cfi-author-schema.php
+// works from); 2,698 of 2,796 posts sit on them.
+$HOUSE_LOGINS = array('marten', 'CFI', 'crm');
+
+// FORWARD-ONLY, deliberately. Applying the rule to the whole corpus would rewrite the
+// author on 98 already-published, hashed records — a retroactive change to claim-bearing
+// content, which is not mine to make. Anthony's 14 Aug instruction was explicitly to
+// "start the fix on new records this week so the leak stops"; the ~274 historical
+// house-attributed contributed pieces are already on the known-open register and need a
+// principals' ruling, not a silent re-export.
+// !! To apply retroactively once that ruling exists, set this to '' — nothing else needs
+// to change, but expect 98 records to re-commit with new record_sha256 values.
+const BYLINE_RULE_FROM = '2026-08-14';
+
 // Machine-readable licence identifier stamped into every record (schema v2.2,
 // 2026-07-08). Canonical text: LICENCE.md / https://cfi.co/licence/oaal-1.0
 $LICENCE_ID = 'CFI-OAAL-1.0';
@@ -107,6 +125,16 @@ foreach ($wpdb->get_results(
 ) as $m) {
     if ($m->mk === '_cfi_jsonld_sponsored')   $sponmap[$m->pid]['flag'] = $m->mv;
     if ($m->mk === '_cfi_jsonld_sponsor_name') $sponmap[$m->pid]['name'] = $m->mv;
+}
+
+/* 2b-ii. Author lookup for the byline rule. user_login decides whether a post is house
+          copy; display_name is what gets published. Both are read once here rather than
+          per-post: get_userdata() inside the export loop would be ~2,800 queries. */
+$userlogin = array();
+$userdisp  = array();
+foreach ($wpdb->get_results("SELECT ID, user_login, display_name FROM {$wpdb->users}") as $u) {
+    $userlogin[$u->ID] = $u->user_login;
+    $userdisp[$u->ID]  = $u->display_name;
 }
 
 /* 2c. Wayback evidence cache (built by scripts/wayback.php; gitignored).
@@ -269,6 +297,18 @@ foreach ($posts as $p) {
             . 'this record.';
     }
 
+    // Byline: name a real person, keep the house label only for unsigned house copy.
+    // Gated to BYLINE_RULE_FROM so already-published records keep their existing author
+    // (and therefore their record_sha256) until a principals' ruling covers them.
+    $record_author = $EDITORIAL_AUTHOR;
+    if (BYLINE_RULE_FROM === '' || substr($p->post_date_gmt, 0, 10) >= BYLINE_RULE_FROM) {
+        $login = isset($userlogin[$p->post_author]) ? $userlogin[$p->post_author] : '';
+        $disp  = isset($userdisp[$p->post_author])  ? trim($userdisp[$p->post_author]) : '';
+        if ($disp !== '' && !in_array(strtolower($login), array_map('strtolower', $HOUSE_LOGINS), true)) {
+            $record_author = $disp;
+        }
+    }
+
     // Exact machine record. Key order is fixed; record_sha256 covers all
     // fields except itself, so the public can independently re-verify.
     $record = array(
@@ -276,7 +316,7 @@ foreach ($posts as $p) {
         'title'          => $p->post_title,
         'slug'           => $p->post_name,
         'url'            => $url,
-        'author'         => $EDITORIAL_AUTHOR,
+        'author'         => $record_author,
         'published'      => $p->post_date,          // site-local
         'published_gmt'  => $p->post_date_gmt,
         'modified_gmt'   => $p->post_modified_gmt,
@@ -301,7 +341,7 @@ foreach ($posts as $p) {
     $fm .= 'year: ' . (int) $year . "\n";
     $fm .= 'published: ' . $p->post_date . "\n";
     $fm .= 'published_gmt: ' . $p->post_date_gmt . "\n";
-    $fm .= 'author: ' . yaml_str($EDITORIAL_AUTHOR) . "\n";
+    $fm .= 'author: ' . yaml_str($record_author) . "\n";   // must match the JSON record
     $fm .= 'url: ' . yaml_str($url) . "\n";
     if ($redirected) {
         $fm .= 'site_addressability: ' . $classification['site_addressability'] . "\n";
