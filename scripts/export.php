@@ -36,6 +36,14 @@ $EDITORIAL_AUTHOR = 'CFI.co Editorial';
 // 2026-07-08). Canonical text: LICENCE.md / https://cfi.co/licence/oaal-1.0
 $LICENCE_ID = 'CFI-OAAL-1.0';
 
+// Date systematic independence labelling began. Drives index.jsonl's
+// independence_basis. Evidence for the date, re-checkable at any time: the earliest
+// commercially_supported record is published 2025-11-09, and no record published
+// before it carries a sponsorship label of any kind. Do NOT move this date without
+// re-running that check — it is the difference between "we assessed this" and "we
+// inherited this", on 2,695 records.
+const INDEPENDENCE_LABELLING_FROM = '2025-11-09';
+
 // Default content_class when no more-specific signal matches. Articles repo =
 // editorial_analysis; the awards repo overrides this to 'award_rationale'.
 $DEFAULT_CONTENT_CLASS = 'editorial_analysis';
@@ -350,6 +358,17 @@ foreach ($posts as $p) {
         'published_gmt'       => $p->post_date_gmt,
         'content_class'       => $classification['content_class'],
         'independence_status' => $classification['independence_status'],
+        // How much that label is worth. Systematic independence labelling began on
+        // 2025-11-09: the earliest commercially_supported record is dated that day and
+        // NOT ONE record published before it carries a sponsorship label. So on a
+        // pre-cutover record `independent_editorial` is an inherited default, not a
+        // finding — 2,695 of 2,796 records as at 2026-08-14. An agent that honours
+        // labels would otherwise read the whole back catalogue as assessed-independent,
+        // which we already know is wrong. Catalogue-only: index.jsonl is derived and is
+        // not part of record_sha256, so adding this rehashes nothing.
+        'independence_basis'  => (substr($p->post_date_gmt, 0, 10) >= INDEPENDENCE_LABELLING_FROM)
+                                 ? 'assessed'
+                                 : 'default_pre_' . INDEPENDENCE_LABELLING_FROM,
         'sponsor_disclosure'  => $classification['sponsor_disclosure'],
         'path'                => $reljs,
         'md_path'             => $relmd,
