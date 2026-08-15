@@ -4,7 +4,7 @@ title: "Financial Centres Promote Economic Development: AIFC Goes for Growth by 
 year: 2019
 published: 2019-01-09 16:22:15
 published_gmt: 2019-01-09 16:22:15
-author: "CFI.co Editorial"
+author: "Lord Waverley"
 url: "https://cfi.co/asia-pacific/2019/01/financial-centres-promote-economic-development-aifc-goes-for-growth-by-backing-smes-globally/"
 categories: ["Asia Pacific", "Columnists", "Finance", "SMEs"]
 content_class: opinion_column
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

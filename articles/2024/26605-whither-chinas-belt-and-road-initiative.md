@@ -4,7 +4,7 @@ title: "Whither China’s Belt and Road Initiative?"
 year: 2024
 published: 2024-01-18 12:49:57
 published_gmt: 2024-01-18 12:49:57
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/asia-pacific/2024/01/whither-chinas-belt-and-road-initiative/"
 categories: ["Asia Pacific", "Columnists", "Finance"]
 content_class: opinion_column
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

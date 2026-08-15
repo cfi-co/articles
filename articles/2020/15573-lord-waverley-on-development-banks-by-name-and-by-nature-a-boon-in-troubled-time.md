@@ -4,7 +4,7 @@ title: "Lord Waverley on Development Banks - By Name and By Nature: A Boon in Tr
 year: 2020
 published: 2020-06-05 12:58:19
 published_gmt: 2020-06-05 11:58:19
-author: "CFI.co Editorial"
+author: "Lord Waverley"
 url: "https://cfi.co/banking/2020/06/lord-waverley-on-development-banks-by-name-and-by-nature-a-boon-in-troubled-times/"
 categories: ["Banking", "Banking &amp; Finance", "Columnists"]
 content_class: opinion_column
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

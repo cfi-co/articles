@@ -4,7 +4,7 @@ title: "Otaviano Canuto, World Bank: Can Services Replace Manufacturing as an En
 year: 2018
 published: 2018-04-19 15:57:48
 published_gmt: 2018-04-19 14:57:48
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/asia-pacific/2018/04/otaviano-canuto-world-bank-can-services-replace-manufacturing-as-an-engine-for-development/"
 categories: ["Asia Pacific", "CSR", "Finance", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

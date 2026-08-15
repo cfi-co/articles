@@ -4,7 +4,7 @@ title: "Otaviano Canuto on Aging and the Immigration Conundrum: A Demographic Di
 year: 2025
 published: 2025-02-04 09:17:45
 published_gmt: 2025-02-04 09:17:45
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/menu/columnists/2025/02/otaviano-canuto-on-aging-and-the-immigration-conundrum-a-demographic-dilemma/"
 categories: ["Columnists", "North America"]
 content_class: opinion_column
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

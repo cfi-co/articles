@@ -4,7 +4,7 @@ title: "Otaviano Canuto: Rising Use of Local Currencies for Cross-Border Payment
 year: 2023
 published: 2023-11-20 12:16:04
 published_gmt: 2023-11-20 12:16:04
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/finance/2023/11/otaviano-canuto-rising-use-of-local-currencies-for-cross-border-payments/"
 categories: ["Columnists", "Finance", "North America"]
 content_class: opinion_column
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

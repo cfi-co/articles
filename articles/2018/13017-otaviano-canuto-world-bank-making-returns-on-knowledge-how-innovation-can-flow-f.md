@@ -4,7 +4,7 @@ title: "Otaviano Canuto, World Bank: Making Returns on Knowledge - How Innovatio
 year: 2018
 published: 2018-09-25 10:17:35
 published_gmt: 2018-09-25 09:17:35
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/banking/2018/09/otaviano-canuto-world-bank-making-returns-on-knowledge-how-innovation-can-flow-from-globalisation/"
 categories: ["Banking", "North America"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

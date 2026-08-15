@@ -4,7 +4,7 @@ title: "Otaviano Canuto: The US Elections Will Have Global Economic Impact"
 year: 2024
 published: 2024-11-03 21:11:10
 published_gmt: 2024-11-03 21:11:10
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/northamerica/2024/11/otaviano-canuto-the-us-elections-will-have-global-economic-impact/"
 categories: ["North America"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

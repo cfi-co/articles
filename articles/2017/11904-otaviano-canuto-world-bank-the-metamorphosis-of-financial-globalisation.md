@@ -4,7 +4,7 @@ title: "Otaviano Canuto, World Bank: The Metamorphosis of Financial Globalisatio
 year: 2017
 published: 2017-09-29 08:44:16
 published_gmt: 2017-09-29 07:44:16
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/africa/2017/09/otaviano-canuto-world-bank-the-metamorphosis-of-financial-globalisation/"
 categories: ["Africa", "Banking", "Finance", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

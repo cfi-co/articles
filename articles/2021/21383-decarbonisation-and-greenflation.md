@@ -4,7 +4,7 @@ title: "Decarbonisation and “Greenflation”"
 year: 2021
 published: 2021-12-20 06:09:57
 published_gmt: 2021-12-20 06:09:57
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/sustainability/2021/12/decarbonisation-and-greenflation/"
 categories: ["Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

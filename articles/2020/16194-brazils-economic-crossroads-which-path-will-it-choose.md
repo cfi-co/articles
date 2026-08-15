@@ -4,7 +4,7 @@ title: "Brazil’s Economic Crossroads: Which Path Will It Choose?"
 year: 2020
 published: 2020-07-08 08:35:25
 published_gmt: 2020-07-08 07:35:25
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/finance/2020/07/brazils-economic-crossroads-which-path-will-it-choose/"
 categories: ["Finance", "Latin America"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

@@ -4,7 +4,7 @@ title: "Otaviano Canuto: The US Economic ‘K’"
 year: 2026
 published: 2026-01-12 05:42:34
 published_gmt: 2026-01-12 05:42:34
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/northamerica/2026/01/the-us-economic-k/"
 categories: ["Columnists", "Finance", "North America"]
 content_class: opinion_column
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

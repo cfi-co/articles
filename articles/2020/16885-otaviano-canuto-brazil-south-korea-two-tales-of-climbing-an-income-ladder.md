@@ -4,7 +4,7 @@ title: "Otaviano Canuto: Brazil, South Korea - Two Tales of Climbing an Income L
 year: 2020
 published: 2020-09-11 11:26:16
 published_gmt: 2020-09-11 10:26:16
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/asia-pacific/2020/09/otaviano-canuto-brazil-south-korea-two-tales-of-climbing-an-income-ladder/"
 categories: ["Asia Pacific", "Latin America"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

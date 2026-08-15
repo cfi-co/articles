@@ -4,7 +4,7 @@ title: "China's Economic Growth is On-Target Despite Challenges"
 year: 2024
 published: 2024-06-05 12:27:37
 published_gmt: 2024-06-05 11:27:37
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/asia-pacific/2024/06/chinas-economic-growth-is-on-target-despite-challenges/"
 categories: ["Asia Pacific", "Finance"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

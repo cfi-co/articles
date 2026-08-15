@@ -4,7 +4,7 @@ title: "Otaviano Canuto & Matheus Cavallari, World Bank: Bloated Central Bank Ba
 year: 2017
 published: 2017-05-24 15:28:56
 published_gmt: 2017-05-24 14:28:56
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/banking/2017/05/otaviano-canuto-matheus-cavallari-world-bank-bloated-central-bank-balance-sheets/"
 categories: ["Banking", "Europe", "Finance", "Latin America", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

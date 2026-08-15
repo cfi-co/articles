@@ -4,7 +4,7 @@ title: "Otaviano Canuto: The Global War of Subsidies"
 year: 2024
 published: 2024-05-08 13:01:46
 published_gmt: 2024-05-08 12:01:46
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/finance/2024/05/otaviano-canuto-the-global-war-of-subsidies/"
 categories: ["Asia Pacific", "Columnists", "Economics &amp; Convergence", "Finance", "North America"]
 content_class: opinion_column
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

@@ -4,7 +4,7 @@ title: "Otaviano Canuto: Dependency and Disconnect of U.S. Financial Markets"
 year: 2020
 published: 2020-09-23 09:34:10
 published_gmt: 2020-09-23 08:34:10
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/finance/2020/09/otaviano-canuto-dependency-and-disconnect-of-u-s-financial-markets/"
 categories: ["Finance", "Markets", "North America"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

@@ -4,7 +4,7 @@ title: "China on the Way Back to Rebalancing"
 year: 2020
 published: 2020-09-26 10:55:50
 published_gmt: 2020-09-26 09:55:50
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/asia-pacific/2020/09/china-on-the-way-back-to-rebalancing/"
 categories: ["Asia Pacific", "Finance"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

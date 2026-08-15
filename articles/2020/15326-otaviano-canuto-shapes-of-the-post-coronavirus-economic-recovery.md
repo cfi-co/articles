@@ -4,7 +4,7 @@ title: "Otaviano Canuto: Shapes of the Post-Coronavirus Economic Recovery"
 year: 2020
 published: 2020-05-12 17:55:24
 published_gmt: 2020-05-12 16:55:24
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/c-19/2020/05/otaviano-canuto-shapes-of-the-post-coronavirus-economic-recovery/"
 categories: ["c-19"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

@@ -4,7 +4,7 @@ title: "Matchmaking Private Finance and Green Infrastructure"
 year: 2021
 published: 2021-08-27 15:50:09
 published_gmt: 2021-08-27 14:50:09
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://blog.cfi.co/finance/2021/08/matchmaking-private-finance-and-green-infrastructure/"
 categories: []
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

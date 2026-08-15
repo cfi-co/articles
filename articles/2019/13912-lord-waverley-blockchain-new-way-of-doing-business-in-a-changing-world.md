@@ -4,7 +4,7 @@ title: "Lord Waverley - Blockchain: New Way of Doing Business in a Changing Worl
 year: 2019
 published: 2019-08-06 10:42:48
 published_gmt: 2019-08-06 09:42:48
-author: "CFI.co Editorial"
+author: "Lord Waverley"
 url: "https://cfi.co/europe/2019/08/lord-waverley-blockchain-new-way-of-doing-business-in-a-changing-world/"
 categories: ["Europe", "Technology"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

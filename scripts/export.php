@@ -40,15 +40,20 @@ $EDITORIAL_AUTHOR = 'CFI.co Editorial';
 // works from); 2,698 of 2,796 posts sit on them.
 $HOUSE_LOGINS = array('marten', 'CFI', 'crm');
 
-// FORWARD-ONLY, deliberately. Applying the rule to the whole corpus would rewrite the
-// author on 98 already-published, hashed records — a retroactive change to claim-bearing
-// content, which is not mine to make. Anthony's 14 Aug instruction was explicitly to
-// "start the fix on new records this week so the leak stops"; the ~274 historical
-// house-attributed contributed pieces are already on the known-open register and need a
-// principals' ruling, not a silent re-export.
-// !! To apply retroactively once that ruling exists, set this to '' — nothing else needs
-// to change, but expect 98 records to re-commit with new record_sha256 values.
-const BYLINE_RULE_FROM = '2026-08-14';
+// RETROSPECTIVE as of 2026-08-15, on Anthony's ruling: "Correct the data. Do not rewrite
+// the prose. One append-only pass: author -> the byline; correction_status set;
+// content_sha256 unchanged if HTML is unchanged; new record_sha256 per record."
+// An empty value applies the rule to the whole corpus; a date would apply it only from
+// that date. content_html is never touched, so content_sha256 does not move.
+//
+// !! WHAT THIS DOES NOT REACH. It can only name an author WordPress already knows about,
+// i.e. posts whose post_author is a real account (~98). The ~274 house-attributed
+// contributed pieces on the known-open register are posted under `marten`/`CFI` with the
+// real byline living only in the BODY MARKUP (`<strong>Author:</strong>` caption, or the
+// "About the Author(s)" bio block). Those cannot be derived from post_author and are NOT
+// fixed here — see auto-memory contributor-gate-open-aug13-2026. Do not assume a clean
+// run means the 274 are done.
+const BYLINE_RULE_FROM = '';   // '' = apply to all records (Anthony's ruling, 15 Aug 2026)
 
 // Machine-readable licence identifier stamped into every record (schema v2.2,
 // 2026-07-08). Canonical text: LICENCE.md / https://cfi.co/licence/oaal-1.0
@@ -91,7 +96,10 @@ $EXCLUDE_CAT_SLUGS = array(
 
 /* 1. All published announcements, oldest first (chronological history). */
 $posts = $wpdb->get_results(
-    "SELECT ID, post_title, post_name, post_content, post_excerpt,
+    // post_author is needed for the byline rule. It was NOT in this list until
+    // 2026-08-15: the rule read $p->post_author, got an undefined property, and
+    // silently left every author as the house label. PHP warned; nothing else did.
+    "SELECT ID, post_author, post_title, post_name, post_content, post_excerpt,
             post_date, post_date_gmt, post_modified_gmt
        FROM {$wpdb->posts}
       WHERE post_type='post' AND post_status='publish'
@@ -235,6 +243,18 @@ foreach ($posts as $p) {
         'sponsor_name'        => $sponsor,
     );
 
+    // Byline: name a real person, keep the house label only for unsigned house copy.
+    // Computed HERE, above correction_status, because a changed author is a changed
+    // CLAIM about the article and has to be comparable against the prior record.
+    $record_author = $EDITORIAL_AUTHOR;
+    if (BYLINE_RULE_FROM === '' || substr($p->post_date_gmt, 0, 10) >= BYLINE_RULE_FROM) {
+        $login = isset($userlogin[$p->post_author]) ? $userlogin[$p->post_author] : '';
+        $disp  = isset($userdisp[$p->post_author])  ? trim($userdisp[$p->post_author]) : '';
+        if ($disp !== '' && !in_array(strtolower($login), array_map('strtolower', $HOUSE_LOGINS), true)) {
+            $record_author = $disp;
+        }
+    }
+
     $correction_status = 'none';
     if (is_file($prior_path)) {
         $prior = json_decode(file_get_contents($prior_path), true);
@@ -258,9 +278,13 @@ foreach ($posts as $p) {
                 }
             }
 
+            $author_changed = array_key_exists('author', $prior)
+                              && $prior['author'] !== $record_author;
+
             if ($prior_status === 'revised'
                 || ($prior_hash !== null && $prior_hash !== $chash)
-                || $claim_changed) {
+                || $claim_changed
+                || $author_changed) {
                 $correction_status = 'revised';
             }
         }
@@ -295,18 +319,6 @@ foreach ($posts as $p) {
             . 'this text can be read. The redirect is a site navigation arrangement, not a '
             . 'withdrawal: nothing has been removed, and the verbatim text is preserved in '
             . 'this record.';
-    }
-
-    // Byline: name a real person, keep the house label only for unsigned house copy.
-    // Gated to BYLINE_RULE_FROM so already-published records keep their existing author
-    // (and therefore their record_sha256) until a principals' ruling covers them.
-    $record_author = $EDITORIAL_AUTHOR;
-    if (BYLINE_RULE_FROM === '' || substr($p->post_date_gmt, 0, 10) >= BYLINE_RULE_FROM) {
-        $login = isset($userlogin[$p->post_author]) ? $userlogin[$p->post_author] : '';
-        $disp  = isset($userdisp[$p->post_author])  ? trim($userdisp[$p->post_author]) : '';
-        if ($disp !== '' && !in_array(strtolower($login), array_map('strtolower', $HOUSE_LOGINS), true)) {
-            $record_author = $disp;
-        }
     }
 
     // Exact machine record. Key order is fixed; record_sha256 covers all

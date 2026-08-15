@@ -4,7 +4,7 @@ title: "The Silent Giants: The Critical Role of MSMEs in the Global Future"
 year: 2025
 published: 2025-12-05 09:13:28
 published_gmt: 2025-12-05 09:13:28
-author: "CFI.co Editorial"
+author: "Lord Waverley"
 url: "https://cfi.co/europe/2025/12/the-silent-giants-the-critical-role-of-smes-in-the-global-future/"
 categories: ["Europe"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

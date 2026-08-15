@@ -4,7 +4,7 @@ title: "Lord Waverley: PM Should Appoint Envoys If UK is Serious About Free Trad
 year: 2022
 published: 2022-09-30 09:49:12
 published_gmt: 2022-09-30 08:49:12
-author: "CFI.co Editorial"
+author: "Lord Waverley"
 url: "https://cfi.co/europe/2022/09/lord-waverley-pm-should-appoint-envoys-if-uk-is-serious-about-free-trade-agreement-with-india/"
 categories: ["Asia Pacific", "Europe"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

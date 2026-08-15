@@ -4,7 +4,7 @@ title: "Lord Waverley: New Thinking in the UK"
 year: 2022
 published: 2022-12-22 12:24:56
 published_gmt: 2022-12-22 12:24:56
-author: "CFI.co Editorial"
+author: "Lord Waverley"
 url: "https://cfi.co/europe/2022/12/lord-waverley-new-thinking-in-the-uk/"
 categories: ["Brave New World", "Europe"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

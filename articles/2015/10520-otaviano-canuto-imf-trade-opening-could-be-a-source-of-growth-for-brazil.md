@@ -4,7 +4,7 @@ title: "Otaviano Canuto, IMF: Trade Opening Could Be a Source of Growth for Braz
 year: 2015
 published: 2015-10-14 11:40:32
 published_gmt: 2015-10-14 10:40:32
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/finance/2015/10/otaviano-canuto-imf-trade-opening-could-be-a-source-of-growth-for-brazil/"
 categories: ["Finance", "Latin America", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

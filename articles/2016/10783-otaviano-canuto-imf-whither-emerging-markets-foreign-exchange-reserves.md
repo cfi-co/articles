@@ -4,7 +4,7 @@ title: "Otaviano Canuto, IMF: Whither Emerging Markets Foreign Exchange Reserves
 year: 2016
 published: 2016-01-18 15:22:50
 published_gmt: 2016-01-18 15:22:50
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/africa/2016/01/otaviano-canuto-imf-whither-emerging-markets-foreign-exchange-reserves/"
 categories: ["Africa", "Banking", "Finance", "Latin America"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

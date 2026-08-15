@@ -4,7 +4,7 @@ title: "Global Imbalances and the Pandemic"
 year: 2021
 published: 2021-09-05 09:32:13
 published_gmt: 2021-09-05 08:32:13
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/c-19/2021/09/global-imbalances-and-the-pandemic/"
 categories: ["Asia Pacific", "Brave New World", "Economics &amp; Convergence", "North America", "c-19"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

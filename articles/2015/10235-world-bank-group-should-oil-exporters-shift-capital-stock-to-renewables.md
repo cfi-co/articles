@@ -4,7 +4,7 @@ title: "World Bank Group: Should Oil Exporters Shift Capital Stock to Renewables
 year: 2015
 published: 2015-08-25 11:41:11
 published_gmt: 2015-08-25 10:41:11
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/latinamerica/2015/08/world-bank-group-should-oil-exporters-shift-capital-stock-to-renewables/"
 categories: ["Latin America", "Middle East", "North America", "Oil &amp; Mining", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

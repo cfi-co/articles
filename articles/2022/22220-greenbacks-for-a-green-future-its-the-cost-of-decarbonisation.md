@@ -4,7 +4,7 @@ title: "Greenbacks for a Green Future: It’s the Cost of Decarbonisation"
 year: 2022
 published: 2022-06-09 06:25:55
 published_gmt: 2022-06-09 05:25:55
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/sustainability/2022/06/greenbacks-for-a-green-future-its-the-cost-of-decarbonisation/"
 categories: ["North America", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

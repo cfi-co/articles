@@ -4,7 +4,7 @@ title: "Lord Waverley: Comprehensive UK Trade Policy Strategy for ‘a New Begin
 year: 2020
 published: 2020-11-04 09:14:46
 published_gmt: 2020-11-04 09:14:46
-author: "CFI.co Editorial"
+author: "Lord Waverley"
 url: "https://cfi.co/europe/2020/11/lord-waverley-comprehensive-uk-trade-policy-strategy-for-a-new-beginning/"
 categories: ["Europe"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

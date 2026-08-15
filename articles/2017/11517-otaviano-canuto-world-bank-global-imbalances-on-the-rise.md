@@ -4,7 +4,7 @@ title: "Otaviano Canuto, World Bank: Global Imbalances on the Rise"
 year: 2017
 published: 2017-02-07 17:19:00
 published_gmt: 2017-02-07 17:19:00
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/finance/2017/02/otaviano-canuto-world-bank-global-imbalances-on-the-rise/"
 categories: ["Finance", "North America", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

@@ -4,7 +4,7 @@ title: "Otaviano Canuto: The Dollar’s ‘Exorbitant Privilege’ Remains"
 year: 2023
 published: 2023-08-22 10:32:13
 published_gmt: 2023-08-22 09:32:13
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/finance/2023/08/otaviano-canuto-the-dollars-exorbitant-privilege-remains/"
 categories: ["Columnists", "Finance", "North America"]
 content_class: opinion_column
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

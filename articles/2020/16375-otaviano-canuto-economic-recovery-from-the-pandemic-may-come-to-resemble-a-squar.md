@@ -4,7 +4,7 @@ title: "Otaviano Canuto: Economic Recovery From the Pandemic May Come to Resembl
 year: 2020
 published: 2020-07-21 15:08:36
 published_gmt: 2020-07-21 14:08:36
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/northamerica/2020/07/otaviano-canuto-economic-recovery-from-the-pandemic-may-come-to-resemble-a-square-root/"
 categories: ["North America"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

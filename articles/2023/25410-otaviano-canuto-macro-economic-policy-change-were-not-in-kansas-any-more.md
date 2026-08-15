@@ -4,7 +4,7 @@ title: "Otaviano Canuto: Macro-economic Policy Change - We’re Not in Kansas An
 year: 2023
 published: 2023-05-10 10:20:55
 published_gmt: 2023-05-10 09:20:55
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/menu/columnists/2023/05/otaviano-canuto-macro-economic-policy-change-were-not-in-kansas-any-more/"
 categories: ["Columnists", "Finance", "North America"]
 content_class: opinion_column
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

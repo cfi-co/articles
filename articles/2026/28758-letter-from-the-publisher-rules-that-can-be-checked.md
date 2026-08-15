@@ -4,7 +4,7 @@ title: "A Letter from the Publisher: Rules That Can Be Checked"
 year: 2026
 published: 2026-08-01 19:43:06
 published_gmt: 2026-08-01 18:43:06
-author: "CFI.co Editorial"
+author: "Anthony Michael"
 url: "https://cfi.co/europe/2026/08/letter-from-the-publisher-rules-that-can-be-checked/"
 categories: ["Europe"]
 content_class: editorial_analysis

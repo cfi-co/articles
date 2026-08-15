@@ -4,7 +4,7 @@ title: "Lord Waverley: The EAEU is an Alternative to the EU — But Will It Last
 year: 2020
 published: 2020-05-01 19:23:11
 published_gmt: 2020-05-01 18:23:11
-author: "CFI.co Editorial"
+author: "Lord Waverley"
 url: "https://cfi.co/asia-pacific/2020/05/lord-waverley-the-eaeu-is-an-alternative-to-the-eu-but-will-it-last/"
 categories: ["Asia Pacific"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

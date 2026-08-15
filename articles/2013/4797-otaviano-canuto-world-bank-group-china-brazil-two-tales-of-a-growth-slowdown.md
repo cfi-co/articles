@@ -4,7 +4,7 @@ title: "Otaviano Canuto, World Bank Group: China, Brazil - Two Tales of a Growth
 year: 2013
 published: 2013-08-01 16:50:05
 published_gmt: 2013-08-01 15:50:05
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/asia-pacific/2013/08/otaviano-canuto-world-bank-group-china-brazil-two-tales-of-a-growth-slowdown/"
 categories: ["Asia Pacific", "Finance", "Latin America", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

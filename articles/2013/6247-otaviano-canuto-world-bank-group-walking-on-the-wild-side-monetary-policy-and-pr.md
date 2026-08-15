@@ -4,7 +4,7 @@ title: "Otaviano Canuto, World Bank Group: Walking on the Wild Side - Monetary P
 year: 2013
 published: 2013-12-16 16:37:09
 published_gmt: 2013-12-16 16:37:09
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/banking/2013/12/otaviano-canuto-world-bank-group-walking-on-the-wild-side-monetary-policy-and-prudential-regulation/"
 categories: ["Banking", "Europe", "Finance", "North America"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

@@ -4,7 +4,7 @@ title: "Iran at the Crossroads"
 year: 2026
 published: 2026-08-10 13:14:30
 published_gmt: 2026-08-10 12:14:30
-author: "CFI.co Editorial"
+author: "Lord Waverley"
 url: "https://cfi.co/middleeast/2026/08/iran-at-the-crossroads/"
 categories: ["Columnists", "Middle East"]
 content_class: opinion_column
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

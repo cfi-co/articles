@@ -4,7 +4,7 @@ title: "Lord Waverley on Sanctions: The United Kingdom Acts"
 year: 2017
 published: 2017-11-06 11:53:56
 published_gmt: 2017-11-06 11:53:56
-author: "CFI.co Editorial"
+author: "Lord Waverley"
 url: "https://cfi.co/europe/2017/11/sanctions-the-united-kingdom-acts/"
 categories: ["Columnists", "Europe"]
 content_class: opinion_column
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

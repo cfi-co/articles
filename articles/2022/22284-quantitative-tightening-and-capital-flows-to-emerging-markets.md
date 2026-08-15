@@ -4,7 +4,7 @@ title: "Quantitative Tightening and Capital Flows to Emerging Markets"
 year: 2022
 published: 2022-06-27 09:48:52
 published_gmt: 2022-06-27 08:48:52
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/finance/2022/06/quantitative-tightening-and-capital-flows-to-emerging-markets/"
 categories: ["Finance", "North America"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

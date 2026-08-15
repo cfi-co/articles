@@ -4,7 +4,7 @@ title: "Don’t Expect Miracles from the Multilaterals"
 year: 2020
 published: 2020-11-16 14:43:44
 published_gmt: 2020-11-16 14:43:44
-author: "CFI.co Editorial"
+author: "Otaviano Canuto"
 url: "https://cfi.co/finance/2020/11/dont-expect-miracles-from-the-multilaterals/"
 categories: ["Finance", "Latin America"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

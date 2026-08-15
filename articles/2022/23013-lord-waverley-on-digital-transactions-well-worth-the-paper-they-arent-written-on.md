@@ -4,7 +4,7 @@ title: "Lord Waverley on Digital Transactions: Well Worth the Paper They Aren’
 year: 2022
 published: 2022-08-12 07:56:12
 published_gmt: 2022-08-12 06:56:12
-author: "CFI.co Editorial"
+author: "Lord Waverley"
 url: "https://cfi.co/europe/2022/08/lord-waverley-on-digital-transactions-well-worth-the-paper-they-arent-written-on/"
 categories: ["Europe", "Technology"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived
