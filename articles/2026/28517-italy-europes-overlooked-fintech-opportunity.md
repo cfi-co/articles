@@ -4,7 +4,7 @@ title: "Italy: Europe’s Overlooked Fintech Opportunity?"
 year: 2026
 published: 2026-06-01 18:15:20
 published_gmt: 2026-06-01 17:15:20
-author: "CFI.co Editorial"
+author: "Alessandro Hatami"
 url: "https://cfi.co/europe/2026/06/italy-europes-overlooked-fintech-opportunity/"
 categories: ["Europe", "Innovation &amp; Technology", "Technology"]
 content_class: editorial_analysis

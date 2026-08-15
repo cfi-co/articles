@@ -4,7 +4,7 @@ title: "PwC: CEOs’ Confidence in Business Growth Dips as Global Economy Seen t
 year: 2019
 published: 2019-06-14 12:06:22
 published_gmt: 2019-06-14 11:06:22
-author: "CFI.co Editorial"
+author: "Dion Shango"
 url: "https://cfi.co/africa/2019/06/pwc-ceos-confidence-in-business-growth-dips-as-global-economy-seen-to-falter/"
 categories: ["Africa", "Banking &amp; Finance"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

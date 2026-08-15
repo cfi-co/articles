@@ -4,7 +4,7 @@ title: "MIGA (World Bank) - A New Boon for Emerging-Market Financing: Achieving 
 year: 2014
 published: 2014-05-13 13:54:27
 published_gmt: 2014-05-13 12:54:27
-author: "CFI.co Editorial"
+author: "Olga Sclovscaia"
 url: "https://cfi.co/europe/2014/05/miga-world-bank-a-new-boon-for-emerging-market-financing-achieving-investment-grade-bonds-with-migas-credit-enhancement/"
 categories: ["Europe", "Finance"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

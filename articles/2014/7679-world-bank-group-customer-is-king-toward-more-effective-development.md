@@ -4,7 +4,7 @@ title: "World Bank Group: “Customer is King” –  Toward More Effective Deve
 year: 2014
 published: 2014-07-24 16:42:37
 published_gmt: 2014-07-24 15:42:37
-author: "CFI.co Editorial"
+author: "Jeff Thindwa"
 url: "https://cfi.co/africa/2014/07/world-bank-group-customer-is-king-toward-more-effective-development/"
 categories: ["Africa", "Asia Pacific", "Latin America", "Projects", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

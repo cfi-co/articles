@@ -4,7 +4,7 @@ title: "IFC: Capital Markets Key to Development"
 year: 2015
 published: 2015-12-07 13:23:20
 published_gmt: 2015-12-07 13:23:20
-author: "CFI.co Editorial"
+author: "Ethiopis Tafara"
 url: "https://cfi.co/africa/2015/12/ifc-capital-markets-key-to-development/"
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Markets", "Middle East", "North America", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

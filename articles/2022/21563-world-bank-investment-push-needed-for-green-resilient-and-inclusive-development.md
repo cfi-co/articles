@@ -4,7 +4,7 @@ title: "World Bank: Investment Push Needed for Green, Resilient and Inclusive De
 year: 2022
 published: 2022-02-14 14:34:53
 published_gmt: 2022-02-14 14:34:53
-author: "CFI.co Editorial"
+author: "Mari Pengatsu"
 url: "https://cfi.co/asia-pacific/2022/02/world-bank-investment-push-needed-for-green-resilient-and-inclusive-development/"
 categories: ["Asia Pacific", "Banking", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

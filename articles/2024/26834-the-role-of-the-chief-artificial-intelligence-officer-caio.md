@@ -4,7 +4,7 @@ title: "The Role of the Chief Artificial Intelligence Officer (CAIO)"
 year: 2024
 published: 2024-06-03 13:37:37
 published_gmt: 2024-06-03 12:37:37
-author: "CFI.co Editorial"
+author: "Bashar Kilani"
 url: "https://cfi.co/middleeast/2024/06/the-role-of-the-chief-artificial-intelligence-officer-caio/"
 categories: ["Middle East", "Technology"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

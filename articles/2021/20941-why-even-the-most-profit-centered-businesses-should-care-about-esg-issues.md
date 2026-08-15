@@ -4,7 +4,7 @@ title: "Why Even the Most Profit Centered Businesses Should Care About ESG Issue
 year: 2021
 published: 2021-11-03 08:44:10
 published_gmt: 2021-11-03 08:44:10
-author: "CFI.co Editorial"
+author: "Robert Zochowski"
 url: "https://cfi.co/finance/2021/11/why-even-the-most-profit-centered-businesses-should-care-about-esg-issues/"
 categories: ["Finance", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

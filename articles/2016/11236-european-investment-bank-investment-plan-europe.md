@@ -4,7 +4,7 @@ title: "European Investment Bank: Investment Plan for Europe"
 year: 2016
 published: 2016-06-14 12:02:43
 published_gmt: 2016-06-14 11:02:43
-author: "CFI.co Editorial"
+author: "Werner Hoyer"
 url: "https://cfi.co/europe/2016/06/european-investment-bank-investment-plan-europe/"
 categories: ["Banking", "Banking &amp; Finance", "Europe", "Finance"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

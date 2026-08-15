@@ -4,7 +4,7 @@ title: "Paolo Sironi, IBM: 7 Bets for 7 Trends That’ll Future-Proof Industries
 year: 2023
 published: 2023-07-12 13:54:25
 published_gmt: 2023-07-12 12:54:25
-author: "CFI.co Editorial"
+author: "Paolo Sironi"
 url: "https://cfi.co/europe/2023/07/paolo-sironi-ibm-7-bets-for-7-trends-thatll-future-proof-industries-and-society/"
 categories: ["Europe", "Finance", "Innovation &amp; Technology", "Technology"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

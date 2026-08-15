@@ -4,7 +4,7 @@ title: "Asian Development Bank: Why the Rule of Law Matters for Private Sector G
 year: 2026
 published: 2026-06-12 10:09:34
 published_gmt: 2026-06-12 09:09:34
-author: "CFI.co Editorial"
+author: "Thomas Michael Clark"
 url: "https://cfi.co/asia-pacific/2026/06/asian-development-bank-why-the-rule-of-law-matters-for-private-sector-growth-in-asia-and-the-pacific/"
 categories: ["Asia Pacific", "Governance &amp; Legal", "Legal"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

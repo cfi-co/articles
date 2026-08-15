@@ -4,7 +4,7 @@ title: "PwC: Nigerian Report on Ease of Doing Business"
 year: 2018
 published: 2018-09-13 16:40:10
 published_gmt: 2018-09-13 15:40:10
-author: "CFI.co Editorial"
+author: "Folajimi Olamide Akinla"
 url: "https://cfi.co/africa/2018/09/pwc-nigerian-report-on-ease-of-doing-business/"
 categories: ["Africa", "Finance"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

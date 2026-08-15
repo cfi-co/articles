@@ -4,7 +4,7 @@ title: "PwC: South Africa Has an Unprecedented Opportunity to Capitalise on the 
 year: 2021
 published: 2021-01-05 14:19:45
 published_gmt: 2021-01-05 14:19:45
-author: "CFI.co Editorial"
+author: "Jonathan Metcalfe"
 url: "https://cfi.co/africa/2021/01/pwc-south-africa-has-an-unprecedented-opportunity-to-capitalise-on-the-rapidly-developing-global-hydrogen-economy/"
 categories: ["Africa", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

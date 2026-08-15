@@ -4,7 +4,7 @@ title: "From Davos to Digital Transformation: The Key Trends that Will Define th
 year: 2024
 published: 2024-02-02 09:16:04
 published_gmt: 2024-02-02 09:16:04
-author: "CFI.co Editorial"
+author: "Alessandro Hatami"
 url: "https://cfi.co/europe/2024/02/from-davos-to-digital-transformation-the-key-trends-that-will-define-the-global-financial-services-sector-in-2024/"
 categories: ["Europe", "Finance", "Technology"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

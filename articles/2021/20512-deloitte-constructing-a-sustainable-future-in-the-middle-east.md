@@ -4,7 +4,7 @@ title: "Deloitte: Constructing a Sustainable Future in the Middle East"
 year: 2021
 published: 2021-08-26 11:50:11
 published_gmt: 2021-08-26 10:50:11
-author: "CFI.co Editorial"
+author: "Damian Regan"
 url: "https://cfi.co/sustainability/2021/08/deloitte-constructing-a-sustainable-future-in-the-middle-east/"
 categories: ["Middle East", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

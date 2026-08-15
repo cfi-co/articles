@@ -4,7 +4,7 @@ title: "IFC: Climate Change - Threat and Opportunity for Private Sector"
 year: 2016
 published: 2016-01-06 13:25:03
 published_gmt: 2016-01-06 13:25:03
-author: "CFI.co Editorial"
+author: "Dimitris Tsitsiragos"
 url: "https://cfi.co/europe/2016/01/ifc-climate-change-threat-and-opportunity-for-private-sector/"
 categories: ["Europe", "Finance", "Sustainability", "Technology"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

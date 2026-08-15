@@ -4,7 +4,7 @@ title: "Ian Fletcher, IBM: Immersive Transportation and the Internet of Everythi
 year: 2019
 published: 2019-08-12 14:48:53
 published_gmt: 2019-08-12 13:48:53
-author: "CFI.co Editorial"
+author: "Ian Fletcher"
 url: "https://cfi.co/technology/2019/08/ian-fletcher-ibm-immersive-transportation-and-the-internet-of-everything/"
 categories: ["Technology"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

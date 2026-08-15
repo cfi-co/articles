@@ -4,7 +4,7 @@ title: "From Oil Barrels to Algorithms: Why the Gulf’s Digital Future Needs Ch
 year: 2025
 published: 2025-05-30 12:45:47
 published_gmt: 2025-05-30 11:45:47
-author: "CFI.co Editorial"
+author: "Bashar Kilani"
 url: "https://cfi.co/menu/energy/2025/05/from-oil-barrels-to-algorithms-why-the-gulfs-digital-future-needs-chief-ai-officers/"
 categories: ["Energy", "Middle East", "Technology"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

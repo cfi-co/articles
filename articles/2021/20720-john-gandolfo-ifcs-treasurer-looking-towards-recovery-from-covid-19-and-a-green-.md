@@ -4,7 +4,7 @@ title: "John Gandolfo, IFC’s Treasurer: Looking Towards Recovery from Covid-19
 year: 2021
 published: 2021-09-24 12:16:02
 published_gmt: 2021-09-24 11:16:02
-author: "CFI.co Editorial"
+author: "John Gandolfo"
 url: "https://cfi.co/finance/2021/09/john-gandolfo-ifcs-treasurer-looking-towards-recovery-from-covid-19-and-a-green-resilient-inclusive-future/"
 categories: ["Brave New World", "Finance", "North America", "c-19"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

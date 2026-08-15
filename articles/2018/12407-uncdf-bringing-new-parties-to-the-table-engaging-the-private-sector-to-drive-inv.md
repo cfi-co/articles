@@ -4,7 +4,7 @@ title: "UNCDF: Bringing New Parties to the Table - Engaging the Private Sector t
 year: 2018
 published: 2018-03-23 09:07:55
 published_gmt: 2018-03-23 09:07:55
-author: "CFI.co Editorial"
+author: "Esther Pan Sloane"
 url: "https://cfi.co/asia-pacific/2018/03/uncdf-bringing-new-parties-to-the-table-engaging-the-private-sector-to-drive-investment-into-least-developed-countries/"
 categories: ["Asia Pacific", "Finance", "Multilaterals", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

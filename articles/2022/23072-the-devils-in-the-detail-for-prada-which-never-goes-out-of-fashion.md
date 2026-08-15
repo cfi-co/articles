@@ -4,7 +4,7 @@ title: "The Devil’s in the Detail for Prada, Which Never Goes Out of Fashion"
 year: 2022
 published: 2022-08-18 12:42:47
 published_gmt: 2022-08-18 11:42:47
-author: "CFI.co Editorial"
+author: "Kitty Wenham"
 url: "https://cfi.co/lifestyle/2022/08/the-devils-in-the-detail-for-prada-which-never-goes-out-of-fashion/"
 categories: ["Lifestyle"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

@@ -4,7 +4,7 @@ title: "Deloitte & Touche: The Middle East's Boost From Bank and Corporate Initi
 year: 2022
 published: 2022-10-11 08:26:24
 published_gmt: 2022-10-11 07:26:24
-author: "CFI.co Editorial"
+author: "Damian Regan"
 url: "https://cfi.co/banking/2022/10/deloitte-touche-the-middle-easts-boost-from-bank-and-corporate-initiatives/"
 categories: ["Banking", "Finance", "Middle East"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

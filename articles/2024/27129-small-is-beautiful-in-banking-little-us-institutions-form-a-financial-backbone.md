@@ -4,7 +4,7 @@ title: "Small is Beautiful in Banking: Little US Institutions Form a Financial B
 year: 2024
 published: 2024-09-17 12:21:59
 published_gmt: 2024-09-17 11:21:59
-author: "CFI.co Editorial"
+author: "Yerbol Orynbayev"
 url: "https://cfi.co/banking/2024/09/small-is-beautiful-in-banking-little-us-institutions-form-a-financial-backbone/"
 categories: ["Banking", "Banking &amp; Finance", "North America"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

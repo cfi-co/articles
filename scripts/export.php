@@ -145,6 +145,23 @@ foreach ($wpdb->get_results("SELECT ID, user_login, display_name FROM {$wpdb->us
     $userdisp[$u->ID]  = $u->display_name;
 }
 
+/* 2b-iii. Publisher-approved bylines (scripts/approved-bylines.json), by post ID.
+          These pieces sit under a HOUSE account with the real byline only in the body
+          markup, so post_author cannot reach them. Nothing is extracted at export time:
+          a record is renamed only if the publisher put its ID in that file. Single-source
+          extractions were deliberately NOT approved — a wrong name invents a person,
+          where the house label merely fails to name one. (Ruling, 15 Aug 2026.) */
+$approved_bylines = array();
+if (is_file("$REPO/scripts/approved-bylines.json")) {
+    $ab = json_decode(file_get_contents("$REPO/scripts/approved-bylines.json"), true);
+    if (is_array($ab) && isset($ab['bylines']) && is_array($ab['bylines'])) {
+        foreach ($ab['bylines'] as $pid => $nm) {
+            $nm = trim((string) $nm);
+            if ($nm !== '') $approved_bylines[(int) $pid] = $nm;
+        }
+    }
+}
+
 /* 2c. Wayback evidence cache (built by scripts/wayback.php; gitignored).
        url => [status, earliest snapshot ts, snapshot url]. */
 $waybackmap = array();
@@ -253,6 +270,12 @@ foreach ($posts as $p) {
         if ($disp !== '' && !in_array(strtolower($login), array_map('strtolower', $HOUSE_LOGINS), true)) {
             $record_author = $disp;
         }
+    }
+
+    // An approved byline WINS over anything derived. It is the publisher's explicit
+    // decision about that specific record, so it must not be second-guessed by a rule.
+    if (isset($approved_bylines[$id])) {
+        $record_author = $approved_bylines[$id];
     }
 
     $correction_status = 'none';

@@ -4,7 +4,7 @@ title: "PwC Bermuda: New Tech and Cybercrime Top List of Concerns in Reinsurance
 year: 2020
 published: 2020-01-23 13:04:20
 published_gmt: 2020-01-23 13:04:20
-author: "CFI.co Editorial"
+author: "Arthur Wightman"
 url: "https://cfi.co/corporate-leaders/2020/01/pwc-bermuda-new-tech-and-cybercrime-top-list-of-concerns-in-reinsurance-survey/"
 categories: ["CFI.co Meets", "Corporate", "Corporate Leaders"]
 content_class: interview
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

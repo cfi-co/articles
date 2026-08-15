@@ -4,7 +4,7 @@ title: "PwC - Nigeria’s Local Government System: Challenges and Opportunities 
 year: 2021
 published: 2021-07-08 09:49:08
 published_gmt: 2021-07-08 08:49:08
-author: "CFI.co Editorial"
+author: "Folajimi Akinla"
 url: "https://cfi.co/africa/2021/07/pwc-nigerias-local-government-system-challenges-and-opportunities-abound/"
 categories: ["Africa"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

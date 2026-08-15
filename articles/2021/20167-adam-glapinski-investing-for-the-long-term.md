@@ -4,7 +4,7 @@ title: "Investing for the Long-term: Gold as a Pillar of NBP’s Reserve Managem
 year: 2021
 published: 2021-07-12 07:47:01
 published_gmt: 2021-07-12 06:47:01
-author: "CFI.co Editorial"
+author: "Professor Adam Glapiński"
 url: "https://cfi.co/europe/2021/07/adam-glapinski-investing-for-the-long-term/"
 categories: ["Corporate", "Europe"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

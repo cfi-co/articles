@@ -4,7 +4,7 @@ title: "ISID, McGill University: Updating the DFIs’ Operating Models to Achiev
 year: 2020
 published: 2020-05-13 09:20:04
 published_gmt: 2020-05-13 08:20:04
-author: "CFI.co Editorial"
+author: "Franque Grimard"
 url: "https://cfi.co/finance/2020/05/isid-mcgill-university-updating-the-dfis-operating-models-to-achieve-the-un-2030-sdg-agenda/"
 categories: ["CSR", "Finance", "North America", "Sustainability"]
 content_class: editorial_analysis
@@ -12,7 +12,7 @@ independence_status: independent_editorial
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived
