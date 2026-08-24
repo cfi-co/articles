@@ -21,6 +21,15 @@
  *  - The internal WP username is NOT exposed; author is a fixed editorial label.
  */
 
+/**
+ * cfi-webtext-1: the published-side half of the contribution provenance rule. Required here
+ * rather than inlined so that scripts/cfi-textnorm-conformance.php tests the SAME code the
+ * export runs - two copies of a hashing rule is the defect this whole mechanism exists to
+ * avoid. __DIR__ is used because sync.sh invokes this file through `wp eval-file`, which
+ * includes it, so the working directory is the repo root rather than scripts/.
+ */
+require_once __DIR__ . '/cfi-textnorm.php';
+
 if (!defined('ABSPATH')) { fwrite(STDERR, "Must run via wp eval-file\n"); exit(1); }
 
 global $wpdb;
@@ -362,6 +371,47 @@ foreach ($posts as $p) {
         'content_text'   => html_to_text($content),
         'content_sha256' => $chash,
     );
+
+    // --- Contribution provenance -------------------------------------------------------
+    // Only contributed pieces carry this block. Gating it on the contributor flag is not a
+    // tidiness choice: record_sha256 covers every field, so adding a key unconditionally
+    // would recompute the hash of every record in the archive and manufacture a rewrite of
+    // the entire estate in one commit. Contributed pieces alone move, and only when they
+    // first gain the block.
+    //
+    // published_text_sha256 is the join. content_sha256 is over the HTML and cannot be
+    // compared with anything the author ever saw; this is over the same normalised text the
+    // author's confirmation was taken against, so a third party can fetch this record, run
+    // the published rule, and check the two agree. Spec:
+    // crm.cfi.co/docs/superpowers/specs/2026-08-24-contribution-provenance-design.md
+    if (get_post_meta($id, '_cfi_contributed', true)) {
+        $contribution = array(
+            'normaliser'            => CFI_TEXTNORM_VERSION,
+            'published_text_sha256' => cfi_webtext_1_sha256($content),
+        );
+        // Written by the confirmation loop. Absent until it exists, and absent rather than
+        // false for any piece that never gained one - the same pattern the estate already
+        // uses for pre-9-November-2025 sponsorship.
+        foreach (array('submission_id', 'received_text_sha256', 'received_utc',
+                       'origin_domain', 'origin_verified',
+                       'confirmed_text_sha256', 'confirmed_utc', 'confirmation_method') as $k) {
+            $v = (string) get_post_meta($id, '_cfi_contrib_' . $k, true);
+            if ($v !== '') {
+                $contribution[$k] = $v;
+            }
+        }
+        // A confirmation hash without its method could be read as verified when it was a
+        // phone call. Refuse to emit that combination rather than publish an overstatement.
+        if (isset($contribution['confirmed_text_sha256'])
+            && empty($contribution['confirmation_method'])) {
+            unset($contribution['confirmed_text_sha256'], $contribution['confirmed_utc']);
+            $contribution['confirmation_note'] =
+                'A confirmation was recorded without its method and is withheld here rather '
+                . 'than shown, because an unmethoded confirmation cannot be told apart from '
+                . 'a verified one.';
+        }
+        $record['contribution'] = $contribution;
+    }
     $json = json_encode($record,
         JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
     $record['record_sha256'] = hash('sha256', $json);

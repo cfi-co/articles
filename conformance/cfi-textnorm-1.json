@@ -1,0 +1,236 @@
+{
+  "rule": "cfi-textnorm-1",
+  "version": {
+    "document_side": "cfi-doctext-1",
+    "web_side": "cfi-webtext-1"
+  },
+  "purpose": "Pins every decision in the contribution provenance normalisation rule so that the PHP implementation (articles archive export) and the Python implementation (cfi-contribute-receipt on mail.cfi.co) cannot silently disagree. A disagreement would tell a contributor that the piece they approved does not match what was published, when nothing is wrong but an entity-decoding default.",
+  "contract": "Every implementation MUST reproduce expect_text exactly for every case of a kind it implements. expect_sha256 is sha256 of expect_text as UTF-8 and is derived, not authoritative. Kinds: 'paragraph' (the shared tail - EVERY implementation), 'html' (cfi-webtext-1), 'docx' (cfi-doctext-1, input is word/document.xml). Behaviour not pinned by a case here is not part of the rule.",
+  "versioning": "Changing any expectation is a NEW RULE VERSION, never an edit. Hashes published against cfi-webtext-1 must stay reproducible forever.",
+  "cases": [
+    {
+      "id": "para-collapse",
+      "kind": "paragraph",
+      "why": "runs of any whitespace collapse to one space",
+      "input": "The  case   for\tpatient capital.",
+      "expect_text": "The case for patient capital.",
+      "expect_sha256": "31eea77bb6e1129764344df8f7d385738da8820f7f9ffcbb7b55b0462a1ee3cf"
+    },
+    {
+      "id": "para-trim",
+      "kind": "paragraph",
+      "why": "paragraphs are trimmed",
+      "input": "   leading and trailing   ",
+      "expect_text": "leading and trailing",
+      "expect_sha256": "2f5342d289b88dceed4f7407da698a273299607167eb5cab5d0fdecbcceb988f"
+    },
+    {
+      "id": "para-nbsp",
+      "kind": "paragraph",
+      "why": "every Unicode space separator becomes U+0020, including NBSP and ideographic space",
+      "input": "one two three　four",
+      "expect_text": "one two three four",
+      "expect_sha256": "113f69ccf08f80a63beba2f49218eaa72a183f374065e6cb56ebe9bd68eb79cc"
+    },
+    {
+      "id": "para-invisible",
+      "kind": "paragraph",
+      "why": "zero-width and soft-hyphen characters are removed, not spaced",
+      "input": "pat​ient cap­ital﻿",
+      "expect_text": "patient capital",
+      "expect_sha256": "6d37b35fc1eb8aa0d2229b54e8b820cb93eaa67f7e43b609c7f9897bdadac005"
+    },
+    {
+      "id": "para-nfc",
+      "kind": "paragraph",
+      "why": "decomposed accents are composed: the same name must hash the same whichever keyboard typed it",
+      "input": "Crédit Agricole",
+      "expect_text": "Crédit Agricole",
+      "expect_sha256": "4d9d87efeb5787c8f360552f88c0809476a922da93a9cf2d25f14b88cdd1b63b"
+    },
+    {
+      "id": "para-quotes-kept",
+      "kind": "paragraph",
+      "why": "smart quotes and dashes are NOT normalised: changing them is an editorial change and must move the hash",
+      "input": "the “patient” case — really",
+      "expect_text": "the “patient” case — really",
+      "expect_sha256": "9674d7a312dd44b6bbae28b3814adf88ccd7c9bfacd68cbe31a262c2fc20e5be"
+    },
+    {
+      "id": "para-unicode-line-separators",
+      "kind": "paragraph",
+      "why": "U+2028 and U+2029 ARE whitespace and collapse to a space. Verified: PHP's [\\s\\p{Zs}]+/u (UCP-enabled) and Python's \\s+ agree on all 27 whitespace and zero-width code points tested, so both rules use the engine's own Unicode definition rather than a hand-built category set.",
+      "input": "before after",
+      "expect_text": "before after",
+      "expect_sha256": "f5fbd28f77098cd3e707b7b4e5b73327fdfa7c8cf8fddaafaa2bcc1766eeac51"
+    },
+    {
+      "id": "para-empty",
+      "kind": "paragraph",
+      "why": "a paragraph of nothing but spaces normalises to empty and is dropped by the join",
+      "input": "      ",
+      "expect_text": "",
+      "expect_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "html-two-paras",
+      "kind": "html",
+      "why": "block boundaries separate paragraphs; they join with a single LF",
+      "input": "<p>First.</p><p>Second.</p>",
+      "expect_text": "First.\nSecond.",
+      "expect_sha256": "4bc5477fed25998af01e98e34df946bf1e65236886e0b042adf832b7bcf4373a"
+    },
+    {
+      "id": "html-no-weld",
+      "kind": "html",
+      "why": "the last word of one paragraph must never weld to the first word of the next",
+      "input": "<p>ends here</p><p>starts here</p>",
+      "expect_text": "ends here\nstarts here",
+      "expect_sha256": "c428081d4a95699546aa1ff2cc51ef66733e97b3c1715562779d68dd9632dbe5"
+    },
+    {
+      "id": "html-br-is-space",
+      "kind": "html",
+      "why": "a line break inside a paragraph is a space, matching w:br on the .docx side",
+      "input": "<p>one<br>two<br/>three</p>",
+      "expect_text": "one two three",
+      "expect_sha256": "6899ee404683a14e8c2a03149860df25d67d34d9cd4dae7350cbe91e4b3976be"
+    },
+    {
+      "id": "html-entities",
+      "kind": "html",
+      "why": "named entities decode to real characters",
+      "input": "<p>Ben &amp; Co &mdash; &ldquo;quoted&rdquo; &rsquo;s</p>",
+      "expect_text": "Ben & Co — “quoted” ’s",
+      "expect_sha256": "929f53120cf24054d4864123ba64b0c26cd52033c4bfc64138d7821bd03ecdb0"
+    },
+    {
+      "id": "html-numeric-entities",
+      "kind": "html",
+      "why": "decimal and hex numeric references decode identically",
+      "input": "<p>&#8217;&#x2019;</p>",
+      "expect_text": "’’",
+      "expect_sha256": "f199df2a6603df78a99ab0f5b6ed6f7a1fb59c48ad282d04b9721cadc033cd33"
+    },
+    {
+      "id": "html-nbsp-entity",
+      "kind": "html",
+      "why": "an entity NBSP is a space like any other and collapses",
+      "input": "<p>one&nbsp;&nbsp;two</p>",
+      "expect_text": "one two",
+      "expect_sha256": "8ab63e29a4ba14e4e1688f9c15e5af90895421358c945b0431f85d66977bd3d2"
+    },
+    {
+      "id": "html-empty-para-dropped",
+      "kind": "html",
+      "why": "a spacer paragraph a theme leaves behind is invisible to the hash",
+      "input": "<p>Real.</p><p>&nbsp;</p><p>Also real.</p>",
+      "expect_text": "Real.\nAlso real.",
+      "expect_sha256": "dddab16395c1df43029e88fe862f45f631ab7fe8a5c30f1cbd0ead35d2e8b005"
+    },
+    {
+      "id": "html-comment-removed",
+      "kind": "html",
+      "why": "HTML comments are not readable text and may contain anything",
+      "input": "<p>Visible.<!-- editor: check this --></p>",
+      "expect_text": "Visible.",
+      "expect_sha256": "ba7f66627520f2b2a078b145b5c22bcd39f312482543296a25870f979d2a70b1"
+    },
+    {
+      "id": "html-script-removed",
+      "kind": "html",
+      "why": "script contents are removed entirely, not stripped to their text",
+      "input": "<p>Before.</p><script>var x='Not text.';</script><p>After.</p>",
+      "expect_text": "Before.\nAfter.",
+      "expect_sha256": "83da2bd4bc5608c1f6244cf2e464868f34b9a453005e14a125999e769c9cac00"
+    },
+    {
+      "id": "html-nested-blocks",
+      "kind": "html",
+      "why": "nested block elements do not produce empty paragraphs",
+      "input": "<blockquote><p>Quoted line.</p></blockquote><p>After.</p>",
+      "expect_text": "Quoted line.\nAfter.",
+      "expect_sha256": "8fd2183cb2beab55690d00db036c96022388106fabb57564cff978879a4ec75b"
+    },
+    {
+      "id": "html-list",
+      "kind": "html",
+      "why": "list items are paragraphs",
+      "input": "<ul><li>One</li><li>Two</li></ul>",
+      "expect_text": "One\nTwo",
+      "expect_sha256": "98bbe78e71bb986ec1fb8b25bd6dea535898ac4016b0f5110312030bd4806558"
+    },
+    {
+      "id": "html-table",
+      "kind": "html",
+      "why": "table cells are paragraphs; the rule makes no attempt to preserve tabular shape",
+      "input": "<table><tr><td>A</td><td>B</td></tr></table>",
+      "expect_text": "A\nB",
+      "expect_sha256": "23519a43c66b4c342f25b32e09797ec5f3fc0be388cd8243fb3449afbdce4013"
+    },
+    {
+      "id": "html-escaped-markup-is-text",
+      "kind": "html",
+      "why": "entities are decoded AFTER tags are stripped, so escaped markup in an article stays text",
+      "input": "<p>Write &lt;p&gt; to open a paragraph.</p>",
+      "expect_text": "Write <p> to open a paragraph.",
+      "expect_sha256": "2c3410fe17a317e92d3c3d472371f2b4c00bc7564b1ca9f1b5f630177a43be2d"
+    },
+    {
+      "id": "html-inline-tags-transparent",
+      "kind": "html",
+      "why": "inline formatting is not text and leaves no trace",
+      "input": "<p>A <em>strong</em> <a href='#'>case</a>.</p>",
+      "expect_text": "A strong case.",
+      "expect_sha256": "184ccd4843b1984ea623623d4219210f67e035f0bbf671d434fef1a85e5dc567"
+    },
+    {
+      "id": "html-hr-splits",
+      "kind": "html",
+      "why": "a horizontal rule is a block boundary, not a character",
+      "input": "<p>Above.</p><hr /><p>Below.</p>",
+      "expect_text": "Above.\nBelow.",
+      "expect_sha256": "29343d91217b1d0819526d2157b70c0869103c928aa2535235fc25d22d6d0e3c"
+    },
+    {
+      "id": "html-whitespace-between-blocks",
+      "kind": "html",
+      "why": "whitespace between block elements does not create empty paragraphs",
+      "input": "<p>One.</p>\n\n   \n<p>Two.</p>",
+      "expect_text": "One.\nTwo.",
+      "expect_sha256": "d9613c9fbcb5f8543b8df74c6396c10dec440097a4877797d4ebe008971295a5"
+    },
+    {
+      "id": "docx-two-paras",
+      "kind": "docx",
+      "why": "the .docx front end must land on exactly the same normalised text as the HTML one",
+      "input": "<?xml version=\"1.0\"?><w:document xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\"><w:body><w:p><w:r><w:t>First.</w:t></w:r></w:p><w:p><w:r><w:t>Second.</w:t></w:r></w:p></w:body></w:document>",
+      "expect_text": "First.\nSecond.",
+      "expect_sha256": "4bc5477fed25998af01e98e34df946bf1e65236886e0b042adf832b7bcf4373a"
+    },
+    {
+      "id": "docx-tracked-final-view",
+      "kind": "docx",
+      "why": "tracked changes read as the final view: insertions in, deletions out",
+      "input": "<?xml version=\"1.0\"?><w:document xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\"><w:body><w:p><w:r><w:t>Kept.</w:t></w:r></w:p><w:p><w:ins><w:r><w:t>Added.</w:t></w:r></w:ins><w:del><w:r><w:delText>Removed.</w:delText></w:r></w:del></w:p></w:body></w:document>",
+      "expect_text": "Kept.\nAdded.",
+      "expect_sha256": "5f370fc7f06772d18c724fc7d55d80338bd6b2df2d70663af317a34740cf19e0"
+    },
+    {
+      "id": "docx-field-codes-ignored",
+      "kind": "docx",
+      "why": "field codes are instructions, not visible text",
+      "input": "<?xml version=\"1.0\"?><w:document xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\"><w:body><w:p><w:r><w:instrText> HYPERLINK \\l x </w:instrText></w:r><w:r><w:t>Visible text.</w:t></w:r></w:p></w:body></w:document>",
+      "expect_text": "Visible text.",
+      "expect_sha256": "41819fad176ac7a36d42ce00eb30f30f1f1758891e3d0c1638f5ba780d5de1fb"
+    },
+    {
+      "id": "docx-tab-is-space",
+      "kind": "docx",
+      "why": "a tab inside a paragraph is a space",
+      "input": "<?xml version=\"1.0\"?><w:document xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\"><w:body><w:p><w:r><w:t>a</w:t><w:tab/><w:t>b</w:t></w:r></w:p></w:body></w:document>",
+      "expect_text": "a b",
+      "expect_sha256": "c8687a08aa5d6ed2044328fa6a697ab8e96dc34291e8c2034ae8c38e6fcc6d65"
+    }
+  ]
+}
