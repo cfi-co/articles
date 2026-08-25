@@ -9,6 +9,7 @@ url: "https://cfi.co/africa/2012/11/un-security-council-urges-wider-role-for-wom
 categories: ["Africa", "Asia Pacific", "Europe", "Latin America", "Middle East", "North America"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

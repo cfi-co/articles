@@ -9,6 +9,7 @@ url: "https://cfi.co/finance/2014/03/qatar-tops-per-capita-investment-in-dubai-r
 categories: ["Finance", "Middle East", "Projects"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

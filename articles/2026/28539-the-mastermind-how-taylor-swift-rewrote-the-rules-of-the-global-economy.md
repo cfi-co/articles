@@ -9,6 +9,7 @@ url: "https://cfi.co/lifestyle/2026/06/the-mastermind-how-taylor-swift-rewrote-t
 categories: ["Finance", "Lifestyle", "North America"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

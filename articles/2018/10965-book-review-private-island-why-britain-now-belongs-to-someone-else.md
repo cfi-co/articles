@@ -9,6 +9,7 @@ url: "https://cfi.co/europe/2018/02/book-review-private-island-why-britain-now-b
 categories: ["Europe", "Reviews"]
 content_class: review
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

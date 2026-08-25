@@ -9,6 +9,7 @@ url: "https://cfi.co/banking/2026/07/earning-through-a-war-uae-lenders-bank-reco
 categories: ["Banking", "Finance", "Middle East"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

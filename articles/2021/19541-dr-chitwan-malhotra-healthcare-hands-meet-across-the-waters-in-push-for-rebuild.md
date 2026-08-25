@@ -9,6 +9,7 @@ url: "https://cfi.co/editors-picks/2021/04/dr-chitwan-malhotra-healthcare-hands-
 categories: ["Heroes"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

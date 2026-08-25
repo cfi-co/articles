@@ -8,11 +8,13 @@ author: "CFI.co Editorial"
 url: "https://cfi.co/europe/2025/10/technology-with-a-human-touch-segurcaixa-adeslas-reinforces-its-market-leadership-through-innovation/"
 categories: ["Corporate", "Europe", "Innovation &amp; Technology", "Technology"]
 content_class: editorial_analysis
-independence_status: independent_editorial
+independence_status: commercially_supported
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
+correction_class: label_regime_change
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

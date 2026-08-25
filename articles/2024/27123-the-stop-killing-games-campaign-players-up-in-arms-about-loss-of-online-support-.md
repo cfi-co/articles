@@ -9,6 +9,7 @@ url: "https://cfi.co/technology/2024/09/the-stop-killing-games-campaign-players-
 categories: ["Innovation &amp; Technology", "North America", "Technology"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

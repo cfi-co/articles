@@ -9,6 +9,7 @@ url: "https://cfi.co/africa/2026/01/leadership-at-the-helm-of-kenyas-renewable-p
 categories: ["Africa", "Corporate", "Corporate Leaders", "Energy"]
 content_class: sponsored_article
 independence_status: commercially_supported
+independence_basis: assessed
 sponsor_disclosure: visible_and_machine_readable
 sponsor_name: "Kenya Electricity Generating Company PLC (KenGen)"
 editorial_lens: constructive_positive_lens

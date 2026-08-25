@@ -12,6 +12,7 @@
         "content_class": "editorial_analysis",
         "editorial_lens": "constructive_positive_lens",
         "independence_status": "independent_editorial",
+        "independence_basis": "retrospective_review_2026-08",
         "sponsor_disclosure": "none",
         "sponsor_name": "",
         "article_status": "published",
@@ -30,5 +31,5 @@
     "content_html": "<p style=\"text-align: justify;\"><strong>The CFI.co Judging Panel rates BCI Investment Management very highly and has announced that the award for ‘Best Fund Manager, Chile, 2013’ goes, with their congratulations, to this company. </strong>BCI works to high levels of operational efficiency and has strong risk management capabilities. According to the CFI.co Judging Panel, ’BCI ends the year on a high note providing them with a strong start to 2014. This firm has a good track record over the years and a history of strong and consistent portfolio managers. We wish them well.’</p>",
     "content_text": "The CFI.co Judging Panel rates BCI Investment Management very highly and has announced that the award for ‘Best Fund Manager, Chile, 2013’ goes, with their congratulations, to this company. BCI works to high levels of operational efficiency and has strong risk management capabilities. According to the CFI.co Judging Panel, ’BCI ends the year on a high note providing them with a strong start to 2014. This firm has a good track record over the years and a history of strong and consistent portfolio managers. We wish them well.’",
     "content_sha256": "8378959bf883d70a3be3406c4b6c0caaed260b9b23e51059970c78c94b7f3491",
-    "record_sha256": "6a0f61d8f85c845e270171608dabe28968ffa1ca45c178aa14b2036d705c4233"
+    "record_sha256": "6752aa0943d1d5274d076ec8caeadf7bbcebba79d3d03eb1805e5166934c0b17"
 }

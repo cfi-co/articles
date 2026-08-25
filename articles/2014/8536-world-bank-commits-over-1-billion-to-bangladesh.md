@@ -9,6 +9,7 @@ url: "https://cfi.co/asia-pacific/2014/12/world-bank-commits-over-1-billion-to-b
 categories: ["Asia Pacific", "North America", "Projects", "Sustainability"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

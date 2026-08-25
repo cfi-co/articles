@@ -9,6 +9,7 @@ url: "https://cfi.co/sustainability/2025/12/2025-when-markets-made-renewables-di
 categories: ["Energy", "North America", "Oil &amp; Mining", "Sustainability", "Technology"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

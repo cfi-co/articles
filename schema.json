@@ -41,6 +41,7 @@
         "content_class": { "type": "string", "enum": ["editorial_analysis", "interview", "opinion_column", "review", "sponsored_article"] },
         "editorial_lens": { "type": "string", "const": "constructive_positive_lens", "description": "CFI.co's stated editorial stance (declared policy, not a per-article measurement)." },
         "independence_status": { "type": "string", "enum": ["independent_editorial", "contributed_editorial", "commercially_supported"] },
+        "independence_basis": { "type": "string", "enum": ["assessed", "retrospective_review_2026-08", "default_pre_2025-11-09"], "description": "How much independence_status is worth on this record. assessed - an editor labelled the piece at publication with the practice in force (from 2025-11-09). retrospective_review_2026-08 - determined by the principals reviewing the back catalogue on 2026-08-25, after the fact. default_pre_2025-11-09 - no labelling practice existed and the field defaulted; nobody asked the question. Present on every record from 2026-08-25; absent from records written before that date." },
         "sponsor_disclosure": { "type": "string", "enum": ["none", "visible_and_machine_readable"] },
         "sponsor_name": { "type": "string", "description": "Disclosed sponsor; empty when not sponsored." },
         "article_status": { "type": "string", "const": "published" },

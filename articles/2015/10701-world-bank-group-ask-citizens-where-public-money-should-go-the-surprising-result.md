@@ -8,11 +8,13 @@ author: "CFI.co Editorial"
 url: "https://cfi.co/africa/2015/12/world-bank-group-ask-citizens-where-public-money-should-go-the-surprising-results/"
 categories: ["Africa", "Europe", "Finance", "Latin America", "Middle East", "Multilaterals", "North America", "Sustainability"]
 content_class: editorial_analysis
-independence_status: independent_editorial
+independence_status: contributed_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
+correction_class: label_regime_change
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

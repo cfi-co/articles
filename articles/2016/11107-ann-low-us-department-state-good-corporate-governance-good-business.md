@@ -9,6 +9,7 @@ url: "https://cfi.co/sustainability/2016/04/ann-low-us-department-state-good-cor
 categories: ["Africa", "Asia Pacific", "Banking", "Europe", "Finance", "Latin America", "Legal", "Middle East", "North America", "Oil &amp; Mining", "Sustainability", "Technology"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

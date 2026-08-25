@@ -9,6 +9,7 @@ url: "https://cfi.co/brave-new-world/2024/01/is-it-time-to-put-ai-in-charge-of-p
 categories: ["Brave New World", "Technology"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

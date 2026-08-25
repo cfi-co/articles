@@ -9,6 +9,7 @@ url: "https://cfi.co/technology/2026/01/heat-pumps-that-pay-how-industrial-proce
 categories: ["Europe", "Events", "Innovation &amp; Technology", "North America", "Sustainability", "Technology"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

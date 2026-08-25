@@ -9,6 +9,7 @@ url: "https://cfi.co/europe/2026/04/lattanzio-group-reimagining-public-sector-co
 categories: ["Corporate", "Europe", "Finance"]
 content_class: sponsored_article
 independence_status: commercially_supported
+independence_basis: assessed
 sponsor_disclosure: visible_and_machine_readable
 sponsor_name: "Lattanzio Group"
 editorial_lens: constructive_positive_lens

@@ -9,6 +9,7 @@ url: "https://cfi.co/featured/2026/03/blackstones-data-centre-push-when-private-
 categories: ["Finance", "Finance &amp; People", "North America"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

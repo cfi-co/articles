@@ -9,6 +9,7 @@ url: "https://cfi.co/europe/2021/10/spain-nab-impact-washing-its-a-thing-and-to-
 categories: ["CSR", "Europe", "Sustainability"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

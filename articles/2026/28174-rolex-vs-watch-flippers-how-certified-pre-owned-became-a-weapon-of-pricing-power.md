@@ -9,6 +9,7 @@ url: "https://cfi.co/europe/2026/01/rolex-vs-watch-flippers-how-certified-pre-ow
 categories: ["Europe", "Lifestyle"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

@@ -9,6 +9,7 @@ url: "https://cfi.co/sustainability/2026/03/the-ai-era-is-rewriting-the-business
 categories: ["Finance", "Innovation &amp; Technology", "Sustainability", "Technology"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

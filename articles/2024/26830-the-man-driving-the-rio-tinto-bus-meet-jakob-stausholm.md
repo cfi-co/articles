@@ -9,6 +9,7 @@ url: "https://cfi.co/sustainability/2024/05/the-man-driving-the-rio-tinto-bus-me
 categories: ["Africa", "CFI.co Meets", "Corporate", "Oil &amp; Mining", "Portraits", "Projects", "Sustainability"]
 content_class: interview
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

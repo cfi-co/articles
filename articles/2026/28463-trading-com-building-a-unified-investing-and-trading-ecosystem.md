@@ -9,6 +9,7 @@ url: "https://cfi.co/technology/2026/05/trading-com-building-a-unified-investing
 categories: ["Corporate", "Innovation &amp; Technology", "Technology"]
 content_class: sponsored_article
 independence_status: commercially_supported
+independence_basis: assessed
 sponsor_disclosure: visible_and_machine_readable
 sponsor_name: "Trading.com"
 editorial_lens: constructive_positive_lens

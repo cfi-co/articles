@@ -9,6 +9,7 @@ url: "https://cfi.co/northamerica/2026/06/the-hidden-titan-why-the-american-rail
 categories: ["Economics &amp; Convergence", "North America", "Sustainability"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

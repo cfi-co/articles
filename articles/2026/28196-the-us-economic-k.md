@@ -9,10 +9,12 @@ url: "https://cfi.co/northamerica/2026/01/the-us-economic-k/"
 categories: ["Columnists", "Finance", "North America"]
 content_class: opinion_column
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
 correction_status: revised
+correction_class: unspecified
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

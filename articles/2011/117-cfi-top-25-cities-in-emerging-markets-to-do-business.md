@@ -9,6 +9,7 @@ url: "https://cfi.co/africa/2011/12/cfi-top-25-cities-in-emerging-markets-to-do-
 categories: ["Africa", "Asia Pacific", "Latin America", "Middle East"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

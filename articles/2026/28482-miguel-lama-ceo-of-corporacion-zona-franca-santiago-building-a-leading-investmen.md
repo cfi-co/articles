@@ -9,6 +9,7 @@ url: "https://cfi.co/menu/corporate/2026/05/miguel-lama-ceo-of-corporacion-zona-
 categories: ["Corporate", "Corporate Leaders", "Latin America", "Projects"]
 content_class: sponsored_article
 independence_status: commercially_supported
+independence_basis: assessed
 sponsor_disclosure: visible_and_machine_readable
 sponsor_name: "CZFS"
 editorial_lens: constructive_positive_lens

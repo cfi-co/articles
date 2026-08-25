@@ -9,6 +9,7 @@ url: "https://cfi.co/banking/2014/04/ernst-young-argentina-tax-reform-affects-st
 categories: ["Banking", "Finance", "Latin America"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

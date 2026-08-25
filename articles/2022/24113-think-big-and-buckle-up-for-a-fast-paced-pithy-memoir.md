@@ -9,6 +9,7 @@ url: "https://cfi.co/menu/reviews/2022/12/think-big-and-buckle-up-for-a-fast-pac
 categories: ["Lifestyle", "North America", "Reviews"]
 content_class: review
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

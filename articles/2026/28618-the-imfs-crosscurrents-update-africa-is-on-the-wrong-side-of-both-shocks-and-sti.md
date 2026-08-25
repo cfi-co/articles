@@ -9,6 +9,7 @@ url: "https://cfi.co/africa/2026/07/the-imfs-crosscurrents-update-africa-is-on-t
 categories: ["Africa", "Sustainability"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

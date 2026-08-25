@@ -9,10 +9,12 @@ url: "https://cfi.co/asia-pacific/2026/03/asian-development-bank-the-world-isnt-
 categories: ["Asia Pacific", "Banking"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
 correction_status: revised
+correction_class: unspecified
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

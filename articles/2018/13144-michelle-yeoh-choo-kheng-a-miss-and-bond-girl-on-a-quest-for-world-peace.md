@@ -9,6 +9,7 @@ url: "https://cfi.co/editors-picks/2018/06/michelle-yeoh-choo-kheng-a-miss-and-b
 categories: []
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

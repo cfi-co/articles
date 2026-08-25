@@ -9,6 +9,7 @@ url: "https://cfi.co/asia-pacific/2014/04/united-nations-office-for-project-serv
 categories: ["Asia Pacific", "Latin America", "Middle East", "Projects", "Sustainability"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

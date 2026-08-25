@@ -9,6 +9,7 @@ url: "https://cfi.co/finance/2026/05/schafer-cullen-why-discipline-still-defines
 categories: ["Corporate", "Finance", "North America"]
 content_class: sponsored_article
 independence_status: commercially_supported
+independence_basis: assessed
 sponsor_disclosure: visible_and_machine_readable
 sponsor_name: "Schafer Cullen"
 editorial_lens: constructive_positive_lens

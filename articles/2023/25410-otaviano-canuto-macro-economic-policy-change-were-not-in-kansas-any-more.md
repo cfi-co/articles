@@ -8,11 +8,13 @@ author: "Otaviano Canuto"
 url: "https://cfi.co/menu/columnists/2023/05/otaviano-canuto-macro-economic-policy-change-were-not-in-kansas-any-more/"
 categories: ["Columnists", "Finance", "North America"]
 content_class: opinion_column
-independence_status: independent_editorial
+independence_status: contributed_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
 correction_status: revised
+correction_class: label_regime_change
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

@@ -9,6 +9,7 @@ url: "https://cfi.co/banking/2023/02/citigroup-ceo-jane-fraser/"
 categories: ["Banking", "Banking &amp; Finance", "CFI.co Meets", "Corporate Leaders", "Finance", "North America"]
 content_class: interview
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

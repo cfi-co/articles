@@ -9,6 +9,7 @@ url: "https://cfi.co/europe/2025/11/tekcapital-building-companies-that-change-li
 categories: ["Corporate", "Europe", "Finance"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

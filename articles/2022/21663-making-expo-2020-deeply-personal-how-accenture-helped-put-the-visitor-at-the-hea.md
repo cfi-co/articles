@@ -9,6 +9,7 @@ url: "https://cfi.co/menu/events/2022/03/making-expo-2020-deeply-personal-how-ac
 categories: ["Events", "Middle East", "Projects"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

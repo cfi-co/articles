@@ -9,6 +9,7 @@ url: "https://cfi.co/africa/2014/09/new-un-report-calls-for-major-changes-in-glo
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Latin America", "Middle East", "North America", "Oil &amp; Mining", "Projects", "Sustainability"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

@@ -17,6 +17,7 @@
         "content_class": "editorial_analysis",
         "editorial_lens": "constructive_positive_lens",
         "independence_status": "independent_editorial",
+        "independence_basis": "retrospective_review_2026-08",
         "sponsor_disclosure": "none",
         "sponsor_name": "",
         "article_status": "published",
@@ -33,5 +34,5 @@
     "content_html": "<strong>October 2012 - Las Vegas, NV</strong>\n\nIf you are looking to expand and diversify your asset allocation by investing in emerging managers as well as women and minority owned investment managers, the <em>emerging managers conference</em> will provide the unique opportunity to access a diversified group of up-and-coming performance-oriented managers and manager of managers. The event will explore the benefits and opportunities offered by investing in emerging managers as well as new strategies for implementing an emerging managers program. If you are an emerging manager, you will learn the procedures used by institutions to launch and maintain successful emerging manager programs. This event will showcase a variety of emerging mangers as well as minority-owned manager funds and other high potential smaller investment firms, and it will offer participants invaluable networking opportunities.\n\nClick for <a href=\"http://www.opalgroup.net/trk/emssc1103.html\" target=\"_blank\">additional details</a>.",
     "content_text": "October 2012 - Las Vegas, NV\n\nIf you are looking to expand and diversify your asset allocation by investing in emerging managers as well as women and minority owned investment managers, the emerging managers conference will provide the unique opportunity to access a diversified group of up-and-coming performance-oriented managers and manager of managers. The event will explore the benefits and opportunities offered by investing in emerging managers as well as new strategies for implementing an emerging managers program. If you are an emerging manager, you will learn the procedures used by institutions to launch and maintain successful emerging manager programs. This event will showcase a variety of emerging mangers as well as minority-owned manager funds and other high potential smaller investment firms, and it will offer participants invaluable networking opportunities.\n\nClick for additional details.",
     "content_sha256": "88883c97e550ddb4e8cc01c025539179880457166eeb11bd6bc844ecf596d75b",
-    "record_sha256": "a1132488118dc352a9eaa47c84c6c4c1471592b80050005e49433fe319976e71"
+    "record_sha256": "3849dfb351e94ba88cc2f711c8e6b3550b68981f2d732b5764db268c6f464bd3"
 }

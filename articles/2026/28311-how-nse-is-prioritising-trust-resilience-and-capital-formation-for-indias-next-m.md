@@ -9,6 +9,7 @@ url: "https://cfi.co/finance/2026/02/leading-the-next-cycle-nses-trust-first-age
 categories: ["Asia Pacific", "Finance", "Markets"]
 content_class: sponsored_article
 independence_status: commercially_supported
+independence_basis: assessed
 sponsor_disclosure: visible_and_machine_readable
 sponsor_name: "NSE"
 editorial_lens: constructive_positive_lens

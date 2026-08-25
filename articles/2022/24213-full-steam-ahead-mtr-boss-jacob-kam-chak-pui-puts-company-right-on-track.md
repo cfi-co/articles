@@ -9,6 +9,7 @@ url: "https://cfi.co/menu/corporate/2022/12/full-steam-ahead-mtr-boss-jacob-kam-
 categories: ["Asia Pacific", "Corporate"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

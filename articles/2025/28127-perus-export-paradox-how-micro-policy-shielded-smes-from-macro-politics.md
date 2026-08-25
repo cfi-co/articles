@@ -9,6 +9,7 @@ url: "https://cfi.co/finance/2025/12/perus-export-paradox-how-micro-policy-shiel
 categories: ["Finance", "Latin America"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

@@ -9,11 +9,13 @@ url: "https://cfi.co/asia-pacific/2026/05/eastwests-next-chapter-discipline-digi
 categories: ["Asia Pacific", "Banking", "Corporate", "Corporate Leaders"]
 content_class: sponsored_article
 independence_status: commercially_supported
+independence_basis: assessed
 sponsor_disclosure: visible_and_machine_readable
 sponsor_name: "EastWest"
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
 correction_status: revised
+correction_class: unspecified
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

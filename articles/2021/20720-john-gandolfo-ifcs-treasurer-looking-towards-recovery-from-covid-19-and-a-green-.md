@@ -8,11 +8,13 @@ author: "John Gandolfo"
 url: "https://cfi.co/finance/2021/09/john-gandolfo-ifcs-treasurer-looking-towards-recovery-from-covid-19-and-a-green-resilient-inclusive-future/"
 categories: ["Brave New World", "Finance", "North America", "c-19"]
 content_class: editorial_analysis
-independence_status: independent_editorial
+independence_status: contributed_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
 correction_status: revised
+correction_class: label_regime_change
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

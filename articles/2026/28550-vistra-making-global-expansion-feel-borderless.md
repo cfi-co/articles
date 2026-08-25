@@ -9,11 +9,13 @@ url: "https://cfi.co/approval/2026/07/vistra-helping-companies-expand-across-bor
 categories: []
 content_class: sponsored_article
 independence_status: commercially_supported
+independence_basis: assessed
 sponsor_disclosure: visible_and_machine_readable
 sponsor_name: "Vistra"
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
 correction_status: revised
+correction_class: unspecified
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

@@ -9,6 +9,7 @@ url: "https://cfi.co/editors-picks/2021/12/obituary-wilbur-addison-smith-1933-20
 categories: ["Africa", "Obituaries"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

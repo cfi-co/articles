@@ -9,6 +9,7 @@ url: "https://cfi.co/asia-pacific/2026/06/xmtrading-setting-the-benchmark-for-tr
 categories: ["Asia Pacific", "Corporate"]
 content_class: sponsored_article
 independence_status: commercially_supported
+independence_basis: assessed
 sponsor_disclosure: visible_and_machine_readable
 sponsor_name: "XMTrading"
 editorial_lens: constructive_positive_lens

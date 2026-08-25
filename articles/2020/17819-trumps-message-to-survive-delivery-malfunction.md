@@ -9,6 +9,7 @@ url: "https://cfi.co/northamerica/2020/11/trumps-message-to-survive-delivery-mal
 categories: ["Brave New World", "North America", "c-19"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

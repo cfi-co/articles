@@ -9,6 +9,7 @@ url: "https://cfi.co/banking/2025/11/driving-digital-transformation-nepal-sbi-ba
 categories: ["Asia Pacific", "Banking", "Corporate"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

@@ -9,6 +9,7 @@ url: "https://cfi.co/africa/2026/02/orchestrating-the-transition-enso-group-buil
 categories: ["Africa", "Corporate", "Energy"]
 content_class: sponsored_article
 independence_status: commercially_supported
+independence_basis: assessed
 sponsor_disclosure: visible_and_machine_readable
 sponsor_name: "enso"
 editorial_lens: constructive_positive_lens

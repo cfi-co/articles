@@ -9,6 +9,7 @@ url: "https://cfi.co/corporate-leaders/2025/11/clifford-m-gross-from-lab-to-lead
 categories: ["CFI.co Meets", "Corporate Leaders", "Europe", "Finance"]
 content_class: interview
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

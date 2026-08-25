@@ -8,11 +8,13 @@ author: "CFI.co Editorial"
 url: "https://cfi.co/finance/2025/07/moodys-ratings-2025-forecast-for-latin-america-stable-outlooks-sustainable-finance-trends-impact-of-us-policy-measures/"
 categories: ["Columnists", "Finance", "Latin America", "North America"]
 content_class: opinion_column
-independence_status: independent_editorial
+independence_status: commercially_supported
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
+correction_class: label_regime_change
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

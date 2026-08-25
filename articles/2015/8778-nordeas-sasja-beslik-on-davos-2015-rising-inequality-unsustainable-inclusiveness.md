@@ -9,6 +9,7 @@ url: "https://cfi.co/banking/2015/01/nordeas-sasja-beslik-on-davos-2015-rising-i
 categories: ["Banking", "Europe", "Finance", "Sustainability"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

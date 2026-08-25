@@ -9,6 +9,7 @@ url: "https://cfi.co/menu/innovation-technology/2026/03/ten-recent-technology-ad
 categories: ["Europe", "Innovation &amp; Technology", "North America", "Oil &amp; Mining", "Technology"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

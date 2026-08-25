@@ -9,6 +9,7 @@ url: "https://cfi.co/brave-new-world/2022/03/trust-is-a-vital-part-of-success-re
 categories: ["Brave New World"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

@@ -9,6 +9,7 @@ url: "https://cfi.co/finance/2025/08/the-evolution-of-elite-a-history-of-hedge-f
 categories: ["Finance"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

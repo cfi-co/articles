@@ -9,6 +9,7 @@ url: "https://cfi.co/sustainability/2021/06/evan-harvey-nasdaq-spacs-and-esg-con
 categories: ["CSR", "Europe", "Finance", "North America", "Sustainability"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

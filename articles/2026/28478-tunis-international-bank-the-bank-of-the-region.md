@@ -9,6 +9,7 @@ url: "https://cfi.co/banking/2026/05/tunis-international-bank-the-bank-of-the-re
 categories: ["Africa", "Banking", "Corporate"]
 content_class: sponsored_article
 independence_status: commercially_supported
+independence_basis: assessed
 sponsor_disclosure: visible_and_machine_readable
 sponsor_name: "Tunis International Bank"
 editorial_lens: constructive_positive_lens

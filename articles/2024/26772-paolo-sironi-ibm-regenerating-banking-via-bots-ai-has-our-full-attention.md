@@ -8,11 +8,13 @@ author: "Paolo Sironi"
 url: "https://cfi.co/technology/2024/04/paolo-sironi-ibm-regenerating-banking-via-bots-ai-has-our-full-attention/"
 categories: ["Banking", "Columnists", "Innovation &amp; Technology", "Technology"]
 content_class: opinion_column
-independence_status: independent_editorial
+independence_status: contributed_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
 correction_status: revised
+correction_class: label_regime_change
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived

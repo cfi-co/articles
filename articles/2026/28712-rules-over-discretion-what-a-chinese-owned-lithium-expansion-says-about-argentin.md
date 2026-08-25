@@ -9,6 +9,7 @@ url: "https://cfi.co/latinamerica/2026/07/rules-over-discretion-what-a-chinese-o
 categories: ["Governance &amp; Legal", "Latin America", "Oil &amp; Mining"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

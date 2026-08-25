@@ -9,6 +9,7 @@ url: "https://cfi.co/banking/2026/05/moneta-money-bank-scaling-with-discipline-i
 categories: ["Banking", "Corporate", "Europe"]
 content_class: sponsored_article
 independence_status: commercially_supported
+independence_basis: assessed
 sponsor_disclosure: visible_and_machine_readable
 sponsor_name: "MONETA Money Bank"
 editorial_lens: constructive_positive_lens

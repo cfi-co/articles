@@ -9,6 +9,7 @@ url: "https://cfi.co/northamerica/2025/11/can-google-escape-nvidias-gravity/"
 categories: ["North America", "Technology"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

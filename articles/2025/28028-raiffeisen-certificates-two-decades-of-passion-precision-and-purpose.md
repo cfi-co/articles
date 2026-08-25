@@ -9,6 +9,7 @@ url: "https://cfi.co/banking/2025/11/raiffeisen-certificates-two-decades-of-pass
 categories: ["Banking", "Corporate", "Europe"]
 content_class: sponsored_article
 independence_status: commercially_supported
+independence_basis: assessed
 sponsor_disclosure: visible_and_machine_readable
 sponsor_name: "Raiffeisen Bank International AG"
 editorial_lens: constructive_positive_lens

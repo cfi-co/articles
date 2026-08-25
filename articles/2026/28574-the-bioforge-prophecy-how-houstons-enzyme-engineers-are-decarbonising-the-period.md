@@ -9,6 +9,7 @@ url: "https://cfi.co/technology/2026/07/the-bioforge-prophecy-how-houstons-enzym
 categories: ["Innovation &amp; Technology", "North America", "Technology"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

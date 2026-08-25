@@ -9,6 +9,7 @@ url: "https://cfi.co/finance/2026/01/the-great-rebalancing-capital-allocation-in
 categories: ["Finance", "North America", "Sustainability"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

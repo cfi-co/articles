@@ -9,6 +9,7 @@ url: "https://cfi.co/sustainability/2026/06/the-ghost-in-the-hiring-machine-is-a
 categories: ["Innovation &amp; Technology", "Sustainability"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

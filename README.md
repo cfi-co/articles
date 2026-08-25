@@ -194,6 +194,7 @@ guessed.** The exact derivation (in `scripts/export.php`) is:
 |---|---|---|
 | `content_class` | `editorial_analysis` · `interview` · `opinion_column` · `review` · `sponsored_article` | `sponsored_article` if the post carries the editor-set sponsored flag (`_cfi_jsonld_sponsored=1`); else by category (CFI.co Meets→interview, Columnists→opinion_column, Reviews→review); else `editorial_analysis`. (The awards archive uses `award_rationale`.) |
 | `independence_status` | `independent_editorial` · `contributed_editorial` · `commercially_supported` | Who paid, and who wrote: `commercially_supported` iff the sponsored flag is set; `contributed_editorial` iff the contributed flag is set and the piece is not sponsored; `independent_editorial` otherwise. **On records labelled under this practice** that means in-house; on records published before the cutoff it remains a default rather than a determination - see the note below the table, which is unchanged. Both flags set is a mistake and records as `commercially_supported`. |
+| `independence_basis` | `assessed` · `retrospective_review_2026-08` · `default_pre_2025-11-09` | How much the value above is worth. `assessed` — an editor labelled the piece **at publication** with the practice in force (from 9 November 2025). `retrospective_review_2026-08` — determined by the principals reviewing the back catalogue on 25 August 2026, **after the fact**. `default_pre_2025-11-09` — no labelling practice existed and the field simply defaulted: nobody asked the question. The first two are both determinations; only one is contemporaneous, and they are deliberately kept apart so a retrospective sweep cannot be read as labelling done at the time. **In the record from 2026-08-25** — until then this existed only in `index.jsonl` and in the page's JSON-LD, so the record a verifier fetches, and the record redistributed under the licence, carried the label with none of its caveat |
 | `sponsor_disclosure` | `none` · `visible_and_machine_readable` | Sponsored posts carry a visible on-page "Sponsored content" disclosure **and** `AdvertiserContentArticle` schema |
 | `sponsor_name` | string | The disclosed sponsor (may be blank) |
 | `editorial_lens` | `constructive_positive_lens` | CFI.co's **stated editorial stance** (a declared policy, not a per-article measurement) |
@@ -202,18 +203,28 @@ guessed.** The exact derivation (in `scripts/export.php`) is:
 | `correction_class` | `factual_correction` · `label_regime_change` · `unspecified` | Present **only** when `correction_status` is `revised`, and says which kind. `factual_correction` — the article text itself changed. `label_regime_change` — the text is byte-identical and a claim or the byline changed. `unspecified` — the record was revised before this field existed and nothing in the current run classifies it. `factual_correction` is one-way and wins, so a record whose text was once corrected can never later present itself as merely re-labelled. **Added 2026-08-25** — `correction_status` alone cannot tell "we got the article wrong" from "we changed how we label", and a labelling change across the back catalogue would otherwise leave the field reading `revised` on most of the archive while distinguishing nothing |
 | `article_status` | `published` | Only published items are archived |
 
-**`independence_status` on records published before 9 November 2025 is a default, not a determination.**
-The field reads `independent_editorial` on every record where no sponsorship flag is set. Before
-9 November 2025 no labelling practice existed, so for those records the absence of a flag records
-that nobody asked the question - not that the question was asked and answered. In this archive that
-affects 2,766 of 2,792 records; 26 are marked `commercially_supported`. The awards archive carries
-the same default on all 2,385 of its records, 2,307 of which predate the cutoff.
+**Records published before 9 November 2025 were reviewed on 25 August 2026. `independence_status`
+on them is now a determination, and `independence_basis` says which kind.**
 
-Read `independent_editorial` on a pre-cutoff record as "not flagged", and nothing more. The
-correction is open rather than applied, and the reason is recorded at
-https://cfi.co/known-open/ : a neutral value cannot simply be swapped in, because applying one to
-work contributed by a named outside author would assert that CFI.co could not determine whether it
-was sponsored, about a piece whose authorship is plain on its face.
+Systematic labelling began on 9 November 2025. Before that date no labelling practice existed, so
+the field defaulted: on those records `independent_editorial` recorded that nobody had asked the
+question, not that the question had been asked and answered. That was true of 2,695 of 2,796
+records in this archive, and it is what the entry at https://cfi.co/known-open/ was written
+against.
+
+On 25 August 2026 CFI.co's principals reviewed the whole of that population and determined each
+record. Those records now carry `independence_basis: retrospective_review_2026-08`. Read that as
+a determination made after the fact, by review of the back catalogue - **not** as labelling done
+at the time, which is what `assessed` means and why the two values are kept apart. A pre-cutover
+record carrying `default_pre_2025-11-09` was not part of that review and the old reading still
+applies to it: "not flagged", and nothing more.
+
+The neutral-value problem the known-open entry described is resolved rather than worked around.
+`independence_status` now carries three values on one axis, so a piece by a named outside author
+takes `contributed_editorial` and is never made to assert anything about whether it was paid for.
+
+The awards archive is a separate estate and is not covered by this review. Its records carry no
+`independence_basis` field, and the pre-cutover default still stands there.
 | `archive_policy` | `no_delete` | History is append-only and immutable |
 | `provenance_layer` | `github_versioned` | This repository |
 | `wayback_status` (+ `wayback_first_snapshot`, `wayback_snapshot_url`) | `archived` · `submitted_pending` · `not_found` · `pending_check` | Independent third-party corroboration. `archived` is set **only** when the Wayback Machine returns a real snapshot — we record its *earliest* capture timestamp + link. URLs with no snapshot are submitted to web.archive.org/save (→ `submitted_pending`). Never claimed without a real snapshot. |

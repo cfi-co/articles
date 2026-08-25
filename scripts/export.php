@@ -155,6 +155,36 @@ foreach ($wpdb->get_col(
     $contribmap[(int) $pid] = true;
 }
 
+/* 2b-i-b. Retrospective commercial-support flag, and the marker for the population the
+        principals reviewed on 2026-08-25. Both bulk-loaded for the same reason as the
+        maps above.
+
+        _cfi_commercially_supported is DELIBERATELY NOT _cfi_jsonld_sponsored. That flag
+        drives four things at once - independence_status, content_class sponsored_article,
+        sponsor_disclosure visible_and_machine_readable, and a visible "Sponsored content"
+        line on the live page. Setting it on a 2019 article would assert that a visible
+        disclosure was made at the time, which is untrue, and adding the line today does
+        not make the 2019 publication disclosed. This key states the status and nothing
+        else; sponsor_disclosure stays 'none', which is the true answer.
+
+        _cfi_label_reviewed records the exact set that was reviewed, rather than inferring
+        it from the publication date. An old-dated post published after today would
+        otherwise inherit a review it was never part of. */
+$commercialmap = array();
+foreach ($wpdb->get_col(
+    "SELECT post_id FROM {$wpdb->postmeta}
+      WHERE meta_key = '_cfi_commercially_supported' AND meta_value = '1'"
+) as $pid) {
+    $commercialmap[(int) $pid] = true;
+}
+$reviewedmap = array();
+foreach ($wpdb->get_results(
+    "SELECT post_id AS pid, meta_value AS mv FROM {$wpdb->postmeta}
+      WHERE meta_key = '_cfi_label_reviewed'"
+) as $m) {
+    $reviewedmap[(int) $m->pid] = (string) $m->mv;
+}
+
 /* 2b-ii. Author lookup for the byline rule. user_login decides whether a post is house
           copy; display_name is what gets published. Both are read once here rather than
           per-post: get_userdata() inside the export loop would be ~2,800 queries. */
@@ -236,6 +266,7 @@ foreach ($posts as $p) {
     $sponsored = isset($sponmap[$id]['flag']) && $sponmap[$id]['flag'] === '1';
     $sponsor   = $sponsored ? (string) ($sponmap[$id]['name'] ?? '') : '';
     $contributed = isset($contribmap[$id]);
+    $commercial  = isset($commercialmap[$id]);
 
     // independence_status, 2026-08-25. Three values on one axis - who paid, and who wrote:
     //
@@ -252,16 +283,43 @@ foreach ($posts as $p) {
     // Sponsored wins if both are somehow set. It is the stronger disclosure, and the policy
     // says contributed opinion cannot be commercially funded - so both set is a mistake, and
     // the mistake must not be resolved in the direction that hides payment.
-    if ($sponsored) {
+    //
+    // 2026-08-25: _cfi_commercially_supported joins the chain, for the back catalogue the
+    // principals reviewed. It reaches the same value as the sponsorship tickbox by a
+    // different route and WITHOUT the sponsored_article / visible-disclosure treatment,
+    // for the reason given where it is loaded. Commercial support outranks contribution
+    // wherever both are somehow set, on the same policy as sponsored-beats-contributed:
+    // the two are mutually exclusive, so both set is a mistake, and a mistake must not be
+    // resolved in the direction that hides payment.
+    if ($sponsored || $commercial) {
         $independence = 'commercially_supported';
         if ($contributed) {
-            fwrite(STDERR, "post $id is flagged BOTH sponsored and contributed; recorded as "
-                . "commercially_supported. One of the two tickboxes is wrong.\n");
+            fwrite(STDERR, "post $id is flagged BOTH commercially supported and contributed; "
+                . "recorded as commercially_supported. One of the two tickboxes is wrong.\n");
         }
     } elseif ($contributed) {
         $independence = 'contributed_editorial';
     } else {
         $independence = 'independent_editorial';
+    }
+
+    // independence_basis - how much the value above is worth. Systematic labelling began
+    // on 2025-11-09 (INDEPENDENCE_LABELLING_FROM), so before that date the field defaulted
+    // rather than being determined. 'assessed' means an editor labelled the piece AT
+    // PUBLICATION with the practice in force; it is deliberately NOT reused for the
+    // retrospective pass, which was a review of three sets after the fact. Both are
+    // determinations; only one is contemporaneous, and a reader must be able to tell them
+    // apart. A pre-cutover record with no reviewed marker keeps the honest default.
+    //
+    // Lives in the record from 2026-08-25. Until today it existed ONLY in index.jsonl and
+    // in the page's JSON-LD - so the record a verifier actually fetches, and the record
+    // redistributed under the licence, carried the label with none of its caveat.
+    if (substr($p->post_date_gmt, 0, 10) >= INDEPENDENCE_LABELLING_FROM) {
+        $independence_basis = 'assessed';
+    } elseif (isset($reviewedmap[$id])) {
+        $independence_basis = 'retrospective_review_2026-08';
+    } else {
+        $independence_basis = 'default_pre_' . INDEPENDENCE_LABELLING_FROM;
     }
     if ($sponsored) {
         $content_class = 'sponsored_article';
@@ -406,6 +464,7 @@ foreach ($posts as $p) {
         'content_class'          => $claim_fields['content_class'],
         'editorial_lens'         => 'constructive_positive_lens', // CFI's stated stance
         'independence_status'    => $claim_fields['independence_status'],
+        'independence_basis'     => $independence_basis,
         'sponsor_disclosure'     => $claim_fields['sponsor_disclosure'],
         'sponsor_name'           => $claim_fields['sponsor_name'],
         'article_status'         => 'published',
@@ -528,11 +587,18 @@ foreach ($posts as $p) {
     $fm .= 'categories: [' . implode(', ', array_map('yaml_str', $cats)) . "]\n";
     $fm .= 'content_class: ' . $classification['content_class'] . "\n";
     $fm .= 'independence_status: ' . $classification['independence_status'] . "\n";
+    // The basis travels with the label here too. A consumer that fetches raw_md - which
+    // README-AI points it at - would otherwise get the claim without the one field that
+    // says how much the claim is worth.
+    $fm .= 'independence_basis: ' . $classification['independence_basis'] . "\n";
     $fm .= 'sponsor_disclosure: ' . $classification['sponsor_disclosure'] . "\n";
     if ($sponsored) $fm .= 'sponsor_name: ' . yaml_str($sponsor) . "\n";
     $fm .= 'editorial_lens: ' . $classification['editorial_lens'] . "\n";
     $fm .= 'historical_status: ' . $classification['historical_status'] . "\n";
     $fm .= 'correction_status: ' . $classification['correction_status'] . "\n";
+    if (isset($classification['correction_class'])) {
+        $fm .= 'correction_class: ' . $classification['correction_class'] . "\n";
+    }
     $fm .= 'archive_policy: ' . $classification['archive_policy'] . "\n";
     $fm .= 'provenance_layer: ' . $classification['provenance_layer'] . "\n";
     $fm .= 'wayback_status: ' . $classification['wayback_status'] . "\n";
@@ -584,9 +650,10 @@ foreach ($posts as $p) {
         // labels would otherwise read the whole back catalogue as assessed-independent,
         // which we already know is wrong. Catalogue-only: index.jsonl is derived and is
         // not part of record_sha256, so adding this rehashes nothing.
-        'independence_basis'  => (substr($p->post_date_gmt, 0, 10) >= INDEPENDENCE_LABELLING_FROM)
-                                 ? 'assessed'
-                                 : 'default_pre_' . INDEPENDENCE_LABELLING_FROM,
+        // Same value as the record's, not a second implementation of the rule: two
+        // copies of a derivation drift, and the moment they drift the catalogue and the
+        // record disagree about how much the label is worth.
+        'independence_basis'  => $classification['independence_basis'],
         'sponsor_disclosure'  => $classification['sponsor_disclosure'],
         'path'                => $reljs,
         'md_path'             => $relmd,

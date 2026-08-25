@@ -9,6 +9,7 @@ url: "https://cfi.co/menu/reviews/2026/02/specialised-performance-what-the-humbl
 categories: ["Reviews"]
 content_class: review
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

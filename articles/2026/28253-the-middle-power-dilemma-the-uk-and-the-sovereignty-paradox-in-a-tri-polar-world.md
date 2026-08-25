@@ -9,6 +9,7 @@ url: "https://cfi.co/europe/2026/02/the-middle-power-dilemma-the-uk-and-the-sove
 categories: ["Europe", "Finance"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

@@ -9,6 +9,7 @@ url: "https://cfi.co/finance/2018/09/jordan-the-sky-is-the-limit/"
 categories: ["Finance", "Middle East", "Special Features"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

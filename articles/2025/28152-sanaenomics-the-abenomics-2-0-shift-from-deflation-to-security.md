@@ -9,6 +9,7 @@ url: "https://cfi.co/asia-pacific/2025/12/sanaenomics-the-abenomics-2-0-shift-fr
 categories: ["Asia Pacific", "Economics &amp; Convergence"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

@@ -9,6 +9,7 @@ url: "https://cfi.co/banking/2026/04/maldives-islamic-bank-at-1bn-from-niche-pio
 categories: ["Asia Pacific", "Banking", "Corporate"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

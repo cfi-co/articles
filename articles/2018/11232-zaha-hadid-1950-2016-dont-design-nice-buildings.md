@@ -9,6 +9,7 @@ url: "https://cfi.co/lifestyle/2018/01/zaha-hadid-1950-2016-dont-design-nice-bui
 categories: ["Lifestyle", "Obituaries"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

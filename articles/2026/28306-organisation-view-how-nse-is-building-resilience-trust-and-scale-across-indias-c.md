@@ -9,6 +9,7 @@ url: "https://cfi.co/finance/2026/02/nses-resilience-blueprint-scale-trust-and-s
 categories: ["Asia Pacific", "Corporate", "Finance"]
 content_class: sponsored_article
 independence_status: commercially_supported
+independence_basis: assessed
 sponsor_disclosure: visible_and_machine_readable
 sponsor_name: "NSE"
 editorial_lens: constructive_positive_lens

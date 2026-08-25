@@ -9,6 +9,7 @@ url: "https://cfi.co/banking/2024/02/bbes-ceo-md-victor-van-der-kwast-ai-is-cert
 categories: ["Banking", "CFI.co Meets", "Corporate Leaders", "Europe"]
 content_class: interview
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

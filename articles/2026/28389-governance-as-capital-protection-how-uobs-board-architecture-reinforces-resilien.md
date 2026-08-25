@@ -9,6 +9,7 @@ url: "https://cfi.co/asia-pacific/2026/04/governance-as-capital-protection-how-u
 categories: ["Asia Pacific", "Banking", "Economics &amp; Convergence"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

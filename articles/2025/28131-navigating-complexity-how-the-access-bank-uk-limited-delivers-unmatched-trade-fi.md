@@ -9,6 +9,7 @@ url: "https://cfi.co/banking/2025/12/navigating-complexity-how-the-access-bank-u
 categories: ["Banking", "Europe", "Finance"]
 content_class: sponsored_article
 independence_status: commercially_supported
+independence_basis: assessed
 sponsor_disclosure: visible_and_machine_readable
 sponsor_name: "The Access Bank UK Limited"
 editorial_lens: constructive_positive_lens

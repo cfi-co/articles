@@ -9,6 +9,7 @@ url: "https://cfi.co/asia-pacific/2014/01/ifc-champions-water-efficiency-in-chin
 categories: ["Asia Pacific", "Projects", "Sustainability", "Technology"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

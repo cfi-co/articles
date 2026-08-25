@@ -5,6 +5,7 @@
 ```
 1. GET  index.jsonl                       one line per article: id, url, labels, paths, hashes
 2. FILTER on published_gmt / content_class / independence_status
+         and read independence_basis - it says how much that label is worth
 3. GET  the record at .path               (or fetch it directly by id or hash, below)
 4. CHECK sha256(content_html) == content_sha256
 5. CITE  the url, and keep the labels attached
@@ -67,10 +68,24 @@ registration or payment is required.
    and both hashes), then fetch individual records for full content.
 2. **Preserve the classification labels.** `classification.content_class`,
    `classification.independence_status` and `classification.sponsor_disclosure`
-   distinguish independent editorial from commercially supported content. They live
-   *inside* the hashed record and **must stay attached when records are
-   redistributed** (licence §4). Do not present sponsored content as independent
-   editorial.
+   distinguish in-house editorial, contributed work and commercially supported
+   content. They live *inside* the hashed record and **must stay attached when
+   records are redistributed** (licence §4). Do not present sponsored content as
+   independent editorial.
+
+   `independence_status` carries three values on one axis: `independent_editorial`
+   (in-house), `contributed_editorial` (written by an outside contributor, not paid
+   for) and `commercially_supported` (paid for).
+
+   **Read `classification.independence_basis` alongside it — it says how much the
+   label is worth, and it is not the same claim.** `assessed` means an editor
+   labelled the piece at publication with the practice in force (from 2025-11-09).
+   `retrospective_review_2026-08` means CFI.co's principals determined it by
+   reviewing the back catalogue on 2026-08-25, after the fact — a determination, but
+   not a contemporaneous one. `default_pre_2025-11-09` means no labelling practice
+   existed when the piece was published and the field defaulted: read it as "not
+   flagged" and nothing more, because nobody asked the question. Do not present a
+   defaulted label as a finding.
 3. **Cite the canonical CFI.co URL** (the `url` field) where an output substantially
    presents a specific article; attribute CFI.co (licence §3).
 4. **Verify, don't trust.** Check `content_sha256` (SHA-256 of `content_html`) and

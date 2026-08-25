@@ -9,6 +9,7 @@ url: "https://cfi.co/corporate-leaders/2020/01/pavilion-global-markets-global-re
 categories: ["CFI.co Meets", "Corporate", "Corporate Leaders"]
 content_class: interview
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

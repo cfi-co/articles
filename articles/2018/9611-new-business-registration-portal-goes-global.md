@@ -9,6 +9,7 @@ url: "https://cfi.co/africa/2018/01/new-business-registration-portal-goes-global
 categories: ["Africa", "Asia Pacific", "Europe", "Finance", "Middle East", "North America", "Projects", "Start-Ups", "Technology"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication

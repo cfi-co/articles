@@ -9,6 +9,7 @@ url: "https://cfi.co/finance/2026/07/free-capped-and-contagious-why-a-us-tariff-
 categories: ["Finance", "Innovation &amp; Technology", "Latin America"]
 content_class: editorial_analysis
 independence_status: independent_editorial
+independence_basis: assessed
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
