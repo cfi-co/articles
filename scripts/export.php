@@ -449,7 +449,21 @@ foreach ($posts as $p) {
                 . 'than shown, because an unmethoded confirmation cannot be told apart from '
                 . 'a verified one.';
         }
-        $record['contribution'] = $contribution;
+        // Emit ONLY when there is actual provenance to report. published_text_sha256 is a
+        // hash of the record's own text: on its own it asserts nothing about where the piece
+        // came from, and a "contribution" block containing only that would invite a reader to
+        // believe provenance was tracked when it was not.
+        //
+        // This matters for the retrospective pass: setting _cfi_contributed on ~295 historic
+        // records would otherwise give every one of them an empty-but-official-looking
+        // provenance block. Those pieces predate receipt capture and have no origin evidence,
+        // and saying so by absence is the honest answer.
+        $has_provenance = isset($contribution['submission_id'])
+            || isset($contribution['confirmed_text_sha256'])
+            || isset($contribution['received_text_sha256']);
+        if ($has_provenance) {
+            $record['contribution'] = $contribution;
+        }
     }
     $json = json_encode($record,
         JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
