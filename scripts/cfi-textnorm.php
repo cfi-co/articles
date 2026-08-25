@@ -33,6 +33,13 @@
  * against cfi-webtext-1 must stay reproducible forever, so a change means cfi-webtext-2 and
  * both must then exist.
  *
+ * ONE AMENDMENT WAS MADE TO v1 ITSELF, 25 August 2026, and is recorded here rather than hidden:
+ * WordPress shortcode handling was added. It is an amendment and not cfi-webtext-2 because at
+ * that moment NO hash had ever been published or confirmed under v1 — zero contributed posts
+ * existed, and no confirmation request had been sent. Nothing was invalidated because nothing
+ * yet depended on it. That reasoning does not transfer: from the first confirmation onwards,
+ * a change is a new version.
+ *
  * Deliberately NOT normalised: quotes, dashes, capitalisation, spelling. Those are editorial
  * changes and MUST move the hash — that is the entire point.
  *
@@ -139,6 +146,18 @@ function cfi_webtext_1($html)
     $s = preg_replace('#</(?:' . $block . ')\s*>#i', CFI_TEXTNORM_SEP, $s);
 
     $s = strip_tags($s);
+
+    // WordPress shortcodes are layout instructions, not text. A [caption] carries an
+    // attachment ID, so leaving it in would make the hash depend on WHICH IMAGE is attached:
+    // swap the picture and the author's confirmation breaks for no editorial reason.
+    //
+    // Only shortcodes that ANNOUNCE THEMSELVES are removed - an opening tag carrying
+    // attributes, or any closing tag. A bare [word] is left alone, because "[sic]" is
+    // ordinary editorial text and stripping it would silently alter a quotation.
+    // Enclosed text survives: "[caption ...]Author: X[/caption]" keeps "Author: X".
+    $s = preg_replace('#\[/[a-zA-Z0-9_-]+\]#', ' ', $s);
+    $s = preg_replace('#\[[a-zA-Z0-9_-]+\s[^\]]*\]#', ' ', $s);
+
     $s = html_entity_decode($s, ENT_QUOTES | ENT_HTML5, 'UTF-8');
 
     return cfi_textnorm_join(explode(CFI_TEXTNORM_SEP, $s));
