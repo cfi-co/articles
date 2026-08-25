@@ -327,6 +327,7 @@ foreach ($posts as $p) {
     }
 
     $correction_status = 'none';
+    $correction_class  = '';
     if (is_file($prior_path)) {
         $prior = json_decode(file_get_contents($prior_path), true);
         if (is_array($prior)) {
@@ -358,6 +359,42 @@ foreach ($posts as $p) {
                 || $author_changed) {
                 $correction_status = 'revised';
             }
+
+            // correction_class, 2026-08-25. correction_status is a two-value flag, so a
+            // corrected FACT and a re-labelled CLAIM read identically once set. That was
+            // tolerable while revisions were rare; it stops being tolerable the moment a
+            // labelling-regime change touches the back catalogue in one pass, because the
+            // field would then say "revised" on most of the archive and distinguish
+            // nothing. This says WHICH kind, so a reader can tell "we got the article
+            // wrong" from "we changed how we label".
+            //
+            //   factual_correction    the article text itself changed
+            //   label_regime_change   the text is byte-identical; a claim or the byline
+            //                         changed
+            //   unspecified           revised before this field existed, and nothing
+            //                         changed in this run to classify it from
+            //
+            // factual_correction STICKS, the same way correction_status is one-way: a
+            // record whose text was once corrected must not later present itself as
+            // having only been re-labelled. It is the stronger disclosure and it wins.
+            //
+            // Emitted below only where correction_status is 'revised' — like sponsor_name
+            // and site_addressability — so the ~2,640 unrevised records keep their
+            // existing record_sha256 and this change rehashes nothing that it does not
+            // actually describe.
+            if ($correction_status === 'revised') {
+                $prior_cc = $prior_class['correction_class'] ?? '';
+                if ($prior_hash !== null && $prior_hash !== $chash) {
+                    $correction_class = 'factual_correction';
+                } elseif ($claim_changed || $author_changed) {
+                    $correction_class = 'label_regime_change';
+                } else {
+                    $correction_class = $prior_cc !== '' ? $prior_cc : 'unspecified';
+                }
+                if ($prior_cc === 'factual_correction') {
+                    $correction_class = 'factual_correction';
+                }
+            }
         }
     }
 
@@ -383,6 +420,9 @@ foreach ($posts as $p) {
     );
     // Emitted only where it applies, like sponsor_name, so unaffected records keep
     // their existing record_sha256.
+    if ($correction_class !== '') {
+        $classification['correction_class'] = $correction_class;
+    }
     if ($redirected) {
         $classification['site_addressability'] = 'redirects_away';
         $classification['site_note'] = 'This post redirects to a different address on '
