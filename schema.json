@@ -21,7 +21,7 @@
     "title": { "type": "string" },
     "slug": { "type": "string" },
     "url": { "type": "string", "format": "uri", "description": "Canonical CFI.co URL for this article." },
-    "author": { "type": "string", "const": "CFI.co Editorial", "description": "Fixed editorial label; internal staff usernames are deliberately not exposed." },
+    "author": { "type": "string", "minLength": 1, "description": "WHO IS CREDITED for the piece - never who performed the posting. A personal name where a byline has been established (the alignment of 2026-08-15); the house label 'CFI.co Editorial' otherwise, which means no byline was established, NOT that CFI.co is asserted as the writer. Do not read it as evidence of authoring activity: contributors who hold an account here are posted on their behalf by staff, and staff post on the publisher's behalf. Internal staff usernames are never exposed. Was declared const 'CFI.co Editorial' until 2026-08-25, which the byline alignment of 2026-08-15 had already made untrue for 146 records." },
     "published": { "type": "string", "description": "Site-local publication timestamp, YYYY-MM-DD HH:MM:SS." },
     "published_gmt": { "type": "string", "description": "UTC publication timestamp, YYYY-MM-DD HH:MM:SS." },
     "modified_gmt": { "type": "string", "description": "UTC last-modified timestamp from the publishing system." },
