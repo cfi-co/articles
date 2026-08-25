@@ -144,6 +144,17 @@ foreach ($wpdb->get_results(
     if ($m->mk === '_cfi_jsonld_sponsor_name') $sponmap[$m->pid]['name'] = $m->mv;
 }
 
+/* 2b-i. Contributed-opinion flag, set by the cfi-contributor-flag.php editor tickbox.
+        Bulk-loaded for the same reason as the sponsorship map: a get_post_meta() per post
+        inside the export loop is ~2,800 queries. */
+$contribmap = array();
+foreach ($wpdb->get_col(
+    "SELECT post_id FROM {$wpdb->postmeta}
+      WHERE meta_key = '_cfi_contributed' AND meta_value = '1'"
+) as $pid) {
+    $contribmap[(int) $pid] = true;
+}
+
 /* 2b-ii. Author lookup for the byline rule. user_login decides whether a post is house
           copy; display_name is what gets published. Both are read once here rather than
           per-post: get_userdata() inside the export loop would be ~2,800 queries. */
@@ -224,6 +235,34 @@ foreach ($posts as $p) {
     //     derivation rules are documented in the README so labels are auditable). ---
     $sponsored = isset($sponmap[$id]['flag']) && $sponmap[$id]['flag'] === '1';
     $sponsor   = $sponsored ? (string) ($sponmap[$id]['name'] ?? '') : '';
+    $contributed = isset($contribmap[$id]);
+
+    // independence_status, 2026-08-25. Three values on one axis - who paid, and who wrote:
+    //
+    //   commercially_supported  paid for
+    //   contributed_editorial   written by an outside contributor, not paid for
+    //   independent_editorial   in-house
+    //
+    // Until today this was a BINARY: sponsored, or else independent_editorial. That default
+    // was harmless only while independent_editorial meant "not flagged". The moment it means
+    // "in-house", every contributed piece published from now on silently asserts CFI.co wrote
+    // it - re-creating, one record at a time, exactly the defect the byline backfill exists to
+    // correct. Both values now come from a deliberate editorial act; nothing falls through.
+    //
+    // Sponsored wins if both are somehow set. It is the stronger disclosure, and the policy
+    // says contributed opinion cannot be commercially funded - so both set is a mistake, and
+    // the mistake must not be resolved in the direction that hides payment.
+    if ($sponsored) {
+        $independence = 'commercially_supported';
+        if ($contributed) {
+            fwrite(STDERR, "post $id is flagged BOTH sponsored and contributed; recorded as "
+                . "commercially_supported. One of the two tickboxes is wrong.\n");
+        }
+    } elseif ($contributed) {
+        $independence = 'contributed_editorial';
+    } else {
+        $independence = 'independent_editorial';
+    }
     if ($sponsored) {
         $content_class = 'sponsored_article';
     } else {
@@ -264,7 +303,7 @@ foreach ($posts as $p) {
     // which a reader could rely on and we could get wrong.
     $claim_fields = array(
         'content_class'       => $content_class,
-        'independence_status' => $sponsored ? 'commercially_supported' : 'independent_editorial',
+        'independence_status' => $independence,
         'sponsor_disclosure'  => $sponsored ? 'visible_and_machine_readable' : 'none',
         'sponsor_name'        => $sponsor,
     );
@@ -384,7 +423,7 @@ foreach ($posts as $p) {
     // author's confirmation was taken against, so a third party can fetch this record, run
     // the published rule, and check the two agree. Spec:
     // crm.cfi.co/docs/superpowers/specs/2026-08-24-contribution-provenance-design.md
-    if (get_post_meta($id, '_cfi_contributed', true)) {
+    if ($contributed) {
         $contribution = array(
             'normaliser'            => CFI_TEXTNORM_VERSION,
             'published_text_sha256' => cfi_webtext_1_sha256($content),

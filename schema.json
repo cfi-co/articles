@@ -40,7 +40,7 @@
       "properties": {
         "content_class": { "type": "string", "enum": ["editorial_analysis", "interview", "opinion_column", "review", "sponsored_article"] },
         "editorial_lens": { "type": "string", "const": "constructive_positive_lens", "description": "CFI.co's stated editorial stance (declared policy, not a per-article measurement)." },
-        "independence_status": { "type": "string", "enum": ["independent_editorial", "commercially_supported"] },
+        "independence_status": { "type": "string", "enum": ["independent_editorial", "contributed_editorial", "commercially_supported"] },
         "sponsor_disclosure": { "type": "string", "enum": ["none", "visible_and_machine_readable"] },
         "sponsor_name": { "type": "string", "description": "Disclosed sponsor; empty when not sponsored." },
         "article_status": { "type": "string", "const": "published" },
