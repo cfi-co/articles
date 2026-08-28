@@ -16,7 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: b48d587b8c6228299ef03b502715326d7ecb87656cb473800b8cdc835e0b73eb
 canonical: 28844-stablecoins-were-supposed-to-bypass-the-card-schemes-instead-the-schemes-are-pos.json
