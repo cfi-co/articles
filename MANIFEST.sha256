@@ -5608,8 +5608,8 @@ bcb38f845ac0b4825f7dca14093190884f50e44914fbb4af6ed03490498c42da  articles/2026/
 0b170a0aadcbba257d722bd101827fb64a1315fe6f47e201aae1574648d63aad  articles/2026/28801-the-cost-curve-did-not-reach-the-balance-sheet-reading-energys-latest-marks.md
 f948176abfa0daa8e3f27ff3091cf1752faa086a8479b82b9552095217e6d5d5  articles/2026/28811-iran-at-the-crossroads.json
 e03a58f4c32d094e6d5214870d9b82b1fcd05f2c2d36b6537dfc43f115dfd3d7  articles/2026/28811-iran-at-the-crossroads.md
-5a1ec3f7a1f2e55fac610f2e3de7d8e5823bcfb177d21f203fb3f2fae487daa8  articles/2026/28844-stablecoins-were-supposed-to-bypass-the-card-schemes-instead-the-schemes-are-pos.json
-ca312e5d88609b209bbea347e65c0de67116e320e0298da3ba8acb4c979c918c  articles/2026/28844-stablecoins-were-supposed-to-bypass-the-card-schemes-instead-the-schemes-are-pos.md
+9325100a8535b5f01c377db231cf982fe54c07d9245aeaab6bd8ee4b647941d8  articles/2026/28844-stablecoins-were-supposed-to-bypass-the-card-schemes-instead-the-schemes-are-pos.json
+d3fe36133f9dc0d8b3dec29b71d1eeeaab03272d6cd270ec4480795fd6e7e591  articles/2026/28844-stablecoins-were-supposed-to-bypass-the-card-schemes-instead-the-schemes-are-pos.md
 06d907ecf9ab745b3b594575262fb4e347e3aa09af533299233a8c6e0e0c416e  conformance/cfi-textnorm-1.json
 5a388694c6a49edde2713071fc3af78c345e23a84ae7c21dcbe55d679a6a7b48  countersigs/2026-07-30-custodian.txt
 6e22e3e9575f92296fca916c3115dccc84ad98aca19330938dec49b8b93ed12f  countersigs/2026-07-30-custodian.txt.asc
@@ -5617,7 +5617,7 @@ c3761b56a4ccae86704dfb72057fc5c346a5c755ea88241395108893436c0478  countersigs/20
 30df4faaa73aafebec86539105cc3a2a85d4e87a127b552e5f4e71e5617c0dae  countersigs/2026-07-30-publisher.txt.asc
 f0ef767298ca18f2c491b4a023d07ed21455e26708134b80427c9391a194a749  countersigs/2026-07-31-custodian.txt
 ef81de61cec0d292ebe96a0cd64d829a3dc7237de7c6fd6ef9631ec00683bea0  countersigs/2026-07-31-custodian.txt.asc
-2ed5c82e84aaf4128022f736bbe46bf17143184c1bdb88e3b3a56b25fdde51f9  index.jsonl
+481679d28414d6cae2aadc2f65467a602ecb3853331338f5f47231daef2c099d  index.jsonl
 edd600deb7f8298aa04967167b177e06165aaff7b13dddbf62fbd362f109b4af  schema.json
 1626af2f8ed99c409057e4b74ae2a4ba0ae3eabc222427257b00f1def2b723ea  scripts/approved-bylines.json
 358c2571c9d7976419d334a395cf2201acaed25c09f2315ce395dec7da9584c6  scripts/cfi-textnorm-conformance.php
