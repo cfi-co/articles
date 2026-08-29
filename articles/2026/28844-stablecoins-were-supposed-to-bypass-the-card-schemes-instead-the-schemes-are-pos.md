@@ -16,7 +16,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260828040018
+wayback_snapshot_url: "http://web.archive.org/web/20260828040018/https://cfi.co/finance/2026/08/stablecoins-were-supposed-to-bypass-the-card-schemes-instead-the-schemes-are-positioning-themselves-as-the-operating-system/"
 license: CFI-OAAL-1.0
 content_sha256: b48d587b8c6228299ef03b502715326d7ecb87656cb473800b8cdc835e0b73eb
 canonical: 28844-stablecoins-were-supposed-to-bypass-the-card-schemes-instead-the-schemes-are-pos.json
