@@ -16,7 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: fe81f7a16eff432e82e1f0eff348f7e2b555f722e57618be34ab25a3471e7d9a
 canonical: 28853-from-ledger-to-legacy-the-businesses-behind-some-of-the-worlds-largest-philanthr.json
