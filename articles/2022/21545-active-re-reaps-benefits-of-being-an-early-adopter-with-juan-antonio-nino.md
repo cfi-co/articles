@@ -14,14 +14,15 @@ sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
 correction_status: revised
-correction_class: label_regime_change
+correction_class: factual_correction
+correction_history: [{date: 2026-08-25, class: label_regime_change}, {date: 2026-09-08, class: factual_correction}, {date: 2026-09-08, class: later_development}]
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220209134450
 wayback_snapshot_url: "http://web.archive.org/web/20220209134450/https://cfi.co/menu/corporate/2022/02/active-re-reaps-benefits-of-being-an-early-adopter-with-juan-antonio-nino/"
 license: CFI-OAAL-1.0
-content_sha256: f2eccdae1efdfc88c35abec3105d3ed4637e52a7004c9b7fbe5142d045b3081b
+content_sha256: 05806de63375487dbd9d6cd8beb3872b0f3c1a7237930baea80764bae0575bba
 canonical: 21545-active-re-reaps-benefits-of-being-an-early-adopter-with-juan-antonio-nino.json
 ---
 
@@ -41,3 +42,5 @@ canonical: 21545-active-re-reaps-benefits-of-being-an-early-adopter-with-juan-an
 <p style="text-align: justify;">In 2019, the international credit-rating agency AM Best awarded Active RE with a financial strength rating of A- (excellent) and Long-Term Issuer credit rating of a-. At the most recent rating review in July 2021, the outlook on these credit ratings was upgraded from stable to positive.</p>
 <p style="text-align: justify;">The company lives up to its motto of “Benefits for All” and its operating philosophy: "Put clients first, measure risks twice, and after due diligence, pay claims, every time".</p>
 <p style="text-align: justify;">“I want to thank our clients for their trust, support, and loyalty over the years,” Juan Antonio Niño says, also crediting strategic allies, distribution channels, retro-assignees, staff, and employees “for their part in an exciting journey that builds on experience and keeps gaining momentum”.</p>
+<p><strong>Correction, 8 September 2026.</strong> This article stated that AM Best assigned Active Re its A- financial strength rating in 2019. The rating was assigned in 2018.</p>
+<p><strong>Later development, 8 September 2026.</strong> AM Best assigned Active Re a financial strength rating of A (Excellent) in August 2023 and has affirmed it since, most recently on 4 September 2025, with a stable outlook. The rating and outlook stated in this article were those in force at the date of publication.</p>
