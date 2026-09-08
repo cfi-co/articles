@@ -14,14 +14,15 @@ sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
 correction_status: revised
-correction_class: label_regime_change
+correction_class: later_development
+correction_history: [{date: 2026-08-25, class: label_regime_change}, {date: 2026-09-08, class: later_development}]
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923175426
 wayback_snapshot_url: "http://web.archive.org/web/20230923175426/https://cfi.co/menu/corporate/2022/06/ramon-martinez-carrera-a-sustained-upward-trajectory-ethical-strategy-proves-a-winner/"
 license: CFI-OAAL-1.0
-content_sha256: 11804960339e0ef2b28058277ac46778dbcdf93937875848e12b7a3d0749d12f
+content_sha256: d26c9a9179487936505803986f6859f888a1579344c07db88edcb8c12b183390
 canonical: 22227-ramon-martinez-a-sustained-upward-trajectory-ethical-strategy-proves-a-winner.json
 ---
 
@@ -50,3 +51,4 @@ canonical: 22227-ramon-martinez-a-sustained-upward-trajectory-ethical-strategy-p
 <p style="text-align: justify;">More than half of my professional life has been dedicated to the insurance and reinsurance industry. Each working day represents a new challenge — and a new reason to study until it is solved, with the help of all those who have joined me in the endeavour.</p>
 <p style="text-align: justify;">At Active Re, we have an agile, collaborative, entrepreneurial style, focused on the client and our people. It is a source of satisfaction for senior management to know that Active Re is not only recognised for its financial and operational performance, but also for its working environment, employee satisfaction, innovative approach, and ability to adapt and improve in the face of extraordinary events.</p>
 <em>Ramón Martínez Carrera</em>
+<p><strong>Later development, 8 September 2026.</strong> AM Best assigned Active Re a financial strength rating of A (Excellent) in August 2023 and has affirmed it since, most recently on 4 September 2025, with a stable outlook. The rating and outlook stated in this article were those in force at the date of publication.</p>
