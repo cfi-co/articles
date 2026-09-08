@@ -13,14 +13,15 @@ independence_basis: retrospective_review_2026-08
 sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
-correction_status: none
+correction_status: revised
+correction_class: factual_correction
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630131322
 wayback_snapshot_url: "http://web.archive.org/web/20220630131322/https://cfi.co/menu/corporate/2022/04/active-re-coo-luis-antonio-ibanez-sound-underwriting-respect-and-an-eye-for-opportunity/"
 license: CFI-OAAL-1.0
-content_sha256: 2ef879a047bcf22b489497b08cfd2661c6b227a92fe6b8ea3a54b3e16758d7fd
+content_sha256: 20a0db3ba2cfa9ce8808c226e3fc3effe31b04c5286701b2b2564f9f2867ed89
 canonical: 21702-active-re-coo-luis-antonio-ibanez-sound-underwriting-respect-and-an-eye-for-oppo.json
 ---
 
@@ -31,7 +32,7 @@ canonical: 21702-active-re-coo-luis-antonio-ibanez-sound-underwriting-respect-an
 [caption id="attachment_21703" align="alignright" width="300"]<img class="wp-image-21703 size-medium" title="Active Re Global Chief Operating Officer: Luis Antonio Ibáñez" src="https://cfi.co/wp-content/uploads/2022/04/Luis-Antonio-Ibanez-300x225.jpg" alt="Active Re Global Chief Operating Officer: Luis Antonio Ibáñez" width="300" height="225" /> <strong>Active Re Global Chief Operating Officer:</strong> Luis Antonio Ibáñez[/caption]
 <p style="text-align: justify;"><strong><em>‘Our policy? No policy. We have strategy instead,’ quips COO of reinsurance giant Active Re</em></strong></p>
 <p style="text-align: justify;"><a href="https://cfi.co/corporate-leaders/2020/01/active-re-willingness-to-embrace-opportunity-brings-its-own-enduring-rewards/">Active Re</a>, founded in 2007 and headquartered in Barbados, has business development offices in Miami, Panama City, and Madrid.</p>
-<p style="text-align: justify;"><a href="https://www.activecapitalreinsurance.com/en/" target="_blank" rel="noopener">The company</a> has 54 representatives around the world, covering eight languages and serving 346 insurance companies and 117 reinsurance brokers in 107 countries.</p>
+<p style="text-align: justify;"><a href="https://active-re.com/" target="_blank" rel="noopener">The company</a> has 54 representatives around the world, covering eight languages and serving 346 insurance companies and 117 reinsurance brokers in 107 countries.</p>
 <p style="text-align: justify;">It has a global portfolio of products and solutions, as well as traditional lines of reinsurance and risk management.</p>
 <p style="text-align: justify;">CFI.co put a few questions to chief operating officer <strong>Luis Antonio Ibáñez</strong>…</p>
 <p style="text-align: justify;"><strong>What are your hopes for the future of your business, and for the industry as a whole?</strong></p>
