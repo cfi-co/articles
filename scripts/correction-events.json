@@ -24,5 +24,40 @@
     "",
     "Added 2026-09-08 with schema v2.5."
   ],
-  "events": {}
+  "events": {
+    "18605": [
+      {
+        "date": "2026-08-25",
+        "class": "label_regime_change"
+      },
+      {
+        "date": "2026-09-08",
+        "class": "later_development"
+      }
+    ],
+    "21545": [
+      {
+        "date": "2026-08-25",
+        "class": "label_regime_change"
+      },
+      {
+        "date": "2026-09-08",
+        "class": "factual_correction"
+      },
+      {
+        "date": "2026-09-08",
+        "class": "later_development"
+      }
+    ],
+    "22227": [
+      {
+        "date": "2026-08-25",
+        "class": "label_regime_change"
+      },
+      {
+        "date": "2026-09-08",
+        "class": "later_development"
+      }
+    ]
+  }
 }
