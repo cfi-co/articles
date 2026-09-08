@@ -211,6 +211,49 @@ if (is_file("$REPO/scripts/approved-bylines.json")) {
         }
     }
 }
+$CORRECTION_CLASSES = array('factual_correction', 'label_regime_change', 'later_development', 'unspecified');
+
+/* 2d. Publisher-declared correction events (2026-09-08, schema v2.5).
+
+       A content change cannot tell the exporter WHAT KIND of change it was. A
+       correction of our own error and a note recording that the world has since
+       moved both rewrite post_content, and both move content_sha256. Deriving the
+       class from the bytes therefore writes 'factual_correction' onto a page whose
+       note says, in terms, that nothing we published was wrong. That is the archive
+       contradicting the page inside a signed record, and it is irreversible once
+       factual_correction sticks.
+
+       So the kind is DECLARED, not inferred - in the same way an approved byline is
+       declared above, and for the same reason: it is the publisher's decision about
+       one specific record, and it must not be second-guessed by a rule. The
+       declaration lives in the repository, so MANIFEST.sha256 and its signature
+       cover it: the classification is exactly as tamper-evident as the record it
+       labels, and a third party can see what was declared and when.
+
+       scripts/correction-events.json:
+         { "events": { "<post id>": [ {"date":"YYYY-MM-DD","class":"<enum>"}, ... ] } }
+
+       Entries are in the order the events happened. A malformed entry is skipped
+       rather than guessed at, because a wrong label here is worse than none. */
+$declared_events = array();
+if (is_file("$REPO/scripts/correction-events.json")) {
+    $ce = json_decode(file_get_contents("$REPO/scripts/correction-events.json"), true);
+    if (is_array($ce) && isset($ce['events']) && is_array($ce['events'])) {
+        foreach ($ce['events'] as $pid => $evs) {
+            if (!is_array($evs)) continue;
+            $clean = array();
+            foreach ($evs as $ev) {
+                if (!is_array($ev)) continue;
+                $d = isset($ev['date'])  ? trim((string) $ev['date'])  : '';
+                $k = isset($ev['class']) ? trim((string) $ev['class']) : '';
+                if (!preg_match('/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/', $d)) continue;
+                if (!in_array($k, $CORRECTION_CLASSES, true)) continue;
+                $clean[] = array('date' => $d, 'class' => $k);
+            }
+            if ($clean) $declared_events[(int) $pid] = $clean;
+        }
+    }
+}
 
 /* 2c. Wayback evidence cache (built by scripts/wayback.php; gitignored).
        url => [status, earliest snapshot ts, snapshot url]. */
@@ -456,6 +499,27 @@ foreach ($posts as $p) {
         }
     }
 
+    // A declared event log governs the CLASS and the HISTORY (see 2d). Derivation
+    // above still governs correction_status; a declared event additionally forces it
+    // to 'revised', because an event that has been declared has by definition
+    // happened. If the page later changes again without a new declared event, the
+    // class does not move but correction_status stays 'revised' and git history
+    // remains the authoritative account of what changed.
+    $correction_history = array();
+    if (isset($declared_events[$id])) {
+        $correction_status = 'revised';
+        $evs  = $declared_events[$id];
+        $correction_history = $evs;          // emitted below only where there is a history
+        $has_factual = false;
+        foreach ($evs as $ev) {
+            if ($ev['class'] === 'factual_correction') { $has_factual = true; break; }
+        }
+        // factual_correction still wins and still sticks: a record whose text was once
+        // corrected must not later present itself as merely re-labelled, or as having
+        // been overtaken by events.
+        $correction_class = $has_factual ? 'factual_correction' : $evs[count($evs) - 1]['class'];
+    }
+
     $wb = $waybackmap[$url] ?? array('status' => 'pending_check', 'ts' => '', 'snap' => '');
     // The claim fields are spread from $claim_fields rather than restated, so the
     // values compared above and the values published below cannot drift apart. If
@@ -481,6 +545,12 @@ foreach ($posts as $p) {
     // their existing record_sha256.
     if ($correction_class !== '') {
         $classification['correction_class'] = $correction_class;
+    }
+    // One event is fully described by correction_class; a history is only worth
+    // publishing where there is more than one, so single-event records keep their
+    // existing record_sha256 and this field rehashes nothing it does not describe.
+    if (count($correction_history) > 1) {
+        $classification['correction_history'] = $correction_history;
     }
     if ($redirected) {
         $classification['site_addressability'] = 'redirects_away';
@@ -598,6 +668,13 @@ foreach ($posts as $p) {
     $fm .= 'correction_status: ' . $classification['correction_status'] . "\n";
     if (isset($classification['correction_class'])) {
         $fm .= 'correction_class: ' . $classification['correction_class'] . "\n";
+    }
+    if (isset($classification['correction_history'])) {
+        $hparts = array();
+        foreach ($classification['correction_history'] as $ev) {
+            $hparts[] = '{date: ' . $ev['date'] . ', class: ' . $ev['class'] . '}';
+        }
+        $fm .= 'correction_history: [' . implode(', ', $hparts) . "]\n";
     }
     $fm .= 'archive_policy: ' . $classification['archive_policy'] . "\n";
     $fm .= 'provenance_layer: ' . $classification['provenance_layer'] . "\n";
