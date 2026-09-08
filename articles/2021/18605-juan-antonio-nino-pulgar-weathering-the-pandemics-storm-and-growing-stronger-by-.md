@@ -14,14 +14,15 @@ sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
 correction_status: revised
-correction_class: label_regime_change
+correction_class: later_development
+correction_history: [{date: 2026-08-25, class: label_regime_change}, {date: 2026-09-08, class: later_development}]
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210422023808
 wayback_snapshot_url: "http://web.archive.org/web/20210422023808/https://cfi.co/menu/corporate/2021/02/juan-antonio-nino-pulgar-weathering-the-pandemics-storm-and-growing-stronger-by-the-day/"
 license: CFI-OAAL-1.0
-content_sha256: d5c445ce5c268a78a7ad72fe7f639bb87163724560f3f0c0ac5b705c15d2f901
+content_sha256: 9a4e00d6e7bc203ac2b31744d2995a42d07776225914de043f1461c8c373e169
 canonical: 18605-juan-antonio-nino-pulgar-weathering-the-pandemics-storm-and-growing-stronger-by-.json
 ---
 
@@ -53,3 +54,4 @@ canonical: 18605-juan-antonio-nino-pulgar-weathering-the-pandemics-storm-and-gro
 <h3 style="text-align: justify;">About the Author</h3>
 [caption id="attachment_17492" align="aligncenter" width="300"]<img class="size-medium wp-image-17492" src="https://cfi.co/wp-content/uploads/2020/10/CEO-Juan-Antonio-Nino-300x212.jpg" alt="CEO: Juan Antonio Nino" width="300" height="212" /> <strong>Author:</strong> <a href="https://cfi.co/menu/corporate/2022/02/active-re-reaps-benefits-of-being-an-early-adopter-with-juan-antonio-nino/">Juan Antonio Niño</a>[/caption]
 <p style="text-align: justify;"><strong>Juan Antonio Niño Pulgar</strong> is the Chairman and CEO of Active Capital Reinsurance, Ltd.</p>
+<p><strong>Later development, 8 September 2026.</strong> AM Best assigned Active Re a financial strength rating of A (Excellent) in August 2023 and has affirmed it since, most recently on 4 September 2025, with a stable outlook. The rating stated in this article was that in force at the date of publication.</p>
