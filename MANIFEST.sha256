@@ -5612,6 +5612,8 @@ e03a58f4c32d094e6d5214870d9b82b1fcd05f2c2d36b6537dfc43f115dfd3d7  articles/2026/
 2eef33c00ff63b74d282b76e472e57c390d526d981af70d063e38e8f3340c1e2  articles/2026/28844-stablecoins-were-supposed-to-bypass-the-card-schemes-instead-the-schemes-are-pos.md
 4735056b7e5ea1e3d81d20220b118b7a11be43df3b303a1aa420e5d23ef5f878  articles/2026/28853-from-ledger-to-legacy-the-businesses-behind-some-of-the-worlds-largest-philanthr.json
 284ff51655b803a18905a2d6dd0daee8f0def2753f450b89aa2b09510b851a7c  articles/2026/28853-from-ledger-to-legacy-the-businesses-behind-some-of-the-worlds-largest-philanthr.md
+d95273ed2594daca6c76799bce2b0c8372e6ebad13590c5d6adfe0deef6f9761  articles/2026/28872-oil-at-the-edge-of-the-world.json
+6081b65889d2a197c35d562f214d55b6c8309c4385c4f5dd42635e9099297afc  articles/2026/28872-oil-at-the-edge-of-the-world.md
 06d907ecf9ab745b3b594575262fb4e347e3aa09af533299233a8c6e0e0c416e  conformance/cfi-textnorm-1.json
 5a388694c6a49edde2713071fc3af78c345e23a84ae7c21dcbe55d679a6a7b48  countersigs/2026-07-30-custodian.txt
 6e22e3e9575f92296fca916c3115dccc84ad98aca19330938dec49b8b93ed12f  countersigs/2026-07-30-custodian.txt.asc
@@ -5619,7 +5621,7 @@ c3761b56a4ccae86704dfb72057fc5c346a5c755ea88241395108893436c0478  countersigs/20
 30df4faaa73aafebec86539105cc3a2a85d4e87a127b552e5f4e71e5617c0dae  countersigs/2026-07-30-publisher.txt.asc
 f0ef767298ca18f2c491b4a023d07ed21455e26708134b80427c9391a194a749  countersigs/2026-07-31-custodian.txt
 ef81de61cec0d292ebe96a0cd64d829a3dc7237de7c6fd6ef9631ec00683bea0  countersigs/2026-07-31-custodian.txt.asc
-3fcb6a77e4ec81fe50a18d29270617f1379797e460d0d3bbc9fc0476ce6c235f  index.jsonl
+0db01665fb898d59ee6cca7b12aadfdefb53c75bdecd0523c1520944428403bc  index.jsonl
 b0a039ce4b7e49c3e1dce66304cf1962fdb8d6dd7d0fe099995de9a9daa64e3e  schema.json
 1626af2f8ed99c409057e4b74ae2a4ba0ae3eabc222427257b00f1def2b723ea  scripts/approved-bylines.json
 358c2571c9d7976419d334a395cf2201acaed25c09f2315ce395dec7da9584c6  scripts/cfi-textnorm-conformance.php
