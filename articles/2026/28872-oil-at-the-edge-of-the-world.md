@@ -16,7 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 8f47a79ba3cb7e2881f436b3432d82c9b7a26a553a0b6eae14b7e60bf030d5c6
 canonical: 28872-oil-at-the-edge-of-the-world.json
