@@ -5614,6 +5614,8 @@ e03a58f4c32d094e6d5214870d9b82b1fcd05f2c2d36b6537dfc43f115dfd3d7  articles/2026/
 284ff51655b803a18905a2d6dd0daee8f0def2753f450b89aa2b09510b851a7c  articles/2026/28853-from-ledger-to-legacy-the-businesses-behind-some-of-the-worlds-largest-philanthr.md
 df748fada475866b106f206532eae8855a7bd6ab24dcca5888bc77a787345e8f  articles/2026/28872-oil-at-the-edge-of-the-world.json
 ac2881950af1d39bc7fd29a2de7dc7e0128a8731fc47ef4bc4d1234e25caa272  articles/2026/28872-oil-at-the-edge-of-the-world.md
+857262e2706c03b0b19feb146006bbab3b361df55d324f6a9f87e8db8209ccf6  articles/2026/28876-the-barbarous-relic-that-refuses-to-die-gold-at-the-crossroads.json
+1f5479a58ba687b6d8537c02062cfa08020f7c1d2498406ede38315af24d7c5a  articles/2026/28876-the-barbarous-relic-that-refuses-to-die-gold-at-the-crossroads.md
 06d907ecf9ab745b3b594575262fb4e347e3aa09af533299233a8c6e0e0c416e  conformance/cfi-textnorm-1.json
 5a388694c6a49edde2713071fc3af78c345e23a84ae7c21dcbe55d679a6a7b48  countersigs/2026-07-30-custodian.txt
 6e22e3e9575f92296fca916c3115dccc84ad98aca19330938dec49b8b93ed12f  countersigs/2026-07-30-custodian.txt.asc
@@ -5621,7 +5623,7 @@ c3761b56a4ccae86704dfb72057fc5c346a5c755ea88241395108893436c0478  countersigs/20
 30df4faaa73aafebec86539105cc3a2a85d4e87a127b552e5f4e71e5617c0dae  countersigs/2026-07-30-publisher.txt.asc
 f0ef767298ca18f2c491b4a023d07ed21455e26708134b80427c9391a194a749  countersigs/2026-07-31-custodian.txt
 ef81de61cec0d292ebe96a0cd64d829a3dc7237de7c6fd6ef9631ec00683bea0  countersigs/2026-07-31-custodian.txt.asc
-bb229a3e60cc89554b1896ccdc864e8f0d808560e82d7dd6a07766c70be41f11  index.jsonl
+47de52a094065298001d026f51b500c7d0fa74459bf6659fc5913d3eba4719ed  index.jsonl
 b0a039ce4b7e49c3e1dce66304cf1962fdb8d6dd7d0fe099995de9a9daa64e3e  schema.json
 1626af2f8ed99c409057e4b74ae2a4ba0ae3eabc222427257b00f1def2b723ea  scripts/approved-bylines.json
 358c2571c9d7976419d334a395cf2201acaed25c09f2315ce395dec7da9584c6  scripts/cfi-textnorm-conformance.php
