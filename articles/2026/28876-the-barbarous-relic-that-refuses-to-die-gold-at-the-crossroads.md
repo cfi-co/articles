@@ -16,7 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 06681114a96bf9d4f61d3082aea5e91bd5b568e2b31fc69ea2b3c2e69b50495d
 canonical: 28876-the-barbarous-relic-that-refuses-to-die-gold-at-the-crossroads.json
