@@ -16,7 +16,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: archived
+wayback_first_snapshot: 20261003001826
+wayback_snapshot_url: "http://web.archive.org/web/20261003001826/https://cfi.co/europe/2026/10/the-north-sea-cash-cow-what-happened-to-britains-oil-and-gas-windfall/"
 license: CFI-OAAL-1.0
 content_sha256: cdef074ddff0f066ec35cbaa8498795f2b21ffe1f5d3a8621ad8e44036a89be0
 canonical: 28881-the-north-sea-cash-cow-what-happened-to-britains-oil-and-gas-windfall.json
