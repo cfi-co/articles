@@ -5618,6 +5618,8 @@ ac2881950af1d39bc7fd29a2de7dc7e0128a8731fc47ef4bc4d1234e25caa272  articles/2026/
 62684c59bd0a77382d7e4b26f305b2904b4fb305231d40f9f34493d02d8d304d  articles/2026/28876-the-barbarous-relic-that-refuses-to-die-gold-at-the-crossroads.md
 d93046b799f17c909ea8e0cb608701199e00c17b57c9945131c619623ec3819e  articles/2026/28881-the-north-sea-cash-cow-what-happened-to-britains-oil-and-gas-windfall.json
 d47f4d024e9c540cddaa10294f1af86116889f918ee21ebe4b684a8266481606  articles/2026/28881-the-north-sea-cash-cow-what-happened-to-britains-oil-and-gas-windfall.md
+1c1239b5861740a99768bbe38c98a13226a10057dd1de14b101664420bbc2a7e  articles/2026/28890-the-summer-the-debate-shifted-heat-money-and-the-cost-of-waiting.json
+6a41e18cd3b7d4a54058cf2b052e74ffe6edd2f9fbcbb984daa81ff6c383eee5  articles/2026/28890-the-summer-the-debate-shifted-heat-money-and-the-cost-of-waiting.md
 06d907ecf9ab745b3b594575262fb4e347e3aa09af533299233a8c6e0e0c416e  conformance/cfi-textnorm-1.json
 5a388694c6a49edde2713071fc3af78c345e23a84ae7c21dcbe55d679a6a7b48  countersigs/2026-07-30-custodian.txt
 6e22e3e9575f92296fca916c3115dccc84ad98aca19330938dec49b8b93ed12f  countersigs/2026-07-30-custodian.txt.asc
@@ -5625,7 +5627,7 @@ c3761b56a4ccae86704dfb72057fc5c346a5c755ea88241395108893436c0478  countersigs/20
 30df4faaa73aafebec86539105cc3a2a85d4e87a127b552e5f4e71e5617c0dae  countersigs/2026-07-30-publisher.txt.asc
 f0ef767298ca18f2c491b4a023d07ed21455e26708134b80427c9391a194a749  countersigs/2026-07-31-custodian.txt
 ef81de61cec0d292ebe96a0cd64d829a3dc7237de7c6fd6ef9631ec00683bea0  countersigs/2026-07-31-custodian.txt.asc
-5a0da7d708b0166c2675603bd16ca92057534e1e379b08906d9e1c44ffb73bd7  index.jsonl
+51c8e01c343f714e330c1814622973368cd2e31130a0086a24faf7a6b85846a7  index.jsonl
 b0a039ce4b7e49c3e1dce66304cf1962fdb8d6dd7d0fe099995de9a9daa64e3e  schema.json
 1626af2f8ed99c409057e4b74ae2a4ba0ae3eabc222427257b00f1def2b723ea  scripts/approved-bylines.json
 358c2571c9d7976419d334a395cf2201acaed25c09f2315ce395dec7da9584c6  scripts/cfi-textnorm-conformance.php
