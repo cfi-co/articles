@@ -16,7 +16,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: archived
+wayback_first_snapshot: 20261009144859
+wayback_snapshot_url: "http://web.archive.org/web/20261009144859/https://cfi.co/sustainability/2026/10/the-summer-the-debate-shifted-heat-money-and-the-cost-of-waiting/"
 license: CFI-OAAL-1.0
 content_sha256: 352bf92e85146696997a8b0c09efda7783da4c18c514f250dd282fe21d741beb
 canonical: 28890-the-summer-the-debate-shifted-heat-money-and-the-cost-of-waiting.json
