@@ -16,7 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 4d66ab5897a279d4a4f828dfbe7077937dcb35d12c7481bdee8efcf65f2cf106
 canonical: 28893-central-asias-mineral-exits-a-deal-to-mine-is-not-a-route-to-market.json

@@ -23,7 +23,7 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_check",
+        "wayback_status": "not_found",
         "wayback_first_snapshot": "",
         "wayback_snapshot_url": "",
         "license": "CFI-OAAL-1.0"
@@ -39,5 +39,5 @@
         "confirmed_utc": "2026-10-12T15:07:54Z",
         "confirmation_method": "editor_recorded"
     },
-    "record_sha256": "26c21aee64f294d1799442593da7dfd8aaa7e734fb499b605b3c89a22b1f487f"
+    "record_sha256": "6779631315b89d9887daff2a71372b1776cab1e383c542ac290fd062d8c356a5"
 }
