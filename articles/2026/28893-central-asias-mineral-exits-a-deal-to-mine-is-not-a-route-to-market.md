@@ -16,7 +16,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20261014050019
+wayback_snapshot_url: "http://web.archive.org/web/20261014050019/https://cfi.co/asia-pacific/2026/10/central-asias-mineral-exits-a-deal-to-mine-is-not-a-route-to-market/"
 license: CFI-OAAL-1.0
 content_sha256: 4d66ab5897a279d4a4f828dfbe7077937dcb35d12c7481bdee8efcf65f2cf106
 canonical: 28893-central-asias-mineral-exits-a-deal-to-mine-is-not-a-route-to-market.json
