@@ -16,7 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 891a1fcc3c2ff428033c900a9bb20eb7477253f3d3fe7b1333dcbbc878363d1a
 canonical: 28902-beyond-mineral-wealth-uzbekistans-opportunity-to-build-a-strategic-industry.json
