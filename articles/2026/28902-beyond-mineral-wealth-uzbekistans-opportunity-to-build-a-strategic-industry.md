@@ -16,7 +16,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20261017040204
+wayback_snapshot_url: "http://web.archive.org/web/20261017040204/https://cfi.co/asia-pacific/2026/10/beyond-mineral-wealth-uzbekistans-opportunity-to-build-a-strategic-industry/"
 license: CFI-OAAL-1.0
 content_sha256: 891a1fcc3c2ff428033c900a9bb20eb7477253f3d3fe7b1333dcbbc878363d1a
 canonical: 28902-beyond-mineral-wealth-uzbekistans-opportunity-to-build-a-strategic-industry.json
