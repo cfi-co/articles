@@ -17,7 +17,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: bbc5dbb3d3bc4f6df243473b0abf41e152a8da7f5d3973b6248c9fe0184e81aa
 canonical: 28912-vistra-removing-the-friction-from-cross-border-growth.json
