@@ -17,7 +17,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: a7c16bad9e19f71c396fbfb303cb9019ecba5d2c7e20a1ad80a983aec1258bd1
 canonical: 28911-leading-vistras-transformation-through-client-focus-digital-innovation-and-opera.json
