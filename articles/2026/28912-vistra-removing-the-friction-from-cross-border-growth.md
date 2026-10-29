@@ -17,7 +17,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20261028040139
+wayback_snapshot_url: "http://web.archive.org/web/20261028040139/https://cfi.co/asia-pacific/2026/10/vistra-removing-the-friction-from-cross-border-growth/"
 license: CFI-OAAL-1.0
 content_sha256: bbc5dbb3d3bc4f6df243473b0abf41e152a8da7f5d3973b6248c9fe0184e81aa
 canonical: 28912-vistra-removing-the-friction-from-cross-border-growth.json
