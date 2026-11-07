@@ -17,7 +17,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20261028040016
+wayback_snapshot_url: "http://web.archive.org/web/20261028040016/https://cfi.co/asia-pacific/2026/10/leading-vistras-transformation-through-client-focus-digital-innovation-and-operational-clarity/"
 license: CFI-OAAL-1.0
 content_sha256: a7c16bad9e19f71c396fbfb303cb9019ecba5d2c7e20a1ad80a983aec1258bd1
 canonical: 28911-leading-vistras-transformation-through-client-focus-digital-innovation-and-opera.json
