@@ -5628,8 +5628,8 @@ b5d66b8abdfb4133eb697d57b508c1a2253d975939f60fa5a6b3d2620e1270e6  articles/2026/
 7b13ba26e1ce051bfa65da404d7e37e7c9c763df35217333ce857515a27245c4  articles/2026/28911-leading-vistras-transformation-through-client-focus-digital-innovation-and-opera.md
 23d4cfc0a285197eff51623685c3782eb81cd226cdc86ce0baf52f1f35f7eacd  articles/2026/28912-vistra-removing-the-friction-from-cross-border-growth.json
 6cda89416c79d5d7cffb517885ff5580032899336a60ea5706686c277b9b0cae  articles/2026/28912-vistra-removing-the-friction-from-cross-border-growth.md
-f5ff30c25b6b616ec962c095d802a674fc291012784bdba3d9787fab2ad7c742  articles/2026/28921-diamonds-a-girls-best-friend-at-93-percent-off.json
-f1dfabae72313be8d49970229a15f9d177c20f7869d6d8f95b1ace244d4a1c2e  articles/2026/28921-diamonds-a-girls-best-friend-at-93-percent-off.md
+c40c15f83b40cec7ca3dc906680c46a168ca154e9d3fdf475e8b5db8ddec8aa2  articles/2026/28921-diamonds-a-girls-best-friend-at-93-percent-off.json
+4a60fcb557a28fe28ae4d3b90a4635936d9e21ea1440632771f69bfbb4ecfb92  articles/2026/28921-diamonds-a-girls-best-friend-at-93-percent-off.md
 06d907ecf9ab745b3b594575262fb4e347e3aa09af533299233a8c6e0e0c416e  conformance/cfi-textnorm-1.json
 5a388694c6a49edde2713071fc3af78c345e23a84ae7c21dcbe55d679a6a7b48  countersigs/2026-07-30-custodian.txt
 6e22e3e9575f92296fca916c3115dccc84ad98aca19330938dec49b8b93ed12f  countersigs/2026-07-30-custodian.txt.asc
@@ -5637,7 +5637,7 @@ c3761b56a4ccae86704dfb72057fc5c346a5c755ea88241395108893436c0478  countersigs/20
 30df4faaa73aafebec86539105cc3a2a85d4e87a127b552e5f4e71e5617c0dae  countersigs/2026-07-30-publisher.txt.asc
 f0ef767298ca18f2c491b4a023d07ed21455e26708134b80427c9391a194a749  countersigs/2026-07-31-custodian.txt
 ef81de61cec0d292ebe96a0cd64d829a3dc7237de7c6fd6ef9631ec00683bea0  countersigs/2026-07-31-custodian.txt.asc
-cc60ae92dce0119d5e37e2c0539d96d4e46191d06b69b1ff03dea213616f3804  index.jsonl
+d746b233104032f82e06854ed7ffe44a9ff49d5c2e2693f616d3c0a380aca6a7  index.jsonl
 b0a039ce4b7e49c3e1dce66304cf1962fdb8d6dd7d0fe099995de9a9daa64e3e  schema.json
 1626af2f8ed99c409057e4b74ae2a4ba0ae3eabc222427257b00f1def2b723ea  scripts/approved-bylines.json
 358c2571c9d7976419d334a395cf2201acaed25c09f2315ce395dec7da9584c6  scripts/cfi-textnorm-conformance.php
