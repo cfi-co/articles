@@ -16,7 +16,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20261108040009
+wayback_snapshot_url: "http://web.archive.org/web/20261108040009/https://cfi.co/menu/lifestyle-menu/2026/11/diamonds-a-girls-best-friend-at-93-percent-off/"
 license: CFI-OAAL-1.0
 content_sha256: a5e3a874a967945c0713d0aaa2906affad9d1a83ce5d6c74eb673d42f6802d9f
 canonical: 28921-diamonds-a-girls-best-friend-at-93-percent-off.json
