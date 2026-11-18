@@ -1,0 +1,77 @@
+---
+id: 28928
+title: "Ten Minutes That Took India Public"
+year: 2026
+published: 2026-11-17 13:31:22
+published_gmt: 2026-11-17 13:31:22
+author: "CFI.co Editorial"
+url: "https://cfi.co/asia-pacific/2026/11/ten-minutes-that-took-india-public/"
+categories: ["Asia Pacific", "Innovation &amp; Technology", "Technology"]
+content_class: editorial_analysis
+independence_status: independent_editorial
+independence_basis: assessed
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_check
+license: CFI-OAAL-1.0
+content_sha256: 1bfbcfa516ae3ecba67d97b6162653e5d046cc7145dfb4dbdfbe98cb4c275f28
+canonical: 28928-ten-minutes-that-took-india-public.json
+---
+
+# Ten Minutes That Took India Public
+
+> Verbatim archived copy. Canonical machine record: `28928-ten-minutes-that-took-india-public.json`.
+
+<p style="text-align: justify;"><strong>India’s advantage is scale wired for software: a billion-user digital public infrastructure and a talent machine that increasingly pulls its emigrants home. Aadit Palicha left Stanford at 19, built Zepto’s ten-minute delivery empire from Mumbai, and is taking it to the stock market before turning 25.</strong></p>
+<p style="text-align: justify;">Every Asian ecosystem surveyed in these pages offers founders something distinctive. China offers industrial policy, Singapore order and Japan awakening capital. India offers what none of them can quite match: the last billion-person market still open to entrepreneurial capitalism, wired over the past decade for software with a thoroughness the rich world has rarely attempted.</p>
+<img class="aligncenter size-large wp-image-28929" src="https://cfi.co/wp-content/uploads/2026/11/Zepto-1024x536.jpg" alt="Zepto" width="900" height="471" />
+<p style="text-align: justify;">Its advantage is best understood as three layers: people, rails and belief. The people layer is demographic cliché made real — a median age around 28, hundreds of millions of first-generation internet users and a vast output of engineers, augmented by a returnee loop that brings emigrants home with networks attached.</p>
+<p style="text-align: justify;">The rails are the under-appreciated marvel. India Stack and, above all, UPI gave founders what Pix gave Brazilians and M-Pesa gave Kenyans: low-friction infrastructure on which private fortunes could be built. The belief layer is newer. Indian public markets have learned to price consumer internet companies, giving founders a domestic exit that most emerging markets still lack.</p>
+<p style="text-align: justify;">Nothing demonstrates all three layers at once better than Zepto, the quick-commerce company built by two young returnees and now heading towards the public market. It is a transition with consequences beyond one company.</p>
+
+<h3 style="text-align: justify;">Three Layers of Advantage</h3>
+<p style="text-align: justify;">Each layer has a date attached. The people layer was accelerated in 2016, when Jio’s price war made mobile data dramatically cheaper and pulled hundreds of millions of Indians online within a few years. The result was a vast greenfield consumer internet market.</p>
+<p style="text-align: justify;">The rails layer compounded as UPI grew from experiment to utility. Street vendors and billion-dollar applications now operate on the same public payments infrastructure, lowering friction across the market.</p>
+<p style="text-align: justify;">The belief layer followed the listings of Zomato and its successors, which proved that Indian exchanges would absorb consumer internet companies and then discipline them in public. That domestic exit route matters because it changes where founders incorporate, where investors expect liquidity and where successful companies choose to remain.</p>
+<p style="text-align: justify;">Beneath all three sits a talent subsidy no rival can easily copy. Global capability centres employ vast numbers of Indian engineers, creating a pool of technically trained, internationally exposed operators from which founders emerge. A deep venture bench, led by firms such as Peak XV, stands ready to fund them.</p>
+
+<h3 style="text-align: justify;">Leaving Stanford the Right Way Round</h3>
+<p style="text-align: justify;">Aadit Palicha’s biography compresses the returnee loop into a single life. Born in Mumbai in 2001 and raised largely in Dubai, he excelled academically and formed a childhood friendship with Kaivalya Vohra, with whom he built an early carpooling app for school parents.</p>
+<p style="text-align: justify;">Both won places to study computer science at Stanford, the conventional destination for elite technical talent from the region. Both left within a year, but in the direction that matters here: home.</p>
+<p style="text-align: justify;">Locked down in Mumbai in 2020, they watched grocery delivery collapse under pandemic demand. Their first attempt, KiranaKart, was reworked and relaunched in 2021 as Zepto, named for an infinitesimal unit of time, with a promise the industry considered somewhere between naïve and impossible: groceries in ten minutes.</p>
+<p style="text-align: justify;">The scepticism was rational. Instant delivery has a long graveyard, and many ventures discovered that speed is easy to promise and ruinous to sustain.</p>
+<p style="text-align: justify;">What sceptics underestimated was that the economics are not universal. They are conditional, and the conditions happen to describe Indian megacities unusually well.</p>
+
+<h3 style="text-align: justify;">The Ten-Minute Operating System</h3>
+<p style="text-align: justify;">Zepto’s model rests on dark stores — compact warehouses placed close to dense customer clusters — stocked through demand forecasts at individual-item level. Picking routes, dispatch and courier allocation are then optimised continuously to defend the ten-minute pledge.</p>
+<p style="text-align: justify;">Two nineteen-year-olds proposing to out-execute India’s logistics incumbents on one of retail’s hardest operating problems should have failed. Instead, they raised from Y Combinator onwards and helped turn quick commerce into one of the fastest-growing segments of the Indian internet economy.</p>
+<p style="text-align: justify;">The insight beneath the stopwatch is that ten-minute delivery is particularly viable in dense Indian cities. It benefits from compact neighbourhoods, affordable courier fleets and consumers who buy smaller amounts more frequently.</p>
+<p style="text-align: justify;">Palicha understood that the promise was not merely marketing but a forcing function. Commit publicly to ten minutes and every internal system — forecasting, stocking, picking and dispatch — must be engineered to remove delay. The promise therefore became the architecture of the company.</p>
+<p style="text-align: justify;">The model has since produced adjacent revenue streams. Zepto Cafe prepares food from the same network, advertising gives brands access to high-intent customers, and wholesale supply creates another margin layer around infrastructure already paid for by the core business.</p>
+
+<h3 style="text-align: justify;">Numbers at Indian Scale</h3>
+<p style="text-align: justify;">By the financial year ending March 2026, Zepto had reached a scale that largely settled the argument over whether the category itself was real. The company operated more than 1,000 dark stores across dozens of cities, with revenue from operations more than doubling year on year and order volumes reaching extraordinary levels.</p>
+<p style="text-align: justify;">The losses remain real. Quick commerce is a knife-fight against Blinkit and Swiggy Instamart, and the category has attracted government scrutiny over rider welfare and the safety implications of the ten-minute promise.</p>
+<p style="text-align: justify;">Palicha has responded as an operator rather than a publicist. He has pointed to insurance and welfare programmes for gig workers and argued that tightly located dark stores reduce the need for long, incentive-driven journeys, though critics continue to question whether the time promise itself creates pressure.</p>
+<p style="text-align: justify;">He has also had to defend the model’s economics against longstanding scepticism. His strongest answer is operational detail: picking times, wastage, orders per store, delivery density and customer frequency.</p>
+<p style="text-align: justify;">The capital markets have continued to support the company. A large late-2025 financing led by CalPERS valued Zepto at about $7bn, while in 2026 the securities regulator approved plans for a substantial domestic flotation.</p>
+<p style="text-align: justify;">Two details carry much of the wider argument. Neither founder is expected to sell shares in the offering, and the company reversed its domicile from Singapore back to India in preparation for listing at home.</p>
+<p style="text-align: justify;">That reversal is more than technical housekeeping. Earlier Indian startups often incorporated offshore; Zepto is moving the other way because its founders trust domestic markets to finance the next stage.</p>
+
+<h3 style="text-align: justify;">The Youngest Man on the Ticker</h3>
+<p style="text-align: justify;">When the listing completes, Palicha will still be in his early twenties and is expected to become one of the youngest chief executives of a major listed company anywhere. The symbolism matters more than the record.</p>
+<p style="text-align: justify;">A generation ago, his profile had a predictable script: Dubai schooling, Stanford computer science, elite technical ability, then a career in California enriching the American machine. Palicha ran the script backwards.</p>
+<p style="text-align: justify;">The infrastructure that made that rational is India’s true entrepreneurial advantage. UPI moves the money, dense cities make ten-minute delivery physically plausible, domestic capital absorbs the losses and a domestic exchange can now price the outcome.</p>
+<p style="text-align: justify;">The talent was never the missing ingredient. What changed is that India began giving its young founders enough reasons — and enough rails — to build at home. That combination changes the psychology of return. A founder no longer has to choose between ambition and an Indian base; the market, capital and infrastructure needed to pursue both increasingly sit in the same place, altering the career calculus before a company starts.</p>
+<p style="text-align: justify;">That shift is visible beyond Zepto. Returnees increasingly see India not as the place they came from but as the largest market they can attack, while founders who never left now have better access to capital, infrastructure and sophisticated customers than any previous generation.</p>
+<p style="text-align: justify;">The result is one of the emerging world’s deepest founder pipelines. Engineering experience, digital infrastructure, venture capital and domestic exits now reinforce one another.</p>
+<p style="text-align: justify;">The risks remain substantial. Quick commerce still has to prove durable profitability, public investors may be less forgiving than private ones, and the economics of ten-minute delivery remain fiercely contested. Yet that is precisely why the planned listing matters: the company is moving from venture conviction to public-market judgement.</p>
+<p style="text-align: justify;">Palicha and Vohra are therefore more than young founders with a fast delivery company. They are evidence that India’s returnee loop has changed direction. The country once exported its brightest technical talent because opportunity demanded it; increasingly, the opportunity itself is at home.</p>
+<p style="text-align: justify;">Zepto’s ten-minute promise may or may not prove the final form of Indian commerce. What matters for this survey is that two students could leave Stanford, return to Mumbai, build at national scale and then choose an Indian exchange for the next stage. The clock is not the point. The reversal is.</p>
+
+<!-- cfi-governance-stamp:v1 written-once-at-publication do-not-edit -->
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CreativeWork","name":"CFI.co Governance - Public Edition v1.0 (internal v3.0)","url":"https://cfi.co/governance/","version":"Public Edition v1.0 (internal v3.0)","dateCreated":"2026-08-01","sha256":"6829072874467AB111D4A68C3A1D36FF111E5ACA52501B2EB13E287130B567CB"}</script>
