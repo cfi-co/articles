@@ -16,7 +16,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 1bfbcfa516ae3ecba67d97b6162653e5d046cc7145dfb4dbdfbe98cb4c275f28
 canonical: 28928-ten-minutes-that-took-india-public.json
