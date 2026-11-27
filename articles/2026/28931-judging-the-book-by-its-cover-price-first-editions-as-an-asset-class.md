@@ -16,7 +16,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20261126040042
+wayback_snapshot_url: "http://web.archive.org/web/20261126040042/https://cfi.co/finance/2026/11/judging-the-book-by-its-cover-price-first-editions-as-an-asset-class/"
 license: CFI-OAAL-1.0
 content_sha256: e2bdec8d0b39b2e52d7a935059f91a8ae04ebf2505a90dabbf4bc1dd47164991
 canonical: 28931-judging-the-book-by-its-cover-price-first-editions-as-an-asset-class.json
